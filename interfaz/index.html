@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Oliv-IA · Asistente Jurídico</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Roboto:400,500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy: #0b1f3a;
+    --navy-dark: #071527;
+    --teal: #17aab6;
+    --teal-dark: #128a94;
+    --orange: #f5a623;
+    --orange-dark: #d98c12;
+    --gray-bg: #f8f9fa;
+    --gray-border: #e2e6ea;
+    --text-dark: #1c2b3a;
+    --text-muted: #6b7785;
+    --white: #ffffff;
+  }
+
+  *{box-sizing:border-box;}
+
+  body{
+    margin:0;
+    font-family:'Roboto', sans-serif;
+    background:var(--gray-bg);
+    color:var(--text-dark);
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+  }
+
+  header{
+    background:var(--navy);
+    background-image: linear-gradient(120deg, var(--navy) 0%, var(--navy-dark) 100%);
+    color:var(--white);
+    padding:14px 28px;
+    display:flex;
+    align-items:center;
+    gap:14px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.15);
+    flex-shrink:0;
+  }
+
+  .logo-hex{
+    width:38px;
+    height:38px;
+    flex-shrink:0;
+  }
+
+  header h1{
+    font-family:'Montserrat', sans-serif;
+    font-size:20px;
+    font-weight:700;
+    margin:0;
+    letter-spacing:0.3px;
+  }
+
+  header .subtitle{
+    font-size:12px;
+    color:#b9c6d6;
+    margin-top:2px;
+    font-weight:400;
+  }
+
+  header .brand-tag{
+    margin-left:auto;
+    font-size:11px;
+    color:#8fa2b8;
+    text-align:right;
+    line-height:1.4;
+    font-family:'Montserrat', sans-serif;
+  }
+  header .brand-tag strong{
+    color:var(--teal);
+    font-weight:700;
+  }
+
+  main{
+    flex:1;
+    display:flex;
+    justify-content:center;
+    overflow:hidden;
+    padding:20px;
+  }
+
+  .chat-container{
+    width:100%;
+    max-width:820px;
+    display:flex;
+    flex-direction:column;
+    background:var(--white);
+    border-radius:12px;
+    border:1px solid var(--gray-border);
+    box-shadow:0 4px 18px rgba(11,31,58,0.08);
+    overflow:hidden;
+  }
+
+  .chat-log{
+    flex:1;
+    overflow-y:auto;
+    padding:22px;
+    display:flex;
+    flex-direction:column;
+    gap:16px;
+  }
+
+  .empty-state{
+    margin:auto;
+    text-align:center;
+    color:var(--text-muted);
+    max-width:420px;
+  }
+  .empty-state .logo-hex{
+    width:56px;
+    height:56px;
+    margin:0 auto 14px;
+    opacity:0.85;
+  }
+  .empty-state h2{
+    font-family:'Montserrat', sans-serif;
+    color:var(--navy);
+    font-size:17px;
+    margin:0 0 8px;
+  }
+  .empty-state p{
+    font-size:13.5px;
+    line-height:1.5;
+    margin:0;
+  }
+
+  .msg{
+    max-width:80%;
+    padding:12px 16px;
+    border-radius:14px;
+    font-size:14.5px;
+    line-height:1.55;
+    white-space:pre-wrap;
+    word-wrap:break-word;
+  }
+
+  .msg.user{
+    align-self:flex-end;
+    background:var(--teal);
+    color:#fff;
+    border-bottom-right-radius:4px;
+  }
+
+  .msg.bot{
+    align-self:flex-start;
+    background:var(--gray-bg);
+    border:1px solid var(--gray-border);
+    color:var(--text-dark);
+    border-bottom-left-radius:4px;
+  }
+
+  .msg.bot.pending{
+    color:var(--text-muted);
+    font-style:italic;
+  }
+
+  .msg.bot.error{
+    background:#fdecea;
+    border-color:#f3c2bd;
+    color:#9a3324;
+  }
+
+  .msg-label{
+    display:block;
+    font-family:'Montserrat', sans-serif;
+    font-size:10.5px;
+    font-weight:700;
+    letter-spacing:0.4px;
+    text-transform:uppercase;
+    margin-bottom:5px;
+    opacity:0.65;
+  }
+
+  .typing-dots span{
+    display:inline-block;
+    width:6px;
+    height:6px;
+    margin-right:3px;
+    background:var(--text-muted);
+    border-radius:50%;
+    animation:blink 1.2s infinite ease-in-out;
+  }
+  .typing-dots span:nth-child(2){ animation-delay:0.2s; }
+  .typing-dots span:nth-child(3){ animation-delay:0.4s; }
+  @keyframes blink{
+    0%, 80%, 100% { opacity:0.25; }
+    40% { opacity:1; }
+  }
+
+  .input-bar{
+    border-top:1px solid var(--gray-border);
+    padding:14px 18px;
+    display:flex;
+    gap:10px;
+    align-items:flex-end;
+    background:var(--white);
+  }
+
+  #question{
+    flex:1;
+    resize:none;
+    border:1px solid var(--gray-border);
+    border-radius:10px;
+    padding:11px 14px;
+    font-family:'Roboto', sans-serif;
+    font-size:14.5px;
+    line-height:1.4;
+    max-height:120px;
+    outline:none;
+    transition:border-color 0.15s;
+  }
+  #question:focus{
+    border-color:var(--teal);
+    box-shadow:0 0 0 3px rgba(23,170,182,0.12);
+  }
+
+  #send-btn{
+    background:var(--orange);
+    color:#fff;
+    border:none;
+    border-radius:10px;
+    padding:11px 22px;
+    font-family:'Montserrat', sans-serif;
+    font-weight:600;
+    font-size:14px;
+    cursor:pointer;
+    transition:background 0.15s;
+    flex-shrink:0;
+  }
+  #send-btn:hover:not(:disabled){ background:var(--orange-dark); }
+  #send-btn:disabled{
+    background:#d9dde1;
+    cursor:not-allowed;
+  }
+
+  footer{
+    text-align:center;
+    font-size:11px;
+    color:var(--text-muted);
+    padding:8px 0 14px;
+    flex-shrink:0;
+  }
+  footer strong{ color:var(--teal-dark); }
+</style>
+</head>
+<body>
+
+<header>
+  <svg class="logo-hex" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="50,3 93,26 93,74 50,97 7,74 7,26" fill="none" stroke="#f5a623" stroke-width="6"/>
+    <polygon points="50,20 78,35 78,65 50,80 22,65 22,35" fill="none" stroke="#17aab6" stroke-width="6"/>
+  </svg>
+  <div>
+    <h1>Oliv-IA</h1>
+    <div class="subtitle">Asistente jurídico · Derecho colombiano</div>
+  </div>
+  <div class="brand-tag">Hackathon 2026<br><strong>Software Colombia</strong></div>
+</header>
+
+<main>
+  <div class="chat-container">
+    <div class="chat-log" id="chat-log">
+      <div class="empty-state" id="empty-state">
+        <svg class="logo-hex" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+          <polygon points="50,3 93,26 93,74 50,97 7,74 7,26" fill="none" stroke="#f5a623" stroke-width="6"/>
+          <polygon points="50,20 78,35 78,65 50,80 22,65 22,35" fill="none" stroke="#17aab6" stroke-width="6"/>
+        </svg>
+        <h2>Haz una pregunta jurídica</h2>
+        <p>Escribe tu consulta sobre derecho colombiano y Oliv-IA te responderá con el respaldo del sistema.</p>
+      </div>
+    </div>
+
+    <div class="input-bar">
+      <textarea id="question" rows="1" placeholder="Escribe tu pregunta jurídica..."></textarea>
+      <button id="send-btn">Enviar</button>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Prototipo de interfaz · <strong>Oliv-IA</strong> — inspirado en la identidad visual de Software Colombia
+</footer>
+
+<script>
+  // --- Configuración de conexión al modelo -------------------------------
+  // Reemplazar por el endpoint real del backend/modelo cuando esté listo.
+  // Debe aceptar POST { pregunta: string } y responder JSON o texto plano
+  // con la respuesta del modelo.
+  const MODEL_ENDPOINT = "/api/consulta";
+
+  const chatLog = document.getElementById('chat-log');
+  const emptyState = document.getElementById('empty-state');
+  const questionInput = document.getElementById('question');
+  const sendBtn = document.getElementById('send-btn');
+
+  function scrollToBottom(){
+    chatLog.scrollTop = chatLog.scrollHeight;
+  }
+
+  function addMessage(text, sender, extraClass){
+    if (emptyState) emptyState.remove();
+    const msg = document.createElement('div');
+    msg.className = `msg ${sender}${extraClass ? ' ' + extraClass : ''}`;
+
+    const label = document.createElement('span');
+    label.className = 'msg-label';
+    label.textContent = sender === 'user' ? 'Tu consulta' : 'Oliv-IA';
+    msg.appendChild(label);
+
+    const body = document.createElement('span');
+    body.textContent = text;
+    msg.appendChild(body);
+
+    chatLog.appendChild(msg);
+    scrollToBottom();
+    return msg;
+  }
+
+  function addPendingMessage(){
+    if (emptyState) emptyState.remove();
+    const msg = document.createElement('div');
+    msg.className = 'msg bot pending';
+    msg.innerHTML = '<span class="msg-label">Oliv-IA</span><span class="typing-dots"><span></span><span></span><span></span></span>';
+    chatLog.appendChild(msg);
+    scrollToBottom();
+    return msg;
+  }
+
+  async function askModel(pregunta){
+    const response = await fetch(MODEL_ENDPOINT, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ pregunta })
+    });
+
+    if (!response.ok) {
+      throw new Error(`El servidor respondió con estado ${response.status}`);
+    }
+
+    const contentType = response.headers.get('content-type') || '';
+    if (contentType.includes('application/json')) {
+      const data = await response.json();
+      // Se espera un campo de texto con la respuesta del modelo.
+      // Ajustar aquí si el backend usa otra llave (p.ej. "respuesta", "analisis").
+      return data.respuesta || data.answer || data.texto || JSON.stringify(data, null, 2);
+    }
+    return await response.text();
+  }
+
+  async function handleSend(){
+    const pregunta = questionInput.value.trim();
+    if (!pregunta) return;
+
+    addMessage(pregunta, 'user');
+    questionInput.value = '';
+    questionInput.style.height = 'auto';
+    sendBtn.disabled = true;
+
+    const pendingMsg = addPendingMessage();
+
+    try {
+      const respuesta = await askModel(pregunta);
+      pendingMsg.remove();
+      addMessage(respuesta, 'bot');
+    } catch (err) {
+      pendingMsg.remove();
+      addMessage(
+        `No fue posible obtener una respuesta del modelo (${err.message}). Verifica que el backend esté disponible en ${MODEL_ENDPOINT}.`,
+        'bot',
+        'error'
+      );
+    } finally {
+      sendBtn.disabled = false;
+      questionInput.focus();
+    }
+  }
+
+  sendBtn.addEventListener('click', handleSend);
+
+  questionInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSend();
+    }
+  });
+
+  questionInput.addEventListener('input', () => {
+    questionInput.style.height = 'auto';
+    questionInput.style.height = Math.min(questionInput.scrollHeight, 120) + 'px';
+  });
+</script>
+
+</body>
+</html>
