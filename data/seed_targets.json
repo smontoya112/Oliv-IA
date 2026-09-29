@@ -39,7 +39,7 @@
         "Derecho procesal",
         "Derecho tributario"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Codigo%20general%20proceso"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
     },
     {
       "norma": "Codigo sustantivo trabajo",
@@ -52,7 +52,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Codigo%20sustantivo%20trabajo"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
     },
     {
       "norma": "Estatuto tributario",
@@ -67,7 +67,7 @@
         "Derecho constitucional",
         "Derecho tributario"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Estatuto%20tributario"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
     },
     {
       "norma": "Decision andina 486",
@@ -81,7 +81,8 @@
         "Derecho comercial y sociedades",
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Decision%20andina%20486"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin URL de resultado directo estable: buscar \"Decision Andina 486 de 2000\" en el Buscador de Normas de SUIN-Juriscol, o en el sitio de la Comunidad Andina (comunidadandina.org)."
     },
     {
       "norma": "Estatuto consumidor",
@@ -95,7 +96,7 @@
         "Derecho civil",
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Estatuto%20consumidor"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1480_2011.html"
     },
     {
       "norma": "Ley 80 de 1993",
@@ -109,7 +110,7 @@
         "Derecho administrativo",
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2080%20de%201993"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html"
     },
     {
       "norma": "Ley 2220 de 2022",
@@ -123,7 +124,7 @@
         "Derecho civil",
         "Derecho procesal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202220%20de%202022"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2220_2022.html"
     },
     {
       "norma": "Decreto 2153 de 1992",
@@ -136,7 +137,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%202153%20de%201992"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2153_1992.html"
     },
     {
       "norma": "Sentencia C-355 de 2006",
@@ -150,7 +151,8 @@
         "Derecho constitucional",
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-355%20de%202006"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-355 de 2006\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Ley 1116 de 2006",
@@ -164,7 +166,7 @@
         "Derecho comercial y sociedades",
         "Derecho procesal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201116%20de%202006"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1116_2006.html"
     },
     {
       "norma": "Ley 1581 de 2012",
@@ -179,7 +181,7 @@
         "Derecho constitucional",
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201581%20de%202012"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html"
     },
     {
       "norma": "Codigo infancia",
@@ -192,7 +194,7 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Codigo%20infancia"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1098_2006.html"
     },
     {
       "norma": "Sentencia C-207 de 2019",
@@ -205,7 +207,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-207%20de%202019"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-207 de 2019\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SL-3385 de 2022",
@@ -218,7 +221,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SL-3385%20de%202022"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Laboral), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SL-3385 de 2022\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia T-323 de 2024",
@@ -231,7 +235,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-323%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-323 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Ley 1258 de 2008",
@@ -244,7 +249,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201258%20de%202008"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html"
     },
     {
       "norma": "Sentencia C-394 de 2017",
@@ -258,7 +263,8 @@
         "Derecho constitucional",
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-394%20de%202017"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-394 de 2017\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-55 de 2022",
@@ -272,7 +278,8 @@
         "Derecho constitucional",
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-55%20de%202022"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-55 de 2022\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-315 de 2025",
@@ -285,7 +292,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-315%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-315 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-243 de 2018",
@@ -298,7 +306,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-243%20de%202018"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-243 de 2018\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-760 de 2008",
@@ -312,7 +321,8 @@
         "Derecho administrativo",
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-760%20de%202008"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-760 de 2008\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Ley 1010 de 2006",
@@ -325,7 +335,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201010%20de%202006"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1010_2006.html"
     },
     {
       "norma": "Ley 1150 de 2007",
@@ -338,7 +348,7 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201150%20de%202007"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1150_2007.html"
     },
     {
       "norma": "Ley 1340 de 2009",
@@ -351,7 +361,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201340%20de%202009"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1340_2009.html"
     },
     {
       "norma": "Ley 153 de 1887",
@@ -365,7 +375,8 @@
         "Derecho civil",
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20153%20de%201887"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 153 de 1887\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 2437 de 2024",
@@ -379,7 +390,7 @@
         "Derecho civil",
         "Derecho procesal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202437%20de%202024"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2437_2024.html"
     },
     {
       "norma": "Ley 54 de 1990",
@@ -392,7 +403,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2054%20de%201990"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 54 de 1990\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 979 de 2005",
@@ -405,7 +417,7 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20979%20de%202005"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0979_2005.html"
     },
     {
       "norma": "Decreto 1563 de 2012",
@@ -418,7 +430,8 @@
       "areas": [
         "Derecho procesal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%201563%20de%202012"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 1563 de 2012\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Sentencia C-117 de 2018",
@@ -431,7 +444,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-117%20de%202018"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-117 de 2018\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-127 de 2011",
@@ -444,7 +458,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-127%20de%202011"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-127 de 2011\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-134 de 2019",
@@ -458,7 +473,8 @@
         "Derecho constitucional",
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-134%20de%202019"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-134 de 2019\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-15 de 2018",
@@ -472,7 +488,8 @@
         "Derecho constitucional",
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-15%20de%202018"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-15 de 2018\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-164 de 2022",
@@ -486,7 +503,8 @@
         "Derecho constitucional",
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-164%20de%202022"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-164 de 2022\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-259 de 2015",
@@ -500,7 +518,8 @@
         "Derecho administrativo",
         "Derecho procesal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-259%20de%202015"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-259 de 2015\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-35 de 2009",
@@ -513,7 +532,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-35%20de%202009"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-35 de 2009\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-431 de 2001",
@@ -527,7 +547,8 @@
         "Derecho constitucional",
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-431%20de%202001"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-431 de 2001\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-500 de 2024",
@@ -541,7 +562,8 @@
         "Derecho procesal",
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-500%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-500 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-507 de 2004",
@@ -554,7 +576,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-507%20de%202004"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-507 de 2004\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-540 de 2023",
@@ -567,7 +590,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-540%20de%202023"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-540 de 2023\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-582 de 1999",
@@ -580,7 +604,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-582%20de%201999"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-582 de 1999\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-746 de 2011",
@@ -594,7 +619,8 @@
         "Derecho constitucional",
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-746%20de%202011"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-746 de 2011\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-748 de 2011",
@@ -608,7 +634,8 @@
         "Derecho civil",
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-748%20de%202011"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-748 de 2011\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-94 de 2021",
@@ -621,7 +648,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-94%20de%202021"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-94 de 2021\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-96 de 2024",
@@ -634,7 +662,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-96%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-96 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SL-648 de 2018",
@@ -647,7 +676,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SL-648%20de%202018"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Laboral), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SL-648 de 2018\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SP-1680 de 2022",
@@ -660,7 +690,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SP-1680%20de%202022"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Penal), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SP-1680 de 2022\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SP-1945 de 2019",
@@ -673,7 +704,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SP-1945%20de%202019"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Penal), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SP-1945 de 2019\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SU-111 de 2025",
@@ -686,7 +718,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-111%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-111 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-214 de 2016",
@@ -699,7 +732,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-214%20de%202016"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-214 de 2016\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-547 de 2017",
@@ -713,7 +747,8 @@
         "Derecho constitucional",
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-547%20de%202017"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-547 de 2017\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Ley 1095 de 2006",
@@ -727,7 +762,7 @@
         "Derecho constitucional",
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201095%20de%202006"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1095_2006.html"
     },
     {
       "norma": "Ley 2141 de 2021",
@@ -741,7 +776,7 @@
         "Derecho constitucional",
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202141%20de%202021"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2141_2021.html"
     },
     {
       "norma": "Ley 2452 de 2025",
@@ -754,7 +789,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202452%20de%202025"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
     },
     {
       "norma": "Ley 2466 de 2025",
@@ -767,7 +802,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202466%20de%202025"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html"
     },
     {
       "norma": "Ley 256 de 1996",
@@ -780,7 +815,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20256%20de%201996"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0256_1996.html"
     },
     {
       "norma": "Ley 50 de 1990",
@@ -793,7 +828,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2050%20de%201990"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 50 de 1990\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Acuerdo 02 de 2015",
@@ -819,7 +855,7 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Codigo%20disciplinario"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1952_2019.html"
     },
     {
       "norma": "Codigo nacional policia",
@@ -832,7 +868,7 @@
       "areas": [
         "Derecho procesal"
       ],
-      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/?q=Codigo%20nacional%20policia"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1801_2016.html"
     },
     {
       "norma": "Decreto 046 de 2024",
@@ -845,7 +881,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20046%20de%202024"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 046 de 2024\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 1082 de 2015",
@@ -858,7 +895,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%201082%20de%202015"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 1082 de 2015\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 1742 de 2020",
@@ -871,7 +909,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%201742%20de%202020"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1742_2020.html"
     },
     {
       "norma": "Decreto 175 de 2025",
@@ -884,7 +922,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20175%20de%202025"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0175_2025.html"
     },
     {
       "norma": "Decreto 2067 de 1991",
@@ -897,7 +935,7 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%202067%20de%201991"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2067_1991.html"
     },
     {
       "norma": "Decreto 24 de 2016",
@@ -910,7 +948,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%2024%20de%202016"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 24 de 2016\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 405 de 2025",
@@ -923,7 +962,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20405%20de%202025"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 405 de 2025\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 4334 de 2008",
@@ -936,7 +976,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%204334%20de%202008"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_4334_2008.html"
     },
     {
       "norma": "Decreto 4436 de 2005",
@@ -949,7 +989,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%204436%20de%202005"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 4436 de 2005\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 4886 de 2011",
@@ -962,7 +1003,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%204886%20de%202011"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_4886_2011.html"
     },
     {
       "norma": "Decreto 663 de 1993",
@@ -975,7 +1016,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20663%20de%201993"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 663 de 1993\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 780 de 2016",
@@ -988,7 +1030,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20780%20de%202016"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 780 de 2016\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 875 de 2008",
@@ -1001,7 +1044,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20875%20de%202008"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Decreto 875 de 2008\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Decreto 960 de 1970",
@@ -1014,7 +1058,7 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Decreto%20960%20de%201970"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970.html"
     },
     {
       "norma": "Sentencia C-1033 de 2002",
@@ -1027,7 +1071,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-1033%20de%202002"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-1033 de 2002\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-106 de 2018",
@@ -1040,7 +1085,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-106%20de%202018"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-106 de 2018\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-1189 de 2000",
@@ -1053,7 +1099,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-1189%20de%202000"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-1189 de 2000\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-131 de 2018",
@@ -1066,7 +1113,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-131%20de%202018"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-131 de 2018\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-145 de 2018",
@@ -1079,7 +1127,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-145%20de%202018"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-145 de 2018\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-145 de 2020",
@@ -1092,7 +1141,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-145%20de%202020"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-145 de 2020\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-149 de 1993",
@@ -1105,7 +1155,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-149%20de%201993"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-149 de 1993\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-170 de 2004",
@@ -1118,7 +1169,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-170%20de%202004"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-170 de 2004\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-183 de 2025",
@@ -1131,7 +1183,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-183%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-183 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-201 de 2002",
@@ -1144,7 +1197,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-201%20de%202002"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-201 de 2002\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-22 de 1996",
@@ -1157,7 +1211,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-22%20de%201996"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-22 de 1996\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-225 de 1995",
@@ -1170,7 +1225,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-225%20de%201995"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-225 de 1995\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-233 de 2021",
@@ -1183,7 +1239,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-233%20de%202021"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-233 de 2021\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-239 de 1997",
@@ -1196,7 +1253,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-239%20de%201997"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-239 de 1997\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-276 de 2025",
@@ -1209,7 +1267,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-276%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-276 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-332 de 2025",
@@ -1222,7 +1281,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-332%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-332 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-335 de 2008",
@@ -1235,7 +1295,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-335%20de%202008"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-335 de 2008\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-345 de 2017",
@@ -1248,7 +1309,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-345%20de%202017"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-345 de 2017\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-389 de 2023",
@@ -1261,7 +1323,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-389%20de%202023"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-389 de 2023\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-39 de 2025",
@@ -1274,7 +1337,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-39%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-39 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-4 de 1998",
@@ -1287,7 +1351,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-4%20de%201998"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-4 de 1998\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-413 de 1996",
@@ -1300,7 +1365,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-413%20de%201996"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-413 de 1996\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-459 de 2023",
@@ -1313,7 +1379,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-459%20de%202023"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-459 de 2023\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-486 de 1993",
@@ -1326,7 +1393,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-486%20de%201993"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-486 de 1993\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-533 de 2000",
@@ -1339,7 +1407,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-533%20de%202000"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-533 de 2000\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-535 de 2002",
@@ -1352,7 +1421,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-535%20de%202002"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-535 de 2002\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-537 de 1995",
@@ -1365,7 +1435,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-537%20de%201995"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-537 de 1995\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-683 de 2015",
@@ -1378,7 +1449,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-683%20de%202015"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-683 de 2015\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-700 de 1999",
@@ -1391,7 +1463,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-700%20de%201999"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-700 de 1999\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-80 de 2025",
@@ -1404,7 +1477,8 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-80%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-80 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-891 de 2012",
@@ -1417,7 +1491,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-891%20de%202012"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-891 de 2012\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-964 de 2003",
@@ -1430,7 +1505,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-964%20de%202003"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-964 de 2003\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia C-985 de 2010",
@@ -1443,7 +1519,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20C-985%20de%202010"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia C-985 de 2010\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SC-1121 de 2018",
@@ -1456,7 +1533,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SC-1121%20de%202018"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Civil), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SC-1121 de 2018\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SC-18392 de 2017",
@@ -1469,7 +1547,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SC-18392%20de%202017"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Civil), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SC-18392 de 2017\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SC-3085 de 2024",
@@ -1482,7 +1561,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SC-3085%20de%202024"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Civil), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SC-3085 de 2024\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SC-3674 de 2021",
@@ -1495,7 +1575,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SC-3674%20de%202021"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Civil), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SC-3674 de 2021\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SC-425 de 2024",
@@ -1508,7 +1589,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SC-425%20de%202024"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Civil), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SC-425 de 2024\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SC-8453 de 2016",
@@ -1521,7 +1603,8 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SC-8453%20de%202016"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Civil), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SC-8453 de 2016\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SL-1050 de 2023",
@@ -1534,7 +1617,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SL-1050%20de%202023"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Laboral), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SL-1050 de 2023\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SL-1730 de 2020",
@@ -1547,7 +1631,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SL-1730%20de%202020"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Laboral), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SL-1730 de 2020\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SL-1972 de 2025",
@@ -1560,7 +1645,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SL-1972%20de%202025"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Laboral), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SL-1972 de 2025\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SP-1167 de 2022",
@@ -1573,7 +1659,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SP-1167%20de%202022"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Penal), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SP-1167 de 2022\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SP-3218 de 2021",
@@ -1586,7 +1673,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SP-3218%20de%202021"
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/",
+      "nota_enlace": "Corregido: esta providencia es de la Corte Suprema de Justicia (Sala de Casacion Penal), no de la Corte Constitucional (el listado original apuntaba mal al tribunal). Buscar \"Sentencia SP-3218 de 2021\" en su sitio; no hay URL de resultado directo estable."
     },
     {
       "norma": "Sentencia SU-11 de 2020",
@@ -1599,7 +1687,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-11%20de%202020"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-11 de 2020\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-138 de 2024",
@@ -1612,7 +1701,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-138%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-138 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-149 de 2021",
@@ -1625,7 +1715,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-149%20de%202021"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-149 de 2021\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-207 de 2022",
@@ -1638,7 +1729,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-207%20de%202022"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-207 de 2022\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-240 de 2015",
@@ -1651,7 +1743,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-240%20de%202015"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-240 de 2015\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-27 de 2021",
@@ -1664,7 +1757,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-27%20de%202021"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-27 de 2021\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-296 de 2023",
@@ -1677,7 +1771,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-296%20de%202023"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-296 de 2023\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-380 de 2021",
@@ -1690,7 +1785,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-380%20de%202021"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-380 de 2021\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-396 de 2024",
@@ -1703,7 +1799,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-396%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-396 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-425 de 2025",
@@ -1716,7 +1813,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-425%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-425 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-429 de 2024",
@@ -1729,7 +1827,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-429%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-429 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-431 de 2015",
@@ -1742,7 +1841,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-431%20de%202015"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-431 de 2015\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-455 de 2020",
@@ -1755,7 +1855,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-455%20de%202020"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-455 de 2020\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-488 de 2011",
@@ -1768,7 +1869,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-488%20de%202011"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-488 de 2011\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-500 de 2015",
@@ -1781,7 +1883,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-500%20de%202015"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-500 de 2015\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-566 de 2015",
@@ -1794,7 +1897,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-566%20de%202015"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-566 de 2015\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia SU-6 de 1991",
@@ -1807,7 +1911,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20SU-6%20de%201991"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia SU-6 de 1991\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-1001 de 2001",
@@ -1820,7 +1925,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-1001%20de%202001"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-1001 de 2001\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-1059 de 2001",
@@ -1833,7 +1939,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-1059%20de%202001"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-1059 de 2001\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-1096 de 2008",
@@ -1846,7 +1953,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-1096%20de%202008"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-1096 de 2008\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-145 de 2016",
@@ -1859,7 +1967,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-145%20de%202016"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-145 de 2016\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-230 de 2023",
@@ -1872,7 +1981,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-230%20de%202023"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-230 de 2023\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-232 de 2025",
@@ -1885,7 +1995,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-232%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-232 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-248 de 2025",
@@ -1898,7 +2009,8 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-248%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-248 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-26 de 2025",
@@ -1911,7 +2023,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-26%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-26 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-262 de 2025",
@@ -1924,7 +2037,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-262%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-262 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-325 de 2025",
@@ -1937,7 +2051,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-325%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-325 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-350 de 2025",
@@ -1950,7 +2065,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-350%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-350 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-4 de 2026",
@@ -1963,7 +2079,8 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-4%20de%202026"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-4 de 2026\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-429 de 2011",
@@ -1976,7 +2093,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-429%20de%202011"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-429 de 2011\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-445 de 2024",
@@ -1989,7 +2107,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-445%20de%202024"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-445 de 2024\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-67 de 2025",
@@ -2002,7 +2121,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-67%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-67 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-71 de 2016",
@@ -2015,7 +2135,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-71%20de%202016"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-71 de 2016\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-77 de 2025",
@@ -2028,7 +2149,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-77%20de%202025"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-77 de 2025\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-925 de 2014",
@@ -2041,7 +2163,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-925%20de%202014"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-925 de 2014\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Sentencia T-970 de 2014",
@@ -2054,7 +2177,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/?q=Sentencia%20T-970%20de%202014"
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/buscador-jurisprudencia",
+      "nota_enlace": "Buscar \"Sentencia T-970 de 2014\" en el buscador (no hay URL de resultado directo estable)."
     },
     {
       "norma": "Ley 1150 de 2005",
@@ -2067,7 +2191,8 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201150%20de%202005"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 1150 de 2005\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 11500 de 2007",
@@ -2080,7 +2205,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2011500%20de%202007"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 11500 de 2007\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 1151 de 2007",
@@ -2093,7 +2219,7 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201151%20de%202007"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1151_2007.html"
     },
     {
       "norma": "Ley 116 de 2006",
@@ -2106,7 +2232,8 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20116%20de%202006"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 116 de 2006\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 137 de 1994",
@@ -2119,7 +2246,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20137%20de%201994"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0137_1994.html"
     },
     {
       "norma": "Ley 1473 de 2011",
@@ -2132,7 +2259,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201473%20de%202011"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1473_2011.html"
     },
     {
       "norma": "Ley 155 de 1959",
@@ -2145,7 +2272,8 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20155%20de%201959"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 155 de 1959\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 1562 de 2012",
@@ -2158,7 +2286,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201562%20de%202012"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1562_2012.html"
     },
     {
       "norma": "Ley 160 de 1994",
@@ -2171,7 +2299,7 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20160%20de%201994"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0160_1994.html"
     },
     {
       "norma": "Ley 1607 de 2012",
@@ -2184,7 +2312,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201607%20de%202012"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1607_2012.html"
     },
     {
       "norma": "Ley 1692 de 2017",
@@ -2197,7 +2325,8 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201692%20de%202017"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 1692 de 2017\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 1700 de 2013",
@@ -2210,7 +2339,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201700%20de%202013"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1700_2013.html"
     },
     {
       "norma": "Ley 1755 de 2015",
@@ -2223,7 +2352,7 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201755%20de%202015"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html"
     },
     {
       "norma": "Ley 1819 de 2016",
@@ -2236,7 +2365,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201819%20de%202016"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1819_2016.html"
     },
     {
       "norma": "Ley 1909 de 2018",
@@ -2249,7 +2378,7 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%201909%20de%202018"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1909_2018.html"
     },
     {
       "norma": "Ley 2114 de 2021",
@@ -2262,7 +2391,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202114%20de%202021"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2114_2021.html"
     },
     {
       "norma": "Ley 2157 de 2021",
@@ -2275,7 +2404,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202157%20de%202021"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2157_2021.html"
     },
     {
       "norma": "Ley 2160 de 2021",
@@ -2288,7 +2417,7 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202160%20de%202021"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2160_2021.html"
     },
     {
       "norma": "Ley 2251 de 2022",
@@ -2301,7 +2430,7 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202251%20de%202022"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2251_2022.html"
     },
     {
       "norma": "Ley 23 de 1961",
@@ -2314,7 +2443,8 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2023%20de%201961"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 23 de 1961\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 2737 de 1989",
@@ -2327,7 +2457,8 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%202737%20de%201989"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 2737 de 1989\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 29 de 1982",
@@ -2340,7 +2471,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2029%20de%201982"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 29 de 1982\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 527 de 1999",
@@ -2353,7 +2485,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20527%20de%201999"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html"
     },
     {
       "norma": "Ley 600 de 2000",
@@ -2366,7 +2498,7 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20600%20de%202000"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000.html"
     },
     {
       "norma": "Ley 640 de 2001",
@@ -2379,7 +2511,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20640%20de%202001"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0640_2001.html"
     },
     {
       "norma": "Ley 678 de 2001",
@@ -2392,7 +2524,7 @@
       "areas": [
         "Derecho procesal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20678%20de%202001"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0678_2001.html"
     },
     {
       "norma": "Ley 721 de 2001",
@@ -2405,7 +2537,7 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20721%20de%202001"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0721_2001.html"
     },
     {
       "norma": "Ley 75 de 1968",
@@ -2418,7 +2550,8 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%2075%20de%201968"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 75 de 1968\" en el Buscador de Normas de SUIN-Juriscol."
     },
     {
       "norma": "Ley 769 de 2002",
@@ -2431,7 +2564,7 @@
       "areas": [
         "Derecho civil"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20769%20de%202002"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0769_2002.html"
     },
     {
       "norma": "Ley 820 de 2003",
@@ -2444,7 +2577,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20820%20de%202003"
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0820_2003.html"
     },
     {
       "norma": "Ley 964 de 2006",
@@ -2457,7 +2590,111 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/legislacion/?q=Ley%20964%20de%202006"
+      "donde_buscar": "https://lexis.minjusticia.gov.co/buscador/Detallado/3",
+      "nota_enlace": "Sin enlace directo verificado (no esta en el compilado de secretariasenado ni en SUIN con URL estable): buscar \"Ley 964 de 2006\" en el Buscador de Normas de SUIN-Juriscol."
+    },
+    {
+      "norma": "Codigo civil",
+      "canonico": [
+        "ley",
+        "84",
+        "1873"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho civil",
+        "Derecho comercial y sociedades",
+        "Derecho de familia"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html",
+      "nota_enlace": "Ausente del listado original pese a ser el fundamento mas citado en Derecho civil y de familia en las preguntas de muestra (ids 358, 487, 490, 647, 865). Agregado por el equipo."
+    },
+    {
+      "norma": "Codigo penal",
+      "canonico": [
+        "ley",
+        "599",
+        "2000"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html",
+      "nota_enlace": "Ausente del listado original pese a ser el codigo sustantivo penal, citado en las preguntas de muestra (ids 280, 600, 1065). Agregado por el equipo."
+    },
+    {
+      "norma": "Codigo de procedimiento penal",
+      "canonico": [
+        "ley",
+        "906",
+        "2004"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho penal",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html",
+      "nota_enlace": "Ausente del listado original. Complementa la Ley 600 de 2000 (sistema mixto anterior), que si estaba incluida. Agregado por el equipo."
+    },
+    {
+      "norma": "CPACA - Codigo procedimiento administrativo y contencioso administrativo",
+      "canonico": [
+        "ley",
+        "1437",
+        "2011"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html",
+      "nota_enlace": "Ausente del listado original pese a ser citado directamente por su sigla en las preguntas de muestra (ids 748, 1089) y ser el eje de Derecho administrativo (124 items del banco). Agregado por el equipo."
+    },
+    {
+      "norma": "Codigo de comercio",
+      "canonico": [
+        "decreto",
+        "410",
+        "1971"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html",
+      "nota_enlace": "Ausente del listado original pese a ser citado en la pregunta de muestra id 239 (arts. 1324 y 1325) y ser el eje de Derecho comercial y sociedades (104 items del banco). Agregado por el equipo."
+    },
+    {
+      "norma": "Ley 472 de 1998",
+      "canonico": [
+        "ley",
+        "472",
+        "1998"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0472_1998.html",
+      "nota_enlace": "Ausente del listado original pese a ser citada directamente en las preguntas de muestra ids 51 y 247 (acciones populares y de grupo). Agregada por el equipo."
+    },
+    {
+      "norma": "Ley 100 de 1993",
+      "canonico": [
+        "ley",
+        "100",
+        "1993"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1993.html",
+      "nota_enlace": "Ausente del listado original. Sistema de seguridad social integral, area con peso relevante (87 items) en el banco; no aparecio en la muestra pero es previsible en las 992 preguntas restantes. Agregada por el equipo."
     }
   ]
 }
