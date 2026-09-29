@@ -1,5 +1,50 @@
-{"id": 51, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "C", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 51, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 58, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 60, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 128, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 290, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 308, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 352, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 358, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 487, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 528, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 600, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 617, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 647, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 671, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 748, "formato": "multiple_choice", "abstencion": true, "respuesta_correcta": "", "justificacion": "", "descarte_opciones": {}, "pasajes_recuperados": []}
+{"id": 247, "formato": "open_ended", "abstencion": true, "marco_normativo": "", "analisis": "", "jurisprudencia": "", "conclusion": "", "pasajes_recuperados": []}
+{"id": 253, "formato": "open_ended", "abstencion": true, "marco_normativo": "", "analisis": "", "jurisprudencia": "", "conclusion": "", "pasajes_recuperados": []}
+{"id": 272, "formato": "open_ended", "abstencion": true, "marco_normativo": "", "analisis": "", "jurisprudencia": "", "conclusion": "", "pasajes_recuperados": []}
+{"id": 513, "formato": "open_ended", "abstencion": true, "marco_normativo": "", "analisis": "", "jurisprudencia": "", "conclusion": "", "pasajes_recuperados": []}
+{"id": 679, "formato": "open_ended", "abstencion": true, "marco_normativo": "", "analisis": "", "jurisprudencia": "", "conclusion": "", "pasajes_recuperados": []}
+{"id": 24, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
 {"id": 79, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
 {"id": 140, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 142, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 168, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 190, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
 {"id": 218, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
-{"id": 253, "formato": "open_ended", "abstencion": true, "marco_normativo": "", "analisis": "", "jurisprudencia": "", "conclusion": "", "pasajes_recuperados": []}
+{"id": 239, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 280, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 442, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 453, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 472, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 490, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 563, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 589, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 661, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 674, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 697, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 857, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 865, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 879, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 919, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 946, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 960, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 991, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 1005, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 1015, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 1065, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 1073, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
+{"id": 1089, "formato": "semi_open", "abstencion": true, "respuesta": "", "palabras_clave": [], "referencia_legal": "", "pasajes_recuperados": []}
