@@ -73,6 +73,7 @@ class ResultadoHTML:
     enlaces: list[str] = field(default_factory=list)     # enlaces salientes, para descubrir fuentes
     siguiente: str | None = None                         # paginación tipo "Siguiente"
     fecha_actualizacion_fuente: str | None = None
+    titulo: str | None = None                            # contenido de <title>
 
 
 def _es_oculto(tag) -> bool:
@@ -99,6 +100,8 @@ def html_a_markdown(html: str, url: str) -> ResultadoHTML:
     soup = BeautifulSoup(html, "lxml")
     res = ResultadoHTML(markdown="")
 
+    if soup.title and soup.title.string:
+        res.titulo = " ".join(soup.title.string.split())
     texto_plano = soup.get_text("\n")
     if m := _ACTUALIZACION.search(texto_plano):
         res.fecha_actualizacion_fuente = m.group(1).strip(" -")

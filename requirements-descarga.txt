@@ -4,7 +4,6 @@ lxml>=5.0
 markdownify>=0.13
 charset-normalizer>=3.3
 ftfy>=6.2
-pyyaml>=6.0
 pymupdf>=1.24
 pytest>=8.0
 # Opcionales:

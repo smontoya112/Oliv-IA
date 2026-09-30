@@ -18,7 +18,9 @@ REINTENTABLES = {429, 500, 502, 503, 504}
 
 
 class ErrorDescarga(Exception):
-    pass
+    def __init__(self, mensaje: str, estado: int | None = None):
+        super().__init__(mensaje)
+        self.estado = estado
 
 
 class Cliente:
@@ -88,7 +90,7 @@ class Cliente:
                 if r.status_code in REINTENTABLES:
                     ultimo_error = f"HTTP {r.status_code}"
                 elif r.status_code >= 400:
-                    raise ErrorDescarga(f"HTTP {r.status_code} en {url}")
+                    raise ErrorDescarga(f"HTTP {r.status_code} en {url}", estado=r.status_code)
                 else:
                     return r
             except httpx.HTTPError as e:

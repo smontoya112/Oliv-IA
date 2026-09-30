@@ -4,7 +4,7 @@ Estructura en disco:
     data/raw/<doc_id>/parte_000.html|pdf   bytes originales, sin tocar
     data/raw/<doc_id>/meta.json            URL, SHA-256, codificación y fecha de cada parte
     data/raw/<doc_id>/enlaces.json         enlaces salientes (para descubrir fuentes)
-    data/md/<doc_id>.md                    Markdown limpio con front matter YAML
+    data/md/<doc_id>.md                    Markdown limpio con front matter JSON
     data/md/<doc_id>.notas.md              contenido oculto (notas de vigencia), aparte
 """
 from __future__ import annotations
@@ -17,10 +17,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
 
-import yaml
-
 from .config import Config
 from .http import Cliente, ErrorDescarga
+from .metadatos import completar
 from .texto import decodificar, html_a_markdown, pdf_a_markdown
 
 log = logging.getLogger(__name__)
@@ -49,7 +48,8 @@ def inferir_tipo(obj: dict) -> str:
 
 def validar_objetivo(obj: dict) -> list[str]:
     errores = []
-    for campo in ("doc_id", "titulo", "fuente", "url", "areas"):
+    # titulo, fuente y areas son opcionales: si faltan, se completan al leer el documento.
+    for campo in ("doc_id", "url"):
         if not obj.get(campo):
             errores.append(f"falta '{campo}'")
     if obj.get("doc_id") and not re.fullmatch(r"[a-z0-9][a-z0-9_\-]*", obj["doc_id"]):
@@ -70,17 +70,55 @@ def _sha256(datos: bytes) -> str:
 
 
 # ------------------------------------------------------------------- descarga
+def _pagina_vacia(contenido: bytes, ctype: str) -> bool:
+    """Algunos sitios responden 200 con una página de 'no encontrado'."""
+    if contenido[:5] == b"%PDF-":
+        return False
+    texto, _ = decodificar(contenido, ctype)
+    return len(html_a_markdown(texto, "").markdown) < 1500
+
+
+def _primera_url(obj: dict, tipo: str, cliente: Cliente, verify: bool):
+    """Prueba la URL principal y luego las alternativas. Devuelve (url, contenido, ctype, estado)."""
+    candidatas = [obj["url"]] + list(obj.get("urls_alternativas") or [])
+    ultimo = None
+    for url in candidatas:
+        try:
+            if tipo == "html_js":
+                contenido, ctype = cliente.get_renderizado(url)
+                estado = 200
+            else:
+                r = cliente.get(url, verify=verify)
+                contenido, ctype, estado = r.content, r.headers.get("content-type", ""), r.status_code
+        except ErrorDescarga as e:
+            if e.estado in (404, 410) and url != candidatas[-1]:
+                log.info("  %s no existe, probando alternativa", url)
+                ultimo = e
+                continue
+            raise
+        if len(candidatas) > 1 and url != candidatas[-1] and _pagina_vacia(contenido, ctype):
+            log.info("  %s respondió una página casi vacía, probando alternativa", url)
+            continue
+        return url, contenido, ctype, estado
+    raise ultimo or ErrorDescarga(f"Ninguna URL candidata tuvo contenido para {obj['doc_id']}")
+
+
 def _descargar(obj: dict, tipo: str, cliente: Cliente, cfg: Config, dir_doc: Path) -> dict:
     verify = obj.get("verificar_ssl", True)
     partes, visitadas = [], set()
-    url = obj["url"]
-    base = base_senado(url)
+    url, *pendiente = _primera_url(obj, tipo, cliente, verify)
+    url_efectiva = url
+    base = base_senado(url_efectiva)
     seguir = obj.get("seguir_paginas", tipo == "senado")
 
     while url and url.split("#")[0] not in visitadas and len(partes) < cfg.max_paginas:
         visitadas.add(url.split("#")[0])
-        if tipo == "html_js":
-            contenido, ctype, estado = *cliente.get_renderizado(url), 200
+        if pendiente:                       # la primera página ya se descargó al probar URLs
+            contenido, ctype, estado = pendiente
+            pendiente = None
+        elif tipo == "html_js":
+            contenido, ctype = cliente.get_renderizado(url)
+            estado = 200
         else:
             r = cliente.get(url, verify=verify)
             contenido, ctype, estado = r.content, r.headers.get("content-type", ""), r.status_code
@@ -100,7 +138,7 @@ def _descargar(obj: dict, tipo: str, cliente: Cliente, cfg: Config, dir_doc: Pat
         # Solo se sigue la paginación dentro del mismo documento.
         url = siguiente if siguiente and base_senado(siguiente) == base else None
 
-    meta = {"doc_id": obj["doc_id"], "url": obj["url"], "tipo": tipo, "partes": partes}
+    meta = {"doc_id": obj["doc_id"], "url": url_efectiva, "tipo": tipo, "partes": partes}
     (dir_doc / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2),
                                        encoding="utf-8")
     return meta
@@ -108,7 +146,7 @@ def _descargar(obj: dict, tipo: str, cliente: Cliente, cfg: Config, dir_doc: Pat
 
 # ------------------------------------------------------------------ conversión
 def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
-    bloques, notas, enlaces = [], [], []
+    bloques, notas, enlaces, titulo_html = [], [], [], None
     metodos, codificaciones, fecha_fuente = set(), set(), None
 
     for p in meta["partes"]:
@@ -127,10 +165,13 @@ def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
             notas.extend(r.notas)
             enlaces.extend(r.enlaces)
             fecha_fuente = fecha_fuente or r.fecha_actualizacion_fuente
+            titulo_html = titulo_html or r.titulo
 
     cuerpo = "\n\n".join(bloques)
     n_articulos = len(_ENCABEZADO_ARTICULO.findall(cuerpo))
     fecha_consulta = meta["partes"][0]["descargado"][:10]
+    obj = {**obj, "url": meta.get("url", obj["url"])}
+    autocompletados = completar(obj, titulo_html, cuerpo)
 
     registro = {
         "doc_id": obj["doc_id"],
@@ -143,6 +184,8 @@ def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
         "numero": obj.get("numero"),
         "anio": obj.get("anio"),
         "organo_emisor": obj.get("organo_emisor"),
+        "canonico": obj.get("canonico"),
+        "items_del_banco": obj.get("items_del_banco"),
         "formato_origen": sorted(metodos),
         "codificacion": sorted(codificaciones),
         "ocr": "pdf_ocr" in metodos,
@@ -153,12 +196,14 @@ def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
         "n_caracteres": len(cuerpo),
         "n_articulos_detectados": n_articulos,
         "archivo_md": f"md/{obj['doc_id']}.md",
+        "metadata_autocompletada": autocompletados,
         "estado": "ok",
     }
 
     cfg.dir_md.mkdir(parents=True, exist_ok=True)
-    front = yaml.safe_dump({k: v for k, v in registro.items() if k != "estado"},
-                           allow_unicode=True, sort_keys=False)
+    # JSON con sangría: además es YAML válido, así que cualquier lector de front matter lo entiende.
+    front = json.dumps({k: v for k, v in registro.items() if k != "estado"},
+                       ensure_ascii=False, indent=2) + "\n"
     (cfg.dir_md / f"{obj['doc_id']}.md").write_text(f"---\n{front}---\n\n{cuerpo}",
                                                    encoding="utf-8")
     if notas:

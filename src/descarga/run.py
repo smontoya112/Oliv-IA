@@ -1,10 +1,15 @@
 """Punto de entrada de la fase 2.
 
+Por defecto carga data/fuentes_seed.json, data/fuentes_propias.json y, al final,
+data/enlaces.txt: un link por línea, sin nada más. Del link se deduce el doc_id, y al
+descargar se completa el resto de la metadata (título, tipo, número, año, áreas...).
+
 Ejemplos:
-    uv run python -m src.descarga.run --fuentes data/fuentes.yaml
-    uv run python -m src.descarga.run --fuentes data/fuentes.yaml --solo ley_1564_2012
-    uv run python -m src.descarga.run --fuentes data/fuentes.yaml --solo-convertir
-    uv run python -m src.descarga.run --fuentes data/fuentes.yaml --forzar
+    uv run python -m src.descarga.run                           # todo
+    uv run python -m src.descarga.run --solo codigo_general_proceso
+    uv run python -m src.descarga.run --solo-fallidos           # reintentar lo que falló
+    uv run python -m src.descarga.run --solo-convertir          # regenerar Markdown sin red
+    uv run python -m src.descarga.run --fuentes data/mi_lista.json   # solo una lista
 """
 from __future__ import annotations
 
@@ -16,11 +21,10 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-import yaml
-
 from .config import Config
 from .fuentes import base_senado, procesar, validar_objetivo
 from .http import Cliente, ErrorDescarga
+from .metadatos import hacer_ids_unicos, leer_enlaces, objetivo_desde_url
 from .manifest import Manifest
 
 log = logging.getLogger("descarga")
@@ -30,9 +34,25 @@ _DOMINIOS_NORMATIVOS = ("secretariasenado.gov.co/senado/basedoc", "corteconstitu
                         "suin-juriscol.gov.co", "normograma", "funcionpublica.gov.co/eva/gestornormativo")
 
 
-def cargar_objetivos(ruta: Path) -> list[dict]:
+def cargar_objetivos(rutas: list[Path]) -> list[dict]:
+    """Carga uno o varios archivos. Si un doc_id aparece en varios, gana el último archivo:
+    así una lista propia puede corregir o reemplazar entradas generadas desde el seed."""
+    combinados: dict[str, dict] = {}
+    for ruta in rutas:
+        for obj in _cargar_archivo(ruta):
+            if obj["doc_id"] in combinados:
+                log.info("%s: %s reemplaza la entrada anterior", obj["doc_id"], ruta.name)
+            combinados[obj["doc_id"]] = obj
+    # Primero lo que más pesa en el banco.
+    return sorted(combinados.values(), key=lambda o: -(o.get("items_del_banco") or 0))
+
+
+def _cargar_archivo(ruta: Path) -> list[dict]:
     texto = ruta.read_text(encoding="utf-8")
-    datos = json.loads(texto) if ruta.suffix == ".json" else yaml.safe_load(texto)
+    try:
+        datos = json.loads(texto)
+    except json.JSONDecodeError as e:
+        sys.exit(f"{ruta}: JSON inválido ({e})")
     if isinstance(datos, dict):
         datos = datos.get("fuentes") or datos.get("documentos") or list(datos.values())
     if not isinstance(datos, list):
@@ -42,11 +62,24 @@ def cargar_objetivos(ruta: Path) -> list[dict]:
         for e in validar_objetivo(obj):
             errores.append(f"  entrada {i} ({obj.get('doc_id', '?')}): {e}")
         if obj.get("doc_id") in vistos:
-            errores.append(f"  doc_id repetido: {obj['doc_id']}")
+            errores.append(f"  doc_id repetido dentro de {ruta.name}: {obj['doc_id']}")
         vistos.add(obj.get("doc_id"))
     if errores:
-        sys.exit("Errores en el archivo de fuentes:\n" + "\n".join(errores))
-    return datos
+        sys.exit(f"Errores en {ruta}:\n" + "\n".join(errores))
+    return datos or []
+
+
+def objetivos_desde_enlaces(ruta: Path, existentes: list[dict]) -> list[dict]:
+    """Un objetivo por cada link de la lista que no esté ya en las demás fuentes."""
+    conocidas = {o["url"].split("#")[0].lower() for o in existentes}
+    nuevos = []
+    for url in leer_enlaces(ruta):
+        if url.split("#")[0].lower() in conocidas:
+            log.info("%s: ya está en las fuentes con metadata explícita, se omite", url)
+            continue
+        nuevos.append(objetivo_desde_url(url))
+    hacer_ids_unicos(nuevos, {o["doc_id"] for o in existentes})
+    return nuevos
 
 
 def registrar_evento(cfg: Config, evento: dict) -> None:
@@ -81,12 +114,19 @@ def actualizar_descubiertos(cfg: Config, objetivos: list[dict]) -> int:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="Fase 2: descarga y conversión a Markdown")
-    ap.add_argument("--fuentes", type=Path, default=Path("data/fuentes.yaml"))
+    ap.add_argument("--fuentes", type=Path, nargs="+",
+                    default=[Path("data/fuentes_seed.json"), Path("data/fuentes_propias.json")],
+                    help="uno o varios .json; en doc_id repetidos gana el último "
+                         "(los predeterminados que no existan se omiten)")
+    ap.add_argument("--enlaces", type=Path, default=Path("data/enlaces.txt"),
+                    help="archivo con un link por línea; la metadata se completa sola")
     ap.add_argument("--raiz", type=Path, default=Path("data"))
     ap.add_argument("--solo", nargs="*", help="procesar solo estos doc_id")
     ap.add_argument("--forzar", action="store_true", help="volver a descargar aunque haya caché")
     ap.add_argument("--solo-convertir", action="store_true",
                     help="no descargar; regenerar el Markdown desde data/raw")
+    ap.add_argument("--solo-fallidos", action="store_true",
+                    help="procesar solo lo que no está 'ok' en el manifest")
     ap.add_argument("--sin-robots", action="store_true", help="no consultar robots.txt")
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
@@ -96,16 +136,29 @@ def main() -> None:
     logging.getLogger("httpx").setLevel(logging.WARNING)
 
     cfg = Config(raiz=args.raiz, respetar_robots=not args.sin_robots)
-    objetivos = cargar_objetivos(args.fuentes)
+    rutas = [r for r in args.fuentes if r.exists() or args.fuentes != ap.get_default("fuentes")]
+    objetivos = cargar_objetivos(rutas)
+    if args.enlaces.exists():
+        extra = objetivos_desde_enlaces(args.enlaces, objetivos)
+        log.info("%s: %d links nuevos", args.enlaces, len(extra))
+        objetivos.extend(extra)
+    elif args.enlaces != ap.get_default("enlaces"):
+        sys.exit(f"No existe {args.enlaces}")
+    if not objetivos:
+        sys.exit("No hay nada que descargar: agreguen links a data/enlaces.txt")
     if args.solo:
         faltan = set(args.solo) - {o["doc_id"] for o in objetivos}
         if faltan:
-            sys.exit(f"doc_id no encontrados en {args.fuentes}: {sorted(faltan)}")
+            sys.exit(f"doc_id no encontrados en los archivos de fuentes: {sorted(faltan)}")
         seleccion = [o for o in objetivos if o["doc_id"] in args.solo]
     else:
         seleccion = objetivos
 
     manifest = Manifest(cfg.ruta_manifest)
+    if args.solo_fallidos:
+        seleccion = [o for o in seleccion
+                     if (manifest.get(o["doc_id"]) or {}).get("estado") != "ok"]
+    log.info("Documentos a procesar: %d", len(seleccion))
     cliente = Cliente(cfg)
     ok, fallos = [], []
     try:
@@ -138,6 +191,10 @@ def main() -> None:
           f"Normas enlazadas aún fuera del corpus: {n_desc} (ver {cfg.ruta_descubiertos})")
     for doc_id, err in fallos:
         print(f"  ✗ {doc_id}: {err}")
+    huerfanos = sorted(set(manifest.docs) - {o["doc_id"] for o in objetivos})
+    if huerfanos:
+        print("  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del "
+              "manifest si no los quieren): " + ", ".join(huerfanos))
     sin_articulos = [r["doc_id"] for r in ok
                      if r["n_articulos_detectados"] == 0 and r.get("tipo_norma") != "sentencia"]
     if sin_articulos:

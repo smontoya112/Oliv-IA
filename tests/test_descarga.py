@@ -96,7 +96,7 @@ def test_flujo_completo(entorno):
     assert reg["n_articulos_detectados"] == 3
     assert reg["codificacion"] == ["cp1252"]
     md = (cfg.dir_md / "ley_9999_2020.md").read_text(encoding="utf-8")
-    assert md.startswith("---\ndoc_id: ley_9999_2020")
+    assert md.startswith("---\n{") and '"doc_id": "ley_9999_2020"' in md
     assert "Texto del pie" not in md
     assert (cfg.dir_raw / "ley_9999_2020" / "parte_000.html").exists()
     meta = json.loads((cfg.dir_raw / "ley_9999_2020" / "meta.json").read_text())
@@ -138,3 +138,80 @@ def test_pdf_quita_encabezados_y_une_lineas(tmp_path):
     assert "Diario Oficial" not in r.markdown and "Página" not in r.markdown
     assert "número 1 y las demás actuaciones del caso 1." in r.markdown   # línea unida
     assert r.markdown.count("ARTÍCULO") == 15
+
+
+def test_prueba_urls_alternativas(tmp_path):
+    buena = f"{BASE}ley_9999_2020.html"
+
+    def srv(request):
+        if request.url.path == "/robots.txt":
+            return httpx.Response(404)
+        if str(request.url) == buena:
+            return httpx.Response(200, content=PAGINA_1.encode("cp1252"),
+                                  headers={"content-type": "text/html"})
+        return httpx.Response(404)
+
+    cfg = Config(raiz=tmp_path, intervalo_por_host=0, reintentos=1)
+    cliente = Cliente(cfg, transport=httpx.MockTransport(srv))
+    obj = {"doc_id": "x", "titulo": "X", "fuente": "S", "areas": ["civil"], "tipo": "html",
+           "seguir_paginas": False, "url": f"{BASE}no_existe.html", "urls_alternativas": [buena]}
+    reg = procesar(obj, cliente, cfg)
+    assert reg["url"] == buena and reg["n_partes"] == 1
+
+
+def test_conversor_seed():
+    from src.descarga.seed_a_fuentes import convertir
+    seed = {"documentos": [
+        {"norma": "Ley 80 de 1993", "canonico": ["ley", "80", "1993"], "items_del_banco": 12,
+         "areas": ["Derecho administrativo"], "donde_buscar": "x"},
+        {"norma": "Sentencia SU-214 de 2016", "canonico": ["jurisprudencia", "SU-214", "2016"],
+         "items_del_banco": 2, "areas": ["Derecho de familia"], "donde_buscar": "x"},
+        {"norma": "Sentencia SL-3385 de 2022", "canonico": ["jurisprudencia", "SL-3385", "2022"],
+         "items_del_banco": 4, "areas": ["Derecho laboral"], "donde_buscar": "x"},
+        {"norma": "Ley 11500 de 2007", "canonico": ["ley", "11500", "2007"], "items_del_banco": 1,
+         "areas": ["Derecho constitucional"], "donde_buscar": "x"},
+    ]}
+    listas, pendientes = convertir(seed)
+    assert listas[0]["url"].endswith("ley_0080_1993.html") and listas[0]["areas"] == ["administrativo"]
+    assert listas[1]["url"].endswith("/2016/SU214-16.htm")
+    assert listas[1]["urls_alternativas"][0].endswith("/2016/SU-214-16.htm")
+    assert {p["norma"] for p in pendientes} == {"Sentencia SL-3385 de 2022", "Ley 11500 de 2007"}
+
+
+def test_objetivo_desde_url():
+    from src.descarga.metadatos import objetivo_desde_url
+    o = objetivo_desde_url(BASE + "ley_0080_1993.html")
+    assert (o["doc_id"], o["numero"], o["anio"], o["canonico"]) == ("ley_80_1993", "80", 1993, ["ley", "80", "1993"])
+    o = objetivo_desde_url("https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm")
+    assert o["doc_id"] == "sentencia_c-355_2006" and o["canonico"] == ["jurisprudencia", "C-355", "2006"]
+    assert o["fuente"] == "Relatoría de la Corte Constitucional"
+    assert objetivo_desde_url("https://ejemplo.gov.co/x/Mi%20Norma.PDF")["doc_id"] == "mi_norma"
+
+
+def test_enlaces_txt_completa_metadata(tmp_path):
+    from src.descarga.metadatos import hacer_ids_unicos, leer_enlaces, objetivo_desde_url
+    ruta = tmp_path / "enlaces.txt"
+    ruta.write_text(f"# comentario\n\n{BASE}ley_9999_2020.html  # inline\n{BASE}ley_9999_2020.html\n",
+                    encoding="utf-8")
+    urls = leer_enlaces(ruta)
+    assert urls == [BASE + "ley_9999_2020.html"]                 # sin repetidos ni comentarios
+    obj = objetivo_desde_url(urls[0])
+    hacer_ids_unicos([obj], set())
+    cfg = Config(raiz=tmp_path, intervalo_por_host=0)
+    cliente = Cliente(cfg, transport=httpx.MockTransport(servidor))
+    reg = procesar(obj, cliente, cfg)
+    cliente.cerrar()
+    assert reg["doc_id"] == "ley_9999_2020" and reg["tipo_norma"] == "ley" and reg["anio"] == 2020
+    assert reg["fuente"] == "Secretaría General del Senado"
+    assert reg["titulo"] and reg["areas"]
+    assert {"titulo", "areas"} <= set(reg["metadata_autocompletada"])
+    Manifest(cfg.ruta_manifest).actualizar(reg)                  # cumple los campos obligatorios
+
+
+def test_enlace_invalido(tmp_path):
+    from src.descarga.metadatos import leer_enlaces
+    ruta = tmp_path / "e.txt"
+    ruta.write_text("no-es-un-link\n", encoding="utf-8")
+    with pytest.raises(ValueError):
+        leer_enlaces(ruta)
+
