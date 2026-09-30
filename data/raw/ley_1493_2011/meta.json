@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1493_2011",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1493_2011.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1493_2011.html",
+      "sha256": "dde9a8e01fd133e8b34794ef236e50f7825bd2a5738abbed702431d70b8c0636",
+      "bytes": 90108,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:16-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1760_2015",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1760_2015.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1760_2015.html",
+      "sha256": "62e8e90dc0d95e5ba5cef28c3fc3cba67a514ce4a581f2aaa60b854bec0cf1b2",
+      "bytes": 28777,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:50-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "acto_legislativo_3_2002",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_03_2002.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_03_2002.html",
+      "sha256": "0394547c71a59cc905018a19d963aac945f99711b66592319c7baf9f998fe726",
+      "bytes": 32853,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:11-05:00"
+    }
+  ]
+}

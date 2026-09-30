@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1902_2018",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1902_2018.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1902_2018.html",
+      "sha256": "cf23e9a014993ba6a8a1c9831cf8232454b561c9872f0a4165d121117aaf9dec",
+      "bytes": 42234,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:31-05:00"
+    }
+  ]
+}

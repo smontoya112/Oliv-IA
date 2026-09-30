@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1826_2017",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1826_2017.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1826_2017.html",
+      "sha256": "e3a871eecf52d1d1a85e1ebe277945e01c9946bfc2f64dcd64cd1feb13c9cf29",
+      "bytes": 90109,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:09:59-05:00"
+    }
+  ]
+}

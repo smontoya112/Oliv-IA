@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_2450_2025",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2450_2025.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2450_2025.html",
+      "sha256": "40df99ae33549c66e041da642005dd8ef4bb00b2cff305bb7a6b014dfe9cb05c",
+      "bytes": 117420,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:21:41-05:00"
+    }
+  ]
+}

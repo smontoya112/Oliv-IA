@@ -1,0 +1,52 @@
+{
+  "doc_id": "ley_2056_2020",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2056_2020.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2056_2020.html",
+      "sha256": "f099a55cb9de2e3b4455f637274e2b023b496536aa4f424a1259512546abcca6",
+      "bytes": 154256,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:31-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2056_2020_pr001.html",
+      "sha256": "338f6f4a0245c0223f088606f380270e82a10b7ca4fbd81963ca7c63f6fa842a",
+      "bytes": 118976,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:32-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2056_2020_pr002.html",
+      "sha256": "046e8f2110d58925cea3ead19ffebd13fa7d09826856874dc14d411d38dd7928",
+      "bytes": 98119,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:34-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2056_2020_pr003.html",
+      "sha256": "f5ba3e7c47e65cca8fa2e9a79c686286b31f50554148492b58b68e69a7c8d018",
+      "bytes": 83967,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:35-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2056_2020_pr004.html",
+      "sha256": "93e84fe5451045eb5e82fa295cfd01ea9deca014a770758ecbf6c2c82a2ada7e",
+      "bytes": 103574,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:37-05:00"
+    }
+  ]
+}

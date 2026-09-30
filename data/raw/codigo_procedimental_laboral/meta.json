@@ -1,0 +1,43 @@
+{
+  "doc_id": "codigo_procedimental_laboral",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimental_laboral.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimental_laboral.html",
+      "sha256": "f1abf199e664aecbae68777cf31353dcc2b3e08c9a0c5df1ea03fc95ee87e062",
+      "bytes": 88032,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:50-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimental_laboral_pr001.html",
+      "sha256": "a5da9a3ff41f472128aa29e42c63a8a827e06c3b90d7dc228aff136c4542fba8",
+      "bytes": 91481,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:52-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimental_laboral_pr002.html",
+      "sha256": "4fc1226ae659d2d91db6b53c923c33a3fc90c7c0679db79b03b7d147f44d2245",
+      "bytes": 84794,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:53-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimental_laboral_pr003.html",
+      "sha256": "881f70d6bb89300a2982614b7c1ff38a38791a2df7831f504c0816d7a78b1e0c",
+      "bytes": 71504,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:55-05:00"
+    }
+  ]
+}

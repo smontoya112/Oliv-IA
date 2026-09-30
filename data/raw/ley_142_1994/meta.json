@@ -1,0 +1,52 @@
+{
+  "doc_id": "ley_142_1994",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994.html",
+      "sha256": "ea5691b814faf45517553dd0c02ecc4b0c2d9fe37b26db1ab981e072f4dc3ca2",
+      "bytes": 147563,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:58-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994_pr001.html",
+      "sha256": "78bc565cfeff077adcab627ee4529a91e90be0c3dd10760bb2e4a4524af2fe70",
+      "bytes": 125458,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:59-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994_pr002.html",
+      "sha256": "161227de9e200eb791b533af609aabc438f0a689848e9e05ad9ba362a676f672",
+      "bytes": 139847,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:01-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994_pr003.html",
+      "sha256": "c0d9b1610aab8337d2ca46d6ea1b6dc759916c861ffd1aa01c8b4936f212c72d",
+      "bytes": 94980,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:02-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0142_1994_pr004.html",
+      "sha256": "4553f176c0030ddd31e0721160c874610a87daa6da37abf4fcf1339d982a4a0d",
+      "bytes": 68031,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:04-05:00"
+    }
+  ]
+}

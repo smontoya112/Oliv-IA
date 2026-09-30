@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1266_2008",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html",
+      "sha256": "f76e0d06352470cb5cbe1361baeba095edfa8b5962dee7329504350b82464f25",
+      "bytes": 97853,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:30-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1508_2012",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1508_2012.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1508_2012.html",
+      "sha256": "f8ea6c178fb7f4da006b8da799252d7cf4fa4b7d731c032af44d3b9e98d2f5d3",
+      "bytes": 101375,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:19-05:00"
+    }
+  ]
+}

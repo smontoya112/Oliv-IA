@@ -1,0 +1,43 @@
+{
+  "doc_id": "decreto_2150_1995",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2150_1995.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2150_1995.html",
+      "sha256": "adc269483913ed882d43c21c774ed0628db2144bbbcf924401bcb741dac4acfb",
+      "bytes": 84022,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:05-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2150_1995_pr001.html",
+      "sha256": "afa0cc1453c05c4d4b13b108451ef993aeb54c52c1d69d590e2ee00bacfda21d",
+      "bytes": 70118,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:06-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2150_1995_pr002.html",
+      "sha256": "4d4951cfdcc07c62fac79fe4eb4e519a130bc513f59017dbf268662eab7be52a",
+      "bytes": 75615,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:08-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2150_1995_pr003.html",
+      "sha256": "b7f998ccedd6d20fe43f130be83a7b2eacc62314cb20e1b050293f9a4ae049f6",
+      "bytes": 47562,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:09-05:00"
+    }
+  ]
+}

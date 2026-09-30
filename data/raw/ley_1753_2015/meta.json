@@ -1,0 +1,61 @@
+{
+  "doc_id": "ley_1753_2015",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015.html",
+      "sha256": "a218cbe1f5dbdb791329eeeca8dffddd40dd6dbeb67e187937e6793f22bc3836",
+      "bytes": 189992,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:29-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015_pr001.html",
+      "sha256": "0089fbcc5fb016d1465c2548bc872eb8a3dfc21ce2196e72bcdd8cc6540aa453",
+      "bytes": 170292,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:30-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015_pr002.html",
+      "sha256": "27c26edb70e095a6dd7982ab7dd606efbda4bd283c0e68ea44a86d00875adc7e",
+      "bytes": 118995,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:32-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015_pr003.html",
+      "sha256": "298b17848db9c91c86114331ae6a8eec22e142b5799425356fb97aac3247dc19",
+      "bytes": 166135,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:33-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015_pr004.html",
+      "sha256": "cd59f0f11e818db6eff4ded886c023c6d22b7a7f87e0297e0f5471aa2189ab58",
+      "bytes": 117460,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:35-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1753_2015_pr005.html",
+      "sha256": "6c190bc6eba4b7b95aa28dcf0def30050e15e31fc183d23074de7ff7ef8f44ee",
+      "bytes": 70204,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:36-05:00"
+    }
+  ]
+}

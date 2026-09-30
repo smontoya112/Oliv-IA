@@ -1,0 +1,16 @@
+{
+  "doc_id": "acto_legislativo_2_2011",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2011.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2011.html",
+      "sha256": "9e9c4d854646fe658e4ad4c8a4333cad94192e2e19d2e11b5d1b9bb8bc56a6c7",
+      "bytes": 22493,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:19-05:00"
+    }
+  ]
+}

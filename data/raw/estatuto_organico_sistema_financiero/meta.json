@@ -1,0 +1,124 @@
+{
+  "doc_id": "estatuto_organico_sistema_financiero",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero.html",
+      "sha256": "56392abddf784fef7fd2b8a9e8220af51249f0eef8f50739ee35ed9bea0cea78",
+      "bytes": 112903,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:09-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr001.html",
+      "sha256": "966cabf3be63fee3f082fd673b337f406168a0ad00bfe33c39d89414775fa27a",
+      "bytes": 118628,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:11-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr002.html",
+      "sha256": "433a60061b50fd838fb898435a980be7681cb8d6ab5082bfc0d7b1f5ae207e10",
+      "bytes": 140540,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:12-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr003.html",
+      "sha256": "06bb03f63a13d9a719df75f3875d762d32c842b8f531799d9429513938d0e6de",
+      "bytes": 127047,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:14-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr004.html",
+      "sha256": "279139a9314cf06548139feac11c2d02b3b132fb6f3fb87421bc2a01ba1a91d8",
+      "bytes": 169328,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:15-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr005.html",
+      "sha256": "e8185405c54ced1eacbe3215df91fc4595660b11e9df01c19ec6cd17fff0f3ee",
+      "bytes": 81288,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:17-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr006.html",
+      "sha256": "76cba0055b4746e647912903e946f5d3b8379fb097abe2602667ec0fb75bdaa9",
+      "bytes": 130369,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:18-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr007.html",
+      "sha256": "2e2dddd61367192a7c4f1cd4120e54dbddae20dd172f837e7f6a82ed3e3142b9",
+      "bytes": 147586,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:20-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr008.html",
+      "sha256": "eab3a3e88e83da01c06cfbe29805f447bb61803d5a6a3e769630130057ad0736",
+      "bytes": 118196,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:21-05:00"
+    },
+    {
+      "archivo": "parte_009.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr009.html",
+      "sha256": "4cc6ad1ff715d424881db4465c54df2d4dc07f021dc020a6f8b170f8b01871b4",
+      "bytes": 134786,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:23-05:00"
+    },
+    {
+      "archivo": "parte_010.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr010.html",
+      "sha256": "84d4b94585cd2274d3026a2f01af31f1f220b9c4826960630e813253c7c45c3b",
+      "bytes": 173431,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:24-05:00"
+    },
+    {
+      "archivo": "parte_011.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr011.html",
+      "sha256": "9fe3e330e2ad7e33a7a2a1d959500486294a00ee0135616e27193e8eee785713",
+      "bytes": 176136,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:26-05:00"
+    },
+    {
+      "archivo": "parte_012.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero_pr012.html",
+      "sha256": "04cf4c633015f94ed80de8572caaefe1337d4a2c1bb8a6184d350ba785e7fa40",
+      "bytes": 199367,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:27-05:00"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "doc_id": "ley_5_1992",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992.html",
+      "sha256": "6e8b800b665f39082b7f577060d43c1129cf03cf3f091666bc540b4cd0181ff7",
+      "bytes": 97191,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:59-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr001.html",
+      "sha256": "51f61059bc31dd0871af17bf4e0670603131791358b654374afade292537d3bf",
+      "bytes": 110263,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:01-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr002.html",
+      "sha256": "c39189e6db8be553361bc9185b34aed760fcd54aabbabc645f2a21599ffb00ec",
+      "bytes": 121904,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:02-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr003.html",
+      "sha256": "d8d4fd31c22f35d06949e05cbeb5112f3ed8bce403d5b500fa61ddc9f308adcb",
+      "bytes": 143249,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:04-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr004.html",
+      "sha256": "e80d494404c583f75df2d437e230214123e1956b2500620e9a64a49450605f20",
+      "bytes": 136908,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:05-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr005.html",
+      "sha256": "3c5c7e51eb41e86f7e312df0414c68dfc1a0ac797625440c6e2c21e78f33aa80",
+      "bytes": 122712,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:07-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr006.html",
+      "sha256": "1b98d58b25275b5c11c4860ce1a9d34876b165719818cec399f8244698a2d056",
+      "bytes": 89206,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:08-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr007.html",
+      "sha256": "fdfb45ebdb380c8dfce7fe8151c449207f3135be0a20db44b19eede90b02f7c5",
+      "bytes": 112949,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:10-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr008.html",
+      "sha256": "db43925a0b1bfdff197dff4d2faf953fa2f9d48031a1d0ed8932e99cfaa2b900",
+      "bytes": 87218,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:11-05:00"
+    },
+    {
+      "archivo": "parte_009.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr009.html",
+      "sha256": "5d60ea99e3a9fa602484697e58e5cff686d2424cb2874977e5a0ee1161f7c873",
+      "bytes": 179553,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:13-05:00"
+    },
+    {
+      "archivo": "parte_010.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0005_1992_pr010.html",
+      "sha256": "0d93c185e4936405fa9580e295a4891ee3f9a1884c51116eed2c412f19f2fa94",
+      "bytes": 154281,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:14-05:00"
+    }
+  ]
+}

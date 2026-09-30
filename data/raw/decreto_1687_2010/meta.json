@@ -1,0 +1,16 @@
+{
+  "doc_id": "decreto_1687_2010",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1687_2010.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1687_2010.html",
+      "sha256": "0f9760b3e2db1a2cc8be8c2f33add93d465c95f350df8d26b2be38ef1b120a09",
+      "bytes": 61428,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:52-05:00"
+    }
+  ]
+}

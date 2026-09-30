@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_2445_2025",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2445_2025.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2445_2025.html",
+      "sha256": "05b8fcb540874e5cc4b4a97490c42c0818697643ed49094f18e56dbc346ddf56",
+      "bytes": 172442,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:11:45-05:00"
+    }
+  ]
+}

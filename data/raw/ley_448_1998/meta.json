@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_448_1998",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0448_1998.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0448_1998.html",
+      "sha256": "e18b90bb20a4b377ea6643a516a5e34aeb7f84cd37c66d45e02c132780a2001e",
+      "bytes": 29796,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:52-05:00"
+    }
+  ]
+}

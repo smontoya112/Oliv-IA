@@ -1,0 +1,43 @@
+{
+  "doc_id": "decreto_356_1994",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0356_1994.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0356_1994.html",
+      "sha256": "c28b3ed9aa375b4ce5d8ef9d4b5a134cf8516f0ca063b9dc503994409556991f",
+      "bytes": 72501,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:01-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0356_1994_pr001.html",
+      "sha256": "074814675489be8745c33a9250a646c231dd2ea7fb34e31222e79aaf0249cea8",
+      "bytes": 67180,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:02-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0356_1994_pr002.html",
+      "sha256": "52334502f2c9074fc4cfc31cf26eb70afe8b42ff26d4dc9d27b57698585f93e5",
+      "bytes": 74078,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:04-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0356_1994_pr003.html",
+      "sha256": "614ba32d10ffdbc6f08ecfcab76ca887b261147c30640ac04f9b7f8ce5caa004",
+      "bytes": 24931,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:05-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1356_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1356_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1356_2009.html",
+      "sha256": "3c78798d5ab7b223780b85d6e1709e8381b08a6f4d03ebff1f89c082ba314cb9",
+      "bytes": 46875,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:26:02-05:00"
+    }
+  ]
+}

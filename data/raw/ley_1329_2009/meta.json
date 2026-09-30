@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1329_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1329_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1329_2009.html",
+      "sha256": "ef387d30803d5505c87c422d367af86ff6e6f1a5b3f444aa25d76c51f276fa44",
+      "bytes": 23955,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:38-05:00"
+    }
+  ]
+}

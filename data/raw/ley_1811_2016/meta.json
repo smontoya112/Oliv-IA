@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1811_2016",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1811_2016.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1811_2016.html",
+      "sha256": "122c27adb2760ab7470153d23ce00974647671cb59c1448ad7b929e9cf69e0cc",
+      "bytes": 44817,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:40-05:00"
+    }
+  ]
+}

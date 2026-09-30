@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1496_2011",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1496_2011.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1496_2011.html",
+      "sha256": "925c02706ca851645c00fb6e9d3b627bce4a8be18a423c2dcdfe1d09e8ad44bf",
+      "bytes": 32173,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:44-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_554_2000",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0554_2000.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0554_2000.html",
+      "sha256": "52aa25540e003cf10c2add18ddaedeee13b5d2fd066a2510c8b90eaf46e22617",
+      "bytes": 73070,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:55-05:00"
+    }
+  ]
+}

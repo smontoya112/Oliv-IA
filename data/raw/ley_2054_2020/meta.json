@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_2054_2020",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2054_2020.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2054_2020.html",
+      "sha256": "086cccef72c96e39be6801f7e0f27dc2102c5d81cfaa13c858ab2080bb6eab9b",
+      "bytes": 32213,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:29:37-05:00"
+    }
+  ]
+}

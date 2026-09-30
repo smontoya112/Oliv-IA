@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_813_2003",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0813_2003.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0813_2003.html",
+      "sha256": "5f97ca6662fbfe7b90093dc295043e1dbc88fbcfa2828a35ed2ce53b984e3c05",
+      "bytes": 24246,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:58-05:00"
+    }
+  ]
+}

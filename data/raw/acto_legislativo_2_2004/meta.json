@@ -1,0 +1,16 @@
+{
+  "doc_id": "acto_legislativo_2_2004",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2004.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2004.html",
+      "sha256": "b736bf7f6561215521ee458acd9fa15df6682b8bb471b3c6ef128c24b9ec8bb4",
+      "bytes": 27178,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:17-05:00"
+    }
+  ]
+}

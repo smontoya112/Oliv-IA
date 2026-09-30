@@ -1,0 +1,16 @@
+{
+  "doc_id": "estatuto_tributario-2",
+  "url": "https://normograma.dian.gov.co/dian/compilacion/docs/estatuto_tributario.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://normograma.dian.gov.co/dian/compilacion/docs/estatuto_tributario.htm",
+      "sha256": "f1bd16d5c1028a68d8f982ba0e6479c51c5ec8e8ddfdca2536b2dbe13d6fd358",
+      "bytes": 3922096,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:10-05:00"
+    }
+  ]
+}
