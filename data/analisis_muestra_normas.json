@@ -1,0 +1,457 @@
+{
+  "cubiertas": [
+    {
+      "clave": [
+        "constitucion",
+        null,
+        null
+      ],
+      "etiqueta": "Constitucion Politica",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        51,
+        60,
+        218,
+        661,
+        1005,
+        1073
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "84",
+        "1873"
+      ],
+      "etiqueta": "Codigo Civil",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        358,
+        487,
+        647,
+        490,
+        865
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "codigo_general_proceso",
+        null,
+        null
+      ],
+      "etiqueta": "Codigo General del Proceso",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        60,
+        528,
+        589,
+        879
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "codigo_sustantivo_trabajo",
+        null,
+        null
+      ],
+      "etiqueta": "Codigo Sustantivo del Trabajo",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        617,
+        253,
+        442,
+        1073
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "599",
+        "2000"
+      ],
+      "etiqueta": "Codigo Penal",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        600,
+        280,
+        1065
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "472",
+        "1998"
+      ],
+      "etiqueta": "Ley 472 de 1998",
+      "tipo": "ley",
+      "ids": [
+        51,
+        247
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "estatuto_consumidor",
+        null,
+        null
+      ],
+      "etiqueta": "Estatuto del Consumidor",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        58,
+        674
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1437",
+        "2011"
+      ],
+      "etiqueta": "CPACA",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        748,
+        1089
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1564",
+        "2012"
+      ],
+      "etiqueta": "Ley 1564 de 2012",
+      "tipo": "ley",
+      "ids": [
+        60
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "decreto",
+        "663",
+        "1993"
+      ],
+      "etiqueta": "Decreto Ley 663 de 1993",
+      "tipo": "decreto",
+      "ids": [
+        128
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1150",
+        "2007"
+      ],
+      "etiqueta": "Ley 1150 de 2007",
+      "tipo": "ley",
+      "ids": [
+        290
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "decreto",
+        "2067",
+        "1991"
+      ],
+      "etiqueta": "Decreto 2067 de 1991",
+      "tipo": "decreto",
+      "ids": [
+        352
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1562",
+        "2012"
+      ],
+      "etiqueta": "Ley 1562 de 2012",
+      "tipo": "ley",
+      "ids": [
+        253
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1116",
+        "2006"
+      ],
+      "etiqueta": "Ley 1116 de 2006",
+      "tipo": "ley",
+      "ids": [
+        272
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1581",
+        "2012"
+      ],
+      "etiqueta": "Ley 1581 de 2012",
+      "tipo": "ley",
+      "ids": [
+        679
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1010",
+        "2006"
+      ],
+      "etiqueta": "Ley 1010 de 2006",
+      "tipo": "ley",
+      "ids": [
+        79
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "C-145",
+        "2018"
+      ],
+      "etiqueta": "Sentencia C-145 de 2018 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        140
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "decreto",
+        "410",
+        "1971"
+      ],
+      "etiqueta": "Codigo de Comercio",
+      "tipo": "codigo/estatuto",
+      "ids": [
+        239
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "C-332",
+        "2025"
+      ],
+      "etiqueta": "Sentencia C-332 de 2025 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        453
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "ley",
+        "1340",
+        "2009"
+      ],
+      "etiqueta": "Ley 1340 de 2009",
+      "tipo": "ley",
+      "ids": [
+        472
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "SU-455",
+        "2020"
+      ],
+      "etiqueta": "Sentencia SU-455 de 2020 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        919
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "decreto",
+        "2153",
+        "1992"
+      ],
+      "etiqueta": "Decreto 2153 de 1992",
+      "tipo": "decreto",
+      "ids": [
+        960
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "C-891",
+        "2012"
+      ],
+      "etiqueta": "Sentencia C-891 de 2012 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        991
+      ],
+      "cubierta": true
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "C-355",
+        "2006"
+      ],
+      "etiqueta": "Sentencia C-355 de 2006 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        1015
+      ],
+      "cubierta": true
+    }
+  ],
+  "faltantes": [
+    {
+      "clave": [
+        "ley",
+        "1564",
+        "2002"
+      ],
+      "etiqueta": "Ley 1564 de 2002",
+      "tipo": "ley",
+      "ids": [
+        58
+      ],
+      "cubierta": false
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "C-468",
+        "2024"
+      ],
+      "etiqueta": "Sentencia C-468 de 2024 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        453
+      ],
+      "cubierta": false
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "SU-016",
+        "2020"
+      ],
+      "etiqueta": "Sentencia SU-016 de 2020 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        453
+      ],
+      "cubierta": false
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "SU-277",
+        "2025"
+      ],
+      "etiqueta": "Sentencia SU-277 de 2025 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        563
+      ],
+      "cubierta": false
+    },
+    {
+      "clave": [
+        "jurisprudencia",
+        "C-039",
+        "2025"
+      ],
+      "etiqueta": "Sentencia C-039 de 2025 (Corte Constitucional)",
+      "tipo": "jurisprudencia",
+      "ids": [
+        946
+      ],
+      "cubierta": false
+    }
+  ],
+  "sin_parsear": [
+    {
+      "id": 308,
+      "legal_basis": "Art 44 ley 1150 ",
+      "area": "Derecho administrativo"
+    },
+    {
+      "id": 671,
+      "legal_basis": "Doctrina. ",
+      "area": "Derecho tributario"
+    },
+    {
+      "id": 513,
+      "legal_basis": "https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_ip_bog_12/wipo_ip_bog_12_ref_u14b_aleman.pdf ",
+      "area": "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+    },
+    {
+      "id": 24,
+      "legal_basis": null,
+      "area": "Derecho civil"
+    },
+    {
+      "id": 142,
+      "legal_basis": "Sentencia de unificación 2020CE-SUJ-4-005 del 26 de noviembre de 2020 con expediente 21329.",
+      "area": "Derecho tributario"
+    },
+    {
+      "id": 168,
+      "legal_basis": "Sentencia del 18 de julio de 2017, de la Sala Civil de la Corte Suprema de Justicia",
+      "area": "Derecho civil"
+    },
+    {
+      "id": 190,
+      "legal_basis": "sentencia t-256",
+      "area": "Derecho constitucional"
+    },
+    {
+      "id": 697,
+      "legal_basis": "caso francés de Dow Chemical",
+      "area": "Derecho comercial y sociedades"
+    },
+    {
+      "id": 857,
+      "legal_basis": "Doctrina. ",
+      "area": "Derecho administrativo"
+    }
+  ],
+  "totales": {
+    "preguntas_muestra": 50,
+    "cuerpos_normativos_distintos": 29,
+    "cubiertos": 24,
+    "faltantes": 5,
+    "preguntas_sin_referencia_parseable": 9
+  }
+}
