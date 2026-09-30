@@ -15,7 +15,10 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from pathlib import Path
+
+from .metadatos import _slug, fuente_de
 
 SENADO = "http://www.secretariasenado.gov.co/senado/basedoc/"
 RELATORIA_CC = "https://www.corteconstitucional.gov.co/relatoria/"
@@ -89,11 +92,29 @@ def _urls_sentencia(tipo: str, numero: int, anio: int) -> list[str]:
     return list(dict.fromkeys(orden + [sin_relleno]))
 
 
+def _url_directa(d: dict) -> str | None:
+    """El seed nuevo trae en donde_buscar la URL del documento cuando ya se conoce;
+    las búsquedas (?q=...) no sirven para descargar."""
+    url = d.get("donde_buscar") or ""
+    return url if url.startswith("http") and "?q=" not in url else None
+
+
+def _entrada_directa(d: dict, url: str, base: dict) -> dict:
+    """Documento con URL conocida y sin patrón propio (Consejo de Estado, Corte Suprema...).
+    Título, áreas y demás se completan al leer el documento."""
+    clave, numero, anio = d["canonico"]
+    prefijo = "sentencia" if clave == "jurisprudencia" else clave
+    return {"doc_id": _slug(f"{prefijo}_{numero or ''}_{anio or ''}"), "titulo": d["norma"],
+            "fuente": fuente_de(url), "url": url,
+            "tipo_norma": prefijo, "anio": int(anio) if anio else None,
+            "seguir_paginas": False, **base}
+
+
 def convertir(seed: dict) -> tuple[list[dict], list[dict]]:
     listas, pendientes = [], []
     for d in seed["documentos"]:
         clave, numero, anio = d["canonico"]
-        base = {"canonico": d["canonico"], "items_del_banco": d["items_del_banco"],
+        base = {"canonico": d["canonico"], "items_del_banco": d.get("items_del_banco") or 0,
                 "areas": _areas(d["areas"])}
 
         if tuple(d["canonico"]) in SOSPECHOSAS:
@@ -125,14 +146,22 @@ def convertir(seed: dict) -> tuple[list[dict], list[dict]]:
                            **base, "nota": "Si da 404, buscar en SUIN-Juriscol: " + d["donde_buscar"]})
 
         elif clave == "jurisprudencia":
-            tipo, num = numero.split("-")
-            if tipo in CORTE_SUPREMA:
-                pendientes.append({"norma": d["norma"], **base,
-                                   "motivo": f"Es de la Corte Suprema ({CORTE_SUPREMA[tipo]}), no de la "
-                                             "Corte Constitucional. Buscar el radicado "
-                                             f"{tipo}{num}-{anio} en la relatoría de la Corte Suprema."})
+            directa = _url_directa(d)
+            m = re.fullmatch(r"(C|T|SU)-(\d+)", numero)
+            if not m:                                  # Corte Suprema, Consejo de Estado, etc.
+                if directa:
+                    listas.append(_entrada_directa(d, directa, base))
+                else:
+                    tipo = numero.split("-")[0]
+                    motivo = (f"Es de la Corte Suprema ({CORTE_SUPREMA[tipo]}), no de la Corte "
+                              f"Constitucional. Buscar el radicado {numero}-{anio} en su relatoría."
+                              if tipo in CORTE_SUPREMA else "Radicado sin patrón de URL; buscar a mano.")
+                    pendientes.append({"norma": d["norma"], **base, "motivo": motivo})
                 continue
+            tipo, num = m.groups()
             urls = _urls_sentencia(tipo, int(num), int(anio))
+            if directa:
+                urls = list(dict.fromkeys([directa] + urls))
             listas.append({"doc_id": f"sentencia_{tipo.lower()}-{int(num)}_{anio}",
                            "titulo": f"Sentencia {tipo}-{int(num):03d} de {anio}",
                            "fuente": "Relatoría de la Corte Constitucional",
@@ -140,10 +169,28 @@ def convertir(seed: dict) -> tuple[list[dict], list[dict]]:
                            "seguir_paginas": False, "tipo_norma": "sentencia", "anio": int(anio),
                            "organo_emisor": "Corte Constitucional", **base})
 
+        elif _url_directa(d):
+            listas.append(_entrada_directa(d, _url_directa(d), base))
+
         else:
             pendientes.append({"norma": d["norma"], **base, "donde_buscar": d["donde_buscar"],
                                "motivo": f"Tipo '{clave}' sin patrón de URL conocido; buscar a mano."})
-    return listas, pendientes
+    return _sin_repetidos(listas), pendientes
+
+
+def _sin_repetidos(listas: list[dict]) -> list[dict]:
+    """El seed a veces repite una norma (mismo doc_id o misma URL): se deja una sola
+    entrada y se suman los ítems del banco."""
+    vistos: dict[str, dict] = {}
+    por_url: dict[str, dict] = {}
+    for o in listas:
+        previo = vistos.get(o["doc_id"]) or por_url.get(o["url"].split("#")[0].lower())
+        if previo:
+            previo["items_del_banco"] += o["items_del_banco"]
+            previo["areas"] = list(dict.fromkeys(previo["areas"] + o["areas"]))
+            continue
+        vistos[o["doc_id"]] = por_url[o["url"].split("#")[0].lower()] = o
+    return list(vistos.values())
 
 
 def main() -> None:
