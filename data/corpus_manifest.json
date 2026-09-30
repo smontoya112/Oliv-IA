@@ -1,0 +1,80 @@
+[
+  {
+    "doc_id": "ley_1564_2012",
+    "titulo": "Ley 1564 de 2012 - Código General del Proceso",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html",
+    "fecha_consulta": "2026-09-29",
+    "areas": [
+      "procesal",
+      "civil",
+      "familia",
+      "comercial"
+    ],
+    "tipo_norma": "ley",
+    "numero": "1564",
+    "anio": 2012,
+    "organo_emisor": "Congreso de la República",
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 22,
+    "urls_partes": [
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr001.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr002.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr003.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr004.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr005.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr006.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr007.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr008.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr009.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr010.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr011.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr012.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr013.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr014.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr015.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr016.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr017.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr018.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr019.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr020.html",
+      "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr021.html"
+    ],
+    "sha256_partes": [
+      "a5ee3eccb660e778323c68e85ca6122b7007351f3a89936601736ef722d42e35",
+      "53c528c3852a59531f1d3547f009e5047a4e14685efc8ef7039c37697e0718ba",
+      "99ee95bd65866e8ba40117e4655d5156e879710707390361fbd236044a873cee",
+      "eee747e2ab0234ac6c200b70a8a5e277bd6acfc0eb9945bab02aece1a1d1eadb",
+      "633cf9878c312590f8d556b06c4c06c813c9d5c7fda7c0b888faacda2222e0be",
+      "c7a1f6529a1a58a584e2b2fa008f39983a9c1847570c0301ec9a79b0f5f5d5a5",
+      "4fc1fb09e4688c22c47eb5045ae3674835e10b9b3e23372ab4bddbcdd1c3effd",
+      "f4b3d8ed11b4154210a6bea9e6437baeb0d39150c24ec5300518936c9007aeda",
+      "f92e570257d5b73ed79c55eb85906d0649a7dd4a832754d560c4c5a68cfe1a5f",
+      "14e860355bc5e00cab0560d33d1bbf0fa0f2d5a5adc56de00b554d72f88ffe81",
+      "8a7fe2aaf16ec06a8c1fa6e696368ba5808d6144a117e21942f73f068380854a",
+      "5c280fee7ef7bc7c5b74047be7ea437b30b4f1fa6fc467d827d085d109dbdd33",
+      "e507fe1e3a2ca8e23ec58d4809849124670fdb3c5a4934d2d152c37c692808ba",
+      "e32cc9f655d189129740b2c0d68c57891d5134cda99cd435dd29161374ad7d90",
+      "784fef42677ed7b3efbb0b592ad6e35535c0969013a1e2ac5ea026e406087555",
+      "7f10ba120839d4a468e93f016f16c85a4095a467ac41226e9fe340d97a0342d1",
+      "4a5eb9bdbd1e28f1cf3bc66dd7bb3a9db6a51c2d999ced79bbc6d9638b1a4f15",
+      "1b61bb1a1fb5961978cd03484d8c3b4bd55ae65d73d48c60ed4eea8ce2ca3e36",
+      "b462b30161676f1f901e67c8d62a56b9ea8293eba22fd68b36cade1c600f8fa5",
+      "47a1f1b889710eeafdc5e3bdf49cc1b365a753136938e04a45f678477c1af77c",
+      "034486af31d4313822d461c8e893f266dfc4e9f2950d901aa865b15af9b56320",
+      "b0652f89bbded868884884266ffc23cd8fa8c274c0118f1dd670caa01cbc3343"
+    ],
+    "fecha_actualizacion_fuente": "15 de septiembre de 2026",
+    "n_caracteres": 810328,
+    "n_articulos_detectados": 629,
+    "archivo_md": "md/ley_1564_2012.md",
+    "estado": "ok"
+  }
+]
