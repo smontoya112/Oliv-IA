@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-117_2018",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-117-18.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-117-18.htm",
+      "sha256": "d93fd01310b9eaa91499390c874a245861ce6986cdb31571076ca49335a5cf00",
+      "bytes": 741234,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:22-05:00"
+    }
+  ]
+}

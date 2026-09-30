@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-425_2025",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/SU425-25.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2025/SU425-25.htm",
+      "sha256": "a5e684b7ef14ac051681775cdb78264d08974dcf127312011011c97976428527",
+      "bytes": 415635,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:06-05:00"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+---
+{
+  "doc_id": "sentencia_sp_1680_2022",
+  "titulo": "Sentencia SP-1680 de 2022",
+  "fuente": "Corte Suprema de Justicia",
+  "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1680-2022(60875).pdf",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "penal"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "SP-1680",
+  "anio": 2022,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "SP-1680",
+    "2022"
+  ],
+  "items_del_banco": 2,
+  "formato_origen": [
+    "pdf_texto"
+  ],
+  "codificacion": [],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1680-2022(60875).pdf"
+  ],
+  "sha256_partes": [
+    "cfd220418dcd5f5a208f8d01b56f9235db55f291c71bf4716ae81fcad5cc6d88"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 57444,
+  "n_articulos_detectados": 0,
+  "archivo_md": "md/sentencia_sp_1680_2022.md",
+  "metadata_autocompletada": [
+    "numero",
+    "organo_emisor"
+  ]
+}
+---
+
+<!-- parte parte_000.pdf | https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1680-2022(60875).pdf -->
+<!-- pagina 1 -->
+JOSÉ FRANCISCO ACUÑA VIZCAYA
+Magistrado Ponente
+
+SP1680-2022
+Radicación No. 60875
+Aprobado acta No. 108
+
+Bogotá, D.C., dieciocho (18) de mayo de dos mil veintidós (2.022)
+
+La Sala decide el recurso extraordinario de casación interpuesto por el defensor de JHORMAN JAVIER GALVIS
+SANABRIA, condenado en ambas instancias como autor de un homicidio cometido con dolo eventual.
+
+HECHOS
+
+En la madrugada del 2 de julio de 2016, Reinaldo
+Quintero Nogoa (quien para la época prestaba el servicio de transporte informal en un carro Chevrolet Swift de su propiedad) recogió a Liliana Ramos Ospina para llevarla desde Cúcuta hasta Ureña. Con la nombrada iban su hijo Brayan Abel
+García Ramos, de 22 años, su hermana y su cuñado. Liliana
+
+<!-- pagina 2 -->
+JHORMAN JAVIER GALVIS SANABRIA
+ocupó el puesto del pasajero de adelante, Brayan Abel se ubicó en la parte posterior - justo detrás del conductor - y los dos restantes tomaron los puestos medio y derecho del asiento trasero. Así emprendieron el camino.
+
+Pasados algunos minutos, y en cierto semáforo de la vía, los mencionados se encontraron con unos motociclistas que estaban obstruyendo el paso. Ante el reclamo que por ello les hizo Reinaldo Quintero Nogoa, uno de los individuos reaccionó rompiendo con una patada el retrovisor izquierdo del automóvil. Algunos metros más adelante, en una glorieta cercana a la cárcel Modelo donde volvieron a coincidir,
+Quintero Nogoa descendió armado con un machete para confrontarlos por lo sucedido, pero Liliana Ramos también se bajó, intervino, lo calmó y continuaron el recorrido.
+
+Sin embargo, cuando estaban en el sector conocido como “la cuerera” fueron alcanzados por los motociclistas.
+Allí, JHORMAN JAVIER GALVIS SANABRIA - quien iba como parrillero en la moto que, de acuerdo con la acusación, manejaba Wilfrand Rodolfo Morantes Rincón – le lanzó al vehículo una piedra que entró por la ventana del conductor, pasó rozando su cabeza e impactó en el pecho a Brayan Abel.
+El golpe le fracturó el esternón y laceró la aorta, consecuencia de lo cual falleció segundos después.
+
+ANTECEDENTES
+
+1. El 21 de noviembre de 2016, ante el Juzgado Primero
+Penal Municipal Ambulante de Cúcuta, la Fiscalía legalizó la
+
+<!-- pagina 3 -->
+JHORMAN JAVIER GALVIS SANABRIA
+captura de JHORMAN JAVIER GALVIS SANABRIA y Wilfrand
+Rodolfo Morantes Rincón, a quienes imputó como coautores del delito de homicidio «cometido con un dolo eventual» bajo el presupuesto de que «existe la configuración del aberratio ictus» porque el objetivo del ataque no era el occiso sino el conductor Quintero Nogoa. En la misma diligencia se les impuso medida de aseguramiento privativa de la libertad en sus respectivas residencias1.
+
+2. Formulada la acusación con la precisión de que el llamamiento a juicio contra GALVIS SANABRIA y Morantes
+Rincón no lo era como coautores sino como autor y cómplice, respectivamente,2 y agotado el restante trámite ordinario sin incidencias relevantes, el Juzgado Sexto Penal del Circuito de Cúcuta profirió la sentencia de 26 de octubre de 2020, por la cual (i) absolvió a Wilfrand Rodolfo Morantes Rincón y (ii) condenó a JHORMAN JAVIER GALVIS SANABRIA a la pena de 208 meses de prisión.
+
+3. El Tribunal de la misma sede resolvió el recurso de apelación promovido por la defensa mediante fallo de 21 de octubre de 2021, en el cual confirmó íntegramente la decisión de primer grado.
+
+4.
+El mismo sujeto procesal presentó recurso extraordinario de casación y lo sustentó oportunamente. La
+Sala dispuso superar los defectos de técnica y argumentación que exhibe la demanda para estudiar el fondo de los
+
+1 Récord 6:00 y ss.
+2 Récord 6:00 y ss.
+
+<!-- pagina 4 -->
+JHORMAN JAVIER GALVIS SANABRIA
+problemas jurídicos allí planteados y los que subyacen al trámite.
+
+LA DEMANDA
+
+Contiene dos cargos a partir de los cuales pide a la Sala casar el fallo cuestionado y «proferir (uno) de remplazo de homicidio culposo en contra de JHORMAN JAVIER GALVIS
+SANABRIA».
+
+En el primero (formulado por la vía de la causal tercera), el actor manifiesta que el Tribunal cometió «un error de hecho» cuando concluyó que GALVIS SANABRIA obró con la intención de «atentar contra la integridad» de Reynaldo
+Quintero Nogoa y al inferir que actuó con dolo eventual respecto de los demás ocupantes del vehículo, entre ellos, el occiso. Al sostener esa premisa pasó por alto que el carro tenía vidrios polarizados y era de madrugada, por lo cual el enjuiciado no podía saber si el rodante «estaba con la capacidad total de pasajeros», máxime que ni Liliana Ramos
+Ospina ni Brayan Abel García Ramos descendieron del mismo durante la confrontación que se suscitó.
+
+En el segundo (que en cambio apoya en la causal primera), aduce que el ad quem aplicó indebidamente el artículo 22 del
+Código Penal y dejó de aplicar el 109 de la misma codificación. El hecho que el Tribunal dio por demostrado, dice, «de ninguna manera conlleva una imputación al tipo subjetivo doloso», sino
+«un actuar con culpa con representación». Agrega que lo pretendido por GALVIS
+
+<!-- pagina 5 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+SANABRIA al lanzar la piedra que impactó al occiso era dañar el carro y «de las pruebas practicadas no se puede concluir de manera certera que… hubiese previsto que… pudiese ocasionar la muerte a uno de los ocupantes».
+
+SUSTENTACIÓN E INTERVENCIÓN DE LOS NO
+RECURRENTES
+
+1. El defensor insistió en sus argumentos y pretensión y profundizó en el análisis probatorio que los soporta. Explicó que, de acuerdo con los testimonios practicados, lo que sucedió en los instantes anteriores al lanzamiento de la piedra fue que Quintero Nogoa se puso al frente de la motocicleta en la que GALVIS SANABRIA estaba, le apuntó con las luces altas e intentó embestirla. En ese orden, la potencia del golpe sufrido por Brayan Abel García se debió a
+«la velocidad, las fuerzas, la masa, la inercia y el movimiento», aspectos sobre los cuales el acusado, que apenas cursó primero de primera, es ignorante. Expuso así mismo que ninguna prueba permite afirmar, como lo hicieron las instancias, que «la piedra tenía como dirección el interior del automotor», y menos aún que lo pretendido por el procesado era atentar contra el conductor del rodante.
+
+2. La fiscal segunda delegada para la casación penal se opuso a la pretensión del actor.
+
+Luego de disertar sobre la culpa y el dolo eventual y de reseñar el resultado del debate probatorio, consideró que las instancias atinaron en la subsunción del tipo subjetivo. En
+
+<!-- pagina 6 -->
+JHORMAN JAVIER GALVIS SANABRIA
+su opinión, los hechos demostrados permiten inferir que
+GALVIS SANABRIA sí sabía de la presencia de otras personas en el interior del vehículo, pero además, que al lanzar la piedra «dejó al azar… el daño a cualquiera de los tripulantes».
+Y aunque el Tribunal se equivocó al dar por cierto que lo pretendido por el procesado era atentar contra el conductor del rodante – pues de ello no hay ninguna prueba -, el dislate no enerva la decisión de condena porque «dicha intención no es elemento estructurante de la modalidad conductual por la que fue» condenado. Añadió que las circunstancias de modo en que ocurrieron los hechos descartan de plano el comportamiento imprudente por el que propugna el defensor, pues la primera acción – el lanzamiento de una roca a un carro en movimiento – no es «indiferente para el derecho penal».
+
+3. También el procurador segundo delegado para la casación penal conceptuó en contra de las pretensiones del recurrente. En esencia, estimó que las pruebas practicadas permiten deducir que JHORMAN JAVIER GALVIS SANABRIA
+«tuvo la intención de causar daños al conductor del vehículo que estaba en movimiento» y, al lanzar la piedra en su dirección, «asumió el riesgo… (de) ocasionar diferentes daños a los bienes jurídicos, que fue lo que ocurrió».
+
+CONSIDERACIONES
+
+1. Precisiones iniciales.
+
+<!-- pagina 7 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+Como la demanda fue admitida, corresponde a la Sala examinar los problemas jurídicos presentados por el actor sin atención a las patentes deficiencias técnicas advertidas en ella.
+
+No obstante, la Corte no se detendrá en el examen del segundo cargo (en el cual el actor denuncia la inaplicación del artículo 109 del Código Penal y la aplicación indebida del artículo 22 ibídem) porque la simple lectura del fallo de segundo grado permite desestimarlo objetivamente sin necesidad de mayores consideraciones. El Tribunal nunca tuvo por ciertos los presupuestos fácticos de la infracción culposa. Así fundamentó la condena:
+
+«En efecto, el ejercicio cognoscitivo del autor del hecho a título de dolo eventual, estuvo constituido por la consideración siquiera mínima realizada por GALVIS SANABRIA de las consecuencias para el resto de tripulantes, la producción de este riesgo
+(lanzamiento de la piedra al vehículo) y su no producción fue librada al azar. A diferencia de la culpa consciente alegada por el recurrente, la Sala advierte los elementos constitutivos de la modalidad del dolo eventual, toda vez que, no es como aduce el togado defensor, que debido al estado de la vía, luminosidad y condiciones del vehículo entre otras causas, se produjo el resultado que en principio iba dirigido solo al conductor, no!, lo que sucede y como bien lo advierte el Alto Tribunal, es la relevancia que adquiere el conocimiento por parte del procesado de esas circunstancias para tomar la decisión de actuar con el objetivo de dañar. Es precisamente ese ejercicio intelectual, reflexivo y consiente (sic) que se reprocha al hoy procesado, pues su actuar fue distinto, conocía de las circunstancias que rodeaban el tránsito del vehículo en donde se movilizaba la víctima, existía un altercado previo que indudablemente haría que el conductor preservara su vida por instinto de supervivencia y aun así, tomó la decisión de arrojar una piedra para dañar al conductor o posiblemente a un pasajero como ocurrió
+(circunstancia lesiva representada y dejada al azar)».
+
+Como se ve, la corporación (aunque con poca claridad en la argumentación, se admite) declaró probado que el enjuiciado se
+
+<!-- pagina 8 -->
+JHORMAN JAVIER GALVIS SANABRIA
+representó el resultado típico causado y dejó su producción librada al azar. Estos hechos, como quedará precisado más adelante, corresponden precisamente al dolo eventual y no a la culpa, de manera que ningún yerro de selección normativa cometió.
+
+El examen, pues, se centrará en los reproches probatorios y dogmáticos planteados en la demanda. Con ese fin, la Sala comenzará por realizar algunas consideraciones breves sobre el dolo, la preterintención, la culpa y los errores sobre el curso causal. A partir de ello, y con apoyo en las pruebas practicadas en el juicio, abordará el caso concreto.
+
+2. Sobre el dolo, la culpa, la preterintención y los errores sobre el curso causal.
+
+2.1 De acuerdo con el artículo 21 del Código Penal, la conducta humana (cuando menos para efectos jurídico-penales) puede ser dolosa, culposa o preterintencional.
+
+2.1.1 El dolo es de tres tipos. El directo, o de primer grado, que se verifica, al decir del artículo 22 siguiente,
+«cuando el agente conoce los hechos constitutivos de la infracción penal y quiere su realización». Es el supuesto del individuo que realiza un comportamiento típico sabiendo lo que hace y porque esa es precisamente su voluntad.
+
+Puede ser también indirecto – o de segundo grado o de consecuencias necesarias – si el agente, aunque no quiere lograr un determinado resultado, sabe que éste se seguirá
+
+<!-- pagina 9 -->
+JHORMAN JAVIER GALVIS SANABRIA
+necesariamente de su conducta y aun así sigue adelante con ella. Sucede, por ejemplo, si para causar la muerte a otra persona le lanza una granada con el conocimiento de que en la explosión también fallecerá un tercero que allí se encuentra (cuyo deceso no pretende pero se representa cierto). Esta forma de dolo no está expresamente consagrada en el Código
+Penal, pero se deriva lógicamente del tenor del artículo 22 precitado. En últimas, la aceptación de un resultado no querido que sin embargo se sabe seguro (así sea al modo de una consecuencia accesoria para asegurar una finalidad ulterior) consiste básicamente en lo mismo que simplemente quererlo. Una y otra modalidad sólo pueden diferenciarse a partir de una sutileza volitiva que es irrelevante para la caracterización del injusto. En otras palabras,
+
+«[d]entro del dolo directo se incluyen también los casos en los que el autor no quiere directamente una de las consecuencias que se va a producir, pero la admite como necesariamente unida al resultado principal que pretende… Las diferencias psicológicas no significan necesariamente diferencias valorativas penales: tan grave puede ser querer matar a alguien sin más, como admitir su muerte como una consecuencia necesariamente unida a la principal que se pretendía»3.
+
+Finalmente, el dolo puede ser eventual. En este caso, el sujeto activo no quiere el resultado típico, pero sabe que puede seguirse como una consecuencia probable de su conducta; aun así, persiste en su comportamiento con total indiferencia o apatía por su posible ocurrencia, es decir, le da igual si sucede o no4.
+
+3 MUÑOZ CONDE, Francisco. Teoría general del delito. Ed. Temis (Bogotá, 2012), p. 56.
+4 Cfr. CSJ SP, 12 feb. 2014, rad. 36312.
+
+<!-- pagina 10 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+En ese orden, mientras que en la conducta cometida con dolo indirecto o de segundo grado el agente sabe que el resultado no querido se producirá y, aunque no lo desea, lo asume, en el dolo eventual prevé que el resultado no querido es probable, mas no cierto, y sigue adelante con su conducta porque le es irrelevante si se da o no. La diferencia radica, pues, en el pronóstico de probabilidad sobre la configuración del resultado típico y, por ende, en qué es aquello que el individuo asume como consecuencia de sus acciones u omisiones.
+
+Desde luego, es por lo general imposible conocer mediante pruebas directas cuál es la relación cognitiva y volitiva del sujeto con el resultado típico. Salvo que aquél la confiese o la haya comunicado exteriormente mediante manifestaciones susceptibles de incorporación en el juicio, aquella debe deducirse o inferirse de los datos objetivos anteriores, concomitantes y posteriores al hecho acreditados en la actuación. En algunos casos aparece evidente (por ejemplo, cuando la conducta consiste en disparar directamente y a corta distancia un arma de fuego hacia la cabeza de un tercero), pero en otros se requiere un análisis más minucioso de las variables fácticas relevantes.
+
+Similar sucede con el pronóstico de probabilidad o certeza del resultado típico. En algunos eventos, es evidente que la acción u omisión emprendida por el agente habrá de causarlo necesariamente y, por ende, que la conducta cae en el ámbito del dolo directo o indirecto, según el caso
+(verbigracia, y para reiterar el ejemplo ya usado, cuando se acciona una
+
+<!-- pagina 11 -->
+JHORMAN JAVIER GALVIS SANABRIA
+granada para asesinar a una persona que camina junto a otra). En otros, la predicción de eficacia causal (que debe agotarse desde una perspectiva ex ante) no es tan obvia y, por ende, la distinción probatoria entre el dolo indirecto y el eventual deviene más difusa. A su vez, y como el dolo eventual requiere que el agente haya previsto el resultado como probable (que no simplemente como posible), debe inferirse de los hechos acreditados cuál fue el grado de representación del resultado típico que el agente alcanzó antes de ejecutar su comportamiento. A ese respecto, la Sala ha referido a la utilidad de las reglas científicas y empíricas y de las conductas especialmente aptas y las neutras, así:
+
+«…la cuestión de si el actor se ha representado como probable el resultado rara vez encuentra demostración directa en el proceso y, por ende, normalmente debe inferirse a partir de sus comportamientos o manifestaciones externas, ora de los hechos objetivos acreditados en la actuación. A tal efecto, resultan útiles las reglas de la experiencia y la ciencia y, tratándose en particular de los delitos de resultado, las nociones de conductas especialmente aptas para provocarlo y conductas neutras, así:
+
+“… la experiencia social distingue, en lo que respecta a los riesgos que conllevan determinados comportamientos, entre conductas especialmente aptas para ocasionar ciertos resultados y conductas que, si bien son objetivamente capaces de provocar determinadas consecuencias lesivas, en la valoración social no están vinculadas indefectiblemente a su acaecimiento. La distinción entre conductas especialmente aptas y este segundo grupo de conductas
+—que en adelante serán denominadas
+“conductas neutras”— debe ser el criterio rector en la práctica para decidir cuándo una alegación de desconocimiento del riesgo concreto deberá ser creída.
+En esta distinción influyen cuestiones muy diversas, como la utilidad social de determinadas actividades, la habituación que existe a ellas o la frecuencia estadística con la que su ejecución lleva al acaecimiento del resultado. En el caso del homicidio, por ejemplo, pueden citarse como especialmente aptas para causar una muerte conductas como disparar contra el cuerpo de otra persona o hacer explosionar una potente bomba en un lugar concurrido. En
+
+<!-- pagina 12 -->
+JHORMAN JAVIER GALVIS SANABRIA
+cambio, otros comportamientos como conducir un automóvil son sólo neutros en relación con el resultado, pues, aunque objetivamente pueden ocasionar una muerte, en la experiencia social esta consecuencia no es algo indisociablemente ligado a su realización”5.
+
+Por supuesto, cada caso debe analizarse con atención a sus particularidades: de un hombre adulto ordinario que causa la muerte a otro de similares características físicas y etarias tras propinarle un puño en el rostro es plausible que no se haya representado ese resultado, pues una agresión como aquélla no es especialmente apta para ocasionarlo. Tal análisis, sin embargo, puede variar si el golpeador resulta ser un boxeador profesional y el ofendido, por ejemplo, un anciano. En igual sentido, si una persona dispara a otra con un arma de fuego en el pecho con el fin de lesionarla pero lo que hace es matarla, difícilmente podrá asumirse como verosímil, ante la especial aptitud de ese acto para quitar la vida, que no se representase la probabilidad del deceso.
+Pero el razonamiento puede ser distinto si el disparo no lo dirige a torso de la víctima sino a una de sus extremidades, y el fallecimiento se produce por la circunstancia de haberse impactado una arteria»6.
+
+2.1.2 Por otro lado, y al tenor del artículo 23 ibidem, «la conducta es culposa cuando el resultado típico es producto de la infracción al deber objetivo de cuidado y el agente debió haberlo previsto por ser previsible, o habiéndolo previsto, confió en poder evitarlo».
+
+Es el caso, pues, en que el agente, obrando con negligencia o impericia, crea un riesgo que se concreta en la realización de un resultado típico que siendo consecuencia previsible de su actuar aquél no previó o que, aunque sí previó, creyó erradamente poder evitar.
+
+5 RAGUÉS I VALLÉS, Ramón. “Consideraciones sobre la prueba del dolo”. En Revista de estudios de la justicia, n. 4 (2004), ps. 24 y 25.
+6 CSJ SP, 28 jul. 2021, rad. 47063.
+
+<!-- pagina 13 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+Así, en el comportamiento culposo el sujeto activo no quiere el resultado, no lo asume como consecuencia necesaria de su actuar ni es indiferente a su ocurrencia.
+Tampoco es producto de un exceso en su voluntad dolosa primaria. O no lo previó aunque era previsible (justamente por su negligencia o impericia) o, habiéndolo previsto, siguió adelante con su actuar porque creyó que lograría evitar su realización.
+
+2.1.3 Finalmente, la conducta es preterintencional, según el artículo 24 del Código Penal, «cuando su resultado, siendo previsible, excede la intención del agente». Al respecto, la Sala tiene dicho lo siguiente:
+
+«… la consagración normativa del delito preterintencional proviene del reconocimiento de que una misma conducta humana puede reunir elementos dolosos y culposos, así como de la inconveniencia político criminal e incongruencia dogmática de reprimir una tal conducta como si fuese exclusivamente dolosa o únicamente negligente:
+
+“El que golpea a una persona que tras de sí tiene una escalera actúa dolosamente al golpearle en el rostro y actúa imprudentemente al no contemplar o valorar adecuadamente la posibilidad de que a causa de ese golpe puede caer de espalda y golpearse la nuca contra el borde de un escalón, lo que le causa la muerte. Estimar que la totalidad del suceso cabe en el dolo de la primera parte de la acción es excesivo bajo cualquier punto de vista”7.
+
+Lo esencial de la infracción preterintencional, pues, es que el resultado típico no se produce porque el agente lo quiera, sino porque, siendo consecuencia previsible de su actuación dolosa, ha dejado de representárselo por una violación del deber de cuidado y da lugar, con ello, a su realización»8.
+
+7 QUINTERO OLIVARES, Gonzalo. Las vicisitudes del dolo y la subsistencia de la preterintencionalidad. Citado en RAMÓN RIBAS, Eduardo. “El homicidio preterintencional”. En
+Revista de derecho penal y criminología, n. 3 (2010), p. 149.
+8 CSJ SP, 28 jul. 2021, rad. 47063.
+
+<!-- pagina 14 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+En ese orden, y conforme el precedente en cita, «la configuración del homicidio preterintencional requiere (i) un comportamiento inicial de naturaleza dolosa orientado a causar lesiones corporales; (ii) la muerte de la persona cuya integridad pretendió afectar el agente, siempre que el deceso pueda calificarse como una consecuencia previsible de dicho comportamiento, y; (iii) la constatación de que, a pesar de la previsibilidad de dicho resultado, el agente no lo previó por su propia culpa»9.
+
+Desde luego, si la valoración de las circunstancias que rodearon la conducta permite inferir que el resultado típico no sólo era previsible para el agente sino que éste efectivamente se lo representó, su comportamiento trasciende la preterintención para ubicarse en cambio en el ámbito del dolo eventual, pues en ese caso su vinculación subjetiva con el resultado deja de ser la culpa (en concreto, la de haber dejado de advertir, siendo previsible, que su conducta podía causar un resultado más gravoso del pretendido) y se convierte en indiferencia por la causación de algo que sabe probable.
+
+2.2. Puede suceder que el agente, no obstante actuar con una finalidad y conocimiento definidos y emprender una serie de acciones u omisiones dirigidos a la consecución de su propósito, ocasione resultados típicos diferentes de los que quería lograr, es decir, que se configure un error sobre el curso causal.
+
+9 Ibídem.
+
+<!-- pagina 15 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+2.2.1 Preliminarmente ha de aclararse que no obstante la denominación que en el ámbito académico se hace de tales casos como errores10, no se trata, en estricto sentido, de especies de error (como el de tipo o prohibición) porque con ello no se alude a situaciones en que el actor obra con una representación distorsionada de la realidad, sino a alteraciones objetivas de la causalidad planeada en las que se involucran criterios de imputación objetiva, conforme se explicará en detalle más adelante.
+
+Así, se excluyen de esta categoría los supuestos de error en la cosa y en la persona, los cuales en principio – salvo los escenarios en que falta la equivalencia típica porque las características específicas del objeto o del individuo determinan una subsunción objetiva particular (verbigracia, la condición de bien público para el peculado, o la calidad de menor de edad para el homicidio agravado) - carecen enteramente de trascendencia.
+
+Y es que, de todas maneras, no resulta necesario profundizar sobre estos errores (en el objeto y la persona) por cuanto en el caso que se examina la controversia no guarda ninguna relación con uno u otro: lo que se debate no es si
+GALVIS SANABRIA dirigió la agresión contra Brayan Abel
+García Ramos bajo la representación errada de que éste era
+Reinaldo Quintero Nogoa (a quien, según la tesis del Tribunal, quería lesionar), ni tampoco que lo haya hecho con la convicción equivocada de que Brayan Abel era el vehículo que
+
+10 También identificadas en algunos textos como desviaciones del curso causal.
+
+<!-- pagina 16 -->
+JHORMAN JAVIER GALVIS SANABRIA
+pretendía dañar (conforme el planteamiento de la defensa). No es, pues, un supuesto de «confusión del objeto por otro»11.
+
+2.2.2 Tampoco se ocupará la Sala, así se estudien normalmente en relación con lo que acá se discute, del dolus generalis y la aberratio causae, que suceden cuando «el resultado querido se produce por una mecánica causal… desplegada voluntariamente por el autor, pero distinta de las que él previó para lograr dicho resultado»12, por ejemplo, porque pretende matar a otro de un golpe pero éste perece por la infección de las heridas causadas, ora por cuanto, creyendo fallecida a la persona a quien ha propinado un disparo, la arroja a un río y su deceso se produce por ahogamiento.
+
+2.2.3
+Así las cosas, el análisis se centrará específicamente en el error del curso causal conocido como aberratio ictus.
+
+2.2.3.1 Éste – en su concepción tradicional - se configura cuando el resultado pretendido por el autor no se produce sobre el objeto al que estaba dirigida la acción sino sobre otro, no porque el agente los haya confundido (lo cual sería un error en el objeto o la persona, según el caso), sino por cuanto ocurre una doble desviación en la ejecución del delito.
+El ejemplo más evidente es el que sucede si el agente dispara contra Pedro con la intención de matarlo (sabiendo que se trata de Pedro y sin ninguna representación errada sobre su identidad) pero
+
+11 MIR PUIG, Santiago. Derecho penal. Parte general. Ed. XX (Barcelona, 2002), ps. 260 y 261.
+12 CREUS, Carlos (n. 12), p. 349.
+
+<!-- pagina 17 -->
+JHORMAN JAVIER GALVIS SANABRIA
+por su mala puntería, o por cualquier otra razón similar, desatina (primera desviación), impacta en cambio a Carlos
+(segunda desviación) y le causa la muerte. El resultado querido no se produce y el que se produce no era querido.
+
+En tales eventos se ha admitido como solución, asumiendo una comprensión abstracta de dolo, la de responsabilizar al agente únicamente por el resultado consumado (en el entendido, desde luego, de que exista absoluta equivalencia típica entre el resultado pretendido y el conseguido)13, pero también – con apoyo en un entendimiento concreto del dolo - la de atribuirle una tentativa por lo pretendido y la infracción culposa por lo logrado, pues el resultado configurado deviene del descuido o negligencia en la ejecución del plan originalmente concebido y como concretización del peligro desaprobado que por esa vía ha creado.
+
+Esta segunda solución14 (que parece más ajustada al orden jurídico nacional que la primera, no sólo por la comprensión específica del dolo, sino también porque no deja en la impunidad el atentado contra el interés jurídico cuya afectación pretendía el agente) también resulta aplicable a los eventos en que no existe equivalencia típica entre el resultado pretendido y el obtenido. Así sucede si el agente, queriendo causar la muerte de Pedro con un disparo, desatina e impacta a Carlos, quien no fallece pero queda lesionado. O viceversa: si con el ánimo de lesionar a
+
+13 JESCHEK, Hans-Heinrich y WEIGEND, Thomas. Tratado de derecho penal. Parte general.
+Ed. Instituto Pacífico (Lima, 2014), p. 462.
+14 Por ejemplo, CSJ AP, 18 nov. 2020, rad. 52974.
+
+<!-- pagina 18 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+Pedro yerra en la ejecución del plan y causa la muerte de
+Carlos.
+
+Por supuesto, para que la infracción efectivamente materializada pueda ser castigada como un delito culposo no sólo se necesita que exista el correspondiente tipo imprudente, sino también que el resultado ocasionado sea previsible para el autor y éste no lo previese por su negligencia, o que, habiéndolo previsto, confiase equivocadamente en que lograría evitarlo.
+
+2.2.3.2 Ahora bien, la solución recién mencionada únicamente tiene cabida en tanto la vinculación subjetiva del agente con el resultado típico producido sea, en efecto, la culpa. En cambio, «de forma diferente hay que decidir cuando el autor ha considerado como posible el curso erróneo de su ataque y se ha conformado con una eventual lesión del segundo objeto, es decir, cuando ha actuado con (dolo eventual)»15. En efecto, si el sujeto activo, con independencia de cuál fuere su voluntad original, se representa como probable que su plan podría provocar un resultado típico distinto del querido y esto efectivamente ocurre, su relación cognitiva y volitiva con ese resultado no puede calificarse de negligente sino de dolosa (§ 2.1.1).
+
+Como de tal representación, según se explicó, rara vez se tiene prueba directa, este juicio debe fundamentarse en las circunstancias objetivas conocidas en el proceso y, muy
+
+15 WESSELS, BEULKE y SATZGER. Derecho penal. Parte general: el delito y su estructura. Ed.
+Instituto Pacífico (Lima, 2018), p. 157.
+
+<!-- pagina 19 -->
+JHORMAN JAVIER GALVIS SANABRIA
+específicamente, en el análisis del mecanismo empleado por el autor para conseguir el resultado pretendido: si el agente busca asesinar a Pedro con un disparo y lo que sucede es que el proyectil traspasa su cuerpo – dejándolo lesionado pero vivo - e impacta a un tercero que pasaba aleatoriamente por allí y fallece, podría razonablemente concluirse que el resultado conseguido fue ocasionado por culpa. Pero si lo ocurrido es que el atentado inicial se ejecuta mediante una prolongada ráfaga de metralla contra su residencia y quien muere no es Pedro sino un tercero que vive con él, difícilmente podría aceptarse que ese resultado no fue previsto como probable.
+
+2.2.3.3 Otro supuesto relevante para la comprensión del caso examinado debe abordarse acá: aquél en el cual «la individualización concreta del objeto no dependa del autor y en ella exista solo una elección del objeto de agresión casual, no motivada»16. En tal evento, «(según) la opinión dominante, se considera aisladamente la sanción por un delito doloso consumado respecto al error en la ejecución»17. Piénsese en quien, motivado por un profundo fanatismo, se determina a asesinar al primer hincha de un equipo rival que vea en la calle, quienquiera que sea. Al salir de su casa oye que por la esquina viene un grupo de gente haciendo cánticos alusivos a dicha escuadra, por lo cual se apresta a disparar al primero de ellos que se asome. Así lo hace, pero el proyectil, en vez de impactar a Pedro (quien encabezaba la marcha) le pega y mata a
+Carlos, que iba a pocos pasos de él. Nótese cómo (i) la
+
+16 Fs. 158 y 159.
+17 Ibídem.
+
+<!-- pagina 20 -->
+JHORMAN JAVIER GALVIS SANABRIA
+individualización específica del objeto del delito no dependía en tal caso de la voluntad del agente, sino de una circunstancia ajena a él, y (ii) en la determinación finalística de su comportamiento, la elección del sujeto pasivo no tenía motivación específica, pues le daba lo mismo matar a uno o a otro en tanto ambos fuesen hinchas del equipo contrario.
+Así las cosas, no hay lugar a sancionar al autor por una tentativa de homicidio respecto de Pedro (así fuese quien encabezaba el grupo y la persona contra la cual aquél, en principio, disparó) sino únicamente por el homicidio doloso de Carlos.
+En últimas, su dolo (al margen de la circunstancia accidental de que haya sido Pedro a quien el agente vio primero) se perfeccionó conforme lo concibió (pues quería matar a un hincha rival y eso fue precisamente lo que consiguió).
+
+2.2.3.4 En últimas, debe tenerse en cuenta que las desviaciones del curso causal tienden a ser excluidas del tema del error (pues, como ya se dijo, no trata de situaciones en que el agente obra bajo una representación errada de la realidad) para ser examinadas «como puros problemas de imputación objetiva», de manera que «las soluciones (dependen) de si el resultado es o no procedente del peligro creado por la acción del autor…»18 y, claro está, de las exigencias subjetivas pertinentes para cada una de las modalidades delictivas (§
+2.1). En esas condiciones, y en términos generales, «el error sobre el curso causal es irrelevante cuando el resultado responde al dolo del autor»19.
+
+18 Creus (n. 12), p. 350.
+19 Ibidem.
+
+<!-- pagina 21 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+3. El caso concreto.
+
+3.1 No se debate ni la muerte de Brayan Abel García
+Ramos ni las circunstancias objetivas en que ésta sucedió.
+Su deceso, de acuerdo con el informe de necropsia, fue causado por «trauma de tórax de tipo contundente que le produce fractura de esternón con laceración de la aorta»20.
+
+Esa herida le fue infligida por JHORMAN JAVIER
+GALVIS SANABRIA cuando, en la madrugada del 2 de julio de 2016, lanzó en su dirección una piedra que le impactó. La identificación del nombrado como el responsable de tal ataque se dio en el juicio por conducto de Liliana Ramos
+Ospina, madre del occiso, quien se encontraba en el vehículo cuando acaeció el hecho investigado y señaló al acusado sin dubitación. Pudo reconocerlo, a su decir, porque no portaba casco y por cuanto en los instantes inmediatamente anteriores a la agresión la moto en la que aquél se transportaba se ubicó justo en frente del carro en que ella iba como pasajera21. Esa sindicación no fue rebatida probatoriamente en el juicio, no es objeto de refutación en la demanda de casación y no existen razones para dudar de su veracidad.
+
+Tampoco hay controversia en relación con las características del objeto lanzado por GALVIS SANABRIA.
+Según el informe de policía judicial que contiene los resultados de la inspección efectuada al vehículo en que se
+
+20 Fs. 52 y ss.
+21 Sesión de 17 de noviembre de 2017, récord 1:50:30 y ss.
+
+<!-- pagina 22 -->
+JHORMAN JAVIER GALVIS SANABRIA
+transportaba el occiso, se trató de una piedra «con forma ovalada y medida (de) 13 x 13 centímetros» que fue hallada en
+«el piso interno, zona cuatro» del rodante22, cuyo peso es de
+2.5 kilogramos23. A su vez, Liliana Ramos Ospina señaló que se trataba de una piedra de río «maciza»24, apreciación que no fue refutada y que coincide con lo que se observa en la fotografía de ese objeto25.
+
+3.2 Las situaciones previas y concomitantes a la ocurrencia del delito fueron descritas unívocamente (salvo en algunos detalles menores) por Reinaldo Quintero Nogoa y Liliana
+Ramos Ospina.
+
+El primero narró lo acaecido en estos términos:
+
+«En el 2016 tenía un carrito Chevrolet Swift verde, me dedicaba a pasar contrabando para el municipio de Ureña… en la noche transportaba (pasajeros)… eran clientes míos, yo los recogía en la madrugada… (el día de los hechos transportaba) a la señora aquí presente, con su hijo, su hermana y su cuñado, esa madrugada… salimos tipo más o menos como 2:30, 3:00 de la mañana… viniendo de Berlinas hacia el Salado donde hay un semáforo paramos un poquito cuando el semáforo cambió, fui yo a arrancar, había unas motos ahí paradas, nosotros les hicimos unas palabras, que se movieran, pero el señor tal vez lo tomó mal… seguí yo, más adelante él se me adelantó y me le dio al espejo, lo partió… más adelante, en La Modelo, ellos arrancaron hacia la vía izquierda ahí en un rompoi (sic), yo me bajé teniendo siempre mi cosa defensora, un bolillo de madera… los desafié a pelear, ellos se quedaron quietos, una moto vi que arrancó, yo me monté en el carro, la señora presente me haló, me dijo “Reinaldo, no, deje eso así”… seguimos la ruta, pasamos La Modelo cuando más adelante ellos comenzaron a tirarnos piedra, hacia la derecha me le pegaron una pedrada… más adelante, hacia la parte que llaman ya “el cerrito”, que es “la cuerera”, me pasó la moto, se me regresó, yo llevaba la luz baja, se la puse en alta, la moto se regresó y el parrillero tomó algo del suelo, una piedra redonda… y se paró
+
+22 F. 19.
+23 F. 13.
+24 Sesión de 17 de noviembre de 2017, récord 1:21:00 y ss
+25 F. 19.
+
+<!-- pagina 23 -->
+JHORMAN JAVIER GALVIS SANABRIA
+agarrando al chofer, se paró hacia atrás y lanzó la piedra, la piedra infortunadamente entró por medio de, hacia mí, el hijo de la señora presente recibió el impacto, solamente hizo “ay, mamá” y no más…
+
+… (en) la parte de atrás (llevaban los vidrios) arriba pero el hijo de ella los bajó, hacia el otro lado estaban subidos porque ellos de los nervios subieron los vidrios… era vidrio medio ahumados, un poquito siempre oscuro… yo sentí cuando “fiu” (la piedra) me pasó… entró por mi ventana, estaba abajo… (¿la ventana izquierda trasera estaba abierta? Sí señor»26.
+
+Por su parte, Liliana Ramos Ospina atestó así:
+
+«Mi actividad laboral en ese entonces, yo trabajo en Ureña, como la frontera estaba cerrada, los fines de semana pasaba con mi hijo para el otro lado a trabajar, yo tengo una carreta en Ureña donde vendo mercancía… me iba con mi hijo, Brayan Abel García Ramos.
+Un sábado en la madrugada, íbamos como de costumbre, exactamente en el semáforo del Salado, el semáforo hace el pare, el carro en el que nosotros íbamos paró, detrás llegó una moto, después llegó otra y después llegó otra, en el momento en que el semáforo cambia, el señor del carro le dice a un motorizado que quedó atravesado que por favor se corra, él se lo dice de una manera tosca… el carro arrancó e inmediatamente un motorizado le pegó una patada al vidrio donde yo iba… el hombre le atravesó la moto y le hacía señas con el brazo, que qué iba a revirar… el hombre arrancó, en la redoma del Salado, en la cárcel Modelo, el señor del carro se bajó, el hombre de la moto estaba al frente, el señor del carro se bajó con un machete en la mano… yo me bajé del carro para tratar de impedir un problema... Yo volví y me monté al carro… siguió su camino… al pasar el policía que hay en la cárcel Modelo yo vi a los hombres al frente de la cárcel, estaban estacionados en las motos… el carro en el que nosotros íbamos siguió, ellos esperaron que el carro bajara más y cuando ya íbamos en lo más oscuro ellos empezaron a lanzar las piedras… pasaron el carro a toda velocidad, se pararon y se vinieron de frente y ahí fue cuando le lanzaron la piedra a mi hijo y me lo mataron… él solamente me dijo “mamá, me pegaron”… se me murió enseguida.
+
+Ellos alcanzaron a acercarse bastante al carro, el chofer prendió las luces del carro, fue cuando yo vi bien la cara del hombre que lanzó la piedra… eran las 3:15 de la mañana… ellos alcanzaron a tirar tres piedras… la primera piedra pegó en la lata de atrás, la segunda fue la que pegó en la ventanilla… la tercera fue la que mató a mi hijo, eran piedras de río, eran piedras macizas… mi hijo
+
+26 Sesión de 22 de octubre de 2019, récord 7:00 y ss.
+
+<!-- pagina 24 -->
+JHORMAN JAVIER GALVIS SANABRIA
+iba sentado detrás del chofer y yo iba sentada adelante, al lado de él… los vidrios iban bajados, de todas las puertas… la primera piedra no me di de cuenta (a qué distancia se las tiraron) porque ellos venían detrás del carro, la segunda más o menos iban alcanzando el carro cuando la lanzaron y la tercera sí fue cerca, fue cerca, bastante cerca… ellos venían de frente, la moto se acercó bastante cuando él lanzó la piedra, se paró, lanzó la piedra así, muy cerca, yo lo alcancé a ver bastante… la moto venía andando y él se paró un poquito, se agarró con una mano y con la otra lanzó… (el chofer se llama) Reinaldo…
+
+(A quien iba conduciendo la motocicleta) no le… (vi) muy bien la cara, pero por el cuerpo… lo miré bien también, fue una de las personas que se atravesó al carro, yo los analicé bien a ellos, él tenía un casco… tenía una chaqueta negra y un bluyín…
+
+… (cuando se van a encontrar la moto y el vehículo, Reinaldo) prendió las luces del carro, él aceleró el carro, acelerar y prender las luces, subió las luces del carro.
+
+… en la redoma de La Modelo él orilló el carro, como vio el motorizado parado al frente se bajó, sacó el machete y se fue hasta donde el de la moto estaba, lo desafiaba, lo llamaba… yo me asusté y dije “voy a bajarme” … íbamos mi hijo, mi hermana, mi cuñado y mi persona, ninguno de ellos se bajó, la única que se bajó fui yo… se montaron de nuevo en las motos y se fueron, el de la chaqueta negra con el bluyín le hacía señas que lo esperara, que ya venía, yo le decía “vámonos, vámonos, ese hombre se fue a buscar un revólver, nos van a matar”, yo me lo traje y él se montó en el carro… mi cuñado iba sentado en la ventanilla derecha, mi hermana iba en el medio y mi hijo iba detrás del chofer en la ventanilla izquierda…
+
+… las otras dos motos iban ahí pero no puedo decir si lanzaron piedras o no porque las motos iban detrás del carro, nosotros mirábamos para atrás y sí venían tres motos, la única moto que pasó el carro fue la moto en la que iba el hombre que tiró la piedra… se acercaron demasiado, el carro iba acelerado… (la piedra) entró por la ventanilla de adelante…»27.
+
+3.3 También concurrió al juicio Elizabeth Rondón
+Zuluaga, médico forense adscrita al Instituto Nacional de
+Medicina Legal que realizó la necropsia de la víctima. Además de pronunciarse sobre el mecanismo y causa de muerte (§
+
+27 Sesión de 17 de noviembre de 2017, récord 1:21:00 y ss.
+
+<!-- pagina 25 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+3.1), explicó que el tórax «es hueso y es fuerte», y que «el esternón no es fácil de fracturar con cualquier golpe»28.
+
+3.4 De los testimonios reseñados la Sala extrae las siguientes conclusiones fácticas:
+
+3.4.1 Contrario a lo aducido por el censor, los hechos acreditados permiten deducir que la intención de JHORMAN
+JAVIER GALVIS SANABRIA al lanzar la piedra que impactó a
+Brayan Abel no fue dañar el carro. Tampoco fue lesionar al conductor Reinaldo Quintero Nogoa, como lo entendió el
+Tribunal. En realidad, el ataque no pudo tener finalidad distinta que la de matar al nombrado y, por ende, en lo que respecta a la agresión tentada contra Quintero Nogoa, el comportamiento del enjuiciado se realizó con dolo directo.
+Así, en efecto, lo entendió el a quo.
+
+Es verdad que, según los relatos reseñados, antes del homicidio los motociclistas realizaron algunos actos indicativos de que su propósito era golpear el vehículo: uno de ellos le dio una patada al retrovisor y después le lanzaron piedras desde atrás a cierta distancia.
+Esos comportamientos, se admite, no parecen dirigidos a lesionar al conductor o a los tripulantes y tampoco se ofrecen, al margen del ánimo conque se hayan realizado, especialmente aptos para matar o causar lesiones corporales, cuando menos significativas, a los pasajeros. Pero sucede que ninguna de esas acciones (ni la patada al retrovisor ni el
+
+28 Récord 1:12:50.
+
+<!-- pagina 26 -->
+JHORMAN JAVIER GALVIS SANABRIA
+lanzamiento de rocas al carro desde la parte anterior) fue atribuida por los testigos directamente a GALVIS SANABRIA, con lo cual se desconoce si fue éste, o alguno de los otros motociclistas que lo acompañaban, quien los realizó. En ese orden, tales conductas que no pueden considerarse – sino, si acaso, como circunstancias contextuales - para valorar el aspecto subjetivo del hecho que acá se investiga.
+
+Lo que definitivamente conduce a deducir que GALVIS
+SANABRIA quería matar el conductor y no sólo lesionarlo o dañar su carro es la apreciación del modo en que aquél ejecutó el comportamiento concreto por el que se le acusó.
+
+En primer lugar, téngase presente que el ataque estuvo precedido por la gresca entre Quintero Nogoa y los motociclistas, en desarrollo de la cual el primero exhibió a los segundos un machete (o bolillo de madera, según la narración que se acoja) mientras los “desafiaba a pelear”. De acuerdo con el testimonio de Liliana Ramos Ospina, en esa confrontación estuvo presente la moto en la que se transportaba JHORMAN
+JAVIER GALVIS, cuyo conductor «le hacía señas (de) que lo esperara, que ya venía». Ninguno de los demás tripulantes del carro participó en esa reyerta, por lo cual no existen motivos para pensar que pudo suscitar en el acusado el móvil de atacar a alguno de ellos, o el de dirigir contra todos una agresión discriminada sin motivación individualizada (§
+2.2.3.3).
+
+De otro lado, nótese que GALVIS SANABRIA, en vez de tirarle piedras al vehículo desde atrás y a una distancia considerable (como lo estaban haciendo los agresores en un
+
+<!-- pagina 27 -->
+JHORMAN JAVIER GALVIS SANABRIA
+comienzo), decidió sobrepasar el carro, devolverse hacia éste y aventar la roca en dirección al conductor desde «muy cerca».
+Así, GALVIS SANABRIA, al reducir la distancia que lo separaba con el rodante, aproximársele por el costado del conductor y lanzar contra éste, puso en evidencia que buscaba centrar su ataque justamente en la persona a la que apuntó y no en alguno de los demás tripulantes ni en el automóvil mismo.
+
+Además, las características de la piedra utilizada y las circunstancias modales en que fue tirada contra el conductor permiten afirmar que la conducta investigada era especialmente apta para provocar la muerte de quien fuere impactado por aquélla, y es esto lo que ratifica de manera definitiva que el acusado estaba buscando la muerte de su objetivo, no simplemente causarle lesiones corporales.
+
+En efecto, no se trató de una roca pequeña y liviana, sino de una con un peso de 2.5 kilogramos y un tamaño de
+13 x 13 centímetros, esto es, considerablemente más grande que un puño y de un peso cercano a, por ejemplo, una bola de bolos liviana. Además, se trataba, conforme lo atestó
+Liliana Ramos Ospina, de una piedra «de río… maciza». No era, pues, una formación porosa, frágil o fácilmente fraccionable, sino una que, por su peso, dimensiones y conformación, constituía un elemento contundente esencialmente dañoso, lo cual tenía que resultar obvio para cualquier persona ex ante.
+
+<!-- pagina 28 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+Aparte de lo anterior, la misma fue arrojada contra el conductor a una distancia que Liliana Ramos describió como
+«demasiado» corta, de modo que, al momento de llegar al objetivo, el grado de desaceleración del proyectil por la resistencia del aire y la gravedad habría sido mínimo.
+
+Pero hay más: según quedó definido, ni GALVIS
+SANABRIA ni el vehículo en que se transportaban la víctima y sus acompañantes estaban en reposo cuando el primero hizo el lanzamiento, sino que se desplazaban (a velocidades desconocidas, pero calificadas por la mencionada testigo como
+“aceleradas”) en sentido contrario, acercándose. Ello significa que la fuerza del lanzamiento no fue sólo la que el acusado imprimió con su propia potencia corporal a la piedra, sino también la derivada de las velocidades contrapuestas que llevaban la roca, de un lado, y el objetivo, de otro.
+
+Tal apreciación, contrario a lo manifestado por el actor, no requiere conocimientos científicos nóveles o extraños que necesiten prueba pericial o técnica; aunque su cuantificación matemática sí requiera tal experticia, la comprensión de que las fuerzas contrapuestas chocan con mayor intensidad se apoya en la observación de las experiencias ordinarias de la vida (específicamente del tráfico automotor y de la dinámica de todas las masas) que son asequibles para todos los individuos que participan de la interacción social.
+
+De hecho, el impacto fue tan potente que le partió a
+Brayan Abel el esternón; hueso que, al decir de la médico forense que concurrió al juicio, «no es fácil de fracturar con cualquier golpe». Tal apreciación es relevante porque pone en
+
+<!-- pagina 29 -->
+JHORMAN JAVIER GALVIS SANABRIA
+evidencia la marcada potencialidad letal del mecanismo elegido por el autor para la ejecución del delito. En otras palabras: si el golpe fue tan fuerte – por la aceleración que le imprimió el acusado a la piedra, el peso, tamaño y conformación de la misma, la distancia desde la cual la arrojó y las velocidades contrapuestas de los vehículos en movimiento - que causó el resultado típico a pesar de que el punto de contacto fue el esternón (un hueso que, se insiste, «no es fácil de fracturar con cualquier golpe», según la prueba pericial practicada) con mayor razón podía causar la muerte de quien recibiera el impacto en un área del cuerpo menos resistente al trauma.
+
+Adicionalmente, GALVIS SANABRIA - quien por demás mostró una importante destreza física para la ejecución de la agresión, al punto en que recogió la piedra desde la moto y la arrojó parándose en el rodante - tuvo que notar que tanto la ventana del conductor como la de Brayan Abel estaban abiertas, de manera que no había ninguna barrera física entre él y los tripulantes del carro que pudiere desviar la piedra o, cuando menos, desacelerarla y, por ende, reducir la magnitud del daño que causaría en quien fuere alcanzado por ella.
+
+3.4.2 Aunque es verdad que el vehículo en que se transportaba la víctima tenía los vidrios laterales medianamente polarizados - así lo dijo su dueño y se confirma en la fijación fotográfica del rodante29 -, las pruebas practicadas son indicativas de que GALVIS SANABRIA
+
+29 Fs. 18 y ss.
+
+<!-- pagina 30 -->
+JHORMAN JAVIER GALVIS SANABRIA
+percibió la presencia de los tripulantes del rodante antes de la ocurrencia del hecho.
+
+De una parte, porque Liliana Ramos Ospina descendió del vehículo en frente de los motociclistas con los cuales
+Reinaldo Quintero peleó. Allí estaba JHORMAN JAVIER
+GALVIS, quien entonces tuvo que verla. En efecto, la nombrada Ramos Ospina fue clara al evocar que, cuando el conductor del rodante se bajó armado con un machete, lo hizo frente a la moto que manejaba «el de la chaqueta negra con el bluyín», esto es, la que, a su decir, montaba el procesado como parrillero. Para éste, por tanto, no podía ser desconocido que en el carro iba cuando menos una persona distinta de Reinaldo Quintero Nogoa.
+
+Además, y como ya se dijo, tanto Quintero Nogoa como
+Liliana Ramos Ospina coincidieron al atestar que, de todas maneras, los vidrios del carro estaban abajo en los momentos anteriores y concomitantes a la agresión. Si a ello se suma que GALVIS SANABRIA, antes de lanzar la piedra, pasó
+«cerca… cerca, bastante cerca» del carro, puede inferirse que tuvo la capacidad de observar hacia el interior a una corta distancia sin el obstáculo visual que, de haber estado cerradas, hubiesen impuesto las ventanas por la polarización, y aun a pesar de que por la hora no había aún luz natural.
+
+Es más, en el mencionado informe de fijación fotográfica sólo se califican como polarizados los vidrios de los costados izquierdo y derecho del vehículo, no así el trasero y el
+
+<!-- pagina 31 -->
+JHORMAN JAVIER GALVIS SANABRIA
+panorámico frontal. Considerando que antes del hecho investigado se produjo una suerte de persecución o acechanza entre el carro y los motociclistas en desarrollo de la cual estos anduvieron detrás de aquel por algún tiempo
+(incluso le tiraron piedras desde atrás) y que la moto en la que se desplazaba JHORMAN GALVIS pasó el automóvil y se le ubicó al frente en los instantes anteriores al homicidio, es claro que tenía conocimiento de que Reinaldo Quintero no era el único tripulante del automotor.
+
+En otras palabras: si la moto en que iba el acusado anduvo detrás del vehículo por un lapso durante el cual él o el conductor le lanzaron piedras (lo que supone que centraron su atención y mirada en el mismo), el vidrio trasero del carro no tenía polarización y en el asiento posterior del rodante no sólo iba
+Brayan Abel sino también su tía y el esposo de ésta, mal podría admitirse plausiblemente que el acusado ignorase la presencia de otras personas en el automotor, menos aún por cuanto, como ya se explicó, Liliana Ramos había descendido del mismo en su presencia.
+
+3.4.3 Por la manera en que ejecutó el ataque,
+JHORMAN JAVIER GALVIS SANABRIA necesariamente tuvo que representarse la probabilidad de errar y golpear a otra persona.
+
+En efecto, una vez el autor advirtió que en el vehículo había otras personas (§ 3.4.2), no pudo haber soslayado la altísima probabilidad de que la roca lanzada golpeare a alguno de los demás tripulantes, especialmente porque (i)
+
+<!-- pagina 32 -->
+JHORMAN JAVIER GALVIS SANABRIA
+tanto la moto en la que él se desplazaba como el carro en que iba la víctima estaban en movimiento, lo cual en realidad hacía casi imposible que atinara a su objetivo, y; (ii) la roca fue lanzada por aquél con la mano y no mediante algún instrumento técnicamente diseñado y construido para maximizar la precisión y minimizar el error (como sucede, por ejemplo con las armas de fuego).
+
+3.4.4 A pesar de las anteriores constataciones, GALVIS
+SANABRIA persistió en la ejecución de su plan con total indiferencia por la eventual ocurrencia de los resultados típicos alternativos cuya configuración probable previó.
+
+3.5 Ya en lo que tiene que ver con la subsunción subjetiva de la conducta investigada, la Sala advierte, a partir de las premisas fácticas establecidas en precedencia, que:
+
+3.5.1 La agresión inicial de JHORMAN JAVIER GALVIS contra Reinaldo Quintero, se reitera, no tuvo la finalidad ni de dañar su carro ni de lesionarlo, sino la de matarlo. No otra cosa puede concluirse de los hechos demostrados, vistas (i) las características de la piedra y (ii) las circunstancias contextuales objetivas en que aquél hizo el lanzamiento. En relación con ese comportamiento primigenio, pues, el enjuiciado obró con dolo directo.
+
+3.5.2 El acusado GALVIS SANABRIA individualizó por sí mismo el objeto del delito pretendido (que lo fue el conductor
+Reinaldo Quintero) y tal individualización fue específicamente motivada (por la reyerta previa que habían tenido). Ello descarta
+
+<!-- pagina 33 -->
+JHORMAN JAVIER GALVIS SANABRIA
+que la muerte de Brayan Abel le sea imputable a título de dolo directo, como lo sería en el supuesto examinado en la §
+2.2.3.3, esto es, si hubiera dirigido el ataque indistintamente contra cualquiera de los tripulantes del rodante sin una individualización específicamente motivada.
+
+3.5.3 Tratándose de la muerte de Brayan Abel, la Corte concluye, tal como lo entendieron las instancias, que efectivamente fue causada por GALVIS SANABRIA con dolo eventual, pues aquél tuvo que prever ese resultado típico como una consecuencia probable de su comportamiento. A pesar de ello, persistió en la conducta con total apatía por su ocurrencia.
+
+Ello, es obvio, descarta la subsunción en el tipo preterintencional. De una parte, porque el resultado típico efectivamente causado no se configuró sobre el mismo sujeto al cual estuvo dirigida la agresión inicial; de otra, porque no fue consecuencia de un exceso negligente del autor, sino de la absoluta desidia conque asumió su configuración probable.
+
+Por iguales razones debe desestimarse la tesis de la culpa por la cual propugna la defensa. Ésta supondría que
+GALVIS SANABRIA no previó que el riesgo creado con su conducta original podría causar la muerte de Brayan Abel (lo que, como se vio, está desmentido por la valoración de las circunstancias objetivas demostradas), o bien que, aunque sí lo previó, confió en poder evitarlo (hipótesis de la cual no hay
+
+<!-- pagina 34 -->
+JHORMAN JAVIER GALVIS SANABRIA
+ninguna indicación fáctica y que riñe con la conducta efectivamente desplegada por aquél).
+
+3.5.4 Aunque la Fiscalía consideró que este es un caso de aberratio ictus, no es en realidad tal. La representación probable del resultado típico configurado y la vinculación subjetiva del autor con ese hecho implican que la muerte de la víctima, aunque no pretendida por aquél como finalidad principal de su proceder, estuvo de todas maneras contemplada como probable en su plan. En ese orden, aunque sí ocurrió un error causal (en concreto, el desatino de no haber impactado a quien quería impactar), el deceso de Brayan
+Abel no correspondió en estricto sentido a la segunda desviación causal que define el denominado “error en el golpe” (§ 2.2.3.2).
+
+Es decir, no puede coherentemente sostenerse que el resultado típico fue causado con dolo eventual y, a la vez, que el caso corresponde a un evento de aberratio ictus, pues ésta última supone, como quedó explicado, que la vinculación subjetiva del agente con el resultado conseguido es culposa y, por ende, queda descartada si, como en este asunto, la configuración de dicho resultado es producto del dolo eventual.
+
+Esto, sin embargo, es apenas una corrección conceptual que no supone una modificación del núcleo fáctico de la acusación. Aunque en el llamamiento a juicio se afirmó que el delito se cometió por la «configuración del aberratio ictus», ello fue un dicho de paso sin significación en la delimitación
+
+<!-- pagina 35 -->
+JHORMAN JAVIER GALVIS SANABRIA
+del juicio, pues la sindicación concreta formulada contra el sentenciado, tanto en lo fáctico como en lo jurídico, fue la de haber perpetrado el homicidio con «dolo eventual».
+
+3.6 Así las cosas, y como los cargos formulados por el defensor de JHORMAN JAVIER GALVIS SANABRIA no están llamados a prosperar, no se casará el fallo impugnado.
+
+En mérito de lo expuesto, la Sala de Casación Penal de la Corte Suprema de Justicia, administrando justicia en nombre de la república y por autoridad de la ley,
+
+RESUELVE
+
+NO CASAR la sentencia impugnada, de acuerdo con lo considerado en la parte motiva de esta decisión.
+
+NOTIFIQUESE Y CUMPLASÉ
+
+<!-- pagina 36 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+<!-- pagina 37 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+<!-- pagina 38 -->
+JHORMAN JAVIER GALVIS SANABRIA
+
+NUBIA YOLANDA NOVA GARCIA
+Secretaria

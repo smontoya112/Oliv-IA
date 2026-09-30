@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-228_2010",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2010/C-228-10.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2010/C-228-10.htm",
+      "sha256": "7a293cbcff88f0ff2ec5a05bba8dfc21e607d9d2793d49a7528987190b651877",
+      "bytes": 330832,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:59-05:00"
+    }
+  ]
+}

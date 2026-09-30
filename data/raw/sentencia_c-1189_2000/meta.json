@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-1189_2000",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1189-00.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1189-00.htm",
+      "sha256": "9c823139b126fd986a282db8091a72de732dc305fab2a67114451971314c2bcc",
+      "bytes": 230291,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:39-05:00"
+    }
+  ]
+}

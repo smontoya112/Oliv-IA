@@ -1,0 +1,966 @@
+---
+{
+  "doc_id": "sentencia_sl_1050_2023",
+  "titulo": "Sentencia SL-1050 de 2023",
+  "fuente": "Corte Suprema de Justicia",
+  "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/reiteraciones%20DL/SL1050-2023.pdf",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "laboral"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "SL-1050",
+  "anio": 2023,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "SL-1050",
+    "2023"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "pdf_texto"
+  ],
+  "codificacion": [],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/reiteraciones%20DL/SL1050-2023.pdf"
+  ],
+  "sha256_partes": [
+    "0e5ec3434234af6876e048cf6ce80bdde9ccf70104f8ac966e155b8ef841c9d9"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 99557,
+  "n_articulos_detectados": 0,
+  "archivo_md": "md/sentencia_sl_1050_2023.md",
+  "metadata_autocompletada": [
+    "numero",
+    "organo_emisor"
+  ]
+}
+---
+
+<!-- parte parte_000.pdf | https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/reiteraciones%20DL/SL1050-2023.pdf -->
+<!-- pagina 1 -->
+MARTÍN EMILIO BELTRÁN QUINTERO
+Magistrado ponente
+
+SL1050-2023
+Radicación n.° 92706
+Acta 16
+
+Bogotá, D.C., dieciséis (16) de mayo de dos mil veintitrés
+(2023).
+
+Decide la Corte el recurso de casación interpuesto por
+LUIS GERMÁN TABARES SÁNCHEZ contra la sentencia proferida el 31 de mayo de 2021 por la Sala Laboral del
+Tribunal Superior del Distrito Judicial de Pereira, en el proceso ordinario laboral que instauraron ARGEMIRO
+VILLADA GARZÓN y HERICA MARSELA VILLADA ZAPATA contra el recurrente.
+
+I.
+ANTECEDENTES
+
+Los citados accionantes llamaron a juicio a Luis
+Germán Tabares Sánchez con el propósito de que se hicieran las siguientes declaraciones: i) que Argemiro Villada Garzón y el demandado estuvieron atados a un contrato de trabajo verbal a término indefinido; ii) que el referido trabajador
+
+<!-- pagina 2 -->
+sufrió un accidente de origen laboral; iii) que por concurrir los tres elementos esenciales exigidos por el Código
+Sustantivo de Trabajo, esto es, la prestación personal de servicio, la subordinación y la remuneración, «entre la señora
+LUZ MERY ZAPATA GUZMÁN esposa del señor ARGEMIRO
+VILLADA GARZÓN y madre de HERICA MARSELA VILLADA
+ZAPATA y el señor LUIS GERMÁN TABARES SÁNCHEZ como propietario de la finca El Paraíso, Vetulia Alta de la ciudad de
+Pereira», existió un contrato de trabajo verbal a término indefinido; y iv) que la citada trabajadora igualmente tuvo un accidente de naturaleza laboral.
+
+Como consecuencia de lo anterior, deprecaron que el accionado fuera condenado al pago de las siguientes sumas:
+
+Por el accidente sufrido por Argemiro Villada Garzón:
+
+Así mismo, por el infortunio padecido por Luz Mery
+Zapata Guzmán y otros conceptos:
+
+CONCEPTO
+VALOR
+Reparación del daño a la salud
+73.771.700
+$
+Daño moral por el accidente
+73.771.700
+$
+Sub total
+147.543.400
+$
+CONCEPTO
+VALOR
+Salario de seis meses
+5.532.877
+$
+Vacaciones
+368.858
+$
+Cesantías
+368.858
+$
+Prima
+368.858
+$
+Lucro cesante futuro
+283.283.328
+$
+Daño emergente
+10.000.000
+$
+Perjuicios morales para el cónyuge
+73.771.700
+$
+Perjuicios morales para la hija
+73.771.700
+$
+Daño a la vida en relación o daño psicologico
+73.771.700
+$
+Sub total
+521.237.879
+$
+TOTAL CONDENA
+668.781.279
+$
+
+<!-- pagina 3 -->
+Igualmente, pidieron que las condenas impartidas se sufragaran debidamente indexadas; que se condenara a lo que resulte probado ultra o extra petita y las costas del proceso.
+
+Como fundamento de sus pretensiones, manifestaron que Argemiro Villada Garzón –trabajador- y Luis Germán
+Tabares Sánchez –empleador-, el 4 de mayo de 2017
+«pactaron» verbalmente un contrato de trabajo, para desempeñarse como mayordomo o «agregado» de la finca El
+Paraíso, en Vetulia Alta de la ciudad de Pereira, con un salario mensual de $180.000; que el actor debía laborar todos los días de la semana, por lo que vivía en el predio con su esposa Luz Mery Zapata Guzmán; que ella con la autorización del demandado, instaló en la casa una «venta de parva y mecato para los trabajadores de la finca», que eran aproximadamente 52 a quienes también les preparaba desayuno, almuerzo y comida, así como café varias veces al día.
+
+Narraron que, por los citados alimentos, cada recolector de café de la finca debía sufragar $10.000 diarios, los cuales eran descontados por el propietario el día del pago «y entregados a la señora Luz Mery Zapata». Arguyeron que, la orden del accionado era que ella cuidara la casa y le hiciera el aseo, también debía mantener limpio el cuartel de los trabajadores y diariamente entregarle a cada uno las herramientas de trabajo, labor que desempeñó de forma personal, continua y a cabalidad.
+
+<!-- pagina 4 -->
+Mencionaron que el 16 de octubre de 2017, sobre las
+4:30 a.m., la señora Zapata Guzmán se disponía a preparar el desayuno para los trabajadores y al encender el «rustico fogón con que contaba la casa de la finca» que funcionaba con
+«querosene», explotó el líquido inflamable, pues «lo que le habían vendido a su esposo era gasolina y no querosene, recorriendo el fuego todo su cuerpo y alcanzando el bidón que contenía el combustible, el cual provocó una explosión mucho mayor y a su vez un incendio, lo que generó el cierre hermético de las puertas de la cocina».
+
+Relataron que su cónyuge para auxiliarla entró por la ventana, pero el fuego también lo alcanzó provocándole severas quemaduras en su espalda, brazo izquierdo y piernas; que ambos fueron auxiliados por los trabajadores y remitidos al
+Hospital
+San
+Jorge de
+Pereira; que posteriormente Luz Mery fue trasladada al Hospital Simón
+Bolívar de la ciudad de Bogotá, donde finalmente falleció el
+20 de octubre de 2017 por la gravedad de sus quemaduras.
+
+Indicaron que el señor Argemiro Villada Garzón recibía tratamientos para recuperarse de las quemaduras de segundo grado sufridas en tronco, hombro, miembro superior, cadera, tobillo y pie; que los médicos tratantes le habían indicado que no puede laborar nuevamente en el campo por su exposición a la radiación y que debe estar en ambientes fríos. Agregaron que él, desde el suceso fatal, está en tratamiento psiquiátrico porque tiene crisis nerviosas y olvido de las cosas.
+
+<!-- pagina 5 -->
+Aseveraron que el propietario de la finca nunca realizó los aportes al Sistema General de Seguridad Social en salud, pensiones y riesgos profesionales, por lo que todos los servicios médicos fueron asumidos por el régimen subsidiado de salud; que, además, al momento del accidente ni la casa ni la finca contaban con elementos de primeros auxilios ni con extintores que hubieran servido para contrarrestar la gravedad de los hechos.
+
+Refirieron que, aunque en principio el contrato laboral se pactó entre Luis Germán Tabares Sánchez y Argemiro
+Villada Garzón, las funciones desarrolladas personalmente por Luz Mery Zapata Guzmán permitían pregonar que entre ella y el accionado también se configuró una relación de trabajo, por ende, el empleador adeuda los conceptos previamente señalados. Agregaron que el trabajador actúa en este proceso en nombre propio y cómo cónyuge de la causante; y que Herica Marsela Villada Zapata lo hace en calidad de hija de la pareja.
+
+Luis Germán Tabares Sánchez al dar respuesta a la demanda, se opuso a las pretensiones. En cuanto a los hechos, aceptó la existencia de un contrato verbal de trabajo con Argemiro Villada Garzón; las tareas desarrolladas en la finca El Paraíso y el cargo del demandante como mayordomo o «agregado»; así mismo, admitió el fallecimiento de la señora
+Luz Mery Zapata Guzmán el 20 de octubre de 2017; las quemaduras sufridas por el trabajador y su proceso de
+
+<!-- pagina 6 -->
+rehabilitación. Frente a los demás supuestos fácticos, dijo que no eran ciertos o que no le constaban.
+
+Como argumentos de defensa, expuso que el vínculo de trabajo que sostuvo con el promotor del proceso fue para desarrollar actividades agrícolas en la finca El Paraíso; que en su condición de mayordomo o «agregado» le correspondía ejercer control sobre las actividades del predio y de los demás trabajadores; y como contraprestación al servicio prestado el accionante recibía un salario y le era asignado una vivienda para que la ocupara junto con su familia.
+
+Precisó que, como era costumbre en el campo, los trabajadores estacionarios podían alimentarse en la misma finca donde laboraban, proceso que se desarrollaba entre el
+«agregado» y los otros empleados, sin que existiera intervención alguna del dueño del inmueble.
+
+Indicó que en el sub judice el señor Villada Garzón dispuso de una tienda distribuidora de comestibles para los trabajadores y para demás personas que se acercaran a la finca; que éste contrató con los trabajadores el suministro de los alimentos y que ellos autorizaron al dueño de la finca,
+«para que de su jornal les descontara el valor diario por concepto de alimentación»; sumas que eran entregados «al agregado mediante una lista hecha a mano que remitía todos los viernes».
+
+De otra parte, señaló que ni él, como propietario de la finca, ni su familia, recibieron servicios de aseo, cuidado, ni
+
+<!-- pagina 7 -->
+vigilancia de su casa de habitación ni del inmueble en su integridad por parte de la señora Luz Mery Zapata Guzmán, pues ella siempre permaneció en su casa de habitación que estaba distante de la vivienda principal y tampoco tenía la función de asear el cuartel de los trabajadores, toda vez que ellos mismos se preocupaban de organizar sus camas y sus ropas. Dijo que desconocía por completo si la esposa del actor les entregaba las herramientas a los trabajadores, toda vez que el mayordomo era quien tenía esa función y, por tanto, debía ser atendida por él.
+
+Precisó que ignora los pormenores del accidente que le causó la muerte a la señora Luz Mery Zapata Guzmán y dejó lesionado al demandante, ya que la vivienda que se les entregó estaba dotada de fogón de leña y por la descripción que se realiza en la presente demanda, es evidente que hubo un manejo indebido de combustibles por parte de la cónyuge del trabajador; que tampoco sabe si el actor tenían al interior de su hogar elementos de primeros auxilios o extintores, por cuanto la casa que ocupaban no hacía parte de la infraestructura donde debía prestar servicios el mayordomo.
+
+Formuló las excepciones de falta de causa para demandar, cobro de lo no debido, inexistencia de la obligación, mala fe o temeridad, prescripción y compensación.
+
+II.
+SENTENCIA DE PRIMERA INSTANCIA
+
+El Juzgado Cuarto Laboral del Circuito de Pereira, al
+
+<!-- pagina 8 -->
+que correspondió dirimir el trámite de la primera instancia, mediante fallo del 20 de noviembre de 2019, resolvió:
+
+PRIMERO: DECLARAR probadas las excepciones de mérito planteadas por la parte demandada y en consecuencia absolverla de las pretensiones de la demanda.
+
+SEGUNDO: CONDENAR en costas a la parte actora en un 100%.
+
+III. SENTENCIA DE SEGUNDA INSTANCIA
+
+La Sala Laboral del Tribunal Superior del Distrito
+Judicial de Pereira, al conocer del recurso de apelación interpuesto por la parte demandante, mediante sentencia proferida el 31 de mayo de 2021, decidió:
+
+PRIMERO. - REVOCAR la sentencia emitida el 20 de noviembre de 2019 por el Juzgado Cuarto Laboral de Pereira dentro del proceso Ordinario Laboral de la referencia, en cuanto absolvió de las pretensiones al demandado, por las razones expuestas en la parte motiva de esta sentencia.
+
+SEGUNDO. – En su lugar, DECLARAR que entre la fallecida LUZ
+MERY ZAPATA GUZMÁN y LUIS GERMÁN TABARES existió contrato de trabajo entre el 04 de mayo y el 20 de octubre de
+2017.
+
+TERCERO: Como consecuencia de lo anterior, CONDENAR al demandado LUIS GERMÁN TABARES a pagarle a la sucesión de la señora LUZ MERY ZAPATA GUZMÁN la suma de TRES
+MILLONES SETENCIENTOS VEINTISEIS MIL SEISCIENTOS
+SESENTA Y NUEVE PESOS CON OCHENTA Y CINCO CENTAVOS
+($3.726.669,85) por concepto de salarios y prestaciones sociales adeudadas a la fallecida LUZ MERY ZAPATA GUZMÁN.
+
+CUARTO: DECLARAR que el accidente sufrido por la fallecida
+LUZ MERY ZAPATA GUZMÁN y por ARGEMIRO VILLADA
+GARZÓN el 17 de octubre de 2017, fue de origen laboral y con culpa del empleador.
+
+QUINTO: Como consecuencia de lo anterior, CONDENAR al señor LUIS GERMÁN TABARES a pagar a favor del señor
+Argemiro Villada la suma de NOVENTA Y DOS MILLONES
+OCHENTA Y NUEVE VEINTINUEVE PESOS ($92.089.029) por
+
+<!-- pagina 9 -->
+concepto de lucro cesante, DOS MILLONES NOVECIENTOS
+SESENTA Y SEIS MIL SESENTA Y CINCO PESOS ($2.966.065) por daño emergente y
+SETENTA
+Y
+TRES
+MILLONES
+SETECIENTOS SETENTA Y UN MIL SETECIENTOS PESOS
+($73.771.700) por concepto de perjuicios morales subjetivos.
+
+SEXTO: CONDENAR al señor Luis Germán Tabares a pagar a la señora Herica Marsela Villada Zapata la suma de SETENTA Y
+TRES
+MILLONES
+SETECIENTOS
+SETENTA
+Y
+UN
+MIL
+SETECIENTOS PESOS ($73.771.700) por concepto de perjuicios morales subjetivos.
+
+SÉPTIMO: ABSOLVER de todo lo demás al demandado.
+
+OCTAVO: CONDENAR al demandado al pago de las costas de primera y segunda instancia en un 80% a favor de la parte demandante, las cuales se liquidarán por el juzgado de origen.
+
+El juez plural definió como problema jurídico a resolver, establecer si existió contrato de trabajo entre la señora Luz
+Mery Zapata y el demandado, al igual si hay lugar a la indemnización plena de perjuicios por el accidente producto del cual aquella perdió la vida y el demandante resultó lesionado.
+
+El ad quem recordó que cuando se reclama la existencia del contrato de trabajo, el promotor del proceso o, en este caso, sus causahabientes tienen la obligación de probar la prestación personal del servicio, para que opere la presunción establecida en el artículo 24 del CST y que ampara a quien la ley considera la parte débil en la relación jurídico-procesal, trasladando la carga de la prueba al empleador «que ha de procurar desvirtuar los elementos indispensables del contrato», para así librar su responsabilidad.
+
+<!-- pagina 10 -->
+Expuso que la cultura y la sociedad le han atribuido un patrón predominantemente reproductivo a la mujer por cuenta del cual ha sido históricamente relegada al trabajo doméstico o de cuidado, que comprende labores de limpieza, preparación de alimentos, crianza de niños, cuidado de enfermos y adultos mayores, labores secretariales y de enseñanza. La mayoría de estas ocupaciones se hallan ligadas a cualidades adjudicadas tradicionalmente a las mujeres, lo que deriva en estereotipos de género socioculturales.
+
+Dijo que la histórica feminización del rol de cuidado y la consecuente segregación ocupacional basada en estereotipos de género no solo comporta invisibilización y subvaloración de las actividades asociadas a ese esquema, sino que incluso conlleva marginalidad y pauperización de las condiciones de empleo de las personas que se ocupan de estas actividades, pues las relaciones de trabajo se enmascaran bajo la forma de favores, obligaciones morales o familiares, deudas de gratitud o incluso como actos voluntarios de carácter gratuito, predominando para ellas el trabajo no registrado y no reconocido o subvalorado en términos de reconocimiento social y, consecuentemente con ello, de la ausencia de una asignación de valor económico a su trabajo.
+
+Manifestó que, al amparo de los compromisos internacionales de Colombia, los funcionarios judiciales tienen el deber de aplicar el derecho a la igualdad dentro de las decisiones judiciales, para efectos de disminuir la violencia y la discriminación frente a grupos desprotegidos y
+
+<!-- pagina 11 -->
+débiles, como ocurre con la mujer. Para ello, trajo a colación lo indicado en la sentencia CSJ SC-126252018, que estableció que juzgar con perspectiva de género supone
+«recibir la causa y analizar si en ella se vislumbran situaciones de discriminación (o categorías sospechosas) entre los sujetos del proceso o asimetrías que obliguen a dilucidar la prueba y valorarla de forma diferente, lo que implica aplicar justicia no con rostro de mujer ni con rostro de hombre, sino con rostro humano».
+
+Afirmó que en un asunto similar al aquí analizado, ese
+Tribunal explicó que abordar un caso con perspectiva de género implica privilegiar el uso la «prueba indiciaria», ante la imposibilidad de obtener la «prueba directa», pues su aplicación se hace necesaria, no solo para superar el estereotipo social que subvalora e invisibiliza el trabajo doméstico, sino porque de los elementos probatorios de la presente contienda judicial se observa que dicha subvaloración se hizo evidente «en el comportamiento que desplegó la parte empleadora en la contratación, ejecución y terminación del contrato» de la causante.
+
+Especificó que, en otras palabras, en el comportamiento del empleador se perpetúa la discriminación de género contra las mujeres que realizan trabajos domésticos. Y ante dichas particularidades se concluyó que el asunto ciertamente ameritaba una valoración probatoria especial y de más cuidado «en aplicación de la perspectiva de género en favor de un grupo de mujeres históricamente discriminadas».
+
+<!-- pagina 12 -->
+El juez de apelaciones al entrar a estudiar si entre el demandado y Luz Mery Zapata Guzmán existió un contrato de trabajo, expuso que ha sido una práctica corriente que se ha convertido en costumbre en el campo colombiano, especialmente en las fincas cafeteras, la de contratar un
+«agregado o mayordomo con esposa o compañera», para que ambos se ocupen de las tareas relacionadas con la administración y cuidado de la hacienda, pero el contrato se celebra solo con aquél.
+
+Dijo que en tales condiciones únicamente se le paga al hombre y no a la mujer, «bajo la deplorable idea» de que el trabajo doméstico, asignado histórica y culturalmente al rol femenino, no tiene valor económico alguno o viene dado en subsidio de la función primordial de mayordomía a cargo del jefe de la familia, en la que el empleador incluye el cuidado y la preparación de alimentos a los trabajadores, como parte de los servicios que debe ofrecer el «casero», «agregado» o mayordomo con el auxilio de su pareja.
+
+Arguyó que este tipo de contextos socioculturales no pueden ser ignorados por la justicia, pues la realización de la igualdad material (artículo 13 de la CP) exige la visibilización y descripción del trabajo oculto de la mujer en situaciones donde la cultura machista se ha encargado de borrarla o subvalorarla, porque no de otra manera se puede alcanzar el propósito constitucional de eliminar todo tipo de discriminación laboral fundada en razones de sexo o género; de allí la importancia de que sea necesario acudir a criterios y enfoques diferenciadores surgidos de una adecuada
+
+<!-- pagina 13 -->
+aplicación de la perspectiva de género, «no solo en el plano teórico, sino sobre todo en la valoración de las pruebas».
+
+Consideró que en este caso se debía verificar si dentro de las funciones propias del agregado o mayordomo, relacionadas con el mantenimiento de la hacienda, las tareas de producción y recolección de frutos, cuidado y abono de cultivos, administración y cuidado de animales, jardines, conservación de las instalaciones de la finca como la casa misma y los cuartos o cuarteles de los trabajadores, la portería, etc., se involucró la actividad directa de su compañera o cónyuge, lo que sin duda alguna configuraba una actividad que le reportaba beneficios al empleador o dueño del inmueble, pese a lo cual ninguna remuneración recibió la mujer, bajo la justificación de que dichos servicios hacen parte del trabajo retribuido al hombre.
+
+En tal sentido, el juez plural luego de referirse a los interrogatorios absueltos por el demandado Luis Germán
+Tabares Sánchez y el actor Argemiro Villada Garzón, así como a los testimonios de Luis Ángel Sánchez Ramírez,
+Nelson Suárez Trejos y Jeover Gómez Bedoya, refirió que los mismos dejaron en evidencia que Luz Mery Zapata Guzmán convivía junto a su esposo Argemiro, en la casa que el accionado tenía dispuesta en su finca para la vivienda del agregado o mayordomo; que dicha propiedad llegaba a tener en época de cosecha hasta 60 trabajadores y contaba con instalaciones o cuarteles donde pernoctaban los recolectores de café entre semana, dado que dicha tarea empezaba desde las primeras horas del día; que también había quedado
+
+<!-- pagina 14 -->
+demostrado que el dueño de la finca autorizó al demandante y a su cónyuge para que instalaran una especie de tienda donde se comercializaban algunos productos básicos para los trabajadores; cuyo costo era descontado del pago semanal que éstos recibían por el kilaje recogido a lo largo de la semana.
+
+Precisó que de los testimonios igualmente surgía que
+Luz Mery Zapata Guzmán se ocupaba de preparar alimentos para los trabajadores por los cuales cada uno cancelaba una tarifa única de $10.000 diarios, que incluía las tres comidas del día así como el café de la mañana y de la noche; que también era evidente que el reclutamiento de recolectores de café era una de las tareas asignadas al mayordomo de la finca y se realizaba especialmente en la galería, donde se ofrecía el trabajo a los interesados, informándoseles que se paga el kilo recolectado a $450 o $500 pesos, se prometía el hospedaje en la misma finca, la alimentación y la venta de cigarrillos.
+
+Asimismo, esgrimió que
+«todos los deponentes, reconocieron que Argemiro establecía el precio de la alimentación» y no permitía que se contratara en otra parte o que los trabajadores prepararan comida en la finca, salvo que el recolector fuera vecino, caso en el cual podía ir hasta la casa a comer o llevar preparado.
+
+Puntualizó que no era «enteramente cierta la afirmación» del empleador de que los trabajadores eran libres de comprar los alimentos en lugares distintos a la finca, pues la ubicación rural de esta clase de feudos y la falta de medios
+
+<!-- pagina 15 -->
+de transporte inter rural dificultaba su desplazamiento hasta restaurantes; de modo que la preparación «por parte de la alimentadora de la finca redundaba en un beneficio directo para el dueño de la finca, pues permitía una recolección ágil de la cosecha e impide que el grano se caiga si no se coge a tiempo».
+
+Mencionó que del análisis de las planillas de pago semanal de febrero a noviembre de 2017, «en las que se registra el nombre del trabajador, cédula, días laborados, kilos, devengado, deducido, total recibido y firma del trabajador» se desprendía que con posterioridad al accidente en el que murió Luz Mery Zapata Guzmán, el demandado continúo descontando a los trabajadores el costo de la alimentación, de lo que se infería que dicho servicio siguió siendo garantizado por la finca y, por tanto, «que Luz Mery
+Zapata sí prestaba sus servicios como alimentadora» y en su ausencia el demandado se vio obligado a contratar con otra persona, «al parecer un señor de nombre Fabio Villada, que es quien aparece firmando los listados de alimentación del 17 de octubre de 2017 en adelante».
+
+En ese orden, el ad quem estimó que a pesar de que no había prueba directa de que el precio de la alimentación lo imponía el demandado, todos los indicios apuntaban a ratificar la afirmación del demandante en ese sentido, entre otras razones por las siguientes: i) el bajo precio de los alimentos; ii) el uso de las instalaciones de la finca para su preparación; iii) la coordinación de los descuentos por este concepto entre el empleador y el agregado; y iv) la
+
+<!-- pagina 16 -->
+prohibición, tolerada por el accionado o consensuada con el accionante, de que los trabajadores que durmieran en los cuarteles no podían ingresar comida preparada ni adquirirla en otros lugares.
+
+Aseveró que el actor orientó la acción judicial a demostrar que su contratación estuvo motivada en que tenía una compañera sentimental que podía ayudarle a cumplir con la función de alimentador de los trabajadores; que «a pesar de esta afirmación y del enfoque de la demanda, debía tenerse en cuenta que el demandado no hizo ningún esfuerzo probatorio dirigido a demostrar lo contrario», esto es, que la existencia de cónyuge o compañera no era un requisito imperativo para la contratación del agregado y, por el contrario, la única mención al respecto se dio en el interrogatorio de parte absuelto por éste, donde afirmó que ha tenido administradores solteros; aseveración de la parte que no fue corroborada con otra prueba.
+
+Anotó el juez de alzada que tal inferencia «se sumaba a los demás indicios que llevaban a concluir que la contratación del demandante fue como agregado alimentador», función que cumplía con el auxilio permanente e indispensable de su cónyuge, en una división del trabajo donde ella preparaba los alimentos y los servía, pero el denominado «agregado» que era su esposo, llevaba el listado del número de trabajadores que recibía la alimentación y se lo pasaba al dueño de la finca para que descontara su costo a los trabajadores el día del pago.
+
+<!-- pagina 17 -->
+Reiteró que Luz Mery Zapata Guzmán era la alimentadora de la finca, es decir, la persona encargada de preparar y servir los alimentos a los trabajadores y sus tareas se ejecutaban en una cocina del predio ubicada en la casa de habitación del actor, lugar conocido por los asalariados como el «alimentadero».
+
+Añadió que en el proceso se demostró que sus actividades estaban vinculadas al trabajo en la cocina, pues no se probaron tareas distintas, ya que, con excepción de la declaración de Nelson Guzmán, los demás testigos negaron que Luz Mery Zapata Guzmán se ocupara de asear las instalaciones donde los trabajadores pernoctaban e igualmente descartaron que tuviera la función de entregar herramientas.
+
+Especificó que la declaración rendida por el testigo
+Nelson Guzmán era «realmente contradictoria», pues si bien, aquel dijo que la señora Zapata Guzmán «aseaba los cuarteles ni siquiera encontró respaldo en las afirmaciones del demandante en el interrogatorio, quien jamás mencionó que su esposa se encargara de dicha labor, pues se limitó a enumerar tareas relacionadas con la preparación de alimentos y el aseo del “alimentadero” es decir, de su propia casa o la llamada casa del agregado».
+
+Por todo lo expuesto, el juez plural concluyó que la parte actora acreditó que Luz Mery Zapata Guzmán le prestó servicios personales al demandado, consistente en preparar los alimentos a los trabajadores de la finca, «que dicho
+
+<!-- pagina 18 -->
+servicio era directamente remunerado por el empleador a través del agregado de la finca y que el salario era variable y se calculaba en función del número de trabajadores alimentados, quienes pagaban la suma diaria de $10.000 por dichos alimentos».
+
+Refirió que el accionado no desvirtuó la existencia del contrato de trabajo que se deriva de la acreditación de la prestación personal del servicio, pues los testigos se limitaron a describir aspectos puntuales como la forma como cancelaban los alimentos, la persona encargada de su preparación, pero «ninguna mención hicieron, acerca de la relación entre el dueño de la finca y el agregado y mucho menos entre aquel y la persona encargada de la preparación de los alimentos».
+
+Enfatizó que «como quiera que la preparación de alimentos por parte de la mujer es una labor históricamente subordinada, invisibilizada y subvalorada, se accederá a declarar que entre la señora Luz Mery Zapata Guzmán y el señor Luis Germán Tabares Sánchez existió un contrato de trabajo» desde el 4 de mayo hasta el 20 de octubre de 2017.
+
+Explicó el colegiado que a la misma conclusión se llegaba, aun prescindiendo de la aplicación de la perspectiva de género, pues bastaba con remitirse al artículo 35 del CST para establecer que, si en gracia de discusión se aceptara que el mayordomo, cuya relación laboral con el demandado no está en duda, contrató por su propia cuenta los servicios de su esposa para la preparación de alimentos de los
+
+<!-- pagina 19 -->
+trabajadores de la finca, dicha labor se hizo en las referidas instalaciones, con los equipos, herramientas y demás utensilios del empleador convocado al proceso, para su propio beneficio y en actividades ordinarias inherentes o conexas del mismo, lo que convierte al agregado en un simple intermediario, «reputándose como empleador de la señora Luz
+Mery Zapata el propio demandado».
+
+Como consecuencia de lo anterior, dijo el juez plural que debía revocarse la sentencia absolutoria del a quo y, en su lugar, condenar al pago de los salarios causados durante dicho interregno, a razón de un salario mínimo legal mensual vigente, como se pide en la demanda inicial, menos el 30% de salario en especie, que es el máximo permitido para trabajadores que devengan la asignación mínima, pues como se reconoció en el escrito de acción y se precisó en la contestación, al igual que se acreditó a lo largo del proceso, la trabajadora vivía en las mismas instalaciones del lugar de labor, de modo que no pagaba arrendamiento y de conformidad al principio de la primacía de la realidad, ese ahorro ha de descontarse hasta el más alto porcentaje permitido en la ley.
+
+De otra parte, sostuvo que se condenaría al pago de vacaciones, cesantías y prima de servicios por el periodo laborado por la causante entre el 4 de mayo y el 20 de octubre de 2017, lo que arrojaba un valor total de $3.726.669, como se detallaba en los siguientes cuadros:
+
+<!-- pagina 20 -->
+En este punto, advirtió el juez de alzada que no existía prueba en el plenario que diera cuenta de que a la trabajadora se le hubiere pagado suma alguna por la preparación de alimentos, pues lo que quedó demostrado fue que el dueño de la finca era su verdadero empleador, quien le descontaba a cada operario o recolector de café $10.000 diarios por concepto de las tres comidas y dos cafés, lo que equivalía a $50.000 semanales y que «dicho monto era entregado a Argemiro para que adquiriera el mercado y demás insumos necesarios para alimentar a los trabajadores en la siguiente semana», es decir, que lo deducido a los trabajadores no «iba a dar al bolsillo de Argemiro, como se pretende hacer ver, sino a la labor propia de alimentación».
+
+Destacó que el pago de los anteriores conceptos debía hacerse a favor de la sucesión de Luz Mery Zapata Guzmán y no a nombre de cada uno de los demandantes, pues se desconocía en el proceso si la causante tenía más herederos, de igual derecho que la hija aquí demandante Herica Marsela
+Villada Zapata.
+DESDE
+HASTA
+DIAS
+SALARIO TOTAL
+SALARIO DEVENGADO
+4/05/2017
+31/05/2017
+737.717
+$
+639.354
+$
+1/06/2017
+30/06/2017
+737.717
+$
+737.717
+$
+1/07/2017
+31/07/2017
+737.717
+$
+737.717
+$
+1/08/2017
+31/08/2017
+737.717
+$
+737.717
+$
+1/09/2017
+30/09/2017
+737.717
+$
+737.717
+$
+1/10/2017
+20/10/2017
+737.717
+$
+491.811
+$
+TOTAL
+4.082.033
+$
+2.857.423
+$
+TOTAL - 30% DE SALARIO EN ESPECIE
+CESANTÍAS
+340.170
+$
+INTERESES A LAS CESANTÍAS
+18.823
+$
+VACACIONES
+170.085
+$
+PRIMA
+340.170
+$
+TOTAL NETO A PAGAR
+869.248
+$
+
+<!-- pagina 21 -->
+De otra parte, al referirse al tema de la culpa patronal y la indemnización de perjuicios reclamada, el juez de apelaciones dijo que era imprescindible que aparecieran demostrados los tres elementos de la responsabilidad civil, esto es: el daño, la culpa y el nexo causal entre el daño y la modalidad de culpa.
+
+En ese contexto, memoró que en el ámbito de la responsabilidad a que se refiere el artículo 216 del CST se hacía indispensable que se evidenciara un patente comportamiento omisivo o negligente del empleador antes de la ocurrencia de los hechos, para ser condenado a la indemnización plena de perjuicios; lo que significaba que para atribuirle al empleador la ocurrencia de la enfermedad o el accidente de trabajo; le correspondía al trabajador o a sus causahabientes, según sea el caso, probar la existencia del daño y la culpa del patrono en la ocurrencia del mismo.
+
+En el caso particular, indicó que para encontrar probada la culpa patronal debía quedar suficientemente acreditado que la falta de elementos de protección «genéricos o especiales» agravó la situación del trabajador que, expuesto al riesgo, resultó accidentado.
+
+Explicó que como en este asunto quedó demostrado que la alimentación de los trabajadores se encontraba a cargo del dueño de la finca y su preparación se efectuaba en instalaciones de la misma, al empleador le correspondía probar que dicha actividad se desarrollaba en locales
+
+<!-- pagina 22 -->
+apropiados y seguros para prevenir los peligros de incendio, ya que las tareas de cocina encierran riesgo de explosión o incendio por el uso de sustancias o material combustible y gases inflamables, de modo que, en este caso, el establecimiento de trabajo ha debido adoptar medidas de mitigación del riesgo, como la instalación de aparatos extinguidores y el entrenamiento del personal en extinción de incendios, en cumplimiento del artículo 205 de la Resolución
+2400 de 1997.
+
+Esgrimió que lo anterior es así, máxime que quedó en evidencia «que la cocina de la finca no contaba con estufa eléctrica o a gas sino con horno de leña, cuya combustión requería la utilización de una sustancia inflamable (ACPM)»; que con la prueba testimonial también se acreditó que la cocina era un recinto muy pequeño para la preparación de alimentos para 60 comensales, lo que de suyo exponía enormemente a quien se encargaba de su cocción.
+
+Aseveró que como en el sub judice el accidente que le produjo lesiones al demandante y la muerte a su esposa, se presentó en la cocina del llamado «alimentadero» de la finca, surgía prima facie una relación causal entre el daño y la actividad laboral desplegada por ambos trabajadores, pues el evento trágico se dio en el marco de dicha actividad, cuando
+Luz Mery Zapata Guzmán se disponía a prender el fogón de la cocina para cumplir con la tarea de preparar los alimentos a su cargo, de ahí que el infortunio no obedeció a un episodio doméstico, como se concluyó en primera instancia, «sino a un incidente laboral que cabe perfectamente dentro de la
+
+<!-- pagina 23 -->
+categoría de accidente de trabajo, ya que se dio por causa y con ocasión del trabajo».
+
+Anotó que las lesiones físicas sufridas por Argemiro
+Villada Garzón también se dieron en cumplimiento de las funciones de su cargo y en ejecución de la obligación especial de prestarle la colaboración a su empleador, en casos de siniestro o de riesgo inminente que afectaran o amenazaran las personas o las cosas de la empresa o del establecimiento, toda vez que al lanzarse a la cocina a salvar de las llamas a su pareja, estaba protegiendo la vida de ella que a su vez era una trabajadora de la finca, con lo cual el acto se subsume dentro de la obligación prevista en el numeral 6 del artículo
+58 del CST, pues «en su afán de librar del fuego a su compañera, el trabajador le estaba previniendo un daño al empleador».
+
+Puntualizó que, aunque la causa de la conflagración no quedó plenamente establecida, como lo puso de presente la primera instancia, era evidente que el incendio no pudo ser controlado rápidamente por la falta de un extintor en la finca, y tal carencia, en decir del Tribunal, hizo la diferencia y fue causa efectiva en la producción del daño, ya que las personas que auxiliaron a la víctima no pudieron utilizar ese instrumento como mecanismo idóneo y efectivo para sofocar las llamas y retirar del epicentro de la conflagración a la víctima.
+
+Relató que quienes auxiliaron a la trabajadora tuvieron que usar tierra para disipar el fuego, de modo que las
+
+<!-- pagina 24 -->
+maniobras dirigidas a la extinción del fuego fueron tardías, ya que para obtener dicho material fue necesario usar picas, palas, azadones y baldes, como lo explicaron los testigos, y con cada segundo que la trabajadora estuvo expuesta al fuego se iban reduciendo las probabilidades de sobrevivir, desenlace que quizás hubiese resultado menos grave si hubieran tenido a la mano un extintor.
+
+En este punto, el juez plural recordó que la regla probatoria en estos asuntos enseñaba que incumbe al demandante demostrar el incumplimiento por parte del empleador de su deber de protección y seguridad del trabajador, correspondiéndole a último acreditar que actuó con diligencia y cuidado para poder exonerarse de la responsabilidad. Añadió que la ley le impone al empleador la obligación expresa de prevenir los riesgos inherentes a la relación laboral y, bajo la idea de justicia que inspira tales relaciones, se debe determinar si la conducta del empleador fue negligente, omisiva o descuidada, al punto que lo haga merecedor del pago de la indemnización plena de perjuicios.
+
+Coligió que al empleador se le ha de exigir las cualidades de «un buen padre de familia», lo que en un escenario ideal, implica el deber de cerciorarse que el trabajador tiene la preparación y la experiencia para desarrollar las tareas encomendadas, que cuenta con los elementos de protección necesarios para disminuir las consecuencias de accidentes de diverso tipo y que se tienen dispuestos los medios necesarios para responder con prontitud frente a situaciones de esta naturaleza, tales como botiquín de primeros auxilios,
+
+<!-- pagina 25 -->
+extintores y medios de transporte que permitan la evacuación rápida de personas heridas en faenas laborales, etc.
+
+De lo dicho, destacó que emergía sin dificultad que el empleador demandado incumplió el deber de prevenir los riesgos inherentes al peligro de incendio en la cocina de la finca, por las siguientes razones:
+i) no probó que los locales destinados a la preparación de alimentos estuvieran construidos con materiales poco inflamables como concreto, adobe, etc. y que tenían la suficiente amplitud, ventilación y rutas de escape en caso de incendio o explosión; ii) no se demostró la instalación de extintores en el establecimiento de trabajo, pese al peligro de incendio que supone la preparación de alimentos en fogones de leña y el uso de sustancias inflamables para prenderlos; y iii) no se acreditó que los trabajadores involucrados en las labores de cocina, especialmente la víctima mortal, hubieran recibido capacitación y entrenamiento en extinción de incendios, a pesar de estar expuestos a dicho riesgo inherente a la actividad diaria que desarrollaban.
+
+Por lo anterior, estimó que debía declararse que el accidente sufrido por la fallecida Luz Mery Zapata Guzmán y por Argemiro Villada Garzón el 17 de octubre de 2017 fue de origen laboral y con culpa del empleador, por lo cual impuso las condenas previamente reseñadas.
+
+<!-- pagina 26 -->
+IV. RECURSO DE CASACIÓN
+
+Interpuesto por el demandado, concedido por el
+Tribunal y admitido por la Corte, se procede a resolver.
+
+V.
+ALCANCE DE LA IMPUGNACIÓN
+
+Está propuesto en los siguientes términos:
+
+Solicito respetuosamente la CASACIÓN de la sentencia acusada en cuanto REVOCÓ totalmente la decisión de primera instancia, dictada por el Juzgado Cuarto Laboral del Circuito de Pereira el
+20 de noviembre de 2019, que había absuelto al señor Luis
+Germán Tabares Sánchez como empleador, de las pretensiones incoadas por los señores Argemiro Villada Garzón y Herica
+Marcela Villada Zapata y pido que, en sede de instancia, la
+Honorable Corte Suprema de Justicia REVOQUE los numerales primero a octavo, con la consecuente absolución de la parte demandada.
+
+Con tal propósito, por la causal primera de casación laboral, formula dos cargos que obtienen réplica, los cuales se pasan a estudiar en el orden propuesto.
+
+VI. CARGO PRIMERO
+
+Acusa la sentencia impugnada de ser violatoria de la ley sustancial, en «forma indirecta» en la modalidad de aplicación indebida de los artículos 22, 23, 24, 186, 249 y 306 del CST.
+
+Sostiene que el Tribunal incurrió en los siguientes errores de hecho:
+
+1. Dar por demostrado, en contra de la realidad, que entre la señora Luz Mery Zapata Guzmán y el señor Luis Germán Tabares
+
+<!-- pagina 27 -->
+Sánchez hubo contrato de trabajo entre el 4 de mayo y el 20 de octubre de 2017.
+
+2. No dar por demostrado, estándolo, que la actividad realizada por la señora Luz Mery Zapata Guzmán en el “Estafariato” (tienda de propiedad de la causante) era totalmente independiente a la realizada por el señor Argemiro Villada Garzón en ejecución del contrato de trabajo con el señor Luis Germán Tabares Sánchez y, por tanto, ninguna vinculación tiene con el demandado.
+
+3. Dar por demostrado, en contra de la realidad, que el accidente sufrido por la señora Luz Mery Zapata Guzmán, fue de origen laboral.
+
+4. No dar por demostrado, estándolo, que el accidente sufrido por la señora Luz Mery Zapata Guzmán, se ocasionó de forma exclusiva por la imprudencia en el manejo de un producto combustible, sin que en ella interviniera el señor Luis Germán
+Tabares Sánchez, lo que lo exonera de culpa.
+
+5. No dar por demostrado, estándolo y teniendo en cuenta la idiosincrasia del campo, que las condiciones e infraestructura de la vivienda que ocupaba y utilizaba la señora Luz Mery Zapata
+Guzmán, son propias de la región cafetera de nuestro país.
+
+6. Dar por demostrado, sin estarlo, que la señora Luz Mery
+Zapata Guzmán, realizaba aseo a la vivienda que ocupaba el demandado, cuando en realidad se trata del aseo de la vivienda que ella misma ocupaba y que se encontraba a una gran distancia de la principal.
+
+7. No dar demostrado, estándolo, que el accidente sufrido por el señor Argemiro Villada Garzón fue ajeno a la actividad laboral, por cuanto sus afectaciones se produjeron en el intento de auxiliar a la señora Luz Mery Zapata Guzmán.
+
+8. Dar por demostrado, contrario a la realidad, que el accidente sufrido por el señor Argemiro Villada Garzón, fue de origen laboral y por culpa del empleador, cuando producto de la imprudencia de la señora Luz Mery Zapata Guzmán al elegir un combustible inadecuado, acción en la que no interviene el demandado y lo exonera de la culpa.
+
+9. Dar por demostrado, sin estarlo, que el accidente sufrido por el señor Argemiro Villada Garzón, ocurrió dentro del horario de trabajo y en atención de sus obligaciones laborales.
+
+Considera que los citados yerros fácticos obedecieron a la indebida apreciación de las siguientes pruebas:
+
+<!-- pagina 28 -->
+1. DOCUMENTAL. Planillas de personal de la finca el Paraíso,
+(f.°138 a 147 del expediente digital).
+
+2.
+INTERROGATORIOS
+DE
+PARTE
+APRECIADOS
+ERRONEÁMENTE: Confesión del demandante, señor Argemiro
+Villada Garzón, en el interrogatorio de parte que obra en el audio de la audiencia de pruebas, a partir del minuto 36:14.
+
+El vertido por el señor Luis Germán Tabares Sánchez, en el interrogatorio que obra a partir del minuto 7:47 del audio de audiencia de pruebas.
+
+3. TESTIMONIOS ERRÓNEAMENTE VALORADOS
+
+Testimonio de Luis Ángel Sánchez Ramírez, el cual obra a partir del minuto 1:13:00 del audio de audiencia de pruebas.
+
+Testimonio de Nelson Suárez Trejos, que aparece a partir del minuto 1:39:00 del audio de audiencia de pruebas.
+
+Testimonio de Jeover Gómez Bedoya, que se encuentra a partir del minuto 2:24:23 del audio de audiencia de pruebas.
+
+Testimonio de José Arnoldo Vanegas, que aparece a partir del minuto 2:17:35 del audio de audiencia de pruebas.
+
+En el desarrollo de la acusación, manifiesta el censor que en este evento, el juez de alzada presumió el contrato de trabajo desde el 4 de mayo hasta el 20 de octubre de 2017, entre la señora Luz Mery Zapata Guzmán y el demandado
+Luis Germán Tabares Sánchez, teniendo como soporte para la presunción de hecho que la demandante ejecutó hasta el día de su fallecimiento «acciones agrícolas en beneficio del demandado, tales como: aseo de la vivienda que ella misma ocupaba, o entrega de material de recolección a trabajadores de la finca y la explotación comercial de una tienda
+(Estafariato) a través del cual se alimentaba a los trabajadores», circunstancias que fundamentaron a su vez, en la declaratoria del accidente de trabajo acaecido el día 16
+
+<!-- pagina 29 -->
+de octubre de 2017 y que afectó al demandante y a «su esposa».
+
+Aduce que si lo pretendido por el fallador de alzada era justificar la «dependencia comportamental» de la señora Luz
+Mery Zapata Guzmán, debió exponer con razones serias y evidentes que el demandado Luis Germán Tabares Sánchez no cumplió con su carga probatoria de demostrar que las actividades realizadas por ella eran ajenas al factor de dependencia y subordinación «y si, como efectivamente ocurrió, se cumplió con ese propósito, no puede darse vida a la presunción legal del artículo 24 del Código Sustantivo del
+Trabajo, lo que al mismo tiempo da al traste con la declaratoria de accidente de trabajo».
+
+En ese sentido, estima que se configuró el yerro fáctico denunciado, al estudiar de forma parcelada la escasa prueba documental arrimada al proceso y, en otros eventos, valorar erróneamente los interrogatorios absueltos y la prueba testimonial, o no realizarlo, «cúmulo de dislates que llevaron a la vulneración de la ley sustancial».
+
+Dice que la historia clínica relaciona con claridad la atención médica prestada fundamentalmente al señor
+Argemiro Villada Garcés, por cuanto respecto de la señora
+Luz Mery Zapata Guzmán solo se hace mención de su atención de urgencia y la prescripción de traslado a una unidad de manejo de quemados y su ingreso a la UCI; que frente al primero se destacan aspectos como: «que sufre quemadura secundaria debido a explosión de gasolina
+
+<!-- pagina 30 -->
+mientras realizaba labores en la cocina a eso de las 03+30
+SCT», pero la apreciación por parte del Tribunal contradice totalmente «lo descrito en la actuación», pues es claro que las actividades de cocina las realizaba la señora Luz Mery
+Zapata.
+
+De otra parte, arguye el recurrente que en la citada historia clínica se indica, «paciente refiere que fue víctima de accidente casero mientras cocinaba en un horno de leña dice que cambió el mecanismo de encendido y se le estalló», pero tales anotaciones fueron apreciadas erróneamente por el fallador de alzada, en el sentido de que lo que realmente se deriva es que la ocurrencia del accidente se produjo como consecuencia del inadecuado manejo del combustible utilizado para encender un fogón de leña, a primeras horas de la mañana.
+
+Resalta que el juez plural no tuvo en cuenta el hecho de que el demandante Argemiro Villada Garzón nunca manifestó que «su señora», al momento del accidente, estuviera realizando actividades en favor del demandado, pues conforme lo discurrido en la actuación y lo descrito en la historia clínica, el suceso se presentó entre las 3:30 y 4:00 a.m.; por tanto, estos registros solo evidencian la ocurrencia de un infortunio como resultado de un explosión por indebido manejo de combustibles y ninguno de los aspectos contemplados en la historia clínica «tienen conexión probatoria directa o indirecta con la supuesta actividad prestada en favor del demandado», por parte de la señora Luz
+Mery Zapata Guzmán.
+
+<!-- pagina 31 -->
+Considera que las planillas en las que se registraba la deuda de los trabajadores también fueron valoradas de manera errada, al no deducir de su contenido la ausencia total de prestación del servicio por parte de Luz Mery Zapata
+Guzmán, máxime que ninguno de los soportes documentales, tienen conexión probatoria directa o indirecta con la prestación del servicio, dado que de ellas no aflora conducta alguna encaminada a deducir actuaciones que fundamenten la presunción que establece el artículo 24 del
+CST y solo demuestran «la actividad comercial independiente que desarrollaba la causante desde el denominado
+“estafariato” o “tienda”».
+
+Así las cosas, asegura que siguiendo el principio de correspondencia e identidad probatoria que rige la actuación judicial, solo es posible deducir de las evidencias lo que ellas reflejan, o lo que se pueda inferir de las mismas, siendo alejado de la objetividad, la lógica y el sentido común, ya que los documentos que no tienen ninguna conexión con el servicio alegado, no pueden ser valorados
+«descontextualizadamente como eficientes para sustentar raciocinios de dependencia laboral» que no coinciden con la realidad, como aquí lo realizó el juez de segundo grado.
+
+Refiere que el Tribunal dio a las planillas presentadas y al contenido de la historia clínica
+«un alcance y correspondencia que objetivamente no tienen, desviándose de su contenido, para deducir una supuesta subordinación
+
+<!-- pagina 32 -->
+laboral por parte de la señora Luz Mery Zapata Guzmán que no existe».
+
+Sobre el interrogatorio de parte absuelto por Argemiro
+Villada Garzón, asegura que de éste el juez de segundo grado concluye que la actividad desarrollada por Luz Mary Zapata
+Guzmán era en beneficio del demandado; pero no tuvo en cuenta las aclaraciones y explicaciones del hecho supuestamente confesado y que sirven de base para modificar la decisión. Especifica que, levantarse a las 4:00 o
+4:30 de la mañana a prender el fogón para cocinar los alimentos y mantener su propia casa aseada es una función ajena a la actividad laboral, excepto si el contrato es para prestar el servicio doméstico; que el juzgador no advirtió que se refería a la propia casa de los demandantes, además que tal actividad no podía ser remunerada por el accionado, por cuanto era una ocupación comercial producto del propio negocio de la causante.
+
+Apunta que de la descripción que hace el absolvente del origen del accidente se debía concluir que el mismo surgió por la imprudencia de la señora Luz Mery Zapata Guzmán, en el manejo inadecuado del combustible que normalmente usaba para encender su fogón, aspectos todos ellos en los que ninguna intervención tuvo el convocado al proceso, quien ni siguiera proporcionaba los medios para su encendido. Arguye que el ad quem apreció en forma «loteada» el interrogatorio de parte, para extraer lo desfavorable para el demandado.
+
+<!-- pagina 33 -->
+Anota que el colegiado, al analizar el valor probatorio de lo manifestado por el accionado en su interrogatorio, no tuvo en cuenta sus dichos respecto a que él no hacia ninguna intervención ni obtenía beneficio con el sistema de contratación de la alimentación de los trabajadores temporales de la finca, aspectos todos ellos que deslegitiman la existencia de un contrato de trabajo con la señora Luz
+Mery Zapata Guzmán, quien desarrollaba su actividad comercial independiente a través del denominado
+«estafariato».
+
+Finalmente, frente a la prueba testimonial denunciada el censor afirma que, escuchada en su integridad y contexto, devela argumentos claros que corroboran la total independencia de las actividades realizadas por la señora
+Zapata Guzmán, que impiden fundamentar factores que respalden la presunción normativa contenida en el artículo
+24 del CST.
+
+Insiste en que el
+Tribunal desconoció sin razonamientos,
+«los elementos estructurantes del conocimiento de los hechos del testigo llamado por ambas partes», para darle un alcance distinto al que se infiere de su declaración, tergiversando su contenido y dejando sin valor afirmaciones como que el trabajo en la finca iniciaba a las
+6:00 a.m. y que precisamente a esa hora entregaban las herramientas.
+
+Por todo lo anterior, concluye que el fallo censurado descontextualizó la prueba escrita al desechar la documental
+
+<!-- pagina 34 -->
+que da «trazas» de la independencia de la señora Luz Mery
+Zapata Guzmán, para darle credibilidad y certeza a los testigos de la parte actora, sin tener en cuenta que en las tareas ejecutadas por ella, el demandando no intervino y menos participó en el método de encendido del fogón para preparar alimentos ni tampoco en la elección del combustible; circunstancias que resultaban suficientes para descartar la culpa patronal.
+
+VII. LA RÉPLICA
+
+En el escrito de oposición de la parte accionante, frente a este primer ataque asegura que, contrario a lo expuesto por el recurrente, la conclusión a la que arribó el Tribunal sí es acertada, por cuanto no se está quebrantando la normativa referente a la existencia de un contrato de trabajo, sino que en realidad, según la valoración de los elementos de prueba, fue posible concluir que la fallecida Luz Mery Zapata Guzmán le prestó sus servicios personales al accionado, a través de la preparación y suministro de alimentación a los trabajadores de su finca, lo cual se dio en un marco de subordinación y obteniendo un salario.
+
+En ese orden, sostiene que acertó el ad quem al encontrar acreditado el nexo laboral y colegir que lo acaecido a la señora Zapata Guzmán deriva de un accidente de trabajo, porque fue con ocasión de labor desarrollada en favor del propietario de la finca El Paraíso, sobre quien recae la culpa patronal al no haber procurado instalaciones adecuadas para la preparación de los alimentos de los
+
+<!-- pagina 35 -->
+trabajadores y además no contar con elementos de primeros auxilios como un extintor.
+
+VIII. CONSIDERACIONES
+
+En el sub judice a la Corte le corresponde elucidar si el
+Tribunal se equivocó al establecer, bajo una perspectiva de género que, entre Luz Mery Zapata Guzmán y Luis Germán
+Tabares Sánchez existió un contrato de trabajo realidad, desde el 4 de mayo hasta el 20 de octubre de 2017 y que el infortunio donde ella perdió la vida y su cónyuge salió lesionado, fue un accidente de trabajo, que se produjo por culpa del empleador, por lo que impuso las condenas correspondientes.
+
+En este asunto, se recuerda que el Tribunal puso de presente cómo la mujer ha sido históricamente relegada al trabajo doméstico o de cuidado, lo que lleva a la invisibilización y subvaloración de sus actividades e incluso comporta marginalidad y pauperización de las condiciones de empleo, pues las relaciones de trabajo se enmascaran bajo la forma de favores, obligaciones morales o familiares, deudas de gratitud o actos voluntarios de carácter gratuito.
+
+En ese orden, precisó que dados los compromisos internacionales de Colombia, que imponen el deber a las funcionarios judiciales de aplicar el derecho a la igualdad dentro de las decisiones judiciales, para efectos de disminuir la violencia y la discriminación frente a grupos desprotegidos como las mujeres, indicó que abordaría este asunto desde la
+
+<!-- pagina 36 -->
+perspectiva de género, lo que implicaba privilegiar el uso la prueba indiciaria, ante la imposibilidad de obtener la prueba directa, lo cual permite una «valoración probatoria» especial y de más cuidado.
+
+Seguidamente la colegiatura se refirió ampliamente a las costumbres del campo, especialmente de las fincas cafeteras, respecto a la contratación del «agregado» o administrador, quien, por lo general, debe tener esposa o compañera permanente, para que ambos se ocupen de las tareas de administración y cuidado de la hacienda, siendo el hombre el que celebra el contrato y el único que recibe salario, bajo la creencia de que el trabajo doméstico no tiene valor económico alguno o viene dado en subsidio de la función primordial de mayordomía.
+
+Frente al caso concreto, del análisis de la prueba documental, los interrogatorios de parte, la testimonial e indiciaria, el ad quem concluyó que la parte actora logró acreditar que Luz Mery Zapata Guzmán le prestó servicios personales al demandado, consistente en preparar los alimentos a los trabajadores de la finca, lo cual hacía presumir la existencia del contrato de trabajo conforme lo dispuesto en el artículo 24 del CST, actividad que era directamente remunerada por el empleador a través del
+«agregado» y que «el salario era variable y se calculaba en función del número de trabajadores alimentados», quienes pagaban la suma diaria de $10.000 por los alimentos; y, de otro lado, que el accionado no logró desvirtuar dicha presunción legal. Corolario de lo anterior, la colegiatura
+
+<!-- pagina 37 -->
+declaró que entre Luz Mery Zapata Guzmán y Luis Germán
+Tabares Sánchez existió un contrato de trabajo desde el 4 de mayo hasta el 20 de octubre de 2017.
+
+En cuanto a la culpa patronal, el juez de segunda instancia, luego de referirse al artículo 216 del CST, en suma, argumentó que al quedar demostrado que la alimentación de los trabajadores se encontraba a cargo del dueño de la finca y su preparación se efectuaba dentro de ese inmueble, al empleador le correspondía probar que dicha actividad se desarrollaba en instalaciones adecuadas y seguras para prevenir los peligros de incendio que puede conllevar tales tareas, dado el uso de sustancias combustible y gases inflamables, de ahí que estaba obligado a adoptar medidas de mitigación del riesgo, como el suministro de extinguidores y el entrenamiento del personal en extinción de incendios, en cumplimiento del artículo 205 de la Resolución 2400 de
+1997.
+
+Dijo que la prueba testimonial había dejado en evidencia que la cocina era muy pequeña para la preparación de alimentos para 60 comensales, lo que exponía en sumo grado a quien se encargaba de prepararlos; que como el accidente que le causó lesiones al actor y la muerte a su compañera permanente, ocurrió en la cocina del llamado
+«alimentadero» de la finca, se podía colegir que el infortunio no obedeció a un episodio doméstico, «sino a un incidente laboral que cabe perfectamente dentro de la categoría de accidente de trabajo, ya que se dio por causa y con ocasión
+
+<!-- pagina 38 -->
+del trabajo»; que, además, el incendio no pudo ser controlado rápidamente por la falta de un extintor en la finca.
+
+Así, determinó que debía declararse que el accidente sufrido por Luz Mery Zapata Guzmán y Argemiro Villada
+Garzón el «17 de octubre de 2017» fue de origen laboral y con culpa del empleador, para lo cual, había lugar a imponer las condenas reclamadas por la reparación ordinaria y plena de perjuicios.
+
+Pues bien, lo primero que advierte la Sala es que la colegiatura al asumir el estudio de este asunto desde la perspectiva de género, tuvo como eje fundamental y prueba privilegiada los indicios, medio probatorio reconocido en la legislación colombiana, pues en los términos del artículo 242 del CGP, el juez «los apreciará en conjunto, teniendo en consideración su gravedad, concordancia y convergencia, y su relación con las demás pruebas que obren en el proceso»; y además los podrá deducir de la conducta procesal de las partes (artículo 241 ibidem).
+
+El indicio es un acto o circunstancia probada a través de la cual el juez adquiere la certeza o la convicción de la presencia de un hecho relacionado con la controversia sometida a su consideración, es decir, a partir de la existencia de un hecho debidamente acreditado en el plenario, el administrador de justicia infiere la coexistencia de otro. En los términos de esta corporación, el indicio es «un hecho del cual se infiere lógicamente la existencia de otro hecho, o en definición más compleja, es un juicio lógico
+
+<!-- pagina 39 -->
+mediante el cual se aplica una regla de experiencia a un hecho conocido para llegar a otro desconocido».
+
+En sentencia CSJ SL14032-2016, reiterada en la decisión CSJ 4057-2018, al respecto se puntualizó:
+
+Como se puede observar, el ad quem dedujo del «hecho» contenido en la prueba documental que se acaba de transcribir, relativo a las vacaciones que le fueron concedidas, otro «hecho», cuál es un tiempo de servicios por lo menos desde el 10 de agosto de 1974, es decir un año antes a la expedición del oficio que debió haber laborado el actor para tener derecho a ese periodo de vacaciones, lo cual configura es un indicio, que consiste en «un hecho del cual se infiere lógicamente la existencia de otro hecho, o en definición más compleja, es un juicio lógico mediante el cual se aplica una regla de experiencia a un hecho conocido para llegar a otro desconocido», (Sentencia CSJ, SL, 8 ag. 2007, rad.
+29684), que no es prueba apta en casación en los términos del art. 7° de la Ley 16 de 1969.
+
+[…]
+
+De suerte que, el Tribunal partiendo de la correcta valoración de la prueba documental, arribó a una conclusión o deducción que está acorde con ese material probatorio, y la circunstancia que no coincida con la apreciación dada por la censura, no configura un error de hecho y menos con la connotación de manifiesto, que lleva a que se mantenga incólume dicha inferencia de un tiempo servido equivalente a 14 años, 5 meses y 4 días.
+
+En consecuencia, si la prueba indiciaria fue el medio de convicción principal y central del que se valió la colegiatura para llegar a las conclusiones que aquí se reprochan, el censor tenía la insoslayable obligación de denunciarla en casación, pues aunque no es un medio probatorio calificado en el recurso extraordinario, según las restricciones del artículo 7 de la Ley 16 de 1969, al no controvertirse, lo que de ella hubiera colegido el juez de alzada mantienen incólume la decisión confutada, amparada en la doble presunción de legalidad y acierto.
+
+<!-- pagina 40 -->
+Sobre el punto, esta corporación, refiriéndose a la prueba testimonial que igualmente no es apta en casación para estructurar un error de hecho, y cuyas directrices aplicarían para el caso de los indicios, en sentencia CSJ
+SL2080-2022, señaló:
+
+Finalmente, en cuanto a la acusación fáctica, le asiste razón a la opositora en el sentido de que la decisión también se fundó en la prueba testimonial, sobre la cual ninguna acusación plantea la recurrente. Y si bien es cierto el citado medio de convicción no es hábil para estructurar errores de hecho en casación laboral, como se colige del artículo 7 de la Ley 16 de 1969, la Sala se permite reiterar que cuando ella sirva de soporte al fallo recurrido, como acontece en este caso, sí es imperativo acusarla como erróneamente apreciada, pues ello es lo que permite a la
+Corte que una vez demostrados los yerros fácticos con la que sí tiene esa connotación, entrar a estudiar tal elemento probatorio.
+No hacerlo implica que el fallo debe mantenerse inalterable, prevalido de la doble presunción de legalidad y acierto que la cobija (CSJ SL, 18 oct. 2001, rad. 16.351).
+
+(Subraya la Sala).
+
+En efecto, si bien la jurisprudencia traída a colación hace referencia a la prueba testimonial, es perfectamente aplicable a los indicios, por cuanto lo que enseña es que, aunque se trate de un medio de convicción no hábil en la casación del trabajo, es deber del recurrente acusarlo, pues de lo contrario la sentencia se mantiene inalterable.
+
+A lo anterior se suma que el juez plural también esgrimió, como argumento fundamental del fallo, que a la misma conclusión se llegaría aunque el estudio no se hiciera desde la perspectiva de género, pues bastaba con remitirse al artículo 35 del CST para establecer que, de aceptarse en gracia de discusión que el mayordomo o administrador, cuya relación laboral con el demandado no está en duda, contrató
+
+<!-- pagina 41 -->
+por su propia cuenta los servicios de su esposa para la preparación de alimentos de los trabajadores de la finca, dicha labor se hizo en las referidas instalaciones, con los equipos, herramientas y demás utensilios del empleador demandado, para su propio beneficio y en actividades ordinarias inherentes o conexas del mismo, lo que lo convierte al «agregado» en un simple intermediario, siendo el verdadero empleador de Luz Mery Zapata Guzmán el aquí accionado.
+
+Razonamiento que tampoco fue controvertido, olvidando el censor que el recurso extraordinario de casación requiere un ejercicio dialéctico dirigido a socavar todos los pilares de la sentencia atacada, porque si no se hace en debida forma o se combaten razones distintas a las aducidas por el juzgador, la providencia permanecerá incólume, soportada en los cimientos o inferencias que se dejaron libres de ataque y que sirvieron al Tribunal para resolver en el sentido que lo hizo, pues de nada sirven las acusaciones exiguas o parciales (CSJ SL12298-2017).
+
+Aunque lo dicho resulta suficiente para dar al traste con esta acusación, si la Sala por holgura entrara a estudiar los reproches fácticos que hace la censura a la sentencia confutada, encontraría que tampoco le asiste razón.
+
+El recurrente le endilga al Tribunal la comisión de nueve yerros fácticos que apuntan a demostrar que se equivocó al colegir que entre el demandado y Luz Mery Zapata Guzmán existió un contrato de trabajo; así como al determinar que el
+
+<!-- pagina 42 -->
+accidente sufrido por Argemiro Villada y la referida trabajadora quien falleció, fue de carácter laboral; que tal equivocó obedeció a la indebida valoración de algunas pruebas.
+
+Al realizar en análisis objetivo de los medios de convicción que se denuncia como erróneamente apreciados, se encuentra lo siguiente:
+i) Planillas del personal de la finca (f.°138 a 181).
+
+El juez de segundo grado dijo que esta documental acreditaba que, con posterioridad al accidente, el dueño de la finca continuó descontando a los trabajadores el costo de la alimentación, es decir, que tal servicio se siguió garantizado por el empleador demandado, lo que dejaba ver que Luz Mery Zapata Guzmán sí prestaba sus servicios como alimentadora y en su ausencia el accionado se vio obligado a contratar con otra persona «al parecer un señor de nombre
+Fabio Villada, que es quien aparece firmando los listados de alimentación del 17 de octubre de 2017 en adelante».
+
+Ciertamente, en la foliatura indicada se observan unas planillas tituladas «FINCA PARAISO» donde se relacionan los pagos semanales de febrero a noviembre de 2017, cada una contiene columnas donde se registra el nombre del trabajador, cédula, días laborados, kilos, devengado, deducido, total recibido y firma del trabajador.
+Adicionalmente se encuentran unos listados también por semanas, elaborados a mano con esfero, en los que aparece
+
+<!-- pagina 43 -->
+el nombre del trabajador y un valor al frente. La suma total coincide con el monto que se registra en la planilla como deducido.
+
+Para una mejor ilustración se puntualiza que, en la semana del 30 de octubre al 6 de noviembre de 2017, la planilla en la columna de deducciones registra un monto de
+$980.400 y conforme a la lista elaborada por el mismo lapso, sumadas las cantidades que aparecen al frente del nombre de cada trabajador, arroja igual valor; en el segundo documento aparece una nota que indica «recibí el valor de la deducción $980.400 Fabio Villada CC4587795».
+
+En ese orden, la Corte no encuentra descabellada la deducción del ad quem, relativa a que tales documentales dejaban en evidencia que después del infortunio el demandado siguió descontando a sus trabajadores el valor de la alimentación, lo que en últimas indicaba que era su responsabilidad alimentar a sus trabajadores, pero al fallecer
+Luz Mery Zapata Guzmán, quien prestaba el servicio personal en la finca y se encargaba de su preparación, el accionado se vio obligado a contratar a otra persona que se encargara de esa tarea.
+
+En este punto, es oportuno recordar que cuando el ataque en casación busca demostrar equivocaciones valorativas en la sentencia fustigada, no es cualquier desacierto el que puede dar lugar a la anulación o quiebre de lo resuelto por el juez de segunda instancia, sino únicamente
+
+<!-- pagina 44 -->
+aquel que tenga la connotación de «manifiesto», según lo expresa el artículo 87 del CPTSS.
+
+De suerte que, no le asiste razón a al censor cuando afirma que esas planillas fueron valoradas
+«descontextualizadamente como eficientes para sustentar raciocinios de dependencia laboral»; por el contrario, se aprecia que el fallador de alzada se atuvo a lo que exactamente muestra su contenido, por ende, tal documental resulta apreciada correctamente.
+ii) Historia Clínica (f.°16 a 37).
+
+Si bien el recurrente no relaciona este documento como valorado con error, en el desarrollo del ataque sí se refiere al mismo para criticar la apreciación que hizo el juez de alzada, por ello la Sala asume su estudio.
+
+El Tribunal aseveró que de este documento se desprendía que el «16 de octubre de 2017», a las 8:04,
+Argemiro Villada Garzón había ingresado al Hospital San
+Jorge de Pereira, quien fue remitido de la unidad local de San
+Joaquín, como urgencia vital por quemadura extensa; que en el registro de ingreso se indicó que se trata de un paciente masculino de 49 años sin antecedentes de importancia
+«quien sufre quemadura secundaria debido a explosión de gasolina mientras realizaba labores en la cocina a eso de las
+03+30». Allí se describió que:
+
+[…] presentaba quemadura de segundo grado superficial en dorso de aproximadamente 16% SCT (Superficie Corporal Total),
+
+<!-- pagina 45 -->
+quemadura de segundo grado superficial en miembro superior izquierdo comprometiendo cara posterior, no circular de aproximadamente 4,5%, presenta quemadura de segundo grado superficial con algunas zonas de profunda en cara anterior de pie izqueird (sic.) de aproximadamente 2%, no compromiso de falanges, no quemadura en plantas. Quemadura de segundo grado superficial con algunas zonas profunda en el tercio distal de piernaderecha (sic), con compromiso de la totalidad de la circunferencia y extensión a antepier
+(sic) y plante deaproximamente (sic) 6% SCT”.
+
+La colegiatura refirió que el médico tratante ordenó reanimación hídrica, analgesia, antibioterapia y profilaxis antitetánica y por gravedad de las quemaduras lo remitió a servicio para manejo integral y valoración por cirugía general, donde se le prescribió cubrir lesiones con parches de
+«aquacel».
+
+El juez de apelaciones transcribió lo que se indicó en la historia clínica del demandante al día siguiente del accidente de trabajo, así como lo diagnosticado los días 22, 23, 24, 28 de octubre y 2 de noviembre de 2017.
+
+En lo que atañe a la víctima mortal del accidente señora
+Luz Mery Zapata Guzmán, el colegiado refirió que en la historia clínica aportada el 17 de octubre de 2017 se indicó: paciente de 49 años, remitida como urgencia vital, refiere que ese día a las 04+20 sufre quemadura en gran parte de la superficie corporal con elemento inflamable, gasolina, al prender estufa. Atendida inicialmente en «Hospital de Cuba», donde la estabilizan y le dan manejo analgésico. A las 06:53, fue atendida por médico especialista, quien deja anotado:
+
+[…] paciente refiere que fue víctima de accidente casero mientras cocinaba en un horno de leña dice que cambió el mecanismo de
+
+<!-- pagina 46 -->
+encendido y se le estalló, quemaduras de I y II nivel en el 75% de
+SCT, se prescribe traslado si no hay disponibilidad de cuidado intermedio o quemados. Ingresa en UCI a las 21+44, pues no ha sido posible ubicar en una unidad especializada para manejo de quemados en otra institución de la región.
+
+El Tribunal puntualizó que, en nota de consulta del día siguiente, 18 de octubre de 2017, constaba «quemadura que compromete piel y tejido celular subcutáneo en el 90% de la cara.
+Actualmente en acidosis metabólica severa, hemoconcentrada, con pérdida de agua corporal aumentada.
+Se programa traslado terrestre a la clínica Simón Bolívar.
+Pronóstico reservado». Añadió que esa documental no contenía anexo relacionado con la atención recibida en
+Bogotá y, que, según el certificado de defunción la paciente había fallecido el 20 de octubre de igual año.
+
+Confrontada la historia clínica con lo referido por el sentenciador de segundo grado, surge palmario que no pudo apreciar este documento con error, en la medida que simplemente describió el contenido del mismo, sin distorsionar su texto, además que no efectuó ningún juicio de valoración.
+
+El censor le enrostra la indebida apreciación de lo anotado en la historia clínica del demandante, en relación a que «sufre quemadura secundaria a explosión de gasolina mientras realizaba labores en la cocina a eso de las 03+30
+SCT….», y de la fallecida Luz Mery Zapata relativa a que
+«paciente refiere que fue víctima de accidente casero mientras cocinaba en un horno de leña dice que cambio el mecanismo de encendido y se le estalló,….»; porque en su decir, la
+
+<!-- pagina 47 -->
+primera historia contradice totalmente lo probado en la actuación, atinente a que las actividades de cocina las realizaba la señora Luz Mery Zapata y la segunda porque la ocurrencia del accidente fue como consecuencia del inadecuado manejo del combustible utilizado para encender un fogón de leña.
+
+Lo anterior resulta totalmente equivocado, toda vez que no puede enrostrársele al juez plural una indebida valoración probatoria, frente a anotaciones derivadas de las propias versiones de los pacientes y contenidas en las aludidas historias clínicas, manifestaciones efectuadas al momento de ser atendidos o auxiliados, frente a las cuales el colegiado simplemente se limitó a describir lo que allí aparecía, sin distorsionar su contenido, lo que hace que no se presente una deficiente valoración probatoria.
+iii) Interrogatorios de parte
+
+El recurrente denuncia como valorados con error los interrogatorios de parte absueltos por el demandado Luis
+Germán Tabares Sánchez y el actor Argemiro Villada Garzón.
+
+Del primero, aduce que el Tribunal no tuvo en cuenta los dichos del absolvente accionado respecto a que no hacia ninguna intervención ni obtenía beneficio con el sistema de contratación de la alimentación de los trabajadores temporales de la finca, aspectos que, en su decir, deslegitiman la existencia de un contrato de trabajo con la señora Luz Mery Zapata Guzmán.
+
+<!-- pagina 48 -->
+De conformidad con lo expuesto por el censor, como quiera que se refiere a los dichos que pueden favorecer al propio absolvente, es decir, no a aquellos que beneficien a la parte contraria, no es dable considerar las manifestaciones de parte como una confesión, con la cual se pueda edificar un yerro fáctico en la esfera casacional. Lo anterior conduce a tener, para el presente caso, tal interrogatorio del demandado como un medio probatorio no calificado, pues solamente adquiere la connotación de prueba idónea cuando contiene confesión, lo cual, se insiste, en esta oportunidad no se configura.
+
+En definitiva, en el ataque no se acusa al fallador de haber dejado de apreciar alguna manifestación concreta del interrogado que admita un hecho en su perjuicio, ni tampoco de haber dado por establecida una confesión que no exista, ya que simplemente se alude a las respuestas vertidas por el absolvente y que se afirma no fueron tenidas en cuenta por el ad quem, pero que, más bien, favorecerían los propios intereses del convocado al proceso.
+
+Sobre esta temática, es importante recordar que la
+Corte ha señalado que el interrogatorio de parte no es prueba hábil para fundamentar el recurso de casación a menos que se invoque la existencia de confesión, lo que no ocurrió en el presente caso. Al respecto en sentencia CSJ SL, 29 jul. 2008, rad. 32044, se indicó:
+
+Al criticar la valoración del interrogatorio de parte rendido por el representante legal de la demandada, afirma el impugnante que
+
+<!-- pagina 49 -->
+allí se evidencia un ardid del absolvente, que se pone de manifiesto con lo que acredita el documento de folio 8. Pero al discurrir de esa manera, no se tiene en cuenta que el interrogatorio de parte en sí mismo considerado no es medio hábil en la casación del trabajo, salvo que, en los términos del artículo 195 del Código de Procedimiento Civil, contenga la confesión de algún hecho.
+Y en realidad el discurso argumentativo del impugnante no está dirigido a demostrar una confesión, sino a probar que al hablar del ofrecimiento al actor de un traslado se pretende ocultar por el representante legal de la enjuiciada que en realidad ofreció un contrato de asesoría, de suerte que no resulta posible atribuirle al Tribunal un desacierto en la valoración del medio probatorio en comento, en la medida en que lo que se busca es cuestionar lo allí expresado, más no tenerlo como confesado.
+
+Ahora, frente al interrogatorio del demandante, el casacionista asegura que la colegiatura tuvo en cuenta lo afirmado por el absolvente, para concluir con error que la actividad desarrollada por Luz Mary Zapata Guzmán era en beneficio del demandado, ello por no tener en cuenta las aclaraciones y explicaciones del hecho supuestamente confesado.
+
+En primer lugar, es de aclarar que en los términos del artículo 191 del CGP, uno de los requisitos de la confesión es,
+«que verse sobre hechos que produzcan consecuencias jurídicas adversas al confesante o que favorezcan a la parte contraria».
+En ese orden, se equivoca el impugnante cuando afirma que el juez de alzada tuvo en cuenta la confesión de Argemiro
+Villada Garzón, pues es evidente que esas aseveraciones del interrogado en cambio de favorecer a la parte contraria, en este caso al accionado, más bien perjudica a su empleador, lo que en rigor conduce a afirmar que no existió confesión y, por ende, esta diligencia de interrogatorio tampoco se puede considerar como una confesión del actor, que la convierte en
+
+<!-- pagina 50 -->
+prueba calificada en casación.
+
+En segundo término, en el hipotético caso de que la Sala se pudiera adentrar en el estudio del interrogatorio de parte absuelto por Argemiro Villada Garzón, corroboraría que ninguna de las respuestas favorece al demandado, pues aseveró que, por «orden del patrón» cobraba $10.000 diarios por las tres comidas y dos cafés $50.000 a la semana; al ser preguntado quien le daba el dinero para comprar los víveres contestó «don Germán le descontaba a los trabajadores y el me daba la plata de la comida de los trabajadores» y que siempre se la entregaba el día del pago.
+
+El absolvente también manifestó que le pidió varias veces a «don German» que organizara ese fogón porque estaba que se caía y que la respuesta había sido «póngale un puntal a eso».
+Explicó que el fogón donde cocinaban era de leña y se prendía con ACPM, que no es lo mismo que querosene, «siempre se encendía con ACPM. Ese día que mi esposa se levantó a hacer el fogón, el señor que siempre me echa ACPM se confundió y me echó gasolina, mi esposa no sabía que eso era gasolina, estaba segura que era ACPM, y yo también estaba seguro. Le metió fuego al fogón y la explosión se ocasionó debido a que estábamos seguros que era ACPM y nos vendieron una cosa que no era eso».
+
+Tales dichos del absolvente demandante en nada ayudan al accionado de cara a desvirtuar la existencia de la relación laboral que encontró probada el ad quem con Luz Mery Zapata
+Guzmán.
+
+<!-- pagina 51 -->
+Además, el relato del interrogado sobre la forma como se produjo el accidente de trabajo, tampoco desvirtúa la culpa patronal establecida por el Tribunal, máxime si se tiene en cuenta que la segunda instancia infirió que, aunque la causa de la conflagración no hubiera quedado plenamente establecida, era evidente que el incendio no pudo ser controlado o disipado rápidamente por la falta de elementos de primeros auxilios como un extintor, conclusiones que el censor no logró desvirtuar.
+
+Y es que, aunque si se tuviera por cierto que la trabajadora utilizó gasolina para prender el fogón de leña en el que le preparaba los alimentos a los operarios, sin advertir que no se trataba de ACPM, esa circunstancia en todo caso no exime de culpa al empleador, habida consideración que era su obligación, además de ofrecer unas instalaciones adecuadas para las labores de cocina, proporcionar materiales o combustibles que no generaran riesgo en la salud de la trabajadora a la hora de iniciar la cocción de los comidas de los trabajadores recolectores de café, incumplimiento del que se deriva la responsabilidad del demandado que no desaparece en el evento de que exista concurrencia de culpas o compensación de faltas cometidas por las partes. Al respecto, la Corte, en sentencia CSJ SL 5463- 2015, razonó:
+
+Pero lo cierto es que a la luz del artículo 216 del Código
+Sustantivo del Trabajo, que contiene una regulación especial de la responsabilidad laboral, para determinar la obligación del empleador al reconocimiento y pago de la indemnización total y ordinaria de los perjuicios le basta al juzgador establecer la culpa
+“suficientemente comprobada”, en la ocurrencia del accidente de trabajo o en la enfermedad profesional, de suerte que, en este
+
+<!-- pagina 52 -->
+caso, una vez determinada esa conducta culposa no se hacía necesario analizar la responsabilidad que en el infortunio pudiera haber correspondido al trabajador, salvo que se hubiese alegado por las demandadas que el accidente laboral se produjo por un acto deliberado de aquél, lo que no aconteció. Y se afirma lo anterior, por cuanto, como lo ha explicado esta Sala de la Corte, no es posible que la responsabilidad laboral del empleador desaparezca por la compensación de las faltas cometidas por las partes (Subrayas fuera del texto).
+
+Se debe insistir que al estar demostrado que Luz Mery
+Zapata Guzmán utilizaba combustibles inflamables para prender el fogón de leña en el que ejecutaba sus tareas como
+«alimentadora» o preparadora de alimentos en la Finca, era una actividad peligrosa que exigía medidas de prevención por parte del empleador, para evitar incendios o explosiones, lo que en los términos del artículo 205 de la Resolución 2400 de
+1997 le implicaba la instalación de «tomas de agua con su correspondientes mangueras, tanques de depósito de reserva o aparatos extinguidores con personal debidamente entrenado en la extinción de incendios», medidas que el accionado no demostró haber cumplido, pues lo que se supo fue que los trabajadores que sofocaron el fuego debieron utilizar elementos para sacar tierra y con ello aplacar el incendio.
+
+De tal modo que no se configura el error fáctico enrostrado por la censura frente a los interrogatorios de parte.
+iv) Declaraciones de los testigos Luis Ángel Sánchez
+Ramírez, Nelson Suárez Trejos, Jeover Gómez Bedoya y José
+Arnoldo Vanegas,
+
+Debe recordarse que la prueba testimonial no es apta para acreditar un yerro fáctico, pues conforme al artículo 7
+
+<!-- pagina 53 -->
+de la Ley 16 de 1969, solo tiene ese carácter el documento auténtico, la confesión judicial y la inspección judicial.
+
+En efecto, de manera reiterada y con fundamento en referida normativa, la jurisprudencia ha señalado que al desatar el recurso extraordinario de casación no es dable analizar la valoración efectuada por el juez de alzada a la prueba testimonial, por no estar previstas como calificada, de ahí que para poder estudiarla era necesario demostrar previamente la existencia de un error fáctico derivado de una prueba que sí tenga tal carácter y como así no ocurrió en el presente asunto, a la Sala no le es dado asumir el examen dicho medio de convicción.
+
+Al respecto, en sentencia CSJ SL5651-2021, la Sala explicó:
+
+Aunado a lo anterior, se cuestiona el análisis de la prueba testimonial, a saber, las declaraciones rendidas por Nancy Acuña de Sandoval, Heydi Delgado Rodríguez y Rosario del Carmen
+Pacheco, sin tener en cuenta que conforme a lo dispuesto en el artículo 7.º de la Ley 16 de 1989, los únicos medios de convicción cuya falta de apreciación o estimación errónea pueden estructurar un yerro de hecho en casación, son el documento auténtico, la confesión judicial o la inspección judicial, por lo que se insiste, los testimonios, solo pueden ser examinadas si previamente se acreditara el desatino denunciado con los medios de convicción aptos para estructurarlo, lo que en este caso no ocurrió.
+
+(Negrillas propias del texto).
+
+En suma, el recurrente no logró demostrar que el
+Tribunal hubiera valorado equivocadamente las pruebas calificadas que fueron denunciadas, por ende, la conclusión contenida en la sentencia censurada, respecto a la existencia del contrato de trabajo entre el demandado y Luz Mary
+
+<!-- pagina 54 -->
+Zapata Guzmán, así como la presencia de la culpa patronal en el accidente laboral en el que perdió la vida la aludida trabajadora, quedan incólumes.
+
+En definitiva, el juez plural no incurrió en ninguno de los yerros fácticos endilgados, por tanto, el cargo no prospera.
+
+IX. CARGO SEGUNDO
+
+Acusa la sentencia impugnada de ser violatoria de la ley sustancial por la vía directa, en la modalidad de aplicación indebida de los siguientes artículos:
+
+[…] 50 del Código Procesal del Trabajo y la Seguridad Social, y
+281 y 336 del Código General del Proceso, como una violación de medio de las siguientes normas sustanciales: 13, 22, 37, 38, 23,
+24, 46, 47, dentro de la preceptiva del artículo 51 del Decreto
+2651 de 1991, por no estar la sentencia en consonancia con los hechos y pretensiones solicitadas en el recurso de apelación.
+
+En el desarrollo del ataque, el censor argumenta que el ad quem infringió los artículos 281 y 336 del CGP que fundamentan el principio de congruencia, el cual hace relación a que no se pueden proferir sentencias por causas distintas a las invocadas en la demanda inaugural. Agrega que, en todo caso, el fallo debe ser consonante con los hechos planteados en el proceso y en la apelación.
+
+Puntualizó que el juez plural formuló como problemas jurídicos a resolver «determinar si existió contrato de trabajo entre la señora Luz Mery Zapata y el demandado y si hay lugar a la indemnización plena de perjuicios por el accidente
+
+<!-- pagina 55 -->
+producto del cual aquella perdió la vida y el demandante resultó lesionado», pero que al abordar el análisis de cada uno de los temas tuvo en cuenta aspectos que no hicieron parte del recurso de apelación, donde simplemente se invocó, sin sustento alguno, que debía aplicarse la presunción del artículo 24 del CST con respecto a la señora Luz Mery Zapata
+Guzmán, «porque con relación al accidente sufrido por ella, ninguna mención hizo».
+
+Señala que la inconformidad tuvo que ver con el demandante Argemiro Villada Zapata; que cuestionó el valor de la alimentación y lo consideró irrisorio, así como la falta de protección y de vinculación al Sistema de Seguridad Social y las consecuencias derivadas del accidente, «sin vincular en su sustentación a la señora Zapata Guzmán, entendiéndose con ello conformidad en lo decidido»; que solo en los alegatos de conclusión la parte actora se refirió a las consecuencias de la aplicación de la presunción del artículo 24 del CST, pero que, en todo caso, los mismos no pueden tomarse como sustentación de la alzada.
+
+Dice que el Tribunal:
+
+[…] interpretó a su amaño para adoptarlos dentro de un sustento de valoración social que ni siquiera fue discutido en la actuación mencionando para sustentar su decisión, aspectos ocupacionales femeninos a los que le aplicó de manera indebida estereotipos de género y patrones socio culturales basados en creencias de inferioridad o superioridad de sexo estereotipadas por los hombres y que supuestamente conllevan a entornos de desigualdad, para concluir que efectivamente se presentaron los presupuestos presuntivos del artículo 24 del Código Sustantivo del Trabajo y, con base en ello, reconocer derechos prestacionales e indemnizatorios derivados de la ocurrencia del accidente, que consideró de origen laboral, que conllevaron a consecuencias en
+
+<!-- pagina 56 -->
+contra del señor Luis Germán Tabares Sánchez, que por esta acción se recurre.
+
+Si la parte demandante no se ocupó en ningún momento en plantear su oposición a la sentencia en criterios de perspectiva de género, tampoco el Tribunal podía asumir argumentos de enfoque diferencial que permiten una flexibilización probatoria y no se entiende porqué, sin sustento alguno, depreca de los jueces
+“el deber funcional de aplicar el derecho a la igualdad dentro de las decisiones judiciales, para efectos de disminuir la violencia y la discriminación frente a grupos desprotegidos y débiles, como ocurre con la mujer”; citando una sentencia de la Sala Civil de la
+Corte Suprema de Justicia que ninguna relación tiene con lo planteado en el presente asunto por los demandantes.
+
+Insiste en que nunca se discutió en la actuación la condición de debilidad que conllevara la perspectiva de género o el enfoque diferencial de la mujer en el ámbito social que permitiera dar origen a la aplicación de la presunción que establece el artículo 24 del CST y mucho menos que respaldaran la concurrencia de los tres elementos de la responsabilidad civil: el daño, la culpa y el nexo causal entre el daño y la moralidad de la culpa; pues se trató de un verdadero accidente producto de la imprudencia de la señora
+Luz Mery Zapata Guzmán al intentar encender en su propio hogar el fogón de leña que tenía disponible para la preparación de alimentos con un combustible inadecuado.
+
+Bajo esos argumentos, solicita que se case la sentencia confutada, en los términos solicitados en el alcance de la impugnación.
+
+X.
+LA RÉPLICA
+
+La parte actora se opone a lo expuesto en este segundo ataque, aduce que el juez plural con esta decisión no incurrió
+
+<!-- pagina 57 -->
+en violación alguna de los principios de congruencia y consonancia a que refiere el censor. Indica que:
+
+[…] lo que se debe tener en cuenta es que en el fallo de segunda instancia sí existe congruencia con los hechos y pretensiones de la demanda y con las alegaciones que se hicieron en primera instancia. Se puede afirmar con mucha razón que cuando estamos en una apelación, es decir, en segunda instancia, no tenemos porqué repetir todo lo que se dijo en una demanda y en las alegaciones que se hicieron en primera instancia, pues en la apelación solo se trata de manifestar que se está inconforme con la sentencia de primera instancia y hacer una argumentación suscita de dicha inconformidad, pues lo demás ya se debatió en primera instancia y es en lo que el Tribunal se da cuenta para poder dictar su fallo, lo cual debe estar acorde con el debate procesal en primera instancia y eso fue lo que sucedió en el caso que nos ocupa.
+
+XI. CONSIDERACIONES
+
+En esta segunda acusación, el recurrente desde el punto de vista jurídico critica al Tribunal, porque, según afirma, la sentencia no guarda congruencia con el escrito de demanda inicial; que además aborda el análisis desde la perspectiva de género y se pronuncia sobre aspectos que no fueron objeto de apelación, denotando conformidad con lo decidido en la primera instancia.
+
+Así, a la Sala le corresponde elucidar si el sentenciador de segunda instancia transgredió su competencia en los términos de los artículos 66A del CPTSS y 281 del CGP al asumir el estudio de este asunto desde la perspectiva de género y pronunciarse sobre puntos que se afirma no se incluyeron en el recurso de apelación de la parte actora.
+
+<!-- pagina 58 -->
+Pues bien, el principio de congruencia tiene fundamento en el artículo 281 del CGP, aplicable a los juicios del trabajo por remisión expresa del canon 145 del CPTSS, el cual señala que la sentencia debe estar en consonancia con los hechos y las pretensiones aducidos en la demanda inaugural, o en las demás oportunidades que el mismo compendio señala, así como con las excepciones que aparezcan probadas y hubieren sido alegadas (CSL SL3443-2021).
+Sobre el tema, en sentencia CSJ SL17741-2015 esta corporación señaló:
+[…] bien cabe recordar que la congruencia de la sentencia judicial hace referencia a la relación que debe mediar entre la providencia y los sujetos, el objeto y la causa del proceso, pues en últimas, el juez debe fallar entre los límites de lo pedido y lo controvertido, y excepcionalmente, sobre materias que importan al interés general y social por constituir bienes superiores como los son el trabajo, la familia, las relaciones de equidad, etc.
+
+Por su parte, la consonancia conforme a lo previsto en el artículo 66A del CPTSS hace relación a que «la sentencia de segunda instancia, así como la decisión de autos apelados, deberá estar en consonancia con las materias objeto del recurso de apelación» (CSJ SL10405-2014).
+
+Sin embargo, esta corporación también ha precisado que cuando se alude a que el colegiado debe ceñirse a las materias objeto del recurso de apelación, tal finalidad no se cumple mediante el estudio estricto y apegado de las explicaciones empleadas por el impugnante para defender o combatir la procedencia de determinado derecho o condena.
+Ello responde a que el superior jerárquico se encuentra habilitado a un tema que haya sido sometido a su análisis,
+
+<!-- pagina 59 -->
+sin restricciones argumentativas, en tanto que su única limitación a la luz del artículo 230 de la CP., es la observancia de la Constitución y la ley en el ejercicio de su actividad judicial. Así se dijo en sentencia CSJ SL3210-2016, que reiteró lo esbozado en la decisión CSJ SJ15036-2014, en que se discurrió:
+
+Si bien conforme al art. 66 A del C.P.T. y de la S.S., es deber del apelante precisar los temas objeto del recurso de alzada, puesto que de ello dependerá la competencia funcional del Tribunal en el sentido de que solo puede pronunciarse respecto de los asuntos que fueron sometidos a su consideración, debe precisarse, como en otras oportunidades lo ha hecho esta Sala, que el juez de segunda instancia no se encuentra atado a los argumentos del recurrente, en la medida que conforme a la
+Constitución y la ley, goza de la facultad de aplicar las normas jurídicas que estime regulen el caso (iura novit curia), aún con prescindencia de las invocadas por partes.
+
+Así se desprende del artículo 230 C.N. cuando señala que los jueces en sus providencias solo se someten al «imperio de la ley»; también de los artículos 229 C.N. y 2º de la L. 270/1996
+«Estatutaria de la Administración de Justicia» que garantizan el derecho de acceso a la administración de justicia, cuyo matiz principal es que a los asociados se les ofrezca una solución efectiva y de fondo a los conflictos que hayan puesto a consideración de la jurisdicción, labor que deben realizar los jueces conforme al ordenamiento jurídico que conocen.
+
+Lo expuesto significa que, en procura de materializar el derecho a la justicia, los jueces no se encuentran atados a los argumentos esbozados por las partes, en tanto que, como conocedores del
+Derecho y con miras a resolver los asuntos que les sean planteados –en la demanda o en el recurso de apelación-, deben investigar y aplicar las normas que según su saber y ciencia estimen que regulan el caso.
+
+De igual manera, son los jueces en su condición de destinatarios de la prueba, los que la deben valorar y apreciar libremente según
+«los principios científicos que informan la crítica de la prueba y atendiendo a las circunstancias relevantes del pleito y a la conducta procesal observada por las partes» (art. 61 C.P.T. y de la S.S.).
+
+Desde esta perspectiva, la interpretación que hace el casacionista del principio de consonancia, es desacertada, dado que basta al recurrente llevarle al juez de apelaciones las «materias» objeto de
+
+<!-- pagina 60 -->
+inconformidad, para que éste quede habilitado para aplicar las normas que estime regulan el asunto y apreciar libremente las pruebas, máxime si de cara al ordenamiento procesal laboral la sustentación del recurso de apelación no requiere de fórmulas sacramentales ni su carga argumentativa está sujeta a determinados parámetros. De ahí que, no necesariamente las consideraciones de la sentencia de segunda instancia deban coincidir o ser un calco de los argumentos vertidos por el apelante.
+
+No obstante, la Corte advierte que no es dable entrar a revisar si en efecto la colegiatura desconoció los referidos principios, en la medida que establecer si la sentencia censurada no guarda relación con lo planteado en el escrito inaugural ni con el recurso de apelación formulado por la parte demandante implica, necesariamente, un análisis del contenido de las referidas piezas procesales, en aras de verificar tales afirmaciones, labor que es imposible asumir en un cargo orientado por la senda jurídica o del puro derecho, lo que se traduce en que el censor equivocó la vía seleccionada para orientar el ataque.
+
+No sobra señalar, en todo caso, que tal como bien lo puso de presente la colegiatura, en el evento de vislumbrarse algún resquicio discriminatorio entre hombres y mujeres en el marco de una relación laboral, los funcionarios judiciales tienen el deber de asumir el análisis del caso desde la perspectiva de género, lo cual trasciende la técnica de los instrumentos que activan la competencia de los juzgadores y debe incluir el examen detallado de las condiciones de trabajo que fundamentaron la pretensión de reconocimiento de un contrato de trabajo.
+
+<!-- pagina 61 -->
+Lo anterior, toda vez que los patrones culturales históricos del país, aunados a la idiosincrasia propia de las diferentes regiones de la geografía nacional, puede llegar imperceptiblemente a distorsionar la realidad de forma que actos de desigualdad o sometimiento de la mujer por su condición, a fuerza de la cotidianidad o tradición, resulten socialmente aceptables aun siendo jurídicamente reprochables.
+
+Es por ello que, tanto los instrumentos internacionales como la legislación interna, se vienen encargado de la protección de la mujer en el escenario del trabajo, lo cual ha sido importante para la consolidación de sus derechos y la aplicación de leyes desde la perspectiva de género. Sobre el tema en sentencia CSJ SL648-2018, la Corte señaló:
+
+Así, lo relacionado con la protección de las mujeres en el escenario del trabajo, no aparece desligado de la legislación interna que lo regula ni de los instrumentos internacionales que así lo ratifican y que desempeñan un importante papel en la consolidación de los derechos de aquellas y promueven la aplicación de leyes desde una perspectiva de género.
+
+En efecto, desde la Declaración Universal de los Derechos
+Humanos - adoptado por la Asamblea General de las Naciones
+Unidas en su Resolución 217 A (III), el 10 de diciembre de 1948 en París- se estableció la prohibición de discriminación por razones de género (art. 7.°), postulado que, por supuesto, hace parte del universo de los derechos de los trabajadores y cuya inobservancia «debilita el crecimiento económico y el óptimo funcionamiento de las empresas y de los trabajos de mercado»
+(OIT, Promoviendo la igualdad de género, Santiago, 2006, t. I).
+
+Por su parte, el Convenio n.° 111 de la OIT, sobre la discriminación
+(empleo y ocupación) de y su correspondiente
+Recomendación, protege a todos los trabajadores ante la discriminación basada en motivos de raza, color, sexo, religión, opinión política, ascendencia nacional, origen social y otros criterios que puedan ser especificados por el
+Estado ratificante, previa consulta con las organizaciones representativas de empleadores y de trabajadores.
+
+<!-- pagina 62 -->
+Posteriormente, esa concepción proteccionista orientada, entre otros, al desarrollo de las mujeres en el mundo del trabajo como base de una creciente construcción social, fue incluida en el
+Pacto Internacional de Derechos Económicos, Sociales y
+Culturales y en el Pacto Internacional de Derechos Civiles y
+Políticos, acogidos el 16 de diciembre de 1966 por la Asamblea
+General de las Naciones Unidas en su resolución 2200 A (XXI).
+
+La Convención sobre la Eliminación de Todas las Formas de
+Discriminación contra la Mujer (también conocida por sus siglas en inglés CEDAW) firmada en 1979, además de definir la discriminación de tal grupo poblacional, hizo un llamado a los
+Estados a que ratifiquen su erradicación.
+
+En tales condiciones, no podría endilgarse error alguno al operador judicial de segunda instancia, por haber avocado este asunto desde la perspectiva de género, pues no puede perderse de vista que los jueces de la República tienen el deber de juzgar con esta condición los casos que lo ameriten, en procura de contrarrestar la violencia contra la mujer en cualquier escenario, incluido, con mayor razón, el laboral, en el que la sujeción de una persona a otra es la principal característica de este tipo de relaciones jurídicas.
+
+A lo que se suma que las razones o motivaciones para que el Tribunal hubiese decidido el presente conflicto con perspectiva de género están debidamente fundadas y sustentadas, siendo suficiente remitirse a dichas consideraciones ya reseñadas que no le merecen a la Corte ningún reproche, por el contrario, se estima que son las adecuadas y correctas para haber dirimido la contienda judicial puesta a consideración de la justicia del trabajo y de la seguridad social.
+
+Por todo lo expuesto, el ataque resulta infundado.
+
+<!-- pagina 63 -->
+Costas en el recurso de casación a cargo del recurrente demandado y a favor de la parte accionante. En su liquidación, inclúyanse como agencias en derecho la suma de $10.600.000, que se tendrán en cuenta en la liquidación que realice el juez de primera instancia con arreglo a lo dispuesto en el artículo 366 del CGP.
+
+XII. DECISIÓN
+
+En mérito de lo expuesto, la Corte Suprema de Justicia,
+Sala de Casación Laboral, administrando justicia en nombre de la República y por autoridad de la ley, NO CASA la sentencia proferida el 31 de mayo de 2021 por la Sala Laboral del Tribunal Superior del Distrito Judicial de Pereira, dentro del proceso ordinario laboral que instauraron HERICA
+MARSELA VILLADA y ARGEMIRO VILLADA GARZÓN contra LUIS GERMÁN TABARES SÁNCHEZ.
+
+Costas como quedó dicho en la parte motiva.
+
+Notifíquese, publíquese, cúmplase y devuélvase el expediente al tribunal de origen.
+
+<!-- pagina 64 -->
+No firma por ausencia justificada
+OLGA YINETH MERCHÁN CALDERÓN

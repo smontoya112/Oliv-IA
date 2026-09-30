@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-170_2004",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2004/C-170-04.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2004/C-170-04.htm",
+      "sha256": "0f6fb3dac71a156778e9b6a499fca505406622cbf4ae6a67cb1a4d9449008db1",
+      "bytes": 350188,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:50-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-345_2017",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2017/C-345-17.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2017/C-345-17.htm",
+      "sha256": "bcf04cccbe41a0e79c3228fd5b5120002ef2e7791e79a140494062fba1437f5e",
+      "bytes": 412179,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:09-05:00"
+    }
+  ]
+}

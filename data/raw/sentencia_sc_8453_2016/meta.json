@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_sc_8453_2016",
+  "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/2022/03/SC8453-2016-2014-02243-00-C.pdf",
+  "tipo": "pdf",
+  "partes": [
+    {
+      "archivo": "parte_000.pdf",
+      "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/2022/03/SC8453-2016-2014-02243-00-C.pdf",
+      "sha256": "12258f13ea00859c4e83b6fca7799c0b08190d6ab879f334e7bf81ea76d7c732",
+      "bytes": 1246613,
+      "content_type": "application/pdf",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:44-05:00"
+    }
+  ]
+}

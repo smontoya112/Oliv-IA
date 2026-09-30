@@ -1,21 +1,24 @@
 ---
 {
   "doc_id": "decision_andina_486",
-  "titulo": "",
+  "titulo": "Decisión Andina 486 de 2000 - Régimen Común sobre Propiedad Industrial",
   "fuente": "Comunidad Andina",
   "url": "https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf",
   "fecha_consulta": "2026-09-29",
   "areas": [
-    "mercados",
     "comercial",
-    "civil"
+    "mercados"
   ],
   "tipo_norma": "decision",
   "numero": "486",
-  "anio": null,
-  "organo_emisor": null,
-  "canonico": null,
-  "items_del_banco": null,
+  "anio": 2000,
+  "organo_emisor": "Comisión de la Comunidad Andina",
+  "canonico": [
+    "decision_andina_486",
+    null,
+    null
+  ],
+  "items_del_banco": 23,
   "formato_origen": [
     "pdf_texto"
   ],
@@ -32,10 +35,7 @@
   "n_caracteres": 168530,
   "n_articulos_detectados": 281,
   "archivo_md": "md/decision_andina_486.md",
-  "metadata_autocompletada": [
-    "titulo",
-    "areas"
-  ]
+  "metadata_autocompletada": []
 }
 ---
 

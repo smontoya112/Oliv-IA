@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_sp_1945_2019",
+  "url": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2019/SP1945-2019(50523).PDF",
+  "tipo": "pdf",
+  "partes": [
+    {
+      "archivo": "parte_000.pdf",
+      "url": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2019/SP1945-2019(50523).PDF",
+      "sha256": "e51ee1e2b68827d8597888525683ac2a3729594abcc154c3a80aa77e9ead1f85",
+      "bytes": 283139,
+      "content_type": "application/pdf",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:57-05:00"
+    }
+  ]
+}

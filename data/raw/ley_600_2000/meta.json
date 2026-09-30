@@ -1,0 +1,124 @@
+{
+  "doc_id": "ley_600_2000",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000.html",
+      "sha256": "d1e166091b2c3694353ad0ee43add3e7166eb336f5ade4bbdae3bd94a1b4e520",
+      "bytes": 112928,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:46-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr001.html",
+      "sha256": "26bb1ecc55ac1027b7863e82fc298b892b87bbd6a0c99a9ac00cbdc261322224",
+      "bytes": 116563,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:48-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr002.html",
+      "sha256": "1eb5f760caa530a0adf3a00f6ba86721033ffb257e7e3a8ecebb478ad5d5672e",
+      "bytes": 105075,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:49-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr003.html",
+      "sha256": "734c546e1160eaace634b18ca1f17cab8a079af8ddfd693adc5e34c404017ca6",
+      "bytes": 101964,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:51-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr004.html",
+      "sha256": "d0746af95b0ab7a7ce4e39499f433e8ce21738e97066106072db8e5d651ee0b7",
+      "bytes": 105655,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:52-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr005.html",
+      "sha256": "a531f613485a5c080c4b8ddae57d7c3a7cf870df281b33261051537cceb5454a",
+      "bytes": 99810,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:54-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr006.html",
+      "sha256": "646232e75c4a55397d0568e521aabddb09d928d204f7314d891200d5b5d6bb5e",
+      "bytes": 101897,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:55-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr007.html",
+      "sha256": "946395ac8807833b2cb35f85051ec3f212f96afeb20ba899e557c171bcea9355",
+      "bytes": 104448,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:57-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr008.html",
+      "sha256": "66d4b52d280a10f71ee38e4176b6b8839f435d26cacf4ef79fe46dc7a466fe9f",
+      "bytes": 113111,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:58-05:00"
+    },
+    {
+      "archivo": "parte_009.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr009.html",
+      "sha256": "ceef3959aaa1314f72af18208b46b1918beb7ede4ca56deea616195e9490ec97",
+      "bytes": 116511,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:26:00-05:00"
+    },
+    {
+      "archivo": "parte_010.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr010.html",
+      "sha256": "055105d92a84a86c9b3ec5ea42c38d6462a292d31a08bbaed04fbdb94888599f",
+      "bytes": 103455,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:26:01-05:00"
+    },
+    {
+      "archivo": "parte_011.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr011.html",
+      "sha256": "ff18d0fe291e481f3f716ad23aa1746878d39dad7fdace82191a7547baf05c5d",
+      "bytes": 94990,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:26:03-05:00"
+    },
+    {
+      "archivo": "parte_012.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000_pr012.html",
+      "sha256": "b1cb6b6c24d22e97314d8a7a989cb935d0fa38a1b96ea96762c8a278b69cc3f6",
+      "bytes": 95820,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:26:04-05:00"
+    }
+  ]
+}

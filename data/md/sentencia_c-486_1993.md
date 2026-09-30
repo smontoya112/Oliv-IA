@@ -1,0 +1,1944 @@
+---
+{
+  "doc_id": "sentencia_c-486_1993",
+  "titulo": "Sentencia C-486 de 1993",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/1993/C-486-93.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "comercial"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-486",
+  "anio": 1993,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-486",
+    "1993"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/1993/C-486-93.htm"
+  ],
+  "sha256_partes": [
+    "4d6e2995af939e689f134138fc6c696741474ad5723f33cd6fd121acd345b25e"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 96153,
+  "n_articulos_detectados": 8,
+  "archivo_md": "md/sentencia_c-486_1993.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/1993/C-486-93.htm -->
+C-486-93
+
+---
+
+**Sentencia No.
+C-486/93**
+
+**TRANSITO
+CONSTITUCIONAL**
+
+*La expedición de
+una nueva Constitución Política que, como la de 1991, introdujo cambios
+sustanciales en materia de concepción del Estado, de principios y derechos
+fundamentales y de organización estatal, hacía imperativa la derogatoria de la
+Carta vigente hasta entonces, como lo ordena el artículo 380 de la CP, amén de
+que ello se sujetaba al arbitrio del Constituyente. Otra cosa acontece con la
+legislación preconstitucional, la que conserva su vigencia pese a la
+derogatoria de las normas constitucionales a cuyo abrigo se expidieron,
+debiendo en todo caso conformarse en su interpretación y aplicación al nuevo
+orden constitucional.*
+
+**TRANSITO
+CONSTITUCIONAL/CODIGO**-Expedición
+
+*La Corte
+Constitucional ha señalado, en relación con el examen de inconstitucionalidad
+de Decretos-leyes expedidos con base en leyes de facultades extraordinarias
+conferidas bajo la anterior normatividad constitucional, que éste se adelanta
+en dos fases. Una se ocupa de la competencia y, la otra, recae sobre el
+contenido material de la norma acusada. No puede exigirse al legislador se
+someta a reglas que, como la prohibición de la concesión de facultades para expedir
+códigos, eran inexistentes para la época del otorgamiento y del ejercicio de
+las facultades extraordinarias.*
+
+**COSTUMBRE/JUEZ**-Interpretación
+
+*La costumbre
+puede fungir como fuente material o cognitiva de la actividad que despliega el
+legislador al hacer las leyes como del juez al dictar sus providencias. Sin
+perjuicio de la existencia de instancias y recursos, el juez aplica el derecho
+de acuerdo con su propia conciencia y convencimiento, basado desde luego en una
+determinada cultura científica y observando las reglas de la sana crítica. No
+está atado el juez por los precedentes judiciales ni, en principio, por las
+órdenes de sus superiores. La aplicación preferente de la Constitución, de otra
+parte, debe llevarlo a inaplicar las normas jurídicas que sean incompatibles
+con aquélla.*
+
+**LEY**-Alcance
+
+*El cometido
+propio de los jueces está referido a la aplicación del ordenamiento jurídico,
+el cual no se compone de una norma aislada - la "ley" captada en su
+acepción puramente formal - sino que se integra por poderes organizados que
+ejercen un tipo específico de control social a través de un conjunto integrado
+y armónico de normas jurídicas. El ordenamiento jurídico, desde el punto de
+vista normativo, no puede reducirse a la ley. De ahí que la palabra "ley"
+que emplea el primer inciso del artículo 230 de la C.P. necesariamente designe
+"ordenamiento jurídico". En este mismo sentido se utilizan en la
+Constitución las expresiones "Marco Jurídico" y "orden jurídico.*
+
+**COSTUMBRE COMO
+FUENTE DE DERECHO**
+
+*La invocación que
+la ley hace de la costumbre reafirma su pertenencia al sistema jurídico y su
+naturaleza normativa. La costumbre se mantiene como fuente de derecho y aporta
+al sistema jurídico flexibilidad y efectividad. Entre la ley y la costumbre
+justamente se ha observado la existencia de una relación dialéctica que es
+indisociable del fenómeno jurídico.*
+
+**ESTADO DE
+DERECHO/PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ**
+
+*El estado de
+derecho no se concibe si la función judicial no se ejerce de manera
+independiente y si las normas que componen el ordenamiento dejan de vincular a
+los órganos que las ponen en vigencia. La aplicación judicial del ordenamiento
+es el momento en el que se prueba asímismo el estado de derecho en cuanto que
+sus normas cobijan por igual a gobernantes y gobernados. El juez, órgano
+autónomo e imparcial, debe apelar únicamente al ordenamiento - desligado de
+toda injerencia de los demás poderes - para definir la causa si lo que se
+quiere es que el estado de derecho adquiera en verdad el sentido de garantía y
+de objetividad que lo justifican históricamente.*
+
+**DERECHO A LA
+PERSONALIDAD JURIDICA**
+
+*El derecho
+fundamental al reconocimiento de la personalidad jurídica a que se refiere el
+artículo 14 de la Carta Fundamental es un derecho exclusivo de la persona
+natural; y el Estado, a través del ordenamiento jurídico, tan sólo se limita a
+su reconocimiento sin determinar exigencias para su ejercicio, y ésta es una
+de las constituciones políticas donde la inmensa mayoría de los derechos se
+otorgan sin referencia a la nacionalidad. No puede haber personas a quienes se
+les niegue la personalidad jurídica, ya que ello equivaldría a privarles de
+capacidad para ejercer derechos y contraer obligaciones.**"***
+
+**REF: Demanda Nº
+D-244**
+
+**Actores: Alfonso
+E. Rodríguez y José Ruiz López**
+
+**Demanda de
+inconstitucionalidad contra el Decreto 410 de 1971, la Ley 04 de 1989 y los
+artículos 3 a 9 y 98 a 514 del Código de Comercio**
+
+**Costumbre
+mercantil y sociedades unipersonales**
+
+**Magistrado
+Ponente:**
+
+**EDUARDO CIFUENTES
+MUÑOZ**
+
+Santafé de Bogotá,
+D.C., Octubre veintiocho (28) de mil novecientos noventa y tres (1993)
+
+Aprobado Por Acta Nº
+65
+
+La Sala Plena de la
+Corte Constitucional integrada por su Presidente Hernando Herrera Vergara y por
+los Magistrados Jorge Arango Mejía, Antonio Barrera Carbonell, Eduardo
+Cifuentes Muñoz, Carlos Gaviria Díaz, José Gregorio Hernández Galindo,
+Alejandro Martínez Caballero, Fabio Morón Díaz y Vladimiro Naranjo Mesa
+
+**EN NOMBRE DEL PUEBLO**
+
+**Y**
+
+**POR MANDATO DE LA CONSTITUCION**
+
+Ha pronunciado la
+siguiente
+
+**SENTENCIA**
+
+En el proceso
+ordinario de constitucionalidad contra el Decreto 410 de 1971, la Ley 04 de
+1989 y los artículos 3, 4, 5, 6, 7, 8, 9 y 98 a 514 del Código de Comercio.
+
+**I. TEXTO DE LAS NORMAS ACUSADAS**
+
+El tenor literal de
+la Ley 04 de 1989 es el siguiente:
+
+**LEY 04 DE 1989**
+
+**(enero 4)**
+
+**por la cual se conceden facultades
+extraordinarias al Presidente de la República para reformar los artículos 981 a
+1035 y 1117 a 1126 del Código de Comercio**
+
+**EL CONGRESO DE COLOMBIA**
+
+**DECRETA:**
+
+**Artículo 1º
+Revístese al Presidente de la República de Colombia de facultades
+extraordinarias, por el término de un (1) año, contado a partir de la vigencia
+de la presente Ley para modificar el Título IV del libro IV sobre las normas
+"del Contrato de Transporte", artículos 981 a 1035 y la Sección III
+del Capítulo II, Título V del Libro IV en lo relacionado con "El Seguro de
+Transporte", artículos 1117 a 1126 del Código de Comercio, teniendo en
+cuenta las siguientes orientaciones:**
+
+**1. Determinar un
+tratamiento igualitario al transporte automotor de carga en relación con los
+demás modos de transporte, el cual comprenderá los siguientes aspectos:**
+
+**a) Una adecuada
+responsabilidad de las partes contratantes estableciendo un límite a la misma,
+imponiendo el señalamiento de tales límites en el tiempo, la cuantía y la
+precisión de circunstancias eximentes, tales como la fuerza mayor y el caso
+fortuito;**
+
+**b) Establecer el
+monto de la obligación por la cual debe responder el transportador en el evento
+del siniestro de la cosa transportada, para evitar el concepto de responsabilidad
+incierta e ilimitada;**
+
+**c) La
+responsabilidad de los terceros frente al desarrollo del contrato de
+transporte;**
+
+**d) En lo que
+respecta al transporte de pasajeros, establecer un régimen que delimite con
+precisión la responsabilidad emanada de esta modalidad de transporte, cuya
+finalidad principal sea proteger al usuario de los riesgos a que está expuesto;**
+
+**e) Establecer
+causas de exoneración de la responsabilidad.**
+
+**2. Armonizar las
+normas del Código de Comercio con las del Código de Procedimiento Civil en el aspecto
+relacionado con el derecho de retención, dándole dinamismo y cumplimiento.**
+
+**3. Reformar la
+reglamentación del seguro, delimitando las condiciones y requisitos de éste,
+para adecuarlo a los nuevos presupuestos que regirá al contrato de transporte.**
+
+**Artículo 2º Para
+asesorar al gobierno en el estudio de que trata la presente Ley, intégrase una
+Comisión constituida por:**
+
+**1. 3
+Representantes y 2 Senadores, designados por las Mesas Directivas de la
+Comisión Primera Constitucional Permanente respectiva.**
+
+**2. El Ministro de
+Obras Públicas.**
+
+**3. El Director
+General del Intra.**
+
+**4. Un delegado
+del gremio de transportes terrestres designado por el señor Presidente de la
+República.**
+
+**Artículo 3º La
+presente Ley rige a partir de la fecha de su publicación".**
+
+El tenor literal de
+los artículos 3 a 9 del Código de Comercio es el siguiente:
+
+**DECRETO-LEY 410 DE 1971**
+
+**TITULO PRELIMINAR**
+
+**DISPOSICIONES GENERALES**
+
+**...**
+
+**Artículo 3º La
+costumbre mercantil tendrá la misma autoridad que la ley comercial, siempre que
+no la contraríe manifiesta o tácitamente y que los hechos constitutivos de la
+misma sean públicos, uniformes y reiterados en el lugar donde hayan de
+cumplirse las prestaciones o surgido las relaciones que deban regularse por
+ella.**
+
+**En defecto de
+costumbre local se tendrá en cuenta la general del país, siempre que reúna los
+requisitos exigidos en el inciso anterior.**
+
+**Artículo 4º Las
+estipulaciones de los contratos válidamente celebrados preferirán a las normas
+legales supletivas y a las costumbres mercantiles.**
+
+**Artículo 5º Las
+costumbres mercantiles servirán, además, para determinar el sentido de las
+palabras o frases técnicas del comercio y para interpretar los actos y
+convenios mercantiles.**
+
+**Artículo 6º La
+costumbre mercantil se probará como lo dispone el Código de Procedimiento
+Civil. Sin embargo, cuando se pretenda probar con testigos, éstos deberán ser
+por lo menos, cinco comerciantes idóneos inscritos en el registro mercantil,
+que den cuenta razonada de los hechos y de los requisitos exigidos a los mismos
+en el artículo 3º; y cuando se aduzcan como prueba dos decisiones judiciales
+definitivas, se requerirá que éstas hayan sido proferidas dentro de los cinco
+años anteriores al diferendo.**
+
+**Artículo 7º Los
+tratados o convenciones internacionales de comercio no ratificados por
+Colombia, la costumbre mercantil internacional que reúna las condiciones del
+artículo 3º, así como los principios generales del derecho comercial, podrán
+aplicarse a las cuestiones mercantiles que no puedan resolverse conforme a las
+reglas precedentes.**
+
+**Artículo 8º La
+prueba de la existencia de una costumbre mercantil extranjera, y de su
+vigencia, se acreditará por certificación del respectivo cónsul colombiano o,
+en su defecto, del de una nación amiga. Dichos funcionarios para expedir el
+certificado solicitarán constancia a la Cámara de Comercio local o de la
+entidad que hiciere sus veces y, a falta de una y otra, a dos abogados del
+lugar, de reconocida honorabilidad, especialistas en derecho comercial.**
+
+**Artículo 9º La
+costumbre mercantil internacional y su vigencia se probarán mediante copia
+auténtica, conforme al Código de Procedimiento Civil, de la sentencia o laudo
+en que una autoridad jurisdiccional la hubiere reconocido, interpretado o
+aplicado. También se probará con certificación autenticada de una entidad
+internacional idónea, que diere fe de la respectiva costumbre.**
+
+(Los artículos 98 a
+514 del Código de Comercio, dada su extensión, no se transcriben)
+
+**II. ANTECEDENTES**
+
+1. El Código de
+Comercio, Decreto ley 410 de 1971, fue expedido con base en las facultades
+extraordinarias concedidas en la Ley 16 de 1968.
+
+En su título
+preliminar, sobre disposiciones varias, otorga a la costumbre mercantil fuerza
+de ley, siempre que no contraríe a la ley comercial ni expresa ni tácitamente,
+y que los hechos constitutivos de la misma tengan la calidad de públicos,
+uniformes y reiterados en el lugar en que deban cumplirse las prestaciones o
+donde haya nacido la obligación. Las demás normas que se ocupan del tema,
+indican su función auxiliar de interpretación y la forma en que se debe probar
+la costumbre nacional, extranjera e internacional.
+
+Por su parte, el
+libro segundo del mismo código, está dedicado a la reglamentación de las formas
+societarias. El artículo 98 define el contrato de sociedad como aquél por el
+cual dos o más personas se obligan a hacer un aporte en dinero, trabajo u otros
+bienes apreciables en dinero, con el fin de repartirse entre sí las utilidades
+obtenidas en la empresa o actividad social. Los demás capítulos de este libro
+regulan la forma de su constitución, los aportes, las utilidades, su
+transformación y fusión, sus órganos directivos y ejecutivos, los controles y
+órganos de inspección y vigilancia, la disolución y liquidación y las diversas
+formas societarias, que en nuestro país coinciden con cuatro tipos: la sociedad
+colectiva, la comanditaria - y sus especies de sociedad en comandita simple o
+por acciones -, la de responsabilidad limitada y la sociedad anónima. Por
+último reconoce determinados efectos a la sociedad de hecho.
+
+2. La Ley 04 de
+1989, expedida el 4 de enero, concedió facultades extraordinarias al Presidente
+de la República para reformar el Código de Comercio en relación con el contrato
+de transporte y el contrato de seguro de transporte, en aspectos tales como el
+tratamiento igualitario a las diversas modalidades de transporte, la
+responsabilidad de las partes en el transporte de carga y sus límites en el
+tiempo, la cuantía y las circunstancias eximentes; el monto de la obligación
+del transportador en caso de siniestro de la cosa transportada y la
+responsabilidad de tercero (art. 1-1, ordinales a, b y c). En el contrato de
+transporte de pasajeros, se propone la determinación de la responsabilidad del
+transportador encaminada a proteger los riesgos de los usuarios y las causales
+de exoneración (art. 1-1, ordinales d y e). De igual forma se conceden
+facultades para armonizar las normas del Código de Comercio con las del Código
+de Procedimiento Civil en relación con el derecho de retención que se reconoce
+al transportador, para dotarlo de dinamismo y cumplimiento (art 1-2). Por
+último se autoriza a reformar la regulación del contrato de seguro de
+transporte para adecuarlo a los nuevos parámetros del contrato de transporte
+(art. 1-3). Para efectos del ejercicio de las facultades, el Congreso ordena la
+conformación de una Comisión, integrada por miembros del Congreso, el Ministro
+del ramo, el Director del Instituto Nacional de Transporte y un delegado del
+gremio de transportadores terrestres, designado por el Presidente de la
+República (art. 2). El término concedido para el ejercicio de estas
+atribuciones se fija en un año, contado a partir de la publicación de la Ley.
+
+**CARGOS Y
+DEFENSAS:**
+
+3. Los ciudadanos
+Alfonso Rodríguez Pizarro y José Ruiz López formularon diversos cargos contra
+las normas del Código de Comercio reseñaladas. Dentro del término de fijación
+en lista de las normas acusadas se recibieron, según informe de Secretaría
+General, dos escritos en los que se defiende la constitucionalidad de dichas
+disposiciones. Uno de ellos fue presentado por la Dra. Margarita Rosa Hernández
+Valderrama, en calidad de apoderada del Ministerio de Desarrollo Económico. El
+segundo, fue remitido por el Dr. Raúl Alejandro Criales Martínez, obrando como
+apoderado del Ministro de Justicia y del Derecho. Por razones de metodología,
+los diferentes cargos y las correspondientes defensas, se presentan agrupados
+de acuerdo con el concepto respectivo de la violación alegada.
+
+**Derogatoria del
+Código de Comercio:**
+
+- Los demandantes
+solicitan a esta Corte la declaratoria de inconstitucionalidad del Decreto 410
+de 1971, en su integridad, pues, en su concepto ha dejado de regir "por
+abrogación del constituyente". El fundamento de su cargo consiste en el
+hecho de que la expedición de una nueva Constitución, que expresamente declara
+derogada la anterior, **"deja en el pasado lo pasado y sin vigencia lo
+transcurrido en ese período y se inicia una nueva era constitucional,
+..."**. La derogatoria de la Constitución de 1886, dispuesta en los
+artículos 380 y 59 transitorio de la CP de 1991, equivale a la derogatoria de **"la
+legislación a que ésta se subordinaba"**, como es el caso del Código de
+Comercio, en aplicación del principio según el cual, lo accesorio sigue la
+suerte de la principal. En este orden de ideas, concluyen, lo procedente es la
+expedición de un nuevo Código de Comercio.
+
+- La apoderada del
+Ministerio de Desarrollo Económico sostiene que la entrada en vigor de una
+nueva Constitución, aunque conlleva la derogatoria de las normas que le sean
+contrarias, no llega al extremo de derogar todas las disposiciones anteriores.
+Una interpretación en tal sentido, advierte, dejaría "sin piso jurídico al
+Estado colombiano". Apoya su afirmación en una cita de la sentencia
+C-014/1993 de la Corte Constitucional, en la que se niega el pretendido efecto
+de derogatoria en bloque del ordenamiento jurídico preconstitucional.
+
+- El Dr. Raúl
+Alejandro Criales se expresa en idéntico sentido. Cita en apoyo de su aserto la
+sentencia Nº 85 de la Corte Suprema de Justicia, Magistrado ponente Pedro
+Escobar Trujillo, en donde se reconoce el efecto retrospectivo del nuevo
+ordenamiento constitucional, aunque se inadmite la tesis extrema de la
+derogatoria en bloque del ordenamiento inferior, según interpretación del art.
+9 de la Ley 153 de 1887.
+
+**Concesión de
+facultades extraordinarias:**
+
+- En opinión de los
+actores, la Ley 04 de 1989, que concedió facultades al Presidente de la
+República para reformar el Código de Comercio, se torna igualmente
+inconstitucional, toda vez que contradice lo dispuesto en el art. 150-10 de la
+CP, que prohibe expresamente la delegación de facultades extraordinarias para
+la expedición de códigos.
+
+- El Dr. Criales
+Martínez, para contradecir este cargo, se remite a lo expresado en varias
+sentencias, tanto de la Corte Suprema de Justicia como de la Corte
+Constitucional, en las que se precisa que, el examen del ejercicio de las
+facultades extraordinarias concedidas al Presidente de la República debe
+realizarse bajo las reglas constitucionales de competencia vigentes en el
+momento de su expedición. Indica que, en todo caso, la expedición del Código de
+Comercio se sujetó a las normas vigentes en dicho momento.
+
+**La costumbre
+mercantil:**
+
+- La costumbre
+mercantil, elevada por el Código a rango legal, también fue derogada con
+ocasión de la expedición de la CP de 1991, por virtud de su artículo 230,
+argumentan los demandantes. Esta norma señala a los jueces su sometimiento al
+imperio de la ley, y les permite acudir a los criterios auxiliares de la
+equidad, la jurisprudencia, los principios generales del derecho y la doctrina,
+en su función de administrar justicia. Consideran que la no inclusión de la
+costumbre mercantil como uno de aquellos criterios, equivale a su
+desconocimiento por parte de la Constitución, con lo que implica que los jueces
+están impedidos para utilizarla como fuente de derecho.
+
+- La Dra. Hernández
+Valderrama indica que el derecho mercantil, por la naturaleza cambiante de las
+relaciones que regula, debe contar con mecanismos ágiles que le permitan
+responder eficazmente a la realidad económica. La costumbre, como una de las
+fuentes con que cuenta el derecho comercial, permite al derecho acomodarse a
+los hechos y a su evolución.
+
+Señala que el art.
+228 de la CP establece la primacía del derecho sustancial en la administración
+de justicia. Conforme al art. 13 de la Ley 157 de 1887, la costumbre forma
+parte de ese derecho sustancial que la Carta protege, pues constituye derecho a
+falta de legislación positiva. Además, agrega, el art. 230 de la CP al referir
+la fundamentación de los fallos de los jueces al imperio de la ley, alude a
+ésta en un sentido material y no formal, donde la ley **"no es solamente
+la emanada del legislador sino todo aquéllo que constituye derecho positivo por
+tener fuerza vinculante"**. Por consiguiente, señala que la costumbre
+hace parte de la ley en sentido material, con lo que **"no es dable
+entender que dicho artículo pretenda derogar las** **normas del Código de
+Comercio sobre costumbre y proscribir su aplicación como fuente de
+derecho"**. Cita además, en apoyo de su afirmación, la sentencia de la
+Corte Constitucional del 11 de marzo de 1993, en la que se interpreta el
+artículo 230 de la CP, y se señala que dicha disposición no ha operado un
+cambio en materia de fuentes formales del derecho, pues subsisten las fuentes
+principales - la ley en sentido material -, y las auxiliares.
+
+Adicionalmente,
+indica, la costumbre no es ajena a la Constitución, que reconoce, por ejemplo
+en materia indígena, el valor de los usos y costumbres. Concluye su exposición
+señalando características de la costumbre que, en su opinión, resultan
+conformes al ordenamiento constitucional:
+
+**"- Al acudir
+a la costumbre el juez aplica la ley que se remite a aquélla.**
+
+**"- La
+costumbre y los demás instrumentos de integración del derecho son mecanismos
+necesarios para hacer posible un orden justo y permitir el acceso a la
+justicia.**
+
+**"- La
+aplicación de la costumbre corresponde a los principios que inspiran la democracia
+participativa.**
+
+**"- Al
+reconocer el valor de la costumbre se asegura el respeto de la buena fe"**.
+
+- El apoderado del
+Ministerio de Justicia advierte, por su parte, que las costumbres, incluso las
+mercantiles, hacen parte de nuestras creencias y cultura y como tal están
+protegidas por la Constitución (art. 2º), lo que desvirtúa las pretensiones de
+los demandantes.
+
+En su opinión, no es
+correcto afirmar que los jueces no pueden aplicar la costumbre para resolver
+conflictos comerciales. La ley, sostiene, autoriza su uso según determinadas
+reglas, lo cual de suyo es necesario por no poder el legislador prever o
+regular todas las situaciones empíricas posibles generadas en la evolución
+social, siendo la costumbre la llamada a llenar los vacíos que se puedan
+presentar. En consecuencia, el art. 230 no prohibe su uso, pues la misma ley lo
+autoriza, con lo que el juez, al aplicarla, se somete al imperio de la ley. La
+costumbre, agrega, **"se convierte en un instrumento de hecho utilizado
+por el legislador para integrar o complementar el contenido de la ley escrita,
+para que el juez no deje sin solución ningún asunto sometido a su estudio, pues
+su deber primordial en todo conflicto de intereses es restablecer el equilibrio
+jurídico, garantizando real y efectivamente el principio constitucional
+consagrado en el artículo 229 del acceso a la administración de justicia"**.
+
+Al igual que la
+apoderada del Ministerio de Desarrollo Económico explica que tanto la costumbre
+como las estipulaciones contractuales hacen parte de la democracia
+participativa que, de conformidad con el artículo 2º de la Carta, es un fin
+esencial del Estado, lo que asegura, además, el respeto al principio de la
+buena fe.
+
+**Las sociedades:**
+
+- Los demandantes
+acusan de inconstitucional en su integridad el Libro Segundo del Código de
+Comercio, relativo a las sociedades, por contravenir los arts. 14, 38, 84 y 333
+de la CP. Señalan que el derecho fundamental que tiene toda persona al
+reconocimiento de su personalidad jurídica (art. 14 CP), posibilita la
+existencia de sociedades unipersonales, desconocidas por el Código, el cual
+sólo autoriza la creación de sociedades en que intervengan dos o más personas.
+Con ello se violan igualmente los artículos 38 y 333 de la CP, pues la
+prohibición para la creación de sociedades unipersonales, **"coarta la
+actividad económica del país, por cuanto limita al individuo en su forma de
+asociación"**.Además se vulnera el art. 84 de la CP, porque se
+exigen permisos y requisitos previos para el ejercicio de la actividad
+económica no previstos en la Carta, y sin que haya disposición legal vigente
+que los regule.
+
+- Al respecto, la
+apoderada del Ministerio de Desarrollo Económico considera pertinente referirse
+a los tratados sobre derechos humanos para permiten lograr una adecuada
+interpretación de este derecho fundamental. Cita concretamente el art. 16 del
+Pacto de Derechos Civiles y Políticos, que lo establece como un derecho de los
+seres humanos. Concluye que su finalidad es la de **"prohibir la
+existencia de instituciones como la muerte civil, que de alguna manera
+desconozcan el carácter de sujeto de derechos de la persona humana"**.
+De otra parte, indica, tradicionalmente se ha aceptado que las personas
+jurídicas derivan su existencia del ordenamiento que las reconoce y no se
+reconocen como anteriores al mismo, por lo cual no se les puede dar el alcance
+pretendido por los actores. Por último, concluye, para que la Carta reconozca
+este derecho a entes distintos de las personas humanas, se requiere que el
+mismo ordenamiento señale cuándo comienzan a existir, que es el efecto que
+persiguen las normas acusadas.
+
+- Por su parte, el
+Dr. Criales estima que el verdadero alcance del artículo 14 de la CP puede
+encontrarse en el informe-ponencia para primer debate en plenaria de la
+Asamblea Nacional Constituyente, el cual cita en la parte pertinente. El
+apoderado llega, en virtud de lo anterior, a idéntica conclusión que la Dra.
+Hernández, en el sentido de advertir que el propósito de la consagración de
+este derecho es el de proteger a la persona humana, y proscribir así
+instituciones como la muerte civil.
+
+En relación con los
+entes colectivos señala que éstos, para poder gozar de personalidad jurídica, **"deben
+lograr determinados fines colectivos diferentes de los fines de los miembros
+que los forman o gobiernan"**. La realización de determinados fines
+obliga al hombre a actuar colectivamente. Es por ello que la Carta Política
+menciona varios tipos de personas: naturales, jurídicas - de derecho privado y
+derecho público -, exigiendo para las segundas tan sólo el requisito del acta
+de constitución para la obtención del reconocimiento jurídico, hecha la excepción
+de los sindicatos y asociaciones de trabajadores o empleadores, como lo dispone
+el artículo 84 de la CP.
+
+La libertad
+económica que consagra la Constitución, advierte la defensa, está sujeta a los
+límites del bien común y, en consecuencia, puede la ley exigir permisos previos
+al igual que otros requisitos para su ejercicio. Las normas acusadas guardan
+perfecta armonía con lo anterior, pues se limitan a reglamentar la actividad de
+los comerciantes en beneficio de toda la sociedad.
+
+4. El Señor Procurador
+solicita a esta Corte declarar exequible el Decreto 410 de 1971, la Ley 4ª de
+1989 y los artículos 3º a 9º, y 98 a 514 del Código de Comercio.
+
+En relación con el
+cargo de derogatoria en bloque de la legislación preconstitucional - en este
+caso del Código de Comercio -, el Señor Procurador advierte que, con ocasión
+del tránsito constitucional, tanto la Corte Suprema de Justicia como la Corte
+Constitucional han prohijado la tesis según la cual, en principio, la nueva
+Constitución no ha derogado la legislación preexistente. En materia de
+facultades extraordinarias tampoco el cambio de normatividad genera un vicio de
+inconstitucionalidad formal, cuando su ejercicio se ha realizado conforme al
+ordenamiento vigente en ese momento, pues, citando la sentencia Nº 87 de la
+Corte Suprema de Justicia, **"... mal podrían enervarse los efectos de lo
+que en su oportunidad estuvo correctamente ejercido desde el punto de vista de
+la competencia, por el sólo hecho de que en un momento ulterior se produjere un
+cambio normativo, pues ello equivaldría a asignarle efectos retroactivos al
+nuevo ordenamiento respecto de actos cuya emisión dentro del término y con los
+demás requisitos exigidos por el antiguo, ya se habría consumado o agotado el
+ejercicio de la competencia correspondiente"**. Por lo anterior, el
+concepto fiscal considera que los cargos contra el Decreto 410 de 1971 y la Ley
+4ª de 1989, no deben prosperar.
+
+En opinión del
+Ministerio Público, **"la costumbre es ley con plena eficacia jurídica,
+siempre que reúna los requisitos establecidos para su validez, y en
+consecuencia no es una fuente de derecho incompatible con el artículo 230
+constitucional"**, en cuanto que es ley vinculante para los jueces
+dentro de sus providencias.
+
+A renglón seguido
+procede a señalar los elementos que le dan eficacia jurídica dentro de la
+normatividad colombiana, en virtud de los artículos 13 de la Ley 153 de 1887 y
+3º del Código de Comercio:
+
+**"a.
+Generalidad.**
+
+**"b. Que sea
+conforme a un mínimo ético de convivencia.**
+
+**"c. Que no
+sea contraria, expresa o tácitamente, a la ley mercantil.**
+
+**"d. Que los
+hechos constitutivos de la costumbre, sean públicos, reiterados y uniformes.**
+
+**"e. Que
+rijan en el lugar donde deben cumplirse las prestaciones pactadas o donde
+surjan las relaciones que deben regularse por ella, y**
+
+**"f. Que esté
+debidamente probada"**.
+
+Indica a
+continuación, las tres funciones que desempeña la costumbre: interpretativa
+(art. 5º, C. de Co.), integradora - cuando la ley le otorga el carácter de
+norma obligatoria -, y una función supletoria en casos no contemplados por la
+ley escrita (art. 3º, C. de Co.), que le confiere prelación frente a las normas
+dispositivas y supletivas de la ley civil. Lo anterior le permite afirmar que
+la costumbre está prevista en el artículo 230 de la CP en su carácter de ley,
+vinculante para los jueces, razón por la cual solicita no se acojan los cargos
+de la demanda contra los artículos 3 a 9 del Código de Comercio.
+
+En lo que hace al
+tema de la personalidad jurídica, el Procurador advierte que el artículo 14 de
+la CP y el Libro Segundo del Código de Comercio regulan temas diversos. Señala
+que el derecho consagrado en el artículo 14 de la Carta busca reconocer a todas
+las personas naturales su personalidad jurídica, y en su opinión, resulta un
+desarrollo del principio de la igualdad, pretendiendo evitar el caso de la
+antigua Roma, **"en donde las personas eran consideradas hombres libres,
+mientras que los esclavos, objetos"**. Por el contrario, el
+reconocimiento de la personalidad jurídica a las colectividades de personas es
+un desarrollo del artículo 38 de la Constitución, como instrumento que permite
+a las personas desarrollar actividades que, por su naturaleza, se facilitan en
+forma asociada. Concluye su concepto solicitando la declaratoria de
+exequibilidad del Libro II del Código de Comercio, dado que no se configura
+ninguna **"incompatibilidad entre las disposiciones que lo conforman y el
+Estatuto Supremo, en lo atinente a la personalidad jurídica"**.
+
+**III. FUNDAMENTOS**
+
+**Competencia**
+
+1. Esta Corporación
+es competente para decidir en forma definitiva sobre el asunto planteado, de
+conformidad con lo dispuesto en el artículo 241-4 y 5 de la CP. En efecto, las
+normas demandadas son el Decreto ley 410 de 1971 en su integridad, expedido con
+base en las facultades extraordinarias otorgadas mediante Ley 16 de 1968; la
+Ley 04 de 1989, expedida por el Congreso de la República, y por medio de la
+cual se conceden facultades extraordinarias para modificar el Código de
+Comercio, y los artículos 3 a 9 y 98 a 514 del Decreto ley 410 de 1971.
+
+**Derogatoria del Código de Comercio**
+
+2. Los demandantes
+sostienen que la cláusula derogatoria dispuesta en los artículos 380 y 59
+transitorio de la Constitución Política de 1991, acarrea la pérdida de vigencia
+de toda la legislación dictada al amparo del anterior ordenamiento superior.
+Según este razonamiento, el tránsito constitucional operado por la expedición
+de una nueva Carta Política, que expresamente ordena la derogatoria de la **"Constitución
+hasta ahora vigente con todas sus reformas"**, implícitamente conlleva
+la abrogación de todas las leyes preconstitucionales, en aplicación del
+principio según el cual, lo accesorio - la legislación -, sigue la suerte de lo
+principal -la Constitución de 1886 y sus reformas-.
+
+3. La expedición de
+una nueva Constitución Política que, como la de 1991, introdujo cambios
+sustanciales en materia de concepción del Estado, de principios y derechos
+fundamentales y de organización estatal, hacía imperativa la derogatoria de la
+Carta vigente hasta entonces, como lo ordena el artículo 380 de la CP, amén de
+que ello se sujetaba al arbitrio del Constituyente. Otra cosa acontece con la
+legislación preconstitucional, la que conserva su vigencia pese a la
+derogatoria de las normas constitucionales a cuyo abrigo se expidieron,
+debiendo en todo caso conformarse en su interpretación y aplicación al nuevo
+orden constitucional. Es así como el artículo 4º de la CP ordena que, en caso
+de incompatibilidad entre la Carta y la ley u otra norma jurídica, prevalecen
+las disposiciones constitucionales, dado su carácter de norma superior. En este
+orden de ideas, sólo en la medida en que una norma sea incompatible con el
+nuevo orden constitucional, deviene contraria a la Carta, y debe entenderse
+derogada. Repetidamente la Corte Constitucional ha coincidido en la doctrina
+que sobre esta materia dejó sentada la Corte Suprema de Justicia que, a
+continuación, se cita:
+
+"La nueva
+preceptiva constitucional lo que hace es cubrir retrospectivamente y de manera
+automática, toda la legalidad antecedente, impregnándola con sus dictados
+superiores, de suerte que, en cuanto haya visos de desarmonía entre una y otra,
+la segunda queda modificada o debe desaparecer en todo o en parte según el
+caso; sin que sea tampoco admisible científicamente la extrema tesis, divulgada
+en algunos círculos de opinión de acuerdo a la cual ese ordenamiento inferior
+fue derogado en bloque por la Constitución de 1991 y es necesario construir por
+completo otra sistemática jurídica a partir de aquella. Tal es el caso que debe
+darse al conocido principio de que la Constitución es ley reformatoria o
+derogatoria de la legislación preexistente, acogido explícitamente entre
+nosotros por el artículo 9º de la Ley 153 de 1887, el cual, como para que no
+queden dudas, añade: "Toda disposición legal anterior a la Constitución y
+que sea **claramente contraria** a su letra o a su espíritu, se desechará
+como insubsistente" (Corte Suprema de Justicia, Sala Plena, sentencia Nº
+85 de 1991).
+
+En punto a los
+alcances del efecto retrospectivo de la Constitución, como bien lo recuerda el
+Procurador, esta Corte expresó:
+
+"Puesto que por
+la razones aducidas, la regla general es la de subsistencia de la legislación
+preexistente, la diferencia entre la nueva Constitución y la ley preexistente
+debe llegar al nivel de una incompatibilidad real, de una contradicción
+manifiesta e insuperable entre los contenidos de las proposiciones de la Carta
+con los de la ley preexistente. por tanto no basta una simple diferencia.
+
+Es esto lo que en
+forma clara y contundente consagra el texto del artículo 9º de la Ley 153 de
+1987, norma que ha resistido airosa el transcurso del tiempo y que resuelve
+problemas derogados de la vigencia de la Carta de 1991 sin contradecir su
+espíritu, sino muy por el contrario, de acuerdo con el mismo, tal como se
+desprende de su texto:
+
+'La Constitución es
+ley reformatoria y derogatoria de la legislación preexistente. Toda disposición
+legal anterior a la Constitución que sea claramente contraria a su letra o a
+su espíritu, de desechará como insubsistente'. (subraya la Corte).
+
+Es claro que la
+norma transcrita consagra también como principio general la insubsistencia de
+la legislación preexistente. Esta sólo desaparece del ordenamiento cuando entre
+ella y la nueva Carta exista un grado de incompatibilidad tal que se traduzca
+en una abierta contradicción entre el contenido material o el espíritu de ambas
+normas.
+
+Todo lo anterior
+supone un análisis de profundidad realizado por el juez competente quien será,
+en últimas, el llamado a determinar la naturaleza y alcance de la
+contradicción. No toda diferencia, se repite, implica contradicción de la
+voluntad del Constituyente" (Corte Constitucional, sentencia C-14 de
+1993).
+
+Por las razones
+expuestas, no procede el cargo contra la integridad del Decreto 410 de 1971.
+
+**Concesión de facultades extraordinarias**
+
+4. El cargo que se
+endereza contra la Ley 4ª de 1989, por la cual se otorgaron facultades
+extraordinarias al Presidente de la República para reformar el Código de
+Comercio, se fundamenta en una supuesta contradicción con el artículo 150-10 de
+la CP, que prohibe el otorgamiento de facultades extraordinarias para la
+expedición de códigos.
+
+La Ley 04 de 1989,
+que otorgó al Presidente facultades extraordinarias para **"reformar los
+artículos 981 a 1035 y 117 a 1126 del Código de Comercio"**, se expidió
+con fundamento en el artículo 76-12 de la Constitución de 1886. La correcta
+formación de normas jurídicas tiene como referente de validez la normatividad
+constitucional vigente en el momento de su expedición. A la luz de las reglas
+que regulan la vigencia de la ley en el tiempo, no sería lógico ni razonable
+condicionar la constitucionalidad de una norma a la observancia de un marco
+jurídico inexistente en el momento de su expedición. La máxima jurídica del
+derecho privado "impossibilium nulla obligatio est" bien puede ser
+invocada aqui tratándose del ejercicio de las facultades extraordinarias.
+
+La Corte
+Constitucional ha señalado, en relación con el examen de iconstitucionalidad de
+Decretos-leyes expedidos con base en leyes de facultades extraordinarias
+conferidas bajo la anterior normatividad constitucional, que éste se adelanta
+en dos fases. Una se ocupa de la competencia y, la otra, recae sobre el
+contenido material de la norma acusada.
+
+**"En efecto,
+para ejercer la primera de aquellas tareas, se tiene que las reglas
+constitucionales sobre la competencia vigentes al momento de la expedición del
+acto acusado son las que sirven para juzgar su constitucionalidad. En otros
+términos, las nuevas reglas constitucionales sobre competencia de los órganos
+legislativos ordinarios o habilitados de modo extraordinario, no se aplican
+para juzgar la inconstitucionalidad por este aspecto de la legislación
+anterior, ya que lo que impera en dicho aspecto es la norma constitucional
+antecedente"**1
+
+No puede exigirse al
+legislador se someta a reglas que, como la prohibición de la concesión de
+facultades para expedir códigos, eran inexistentes para la época del otorgamiento
+y del ejercicio de las facultades extraordinarias.
+
+**La costumbre como
+fuente de derecho**
+
+5. Según el
+demandante los artículos 3, 4, 5, 6, 7, 8 y 9 del Código de Comercio, dado que
+confieren a la costumbre mercantil "la misma autoridad que la ley comercial",
+violan el artículo 230 de la C.P. que, de una parte, ordena a los jueces, en
+sus providencias, someterse sólo al imperio de la ley y, de otra, al enunciar
+los criterios auxiliares de actividad judicial, no incluye la costumbre.
+
+Los actores asumen que la materia de las fuentes de derecho, tanto
+formales como materiales, ha sido regulada directamente por el Constituyente,
+excluyendo de las mismas la costumbre y circunscribiéndose aquéllas a las
+específicamente nombradas y que corresponden a la "ley" - fuente
+principal - y a la "equidad", la "jurisprudencia" y la
+"doctrina", como criterios auxiliares.
+
+6. Se discute si el
+derecho que debe aplicar el juez se limita al que emana exclusivamente del
+legislador y que se presenta bajo la forma de "ley" luego de haberse
+surtido un procedimiento consciente y formalizado y, consiguientemente, si no
+puede ser tal el que se elabora como fruto de la costumbre de manera natural,
+informal, inconsciente, espontánea, impersonal y que hunde sus raíces en la
+tradición y de ella deriva su legitimidad.
+
+7. El órgano
+legislativo proyecta en las disposiciones que elabora un determinado saber
+social. La función prescriptiva está indisolublemente ligada a una
+interpretativa. Las normas legales pretenden gobernar el devenir social y es
+por ello imposible que no se tome en consideración, se pondere y sopese en cada
+caso una serie de conocimientos relativos al presente y al pasado de la
+sociedad, máxime si se parte de la premisa de que existe un proceso consciente
+de creación del derecho.
+
+Entre las fuentes de
+conocimiento de las que extrae su material el legislador, no puede excluirse la
+costumbre internacional, nacional o local. La costumbre, como objetivación de
+una determinada práctica social, muchas veces ha sido incorporada por la ley.
+De hecho, la legislación comercial, en buena parte responde a la codificación
+de la costumbre mercantil que, así, ha ganado más estabilidad y generalidad. La
+Constitución no coarta la libertad del legislador y no aparece en ella precepto
+alguno que prohiba que la costumbre, surgida en cualquiera de los ámbitos de la
+vida social, pueda servir de nutriente de su concreta labor legiferante. De
+otra parte, sería inconveniente e impensable imponer una veda semejante a esta
+actividad que, como manifestación de la cultura de un pueblo, debe consultar
+sus hábitos, creencias y valores, casi siempre encarnados en sus costumbres y
+tradiciones.
+
+8. Si el antecedente
+inmediato de una determinada ley puede estar constituido por una práctica
+social desarrollada como costumbre, su interpretación y aplicación por el
+juez, de presentarse dificultades cognoscitivas sobre su correcta
+inteligencia, no puede realizarse sin adentrarse en el conocimiento de dicha
+práctica y de los comportamientos que la integran. Muchas veces, por ello,
+puede ser relevante apelar a la costumbre para aprehender la esencia misma de
+la ley. Aquí la costumbre, objeto de estudio, suministra elementos de juicio
+para tomar la decisión y sirve, por tanto, como criterio auxiliar de la actividad
+judicial. Si en esta situación se negare la invocación de la costumbre como
+medio cognitivo, se arriesgaría la cabal y justa aplicación de la ley. También,
+en otros eventos, la costumbre puede estar inextricablemente unida al
+entendimiento adecuado de una ley o a la aplicación de la equidad y, prescindir
+de ella en esas condiciones, significaría ni más ni menos desatender el sentido
+de aquélla o abandonar ésta última.
+
+De lo dicho hasta
+este punto se desprende que la costumbre puede fungir como fuente material o
+cognitiva de la actividad que despliega el legislador al hacer las leyes como
+del juez al dictar sus providencias. Si bien el segundo inciso del artículo 230
+de la C.P. sólo menciona como **criterios auxiliares** de la actividad
+judicial a la equidad, la jurisprudencia y los principios generales del
+derecho, no excluye en modo alguno **otros criterios** que sea
+indispensables en relación con la materia sujeta a su decisión y que a este
+respecto revistan utilidad como apoyo de la misma. La mención que la Carta hace
+de aquéllas, no se orienta a asignarles el papel de únicos criterios auxiliares
+del juez, sino a calificarlas justamente como **auxiliares** y, por esta
+vía, despojarlas de cualquier posibilidad de servir como fuentes directas y
+principales de las providencias judiciales.
+
+9. La Corte procede
+ahora a analizar si la costumbre, además de poder ser utilizada como criterio
+auxiliar de la actividad judicial, puede servir como fuente de producción
+jurídica, esto es, constituirse en hecho generador de normas jurídicas que el
+juez pueda y deba, en ciertos casos, aplicar y con base en ellas resolver las
+controversias sometidas a su decisión.
+
+10. De acuerdo con
+la tesis de los actores, la costumbre nunca podría ser aplicada como fuente
+formal de derecho, pues "los jueces - así reza el artículo 230 de la C.P.
+- sólo están sometidos al imperio de la ley". El precepto, a juicio de los
+demandantes, indica que los jueces sólo están autorizados a aplicar las leyes
+dictadas por el Congreso.
+
+Limitar el universo
+de las fuentes del derecho, como se propone, a la ley entendida en su acepción
+formal, conlleva una serie de consecuencias absurdas que le restan al
+planteamiento toda plausibilidad. En efecto, la Constitución, norma de normas
+(CP art. 4), por no ser equiparable formalmente a la ley, no podría ser
+aplicada ni observada por la jurisdicción (1); las leyes, no obstante que
+pudieran vulnerar la Carta, en todo caso deberían acatarse y ejecutarse, y no
+podrían ser inaplicadas por los jueces (CP art. 4) (2); los derechos
+fundamentales de aplicación inmediata requerirían de una ley previa para poder
+ser aplicados por los jueces en los diferentes procesos (CP art. 85) (3); los
+valores y principios constitucionales, no estando incorporados en leyes ni
+necesitándolo, podrían ser dejados de lado por los jueces (4); los decretos
+del Presidente, las ordenanzas de las Asambleas, los acuerdos de los Concejos
+y, en general, todas las normas jurídicas, diferentes de las leyes, cuyo
+proceso de creación y cuya existencia se regula y reconoce en la Constitución,
+pese a su pertinencia para solucionar el asunto o controversia, no podrían
+aplicarse por los jueces (5); los contratos y demás actos con valor normativo,
+fruto de las relaciones intersubjetivas del orden privado, quedarían por fuera
+de la función jurídica (6); los derechos y garantías no consagrados
+expresamente en la Constitución y en los convenios internacionales vigentes,
+pese a ser inherentes a la persona humana, no podrían ser reconocidos judicialmente
+(CP art. 94).
+
+Podría continuarse
+la enumeración de consecuencias irrazonables que se derivarían de dar curso
+favorable a la tesis formulada. Sin embargo, las esbozadas son suficientes para
+concluir que el cometido propio de los jueces está referido a la aplicación del
+ordenamiento jurídico, el cual no se compone de una norma aislada - la
+"ley" captada en su acepción puramente formal - sino que se integra
+por poderes organizados que ejercen un tipo específico de control social a
+través de un conjunto integrado y armónico de normas jurídicas. El ordenamiento
+jurídico, desde el punto de vista normativo, no puede reducirse a la ley. De
+ahí que la palabra "ley" que emplea el primer inciso del artículo 230
+de la C.P. necesariamente designe "ordenamiento jurídico". En este
+mismo sentido se utilizan en la Constitución las expresiones "Marco
+Jurídico" (Preámbulo) y "orden jurídico(Cart. 16).
+
+11. La doctrina es
+conteste en definir la costumbre, en términos generales y sin abarcar a la
+internacional y a la que puede germinar en el contexto de las instituciones
+públicas, como una práctica o comportamiento social que se repite durante un
+período de tiempo con características de generalidad - acción o conducta
+predicable de una pluralidad de sujetos -, uniformidad - semejanza del hecho en
+la situación contemplada -, constancia - sin solución de continuidad o
+interrupciones -, frecuencia - reiteración de los actos que la constituyen en
+breves intervalos - y publicidad - transparencia y recognoscibilidad del
+proceder en el ámbito social.
+
+La costumbre,
+elemento imprescindible de la cultura de un pueblo - inclusive, tejido
+conjuntivo necesario para la Constitución de una Nación -, puede tener
+relevancia en el mundo del derecho y dar lugar a reglas de comportamiento que tengan
+la connotación de normas jurídicas y conformar, por lo tanto, el ordenamiento
+jurídico.
+
+12. Pese a que en
+términos generales se acepte que en ciertos casos y bajo ciertas condiciones,
+la costumbre general puede llegar a adquirir fuerza jurídica, se controvierte
+en la doctrina el fundamento de su juridicidad. Es esta una materia en la que
+difícilmente se puede alcanzar el consenso, pues cada postura sobre el concepto
+y la naturaleza del fenómeno jurídico, apareja una visión diferente y
+correlativa de la costumbre como fuente de reglas jurídicas.
+
+Para la doctrina
+tradicional el fundamento jurídico de la costumbre radica en la voluntad tácita
+del pueblo que como ente político puede manifestarse tanto de manera formal -
+ley escrita - como informal - costumbre jurídica. Dentro de esta línea de
+pensamiento SANTO TOMAS DE AQUINO, en el TRATADO DE LA LEY, expone (Suma. I-II,
+questio 97 artículo 3): " (...) De ahí que, aún cuando una persona
+particular no tenga potestad en absoluto para instituir una ley, sin embargo
+todo el pueblo unido, mediante la costumbre, sí tiene tal poder". Una
+variante relativamente moderna de esta línea de pensamiento, prefiere referirse
+al pueblo en cuanto formación social y natural que refleja y vierte en la
+costumbre su espíritu.
+
+Sin duda la doctrina
+más extendida, de impronta psicologista, se coloca en el área visual del
+destinatario de la costumbre y desde allí percibe que su juridicidad proviene
+de la creencia arraigada sobre la obligatoriedad del comportamiento que ella
+indica (opinio iuris et necessitatis) y la consecuencia jurídica negativa que
+acompaña a su inobservancia.
+
+En un plano objetivo
+se ha dicho que la costumbre se torna jurídica si recae sobre una esfera de la
+vida que tenga relevancia para el derecho y sea pasible de una disciplina
+jurídica, lo que puede advenir allí donde resulte necesario configurar
+prácticas uniformes para constituir o conservar el grupo o una determinada
+actividad social.
+
+Desde otra vertiente
+del pensamiento se ha sostenido que la juridicidad de la costumbre se supedita
+a que el juez la acoja como fuente y la aplique a la solución de la
+controversia.
+
+13. No es función de
+la Corte dirimir un asunto que tiene cariz marcadamente doctrinario. La escueta
+relación de tesis sobre la costumbre ha servido, sin embargo, para poner de
+presente su relevancia jurídica y la importancia que para la sociedad ha tenido
+y sigue teniendo mantenerla como fuente, lo que ha sido oportuno subrayar dado
+que el argumento central de la demanda se endereza a excluirla como fuente de
+reglas jurídicas válidas.
+
+Lo que si resulta
+decisivo desde el punto de vista constitucional es que la costumbre pueda ser
+considerada parte integrante del ordenamiento jurídico que se estructura
+orgánica, material y formalmente a partir de la Constitución como **norma de
+normas**. Establecido este punto lo concerniente a su relación con otras
+fuentes, especialmente con la ley en sentido formal, es una materia que en su
+interior define ese mismo ordenamiento con base en las reglas de prelación y jerarquía
+que históricamente se hayan adoptado.
+
+Si bien en la
+costumbre podrían identificarse las notas que caracterizan a una norma
+jurídica, lo determinante es que pueda plantearse su pertenencia al sistema
+jurídico. Para tal efecto es importante considerar si la Constitución, máxima
+norma de reconocimiento, la toma en consideración o si otra norma, integrante
+del sistema, autoriza a hacerlo. Definida su inclusión dentro del ordenamiento,
+se precisará su ubicación y relaciones con otras fuentes.
+
+14. La Constitución
+de manera específica reconoce el valor jurídico de las costumbres cuando se
+refiere a las comunidades indígenas. En efecto, dispone el artículo 330 de la
+Carta: "De conformidad con la Constitución y las Leyes, los territorios
+indígenas estarán gobernados por consejos conformados y reglamentados según **los
+usos y costumbres** de sus comunidades (..)". La fuerza prescriptiva de
+los **usos y costumbres** de las comunidades indígenas se relieva aún más en
+el artículo 246 de la C.P. que señala que "Las autoridades indígenas
+podrán ejercer funciones jurisdiccionales dentro de su ámbito territorial, de
+conformidad con **sus propias normas y procedimientos**, siempre que no sean
+contrarios a la Constitución y leyes de la República (...)".
+
+La función
+productora de derecho de la costumbre también tiene claro fundamento en los
+tratados internacionales de derechos humanos incorporados al orden jurídico
+interno en virtud del artículo 94 de la Carta. Sobre el particular dispone el
+artículo 5 numeral 2º del Pacto Internacional de Derechos Políticos y Civiles,
+aprobado por Ley 74 de 1968: "No podrá admitirse restricción o menoscabo
+alguno de ninguno de los derechos humanos fundamentales reconocidos o vigentes
+en un Estado Parte en virtud de leyes, convenciones, reglamentos o **costumbres**,
+so pretexto de que el presente pacto no los reconoce o los reconoce en menor
+grado". Adicionalmente, el Convenio 169 de la O.I.T., relativo a pueblos
+indígenas, ratificado por ley 21 de 1991, también le otorga a la costumbre pleno
+valor normativo, cuando establece:
+
+**"Artículo
+8.- 1. Al aplicar la legislación nacional a los pueblos interesados deberán
+tomarse debidamente en consideración sus costumbres o su derecho
+consuetudinario.**
+
+**"2. Dichos
+pueblos deberán tener el derecho de conservar sus costumbres e instituciones
+propias, siempre que éstas no sean incompatibles con los derechos fundamentales
+definidos por el sistema jurídico nacional ni con los derechos humanos
+internacionalmente reconocidos. Siempre que sea necesario, deberán establecerse
+procedimientos para solucionar los conflictos que puedan surgir en la
+aplicación de este principio.**
+
+**"3. La
+aplicación de los párrafos 1 y 2 de este artículo no deberá impedir a los
+miembros de dichos pueblos ejercer los derechos reconocidos a todos los
+ciudadanos del país y asumir las obligaciones correspondientes".**
+
+Los principios sobre
+los que se funda el Estado y la organización social, a partir de la premisa de
+respeto a la Constitución y a la ley - lo cual es congruente con la construcción
+democrática y unitaria del Estado colombiano - brindan suficiente fundamento
+jurídico a la costumbre.
+
+La **soberanía
+popular** (CP art. 3) no puede, en efecto, reducirse a una mera proclamación
+retórica. Ella en últimas suministra la base de legitimidad a la entera
+actividad de producción de normas jurídicas, sea ésta formalizada - como
+acontece con las leyes que se adoptan a través de los representantes del pueblo
+- o informalizada como la costumbre que se remite a un proceso primario y
+directo de creación normativa.
+
+El **Estado social
+de derecho** (CP art. 1), de otra parte, no responde a un diseño orgánico de
+neta diferenciación y contraposición del Estado y la sociedad sobre la cual se
+erige. En esta forma política el Estado no se superpone a la sociedad como
+estructura aislada y dominante de poder. Por el contrario, el Estado se edifica
+a partir de la sociedad - de la que "emana el poder público" - cuyos
+miembros **participan** en su construcción y su función y justificación no
+es otra que la de servir y proteger a la comunidad y darle efectividad a su
+ordenamiento. El reconocimiento de las múltiples organizaciones y formaciones
+sociales es consustancial al estado **social** de derecho, lo que involucra
+- dentro del marco de la Constitución y de la Ley - la aceptación de ámbitos de
+autonomía y de interacción social que bien pueden proyectarse en prácticas
+colectivas - técnicas de comunicación social de naturaleza prescriptiva
+indispensables para dotar de cohesión o funcionalidad a un grupo o a una
+actividad social - de las que se deriven comportamientos sujetos a grados
+variables de control social.
+
+El **principio
+pluralista** que define al Estado colombiano se manifiesta en el respeto y
+protección de la diversidad y riqueza étnica y cultural de la Nación (CP arts.
+1, 7, 8, 70, 330). Las costumbres constituyen una de las principales
+manifestaciones de la cultura de un pueblo que, inclusive, se toman en cuenta
+para indentificar una Nación y, dentro de ésta, para reconocer una expresión
+singular de diversidad digna de ser amparada y promovida. No hay razón válida
+para excluir a la costumbre jurídica de la tutela constitucional que la
+Constitución extiende a la cultura, máxime cuando ella representa una de sus
+manifestaciones más conspicuas.
+
+La **libertad** (Preámbulo,
+arts. 1, 2, 28 y 95 de la C.P.) se encuentra en la base de los derechos que se
+reconocen a las personas y no se entiende ni garantiza si no se ejerce en
+armonía con los derechos de los demás y de manera responsable. La costumbre -
+como también puede deducirse del contrato - supone reglas de obligatorio
+cumplimiento, puestas y creadas espontánea y libremente por la sociedad, a
+través de las cuales sus miembros se autolimitan en aras de una sociabilidad
+deseable y de la protección de sus propios espacios de acción. De ahí que la
+juridicidad de la costumbre sea una forma de garantizar la autonomía y la
+libertad de la sociedad misma y de su sana y fecunda capacidad creadora.
+
+La vigencia de un **orden
+justo** (CP art. 2) es una finalidad que no solamente compromete al Estado
+sino a toda la comunidad y a cada uno de sus miembros. Tradiciones, usos y
+costumbres sociales, pueden ser la expresión viva de un sentimiento y una
+creencia arraigada de justicia. De otra parte, renovadas visiones de la
+justicia social pueden apelar al vehículo de la costumbre con miras a su
+entronización. Excluir a la costumbre como fuente de derecho, en estos casos,
+significaría privar al juez de preciosos elementos para dictar un fallo que
+consulte la justicia material. No se compadece con la ubicuidad de la justicia
+la idea de que ella sólo se manifiesta a través de la ley formal.
+
+15. La ley es una de
+las principales normas que pertenecen al ordenamiento y la Constitución la
+reconoce como fuente válida de derecho. La ley a su turno admite y autoriza a
+la costumbre jurídica (Ley 153 de 1887, art. 13; C de Co art 3; C de P C art.
+189), con las limitaciones que ella establece, como fuente de derecho. La
+invocación que la ley hace de la costumbre reafirma su pertenencia al sistema
+jurídico y su naturaleza normativa.
+
+En el derecho
+privado - civil y comercial -, la costumbre cumple una función de vital
+importancia para el tráfico jurídico. El carácter dispositivo de gran parte del
+ordenamiento legal permite concluir que la costumbre y las estipulaciones
+contractuales son consecuencia de la libertad económica y de la iniciativa
+privada, garantizadas constitucionalmente, y su exigibilidad judicial se torna
+imperativa en virtud del interés social de un intercambio económico
+transparente y fluido y de la racionalización de la economía (CP arts. 333 y
+334).
+
+En materia penal, en
+cambio, lejos de un desplazamiento de la legalidad en favor de prácticas o
+fenómenos sociales reiterados, el fundamento de la acción estatal es la propia
+ley (CP art. 29). En consecuencia, los jueces en sus providencias no podrían
+invocar la costumbre para sancionar una acción que por sí misma no ha sido
+tipificada como delito en una ley formal (nullum crimen nulla poena sine lege).
+Igualmente, no sería jurídicamente admisible que el infractor pretendiera
+justificar una conducta típica, antijurídica y culpable sancionada legalmente
+recurriendo al expediente de actuar según una práctica social generalizada.
+
+Por lo expuesto, en
+el derecho privado la costumbre ha sido recepcionada en mayor medida. Corrobora
+la anterior apreciación las normas legales citadas que definen el ingreso de la
+costumbre al ordenamiento jurídico.
+
+16. De los
+principios **democrático** y **unitario** conforme a los cuales se
+configura el estado colombiano y de la **primacía** de la Constitución (CP
+arts. 1 y 4), puede desprenderse que en ningún caso la costumbre puede
+contrariar la Constitución y las leyes de la República. Esta regla de prelación
+de la Constitución y de la Ley, de otra parte, se consagra de manera
+contundente en los artículos 246 y 330 de la CP respecto de las comunidades
+indígenas, aunque cabe advertir que la mencionada regla jerárquica tiene valor
+general y cobra todavía más fuerza tratándose de otro tipo de costumbres. En
+efecto, el artículo 8º del C.C señala que "la costumbre en ningún caso
+tiene fuerza contra la ley. No podrá alegarse el desuso para su inobservancia,
+ni práctica, por inveterada y general que sea". En estos términos, claros
+y perentorios, se proscribe en el ordenamiento jurídico la costumbre **contra
+legem**.
+
+La legislación, en
+términos generales, acepta la costumbre **secundum legem** y la **praeter
+legem**, en este caso siempre que sea general, no vulnere la Constitución, y
+a falta de legislación positiva (Ley 153 de 1887, art. 13).
+
+El primado de la ley
+escrita, - mejor sería hablar de "Derecho legislado" - en nuestro
+sistema, es innegable y se manifiesta como factor que controla los ámbitos
+donde permite, prohibe, reduce o extiende el terreno de la costumbre. Respecto
+de la ley, pues, la costumbre es una fuente subordinada y subsidiaria.
+
+No obstante el
+predominio incontrastable de la ley, la costumbre se mantiene como fuente de
+derecho y aporta al sistema jurídico flexibilidad y efectividad. Entre la ley y
+la costumbre justamente se ha observado la existencia de una relación
+dialéctica que es indisociable del fenómeno jurídico.
+
+La costumbre prepara
+y abona la materia sobre la que luego actúa el legislador dotando de
+estabilidad, certeza y mayor generalidad los dictados primarios de la práxis
+social. A su vez, la obra legislativa aspira a convertirse en comportamiento
+repetido y uniforme. Con pocas palabras, costumbre y ley son dos formas de ser
+del derecho. La exclusión de la costumbre, de ser ello posible, equivaldría a
+la deformación y empobrecimiento de la experiencia jurídica o a la supresión de
+una característica esencial de su dinámica.
+
+**La independencia
+judicial**
+
+17. Rechazada la
+tesis de los actores de limitar el vocablo "ley" que aparece en el
+primer inciso del artículo 230 de la CP al concepto de ley en sentido formal y
+establecido que su campo semántico no es otro que el de la totalidad del ordenamiento
+jurídico, resta precisar el propósito de la norma constitucional.
+
+18. La enfática
+prescripción del artículo 230 de la CP -"los jueces, en sus providencias,
+sólo están sometidos al imperio de la ley" -, tiene el sentido de rodear a
+la actividad judicial de una plena garantía de independencia funcional frente a
+la intromisión de cualquier otro órgano público o privado. La factura reactiva
+de la garantía revela el indicado designio. La necesidad de la independencia
+judicial se deriva del sentido y alcance de la actividad sentenciadora de los
+jueces, la que se sujeta únicamente al ordenamiento jurídico estructurado a
+partir de la Constitución, sus principios y valores superiores y aplicado al
+caso concreto en términos de verdad y de justicia.
+
+La misión que la
+Constitución confía a los jueces de aplicar el derecho con miras a la vigencia
+de un **orden justo** (CP art. 2), sólo es posible si ellos no son objeto de
+interferencias, presiones, instrucciones procedentes del ejecutivo, del
+legislativo, de los partidos, de las partes, en suma, si se asegura que la
+única voz que pueden escuchar y atender sea la voz del ordenamiento jurídico.
+De ahí que la garantía se construya proclamando que la única fidelidad que liga
+al juez en su delicada tarea de investigar la verdad y decir el derecho se
+aquélla que lo vincula con el ordenamiento jurídico.
+
+Sin perjuicio de la
+existencia de instancias y recursos, el juez aplica el derecho de acuerdo con
+su propia conciencia y convencimiento, basado desde luego en una determinada
+cultura científica y observando las reglas de la sana crítica. No está atado el
+juez por los precedentes judiciales ni, en principio, por las órdenes de sus
+superiores. La aplicación preferente de la Constitución, de otra parte, debe
+llevarlo a inaplicar las normas jurídicas que sean incompatibles con aquélla.
+
+La independencia de
+los jueces no tiene el significado de privilegio ni de abierta exoneración de
+responsabilidad. Esa independencia, lejos de ser una invitación a la
+arbitrariedad, es el medio que resguarda su autonomía e imparcialidad para
+poder proferir sentencias justas y conforme a derecho.
+
+19. El estado de
+derecho no se concibe si la función judicial no se ejerce de manera
+independiente y si las normas que componen el ordenamiento dejan de vincular a
+los órganos que las ponen en vigencia. La aplicación judicial del ordenamiento
+es el momento en el que se prueba asímismo el estado de derecho en cuanto que
+sus normas cobijan por igual a gobernantes y gobernados. El juez, órgano
+autónomo e imparcial, debe apelar únicamente al ordenamiento - desligado de
+toda injerencia de los demás poderes - para definir la causa si lo que se
+quiere es que el estado de derecho adquiera en verdad el sentido de garantía y
+de objetividad que lo justifican históricamente.
+
+20. La garantía
+funcional aquí tratada es complementada en la Constitución con otra de tipo
+orgánico que se instituye a través de la asunción de las tareas administrativas
+y disciplinarias de la rama judicial por un órgano perteneciente a ésta -
+Consejo Superior de la Judicatura -, la organización de la carrera judicial, la
+forma de designación de los jueces, las normas sobre impedimentos e
+inhabilidades, así como de otras previsiones de naturaleza semejante que en su
+conjunto aseguran la independencia y autonomía de los jueces frente a las
+restantes ramas del poder público.
+
+21. Como garantía
+institucional de la independencia judicial el principio de sometimiento del
+juez al imperio de la ley consagrado en los artículos 228 y 230 de la C.P.,
+incorpora una regla de aplicación del derecho y tiene, por tanto, como
+destinatario de la misma a la autoridad judicial.
+
+No obstante esa
+garantía de igual manera entraña una seguridad para las personas que pueden
+contar con la independencia de los jueces y la previsibilidad cierta de que sus
+providencias sólo se dictarán a la luz del ordenamiento jurídico. En caso
+contrario, las personas pueden, en los términos de la ley, recurrir esas
+providencias y a través de los jueces competentes ejercer un control sobre las
+mismas.
+
+Lo expuesto es
+suficiente para desestimar la demanda de inexequibilidad de la normas
+analizadas. La Corte, adicionalmente, acoge la argumentación expuesta por el
+Ministerio Público y los defensores, sintetizada en otro lugar de esta
+sentencia.
+
+**El derecho a la
+personalidad jurídica**
+
+22. Los demandantes
+solicitan se declare la inexequibilidad de los artículos 98 a 514 del Código de
+Comercio. La pluralidad de sujetos exigida como requisito esencial de la
+sociedad comercial sin la cual no se entiende constituida legalmente y no forma
+una persona jurídica distinta de los socios (C de Co., art. 98), a juicio de
+los demandantes, vulnera el artículo 14 de la C.P. que reconoce personalidad
+jurídica al individuo, lo mismo que el artículo 84 de la Carta en cuanto se
+requieren permisos previos y condiciones que "no contempla la Constitución".
+
+El Ministerio
+Público y los defensores de la ley, por su parte, replican los confusos
+argumentos de los demandantes. El derecho fundamental al reconocimiento de la
+personalidad jurídica - aducen - sólo se predica de las personas naturales, en
+tanto que la personalidad de otros entes está condicionada a su reconocimiento
+legal y, las restricciones y permisos que se instituyen, consultan el bien
+común.
+
+23. Los demandantes
+pretenden que la sociedad comercial pueda ser unipersonal y como tal formar una
+persona jurídica, distinta del individuo que la constituye. La
+inconstitucionalidad del libro segundo del Código de Comercio radicaría en
+atribuir personalidad jurídica únicamente a las sociedades conformadas por una
+pluralidad de socios, prescindiendo de las unipersonales. Este raciocinio es
+sin duda el resultado de extrapolar el derecho fundamental a la personalidad
+jurídica al campo de las formas asociativas reguladas por el Código de
+Comercio.
+
+24. Como quiera que
+el Código de Comercio atribuye personalidad jurídica a las sociedades
+comerciales que reúnan los requisitos legales para el efecto, no puede
+aseverarse que se viole el derecho a la libertad de asociación consagrado en el
+artículo 38. Por el contrario, el beneficio de la personificación jurídica es
+una forma de promover el ejercicio de esta libertad. No se concibe la libertad
+de asociación cuando la misma se plantea consigo mismo. Si lo que se propone la
+ley es regular la actividad comercial asociada - la que se cristaliza en un
+contrato de colaboración -, no puede pretenderse que la misma viole la libertad
+de asociación porque sus disposiciones no se aplican a la actividad individual.
+
+25. La ley podría
+hipotéticamente permitir la existencia y funcionamiento de patrimonios de
+afectación; autorizar la desmembración del patrimonio individual, de acuerdo
+con diferentes finalidades; prohijar la Constitución de entes comerciales
+formados por un sólo individuo. Se trata de materias propias de la legislación
+que, en principio, carecen de relevancia constitucional y entran en el campo de
+la política normativa y de la conveniencia. El sólo hecho de que el legislador,
+al regular la materia comercial, haya desechado en su arbitrio las anteriores
+opciones no entraña ningún vicio de constitucionalidad.
+
+26. Las personas
+jurídicas y, en general, los entes y asociaciones que convencionalmente
+conforman los individuos, son esquemas y fórmulas abreviadas del lenguaje
+jurídico que, en los términos de la ley, pueden ser centros de imputación de
+relaciones jurídicas; pero fuera del orden jurídico y antes de los actos que de
+acuerdo con él son necesarios para configurarlos, pertenecen a la nada. Es un
+contrasentido y no pasa de ser una inapropiada proyección antropomórfica pensar
+que tales entes ideales posean derechos congénitos y sea consustancial a ellos
+el reconocimiento de la personalidad jurídica. En su caso, esa es una cuestión
+librada enteramente a la regulación legal.
+
+Igualmente, resulta
+inaceptable el presupuesto del que parten los demandantes y que consiste en
+considerar que el atributo de la personalidad que la Constitución reconoce
+incondicionalmente a la persona humana pueda por ésta ser proyectado a su
+arbitrio a cualquier ente u organización que conciba. Sobra reiterar que el
+alcance del reconocimiento de la personalidad jurídica formulado en el artículo
+14 de la C.P. no se extiende más allá de la persona natural y se funda en el
+valor trascendente de su dignidad y en ser ella la razón última y la clave
+central de todo el ordenamiento que a partir de la Constitución se establece.
+La regulación del proceso de formación y reconocimiento de la personalidad
+jurídica de entes, organizaciones y patrimonios, es función propia del
+legislador. A este respecto la consagración de requisitos y permisos, no viola el
+artículo 84 de la C.P. pues ello se hace por el legislador y, de otra parte, se
+integra a la regulación general.
+
+27. El único sujeto
+al cual se refiere el artículo 14 de la C.P. es a la persona natural. Ante ella
+se inclina la Constitución - como de otra parte también lo ha hecho la
+declaración universal de los derechos humanos (art. 6), el Pacto Internacional
+de Derechos Civiles y Políticos (art. 16) y la Convención Americana sobre
+Derechos Humanos (art. 13) -, para reconocer su personalidad jurídica. El acto
+de reconocimiento atestigua que la personalidad es un atributo congénito a la
+persona que precede al mismo ordenamiento que se limita a declararlo.
+
+La personalidad
+jurídica indica en el caso de la persona natural su idoneidad para ser titular
+de todas las posiciones jurídicas relacionadas con sus intereses y actividad.
+El reconocimiento que extiende la Constitución a la capacidad jurídica general
+de todas las personas naturales, es una concreción necesaria del principio de
+igualdad, que es compatible sin embargo con las formas de incapacidad jurídica
+que puede consagrar la ley en aras del interés de la persona misma o de un
+superior interés público.
+
+El derecho a la
+personalidad jurídica reconocido a toda persona postula, como se ha dicho, una
+radical reivindicación del principio de la igualdad jurídica, y se endereza a
+hacer de todo miembro de la sociedad - independientemente de su raza, sexo,
+edad y condición - un sujeto dotado de capacidad jurídica e inmune a la
+degradación legal de su indisputada personalidad, lo que no fue así
+históricamente en la sociedad esclavista y en los oprobiosos regímenes
+totalitarios de este siglo. Del mismo modo el derecho fundamental a la
+personalidad jurídica no se concilia con las limitaciones generales a la capacidad
+general y la consagración de incapacidades especiales que en cierta época se
+predicaron de la mujer casada y de los hijos extramatrimoniales.
+
+Sobre el contenido y
+alcance de este derecho ha sostenido esta Corte, lo siguiente:
+
+**"3. Del
+derecho fundamental al reconocimiento de la personalidad jurídica**
+
+**El sujeto razón y
+fin de la Constitución de 1991 es la persona humana. No es pues el individuo en
+abstracto, aisladamente considerado, sino precisamente el ser humano, en su
+dimensión social, visto en la tensión individuo-comunidad, la razón última de
+la nueva Carta Política.**
+
+**El artículo 14 de
+la Constitución establece:**
+
+***"Toda
+persona tiene derecho al reconocimiento de su personalidad jurídica".***
+
+**3.1. Titular del
+derecho.**
+
+**El derecho
+fundamental al reconocimiento de la personalidad jurídica a que se refiere el
+artículo 14 de la Carta Fundamental es un derecho exclusivo de la persona
+natural; y el Estado, a través del ordenamiento jurídico, tan sólo se limita a
+su reconocimiento sin determinar exigencias para su ejercicio, y ésta es una
+de las constituciones políticas donde la inmensa mayoría de los derechos se
+otorgan sin referencia a la nacionalidad.**
+
+**Esta afirmación
+se comprueba al estudiar los instrumentos internacionales sobre el
+reconocimiento de la personalidad jurídica interpretados a la luz del artículo
+93 de la Constitución que determinan quién es el titular del derecho
+constitucional fundamental establecido en el artículo 14 de la Constitución.**
+
+**El artículo 93
+constitucional le confiere a los tratados internacionales sobre derechos
+humanos el carácter de norma prevalente en el ordenamiento interno, si se
+ajustan al orden constitucional, y les otorga la condición de criterio de
+interpretación constitucional para buscar el sentido de los derechos y deberes
+consagrados en la Carta Fundamental.**
+
+**El Pacto
+Internacional de Derechos Civiles y Políticos ratificado por Colombia en virtud
+de la Ley 74 de 1968, en su artículo 16 establece:**
+
+***"todo ser
+humano tienen derecho, en todas partes, al reconocimiento de su personalidad
+jurídica".***
+
+**La razón jurídica
+del derecho fundamental al reconocimiento de la personalidad jurídica la
+encontramos en el Preámbulo del Pacto Internacional que reconoce: "que
+estos derechos se derivan de la dignidad inherente a la persona humana".**
+
+**A la misma
+conclusión se llega por vía de la Convención Americana sobre Derechos Humanos
+que en su artículo 1º numeral 2º dice que para los efectos de esta Convención
+"persona es todo ser humano", y el artículo 3º consagra, "que
+toda persona tiene derecho al reconocimiento de su personalidad jurídica".**
+
+**Como fundamento
+ideológico orientador de las disposiciones sobre derechos humanos en el mundo,
+es imperativo hacer mención a la Declaración Universal de Derechos Humanos, que
+en su artículo 6º establece:**
+
+***"todo ser
+humano tiene derecho, en todas partes al reconocimiento de su personalidad
+jurídica".***
+
+**Así pues, para la
+interpretación del artículo 14 de la Constitución se hace necesario recurrir al
+análisis de los Instrumentos Internacionales y de ellos se deduce claramente
+que el derecho al reconocimiento de la personalidad jurídica es un derecho
+inherente a la persona humana y que la labor del Estado es de constanción y no
+de creación.**
+
+**El tema de
+discusión se ha centrado en si la personalidad jurídica la reconoce el Estado o
+éste en un acto de poder, la crea.**
+
+**El positivismo
+extremo, teniendo como principales exponentes a Hans Kelsen y Giovanny Gentile,
+consideraron que el Estado como personificación del orden jurídico total
+(Kelsen) y como todo moral y absoluto ( Gentile), es el creador, a través de
+las leyes, desde la fundamental hasta la codificada, de toda realidad jurídica,
+de tal manera, que si algo no es instituido dentro de la categoría personal, en
+el mundo jurídico no existe.**
+
+**Rene Casin
+inspirado en Radbruch (Alemania), del Vecchio (Italia), Holmes, Frank,
+Cardozo (Realismo Norteamericano), Hart (Inglaterra) y otros en los proyectos
+de redacción y unificación de la Declaración Universal de los Derechos Humanos,
+llegó a la siguiente conclusión doctrinaria: El Estado no crea la personalidad
+jurídica, porque sería absurdo que una entidad cultural como el Estado sea la
+creadora de una entidad natural como la personalidad jurídica; de tal manera,
+que el Estado debe reconocer la realidad preexistente al mismo Estado:
+la personalidad jurídica del ser humano.**
+
+**El reconocimiento
+jurisprudencial del raciocinio anterior impide la arbitrariedad que se presentó
+en los regímenes totalitarios, en cuyas legislaciones la personalidad jurídica
+estaba restringida a determinados seres humanos.**
+
+**3.2. La
+personalidad jurídica de la persona natural.**
+
+**Es necesario que
+los seres humanos se les reconozca la cualidad de personalidad jurídica en su
+sentido jurídico-político es decir que el primer derecho de todo hombre es el
+derecho que le define el estatus de persona jurídica, como lo considera Karl
+Larenz "la condición de persona es la cualidad que distingue al hombre
+sobre todos los demás seres vivientes..."**2**.**
+
+**El estudio del
+concepto de persona en la ciencia del derecho civil y en la ciencia del derecho
+natural nos permite advertir que el concepto jurídico de persona es el más
+abarcante de los conceptos jurídicos, por ser, precisamente, el fundamento de
+toda la realidad jurídica.**
+
+**El problema está
+en definir a la persona si es "ser ante" o "ser por". Si se
+admite que la persona es un alguien para el derecho, debe de igual modo,
+aceptarse que su personalidad jurídica simplemente le es reconocida por el
+ordenamiento jurídico positivo**3**.**
+
+**Es decir el derecho
+no le agrega nada a la estructura óntica de la persona humana, le reconoce y le
+protege su titularidad natural, así como la dignidad que le corresponde por el
+derecho de ser persona. En definitiva una persona es una realidad única e
+irrepetible filosófica y jurídicamente.**
+
+**4. Argumento
+subjetivo.**
+
+**En el
+informe-ponencia**4 **para primer debate de la Carta de
+Derechos, Deberes, Garantías y Libertades presentado por el Constituyente Diego
+Uribe Vargas se expresa que:**
+
+***"El eje
+primordial de la democracia radica en reconocerle a los ciudadanos y personas
+que habitan en Colombia, un conjunto de garantías que no sólo dignifiquen el
+contenido de la vida, sino que favorezcan progresivamente la formulación de
+las nuevas libertades que la evaluación contemporánea han ido poniendo en
+evidencia .***
+
+***Este artículo
+que aparece en la Declaración Universal de Derechos Humanos, y que se reproduce
+igualmente en el Pacto de San José de Costa Rica y en los instrumentos
+referentes a la materia, expresa el reconocimiento del individuo como sujeto
+principal del derecho, cuyos atributos tienen valor remanente.***
+
+***Los atributos
+que la doctrina reconoce a la persona son: el nombre, el domicilio, el estado
+civil, el patrimonio, la nacionalidad y la capacidad. No puede haber
+personas a quienes se les niegue la personalidad jurídica, ya que ello
+equivaldría a privarles de capacidad para ejercer derechos y contraer
+obligaciones."***
+
+**(subrayas fuera
+del texto)**
+
+**5. El atributo de
+la personalidad jurídica de la persona moral.**
+
+**La condición de
+personalidad jurídica hace del hombre categoría de sujeto de derecho, no es un
+estatus exclusivo, la puede otorgar el Estado a otras realidades producto del
+ser humano en su tensión individuo-sociedad que genera el derecho a la libre
+asociación para el desarrollo de las distintas actividades que las personas
+realizan en sociedad y tal como lo establece el artículo 38 de la Constitución
+Política, lógicamente este derecho estará sometido a las condiciones que el
+ordenamiento jurídico exige para su otorgamiento**5".
+
+A la luz de lo
+anterior es evidente que los cargos no pueden prosperar.
+
+**IV. DECISION**
+
+En mérito de lo
+expuesto, la Corte Constitucional
+
+**R E S U E L V E**
+
+Declarar exequibles
+la Ley 04 de 1989, el Decreto 410 de 1971 y los artículos 3 a 9 y 98 a 514 del
+mismo, únicamente por los aspectos considerados en esta sentencia.
+
+**NOTIFIQUESE,
+COMUNIQUESE, CUMPLASE, INSERTESE EN LA GACETA DE LA CORTE CONSTITUCIONAL Y
+ARCHIVESE EL EXPEDIENTE.**
+
+**HERNANDO HERRERA VERGARA**
+
+Presidente
+
+**JORGE ARANGO
+MEJIA ANTONIO BARRERA CARBONELL**
+
+Magistrado Magistrado
+
+**EDUARDO CIFUENTES
+MUÑOZ CARLOS GAVIRIA DIAZ**
+
+Magistrado
+Magistrado
+
+**JOSE GREGORIO HERNANDEZ GALINDO**
+
+Magistrado
+
+**ALEJANDRO MARTINEZ CABALLERO**
+
+Magistrado
+
+**FABIO MORON DIAZ VLADIMIRO
+NARANJO MESA**
+
+Magistrado Magistrado
+
+**HERNAN ALEJANDRO OLANO GARCIA**
+
+Secretario General (E)
+
+**Salvamento de
+voto a la Sentencia No. C-486/93**
+
+**COSTUMBRE** (Salvamento de voto)
+
+*Dentro de un
+sistema legislado, la costumbre puede consagrarse expresamente como fuente
+formal subsidiaria y autónoma (como en Colombia durante la vigencia de la
+Constitución de 1886), tolerarse en esa misma condición (como en Inglaterra) o
+excluirse. Empero, cuando se consagra expresamente o se tolera, está
+subordinada a la legislación mas no deriva de ella. En eso consiste su status
+de fuente a la vez subsidiaria y autónoma (no reductible a la legislación).
+Desde esta particular perspectiva, entonces, la costumbre no sólo no queda
+comprendida dentro del concepto ley sino que se le opone, del mismo modo
+que el proceso consuetudinario, inconsciente, se opone al proceso legislativo
+en tanto que ejercicio de la reflexión, encaminado a la creación de la norma.*
+
+**COSTUMBRE COMO
+FUENTE DE DERECHO/PLEBISCITO/REFERENDUM** (Salvamento de voto)
+
+*Carece de fuerza
+convincente el argumento aducido en la sentencia, según el cual resultaría
+incongruente que una Constitución informada de una filosofía de participación
+democrática, excluyera la costumbre como fuente formal de derecho. Precisamente,
+la diferencia más significativa entre la Constitución anterior y la actual,
+consiste en la mayor participación que ésta le confiere al pueblo, en tanto que
+sujeto del poder soberano, para contribuir de manera efectiva a la formación de
+la voluntad estatal, concretada en la iniciativa legislativa y en las demás
+instituciones propias de la democracia directa recogidas en nuestra Carta
+Política, tales como el plebiscito y el referéndum, encaminadas a crear derecho
+por la vía que el Constituyente juzgó más adecuada y pertinente, a saber: la
+legislativa. Porque no hay duda, en mi sentir, de que ante el dilema de cuál es
+el camino más expedito hacia la regulación justa de la conducta humana, el
+racional o el instintivo, el Constituyente optó por el primero. Resulta claro
+que es la legislación la que puede responder ágil y oportunamente a las
+necesidades sociales nuevas, que permanentemente se suscitan y que no pueden
+esperar al lento discurrir del tiempo generador de la costumbre, porque cuando
+ésta llega a ser tal, ya las necesidades son otras.*
+
+**DERECHO**-Factor de Progreso (Salvamento de voto)
+
+*El derecho ha de
+ser no sólo factor de conservación sino también -y ante todo- de progreso. No
+ha de consistir su función en preservar supersticiones insensatas sino en
+propiciar pautas razonables de conducta que contribuyan a informar de mayor
+reflexión y de menos instinto la acción humana.*
+
+**Ref.: Expediente
+No. D-244**
+
+**Decreto 410 de
+1971, Ley 04 de 1989 y los artículos 3 a 9, 98 y 514 del Código de Comercio.**
+
+Con todo respeto, me
+he permitido disentir de la decisión mayoritaria, por las consideraciones que a
+continuación expreso sintéticamente:
+
+1. Me
+parece claro que el artículo 230 de la Carta Política hace alusión a las
+fuentes formales del derecho con el objeto de fijarlas de modo taxativo y de
+conferirles rango constitucional. Cuando dice, entonces, que "Los jueces,
+en sus providencias, sólo están sometidos al imperio de la ley"
+(subrayo) se refiere a la norma jurídica que surge del proceso legislativo, acepción
+ésta que no comprende la costumbre, norma resultante del proceso
+consuetudinario, sino que precisamente la excluye.
+
+En
+el inciso segundo, el mismo artículo se refiere a la equidad, la
+jurisprudencia, los principios generales del derecho y la doctrina,
+para atribuirles la función de "criterios auxiliares de la actividad
+judicial", no de fenómenos capaces de generar normas válidas. Desde luego,
+habría podido reconocerles esa capacidad generadora, pero justamente se abstuvo
+de hacerlo, proclamando el carácter eminentemente legislativo de nuestro
+ordenamiento. Tal decisión de la voluntad constituyente puede enjuiciarse como
+plausible o censurable, según las preferencias, pero no es descabellada ni
+carente de consistencia lógica.
+
+2. Argüir
+que cuando la ley consagra la costumbre praeter legem como fuente formal
+subsidiaria, al aplicar ésta el juez se fundamenta en la autoridad de aquélla,
+es desconocer el tipo de relación jerárquica que existe entre ley y costumbre
+cuando ambas se consagran como fuentes, la primera como principal y la segunda
+como subsidiaria.
+
+En
+una obra, aún joven y no obstante ya clásica, "El concepto de
+Derecho" H.L.A. Hart esclarece el punto en los siguientes términos:
+"Es importante distinguir entre esta subordinación relativa de un
+criterio a otro y la derivación, ya que como consecuencia de confundir
+estas dos ideas se ha logrado algún fundamento espurio para el punto de vista
+de que todo el derecho es "esencialmente" o "realmente"
+(aunque más no sea que en forma tácita) el producto de la legislación. En
+nuestro sistema la costumbre y el precedente están subordinados a la
+legislación, puesto que las reglas consuetudinarias y las reglas del common
+law pueden verse privadas de su status de derecho, por una ley"
+(tal como ha sucedido hasta ahora en Colombia con la costumbre). Y continúa:
+"Sin embargo ellas no deben su status de derecho, por precario que éste
+sea, a un ejercicio tácito de potestad legislativa, sino a la aceptación de una
+regla de reconocimiento que les acuerda ese lugar independiente aunque
+subordinado."1
+
+Entre
+nosotros, esa regla de reconocimiento está explícitamente formulada. Es el
+artículo 13 de la Ley 153 de 1887, que -por vía de disposición general-
+estatuye: "La costumbre, siendo general y conforme a la moral cristiana,
+constituye derecho, a falta de legislación positiva". Es claro que en
+otros ordenamientos (en el inglés v.gr.) no está explícitamente formulada,
+pero no está excluida por el derecho legislado como juzgo que ha ocurrido en
+Colombia, precisamente, en virtud del artículo 230 de la Carta.
+
+En
+síntesis: dentro de un sistema legislado, la costumbre puede consagrarse
+expresamente como fuente formal subsidiaria y autónoma (como en Colombia
+durante la vigencia de la Constitución de 1886), tolerarse en esa misma
+condición (como en Inglaterra) o excluirse (como a mi juicio ha sucedido bajo
+la vigencia de la actual Carta Política). Empero, cuando se consagra
+expresamente o se tolera, está subordinada a la legislación mas no
+deriva de ella. En eso consiste su status de fuente a la vez subsidiaria
+y autónoma (no reductible a la legislación). Desde esta particular perspectiva,
+entonces, la costumbre no sólo no queda comprendida dentro del concepto ley
+sino que se le opone, del mismo modo que el proceso consuetudinario,
+inconsciente, se opone al proceso legislativo en tanto que ejercicio de la
+reflexión, encaminado a la creación de la norma.
+
+3. Es
+que por más que se estime importante la operancia de la costumbre dentro de un
+ordenamiento, ella no deja de ser un factor meramente contingente del mismo. Su
+existencia está condicionada a que la forma de creación consuetudinaria del
+derecho esté reconocida expresa o tácitamente como un mecanismo apto para
+incorporar nuevas normas al sistema jurídico o para privar de ese status
+a las ya existentes, bajo determinadas condiciones. Afirmar que ella es
+inherente a cualquier ordenamiento, equivale a postular limitaciones de orden
+metafísico a la voluntad del constituyente, lo que se aviene mal con una
+concepción del derecho racional y desacralizada.
+
+4. De
+ordinario, a las posturas que proclaman la inherencia de la costumbre a
+cualquier sistema de derecho positivo, subyace el misticismo sociológico de la
+escuela historicista, que tras un lenguaje pretendidamente científico y de
+vocación democrática, escamotea un trascendentalismo vergonzante de inequívoco
+signo retardatario. Basta recordar la célebre controversia entre Antonio
+Thibaut y F.C. Savigny2 (a principios del siglo XIX), en la que
+el segundo entona el epinicio del derecho consuetudinario cifrando la búsqueda
+de la justicia no en un proceso intencional, consciente y deliberado,
+emprendido por los hombres, sino en un oscuro discurrir subterráneo e
+instintivo del "espíritu del pueblo" que de modo imperceptible iría
+señalando los cauces indiscutibles de la conducta humana.
+
+Los
+argumentos de Savigny, en su replica a Thibaut, son reproducción fidedigna, en
+el reino de lo jurídico, de los que había utilizado Edmund Burke en su
+requisitoria contra el racionalismo triunfante en la revolución francesa, tan
+brillantemente defendido por Thomas Paine, en un plano estrictamente político.
+
+Que
+Burke, visible adalid del moderno conservadurismo, defendiera las instituciones
+decantadas de un proceso milenario, puede controvertirse desde una perspectiva
+ideológica, pero no exige mayores esfuerzos explicativos en presencia de los
+hechos históricos. Más complejo, sin duda, es defender la acción benéfica de
+los procesos irracionales en comunidades que aún no han logrado, por razones
+que ni siquiera es preciso aducir, su identidad cultural. En estas, parece
+razonable pensar que la reflexión aplicada a la búsqueda de formas adecuadas de
+relación y convivencia, constituya un factor de progreso más eficaz que el
+ciego instinto.
+
+5.
+En ese orden de ideas, carece de fuerza convincente el argumento aducido en la
+sentencia, según el cual resultaría incongruente que una Constitución informada
+de una filosofía de participación democrática, excluyera la costumbre como
+fuente formal de derecho.
+
+Es
+que, precisamente, la diferencia más significativa entre la Constitución
+anterior y la actual, consiste en la mayor participación que ésta le confiere
+al pueblo, en tanto que sujeto del poder soberano, para contribuir de manera
+efectiva a la formación de la voluntad estatal, concretada en la iniciativa
+legislativa y en las demás instituciones propias de la democracia directa
+recogidas en nuestra Carta Política, tales como el plebiscito y el referéndum,
+encaminadas a crear derecho por la vía que el Constituyente juzgó más adecuada
+y pertinente, a saber: la legislativa. Porque no hay duda, en mi sentir, de que
+ante el dilema de cuál es el camino más expedito hacia la regulación justa de
+la conducta humana, el racional o el instintivo, el Constituyente optó por el
+primero.
+
+6. Es
+altamente controvertible el argumento, invocado por el ponente, de que la
+costumbre flexibiliza el derecho positivo. Más bien los hechos parecen abonar
+la conclusión contraria. Basta con examinar la noción de costumbre jurídica en
+función de sus dos elementos constitutivos: inveterata consuetudo et opinio
+juris seu necesitatis, para advertir que la condición esencial para que
+ella surja es, justamente, el transcurso de un largo tiempo en virtud del cual
+se crea en la conciencia de los individuos que constituyen la comunidad, la
+convicción de que la práctica largamente repetida es jurídicamente vinculante.
+
+En
+respaldo de la tesis contraria es pertinente citar a Hart, quien al
+analizar el paso gradual de un ordenamiento jurídico primitivo e imperfecto,
+constituído sólo por reglas primarias de obligación (casi siempre de carácter
+consuetudinario) a uno evolucionado y maduro, integrado no sólo por éstas sino
+también por las secundarias o de reconocimiento, luego de examinar un primer
+defecto del hipotético ordenamiento primitivo, consistente en la falta de
+certeza, derivada de no saberse a ciencia cierta cuáles son las reglas
+aplicables a una situación concreta, observa: "Un segundo defecto es el
+carácter estático de las reglas. El único modo de cambio de éstas conocido por
+tal sociedad será el lento proceso de crecimiento, mediante el cual líneas o
+cursos de conducta concebidos una vez como optativos, se transforman primero en
+habituales o usuales, y luego en obligatorios; y el inverso proceso de
+declinación, cuando las desviaciones, tratadas al principio con severidad, son
+luego toleradas y más tarde pasan inadvertidas. En tal sociedad no habrá manera
+de adaptar deliberadamente las reglas a las circunstancias cambiantes,
+eliminando las antiguas o introduciendo nuevas; porque, también aquí, la
+posibilidad de hacer esto presupone la existencia de reglas de un tipo
+diferente a las reglas primarias de obligación, que son las únicas que rigen la
+vida de esta sociedad".3
+
+Resulta
+claro, entonces, que es la legislación la que puede responder ágil y
+oportunamente a las necesidades sociales nuevas, que permanentemente se
+suscitan y que no pueden esperar al lento discurrir del tiempo generador de la
+costumbre, porque cuando ésta llega a ser tal, ya las necesidades son otras.
+
+7. Desde
+luego, no puede tampoco dejar de mencionarse la desventaja (también aludida por
+Hart) de las normas consuetudinarias con respecto a las legislativas,
+consistente en que las primeras son, con mayor frecuencia, generadoras de
+incertidumbre, mientras las segundas aportan seguridad jurídica y no es ésta,
+ciertamente, un valor desdeñable.
+
+Si
+aún acerca del llamado corpus de la costumbre (la práctica antigua)
+pueden suscitarse dudas: ¿sí existe la práctica? ¿Desde cuándo? ¿Puede
+considerarse antigua su existencia? ¿A partir de cuándo puede decirse que
+una práctica es antigua?, muchas más dudas, desde luego, plantea el animus
+o elemento psicológico: ¿En qué consiste la convicción de obligatoriedad? ¿Si
+se trata de una convicción social, que tan extensa ha de ser? ¿Puede sentirse
+una persona jurídicamente obligada (dentro de un sistema predominantemente
+legislativo) por una regla cuya existencia misma es cuestionable y que no ha
+sido formulada por el legislador? ¿Debe el juez compartir esa convicción o,
+mejor aún, ha de ser ésta preferentemente suya?.
+
+Las
+anteriores preguntas son apenas una pequeña muestra de las incertidumbres que
+el derecho consuetudinario puede originar y que refuerzan las razones que
+subyacen a una norma como el artículo 230 superior, según la interpretación que
+de él se hace en el presente salvamento de voto, que puede no ser del todo
+descabellada.
+
+8. Empero,
+vale la pena aclarar que las precedentes argumentaciones, no afectan en nada la
+verdadera función que la costumbre (a secas), cumple en el derecho, a saber, la
+de servir de fuente material de primer orden. Porque si el legislador pretende
+que su tarea tenga sentido y que las normas que formule incidan en la realidad
+(sean eficaces) ha de estar atento a la realidad social cuyo control le
+incumbe. Y esa realidad se manifiesta de modo preponderante en prácticas
+sociales que van arraigando y cuya conveniencia y rectitud compete evaluar al
+legislador, en función de los fines que, dentro del amplio esquema que la
+constitución le ofrece, juzgue conveniente perseguir. Porque no todas las
+prácticas han de ser propiciadas, así tengan la virtualidad de generar esa
+situación gaseosa e inasible nombrada con palabras que participan de esa misma
+connotación: Opinio juris. El derecho ha de ser no sólo factor de
+conservación sino también -y ante todo- de progreso. No ha de consistir su
+función en preservar supersticiones insensatas sino en propiciar pautas
+razonables de conducta que contribuyan a informar de mayor reflexión y de menos
+instinto la acción humana.
+
+Me
+parece que así puede interpretarse la voluntad constituyente y que esa voluntad
+es plausible, progresista, propiciatoria de certeza y nada incompatible con la
+búsqueda de un orden justo dentro de un ambiente participativo y democrático.
+
+Fecha
+ut supra.
+
+**CARLOS
+GAVIRIA DIAZ**
+
+**Magistrado**
+
+---
+
+1 Corte
+Constitucional, sentencia C-435/92
+
+2 LARENZ, Karl.
+Derecho Civil. Parte General (Madrid 1.978), Ed. Revista de Derecho Privado. P.
+44.
+
+3 Cfr, HOYOS
+CASTAÑEDA, Ilva Myriam. El Concepto de persona y los derechos humanos.
+Universidad de la Sabana. Santa Fe de Bogotá. 1.991. En la obra citada la
+autora hace una análisis del concepto jurídico de persona y su dimensión
+jurídica en las varias teorías.
+
+4 Gaceta
+Constitucional No. 82, página 10 a 16
+
+5 Corte
+Constitucional. Sentencia SC-476/1992.
+
+1 El concepto de
+derecho, Abeledo - Perrot, 1968, págs. 126 y ss.
+
+2 Tribaut - Savigny,
+La Codificación, Aguilar, 1970.
+
+3 Hart, El concepto
+de derecho, pág. 115.

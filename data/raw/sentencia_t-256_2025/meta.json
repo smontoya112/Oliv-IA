@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_t-256_2025",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/T-256-25.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2025/T-256-25.htm",
+      "sha256": "91948c159cd5bbd4e20069a9308fb3e55d77b744a9e705551f296601ac708825",
+      "bytes": 982216,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:27:58-05:00"
+    }
+  ]
+}

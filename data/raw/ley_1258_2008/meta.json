@@ -1,0 +1,25 @@
+{
+  "doc_id": "ley_1258_2008",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html",
+      "sha256": "9b82c604825525c07b013d742f6734aeb86332ee83656574bb1ab2855a576a94",
+      "bytes": 67762,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:19:42-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008_pr001.html",
+      "sha256": "573314a51f60058e1b28212eb5db4a3152038da3f891565e1f0b4cf551f83f80",
+      "bytes": 23728,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:19:43-05:00"
+    }
+  ]
+}

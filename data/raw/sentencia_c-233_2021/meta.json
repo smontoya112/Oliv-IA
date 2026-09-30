@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-233_2021",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-233-21.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-233-21.htm",
+      "sha256": "271d8061be5da5bc2d7ed61c5425496c5fd2b50946cc2d38a6e93ed2045602d5",
+      "bytes": 1444241,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:00-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-891_2012",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2012/C-891-12.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2012/C-891-12.htm",
+      "sha256": "5a98d1151dd831eb38b6845a4ee538bd23a26edcd0fce794aed778e47ccc06d5",
+      "bytes": 252154,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:32-05:00"
+    }
+  ]
+}

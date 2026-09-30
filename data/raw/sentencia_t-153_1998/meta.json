@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_t-153_1998",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/1998/T-153-98.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/1998/T-153-98.htm",
+      "sha256": "a75a3440784e02ecb49f8914c4ac1a49a51e8961e68ced7a00e691d3596706df",
+      "bytes": 756024,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:29:35-05:00"
+    }
+  ]
+}

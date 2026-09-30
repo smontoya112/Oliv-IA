@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-577_2011",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-577-11.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-577-11.htm",
+      "sha256": "ac9e6a35891cc3e666dfdba650ef66fd1a6642a8f0f899fe18124293c86b1bbb",
+      "bytes": 1572462,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:29:26-05:00"
+    }
+  ]
+}

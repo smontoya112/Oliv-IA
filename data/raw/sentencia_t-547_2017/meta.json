@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_t-547_2017",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2017/T-547-17.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2017/T-547-17.htm",
+      "sha256": "25b215b219a3954e6fe6aa7856aeb17482746fe786199021b24646f579805349",
+      "bytes": 289939,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:05-05:00"
+    }
+  ]
+}

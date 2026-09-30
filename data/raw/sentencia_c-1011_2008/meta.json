@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-1011_2008",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-1011-08.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-1011-08.htm",
+      "sha256": "1ce03e5257e6c298015e00578d86589b3fd33ee2c4412965f6a984c92a9436fa",
+      "bytes": 1600440,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:29:33-05:00"
+    }
+  ]
+}

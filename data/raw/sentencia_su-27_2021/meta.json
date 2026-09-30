@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-27_2021",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/SU027-21.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2021/SU027-21.htm",
+      "sha256": "8a5b2921134462354912939a47b8bd9046d2262e689eba0833c97c63db7c215e",
+      "bytes": 502719,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:59-05:00"
+    }
+  ]
+}

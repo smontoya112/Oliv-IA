@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-591_2005",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-591-05.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-591-05.htm",
+      "sha256": "0da3ef3d7f9efc12f7edcb1a9a1e12ba034691da23f4e503edeb615774429817",
+      "bytes": 824503,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:29:29-05:00"
+    }
+  ]
+}

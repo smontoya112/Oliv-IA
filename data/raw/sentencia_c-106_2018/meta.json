@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-106_2018",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-106-18.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-106-18.htm",
+      "sha256": "124bee261f05366abea9d0fd6ba8a6513ae2a56077f0b84cfc92b14c8677f425",
+      "bytes": 451460,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:38-05:00"
+    }
+  ]
+}

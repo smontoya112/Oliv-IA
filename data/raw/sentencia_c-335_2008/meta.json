@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-335_2008",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-335-08.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-335-08.htm",
+      "sha256": "d59511b7e6187ed631e97935bf687c2b420afcdd9edf3fdfdfbc0528027c89b7",
+      "bytes": 253488,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:07-05:00"
+    }
+  ]
+}

@@ -1,0 +1,2330 @@
+---
+{
+  "doc_id": "sentencia_c-590_2005",
+  "titulo": "Sentencia C-590 de 2005",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/c-590-05.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "constitucional",
+    "procesal",
+    "tributario"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-590",
+  "anio": 2005,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-590",
+    "2005"
+  ],
+  "items_del_banco": 0,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2005/c-590-05.htm"
+  ],
+  "sha256_partes": [
+    "5acfaae053aa4505327f91cf8205c72c03417034c66e2b40332103f16b28d158"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 121739,
+  "n_articulos_detectados": 10,
+  "archivo_md": "md/sentencia_c-590_2005.md",
+  "metadata_autocompletada": [
+    "numero",
+    "areas"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2005/c-590-05.htm -->
+C-590-05
+
+---
+
+## Sentencia C-590/05
+
+**RECURSO DE CASACION**-Características
+
+**RECURSO DE CASACION-**Antecedentes históricos
+
+**RECURSO DE CASACION PENAL**-Características en el nuevo sistema
+procesal penal
+
+**RECURSO DE CASACION PENAL-**Constituye un control constitucional y legal en el
+nuevo sistema procesal penal
+
+*Para
+la Corte es claro que la expresa configuración legal de la casación penal como
+“control constitucional y legal” evidencia el propósito de adecuar el
+instituto, de una manera mucho más directa, a referentes constitucionales. Es
+decir, al concebir el recurso extraordinario de casación como un control
+constitucional y legal, se está evidenciando que la legitimidad de la sentencia
+debe determinarse no sólo a partir de disposiciones legales sustanciales y
+procesales, sino también respecto de normas constitucionales en tanto
+parámetros de validez de aquellas. Y esto, en la estructura y dinámica de las
+democracias constitucionales, es comprensible pues de la misma manera como la
+legitimidad de la ley, incluida, desde luego, la ley penal, no se infiere de sí
+misma sino de su compatibilidad con el Texto Fundamental; así también, la
+legitimidad de las sentencias judiciales debe soportarse tanto en la ley como
+en el ámbito de validez de ésta.*
+
+**RECURSO DE CASACION PENAL-**Procedenciaen el nuevo sistema procesal penal
+
+**DEMANDA DE CASACION PENAL-**Facultad de selección
+
+**CASACION PENAL-**Causales
+en el nuevo sistema procesal penal
+
+**RECURSO DE CASACION PENAL-**Finalidades en el nuevo sistema procesal penal
+
+**RECURSO DE CASACION PENAL-**Procedimiento en el nuevo sistema procesal penal
+
+**SENTENCIA DE CASACION PENAL-**Procedencia de la acción de tutela
+
+*Es
+manifiesta la inconstitucionalidad del aparte demandado del artículo 185 de la
+Ley 906 de 2004 ya que al indicar que contra la sentencia que resuelve el
+recurso extraordinario de casación en materia penal “no procede ningún recurso
+ni acción, salvo la de revisión”, está excluyendo la procedencia de la acción
+de tutela contra ese tipo de pronunciamientos y con ello, qué duda cabe, está
+contrariando el artículo 86 de la Carta Política ya que, como se ha visto, esta
+norma no excluye tales pronunciamientos de ese mecanismo de protección de los
+derechos fundamentales. Es decir, en tanto que la voluntad del constituyente
+expresada en la norma superior ya indicada fue que la acción de tutela se
+aplicara respecto de los actos y omisiones de las autoridades públicas,
+incluidas las judiciales, el legislador ha tomado la decisión, manifiesta en la
+norma demandada, de excluir de la procedencia de ese recurso las sentencias que
+resuelven la casación penal. Entonces, como es claro que una ley ordinaria no
+puede, bajo ninguna circunstancia, modificar o suprimir la Constitución
+Política y mucho menos uno de los mecanismos constitucionales de protección de
+los derechos fundamentales, la expresión “ni acción” que hace parte del
+artículo 185 de la Ley 906 de 2004 será expulsada del ordenamiento jurídico
+pues genera un espacio institucional en el que los derechos fundamentales no
+podrían ser protegidos.*
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES**-Requisitos generales
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES**-Requisitos especiales
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-**Causales genéricas de procedibilidad
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-**Procedencia legitimada por el Pacto Internacional de
+Derechos Civiles y Políticos y la Convención Americana sobre Derechos Humanos
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-**Argumento originalista
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-**Importancia
+
+*La
+acción de tutela -o el llamado recurso de amparo o recurso de
+constitucionalidad- contra sentencias constituye uno de los ejes centrales de
+todo el sistema de garantía de los derechos fundamentales. Este instrumento se
+convierte no sólo en la última garantía de los derechos fundamentales, cuando
+quiera que ellos han sido vulnerados o amenazados por la acción o la omisión de
+una autoridad judicial, sino que sirve como instrumento para introducir la
+perspectiva de los derechos fundamentales a juicios tradicionalmente tramitados
+y definidos, exclusivamente, desde la perspectiva del derecho legislado. En
+otras palabras, la tutela contra sentencias es el mecanismo más preciado para
+actualizar el derecho y nutrirlo de los valores, principios y derechos del
+Estado social y democrático de derecho.*
+
+**ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-**No vulnera los principios de seguridad jurídica y de
+autonomía funcional del juez
+
+*El
+valor de cosa juzgada de las sentencias y el principio de seguridad jurídica
+suponen que los fallos son respetuosos de los derechos y ese respeto no se
+determina a partir de la visión que cada juez tenga de ellos sino del alcance
+que les fije la Corte Constitucional, pues esta es la habilitada para generar
+certeza sobre su alcance. Y ello es lógico ya que si algo genera inseguridad
+jurídica es la promoción de diferentes lecturas de la Carta Política por los
+jueces y, en particular, sobre el alcance de los derechos fundamentales. Este
+es precisamente el peligro que se evita mediante la excepcional procedencia de
+la tutela contra sentencias pues a través de ella se promueven lecturas
+uniformes sobre el alcance de tales derechos y de la Carta Política como su
+soporte normativo. Y en lo que atañe a la autonomía e independencia de los
+jueces y tribunales, ellas deben entenderse en el marco de la realización de
+los fines estatales inherentes a la jurisdicción y, en especial, de cara al cumplimiento
+de su deber de garantizar la efectividad de los derechos a todas las personas.*
+
+**ACCION DE TUTELA CONTRA PROVIDENCIA JUDICIAL-**No viola la distribución constitucional de
+competencias entre las altas cortes
+
+*El
+argumento según el cual la tutela contra sentencias de última instancia afecta
+la distribución constitucional de competencias entre las altas Cortes y, en
+particular, la naturaleza de la Corte Suprema de Justicia y del Consejo de
+Estado como “órganos de cierre” de la respetiva jurisdicción, es falso, pues el
+juez constitucional no tiene facultades para intervenir en la definición de una
+cuestión que debe ser resuelta exclusivamente con el derecho ordinario o
+contencioso. Su papel se reduce exclusivamente a intervenir para garantizar, de
+manera residual y subsidiaria, en los procesos ordinarios o contencioso
+administrativos, la aplicación de los derechos fundamentales, cuyo intérprete
+supremo, por expresa disposición de la Constitución, es la Corte
+Constitucional.*
+
+**DERECHO CONSTITUCIONAL COMPARADO-**Recurso de amparo contra sentencias de última
+instancia en España
+
+**DERECHO CONSTITUCIONAL COMPARADO-**Recurso constitucional o recurso de protección
+constitucional en Alemania
+
+### Referencia: expediente D-5428
+
+Demanda de inconstitucionalidad contra el artículo
+185, parcial, de la Ley 906 de 2004
+
+Actor: Rafael Sandoval López
+
+Magistrado Ponente:
+
+Dr. JAIME CÓRDOBA TRIVIÑO
+
+Bogotá,
+D.C., ocho (8) de junio de dos mil cinco (2005).
+
+La
+Sala Plena de la Corte Constitucional, en ejercicio de sus atribuciones
+constitucionales y legales, en especial las previstas en el artículo 241,
+numeral 4, de la Constitución Política, y cumplidos todos los trámites y
+requisitos contemplados en el Decreto 2067 de 1991, ha proferido la siguiente
+
+**SENTENCIA**
+
+en relación con la demanda de inconstitucionalidad
+que, en uso de su derecho político, presentó el ciudadano Rafael Sandoval López
+contra el artículo 185, parcial, de la Ley 906 de 2004.
+
+**I. TEXTO DE LAS NORMAS ACUSADAS**
+
+A continuación se
+transcribe el texto de la disposición objeto de proceso. Se subraya lo
+demandado:
+
+LEY No.906 DE 2004
+
+Por la cual se expide el Código de Procedimiento Penal
+
+El Congreso de Colombia
+
+DECRETA:
+
+(…)
+
+Artículo 185. **Decisión**. Cuando la Corte
+aceptara como demostrada alguna de las causales propuestas, dictará el fallo
+dentro de los sesenta (60) días siguientes a la audiencia de sustentación,
+contra el cual no procede ningún recurso ni acción, salvo la de
+revisión.
+
+La Corte está facultada para señalar en qué estado
+queda el proceso en el caso de determinar que éste pueda recuperar alguna
+vigencia. En caso contrario procederá a dictar el fallo que corresponda.
+
+Cuando la Corte adopte el fallo, dentro del mismo
+lapso o a más tardar dentro de los cinco (5) días siguientes, citará a
+audiencia para lectura del mismo.
+
+**II.
+LA DEMANDA**
+
+De
+acuerdo con el actor, la norma demandada vulnera los artículos 4º y 86 de la
+Carta Política. Esto es así por cuanto las sentencias de casación no son
+intangibles, inmodificables, ni intocables pues, en caso de que se haya
+incurrido en vías de hecho, procede contra ellas la acción de tutela como
+mecanismo de protección de los derechos fundamentales vulnerados. Así se
+infiere tanto del artículo 86 superior, que no prohíbe la acción de tutela
+contra sentencias, como del artículo 4º, de acuerdo con el cual la Carta
+Política es norma de normas. En ese marco, concluye el demandante, una norma
+legal que, como la demandada, dispone que contra la sentencia que resuelve el
+recurso extraordinario de casación no procede ninguna acción, salvo la de
+revisión, contraría manifiestamente el Texto Superior y debe ser retirada del
+ordenamiento jurídico.
+
+**III.
+INTERVENCIONES**
+
+**A. Del Instituto
+Colombiano de Derecho Procesal**
+
+Esta
+entidad se muestra de acuerdo con la demanda instaurada y le solicita a la
+Corte declarar inexequible la disposición acusada. Afirma que, en los términos
+del artículo 86 de la Constitución, la Sala Penal de la Corte Suprema de
+Justicia es una autoridad pública; que ésta, con sus acciones u omisiones,
+puede vulnerar derechos fundamentales y que por ello contra las sentencias que
+resuelven el recurso extraordinario de casación procede también la acción de
+tutela. De este modo, se afirma, como la norma demandada impide el ejercicio
+de esta acción contra tales pronunciamientos, es contraria a la Carta y debe
+ser declarada inexequible.
+
+**B. Del
+Ministerio del Interior y de Justicia**
+
+Este
+Ministerio le solicita a la Corte declarar exequible el aparte demandado del
+artículo 185 del Código de Procedimiento Penal. Esta solicitud se apoya en los
+siguientes argumentos:
+
+1.
+La casación tiene como objeto no sólo un fallo definitivo sino el contenido
+material del proceso mismo y de allí su carácter de acción tutelar del derecho
+sustancial y de las garantías procesales. Es decir, se trata de un recurso
+ligado al restablecimiento del imperio de la ley y de los derechos de los
+intervinientes en el proceso.
+
+2.
+Contra la sentencia de casación procede la acción de revisión y, por lo tanto,
+existiendo este medio de defensa judicial, no puede haber lugar a la acción de
+tutela, tal como lo plantea el demandante.
+
+3.
+La casación ha sido reformulada como un control constitucional y legal del
+fallo que procede, entre otras cosas, por falta de aplicación, aplicación
+indebida o interpretación errónea de una norma del bloque de
+constitucionalidad, constitucional o legal llamada a regular el caso.
+
+4.
+La revisión de la sentencia de casación mediante la acción de tutela afecta los
+principios de cosa juzgada y seguridad jurídica pues existe un derecho
+constitucional fundamental a la sentencia en firme y a la autoridad de la cosa
+juzgada como reglas del debido proceso. Este derecho se desconoce si se somete
+a los intervinientes a una incertidumbre permanente sobre el sentido de la
+decisión judicial del caso que los afecta, criterio admitido por la Corte en la
+Sentencia C-543-92.
+
+5.
+El legislador, de manera legítima, decidió que era suficiente para garantizar
+los derechos fundamentales de las personas, consagrar que contra la sentencia
+de casación no procedería acción alguna a excepción de la revisión, lo que
+armoniza con los mandatos constitucionales y con el principio de competencia
+funcional.
+
+6.
+De admitirse la acción de tutela contra la sentencia de casación, se
+desconocerían los principios de seguridad jurídica y cosa juzgada y se enviaría
+un mensaje equivocado para que toda persona a quien le fuera desfavorable ese
+fallo, acudiera a esa acción, prolongando de manera indefinida las actuaciones
+judiciales.
+
+**C.
+Del ciudadano Néstor Raúl Correa Henao**
+
+Este
+ciudadano le solicita a la Corte que declare la exequibilidad de la norma en lo
+acusado, pues si una sentencia de casación penal viola derechos fundamentales,
+contra ella procede la acción de revisión. Además, esta decisión acabaría con
+el “choque de trenes”, es compatible con el insignificante efecto práctico de
+la tutela contra sentencias de casación, disminuye la congestión en las Altas
+Cortes y le pone fin a la motivación que se esgrime para modificar el régimen
+del amparo constitucional.
+
+Ahora,
+si se entiende que las actuales causales de la acción de revisión no comprenden
+la violación de un derecho constitucional fundamental, debería declararse la
+constitucionalidad condicionada de la norma de tal manera que se asuma que esa
+acción procede también por la violación de un derecho de esa índole.
+
+Finalmente,
+solicita que se extiendan los efectos del fallo a proferir a las sentencias de
+casación de todas las Salas de Casación de la Corte Suprema de Justicia, así
+como a las sentencias definitivas de la Sala Plena de lo Contencioso Administrativo
+y de todas las Secciones del Consejo de Estado.
+
+**D.
+De la Facultad de Derecho de la Universidad Libre**
+
+Esta
+Facultad le solicita a la Corte declarar inexequible la norma legal, en lo
+demandado. Para ello esgrime los siguientes argumentos:
+
+1.
+El constituyente de 1991 consagró la acción de tutela sin limitación alguna
+para que toda persona pudiera reclamar ante los jueces la protección inmediata
+de sus derechos constitucionales fundamentales, cuando quiera que resultaran
+vulnerados o amenazados por la acción u omisión de cualquier autoridad,
+entendida ésta como autoridad pública que es el género y que comprende los
+actos y las omisiones judiciales y legislativas.
+
+2.
+La jurisprudencia constitucional admite la acción de tutela contra sentencias
+judiciales, sólo de manera excepcional, cuando en ellas se ha incurrido en vías
+de hecho; es decir, cuando se trata de sentencias abiertamente injustas. Esta
+postura es compatible con otros regímenes constitucionales como los de
+Alemania, México, Chile, Argentina, España, Japón y Canadá.
+
+3.
+El sistema elaborado por la jurisprudencia constitucional en torno a ese punto
+preserva el principio de seguridad jurídica, pero salva también el valor
+constitucional de la justicia y lo hace sometiendo a los jueces a la norma
+superior.
+
+**IV.
+CONCEPTO DE LA PROCURADURÍA GENERAL DE LA NACIÓN**
+
+Mediante
+auto de 3 de noviembre de 2004, la Corte aceptó los impedimentos formulados por
+el Procurador General de la Nación y por el Viceprocurador y ordenó la remisión
+del proceso al despacho de aquél para que designe un funcionario que rinda el
+correspondiente concepto. Esta designación recayó en la Procuradora Auxiliar
+para Asuntos Constitucionales. Esta servidora, en el concepto rendido, le
+solicitó a la Corte que se declare la constitucionalidad condicionada de la
+norma parcialmente demandada en el entendido que la restricción en ella
+consagrada hace referencia a las acciones legales y no a las constitucionales
+y, entre éstas, la acción de tutela consagrada en el artículo 86 superior. Los
+fundamentos de su solicitud son los siguientes:
+
+1.
+La facultad de ejercer la acción de revisión conforme a los términos
+establecidos en la norma acusada no permite afirmar que ella por sí misma haga
+improcedente el uso de acciones constitucionales como la acción de tutela,
+cuando se den los presupuestos para el efecto. Es decir, cuando el fallo de
+casación de la Corte Suprema de Justicia sea el resultado de una actuación
+arbitraria e ilegítima, violatoria de los derechos fundamentales, especialmente
+el debido proceso, debe proceder la acción que el constituyente diseñó para el
+efecto, que no es otra que la acción de tutela.
+
+2.
+El hecho que el legislador señale en el artículo acusado que no procederá
+ninguna acción, salvo la de revisión, ha de entenderse como la negación de las
+acciones legales concebidas y diseñadas por el legislador a partir de la
+cláusula general de competencia que le reconoce el artículo 150-2 de la Carta,
+pero sin que ello implique la improcedencia de la acción constitucional
+diseñada por el mismo constituyente para la defensa de los derechos
+fundamentales frente a actos violatorios de los mismos por parte de quienes
+están cumpliendo una función oficial. Sólo bajo este entendido es
+constitucional la expresión acusada del artículo 185 de la Ley 906 de 2004.
+Una interpretación contraria vulnera el artículo 86 superior.
+
+3.
+Cuando con la sentencia de casación se afecten derechos fundamentales, tornando
+el fallo en un acto arbitrario, es procedente el ejercicio de la acción de
+tutela, salvo si la violación está contemplada como una de las causales de la
+acción de revisión, porque en dicho evento ha de proceder ésta, salvo que la
+tutela se interponga como mecanismo transitorio, de conformidad con lo
+establecido en el numeral 1º del artículo 6º del Decreto 2591 de 1991.
+
+4.
+Esta alternativa hermenéutica es compatible con la jurisprudencia
+constitucional, pues ésta, desde la Sentencia C-543-92, admite, de manera
+excepcional, la tutela contra sentencias judiciales, incluidas las sentencias
+de casación penal, según lo evidencian, entre otras, las sentencias SU-1553-00,
+T-082-02 y T-678-03.
+
+**V.
+FUNDAMENTOS DE LA DECISIÓN**
+
+**A.
+Competencia de la Corte**
+
+De
+conformidad con lo dispuesto en el artículo 241, numeral 4o. de la Constitución
+Política, la Corte Constitucional es competente para conocer y decidir sobre la
+demanda de inconstitucionalidad de la referencia, pues la disposición acusada
+forma parte de una ley de la República, en este caso, de la Ley 906 de 2004.
+
+**B.
+Problema jurídico**
+
+En
+el debate de constitucionalidad suscitado en este proceso con ocasión de la
+demanda instaurada, se han asumido las siguientes posturas:
+
+El
+actor estima que la norma legal demandada impide que contra las sentencias que
+resuelven el recurso extraordinario de casación en materia penal proceda la
+acción de tutela y que ello contraría la Carta Política, fundamentalmente los
+artículos 4º y 86. Del mismo parecer son el Instituto Colombiano de Derecho
+Procesal y la Universidad Libre, entidades que, en sus intervenciones
+solicitan, con base en los mismos argumentos, que el aparte demandado del
+artículo 185 de la Ley 906 de 2004 sea expulsado del ordenamiento jurídico.
+
+El
+Ministerio del Interior y de Justicia, por su parte, solicita a la Corte que
+declare exequible esa disposición pues si contra la sentencia de casación
+procede el recurso extraordinario de revisión, no puede haber lugar a la acción
+de tutela, como lo plantea el demandante; mucho más si ese mecanismo de
+protección de los derechos fundamentales, en caso de aplicarse a la sentencia
+de casación, implica un sacrificio de la cosa juzgada y de la seguridad
+jurídica y un desconocimiento del derecho fundamental a la sentencia en firme.
+
+El
+ciudadano Néstor Raúl Correa Henao solicita a la Corte que declare exequible el
+aparte normativo acusado, o que module los efectos del fallo de tal manera que
+la acción de tutela proceda contra las sentencias de casación constitutivas de
+vía de hecho y que se extiendan los efectos de la sentencia de constitucionalidad
+que se profiera el régimen de la casación civil y laboral.
+
+Finalmente,
+la Procuraduría General de la Nación solicita a la Corte que condicione la constitucionalidad
+del aparte normativo demandado a que se entienda que contra la sentencia de
+casación lesiva de derechos fundamentales procede la acción de tutela. Estima
+que si bien es claro que una norma legal no puede limitar el alcance de los
+mecanismos de protección de derechos de raigambre constitucional, es posible
+una interpretación en contrario y ésta, por ser manifiestamente incompatible
+con la Carta, debe ser expulsada del ordenamiento jurídico.
+
+Pues
+bien, del debate constitucional suscitado se infiere que el problema jurídico
+que debe resolver la Corte con ocasión de la demanda instaurada es el
+siguiente:
+
+¿Una
+norma legal que dispone que contra la sentencia que resuelve el recurso
+extraordinario de casación en materia penal no procede recurso ni acción, salvo
+la de revisión; vulnera el principio de supremacía de la Constitución
+consagrado en el artículo 4º y la acción de tutela como mecanismo
+constitucional de protección de los derechos fundamentales, consagrado en el
+artículo 86 de la Carta Política?
+
+# C. Solución del problema jurídico planteado
+
+Para solucionar el
+problema jurídico que se le plantea a la Corte con ocasión de la demanda de
+inconstitucionalidad instaurada por el actor, se seguirá la siguiente
+metodología:
+
+1. Se realizarán
+algunas consideraciones sobre la índole jurídica del recurso extraordinario de
+casación.
+
+2. Se tendrá en cuenta
+el régimen de ese recurso extraordinario en el nuevo estatuto procesal penal.
+
+3.
+Fijado ese marco de análisis, se considerarán los cargos formulados contra el
+aparte demandado del artículo 185 de la Ley 906 de 2004. Para ello
+desarrollará los siguientes argumentos:
+
+a.
+Una ley ordinaria no puede
+modificar o suprimir la Constitución Política.
+
+b.
+La acción de tutela procede contra
+decisiones judiciales en los casos en que esta Corporación ha establecido.
+
+c.
+Al proferir la Sentencia C-543-92,
+la decisión de la Corte no fue excluir la tutela contra decisiones judiciales.
+
+d.
+La procedencia de la acción de
+tutela contra decisiones judiciales está legitimada no sólo por la Carta
+Política sino también por el Pacto Internacional de Derechos Civiles y
+Políticos y por la Convención Americana de Derechos Humanos.
+
+e.
+Finalmente, los argumentos
+expuestos contra la procedencia de la acción de tutela contra decisiones
+judiciales son fácilmente rebatibles.
+
+**1.
+Índole del recurso extraordinario de casación**
+
+1.
+Bien se sabe que los jueces se encuentran sometidos al principio de legalidad y
+que cada sentencia debe implicar la aplicación de las normas legales generales
+y abstractas a supuestos fácticos específicos. En este sentido, la sentencia
+debe ser la concreción de la ley al caso sometido a juzgamiento. No obstante,
+puede ocurrir que la sentencia, en lugar de constituir un supuesto de
+aplicación de la ley, resulte violatoria de ella. Frente a este tipo de
+eventos surge el recurso de casación como un remedio extraordinario contra las violaciones
+de la ley contenidas en las sentencias de mérito. De allí que el recurso de
+casación plantee un juicio de legalidad contra la sentencia proferida en un
+proceso penal.
+
+En
+ese sentido, el recurso de casación constituye un mecanismo extraordinario e
+interno de control jurisdiccional de la legalidad de los fallos. Se trata de
+un mecanismo de control, por cuanto a través de él se asegura la sujeción de
+los fallos judiciales a la ley que los gobierna. Es extraordinario, por cuanto
+se surte por fuera de las instancias en tanto no plantea una nueva
+consideración de lo que fue objeto de debate en ellas, sino un juicio de valor
+contra la sentencia que puso fin al proceso por haberse proferido con violación
+de la ley. Es interno, por cuanto se surte al interior de cada jurisdicción,
+siendo el competente para tramitarlo y resolverlo el Tribunal de Casación.
+Finalmente, implica un juicio de valor que exige la confrontación de la
+sentencia con la ley.
+
+2.
+Desde sus orígenes, que, no obstante algunas instituciones precedentes en el
+antiguo régimen, se remontan a la Revolución Francesa, la casación se concibió
+como un ámbito de defensa de la legalidad en virtud del cual se superan las
+violaciones de la ley contenidas en las sentencias de mérito. En razón de
+ello, el recurso de casación se asumió como una institución emblemática de la
+modernidad política y, además, adquirió una impronta garantista. Dos
+situaciones explican el carácter con el que surgió el recurso extraordinario de
+casación. Por una parte, el giro que se presentó en la formulación del derecho
+positivo, pues por tal dejó de considerarse la manifestación de la sola
+voluntad del soberano y en su lugar se tomó, de la mano del contractualismo
+clásico y fundamentalmente de Rousseau, como la expresión de la voluntad
+general del pueblo. Y, por otra parte, la igualdad de todos los ciudadanos
+ante la ley, que, de proclama revolucionaria, pasó luego a convertirse en un
+derecho expresamente reconocido en la Declaración de 1789[1].
+En este contexto, cuando a través de la casación se controlaba que las
+sentencias proferidas por los jueces fuesen respetuosas de la ley, lo que se
+hacía era estructurar y dinamizar un instrumento normativo que permitía
+reforzar esa concepción de la ley y su aplicación igualitaria. En efecto, aún
+hoy, cuando se casa una sentencia judicial se hace primar la voluntad general
+expresada en la ley sobre la voluntad individual del juez y se le asegura al
+ciudadano que esa ley se aplica a todos con sentido igualitario.
+
+Desde
+entonces se ha apostado por la casación como un mecanismo por medio del cual se
+asegura la sujeción de los jueces a la ley y, por esa vía, se mantiene el
+efecto vinculante del derecho positivo. De allí que la Corte de Casación se
+haya consolidado como un órgano de disciplina que asegura la observancia de la
+ley en la administración de justicia y, por esa vía, como un realizador del
+principio de igualdad en su aplicación, pues al unificar su interpretación evita
+decisiones judiciales desarmónicas o incluso contradictorias.
+
+**2.
+El recurso extraordinario de casación en el nuevo sistema procesal penal**
+
+3.
+En la Ley 906 de 2004, por medio de la cual se expide el nuevo Código de
+Procedimiento Penal, el recurso de casación fue constituido como un control
+constitucional y legal que procede contra las sentencias proferidas en segunda
+instancia en los procesos adelantados por delitos, cuando afectan derechos o
+garantías fundamentales (Artículo 181). En torno a esta índole de la casación
+la Corte advierte varias situaciones que deben destacarse.
+
+4.
+En primer lugar, el recurso se concibe como un control, es decir, como un
+instrumento a través del cual se exige el respeto de un ámbito normativo en el
+ejercicio del poder inherente a la jurisdicción. Esto, desde luego, no es
+nuevo, pues desde su momento originario el recurso extraordinario de casación
+se asumió como una instancia de control de la judicatura. De este modo, cuando
+en la nueva normatividad se está aludiendo a ese recurso extraordinario como un
+control se está siendo fiel con su origen y con su posterior evolución ya que
+aún hoy ese recurso tiene una impronta disciplinante en la labor de aplicación
+de la ley, propia de la judicatura.
+
+5.
+De otra parte, en la nueva regulación, se especifica el ámbito normativo
+respecto al cual se ejerce el control de las sentencias de los jueces, pues se
+indica expresamente que la casación constituye un control constitucional y
+legal.
+
+Esta
+especificación expresa del parámetro de control que se aplica a las sentencias
+recurridas en casación también es novedosa y podría dar lugar a inferir que en
+el nuevo sistema la casación penal tiene un alcance más amplio a aquél que le era
+inherente en regímenes anteriores, pues se controlan ya no sólo las
+infracciones de la ley sino también de la Carta y del bloque de
+constitucionalidad, según se infiere del numeral 1 del artículo 181. No
+obstante, esta apreciación no sería exacta pues la referencia a la ley que,
+como parámetro de control, se hacía en los anteriores regímenes de la casación
+se entendía en un sentido amplio, que comprendía, desde luego, las infracciones
+de la Carta Política por los jueces en sus sentencias[2].
+Esa es la razón por la que en la Corte Suprema de Justicia se concibió, por
+ejemplo, la doctrina de las nulidades jurisprudenciales de origen
+constitucional, a través de la cual se invalidaban, en sede de casación, los
+procesos en los que se habían desconocido las garantías constitucionales de
+trascendencia procesal, a pesar de que no habían sido previstas como causales
+taxativas de nulidad en la legislación procesal penal de ese entonces[3].
+
+De
+todas maneras, para la Corte es claro que la expresa configuración legal de la
+casación penal como “*control constitucional y legal*” evidencia el
+propósito de adecuar el instituto, de una manera mucho más directa, a
+referentes constitucionales. Es decir, al concebir el recurso extraordinario
+de casación como un control constitucional y legal, se está evidenciando que la
+legitimidad de la sentencia debe determinarse no sólo a partir de disposiciones
+legales sustanciales y procesales, sino también respecto de normas
+constitucionales en tanto parámetros de validez de aquellas. Y esto, en la
+estructura y dinámica de las democracias constitucionales, es comprensible pues
+de la misma manera como la legitimidad de la ley, incluida, desde luego, la ley
+penal, no se infiere de sí misma sino de su compatibilidad con el Texto
+Fundamental; así también, la legitimidad de las sentencias judiciales debe
+soportarse tanto en la ley como en el ámbito de validez de ésta.
+
+6.
+Además de lo expuesto, el recurso de casación procede contra las sentencias
+proferidas en segunda instancia en los procesos adelantados por delitos. En
+este punto, es evidente que se prescindió de presupuestos formales que limitan
+la procedencia del recurso, regla que marca una gran distancia con regímenes
+anteriores en los que esa procedencia estaba supeditada al cumplimiento de
+exigencias generalmente relacionadas con la competencia del juez de segunda
+instancia que profirió el fallo y con la pena imponible al delito. A
+diferencia de tal régimen, en el actual ese tipo de condicionamientos
+procesales del instituto desaparecieron.
+
+Esta
+nueva regulación permite que todos los problemas planteados en sede de
+aplicación de la ley penal puedan debatirse en casación y ello
+independientemente de la punibilidad fijada para el tipo penal de que se trate
+o de la competencia establecida para su conocimiento. De esta manera, se
+facilita que la Corte Suprema de Justicia realice los fines del recurso
+extraordinario de casación, no sólo respecto de ámbitos delimitados por
+presupuestos estrictamente formales, sino en consideración a los problemas de
+fondo planteados en todo supuesto de aplicación de la ley penal contenido en
+una sentencia de segunda instancia.
+
+Con
+todo, se impone precisar que la procedencia de la casación contra todas las
+sentencias proferidas en segunda instancia en procesos adelantados por delitos,
+se ha armonizado con el reconocimiento de una facultad de selección a la Sala
+Penal de la Corte Suprema de Justicia (Artículo 184, Ley 906 de 2004). En
+efecto, el Código de Procedimiento Penal permite que la Corte Suprema de
+Justicia no seleccione aquellas demandas de casación en las que el demandante
+carezca de interés, se prescinda de señalar la causal, no se desarrollen los
+cargos o cuando se advierta fundadamente que no se precisa del fallo para
+cumplir algunas finalidades del recurso. De esta forma se procura mantener un
+punto de equilibrio entre la procedencia del recurso contra todas las
+sentencias de segunda instancia, de tal manera que se asegure que los fines de
+la casación se realicen sin consideración a límites formales, pero, al mismo
+tiempo, se fijan unos parámetros que racionalizan el recurso.
+
+7.
+De otro lado, el recurso extraordinario de casación procede cuando las
+sentencias penales de segunda instancia afectan derechos o garantías
+fundamentales. Esta contextualización es compatible con el sentido que se le
+imprimió al recurso pues, tratándose de un control constitucional y legal, es
+evidente que la legitimidad de la sentencia se supedita al respeto de los
+derechos y las garantías fundamentales -tanto sustanciales como procesales-
+que están en juego en el proceso penal.
+
+Es
+decir, si los derechos fundamentales, en tanto ámbitos de afirmación y
+realización de la dignidad del hombre y de la democracia participativa y
+pluralista, constituyen el fundamento y límite del poder público, incluido el
+poder punitivo del Estado; cae de su peso que el respeto de esos derechos
+constituye un parámetro de control de los actos de la jurisdicción y,
+particularmente, de las sentencias. Por lo tanto, si la casación penal es hoy
+un control de constitucionalidad y legalidad de los fallos penales, ese control
+pasa, de manera necesaria e ineludible, por la verificación del respeto de los
+derechos de esa índole que están en juego en el proceso penal.
+
+8.
+En este entendido, la afectación de derechos o garantías fundamentales se
+convierte en la razón de ser del juicio de constitucionalidad y legalidad que,
+a la manera de recurso extraordinario, se formula contra la sentencia. O lo
+que es lo mismo, lo que legitima la interposición de una demanda de casación es
+la emisión de una sentencia penal de segunda instancia en la que se han
+vulnerado derechos o garantías fundamentales. Precisamente por ello se ha
+presentado también una reformulación de las causales de casación, pues éstas,
+en la nueva normatividad, sólo constituyen supuestos específicos de afectación
+de tales garantías o derechos. En efecto:
+
+a.
+La causal primera recoge los supuestos de violación de derechos o garantías
+fundamentales por falta de aplicación, interpretación errónea o aplicación
+indebida de una norma del bloque de constitucionalidad, constitucional o legal,
+llamada a regular el caso. Adviértase cómo, en esta causal, se hace una
+referencia expresa a normas del bloque de constitucionalidad o constitucionales;
+referencia que resulta compatible con la índole del recurso como juicio de
+constitucionalidad y legalidad contra la sentencia. Carecería de sentido que,
+a pesar de habérsele conferido ese alcance tan relevante, sólo hubiera lugar a
+la casación penal por infracción de normas legales y no de otras normas
+superiores.
+
+b.
+La causal segunda recoge los supuestos de violación de derechos o garantías
+fundamentales en el ámbito específico del debido proceso y del derecho de
+defensa, pues ella remite al desconocimiento del debido proceso por afectación
+sustancial de su estructura o de la garantía debida a cualquiera de las
+partes. En esta sede ha quedado regulada ahora la emisión de la sentencia en
+un proceso viciado de nulidad por afectación de la estructura básica del
+proceso penal o por afectación de las garantías que les asisten a las partes,
+tal como ocurre con el derecho de defensa del imputado o con los derechos de la
+víctima en el proceso penal.
+
+c.
+Finalmente, la causal tercera recoge supuestos de violación de derechos o
+garantías fundamentales por el manifiesto desconocimiento de las reglas de
+producción y apreciación de la prueba sobre la cual se ha fundado la
+sentencia. De este modo, el desconocimiento del régimen constitucional y legal
+de la prueba deja de ser un supuesto de infracción indirecta de la ley
+sustancial y se convierte en una causal autónoma para cuestionar la validez
+constitucional y legal del fallo. El redimensionamiento de esta causal de
+casación es compatible con la potenciación de los fundamentos constitucionales
+de las pruebas penales, entre los que ocupan lugar preponderante ya no sólo el
+derecho de toda persona a presentar pruebas y a controvertir las que se
+presenten en su contra, el mandato de exclusión de la prueba ilícita y el
+mandato de no autoincriminación consagrados en los artículos 29 y 33 de la
+Carta, sino también los principios de publicidad, oralidad, inmediación,
+contradicción y concentración y la necesidad de autorización por parte del juez
+que ejerza las funciones de control de garantías para toda medida que afecte
+derechos fundamentales y respecto de la cual la Fiscalía General no cuente con
+atribuciones constitucionales; principios y necesidad consagrados en el
+artículo 250 superior, numerales 4 y 3, respectivamente.
+
+Para
+concluir este punto, hay que indicar que en el nuevo régimen de la casación
+penal se mantiene una norma de reenvío al régimen legal de la casación civil
+cuando aquella únicamente tiene por objeto la reparación integral decretada en
+la providencia que resuelve el incidente de que dan cuenta los artículos 102 a
+108 de la Ley 906 de 2004.
+
+9.
+De acuerdo con el nuevo régimen de procedimiento penal, el recurso
+extraordinario de casación pretende la efectividad del derecho material, el
+respeto de las garantías de los intervinientes, la reparación de los agravios
+inferidos a estos y la unificación de la jurisprudencia (Artículo 180, Ley 906
+de 2004). De este modo, los vicios de procedimiento o de juicio que se
+formulan contra una sentencia penal de segunda instancia se dirigen a que, con
+la mediación del Tribunal de Casación, en un supuesto específico, se realicen
+los fines del proceso penal y se unifique la jurisprudencia.
+
+En
+cuanto a la realización de los fines del proceso penal como finalidad del
+recurso extraordinario de casación hay que indicar que las normas de derecho
+material o sustancial sólo son efectivas y las garantías de los intervinientes
+se respetan:
+
+a.
+Si en un supuesto específico se reconstruye la verdad histórica; es decir, si
+se hace claridad sobre los hechos penalmente relevantes acaecidos, pues el
+proceso penal de una democracia constitucional no puede renunciar al
+conocimiento de la verdad como presupuesto ineludible para la realización de la
+justicia penal.
+
+b.
+Si, sobre la base de esa reconstrucción histórica de lo acaecido, se hace
+justicia, bien manteniendo el efecto vinculante del principio de presunción de
+inocencia que ampara a todo imputado, cuando no hay manera de desvirtuarlo, o
+bien declarando su responsabilidad penal si ella está demostrada, pues de esta
+manera se le cierra el paso a la impunidad.
+
+c.
+Si al interior del proceso se reconocen y realizan los derechos que amparan a
+los intervinientes en el proceso penal, fundamentalmente los derechos que le
+asisten al imputado, en tanto sujeto de imputación penal, y los de la víctima,
+en tanto titular de los bienes jurídicos vulnerados o puestos en peligro con
+ocasión del delito.
+
+De
+acuerdo con ello, si en el curso de las instancias de un proceso se ha renegado
+de los fines del proceso penal y se ha llegado a una sentencia que se abstiene
+de realizarlos, es legítimo que a través del recurso extraordinario de casación
+se adecue el proceso a la Constitución y a la ley y que se lo realice de tal
+manera que se haga de aquél un supuesto de afirmación y no de negación de estos
+ámbitos normativos vinculantes.
+
+Por
+otra parte, la casación se orienta también a la unificación de la
+jurisprudencia, pues el sistema penal de una democracia asume unos costos muy
+altos en el ámbito de su propia legitimidad cuando proliferan múltiples
+interpretaciones de la ley penal que, frente a casos específicos, terminan por
+sacrificar los principios de seguridad jurídica e igualdad. Por ello, en aras
+del respeto del principio de legalidad por parte de jueces y tribunales y de la
+realización del derecho de toda persona a una igualitaria aplicación de la ley
+penal, es que el recurso extraordinario de casación se orienta a la promoción
+de la interpretación uniforme de la ley. Esta finalidad tiene un efecto
+irradiador sobre los niveles inferiores de la jurisdicción, en virtud del cual
+a éstos se les impone una muy exigente carga argumentativa, superior a la
+emprendida por la Corte de Casación, para que les resulte legítimo apartarse de
+esa interpretación de la ley penal pues, como se lo indicó en la Sentencia
+SU-120-03, M. P. Álvaro Tafur Galvis:
+
+i) Una misma autoridad judicial –individual o
+colegiada- no puede introducir cambios a sus decisiones sin la debida
+justificación, ii) los jueces no pueden apartarse por su sola voluntad de las
+interpretaciones que sobre el mismo asunto ha hecho la Corte Suprema de
+Justicia, y iii) ésta no puede renunciar a su labor de darle unidad al
+ordenamiento jurídico. Es que los asociados requieren
+confiar en el ordenamiento para proyectar sus actuaciones, de manera que tanto
+las modificaciones legales, como las mutaciones en las interpretaciones
+judiciales deben estar acompañadas de un mínimo de seguridad –artículo 58 C.
+P.-, en consecuencia los jueces actúan arbitrariamente y por ello incurren en
+vía de hecho, cuando se apartan, sin más, de la doctrina probable al
+interpretar el ordenamiento jurídico.
+
+10.
+En cuanto al procedimiento diseñado por el legislador para el recurso
+extraordinario de casación, se tiene lo siguiente:
+
+a.
+Están legitimados para recurrir en casación los intervinientes que tengan
+interés. Es decir, pueden hacerlo la Fiscalía General de la Nación, el defensor
+y el imputado (Artículos 114.13, 125.7 y 130, respectivamente, de la Ley 906
+de 2004).
+
+b.
+El recurso debe interponerse dentro de los 60 días siguientes a la última
+notificación de la sentencia y para ello debe presentarse una demanda que
+contenga de manera precisa y concisa las causales invocadas y sus fundamentos
+(Artículo 183 de la Ley 906 de 2004). Para la Corte es evidente el propósito
+del legislador de despojar al recurso extraordinario de casación del carácter
+rígido y formalista que le había caracterizado. De allí que se exija la
+presentación de una demanda en la que se indiquen las causales invocadas y los
+fundamentos que se esgrimen, exigencias que resultan compatibles con la nueva
+sistemática de las causales que dan lugar a la interposición del recurso.
+
+c.
+La Corte Suprema decide en 30 días acerca de la admisión de la demanda y, como
+se indicó, está facultada para no seleccionarla, mediante auto que admite
+insistencia, cuando el demandante carece de interés, no señala la causal, no
+desarrolla los cargos o no se precisa del fallo de casación para cumplir alguna
+de las finalidades del recurso (Artículo 184 de la Ley 906 de 2004).
+
+La
+ley dispone que la Corte no puede tener en cuenta causales diferentes que las
+alegadas por el demandante. Pero eso sólo es “*en principio*” pues, a
+renglón seguido dispone que “*deberá superar los defectos de la demanda para
+decidir de fondo*” y señala los parámetros que debe tener en cuenta para
+proceder de esa forma y que son los fines de la casación, su fundamentación, la
+posición del impugnante dentro del proceso y la naturaleza de la controversia
+planteada.
+
+En
+los 30 días siguientes se realiza una audiencia de sustentación del recurso,
+acto al que pueden acudir los no recurrentes para ejercer el derecho de
+contradicción dentro de los límites de la demanda.
+
+d)
+El artículo 185 regula lo relacionado con la decisión del recurso
+extraordinario de casación. Esta norma dispone lo siguiente:
+
+Artículo 185. **Decisión**. Cuando la Corte
+aceptare como demostrada alguna de las causales propuestas, dictará el fallo
+dentro de los sesenta (60) días siguientes a la audiencia de sustentación,
+contra el cual no procede ningún recurso ni acción, salvo la de revisión.
+
+La Corte está facultada para señalar en qué estado queda
+el proceso en el caso de determinar que éste pueda recuperar alguna vigencia.
+En caso contrario procederá a dictar el fallo que corresponda.
+
+Cuando la Corte adopte el fallo, dentro del mismo
+lapso o a más tardar dentro de los cinco (5) días siguientes, citará a
+audiencia para lectura del mismo.
+
+Con
+posterioridad se regulan aspectos relacionados con la acumulación de varias
+demandas para ser decididas en una sola sentencia, la extensión del recurso a
+los no recurrentes en cuanto les sea favorable, la no agravación de la pena
+cuando el condenado fuese recurrente único, la suspensión del término de
+prescripción con la sentencia de segunda instancia y una nueva contabilización
+de este término hasta por cinco años, el mantenimiento de la competencia del
+juez de primera instancia para resolver sobre la libertad y demás asuntos no
+vinculados con la impugnación y la facultad de la Corte de anticipar turnos
+para emitir sus fallos por razones de interés general (Artículos 186 a 191 de la
+Ley 906 de 2004).
+
+**3.
+Consideración del cargo formulado**
+
+**a.
+Una ley ordinaria no puede modificar o suprimir la Constitución Política**
+
+11.
+La Constitución colombiana de 1991 al consagrar y regular la acción de tutela
+estableció claramente su ámbito de aplicación. En efecto, según el artículo 86
+de la Carta la tutela procederá, de manera subsidiaria y expedita, para
+proteger los derechos fundamentales de todas las personas contra posibles
+vulneraciones producidas por una acción u omisión de cualquier autoridad
+pública. Al respecto dijo la norma citada:
+
+Toda persona tendrá acción de
+tutela para reclamar ante los jueces, en todo momento y lugar, mediante un
+procedimiento preferente y sumario, por sí misma y por quién actúe en su
+nombre, la protección inmediata de sus derechos constitucionales fundamentales,
+cuando quiera que estos resulten vulnerados o amenazados por la acción o la
+omisión de cualquier autoridad pública (...) Esta acción sólo procederá
+cuando el afectado no disponga de otro medio de defensa judicial, salvo que
+aquella se utilice como mecanismo transitorio para evitar un perjuicio
+irremediable.
+
+Una
+lectura simple de este artículo permite concluir, sin mayor dificultad, que el
+ámbito constitucional de aplicación de la acción de tutela incluye la tutela
+contra decisiones judiciales. En efecto, si se acepta que las autoridades
+judiciales son autoridades públicas, no cabe duda alguna sobre la procedencia
+de la acción de tutela para proteger, de manera subsidiaria, los derechos
+fundamentales que puedan resultar vulnerados o amenazados por cualquier acción
+u omisión de los jueces de la República. En este sentido, la tutela en
+Colombia. -como el amparo en España o el recurso de constitucionalidad en
+Alemania-, es una acción judicial autónoma, residual y subsidiaria, creada para
+asegurar la eficacia prevalente de los derechos fundamentales en todos los
+ámbitos en los cuales dichos derechos puedan resultar vulnerados -incluyendo el
+ámbito judicial-, que procederá sólo cuando se hubieren agotado todos los
+medios ordinarios o extraordinarios para su defensa o, excepcionalmente, cuando
+la protección resulte urgente para evitar un perjuicio irremediable.
+
+En
+la citada norma superior es evidente que el constituyente no realizó
+distinciones entre los distintos ámbitos de la función pública, con el fin de
+excluir a alguno o algunos de ellos de la procedencia de ese mecanismo de
+protección de los derechos fundamentales. Precisamente por ello en la norma
+superior indicada se habla de “cualquier” autoridad pública. Siendo ello
+así, la acción de tutela procede también contra los actos que son manifestación
+del ámbito de poder inherente a la función jurisdiccional y específicamente
+contra las decisiones judiciales, pues los jueces y tribunales, en su cotidiana
+tarea de aplicación del derecho a supuestos particulares, bien pueden proferir
+decisiones que se tornen constitucionalmente relevantes por desbordar el
+estricto marco de aplicación de la ley y afectar derechos fundamentales.
+
+Ese
+tipo de decisiones legitiman la intervención de los jueces constitucionales en
+tales procesos, aunque, desde luego, no para resolver el supuesto específico de
+aplicación de la ley que concierne al caso planteado, sino para resolver la
+controversia suscitada con ocasión de la vulneración o amenaza de derechos
+fundamentales.
+
+12.
+Desde luego, una comprensión de la Constitución como sistema normativo plantea
+la necesidad de armonizar la procedencia de la acción de tutela contra ese tipo
+de pronunciamientos con principios constitucionales como el de seguridad
+jurídica, con la distribución superior de competencias y con otros principios
+específicos de la jurisdicción, también de índole constitucional, como los de
+autonomía e independencia.
+
+De
+ese modo, si se equilibran, por una parte, la índole constitucional de la
+acción de tutela como mecanismo diseñado por el propio constituyente para la
+protección de los derechos fundamentales, con, por otra parte, los demás
+principios constitucionales y con los fundamentos superiores de la
+administración de justicia, la conclusión a la que se arriba es que la
+procedencia de la acción de tutela contra las decisiones tomadas por la
+jurisdicción debe ser excepcional, es decir, debe limitarse a aquellos casos
+que efectivamente configuren una lesión o una puesta en peligro de derechos
+fundamentales. Sobre este punto, ese es el alcance de la Carta Política de
+1991 y de esa manera ha sido interpretada por esta Corporación.
+
+13.
+Ahora, es claro que ese régimen constitucional de la acción de tutela, por
+estar previsto en la Constitución y por estar ésta dotada de valor normativo
+-al punto que se trata, justamente, de la norma suprema del ordenamiento
+jurídico- no puede ser interferido por el legislador con miras a restringir su
+ámbito de aplicación. Es decir, una ley ordinaria no puede, bajo ninguna
+circunstancia, modificar o suprimir la Constitución Política y mucho menos uno
+de los mecanismos constitucionales de protección de los derechos
+fundamentales. Y esta última precisión se hace dado que la Carta de 1991
+concibe tales derechos como razón de ser, como fundamento y límite del poder
+que el pueblo delegó en las autoridades y, siendo ello así, si al alcance del
+legislador no está ninguna norma superior, mucho menos lo están aquellas que
+tocan directamente con aspectos que resultan inescindibles al Estado
+constitucional de derecho.
+
+Adviértase
+que la Constitución consagró reserva de ley estatutaria para el desarrollo y
+ampliación de los derechos fundamentales y de sus mecanismos de protección. De
+acuerdo con esto, se trata de un tema tan vertebral a la democracia constitucional
+colombiana, que incluso el desarrollo y la ampliación de los mecanismos de
+protección de esos derechos fueron sometidos al procedimiento legislativo
+cualificado y al control judicial previo inherente a las leyes estatutarias.
+Luego, si sobre ese ámbito procede la reserva de ley estatutaria, es evidente
+que el legislador ordinario no tiene competencia alguna para regular un espacio
+vital tan sensible como ese.
+
+14.
+En ese contexto, esto es, si la acción de tutela es un mecanismo de protección
+de los derechos fundamentales concebido directamente por el poder constituyente
+colombiano; si éste, aparte de consagrar ese mecanismo, instituyó también su
+ámbito de aplicación; si de éste ámbito no excluyó la función jurisdiccional y,
+en consecuencia, las decisiones de los jueces y tribunales y si consagró una
+reserva de ley estatutaria para su regulación y ampliación, incluidos sus
+mecanismos de protección, es claro que el legislador ordinario no tiene
+atribución alguna para interferir ese régimen constitucional y mucho menos para
+restringir el ámbito de aplicación de la acción de tutela, atribución está que
+ni siquiera le ha sido reconocida al legislador estatutario.
+
+15.
+Si en este contexto se considera el debate suscitado en este proceso de
+constitucionalidad, se tiene que el actor demanda la expresión “*ni acción*”
+que hace parte del artículo 185 de la Ley 906 de 2004, en el que se regulan
+aspectos relacionados con la sentencia que decide el recurso extraordinario de
+casación. En el contexto de ese artículo, el aparte demandado impide la
+procedencia de recursos o acciones contra la sentencia de casación, excepto la
+acción de revisión.
+
+16.
+Ahora bien, ¿qué alcance debe dársele a la expresión “*ni acción*” que
+hace parte del artículo 185 ya citado? En principio, podría entenderse como
+una alusión a acciones legales. No obstante, la única acción legal que procede
+contra la sentencia que decide el recurso extraordinario de casación es la de
+revisión.
+
+En
+efecto, según el artículo 192 de la Ley 906 de 2004 la acción de revisión “*procede
+contra sentencias ejecutoriadas*” en los siete supuestos allí indicados y la
+sentencia que resuelve la casación es precisamente una sentencia ejecutoriada.
+Sin embargo, esa acción es justamente la que se ha exceptuado de la
+prohibición contenida en la norma. Si ello es así, el aparte normativo
+demandado carecería de sentido pues dispone que no proceden acciones legales
+contra la sentencia de casación a pesar de que el mismo sistema procesal penal
+no consagra acciones legales contra ese fallo, a excepción de la revisión, la
+que se excluye expresamente del ámbito de esa prohibición.
+
+De
+este modo, es claro que la referencia que se hace a la improcedencia de
+recursos y acciones contra la sentencia que resuelve el recurso extraordinario
+de casación no alude a acción legal alguna.
+
+17.
+En ese orden de ideas, la única posibilidad de que esa regla jurídica se dote
+de sentido es que la expresión “*ni acción*” que hace parte del artículo
+185 de la Ley 906 de 2004 se tome como una alusión a acciones constitucionales
+y, en especial, como una excepción a la acción de tutela. Es decir, en virtud
+de esa regla de derecho, la acción de tutela no procede contra la sentencia de
+casación.
+
+Para
+apoyar esta tesis podría invocarse el carácter de la casación como control
+constitucional y legal del fallo. En virtud de ese alcance de la casación
+penal, podría argumentarse, es coherente que contra la sentencia que desata ese
+recurso extraordinario no proceda la acción de tutela, pues si ese recurso
+plantea un control de constitucionalidad y legalidad de la sentencia, no
+tendría sentido un nuevo recurso con miras a la protección de los derechos y
+garantías fundamentales.
+
+18.
+No obstante, este punto de vista es equivocado, pues desconoce la supremacía
+que la Constitución ejerce sobre la ley en la democracia constitucional
+colombiana. Ello es así en tanto, por medio de una norma legal, se restringiría
+el alcance de un mecanismo constitucional que, como la acción de tutela, fue
+diseñado para la protección de los derechos fundamentales. En efecto, en tanto
+que el artículo 86 superior ordena que la acción de tutela procede contra la
+acción u omisión de cualquier autoridad pública que afecte o amenace derechos
+fundamentales, incluidas, como se ha visto, las autoridades judiciales; la
+norma legal parcialmente cuestionada estaría restringiendo la procedencia de
+esa acción constitucional contra la sentencia que decide el recurso
+extraordinario de casación.
+
+Además,
+ese argumento pierde de vista que no existe incompatibilidad entre el recurso
+extraordinario de casación y la acción de tutela, pues todos los recursos
+judiciales configurados por el ordenamiento jurídico se orientan, de una manera
+u otra, a la defensa de los derechos fundamentales. Como se indicó, si bien la
+casación, al interior de cada jurisdicción es un recurso extraordinario contra
+la sentencia, desde una perspectiva constitucional es un medio judicial
+ordinario de defensa de los derechos fundamentales. Por ello, la acción de
+tutela es importante como mecanismo constitucional subsidiario de protección de
+tales derechos, pues se potencia cuando aquellos han resultado ineficaces. Es
+decir, si el recurso extraordinario de casación no resulta un medio judicial
+idóneo y eficaz de protección de los derechos y garantías fundamentales
+afectados en el proceso penal y la sentencia que lo resuelve desconoce esa
+situación, nada impide que el afectado acuda ante la jurisdicción
+constitucional en demanda de amparo para tales derechos.
+
+En
+este sentido, por ejemplo, un imputado al que se le ha vulnerado el derecho de
+defensa por no haber estado asistido por defensor en el momento de la
+formulación de la imputación, puede solicitar, al interior de ese mismo
+proceso, la anulación de la actuación y contra la decisión que se profiera
+puede interponer los recursos legales ordinarios. Pero si no obstante esa
+situación, la actuación no es invalidada, nada se opone a que luego intente, en
+sede de casación, la invalidación de la sentencia y del proceso en el que ella
+se dictó. Y si en esta sede no se atiende su pedimento y concurren los exigentes
+presupuestos necesarios para ello, bien puede interponer acción de tutela en
+procura de protección del derecho fundamental al debido proceso.
+
+Entonces,
+nótese cómo no existe incompatibilidad sino armonía entre la concepción de la
+casación como un control de constitucionalidad y legalidad del fallo lesivo de
+derechos y garantías fundamentales y la acción de tutela, como mecanismo
+constitucional subsidiario de protección de los derechos fundamentales.
+
+19.
+En estas condiciones, es manifiesta la inconstitucionalidad del aparte
+demandado del artículo 185 de la Ley 906 de 2004 ya que al indicar que contra
+la sentencia que resuelve el recurso extraordinario de casación en materia
+penal “no procede ningún recurso ni acción, salvo la de revisión”, está
+excluyendo la procedencia de la acción de tutela contra ese tipo de
+pronunciamientos y con ello, qué duda cabe, está contrariando el artículo 86 de
+la Carta Política ya que, como se ha visto, esta norma no excluye tales
+pronunciamientos de ese mecanismo de protección de los derechos fundamentales.
+Es decir, en tanto que la voluntad del constituyente expresada en la norma
+superior ya indicada fue que la acción de tutela se aplicara respecto de los
+actos y omisiones de las autoridades públicas, incluidas las judiciales, el
+legislador ha tomado la decisión, manifiesta en la norma demandada, de excluir
+de la procedencia de ese recurso las sentencias que resuelven la casación
+penal.
+
+Entonces,
+como es claro que una ley ordinaria no puede, bajo ninguna circunstancia,
+modificar o suprimir la Constitución Política y mucho menos uno de los
+mecanismos constitucionales de protección de los derechos fundamentales, la
+expresión “ni acción” que hace parte del artículo 185 de la Ley 906 de 2004
+será expulsada del ordenamiento jurídico pues genera un espacio institucional
+en el que los derechos fundamentales no podrían ser protegidos.
+
+**b.
+La acción de tutela procede contra decisiones judiciales en los casos que la
+Corte Constitucional ha establecido**
+
+20.
+Como se indicó, según el artículo 86 de la Carta Política, la acción de tutela
+es un mecanismo concebido para la protección inmediata de los derechos
+constitucionales fundamentales, “*cuando quiera que estos resulten vulnerados
+o amenazados por la acción o la omisión de cualquier autoridad pública*”.
+Este mecanismo de protección de los derechos fundamentales ha permitido entre
+nosotros afirmar el carácter vinculante de la Carta Política y ha dotado a
+todas las personas de un verdadero resorte institucional que les permite acudir
+ante los jueces para exigir el respeto de tales derechos.
+
+De
+este modo, los derechos fundamentales, otrora sólo objeto de consagración
+normativa y discusión académica, hoy se asumen como facultades inviolables en
+tanto manifestaciones de la dignidad humana que vinculan a los poderes públicos
+e incluso, en algunos casos, a los particulares y que son susceptibles de
+judicializarse en aras de su reconocimiento efectivo gracias a un procedimiento
+preferente y sumario. Por ello, si la principal característica del
+constitucionalismo contemporáneo viene determinada por el reconocimiento del
+carácter normativo de los Textos Fundamentales, no puede desconocerse que la
+exigibilidad de las normas constitucionales que consagran derechos
+fundamentales, frente a supuestos específicos de vulneración o amenaza, ha
+jugado un papel central en tal reconocimiento.
+
+21.
+A pesar de que la Carta Política indica expresamente que la acción de tutela
+procede “*por la acción o la omisión de cualquier autoridad pública*”
+susceptible de vulnerar o amenazar derechos fundamentales, en algunos ámbitos
+se ha cuestionado su procedencia contra sentencias, no obstante tratarse de
+actos emanados de jueces y tribunales en tanto autoridades públicas y la
+consecuente posibilidad, aunque sumamente excepcional, de que a través de tales
+actos se vulneren o amenacen derechos fundamentales.
+
+Sin
+embargo, el panorama es claro ya que como regla general la acción de tutela no
+procede contra decisiones judiciales y esto por varios motivos. Entre ellos,
+en primer lugar, el hecho que las sentencias judiciales constituyen ámbitos
+ordinarios de reconocimiento y realización de los derechos fundamentales
+proferidos por funcionarios profesionalmente formados para aplicar la
+Constitución y la ley; en segundo lugar, el valor de cosa juzgada de las
+sentencias a través de las cuales se resuelven las controversias planteadas
+ante ellos y la garantía del principio de seguridad jurídica y, en tercer
+lugar, la autonomía e independencia que caracteriza a la jurisdicción en la
+estructura del poder público inherente a un régimen democrático.
+
+En
+cuanto a lo primero, no puede desconocerse que la administración de justicia,
+en general, es una instancia estatal de aplicación del derecho, que en
+cumplimiento de su rol debe atenerse a la Constitución y a la ley y que todo su
+obrar debe dirigirse, entre otras cosas, a garantizar la efectividad de los principios,
+derechos y deberes consagrados en la Constitución, incluidos, obviamente, los
+derechos fundamentales. Si esto es así, lo obvio es que las sentencias
+judiciales se asuman como supuestos específicos de aplicación del derecho y que
+se reconozca su legitimidad en tanto ámbitos de realización de fines estatales
+y, en particular, de la garantía de los derechos constitucionales.
+
+En
+cuanto a lo segundo, no debe perderse de vista que el derecho, desde la
+modernidad política, es la alternativa de legitimación del poder público y que
+tal carácter se mantiene a condición de que resulte un instrumento idóneo para
+decidir, de manera definitiva, las controversias que lleguen a suscitarse pues
+sólo de esa forma es posible definir el alcance de los derechos y crear las
+condiciones necesarias para su adecuado disfrute. De allí el valor de cosa
+juzgada de que se rodean las sentencias judiciales y la inmutabilidad e
+intangibilidad inherentes a tales pronunciamientos, pues de no ser así, esto
+es, de generarse una situación de permanente incertidumbre en cuanto a la forma
+como se han de decidir las controversias, nadie sabría el alcance de sus
+derechos y de sus obligaciones correlativas y todos los conflictos serían
+susceptibles de dilatarse indefinidamente. Es decir, el cuestionamiento de la
+validez de cualquier sentencia judicial resquebrajaría el principio de
+seguridad jurídica y desnudaría la insuficiencia del derecho como instrumento
+de civilidad.
+
+Y
+en cuanto a lo tercero, no debe olvidarse que una cara conquista de las
+democracias contemporáneas viene dada por la autonomía e independencia de sus
+jueces. Estas aseguran que la capacidad racionalizadora del derecho se
+despliegue a partir de las normas de derecho positivo y no de injerencias de
+otros jueces y tribunales o de otros ámbitos del poder público. De allí que la
+sujeción del juez a la ley constituya una garantía para los asociados, pues
+estos saben, gracias a ello, que sus derechos y deberes serán definidos a
+partir de la sola consideración de la ley y no por razones políticas o de
+conveniencia.
+
+22.
+Con todo, no obstante que la improcedencia de la acción de tutela contra
+sentencias es compatible con el carácter de ámbitos ordinarios de
+reconocimiento y realización de los derechos fundamentales inherente a los
+fallos judiciales, con el valor de cosa juzgada de las sentencias y con la
+autonomía e independencia que caracteriza a la jurisdicción en la estructura
+del poder público; ello no se opone a que en supuestos sumamente excepcionales
+la acción de tutela proceda contra aquellas decisiones que vulneran o amenazan
+derechos fundamentales.
+
+23.
+En ese marco, los casos en que procede la acción de tutela contra decisiones
+judiciales han sido desarrollados por la doctrina de esta Corporación tanto en
+fallos de constitucionalidad, como en fallos de tutela. Esta línea
+jurisprudencial, que se reafirma por la Corte en esta oportunidad, ha sido
+objeto de detenidos desarrollos. En virtud de ellos, la Corporación ha
+entendido que la tutela sólo puede proceder si se cumplen ciertos y rigurosos
+requisitos de procedibilidad. Dentro de estos pueden distinguirse unos de
+carácter general, que habilitan la interposición de la tutela, y otros de
+carácter específico, que tocan con la procedencia misma del amparo, una vez
+interpuesto.
+
+24.
+Los requisitos generales de procedencia de la acción de tutela contra
+decisiones judiciales son los siguientes:
+
+a.
+Que la cuestión que se discuta resulte de evidente relevancia constitucional.
+Como ya se mencionó, el juez constitucional no puede entrar a estudiar
+cuestiones que no tienen una clara y marcada importancia constitucional so pena
+de involucrarse en asuntos que corresponde definir a otras jurisdicciones[4]. En
+consecuencia, el juez de tutela debe indicar con toda claridad y de forma
+expresa porqué la cuestión que entra a resolver es genuinamente una cuestión de
+relevancia constitucional que afecta los derechos fundamentales de las partes.
+
+b.
+Que se hayan agotado todos los medios -ordinarios y extraordinarios- de
+defensa judicial al alcance de la persona afectada, salvo que se trate de
+evitar la consumación de un perjuicio *iusfundamental* irremediable[5].
+De allí que sea un deber del actor desplegar todos los mecanismos judiciales
+ordinarios que el sistema jurídico le otorga para la defensa de sus derechos.
+De no ser así, esto es, de asumirse la acción de tutela como un mecanismo de
+protección alternativo, se correría el riesgo de vaciar las competencias de las
+distintas autoridades judiciales, de concentrar en la jurisdicción
+constitucional todas las decisiones inherentes a ellas y de propiciar un
+desborde institucional en el cumplimiento de las funciones de esta última.
+
+c.
+Que se cumpla el requisito de la inmediatez, es decir, que la tutela se hubiere
+interpuesto en un término razonable y proporcionado a partir del hecho que
+originó la vulneración[6]. De lo contrario, esto
+es, de permitir que la acción de tutela proceda meses o aún años después de
+proferida la decisión, se sacrificarían los principios de cosa juzgada y
+seguridad jurídica ya que sobre todas las decisiones judiciales se cerniría una
+absoluta incertidumbre que las desdibujaría como mecanismos institucionales
+legítimos de resolución de conflictos.
+
+d.
+Cuando se trate de una irregularidad procesal, debe quedar claro que la misma
+tiene un efecto decisivo o determinante en la sentencia que se impugna y que
+afecta los derechos fundamentales de la parte actora[7]. No obstante, de acuerdo
+con la doctrina fijada en la Sentencia C-591-05, si la irregularidad comporta
+una grave lesión de derechos fundamentales, tal como ocurre con los casos de
+pruebas ilícitas susceptibles de imputarse como crímenes de lesa humanidad, la
+protección de tales derechos se genera independientemente de la incidencia que
+tengan en el litigio y por ello hay lugar a la anulación del juicio.
+
+e.
+Que la parte actora identifique de manera razonable tanto los hechos que
+generaron la vulneración como los derechos vulnerados y que hubiere alegado tal
+vulneración en el proceso judicial siempre que esto hubiere sido posible[8].
+Esta exigencia es comprensible pues, sin que la acción de tutela llegue a rodearse
+de unas exigencias formales contrarias a su naturaleza y no previstas por el
+constituyente, sí es menester que el actor tenga claridad en cuanto al
+fundamento de la afectación de derechos que imputa a la decisión judicial, que
+la haya planteado al interior del proceso y que dé cuenta de todo ello al
+momento de pretender la protección constitucional de sus derechos.
+
+f.
+Que no se trate de sentencias de tutela[9]. Esto por cuanto los
+debates sobre la protección de los derechos fundamentales no pueden prolongarse
+de manera indefinida, mucho más si todas las sentencias proferidas son
+sometidas a un riguroso proceso de selección ante esta Corporación, proceso en
+virtud del cual las sentencias no seleccionadas para revisión, por decisión de
+la sala respectiva, se tornan definitivas.
+
+25.
+Ahora, además de los requisitos generales mencionados, para que proceda una
+acción de tutela contra una sentencia judicial es necesario acreditar la
+existencia de requisitos o causales especiales de procedibilidad, las que deben
+quedar plenamente demostradas. En este sentido, como lo ha señalado la Corte,
+para que proceda una tutela contra una sentencia se requiere que se presente,
+al menos, uno de los vicios o defectos que adelante se explican.
+
+a.
+Defecto orgánico, que se presenta cuando el funcionario judicial que profirió
+la providencia impugnada, carece, absolutamente, de competencia para ello.
+
+b.
+Defecto procedimental absoluto, que se origina cuando el juez actuó
+completamente al margen del procedimiento establecido.
+
+c.
+Defecto fáctico, que surge cuando el juez carece del apoyo probatorio que
+permita la aplicación del supuesto legal en el que se sustenta la decisión.
+
+d.
+Defecto material o sustantivo, como son los casos en que se decide con base en
+normas inexistentes o inconstitucionales[10] o que presentan una
+evidente y grosera contradicción entre los fundamentos y la decisión.
+
+f.
+Error inducido, que se presenta cuando el juez o tribunal fue víctima de un
+engaño por parte de terceros y ese engaño lo condujo a la toma de una decisión
+que afecta derechos fundamentales.
+
+g.
+Decisión sin motivación, que implica el incumplimiento de los servidores
+judiciales de dar cuenta de los fundamentos fácticos y jurídicos de sus
+decisiones en el entendido que precisamente en esa motivación reposa la
+legitimidad de su órbita funcional.
+
+h.
+Desconocimiento del precedente, hipótesis que se presenta, por ejemplo, cuando la
+Corte Constitucional establece el alcance de un derecho fundamental y el juez
+ordinario aplica una ley limitando sustancialmente dicho alcance. En estos
+casos la tutela procede como mecanismo para garantizar la eficacia jurídica del
+contenido constitucionalmente vinculante del derecho fundamental vulnerado[11].
+
+i.
+Violación directa de la Constitución.
+
+Estos
+eventos en que procede la acción de tutela contra decisiones judiciales
+involucran la superación del concepto de vía de hecho y la admisión de
+específicos supuestos de procedebilidad en eventos en los que si bien no se
+está ante una burda trasgresión de la Carta, si se trata de decisiones
+ilegítimas que afectan derechos fundamentales. Esta evolución de la doctrina
+constitucional fue reseñada de la siguiente manera en un reciente
+pronunciamiento de esta Corte:
+
+(E)n los últimos años se ha venido presentando una
+evolución de la jurisprudencia constitucional acerca de las situaciones que
+hacen viable la acción de tutela contra providencias judiciales. Este
+desarrollo ha llevado a concluir que las sentencias judiciales pueden ser
+atacadas mediante la acción de tutela por causa de otros defectos adicionales,
+y que, dado que esos nuevos defectos no implican que la sentencia sea
+necesariamente una “violación flagrante y grosera de la Constitución”, es más
+adecuado utilizar el concepto de “causales genéricas de procedibilidad de la
+acción” que el de “vía de hecho.” En la sentencia T-774 de 2004 (MP. Manuel
+José Cepeda Espinosa) se describe la evolución presentada de la siguiente
+manera:
+
+“(...) la Sala considera pertinente señalar que el
+concepto de vía de hecho, en el cual se funda la presente acción de tutela, ha
+evolucionado en la jurisprudencia constitucional. La Corte ha decantado los
+conceptos de capricho y arbitrariedad judicial, en los que originalmente se
+fundaba la noción de vía de hecho. Actualmente no ‘(…) sólo se trata de los
+casos en que el juez impone, de manera grosera y burda su voluntad sobre el
+ordenamiento, sino que incluye aquellos casos en los que se aparta de los
+precedentes sin argumentar debidamente (capricho) y cuando su discrecionalidad
+interpretativa se desborda en perjuicio de los derechos fundamentales de los
+asociados (arbitrariedad). Debe advertirse que esta corporación ha señalado que
+toda actuación estatal, máxime cuando existen amplias facultades discrecionales
+(a lo que de alguna manera se puede asimilar la libertad hermenéutica del
+juez), ha de ceñirse a lo razonable. Lo razonable está condicionado, en primera
+medida, por el respeto a la Constitución.’[12] En este caso (T-1031 de
+2001) la Corte decidió que la acción de tutela procede contra una providencia
+judicial que omite, sin razón alguna, los precedentes aplicables al caso o
+cuando ‘su discrecionalidad interpretativa se desborda en perjuicio de los
+derechos fundamentales de los asociados.’
+
+“Este avance jurisprudencial ha llevado a la Corte a
+remplazar ‘(…) el uso conceptual de la expresión vía de hecho por la de
+causales genéricas de procedibilidad.’ Así, la regla jurisprudencial se
+redefine en los siguientes términos...
+
+“...todo pronunciamiento de fondo por parte del juez
+de tutela respecto de la eventual afectación de los derechos fundamentales con
+ocasión de la actividad jurisdiccional (afectación de derechos fundamentales
+por providencias judiciales) es constitucionalmente admisible, solamente,
+cuando el juez haya determinado de manera previa la configuración de una de las
+causales de procedibilidad; es decir, una vez haya constatado la existencia de
+alguno de los seis eventos suficientemente reconocidos por la jurisprudencia:
+(i) defecto sustantivo, orgánico o procedimental; (ii) defecto fáctico; (iii)
+error inducido; (iv) decisión sin motivación, (v) desconocimiento del
+precedente y (vi) violación directa de la Constitución.”[13]”[14]
+
+26.
+Los argumentos expuestos en los fundamentos anteriores de esta providencia
+resultan suficientes para demostrar que desde cualquier perspectiva posible, el
+artículo 86 de la Constitución ampara la procedencia de la acción de tutela
+contra las decisiones judiciales de última instancia y que hay lugar a ella en
+los supuestos indicados por la jurisprudencia de esta Corporación.
+
+**c.
+Al proferir la Sentencia C-543-92, la decisión de la Corte no fue excluir la
+tutela contra decisiones judiciales**
+
+27. Se ha sostenido
+que la Corte Constitucional, en la Sentencia C-543-92, declaró la
+inexequibilidad de varias disposiciones legales que permitían la tutela contra
+sentencias. Con base en esa referencia se afirma que el amparo constitucional
+de los derechos fundamentales no procede contra decisiones judiciales porque
+así lo estableció esta Corporación en un fallo de constitucionalidad; fallo
+que, a diferencia de las decisiones proferidas con ocasión de la revisión de
+las sentencias de tutela, tiene efectos *erga omnes*.
+
+Este argumento, como
+pasa a indicarse, parte de una premisa equivocada y, además, desconoce la
+doctrina constitucional. Por ello no suministra fundamento alguno para, contra
+lo que la Constitución ordena, restringir el ámbito de procedencia de la acción
+de tutela.
+
+28. Así, por una
+parte, hay que indicar que a través de la sentencia C-543/92 la Corte
+Constitucional declaró la inconstitucionalidad de los artículos 11, 12 y 40 del
+Decreto 2591 de 1991, disposiciones que consagraban la acción de tutela contra
+decisiones judiciales. No obstante, en esa oportunidad la Corte indicó de
+manera expresa que la acción de tutela si podía proceder contra omisiones
+injustificadas o actuaciones de hecho de los funcionarios judiciales, cuando
+quiera que las mismas vulneraran los derechos fundamentales. Al respecto
+señaló:
+
+De conformidad con el concepto constitucional de
+autoridades públicas, no cabe duda de que los jueces tienen esa calidad en
+cuanto les corresponde la función de administrar justicia y sus resoluciones
+son obligatorias para particulares y también para el Estado. En esa condición
+no están excluidos de la acción de tutela respecto de actos u omisiones que
+vulneren o amenacen derechos fundamentales, lo cual no significa que proceda
+dicha acción contra sus providencias. Así, por ejemplo, nada obsta para que por
+la vía de la tutela se ordene al juez que ha incurrido en dilación
+injustificada en la adopción de decisiones a su cargo, que proceda a resolver o
+que observe con diligencia los términos judiciales, ni riñe contra los
+preceptos constitucionales la utilización de esta figura ante actuaciones de
+hecho imputables al funcionario por medio de las cuales se desconozcan o
+amenacen los derechos fundamentales, ni tampoco cuando la decisión pueda causar
+un perjuicio irremediable, para lo cual si está constitucionalmente autorizada
+la tutela pero como mecanismo transitorio cuyo efecto, queda supeditado a lo
+que se resuelva de fondo por el juez ordinario competente. En hipótesis como
+estas no puede hablarse de atentado alguno contra la seguridad jurídica de los
+asociados, sino que se trata de hacer realidad los fines que persigue la
+justicia[15].
+
+De
+este modo, no es cierto que la Corte, en el fallo citado, haya descartado, de
+manera absoluta, la procedencia de la acción de tutela contra decisiones
+judiciales. Lo que hizo en esa oportunidad fue excluir del ordenamiento jurídico
+unos preceptos normativos que afirmaban la procedencia de ese mecanismo contra
+las sentencias como regla general y no como excepción. De allí que la Corte,
+en la motivación de ese pronunciamiento, haya delineado genéricamente los
+supuestos en los que de manera excepcional procedía la acción de tutela contra
+tales decisiones.
+
+29.
+Por otra parte, la postura que se comenta desconoce la doctrina constitucional
+pues esta Corporación no sólo ha realizado una interpretación autorizada de la
+Sentencia C-543-92, sino que, como se indicó en precedencia, ha construido una
+uniforme línea jurisprudencial que desarrolla los supuestos excepcionales de
+procedencia de la tutela contra decisiones judiciales. Sobre el sentido de la
+decisión tomada en la citada sentencia, la Corte, en la Sentencia SU-1184-01,
+expuso:
+
+...coincide parcialmente ésta Sala de Revisión de la
+Corte Constitucional con la Sala de Casación Laboral en reconocer la
+obligatoriedad que tienen en el sistema jurídico colombiano las sentencias de
+constitucionalidad, específicamente la sentencia C-543 de 1992, pero no
+comparte el criterio según el cual en dicha sentencia se decidió que era
+contrario a la Constitución Política de 1991 el que proceda una acción de
+tutela contra una actuación judicial, incluso cuando esta configure una vía de
+hecho, o conlleve la amenaza de un perjuicio irremediable.
+
+En cambio, coincide plenamente esta Sala de Revisión
+con la decisión adoptada por la Sala de Casación Civil de la Corte Suprema de
+Justicia dentro del proceso T-600048, la cual, en lugar de descartar de manera
+absoluta la procedencia de la acción de tutela contra providencias judiciales,
+verificó si en el caso concreto ésta era procedente. Concluyó que no lo era y
+que en todo caso no se trataba de una vía de hecho. También coincide con lo
+expuesto por la Sala de Casación Civil de la Corte Suprema de Justicia por la
+misma razón.
+
+La diferencia entre la posición adoptada por la Sala
+de Casación Laboral, por un lado, y las Salas de Casación Civil y Penal, por
+otro, estriba en que mientras la primera sostiene que la acción de tutela nunca
+procede contra providencias judiciales, las segundas estiman que en ciertos
+casos excepcionales, cuando se reúnen estrictos requisitos analizados por la
+jurisprudencia de la Corte Constitucional, ella sí procede contra providencias
+judiciales.
+
+Esta Sala de Revisión subraya que el artículo 86 de la
+Constitución dice que la tutela procede cuando los derechos fundamentales
+“resulten vulnerados o amenazados por la acción o la omisión de cualquier
+autoridad pública”. Los jueces son autoridades públicas y sus providencias
+constituyen su principal forma de acción.
+
+Además, la Corte Constitucional en sus salas de
+revisión y en su Sala Plena ha reiterado que la tutela sí procede contra providencias
+judiciales cuando éstas constituyen vías de hecho.
+
+No desconoce esta Sala de Revisión que una sentencia,
+como cualquier texto, es objeto de interpretación. Empero, quien interpreta con
+autoridad las sentencias de la Corte Constitucional es la propia Corte
+Constitucional, así como esta Corporación ha reconocido que quién interpreta
+con autoridad las sentencias de la Corte Suprema de Justicia es la propia Corte
+Suprema de Justicia, en razón a que su doctrina relativa al alcance de las
+leyes en el ámbito de su competencia como “máximo tribunal de la jurisdicción
+ordinaria” (artículo 234 C.P.), constituye un derecho viviente.[16]”.[17]
+
+30. Entonces, no es
+cierto que la Corte, en un fallo de constitucionalidad, haya excluido la
+procedencia de la acción de tutela contra decisiones judiciales, pues tanto de
+la motivación de ese pronunciamiento como de la interpretación que la misma
+Corte ha hecho del mismo y del desarrollo de su jurisprudencia se infiere que
+la acción de tutela procede contra decisiones judiciales en los supuestos que
+la misma Corte ha indicado.
+
+**d.
+La procedencia de la acción de tutela contra decisiones judiciales está
+legitimada también por el Pacto Internacional de Derechos Civiles y Políticos y
+por la Convención Americana sobre Derechos Humanos**
+
+31.
+Por otra parte, no sobra recordar que, tal y como lo ha indicado reiteradamente
+la Corte, la acción de tutela no sólo se encuentra respaldada en el artículo 86
+de la Carta sino también en los artículos 2 del Pacto Internacional de Derechos
+Civiles y Políticos y 25 de la Convención Americana sobre Derechos Humanos
+incorporados a la Constitución por vía del artículo 93 de la Carta[18].
+Dichas normas establecen la obligación de los Estados partes de implementar un
+recurso sencillo, efectivo y breve de protección efectiva de los derechos
+fundamentales contra cualquier acción u omisión de las autoridades públicas que
+pudiera vulnerarlos. En este sentido, el artículo 25 de la Convención Americana
+señala:
+
+Artículo 25. Protección Judicial
+
+1. Toda persona tiene derecho a un recurso sencillo y
+rápido o a cualquier otro recurso efectivo ante los jueces o tribunales
+competentes, que la ampare contra actos que violen sus derechos fundamentales
+reconocidos por la Constitución, la ley o la presente Convención, aun cuando
+tal violación sea cometida por personas que actúen en ejercicio de sus
+funciones oficiales.
+
+2. Los Estados Partes se comprometen:
+
+a) a garantizar que la autoridad competente prevista
+por el sistema legal del Estado decidirá sobre los derechos de toda persona que
+interponga tal recurso;
+
+b) a desarrollar las posibilidades de recurso
+judicial, y
+
+c) a garantizar el cumplimiento, por las autoridades
+competentes, de toda decisión en que se haya estimado procedente el recurso.
+
+Pero
+esos instrumentos de derecho público internacional no sólo le imponen al Estado
+colombiano la obligación de consagrar un mecanismo de protección de los
+derechos fundamentales, sino también la obligación de garantizar el
+cumplimiento de las decisiones proferidas al resolver ese recurso. Como lo
+indicó la Corte en el auto del 17 de febrero de 2004,
+
+Según lo ha sostenido esta Corporación[19],
+la garantía del cumplimiento de las órdenes a través de las cuales se concede
+el amparo de derechos fundamentales amenazados o violados, ya sea que provenga
+de los jueces de instancia o de la propia Corte Constitucional, además de tener
+un claro fundamento constitucional, también encuentra un hondo respaldo en el
+derecho internacional sobre derechos humanos. Así, por citar tan sólo algunos
+ejemplos, el Pacto Internacional de Derechos Civiles y Políticos (art. 2°) y la
+Convención Americana de Derechos Humanos (art. 25), incorporados al orden
+interno mediante las Leyes 74 de 1968 y 16 de 1972, respectivamente, además de
+exigirle a los Estados partes la implementación de un recurso sencillo,
+efectivo y breve que ampare los derechos fundamentales, también los obliga a *“garantizar
+el cumplimiento, por las autoridades competentes, de toda decisión en que se
+haya estimado procedente el recurso”.*
+
+32.
+En consecuencia, una limitación del ámbito de protección de la acción de tutela
+tal como la que podría desprenderse de la disposición parcialmente demandada no
+sólo vulneraría el artículo 86 de la Carta sino los artículos 2 y 25 antes
+mencionados y, por contera, las obligaciones internacionales del Estado
+colombiano en materia de protección de Derechos Humanos.
+
+**e.
+Los argumentos expuestos contra la tutela contra decisiones judiciales son
+fácilmente rebatibles**
+
+33.
+No obstante la legitimidad constitucional de la acción de tutela contra
+decisiones judiciales, distintas esferas de la función jurisdiccional han
+cuestionado la legitimidad de tal procedencia. Para ello han expuesto
+múltiples decisiones que, como se aprecia en seguida, son fácilmente
+rebatibles.
+
+34.
+Contra la interpretación más simple y ortodoxa del texto del artículo 86
+trascrito, se ha opuesto una interpretación presuntamente “originalista” en
+virtud de la cual lo que debe primar a la hora de comprender el sentido
+normativo de una disposición no es la letra clara de la misma -o su texto-
+sino la voluntad del constituyente al momento de escribirla. En este sentido
+afirman que cuando el constituyente dijo que la tutela procedería contra
+acciones u omisiones de las autoridades públicas no quiso en realidad decir
+autoridades públicas sino autoridades administrativas y que sin embargo
+consideró que esto resultaba tan natural y obvio que no parecía necesario
+precisarlo.
+
+Aparte
+de la dificultad de dar prelación al método *originalista* en casos como
+el presente, -es decir, en aquellos casos en los cuales la aplicación de dicho
+método podría contradecir abiertamente el texto de la disposición y,
+adicionalmente, podría tener como efecto la restricción de un mecanismo de
+garantía de los derechos fundamentales- , lo cierto es que en este caso la
+aplicación rigurosa del método *originalista* no nos conduciría al
+resultado mencionado.
+
+En
+efecto, si bien es cierto que algunos delegatarios a la Asamblea Nacional
+Constituyente consideraban que la tutela no debía proceder contra sentencias
+judiciales, también lo es que la gran mayoría participó de la idea de consagrar
+una acción que -como el amparo en España o el recurso de constitucionalidad en
+Alemania- pudiera proceder contra las decisiones judiciales. En este sentido
+es importante recordar que la propuesta presentada por un conjunto de
+delegatarios destinada a restringir en el sentido que se estudia el ámbito de
+protección de la acción de tutela, resultó amplia y expresamente derrotada por
+la mayoría con el argumento, claramente expuesto en el debate, según el cual
+impedir la tutela contra decisiones judiciales podría crear un ámbito de
+impunidad constitucional y reduciría la eficacia de los derechos fundamentales
+a su simple consagración escrita[20].
+
+35.
+Pero el único argumento que se ha opuesto a la procedencia de la acción de
+tutela contra sentencias no es el argumento *originalista*. Adicionalmente
+se ha sostenido que no es de la “naturaleza” de esta acción servir de medio
+para impugnar las providencias judiciales. No obstante, al contrario de lo que
+se ha afirmado sobre los límites naturales o “consustanciales” de la acción de
+tutela, la doctrina constitucional comparada parece coincidir de manera unánime
+en que la tutela -amparo o acción de constitucionalidad- contra las
+sentencias es un corolario lógico del modelo de control mixto de
+constitucionalidad.
+
+En
+efecto, cualquier texto relevante de doctrina constitucional comparada reconoce
+que el control de constitucionalidad de las sentencias es un instrumento
+necesario para garantizar, simultáneamente, la primacía de la Constitución y de
+los derechos fundamentales. Los desacuerdos en la doctrina y la jurisprudencia
+más especializada se producen más bien en torno al alcance de esta figura y al
+tipo y grado de eficacia de los derechos fundamentales en el ámbito judicial.
+No obstante, a estas alturas de la evolución de la doctrina constitucional,
+parece que nadie niega la importancia de que exista un último control de
+constitucionalidad de aquellas sentencias que hubieren podido vulnerar los
+derechos fundamentales de las partes y, en particular, el derecho de acceso a
+la administración de justicia.
+
+No
+puede perderse de vista que la más importante transformación del derecho
+constitucional en la segunda mitad del siglo XX fue la consagración de la
+Constitución como una verdadera norma jurídica. En otras palabras, en el nuevo
+Estado constitucional, las constituciones -y en particular los derechos
+fundamentales- dejaron de ser normas formalmente prevalentes pero jurídicamente
+irrelevantes para convertirse en las normas jurídicas de mayor eficacia o poder
+vinculante dentro del ordenamiento. Para lograr esta transformación, los
+distintos sistemas jurídicos incorporaron al texto constitucional poderosos
+sistemas de garantía tendientes a asegurar la sujeción de todos los órganos del
+Estado a las disposiciones constitucionales y, muy en particular, a los
+derechos fundamentales.
+
+En
+este novedoso y potente sistema de protección de la Constitución, la tutela
+contra sentencias juega un papel fundamental: el control de constitucionalidad
+de las sentencias sirve para desplegar con fuerza la eficacia normativa de los
+derechos fundamentales en todos los ámbitos de aplicación del derecho. En otras
+palabras, de lo que se trata es de asegurar el llamado “efecto irradiación” de
+los derechos fundamentales en jurisdicciones acostumbradas a seguir fielmente
+los mandatos del derecho legislado sin atender a las normas constitucionales
+que podrían resultar relevantes para resolver la respectiva cuestión.
+
+Entonces,
+la acción de tutela -o el llamado recurso de amparo o recurso de
+constitucionalidad- contra sentencias constituye uno de los ejes centrales de
+todo el sistema de garantía de los derechos fundamentales. Este instrumento se
+convierte no sólo en la última garantía de los derechos fundamentales, cuando
+quiera que ellos han sido vulnerados o amenazados por la acción o la omisión de
+una autoridad judicial, sino que sirve como instrumento para introducir la
+perspectiva de los derechos fundamentales a juicios tradicionalmente tramitados
+y definidos, exclusivamente, desde la perspectiva del derecho legislado. En
+otras palabras, la tutela contra sentencias es el mecanismo más preciado para
+actualizar el derecho y nutrirlo de los valores, principios y derechos del
+Estado social y democrático de derecho.
+
+36.
+Adicionalmente, el control eventual de las sentencias por parte de la Corte
+Constitucional, es el mecanismo encontrado por el constituyente para garantizar
+la unificación de la jurisprudencia. En estos términos, la necesidad de que
+exista un órgano único que tenga la función de unificar la jurisprudencia
+relativa al alcance de los derechos fundamentales, no es sino la aplicación al
+sistema mixto de control constitucional de las estrategias más ortodoxas de los
+sistemas jurídicos occidentales, tendientes a asegurar la unidad en la
+interpretación y aplicación del derecho y garantizar así el derecho de igualdad
+y el principio de seguridad jurídica.
+
+En
+virtud de tal unificación, se pretende asegurar que la interpretación y
+aplicación del contenido constitucionalmente protegido de los derechos
+fundamentales por parte de todos los jueces de la República -con independencia
+de la causa que se encuentren juzgando- resulte coherente y ordenada. En este
+sentido, parece obvio que la función de unificación de la jurisprudencia
+materialmente constitucional esté adscrita a un sólo órgano judicial y que este
+sea quien tiene asignada la misión de servir como intérprete último de la
+Carta.
+
+A
+este respecto no sobra recordar que en tanto las disposiciones
+constitucionales, y en particular las disposiciones iusfundamentales, suelen
+tener una estructura especial -en general la doctrina las ha denominado
+estructura o “textura” abierta- las mismas exigen para su interpretación
+además de los métodos tradicionales de interpretación del derecho, otros
+especiales y propios del derecho constitucional. En este sentido, es
+fundamental que exista un órgano último especializado en estas materias, que
+adicionalmente pueda ser objeto de permanente vigilancia y control, dado que
+tiene a su cargo la función de servir como intérprete supremo de la
+Constitución.
+
+37.
+Por los argumentos expuestos parece, más que razonable, indispensable que la
+acción de tutela pueda interponerse contra sentencias judiciales de última
+instancia y que las tutelas contra sentencias puedan llegar a la Corte
+Constitucional para que sea esta Corporación, en su calidad de intérprete
+supremo de la Carta, quien defina finalmente el alcance de los derechos
+fundamentales en las distintas áreas del derecho legislado.
+
+38.
+Se ha dicho también que la tutela contra sentencias vulnera los principios de
+seguridad jurídica y de autonomía funcional del juez.
+
+A
+este respecto hay que decir que si bien las acciones judiciales ordinarias
+constituyen supuestos de reconocimiento y respeto de los derechos
+fundamentales, de resultar inidóneos e ineficaces, la persona tiene derecho a
+hacer uso de la acción de tutela como mecanismo subsidiario de protección
+directamente configurado por el constituyente. Lo contrario implicaría admitir
+que la democracia constitucional colombiana está concebida de tal manera que
+una persona a la que se le ha vulnerado un derecho fundamental en una sentencia
+respecto de la que no existen otros mecanismos ordinarios de protección, está
+condenada a sobrellevar esa vulneración y con esto se estaría renunciando al
+efecto vinculante de los derechos fundamentales.
+
+El
+valor de cosa juzgada de las sentencias y el principio de seguridad jurídica
+suponen que los fallos son respetuosos de los derechos y ese respeto no se
+determina a partir de la visión que cada juez tenga de ellos sino del alcance
+que les fije la Corte Constitucional, pues esta es la habilitada para generar
+certeza sobre su alcance. Y ello es lógico ya que si algo genera inseguridad
+jurídica es la promoción de diferentes lecturas de la Carta Política por los
+jueces y, en particular, sobre el alcance de los derechos fundamentales. Este
+es precisamente el peligro que se evita mediante la excepcional procedencia de
+la tutela contra sentencias pues a través de ella se promueven lecturas
+uniformes sobre el alcance de tales derechos y de la Carta Política como su
+soporte normativo.
+
+39.
+Y en lo que atañe a la autonomía e independencia de los jueces y tribunales,
+ellas deben entenderse en el marco de la realización de los fines estatales
+inherentes a la jurisdicción y, en especial, de cara al cumplimiento de su
+deber de garantizar la efectividad de los derechos a todas las personas. Es
+decir, la Constitución no configura tal autonomía y tal independencia como
+atributos idóneos para negar la garantía de esos derechos. Por el contrario,
+esa autonomía y esa independencia deben asumirse como un mandato de
+proscripción de injerencias indebidas en el ejercicio de la función
+jurisdiccional, pero en el entendido que ésta se orienta a la afirmación y no a
+la negación de los fundamentos de la democracia colombiana. De allí que, si
+esto último ocurre, es decir, si la jurisdicción da lugar a afectaciones de
+derechos fundamentales, tales decisiones deban removerse del mundo jurídico
+para restablecer el efecto vinculante de esos derechos.
+
+Ahora,
+la intervención del juez constitucional en los distintos procesos es únicamente
+para efectos de proteger los derechos fundamentales afectados. Al respecto en
+reiterada jurisprudencia la Corte Constitucional ha señalado que la función del
+juez constitucional no es la de reemplazar al juez de la causa ni la de crear
+incertidumbre a la hora de definir el sentido del derecho. Muy por el
+contrario, el Juez constitucional debe tener particular cuidado a la hora de
+evaluar si una determinada decisión judicial vulnera los derechos fundamentales
+de una de las partes.
+
+En
+ese sentido, los fundamentos de una decisión de tutela contra una sentencia
+judicial deben aclarar con transparencia la relevancia *iusfundamental* del
+punto que se discute y el juez debe contraerse a estudiar esta cuestión y
+ninguna otra. No se trata entonces de un mecanismo que permita al juez
+constitucional ordenar la anulación de decisiones que no comparte o suplantar
+al juez ordinario en su tarea de interpretar el derecho legislado y evaluar las
+pruebas del caso. De lo que se trata es de un mecanismo excepcional,
+subsidiario y residual para proteger los derechos fundamentales de quien luego
+de haber pasado por un proceso judicial se encuentra en condición de
+indefensión y que permite la aplicación uniforme y coherente -es decir segura
+y en condiciones de igualdad- de los derechos fundamentales a los distintos
+ámbitos del derecho. En este sentido en una de las más recientes sentencias
+sobre esta línea la Corte indicó:
+
+4. Coincide la Corte con la Sala de Casación Laboral
+en el sentido de sostener que los principios de seguridad jurídica y autonomía
+funcional son principios rectores de la administración de justicia. No
+obstante, como se ha reiterado en múltiples ocasiones, la procedencia especial
+de la acción de tutela contra decisiones judiciales lejos de afectar tales
+principios, tiende a su garantía y protección. En efecto, en cuanto se refiere
+al principio de la seguridad jurídica, resulta claro que se garantiza en mucha
+mayor medida la seguridad de los ciudadanos sobre alcance y sentido del
+derecho, si existe una manera de unificar las decisiones judiciales en cada una
+de las distintas materias o ramas del derecho y no si su interpretación se
+encuentra librada exclusivamente al criterio solitario e inmune de cada juez.
+Ese es justamente el papel de la casación en materia laboral, civil o penal, el
+de unificar el sentido de las normas que los jueces deben aplicar para resolver
+las distintas controversias jurídicas. En este sentido, no debe extrañar que en
+los regímenes de control de constitucionalidad mixto –como el colombiano, el
+alemán o el español– exista un recurso que, como la acción de tutela, permita
+garantizar la unidad de la interpretación judicial de los derechos y las
+garantías fundamentales, en particular, la garantía del debido proceso
+constitucional...
+
+Ahora bien, para garantizar que el control judicial
+resulte ajustado a los principios de especialización y jerarquía, la tutela
+contra sentencia se debe interponer ante el superior funcional del accionado.
+Si se dirige contra la Corte Suprema de Justicia, el Consejo de Estado o el
+Consejo Superior de la Judicatura-Sala Jurisdiccional Disciplinaria, será
+repartido a la misma corporación y se resolverá por la Sala de Decisión,
+Sección o Subsección que corresponda. Finalmente, tratándose de la protección
+de derechos constitucionales fundamentales, la Corte Constitucional tendrá la
+última palabra en tanto guardiana e intérprete suprema de la Constitución.
+
+Sólo a través de un control de esta naturaleza, con un
+único órgano de cierre en materia constitucional, será posible asegurar que
+todos los jueces de la República, obligados como están a aplicar la
+Constitución cuandoquiera que ello resulte conducente para resolver la
+respectiva causa, tengan una doctrina relativamente coherente sobre el alcance
+y significado de las garantías constitucionales. De otra forma, cada juez o,
+en el mejor de los casos, cada jurisdicción, podría tener una lectura distinta
+e incluso contradictoria de las disposiciones constitucionales, sin que
+resultara posible unificar el sentido del derecho constitucional para generar
+una verdadera seguridad jurídica.
+
+También se afirma que la violación de la seguridad
+jurídica se produce dado que no existe un término de caducidad de la tutela
+contra sentencias. En consecuencia, en cualquier momento la persona que
+disienta de una decisión judicial puede impugnarla mediante la acción de
+Tutela. En este sentido, como se desarrollará en detalle más adelante, es
+cierto que la falta de un término de caducidad puede dar lugar a la violación
+del principio de la seguridad jurídica. Sin embargo, para conjurar este riesgo
+la jurisprudencia constitucional ha desarrollado la doctrina de la inmediatez.
+Según esta doctrina, la acción de tutela debe ser interpuesta en un término
+razonable y proporcionado como mecanismo para proteger, de manera inmediata,
+el derecho vulnerado o amenazado. De otra forma se estaría premiando la
+inacción de la parte interesada y afectando severamente el principio universal
+de la seguridad jurídica, es decir, la tranquilidad que deben tener los
+ciudadanos sobre la estabilidad de la decisiones judiciales...
+
+Finalmente, se ha sostenido que se viola la seguridad
+jurídica y la autonomía funcional del juez por la mera posibilidad de revocar
+las sentencias mediante la acción de tutela. Este argumento llevaría a sostener
+que la segunda instancia es también una violación de la seguridad jurídica y de
+la autonomía funcional, como lo seria también el recurso de casación. En
+efecto, hasta agotar dichos recursos la sentencia no hace tránsito a cosa
+juzgada y su existencia habilita justamente al juez de alzada a revocar la
+decisión del juez de instancia y a marcar las pautas de interpretación y
+fijación del sentido del derecho. En este sentido, la tutela debe ser vista,
+simplemente, como un control constitucional absolutamente excepcional y de muy
+corta duración, arbitrado por la propia Constitución para que en el Estado
+constitucional exista una cierta unidad en la interpretación y aplicación de
+las normas fundamentales y, especialmente, del debido proceso constitucional.
+En otras palabras, para asegurar la vigencia del principio de igualdad y del
+importante valor de la seguridad jurídica.[21]
+
+40.
+De otra parte, se ha sostenido que la tutela contra sentencias de última
+instancia viola la distribución constitucional de competencias entre las más
+altas Cortes de justicia pues, por esta vía, la última palabra en materia
+penal, civil o laboral no la tendrá la Corte Suprema por vía de casación sino
+el juez constitucional por vía de tutela.
+
+En
+este sentido es muy importante reiterar que la acción de tutela no puede ser un
+mecanismo que sirva para que el juez constitucional pueda desplazar al juez
+ordinario en la decisión de la respectiva causa. En efecto, por esta vía no
+puede el juez de tutela convertirse en el máximo intérprete del derecho
+legislado ni suplantar al juez natural en su función esencial como juez de
+instancia. Lo que sin embargo sí habilita la tutela es la vigilancia de la
+aplicación judicial al caso concreto de los derechos fundamentales pertinentes
+y, en especial, del derecho al debido proceso y de acceso a la administración
+de justicia.
+
+En
+otras palabras, se trata de una garantía excepcional, subsidiaria y autónoma
+para asegurar, cuando todos los recursos anteriores han fallado, que a las
+personas sometidas a un proceso judicial no les violen sus derechos
+constitucionales fundamentales. No se trata entonces de garantizar la adecuada
+aplicación del resto de las normas que integran el sistema jurídico o de los
+derechos que tienen origen en la ley.
+
+41.
+Adicionalmente, este mecanismo sólo puede operar cuando todos los mecanismos
+anteriores han fallado y siempre que la persona hubiere acudido a ellos de
+manera diligente. En este sentido, la acción de tutela no suplanta ni reemplaza
+a los mecanismos ordinarios ni puede servir para remediar la negligencia de
+alguna de las partes procesales. Se trata, simplemente, de una revisión
+extraordinaria y excepcional de la constitucionalidad de las decisiones
+judiciales cuando la persona presuntamente afectada ha agotado todos los
+recursos a su alcance y se encuentra, por lo tanto, en condiciones de
+indefensión. Si las acciones y recursos judiciales ordinarios y extraordinarios
+han operado adecuadamente, nada nuevo tendrá que decir el juez de tutela, pues
+los jueces ordinarios habrán cumplido a cabalidad con la tarea de garantizar
+los derechos fundamentales concernidos.
+
+En
+los términos que han sido planteados, resulta indudable que quien debe definir
+el alcance de todas las áreas del derecho ordinario es la Corte Suprema de
+Justicia y que corresponde al Consejo de Estado establecer el alcance de las
+normas que integran el derecho contencioso administrativo. Sin embargo, compete
+a la Corte Constitucional la tarea de establecer, en última instancia, el
+contenido constitucionalmente vinculante de los derechos fundamentales,
+derechos que deben ser tenidos en cuenta por los jueces ordinarios y
+contenciosos a la hora de definir los asuntos a ellos asignados.
+
+42.
+La tutela contra sentencias, entonces, tiene simplemente la función de
+garantizar que en esta tarea de aplicación simultánea de la Constitución y la
+ley, la supremacía de los derechos fundamentales sobre la ley quede
+suficientemente resguardada. En este sentido, si una cuestión resulta ser
+simultáneamente de relevancia legal y constitucional, resulta claro que el juez
+de la causa debe aplicar el derecho constitucional -de conformidad con los
+dictámenes de su intérprete supremo- y el derecho ordinario -siguiendo las
+pautas del máximo órgano de la respectiva jurisdicción-.
+
+43.
+En conclusión, el argumento según el cual la tutela contra sentencias de última
+instancia afecta la distribución constitucional de competencias entre las altas
+Cortes y, en particular, la naturaleza de la Corte Suprema de Justicia y del
+Consejo de Estado como “órganos de cierre” de la respetiva jurisdicción, es
+falso, pues el juez constitucional no tiene facultades para intervenir en la
+definición de una cuestión que debe ser resuelta exclusivamente con el derecho
+ordinario o contencioso. Su papel se reduce exclusivamente a intervenir para
+garantizar, de manera residual y subsidiaria, en los procesos ordinarios o
+contencioso administrativos, la aplicación de los derechos fundamentales, cuyo
+intérprete supremo, por expresa disposición de la Constitución, es la Corte
+Constitucional.
+
+Ahora
+bien, si el argumento que ha sido expuesto se funda simplemente en que el juez
+constitucional pueda ordenarle al juez de última instancia que revoque su decisión
+y que profiera otra de conformidad con los derechos fundamentales, es esta una
+simple consecuencia del nuevo modelo en el cual la norma que tiene primacía es la
+Constitución. En este sentido, nadie pensaría que viola la distribución
+constitucional de competencias la posibilidad de que una corte internacional,
+como la Corte Interamericana de Derechos Humanos, pueda ordenarle al Estado, a
+través de una decisión judicial, que revoque una sentencia de última instancia
+y profiera una nueva decisión de conformidad con los derechos humanos que el
+Estado colombiano se ha comprometido a proteger. En este caso la Corte
+Interamericana no estaría siendo la última instancia en materia civil,
+contenciosa o constitucional sino cumpliendo su labor como órgano encargado de
+asegurar la aplicación de la Convención Americana sobre Derechos Humanos en
+aquellos países del Continente que la han suscrito y han aceptado someterse a
+su jurisdicción.
+
+44.
+Finalmente, el último argumento que se ha utilizado para sostener que no es
+posible derivar del texto del artículo 86 la procedencia de la tutela contra
+sentencias de última instancia es un argumento de derecho comparado acompañado
+de una premonición sobre el caos que esta figura puede causar en un sistema
+jurídico que pretende ser “bien ordenado”. Para responder someramente este
+argumento la Corte se limitará a hacer una breve alusión a sistemas comparados
+como el sistema alemán o el español, en los cuales parecen existir sistemas
+jurídicos bien ordenados pese a que la “tutela” contra sentencias de última
+instancia ocupa mas del 80% de los recursos de amparo o protección
+constitucional presentados ante los respectivos Tribunales Constitucionales.
+
+Actualmente,
+casi la totalidad de los sistemas jurídicos que adoptaron en la segunda mitad
+del siglo XX el sistema de control de constitucionalidad mixto incorporan un
+mecanismo que sirve para que el juez constitucional
+-usualmente el máximo tribunal constitucional- pueda controlar la
+constitucionalidad de las decisiones judiciales de última instancia proferidas
+en las restantes jurisdicciones[22]. En la mayoría de los
+casos se trata de un recurso o acción judicial subsidiaria, residual, autónoma
+y expedita que se encuentra limitada, exclusivamente, al estudio de las
+cuestiones *iusfundamentales* relevantes y que permite que el juez
+constitucional revoque una decisión judicial de última instancia siempre que
+encuentre que la misma vulnera los derechos fundamentales.
+
+En
+la medida en que el amparo es un recurso subsidiario, es necesario que se
+agoten, antes de interponerlo, la totalidad de los medios ordinarios y
+extraordinarios de defensa. Por esta razón, el recurso de amparo opera casi
+fundamentalmente contra sentencias judiciales de última instancia, es decir,
+contra sentencias del Tribunal Supremo –o de la Corte Suprema-. Ahora bien,
+dado que la protección de los derechos fundamentales debe armonizarse con la
+protección de la seguridad jurídica, el ordenamiento legal dispone de un
+término de caducidad de 20 días fuera de los cuales no procederá el recurso[23].
+
+En
+España, el recurso de amparo contra sentencias de última instancia tiene la
+función de proteger los derechos fundamentales eventualmente afectados, la
+supremacía de la Constitución y la constitucionalización del derecho legislado.
+En general, el recurso procede cuando el juez ha aplicado una norma declarada
+inconstitucional, cuando ha dejado de aplicar los derechos fundamentales
+aplicables al caso o cuando ha vulnerado el derecho a la tutela judicial
+efectiva. Finalmente, resulta relevante mencionar que el artículo 5.1 de la Ley
+Orgánica del Poder Judicial establece que los jueces y Tribunales están
+vinculados a la interpretación que haga el Tribunal Constitucional de los
+derechos fundamentales[24].
+
+A
+su turno, en Alemania el Recurso Constitucional o Recurso de Protección
+Constitucional es un recurso subsidiario, residual y autónomo que se interpone
+ante el Tribunal Constitucional cuando quiera que se trate de proteger un
+derecho fundamental presuntamente afectado por acciones de las autoridades
+públicas incluyendo, naturalmente a los jueces. Gracias a este recurso el
+Tribunal Constitucional pudo influir decisivamente en la constitucionalización
+del derecho legislado y en la forma como las autoridades judiciales
+incorporaron a su quehacer cotidiano los principios, valores y derechos del
+nuevo Estado constitucional.
+
+Según
+la doctrina del Tribunal, procede el recurso contra una sentencia judicial de
+última instancia siempre que la sentencia hubiere aplicado una norma
+inconstitucional o cuando incurrió en una grave infracción del debido proceso
+constitucional o cuando dejó de garantizar los derechos fundamentales que
+estaban en juego en el correspondiente proceso. En Alemania una altísima
+proporción de los recursos de protección constitucional se dirigen a impugnar
+sentencias judiciales de última instancia que han podido vulnerar los derechos
+fundamentales de alguna de las partes del proceso.
+
+45.
+En suma, la tutela contra sentencias judiciales constituye un elemento esencial
+en los distintos sistemas de control mixto de constitucionalidad para
+garantizar, simultáneamente, la defensa de los derechos subjetivos y la
+primacía de la Constitución en el ordenamiento jurídico.
+
+**Conclusión**
+
+46. En las condiciones que se han
+dejado expuestas, entonces, es claro para esta Corporación que una ley
+ordinaria no puede modificar o suprimir la Constitución Política y con mayor
+razón uno de los mecanismos de protección de los derechos fundamentales en ella
+consagrados; que la acción de tutela procede contra decisiones judiciales en
+los casos en que esta Corporación ha establecido y con cumplimiento de los
+presupuestos generales y específicos ya indicados; que al proferir la Sentencia
+C-543-92, la decisión de la Corte no fue excluir la tutela contra decisiones
+judiciales; que la procedencia de la acción de tutela contra tales decisiones está
+legitimada no sólo por la Carta Política sino también por el Pacto
+Internacional de Derechos Civiles y Políticos y por la Convención Americana de
+Derechos Humanos, en tanto instrumentos de derecho internacional público que
+hacen parte del bloque de constitucionalidad y que vinculan al Estado
+colombiano, y que los argumentos expuestos contra la procedencia de la acción
+de tutela contra decisiones judiciales son infundados y, por lo mismo,
+fácilmente rebatibles.
+
+Esta
+carga argumentativa permite concluir que una norma legal que dispone que contra
+la sentencia que resuelve el recurso extraordinario de casación en materia
+penal no procede recurso ni acción, salvo la de revisión; vulnera el principio
+de supremacía de la Constitución consagrado en el artículo 4º y la acción de
+tutela consagrada en el artículo 86. De allí el imperativo de expulsarla del
+ordenamiento jurídico, como, en efecto, lo hará la Corte.
+
+48.
+Finalmente, esta Corporación no puede atender la solicitud formulada por uno de
+los intervinientes en el sentido que el efecto de ese pronunciamiento se
+extienda al régimen legal de la casación civil y laboral pues, como se sabe, un
+Tribunal Constitucional no es un juez oficioso de la constitucionalidad de todo
+el ordenamiento jurídico. Por el contrario, cuando se trata de un control
+desatado en virtud del ejercicio de la acción pública de inconstitucionalidad,
+su competencia se circunscribe, en cada caso, a aquellas normas que han sido
+demandadas por el actor, con excepción de los supuestos de unidad normativa,
+ninguno de los cuales concurre en el presente caso.
+
+**VI. DECISIÓN**
+
+Con
+fundamento en las precedentes motivaciones, la Sala Plena de la Corte
+Constitucional, administrando justicia en nombre del Pueblo y por mandato de la
+Constitución,
+
+**RESUELVE:**
+
+Declarar
+**INEXEQUIBLE** la expresión “*ni acción*”, que hace parte del
+artículo 185 de la Ley 906 de 2004.
+
+Cópiese,
+notifíquese, comuníquese, insértese en la Gaceta de la Corte Constitucional,
+cúmplase y archívese el expediente.
+
+JAIME ARAUJO RENTERÍA
+
+Presidente
+
+ALFREDO BELTRÁN SIERRA
+
+Magistrado
+
+MANUEL JOSÉ CEPEDA ESPINOSA
+
+Magistrado
+
+JAIME CÓRDOBA TRIVIÑO
+
+Magistrado
+
+RODRIGO ESCOBAR GIL
+
+Magistrado
+
+MARCO GERARDO MONROY CABRA
+
+Magistrado
+
+HUMBERTO SIERRA PORTO
+
+Magistrado
+
+ALVARO
+TAFUR GALVIS
+
+Magistrado
+
+CLARA INÉS VARGAS HERNÁNDEZ
+
+Magistrada
+
+MARTHA VICTORIA SÁCHICA MÉNDEZ
+
+Secretaria General
+
+LA SUSCRITA SECRETARIA GENERAL
+
+DE LA CORTE CONSTITUCIONAL
+
+HACE CONSTAR:
+
+Que el H. Magistrado
+doctor JAIME ARAUJO RENTERIA, no firma la presente sentencia por encontrarse en
+comisión debidamente autorizada por la Sala Plena.
+
+MARTHA VICTORIA SACHICA MENDEZ
+
+SECRETARIA GENERAL
+
+LA SUSCRITA SECRETARIA GENERAL
+
+DE LA CORTE CONSTITUCIONAL
+
+HACE CONSTAR:
+
+Que el H. Magistrado
+doctor HUMBERTO SIERRA PORTO, no firma la presente sentencia por encontrarse en
+comisión debidamente autorizada por la Sala Plena.
+
+MARTHA VICTORIA SACHICA MENDEZ
+
+SECRETARIA GENERAL
+
+---
+
+[1] Piero Calamandrei, La Casación Civil. Traducción de
+Santiago Sentís Melendo. Buenos Aires, Editorial Bibliográfica Argentina,
+1945. Tomo I, Volumen II. pág. 15 y ss.
+
+[2] Como en su momento lo expuso Alberto Goenaga, “*¿En
+qué sentido hay que entender aquí la palabra ley? Hay que entenderla en un
+sentido amplio; en el de todo precepto general y solemne emanado inmediata o mediatamente
+de la voluntad del soberano, aplicable a la controversia y capaz de determinar
+derechos entre los litigantes. Por consiguiente, comprende la Constitución,
+los Códigos, los Tratados diplomáticos, los Decretos de carácter legislativo y
+todas las disposiciones del poder Ejecutivo que constitucionalmente tengan
+fuerza de leyes, en su parte sustantiva, esto es, en aquellas partes que
+conceden, niegan o declaran derechos*”. Alberto Goenaga, Recurso de
+Casación, Bogotá, Casa Tipográfica Fénix, 1962, p.111. Citado por Fabio
+Calderón Botero. Casación y Revisión en Materia Penal. Bogotá, 1985, 2ª
+edición, p.66.
+
+[3] Debe tenerse en cuenta la importancia que revestía
+esta postura de la Sala Penal de la Corte Suprema de Justicia en una época en
+la que el régimen procesal penal había optado por regular el instituto de las
+nulidades de acuerdo con el principio de taxatividad y según el cual sólo
+aquellas irregularidades expresamente previstas en la ley podían invalidar lo
+actuado. De allí que la Corte haya admitido, “*en guarda de los principios
+superiores de la Constitución y para casos extremos, nulidades no establecidas
+por la ley procesal de modo expreso, deducidas de lo dispuesto en el artículo
+26 de la suprema ley y a las que ha denominado nulidades supralegales o
+constitucionales*”. Corte Suprema de Justicia, Sala de Casación Penal,
+sentencia de 8 de mayo de 1970.
+
+[4] Sentencia 173/93.
+
+[5] Sentencia T-504/00.
+
+[6] Ver entre otras la reciente Sentencia T-315/05
+
+[7] Sentencias T-008/98 y SU-159/2000
+
+[8] Sentencia
+T-658-98
+
+[9] Sentencias
+T-088-99 y SU-1219-01
+
+[10] Sentencia T-522/01
+
+[11] Cfr. Sentencias T-462/03; SU-1184/01; T-1625/00 y
+T-1031/01.
+
+[12] Sentencia T-1031 de 2001. En este caso se decidió que
+“(…) el pretermitir la utilización de los medios ordinarios de defensa, torna en
+improcedente la acción de tutela. Empero, la adopción rigurosa de éste postura
+llevaría, en el caso concreto, a una desproporcionada afectación de un derecho
+fundamental. En efecto, habiéndose establecido de manera fehaciente que la
+interpretación de una norma se ha hecho con violación de la Constitución, lo
+que llevó a la condena del procesado y a una reducción punitiva, no puede la
+forma imperar sobre lo sustancial (CP. art. 228). De ahí que, en este caso,
+ante la evidente violación de los derechos constitucionales fundamentales del
+demandado, la Corte entiende que ha de primar la obligación estatal de
+garantizar la efectividad de los derechos, por encima de la exigencia de agotar
+los medios judiciales de defensa.”
+
+[13] Sentencia T-949 de 2003. En este caso la Corte
+decidió que “(…) la infracción del deber de identificar correctamente la
+persona sometida al proceso penal, sumada a la desafortunada suplantación,
+constituye un claro defecto fáctico, lo que implica que está satisfecho el
+requisito de procedibilidad exigido por la Jurisprudencia para la procedencia
+de la acción de tutela contra providencias judiciales.”
+
+[14] Sentencia T-453/05.
+
+[15] Sentencia C-543/92
+
+[16] En la Sentencia C-557 de 2001 se consideró al
+respecto lo siguiente: “Si bien el control de constitucionalidad de las normas
+es un control abstracto porque no surge de su aplicación en un pro­ceso
+particular, ello no significa que el juicio de exequibilidad deba efectuarse
+sin tener en cuenta el con­texto dentro del cual la norma fue creada (*i.e.*
+sunacimiento), y dentro del cual ha sido interpretada (*i.e.* ha
+vi­vido). En fin: en buena medida, el sentido de toda norma jurídica depende
+del contexto dentro del cual es aplicada. || Ahora, dentro de las múltiples
+dimensiones de ese contexto –bien sea la lingüística, que permite fijar su
+sentido natural, o bien la sociológica, que hace posible apreciar sus funciones
+reales- se destaca la actividad de los expertos que han interpretado los
+conceptos técnicos que ella contiene y que los han aplicado a casos concretos.
+Obviamente, esos expertos son los jueces y los doctrinantes especializados en
+la materia tratada en la norma; dentro de ellos, una posición preeminente la
+ocupan los órganos judiciales colegiados que se encuentran en la cima de una
+jurisdicción. Así lo ha establecido la Constitución al definir al Consejo de
+Estado como “tribunal supremo de lo contencioso administrativo” (art. 237- 1 de
+la CP) y a la Corte Suprema de Justicia como “máximo tribunal de la
+jurisdicción ordinaria” (art. 234 de la CP). Por lo tanto, la jurisprudencia de
+ambos órganos es un referente indispensable para apreciar el significado
+viviente de las normas demandadas. Al prestarles la atención que su ubicación
+institucional exige, la Corte Constitucional está valorando su labor
+hermenéutica dentro de un mismo sistema jurídico. Obviamente, cuando no exista
+jurisprudencia sobre las normas objeto del control constitucional, la Corte
+Constitucional tendrá que acudir a otras fuentes del derecho para interpretar
+los artículos demandados.”
+
+[17] Sentencia T-057/2004
+
+[18] Al respecto Cfr entre otros, los autos 220A/02,
+149A/03, 010/04 y la sentencia SU-1158/03.
+
+[19] Cfr. Auto del 6 de agosto de 2003, Sala Primera de
+Revisión (M.P. Jaime Araujo Rentaría) y Sentencia SU-1158 de 2003, ya citada,
+entre otras.
+
+[20] En este aparte se hace referencia a la
+propuesta sustitutiva presentada por los honorables constituyentes Hernando
+Yepes Arcila, Rodrigo Llorente Martínez, Carlos Rodado Noriega, Mariano Ospina
+Hernández y María Garcés Lloreda. Gaceta Constitucional No. 142 p.182 en la
+cual se propone restringir el ámbito de aplicación de la tutela y los debates
+consecuentes hasta la votación definitiva del texto del hoy artículo 86 de la
+Constitución. Dicha propuesta fue votada y negada por la Asamblea.
+
+[21] T-315 de 2005.
+
+[22] En algunos caos se establecen causales específicas de
+procedibilidad como en los casos de Chile y Perú. En el caso de Ecuador no hay
+tutela contra sentencias.
+
+[23] Artículos 43.2 y 44.2 de la Ley Orgánica del Tribunal
+Constitucional Español.
+
+[24] Según la norma mencionada: “La Constitución es la norma suprema del ordenamiento
+jurídico, y vincula a todos los Jueces y tribunales, quienes interpretarán y
+aplicarán las leyes y los reglamentos según los preceptos y principios
+constitucionales, conforme a la interpretación de los mismos que resulte de las
+resoluciones dictadas por el tribunal Constitucional en todo tipo de procesos”.

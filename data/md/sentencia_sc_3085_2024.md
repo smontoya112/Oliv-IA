@@ -1,0 +1,1611 @@
+---
+{
+  "doc_id": "sentencia_sc_3085_2024",
+  "titulo": "Sentencia SC-3085 de 2024",
+  "fuente": "Corte Suprema de Justicia",
+  "url": "https://archivodigitalapi.cortesuprema.gov.co/share/2024/12/Sentencias/SC3085-2024.pdf",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "familia"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "SC-3085",
+  "anio": 2024,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "SC-3085",
+    "2024"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "pdf_texto"
+  ],
+  "codificacion": [],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://archivodigitalapi.cortesuprema.gov.co/share/2024/12/Sentencias/SC3085-2024.pdf"
+  ],
+  "sha256_partes": [
+    "e0220945570d85d9e893dfbb2e1dbc969f8bf4f6de70f30cddcf4a7c58685f63"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 169994,
+  "n_articulos_detectados": 0,
+  "archivo_md": "md/sentencia_sc_3085_2024.md",
+  "metadata_autocompletada": [
+    "numero",
+    "organo_emisor"
+  ]
+}
+---
+
+<!-- parte parte_000.pdf | https://archivodigitalapi.cortesuprema.gov.co/share/2024/12/Sentencias/SC3085-2024.pdf -->
+<!-- pagina 1 -->
+OCTAVIO AUGUSTO TEJEIRO DUQUE
+Magistrado Ponente
+
+SC3085-2024
+(Aprobada en sala de catorce de noviembre de dos mil veinticuatro)
+
+Bogotá D.C., dieciocho (18) de diciembre de dos mil veinticuatro (2024).
+
+Decide la Corte el recurso de casación interpuesto por
+Luz Eneyda Pérez Paz frente a la sentencia de 31 de marzo de 2023, proferida por la Sala Civil-Familia del Tribunal
+Superior del Distrito Judicial de Buga, en el proceso que promovió contra María Ligia Salgado Izquierdo, en su calidad de cónyuge supérstite de Fernando Izquierdo Izquierdo, y los herederos determinados e indeterminados de este último.
+
+I. EL LITIGIO
+
+1. En la demanda (folios 98 a 111 del archivo digital
+0001CuadernoPrincipalParte1.pdf) se pidió declarar que entre la demandante y Fernando Izquierdo Izquierdo
+(q.e.p.d.) existió unión marital de hecho desde el 2 de junio de 1982 hasta el 14 de julio de 2020, fecha de la muerte del último, con la consecuente sociedad patrimonial, la
+
+<!-- pagina 2 -->
+cual solicitó reconocer que se encuentra disuelta y en estado de liquidación.
+
+En soporte, se expusieron los hechos que admiten este compendio:
+
+1.1. La pareja convivió de forma continua, singular y notoria durante el interregno señalado, en las moradas con nomenclatura carrera 45 calle 2 sur n.° 45-24, carrera 46 n.°
+1S-21, y diagonal 1S n.° 49-32, de la ciudad de
+Buenaventura.
+
+1.2. Fernando Izquierdo Izquierdo falleció el 14 de julio de 2020 con lo cual se extinguió la unión marital de hecho.
+
+1.3. El causante estaba casado con María Ligia Salgado
+Izquierdo, vínculo que se inscribió en el registro del estado civil después del deceso, con quien se separó de hecho desde el 2 de junio de 1982. De este nexo nacieron Jhon Jairo y
+Yaneth Izquierdo Salgado.
+
+1.4. El fallecido, de forma paralela o concomitante a la relación con Luz Eneyda Pérez Paz, tenía otra con Luz Estella
+Montañez Casalla (q.e.p.d.), quien murió seis años atrás.
+
+1.5. La promotora participó en los distintos negocios del causante que derivó en la adquisición de múltiples bienes muebles e inmuebles, los cuales especificó según su naturaleza.
+
+<!-- pagina 3 -->
+2. Una vez admitido el escrito inaugural el 13 de agosto de 2021 (folio 120 ibidem), la parte interesada agotó el proceso de enteramiento de los demandados.
+
+3. Fernando Izquierdo Montañez, al contestar la demanda, negó los hechos - en lo sustancial-, se opuso a las pretensiones y propuso las defensas que intituló «ausencia de legitimación en la causa por activa para solicitar la mentada unión marital de hecho y la existencia de la sociedad patrimonial desde 02 de junio de 1982», «inexistencia de la unión marital de hecho desde el 02 de junio de 1982»,
+«inexistencia de la sociedad patrimonial desde el 02 de junio de 1982», «enriquecimiento sin causa», «inexistencia de la unión marital de hecho y sociedad patrimonial», «mala fe»,
+«carencia e inexistencia de interés jurídico o derecho para demandar», «inexistencia de la causa invocada», «estimación anticipada de perjuicios al demandado y buena fe» y la innominada (folios 488 a 499 ejusdem).
+
+En documento aparte, Jhon Jairo, Yaneth y María Ligia
+Izquierdo Salgado replicaron la demanda y propusieron las excepciones que denominaron «ausencia de legitimación en la causa por activa», «falta de legitimación en la causa por pasiva», «falta de legitimación en la causa por activa y pasiva»,
+«inexistencia de la unión marital de hecho», «inexistencia de la sociedad patrimonial», «enriquecimiento sin justa causa»,
+«prescripción extintiva de la acción», «carencia de legitimación en la causa, para pedir y demandar la sociedad patrimonial» y la común (folios 1 a 6 del archivo digital 0005Cuaderno-
+PrincipalParte2.pdf).
+
+<!-- pagina 4 -->
+La curadora ad litem de los herederos indeterminados se atuvo a lo que resultare probado respecto de la unión marital de hecho y se opuso al reconocimiento de la sociedad patrimonial, sin blandir excepciones (folios a 59 a 64 idem).
+
+4. El Juzgado Segundo Promiscuo de Familia de
+Buenaventura, en sentencia de 7 de julio de 2022, declaró la unión marital de hecho y la sociedad patrimonial, para el período comprendido entre el 7 de julio de 2013 y el 14 de julio de 2020 (folios 469 y 470).
+
+5. Se formularon sendos recursos de apelación, de un lado, por Jhon Jairo, Yaneth y María Ligia Izquierdo Salgado, para que se denegara la comunidad de activos declarada
+(folios 23 a 26 del archivo digital 0007CuadernoApelacion-
+Sentencia.pdf). Por el otro, María Ligia Salgado Izquierdo, para que la unión convivencial se reconociera sólo desde el año 2016 (folio 46 a 76). Y finalmente, por Luz Eneyda Pérez
+Paz, para insistir en que el vínculo afectivo y patrimonial se conformó desde 1982 (folios 29 a 43).
+
+6. El ad quem, al resolver los recursos verticales, determinó que la unión marital de hecho se configuró para el período del 14 de julio de 2014 al 14 de julio de 2020, aunque negó la existencia de la sociedad patrimonial (folios 162 a
+185), por las razones que se sintetizarán más adelante.
+7. El apoderado judicial de la demandante interpuso recurso de casación (folio 201), el cual fue concedido por auto del 19 de abril de 2023 (folios 207 a 209), admitido el 31 de mayo siguiente (archivo digital 1AutoCasacin20210010701-
+
+<!-- pagina 5 -->
+admiterecurso.pdf), sustentado en su oportunidad (archivo digital 0015Demanda.pdf) y asentido a estudio parcialmente por auto AC2657-2023 (archivo digital 0021Auto.pdf).
+
+II. LA SENTENCIA DEL TRIBUNAL
+
+1. Fijó como problemas jurídicos a resolver «si ¿la demandante Luz Eneida Pérez Paz acreditó haber sostenido una comunidad de vida singular y permanente con el señor
+Fernando Izquierdo Izquierdo (q.e.p.d.) durante el periodo señalado en el libelo genitor? y de ser el caso, si ¿se configuró una sociedad patrimonial de hecho entre los compañeros permanentes, no obstante haber estado casado con otra persona?».
+
+2. En respuesta recordó que la unión marital de hecho requiere, para su configuración, de la decisión libre de dos
+(2) personas, la ausencia de vínculo matrimonial entre ellos y la comunidad de vida permanente y singular, que denote permanencia y univocidad.
+
+Sobre la singularidad rememoró que la relación debe ser exclusiva, como lo ha sostenido la Corte, pues compartir la vida excluye que pueda hacerse «con más de una pareja», por lo que no pueden existir «compromisos similares con terceras personas», so pena de impedir «la configuración del fenómeno».
+
+3. De cara al caso concreto, advirtió que la apelación de la demandante estaba llamada al fracaso, en tanto para la
+
+<!-- pagina 6 -->
+época reclamada para la unión marital de hecho el causante sostenía otro vínculo con Luz Estella Montañez Casallas
+(q.e.p.d.).
+
+Aclaró que, si bien los testigos José Jaramillo, Agustín
+Montealegre y Fanny Morera, aseguraron que la convivencia con la promotora empezó en 1982, lo cierto es que no resultan fiables, por cuanto no dieron cuenta de la razón de su dicho y su contacto con la pareja fue esporádico.
+
+En cuanto a las atestaciones de Yaneth y John Jairo
+Izquierdo Salgado, afirmó que sólo dieron cuenta de que pernoctaron algunas noches en la casa de la reclamante, sin que de este hecho pudiera inferirse la existencia de una unión marital de hecho.
+
+Dudas que acrecentó por la ausencia de pruebas documentales, «en contraposición a lo que se esperaría de una relación o vida marital tan extensa como la que se invoca… llegándose a aportar, apenas tres fotografías [las restantes son de época reciente]».
+
+Diferenció esta situación de lo acontecido con Luz
+Estella Montañez Casallas (q.e.p.d.), por el abundante material demostrativo de las esferas de vida que compartió con el causante, durante al menos 30 años, en especial, los registros fotográficos, los contratos de arrendamiento que suscribieron como coarrendadores, el reconocimiento de la unión libre en la escritura pública n.° 1235 de 2004 y la certificación de afiliación a seguridad social. Hipótesis que se
+
+<!-- pagina 7 -->
+ratifica con las declaraciones de María Ligia Salgado
+Izquierdo, Luz Esneda Rodríguez Cifuentes y Hoover Valencia
+Ramírez.
+
+4. Encontró que, ciertamente, existió un vínculo entre
+Fernando Izquierdo y Luz Eneida Pérez, que se concretó con posterioridad al deceso de Luz Estella Montañez (q.e.p.d.), como lo relataron los testigos José Javier Jaramillo, Agustín
+Montealegre Mendoza y Fanny Morera García, quienes ubicaron el traslado de la vivienda de la demandante a la del causante entre los años 2013 y 2014, ratificado por el hecho cuarto del libelo principal.
+
+«Con todo, la Sala de Decisión no encuentra viable precisar como hito inicial el 7 de julio de 2013 –día siguiente al fallecimiento de Luz Estella Montañez Casallas (q.e.p.d.)-, pues ello implicaría tanto como reconocer que, en algún periodo, existió pluralidad de uniones del mismo tipo, hipótesis que ya fue descartada».
+
+Coligió que, «como el causante pereció el 14 de julio de
+2020 y, conforme a lo expuesto, los compañeros solo convivieron durante seis años, emerge imperioso fijar como baremo inicial de la unión marital de hecho bajo examen, la fecha del 14 de julio de 2014».
+
+5. Respecto de la conformación de la sociedad patrimonial, manifestó distanciarse de la sentencia SC4027-
+2021, por no constituir doctrina probable de la Sala, sino una decisión aislada «que ni siquiera logró una posición
+
+<!-- pagina 8 -->
+mayoritaria uniforme… con cuatro de siete votos disidentes - dos salvamentos y dos aclaraciones- sobre la temática planteada». Además, por falta de similitud fáctica con el presente litigio, en tanto allí se discutió una simulación, la disolución de la sociedad conyugal y la legitimación del demandante, mientras que aquí se cuestiona la existencia de la comunidad de activos en el caso de esposos separados de hecho. Por último, por existir reserva legal para gobernar las causales de disolución de la sociedad conyugal.
+
+6. Al final, analizó lo tocante a la oponibilidad del matrimonio por haberse registrado hasta el 20 de octubre de
+2020, para lo cual aseguró, como regla de principio, que la falta de anotación conduce a la privación de efectos frente a terceros, lo que admite excepciones, como cuando debe darse prevalencia al principio de indivisibilidad, el asunto en discusión no versa sobre el estado civil o por conducir a efectos indeseables de cara al carácter constitutivo del estado civil.
+
+Estimó que el matrimonio entre Fernando Izquierdo y
+María Ligia Salgado es oponible a Luz Eneida Pérez, por cuanto (I) no es posible escindir los efectos del matrimonio católico; (II) no puede admitirse la eventual coexistencia de sociedades sobre los bienes del causante; (III) el proceso no versa sobre el estado civil que se acusa inoponible; (IV) el acto matrimonial modifica el estado civil, al margen de su inscripción; y (V) la demandante era conocedora del casamiento y la consecuente sociedad conyugal.
+
+<!-- pagina 9 -->
+7. Manifestó, al abrigo del artículo 2° de la ley 54 de
+1990, que Fernando Izquierdo (q.e.p.d.) tenía sociedad conyugal vigente con María Ligia Salgado, desde 1973, que era oponible a la actora, lo que impide la conformación de una sociedad patrimonial de hecho.
+
+DEMANDA DE CASACIÓN
+
+La accionante planteó tres ataques: el primero por la vía directa y los restantes por violación indirecta de la ley sustancial.
+
+Esta Sala, por auto AC2657-2023, inadmitió los finales, al encontrar que desconocían las reglas técnicas para su adecuada formulación. El magistrado ponente admitió el cargo inicial, siendo procedente su resolución en este momento, con la advertencia de que su alcance es parcial, por cuanto únicamente cuestionó la interpretación y aplicación de las normas que gobiernan la extinción de la sociedad conyugal con el fin de viabilizar el reconocimiento de la sociedad patrimonial, quedando incólumes las demás materias, que incluyen la plataforma fáctica del litigio, en particular, la conformación de la unión marital de hecho de la pareja Izquierdo-Pérez y el interregno por el que se extendió -14 de julio de 2014 a 14 de julio de 2020-.
+
+CARGO PRIMERO
+
+Alegó el desconocimiento de los cánones 167 y 1820 del
+Código Civil, y 2 -literal b- de la Ley 54 de 1990, en punto a
+
+<!-- pagina 10 -->
+la disolución de la sociedad conyugal por la separación de cuerpos de los cónyuges, en tanto la comunidad de activos conformada entre Fernando Izquierdo y María Ligia Salgado se disolvió por el alejamiento ocurrido en 1979, «por lo que la presunción del artículo 1795 del Código Civil Colombiano,
+[sólo] pudiera producir efectos hasta el año de 1979 y no como se pretende con el fallo del Tribunal» (sic).
+
+Cuestionó que se afirmara que la sociedad conyugal se disolvió el 14 de julio de 2020, fecha de deceso del causante, y no desde el momento de la separación de cuerpos, como aflora del artículo 167 del estatuto civil, lo que condujo a desconocer la Ley 54 de 1990, relativa a la sociedad patrimonial entre compañeros permanentes.
+
+Aseveró que la inaplicación del artículo 167 condujo a un resultado injusto, al negar el acervo patrimonial para la pareja Izquierdo-Pérez, sin que la justificación para desatender los veredictos SC4027-2021 y SC5106-2021 sea suficiente.
+Manifestó que la separación de cuerpos extingue la sociedad conyugal, según lo señalado por el órgano de cierre.
+Además, «el tema de la coexistencia de las sociedades de bienes venía avanzando para proteger los derechos de las compañeras permanentes y permitía que el requisito para su existencia de no tener impedimento para contraer matrimonio, se estaba flexibilizando, pero la Magistrada retrajo, sin argumentos válidos, el derecho de la sociedad patrimonial entre compañeros permanentes y cercen[ó] los derechos de mi prohijada».
+
+<!-- pagina 11 -->
+Reclamó que se resguarde la seguridad jurídica y se proteja la sociedad patrimonial entre compañeros, «que según la norma sustancial nació luego de la disolución de la sociedad conyugal que se aclara en el mencionado artículo
+167 del código civil colombiano, que expone los efectos de la separación de cuerpos y que define que esta produce la disolución de la sociedad conyugal, por lo que a partir de esa disolución surtida en el año 1979 o antes entre el causante y
+María Ligia Salgado, podía nacer como efecto, una sociedad patrimonial con el permiso o complacencia del artículo 2° literal
+B, de la ley 54 de 1990».
+
+CONSIDERACIONES
+
+1. De la prevalencia de la figura matrimonial al actual reconocimiento de todas las formas de familia.
+
+1.1. El reconocimiento de todas las formas familiares, que es un punto común en el derecho actual, es el resultado de un largo proceso, que ha estado mediado por cuestiones biológicas, culturales, políticas y religiosas.
+
+Se ha trasegado desde «un escenario de anomia legislativa», caracterizado por una indiferencia sobre las relaciones familiares, «hacia una regulación limitada a ciertos temas económicos entre parientes consanguíneos y afines, que con los años se expandió de acuerdo con la realidad social para normar aspectos concernientes a los efectos civiles e, incluso, reconocer novedosas formas de organización familiar propias de la evolución social» (CSJ, SC1171-2022).
+
+<!-- pagina 12 -->
+De las formas arcaicas, basadas en el albur de la naturaleza, se avanzó hacia las uniones informales, al inicio plurales y, posteriormente, individuales, que con los siglos se sustituyeron por las matrimoniales, hasta alcanzar, en nuestros días, el reconocimiento general a que se ha hecho referencia.
+
+1.1.1. En efecto, en épocas remotas las relaciones entre hombres y mujeres eran flexibles, informales y de hecho, basadas en la satisfacción de necesidades sexuales; el hombre formaba vínculos efímeros y dejaba en manos de la mujer la supervivencia de los hijos.
+
+Los recién llegados se integraban a clanes o grupos, quienes proporcionaban seguridad y acompañamiento colectivo, bajo la convicción recíproca de que al crecer se integrarían a las actividades de manutención, caza o protección.
+
+En verdad, «hombres y mujeres se unían indistintamente para satisfacer sus necesidades sexuales y de pertenencia, sin que norma alguna existiera y les impidiera las uniones sexuales indistintas, es por tanto la unión de hecho y no el matrimonio, la primera forma de unidad sexual y familiar.
+Normas de grupo regularon paulatinamente la unión y constitución familiar»1.
+
+1 VILLA GUARDIOLA, Vera Judith y HURTADO PEÑA, Arturo, Las uniones maritales de hecho o concubinatos en la historia mundial. En Advocatus, Vol. 15, n.° 30,
+Barranquilla, pág. 86.
+
+<!-- pagina 13 -->
+1.1.2. Con el paso de los siglos estas uniones ganaron estabilidad, lo que permitió el reconocimiento de unos deberes recíprocos entre los integrantes, basados en la singularidad y el apoyo conjunto. Además, a partir de la consanguinidad, se reconoció a los hijos como parte de la prole, otorgándoles un estatus especial dentro de la estructura familiar.
+
+El análisis «de la historia primitiva nos revela un estado de cosas en que los hombres practican la poligamia y sus mujeres la poliandria y en que, por consiguiente, los hijos de unos y otros se consideran comunes. A su vez, ese mismo estado de cosas pasa por toda una serie de cambios hasta que se resuelve en la monogamia. Estas modificaciones son de tal especie, que el círculo comprendido en la unión conyugal común, y que era muy amplio en su origen, se estrecha poco a poco hasta que, por último, ya no comprende sino la pareja aislada que predomina hoy»2.
+
+1.1.3.
+Estas uniones, monogámicas o cuasimonogámicas, fueron sustituidas por las matrimoniales, las que se hicieron necesarias para fines de seguridad jurídica, pues la formalidad o ritualidad permitía establecer con precisión las personas que integraban el núcleo familiar.
+
+Identificar con certeza a los descendientes, receptores de los derechos económicos y títulos genealógicos de sus padres, resultaba imperativo por cuestiones políticas y
+
+2 ENGELS, Friedrich, El origen de la familia, la propiedad privada y el estado, Ed. MIA,
+2017, pág. 7.
+
+<!-- pagina 14 -->
+sociales, tocantes a la transferencia de estatus nobiliarios y la acumulación patrimonial intergeneracional.
+
+El matrimonio pasó a ser una «práctica social» universal, presente en todas las formas organizativas «cualquiera sea nuestro trasfondo religioso en particular», al punto que sus
+«límites y forma básica pueden ser discernidos por nuestra razón humana común»3. De manera correlativa se impidió que, por otras formas organizativas, pudieran alcanzarse resultados similares a los del matrimonio, en garantía de la certidumbre requerida en la sociedad.
+
+Ejemplo de este cambio se encuentra en la sociedad romana, que, si bien reconoció el «concubinato», para referirse a la «unión de orden inferior más duradera, y que se distinguía así de las relaciones pasajeras consideradas como ilícitas», lo cierto es que «no producía ninguno de los efectos civiles unidos a las justae nuptiae. Por eso la mujer no era elevada a la condición social del marido… En cuanto a los hijos… son cognados de la madre y de los parientes maternos, pero no están sometidos a la autoridad del padre, y nacen sui juris»4.
+
+1.1.4. Con el mayor peso de la religión hizo aparición el matrimonio-sacramento. El vínculo civil, fundado en la procreación y transmisión de derechos hereditarios hacia la prole, coexiste con consideraciones religiosas, que encuentran un designio divino en el hecho de casarse.
+
+3 GIRGIS, Sherif y otros, ¿Qué es el matrimonio?. En Ius Humani, vol. 9, 2020.
+4 PETIT, Eugéne, Tratado Elemental de Derecho Romano, Ed. Porrúa, 2007, México, pág. 111.
+
+<!-- pagina 15 -->
+El acompañamiento de la deidad, no sólo otorgaba un componente moral al casorio, sino que comportaba la aceptación de cargas especiales, como la prohibición de repudiación, la exclusividad, la adscripción de la descendencia a la misma fe, el deber de sometimiento, la indisolubilidad del vínculo, etcétera.
+
+Las relaciones entre concubinos, dentro de este entorno, fueron ignoradas. Sin duda, continuaron como práctica social, pero se les negó cualquier eficacia y, eventualmente, se proscribió su existencia, como se hizo en los concilios de Nicea, Cartago y Trento, con la prohibición expresa de que se establecieran relaciones fuera del matrimonio.
+
+1.1.5. Decía Napoleón: «los concubinos ignoran la ley, la ley los ignora» (puisque les concubins se désintéressent de la loi, la loi n’a qu’à se désintéresser d’eux). Esto explica que el
+Código Civil Francés de 1804 regulara únicamente el matrimonio civil, sin mencionar a las demás formas familiares.
+
+Así, a partir del artículo 143, se gobernó lo tocante a las cualidades y requisitos para contraer matrimonio, formalidades relativas a la celebración, oposiciones, demandas de nulidad, obligaciones, deberes y derechos respectivos de los cónyuges, disolución, segundas nupcias, y divorcio. Ninguna regulación se incluyó sobre el concubinato.
+Sobre el particular, señala la doctrina: «en el Código
+Napoleónico no se consignó disposición alguna sobre las
+
+<!-- pagina 16 -->
+situaciones a que diera lugar el abarraganarse hombre y mujer, como notando que, poniéndose los amancebados fuera de ley, ésta no se interesaba por ellos o, por mejor decir, que le ley civil no reconocía efectos civiles al vivir en este estado»5.
+
+1.1.6. Este proceso histórico muestra cómo se gestó la prevalencia del matrimonio sobre las demás formas de organización familiar, en particular, sobre el concubinato.
+Tendencia que comienza a revertirse con el progresivo reconocimiento de los Derechos Humanos y la consagración de la familia como la célula básica del entramado social.
+
+Su principal promotor se encuentra en el artículo 16 DE la Declaración Universal de los Derechos Humanos, del 10 de diciembre de 1948, que consagró a la familia como «el elemento natural y fundamental de la sociedad», reconociendo como «derecho» la protección que debe ser dispensada por «la sociedad y del Estado» (negrilla fuera de texto).
+
+El canon 23 del Pacto Internacional de Derechos Civiles y Políticos, del 16 de diciembre de 1966, reiteró que la familia es «el elemento natural y fundamental de la sociedad»
+(negrilla fuera de texto), que «tiene derecho a la protección de la sociedad y del Estado».
+
+En coherencia, el precepto 10 del Pacto Internacional de
+Derechos Económicos, Sociales y Culturales, de la misma
+
+5 RODRÍGUEZ FONNEGRA, Jaime, La unión libre ante el Derecho Civil, Fragmentos y
+Resúmenes, Colegio Mayor de Nuestra Señora del Rosario, 1947, pág. 219 y 220.
+
+<!-- pagina 17 -->
+data, dispone que «[s]e debe conceder a la familia, que es el elemento natural y fundamental de la sociedad, la más amplia protección y asistencia posibles, especialmente para su constitución y mientras sea responsable del cuidado y la educación de los hijos a su cargo» (negrilla fuera de texto).
+
+El artículo 17 de la Convención Americana sobre
+Derechos Humanos, del 22 de noviembre de 1969, remarcó que «[l]a familia es el elemento natural y fundamental de la sociedad», pero advirtió que la protección por parte de «la sociedad y el Estado» es un deber.
+
+El eje comienza a desplazarse, del matrimonio como figura jurídica, a la familia como institución, lo que necesariamente se tradujo en aceptar que puede emanar de diversas fuentes, las cuales deben ser protegidas por el ordenamiento jurídico en condiciones de igualdad.
+
+Opera una evolución
+
+…desde una concepción predominantemente social y marcadamente institucional sobre la familia, hacia una mirada preponderantemente enfocada en el sujeto individual que la constituye y sus circunstancias afectivas. Esta evolución ha dejado atrás una imagen institucionalizada de la familia, erigida sobre la base del matrimonio, ordenada jerárquicamente y dirigida a la consecución de fines propios de la comunidad familiar, siendo éstos valorados y priorizados socialmente, sustituyéndola por una concepción de base contractual, cuya tipología no es necesariamente matrimonial, que tiende a la igualdad de sus integrantes y que sitúa muchas veces en un lugar secundario los
+
+<!-- pagina 18 -->
+intereses familiares comunitarios, los que son sustituidos cuando no alentados por la estructura social6.
+
+La protección que ahora se dispensa a la familia no se limita a una determinada forma, como en antaño se hizo, sino que se admite una variedad de posibilidades (cfr. CSJ,
+SC2505-2021).
+
+Total, a partir del reconocimiento de la igualdad, libertad individual y libre desarrollo de la personalidad como derechos humanos, garantía de la dignidad humana que subyace a la fórmula del estado social de derecho, se excluye que la organización familiar deba responder a moldes predeterminados so pena de desprotección.
+
+Hoy se acepta que la familia tiene una naturaleza dinámica, en respuesta de las necesidades concretas de sus integrantes, que se materializa en expresiones diversas, que se construyen en privado y, lentamente, trascienden hacia lo público, las cuales son merecedores de reconocimiento y protección, sin ningún tipo de prejuicio o discriminación.
+
+La Corte Interamericana de Derechos Humanos tiene dicho: «la familia, sin establecer que sea un modelo específico, es el elemento natural y fundamental de la sociedad y tiene derecho a la protección por parte de la sociedad y el Estado. Dada la importancia de ese derecho, la
+Corte ha establecido que el Estado se encuentra obligado a
+
+6 DEL PICÓ RUBIO, Jorge, Evolución y actualidad de la concepción de familia. una apreciación de la incidencia positiva de las tendencias dominantes a partir de la reforma del derecho matrimonial chileno. En Ius et Praxis, vol.17, n.° 1, Talca, 2011.
+
+<!-- pagina 19 -->
+favorecer el desarrollo y fortaleza del núcleo familiar» (Caso
+Tabares Toro y otros vs. Colombia, sentencia 23 de mayo de
+2023, pág. 32).
+
+El concubinato se redimensiona, para fines jurídicos, como una de las formas de familia que debe ser reconocida y, por tanto, protegida por el Estado y la sociedad, aunque intitulada como unión de hecho, unión concubinaria, unión marital de hecho, entre otras. Se abandona el anonimato y/o proscripción a la que fue sometida, para aceptarla y salvaguardarla, en atención a sus particularidades.
+
+1.2. Nuestro país se inserta dentro de esta evolución.
+En efecto, en el Código Civil únicamente se dio cabida al matrimonio como forma de constitución familiar, con algunas pocas prescripciones sobre familias extramatrimoniales, sometiéndolas, en todo caso, a una desigualdad estructural.
+
+Empero, la evolución legislativa aceptó ciertos derechos en favor de los concubinos, incluso la conformación de un fondo de activos con ocasión de la convivencia. Sin embargo, fue en desarrollo del cambio constitucional de 1991, que aceptó todas las formas de familias, que se reconocieron como tipologías constitutivas del estado civil.
+
+1.2.1. Hasta finales del siglo pasado, el Estado únicamente reguló los efectos personales y económicos de las familias constituidas bajo el matrimonio, con hermético silencio frente a las establecidas con prescindencia de ese
+
+<!-- pagina 20 -->
+rito, las que se dejaron por fuera del ordenamiento legal y estaban, por lo tanto, desprovistas de tutela jurídica.
+
+Visto el matrimonio como un «contrato solemne», entre
+«un hombre y una mujer», para vivir juntos, procrear y auxiliarse mutuamente (artículo 113 del Código Civil).
+
+El concubinato sólo fue mencionado para gobernar lo relativo a los descendientes naturales, en el sentido de que
+«[l]os hijos de la concubina de un hombre serán tenidos como hijos de éste, a menos que compruebe que durante el tiempo en que debió verificarse la concepción estuvo imposibilitado para tener acceso a la mujer» (artículo 328 original), entendiéndose por concubina a la «mujer que vive públicamente con [el hombre], como si fueran casados, siempre que uno y otro sean solteros o viudos» (artículo 329 original).
+
+La primacía del matrimonio se hizo palpable puesto que: (I) fue reconocido como única institución generadora de familia; (II) el concubinato sólo era posible en tanto los integrantes de la pareja fueran solteros o viudos; y (III) el concubinato sólo servía para reconocer como hijo natural a la prole común.
+
+1.2.2. Esa situación era perturbadora, pues era conocido que muchas parejas convivían -sin matrimonio- en forma singular y duradera, a tal punto que forjaban un hogar estable y permanente en el que tenían descendencia y adquirían distintos bienes con el esfuerzo común, sin ningún tipo de reglamentación ni protección.
+
+<!-- pagina 21 -->
+Tal panorama se agudizaba al tener en cuenta que, en muchos casos, las familias naturales estaban determinadas por estereotipos de género que reproducían asimetría entre sus integrantes y discriminaban generalmente a la mujer, lo cual propiciaba que los haberes conseguidos durante la convivencia fueran radicados en cabeza del hombre, de modo que, al concluir la unión familiar, aquélla usualmente quedaba desprovista de activos y carente de acciones para reclamar una justa distribución.
+
+En respuesta, a partir del fallo de 30 de noviembre de
+1935 (SC 30 nov. 1935, G.J. XLII, pág. 479 y siguientes), esta
+Corte dio cabida a las sociedades de hecho entre concubinos, con el fin de permitir a la pareja que ha contribuido en un proyecto conjunto con trabajo, esfuerzo y dedicación, que participe en los resultados de esta empresa, aunque condicionado a la demostración de los elementos del contrato de sociedad.
+
+Sobre el punto, son ilustradoras las palabras de esta
+Sala:
+
+[M]ás allá del carácter sentimental o de la simple comunidad marital en la relación de pareja, cuando sus componentes exponen su consentimiento expreso o, ya tácito o “implícito”, derivado de hechos o actos inequívocos, con el propósito de obtener utilidades y enjugar las pérdidas que llegaren a sufrir y, además, hacen aportes, hay una indiscutible sociedad de hecho.
+
+De consiguiente, en muchas hipótesis, puede existir al margen del matrimonio o de la vigente unión marital de hecho prevista en la
+Ley 54 de 1990, y de las correspondientes sociedad conyugal o patrimonial, una sociedad de hecho comercial o civil, pudiendo coexistir ésta última con la sociedad conyugal, o con la sociedad
+
+<!-- pagina 22 -->
+patrimonial, pero cada cual con su propia naturaleza, identidad y autonomía jurídica. Todo ello, de la misma manera cómo puede existir la sociedad conyugal, y adlátere, en forma simultánea, una sociedad mercantil regular integrada por los cónyuges o por uno de estos con terceros… (SC8225-2016).
+
+De esta forma se abrió una posibilidad, que se mantiene hasta ahora, para que la parte más frágil de la relación familiar pueda participar de los activos adquiridos durante la convivencia, aunque con las restricciones propias del contrato de sociedad.
+
+1.2.3. No obstante, ante las evidentes inequidades provocadas por la anomia regulatoria, el legislador se vio forzado a reconocerle, de forma progresiva, efectos a los concubinatos en materias precisas.
+
+Efectivamente, con la Ley 90 de 1946 se reconoció a la mujer supérstite, cuyo compañero haya fallecido por accidente o enfermedad profesional, el derecho a recibir una pensión, aunque no estén casados entre sí, siempre que hubieran tenido vida marital durante los tres años inmediatamente anteriores y «ambos hubieren permanecido solteros durante el concubinato» (artículo 52).
+
+El Decreto 2623 de 1950 permitió que la mujer, inscrita como compañera en el entonces Instituto de Seguros Sociales, pudiera disfrutar del seguro por riesgos profesionales en caso de fallecimiento de su compañero, siempre que éste carezca de viuda.
+
+<!-- pagina 23 -->
+Con el Decreto 1848 de 1969 se reconocieron derechos a los compañeros permanentes, únicamente para fines del auxilio de maternidad (artículo 33).
+
+La Ley 12 de 1975 equiparó a la cónyuge sobreviviente y a la compañera permanente, para disfrutar de la pensión de jubilación, en caso de fallecimiento de la pareja sentimental (artículo 1).
+
+1.2.4. Años más tarde, y después de un largo proceso legislativo, la Ley 54 de 1990 dio «un nuevo status a esas relaciones que optaron por conformar familia fuera del estamento matrimonial, permitiendo que con ocasión de esa unión marital igualmente se constituyera una sociedad patrimonial, con lo cual se procuró poner fin a las situaciones inequitativas que en este campo se presentaban» (CSJ,
+SC1413-2022).
+
+En desarrollo, consagró que, «para todos los efectos civiles», la unión marital de hecho es la «formada entre un hombre y una mujer, que sin estar casados, hacen una comunidad de vida permanente y singular» (artículo 1°).
+
+También previó que una vez formada la unión marital se presume la sociedad patrimonial entre los compañeros, siempre que haya una convivencia mínima de dos (2) años y que no haya impedimento para contraer matrimonio; de existir impedimento, es menester que «la sociedad o sociedades conyugales anteriores hayan sido disueltas y
+
+<!-- pagina 24 -->
+liquidadas por lo menos un año antes de la fecha en que se inició la unión marital de hecho» (artículo 2° original).
+
+Se trata de un derecho patrimonial, por cuya fuerza se participa, en partes iguales (artículo 3), de todos los activos adquiridos en vigencia de la sociedad patrimonial, salvo «los bienes adquiridos en virtud de donación, herencia o legado, ni los que se hubieren adquirido antes de iniciar la unión marital de hecho, pero sí lo serán los réditos, rentas, frutos o mayor valor que produzcan estos bienes durante la unión marital de hecho» (parágrafo ídem).
+
+Derechos económicos que, valga la pena señalarlo por su importancia para el presente caso, quedaron subordinados a los que emanan del matrimonio, en tanto, de existir sociedad conyugal previa en cabeza de cualquiera de los compañeros, se impide la conformación de la sociedad patrimonial de hecho.
+
+En la práctica, la finalidad de esta directriz es evitar que la sociedad conyugal coexista con la patrimonial, de allí que se exija que aquella se disuelva antes de la conformación de esta. Con esto se evitan confusiones patrimoniales, amén de la vocación universal de ambos fondos.
+
+1.2.5. La Constitución Política de 1991 reconoció de forma expresa la familia como una institución, consagrándose como el «núcleo fundamental de la sociedad» que puede emanar de «vínculos naturales o jurídicos», fruto de
+
+<!-- pagina 25 -->
+la «decisión libre… de contraer matrimonio» o «por la voluntad responsable de conformarla».
+
+Significa que la organización social es considerada como el resultado de la conjunción de diversas formas organizativas, siendo la más primaria la familia, encargada de acoger a los individuos y brindarles afectividad, formación, acompañamiento y alegría, la cual puede emanar de un acto de voluntad o de un hecho material al que se le reconocen efectos jurídicos.
+
+Familia entendida como «aquella comunidad de personas emparentadas entre sí por vínculos naturales o jurídicos, que funda su existencia en el amor, el respeto y la solidaridad, y que se caracteriza por la unidad de vida o de destino que liga íntimamente a sus integrantes más próximos»
+(C.C. C-577-11). Y a la cual se reconoce un «carácter diverso… sin hacer ninguna distinción», en tanto «el concepto de familia se ha ampliado de manera progresiva» (C.C. SU-
+696-15).
+
+Esta Corporación ha dicho: «La familia constituye el elemento de cohesión y equilibrio social entre el individuo y el
+Estado, al punto de ser entendida, desde una perspectiva sociológica, como una agrupación relativamente permanente de personas emparentadas entre sí a través de vínculos naturales o jurídicos, cuya existencia se basa en el amor, el respeto y la solidaridad que se proyectan sus integrantes, además de ser caracterizada por la unidad
+
+<!-- pagina 26 -->
+de vida o de destino que liga a sus miembros más próximos» (negrilla fuera de texto, SC498-2024).
+
+De esta forma se socavó definitivamente la idea de que la familia sólo puede emanar del matrimonio, pues, ante el reconocimiento de todas las formas, debe darse cabida a cualquiera, bien se origine en la voluntad o en el mero comportamiento de los interesados.
+
+La Sala, refiriéndose a esta nueva realidad, asintió: «la familia surge, entre otros, por el matrimonio, la unión marital de hecho o la adopción. Sin embargo, al establecerse la constitución de la familia por la voluntad responsable, esto conlleva a que a este concepto se llegue por caminos diferentes, distintos, y no simplemente a partir del vínculo entre un hombre y una mujer» (SC009-2024).
+
+1.2.6.
+El cambio constitucional origina nuevas preguntas, por ejemplo, si se borraron todas las distinciones entre el matrimonio y la unión marital de hecho, de suerte que su regulación tenga que ser unitaria o, por lo menos, equivalente.
+
+La Corte Constitucional respondió en los siguientes términos:
+
+El artículo 42 de la Constitución Política reconoce y tutela los distintos arreglos familiares en un plano de igualdad, estableciendo que, como núcleo fundamental de la organización social, el Estado y la sociedad garantizan su protección, y que ésta se constituye por vínculos naturales o jurídicos “por la decisión
+
+<!-- pagina 27 -->
+libre de un hombre y una mujer de contraer matrimonio o por la voluntad responsable de conformarla”.
+
+Así, pues, tanto el matrimonio como las uniones maritales de hecho son arreglos familiares válidos, y el ordenamiento jurídico debe brindarles protección jurídica en condiciones de igualdad, sin que ello implique una simbiosis de los dos modelos, pues el reconocimiento de derechos y deberes a la voluntad responsable de conformar familia no significa que el legislador se encuentre obligado constitucionalmente a equiparar integralmente las dos instituciones, sino que, por el contrario, debe proteger a cada una en condiciones de igualdad, en función de sus particularidades y especificidades…
+
+El punto de partida y la directriz general para evaluar las diferenciaciones normativas es el reconocimiento de tales estructuras familiares como arreglos legítimos y válidos, y el mandato de su protección en condiciones de igualdad. Esta igualdad, empero, no implica necesariamente un “igualitarismo”, esto es, una asimilación o una equiparación absoluta del matrimonio y las uniones maritales de hecho, sino una obligación estatal de protección en función de las particularidades y especificidades de cada una de estas.
+
+A partir de esta pauta general, la Corte Constitucional ha fijado dos tipos de criterios para evaluar la validez de las diferenciaciones legales entre ambas instituciones. Por un lado, existen algunos escenarios en los que, por la naturaleza misma de la unión marital, se justifica o incluso se hace indispensable establecer unos parámetros distintos de los existentes para el matrimonio, con el propósito, o bien de salvaguardar la informalidad, la flexibilidad y la libertad inherente a esta institución, o bien de proteger los intereses de los propios compañeros permanentes o de los sistemas de provisión de bienes y servicios estructurados en función de los vínculos familiares, frente a aquellas relaciones efímeras y pasajeras que no gozan de la estabilidad y de la solidez propia de las relaciones familiares.
+En estos contextos, la Corte ha concluido que el establecimiento de un régimen especial y diferenciado puede justificarse, o que incluso puede resultar imperativo. Por otro, la circunstancia de que las parejas opten por hacer una vida en común y por conformar un nuevo hogar a partir de la solidaridad mutua y del cuidado y apoyo recíproco, obliga a establecer un sistema integral que garantice el equilibrio de cargas y beneficios entre los miembros que integran la pareja, y a reconocer este núcleo como una familia para todos los efectos legales. Por tal motivo, el ordenamiento jurídico debe contar con un esquema integral de protección para este arreglo familiar y para sus integrantes, semejante o
+
+<!-- pagina 28 -->
+equivalente al que existe para el matrimonio (negrilla fuera de texto, C-456-20).
+
+1.2.7.
+En el escenario descrito, el desbalance establecido con la Ley 54 de 1990, al privilegiar la sociedad conyugal sobre patrimonial, ¿encuentra respaldo en la Carta
+Fundamental?
+
+La Corte Constitucional absolvió este cuestionamiento en los siguientes términos:
+a) La finalidad que persigue la medida acusada es legítima a la luz de la Constitución: La exigencia de disolver la sociedad conyugal anterior que tiene vigente el compañero permanente con impedimento legal para contraer matrimonio, como uno de los hechos indicadores de la presunción de sociedad patrimonial entre compañeros permanentes, tiene por finalidad evitar la coexistencia de sociedades universales de gananciales que se puedan yuxtaponer confundiendo el haber social, es decir, el patrimonio mismo. La Sala considera que dicha finalidad expuesta por el legislador al establecer esta medida, desarrolla el valor constitucional del orden justo y la propiedad privada de los bienes establecidos en cabeza de la sociedad conyugal ya empezada.
+Solo hasta su finalización mediante la disolución, es posible presumir y reconocer judicialmente la sociedad patrimonial entre los compañeros permanentes…
+b) La medida de disolver la sociedad conyugal anterior como uno de los hechos básicos para que opere la presunción de sociedad patrimonial, es necesaria: la Corte considera que no existe otra medida igualmente eficaz para garantizar el cumplimiento de la finalidad de evitar la coexistencia y confusión de patrimonios de las sociedades universales de gananciales, y de esa forma fundamentar el orden justo constitucional.
+
+… la Sala estima necesario precisar que la separación de cuerpos obra por dos vías: la judicial, que disuelve la sociedad conyugal sin afectar el vínculo principal que es el matrimonio, caso en el cual la medida analizada no tendría problemas porque el hecho básico
+
+<!-- pagina 29 -->
+de la presunción estaría acreditado; y la de hecho, que NO disuelve la sociedad conyugal y que pasados dos años sin convivencia de los cónyuges, constituye una de las causales objetivas para solicitar el divorcio. De lo anterior se desprende que, contrario a lo afirmado por el actor, la separación de cuerpos de hecho no sirve para cumplir la finalidad de orden justo pluricitada, ya que en la mayoría de los casos no existe un límite temporal claro que permita establecer con seguridad cuándo se presentó la separación de cuerpos de hecho….
+c) La medida de disolver la sociedad conyugal anterior como uno de los hechos básicos para que opere la presunción de sociedad patrimonial, es proporcionada en sentido estricto: la Sala evidencia que esta medida legislativa si bien impediría aplicar la presunción de sociedad patrimonial y su reconocimiento judicial, no es menos cierto que el patrimonio común adquirido por los compañeros permanentes se puede reclamar solicitando la declaración, disolución y liquidación de una sociedad de hecho.
+Significa lo anterior que existe otro medio judicial a través del cual el Estado protege el patrimonio de las familias naturales, independientemente del nombre que reciba la figura jurídica, con lo cual se garantiza el derecho de acceso a la administración de justicia… (C-193-16)
+
+1.2.8. En el presente caso, el casacionista propone una materia que, siendo conexa a las explicadas, ha captado la atención recientemente en las decisiones judiciales, por las injusticias que han sido desveladas por la realidad.
+
+En concreto, se propugna por una nueva hermenéutica sobre los efectos de la separación de hecho de los cónyuges, cuando se ha mantenido por un largo interregno, en punto a la subsistencia de la sociedad conyugal y la superación del impedimento para formar sociedad patrimonial de hecho, en los casos en que con posterioridad los cónyuges conformen una unión marital de hecho con terceros.
+
+<!-- pagina 30 -->
+Este asunto requiere evaluar cuáles son los límites de la primacía de la sociedad conyugal sobre la patrimonial de hecho, como lo indica el artículo 2 de la Ley 54 de 1990, a partir de las nuevas directrices constitucionales, en particular la justicia, el orden social justo y la igualdad.
+
+Y es que, si bien la literalidad de los cánones 167 y 1820 del Código Civil puede arrojar una conclusión, lo cierto es que no sucede lo mismo al pasarlos para el tamiz de los cambios sociales y jurídicos que provocaron el reconocimiento de todas las formas de familia. Máxime por cuanto la Corporación, aunque no de forma pacífica, ha avanzado en una nueva hermenéutica, como se advierte en las sentencias SC4027-2021 y SC2429-2024.
+
+De entrada, y como condición necesaria para permitir el estudio de esta materia, debe precisarse que lo señalado por la Corte Constitucional en las sentencias C-746-2011 y C-
+193-16, en el sentido de que la separación de hecho «no lleva a la disolución de dicha sociedad [se refiere a la conyugal]» y
+«NO disuelve la sociedad conyugal», en su orden, no es una respuesta al problema jurídico planteado.
+
+Por un lado, en tanto estas frases no pasaron de ser una afirmación, fundadas en la letra de los textos legales, sin someterla al cedazo constitucional, pues sobre estos artículos no se alzó ningún reproche que habilitara la revisión de su conformidad con la Carta Fundamental. De esta forma, se descarta una cosa juzgada constitucional.
+
+<!-- pagina 31 -->
+Por otra parte, en el primer caso, fue una locución suelta
+-obiter dicta-, sin conexión con los demás razonamientos del proveído. En el segundo fue parte de un sub-argumento esgrimido para sostener la exequibilidad parcial del literal b) del artículo 2° de la Ley 54 de 1990, sin integrar la ratio decidendi del fallo, de allí que no puede atribuírsele un carácter imperativo.
+
+Y, por último, debe resaltarse que la manifestación del órgano de cierre constitucional se hizo de forma genérica, sin evaluar las situaciones que pueden darse alrededor de la misma, que sin duda pueden tener injerencia en su interpretación y armonía con la nueva carta de navegación.
+
+Ante la inexistencia de un pronunciamiento de constitucionalidad sobre los efectos de una elongada separación de hecho de los cónyuges, de cara al reconocimiento y protección de todas las formas de familia, entre ellas, la unión marital de hecho, se hace necesario que esta Corte siente una postura que guíe la labor de toda la jurisdicción.
+
+2. La separación de hecho y el vínculo matrimonial en la legislación nacional.
+
+2.1. El matrimonio fue concebido, en la versión original del Código Civil, como un vínculo indisoluble, que sólo podía finiquitarse por muerte de alguno de los consortes o por nulidad.
+
+<!-- pagina 32 -->
+El divorcio fue previsto, pero no como forma de disolución matrimonial, sino para «suspende[r] la vida común de los casados» (artículo 153 original), en los casos de adulterio de la mujer, amancebamiento del marido, embriaguez habitual, absoluto abandono de los deberes conyugales y los ultrajes o maltratos de obra (artículo 154 original).
+
+Aceptado el principio de indisolubilidad, «en casos determinados en que la convivencia conyugal no era ya tolerable, admitió la separación personal (llamada separatio imperfecta o divortium semiplenum), la cual, mientras deja intacto el vínculo matrimonial…, hace cesar, por el contrario, la obligación de la comunidad de la vida conyugal»7.
+
+Explica la doctrina especializada: «El divorcio se refiere a dos cosas bien diversas: a la disolución del vínculo matrimonial -quo ad vinculum- y a la separación de los cónyuges dejando subsistente el vínculo -quo ad thorum-. La ley francesa autoriza ambas cosas. Nuestro Código sólo la segunda en atención a que cuando se hace imposible la vida común de los casados, bien por graves fallas del uno, o porque la existencia del otro esté en peligro, no queda más remedio que decretar la separación para evitar mayores males»8.
+
+Entre sus consecuencias se encontraba que los hijos quedaran bajo el cuidado de la madre (artículos 160 y 161
+
+7 GANGI, Calogero, Derecho Matrimonial, Aguilar, Madrid, 1960, pág. 231
+8 VÉLEZ, Fernando, Estudio sobre el Derecho Civil colombiano, Tomo I, 2ª ed.,
+Imprenta París-América, París, pág. 133.
+
+<!-- pagina 33 -->
+originales), la restitución de los bienes aportados por la mujer
+(artículo 163 original), el derecho a gananciales (ejusdem) y la disolución de la sociedad conyugal (artículo 1820 original), sin perjuicio de las excepciones reconocidas según las circunstancias.
+
+La separación de bienes fue habilitada «en virtud de decreto judicial o por disposición de la ley» (artículo 197), lo que resultaba procedente «en el caso de insolvencia o administración fraudulenta del marido»
+(artículo original), caso en el cual «se entregará a la mujer los [bienes] suyos, y en cuanto a la división de los gananciales se seguirán las mismas reglas que en el caso de la disolución del matrimonio» (artículo 203 original).
+
+El artículo 2° de la Ley 8 de 1922 adicionó, a las causales de separación de bienes, «las que autorizan el divorcio por hechos imputables al marido de acuerdo con el artículo 154 del Código Civil, y la disipación y el juego habitual de que trata el artículo 534 del mismo Código».
+
+Explicó la Corte, refiriéndose a estas figuras, que el
+Código Civil organizó «la simple separación de bienes en beneficio de la mujer, por los motivos señalados su art. 200 a que se agrega el del art. 1818 ibídem» y los del «art. 20 de la
+Ley 8a. de 1922», mientras que «el llamado divorcio de la legislación colombiana es el de la mera separación de cuerpos, sin ruptura del vínculo» (SC, 28 de noviembre de 1979, G.J. n.° 2318-2319 y 2320, pág. 186).
+
+<!-- pagina 34 -->
+2.2. Con la Ley 1ª de 1976 se fracturó la idea de la perpetuidad del matrimonio, claro está, únicamente para los civiles, por oposición de los religiosos, pues se permitió que pudiera disolverse «por la muerte real o presunta de uno de los cónyuges o por divorcio judicialmente declarado»
+(negrilla fuera de texto, artículo 1).
+
+Divorcio que va más allá de la cesación de la vida común, como aseguraba el Código Civil, pues ahora permite la extinción del vínculo matrimonial. Explica la exposición de motivos de esta ley que «el divorcio al que se refiere este proyecto es el denominado divorcio-sanción, por cuanto se considera que el divorcio-remedio, no es conveniente estatuirlo, en consideración de la realidad colombiana»9.
+
+Sanción que se expresa en que las causales «están inspiradas en el principio de culpabilidad, según el cual se exige la conducta intencionada para perturbar la vida común, y se apoya en la serie de actos o circunstancias estimados por el legislador contrarios al derecho conyugal, que deben darse en la persona del cónyuge culpable para que constituya infracción jurídica» (CSJ, SC, 4 de junio de 1977).
+
+Finiquitado el matrimonio es natural que también lo haga la sociedad conyugal, pues, por su naturaleza accesoria, sólo puede existir en cuanto aquél también perviva
+(artículo 10).
+
+9 Anales del Congreso, año XVIII, n.° 48, Imprenta Nacional, 11 de septiembre de
+1975, pág. 733.
+
+<!-- pagina 35 -->
+Por otra parte, la Ley 1ª de 1976 también consagró la
+«separación de cuerpos», aplicable al «matrimonio civil» y al
+«canónico» (SC, 24 de julio de 1978), entre otros motivos, «por mutuo consentimiento de los cónyuges manifestado ante el juez competente» (artículo 15), con la finalidad de suspender
+«la vida en común de los casados», para que de allí en adelante los consortes no estén «obligados a cohabitar, pues durante el estado de separación se suspende el derecho recíproco a la disposición de sus cuerpos, potestad que emana no sólo del hecho de estar casado, sino de la obligación de vivir juntos» (negrilla fuera de texto, CSJ, SC, 8 de julio de
+1977, G.J. n.° 2396, pág. 164).
+
+En este evento, «[l]os cónyuges al expresar su mutuo consentimiento en la separación indicarán el estado en que queda la sociedad conyugal y si la separación es indefinida o temporal y en este caso la duración de la misma, que no puede exceder de un año» (artículo 16). Si no hay convención, la comunidad de activos se extingue, «salvo que fundándose en el mutuo consentimiento de los cónyuges y siendo temporal, ellos manifiesten su voluntad de mantenerla» (artículo 25).
+
+Por último, en caso de que la separación perdure por
+«más de dos años», se configuraría una causal de divorcio
+(artículo 4).
+
+Esta ley, en suma, (I) permitió la extinción del matrimonio civil por las causales expresamente señaladas por el legislador; (II) consagró que los consortes pueden hacer cesar su vida común por su propia decisión; (III) señaló que
+
+<!-- pagina 36 -->
+la separación de cuerpos, salvo estipulación en contrario, extingue la sociedad conyugal; y (IV) dispuso que la separación que se extiende por más de dos (2) años configura una causal de divorcio.
+
+2.3. La Ley 25 de 1992, por la cual se desarrollan los incisos 9, 10, 11,12 y 13 del artículo 42 de la Constitución
+Política, comportó grandes cambios en el derecho de familia, pues reconoció los matrimonios religiosos con independencia del credo e impuso la extinción de sus efectos civiles por fuerza del divorcio.
+
+En cuanto interesa al sub examine, le otorgó consecuencias a la separación de hecho de los cónyuges, hasta entonces ignorada, al consagrarla como causal de divorcio, siempre que haya perdurado por un período de dos años o más (artículo 6).
+
+En la exposición de motivos de esta norma se lee:
+
+La causal octava del artículo 4° de la Ley 1ª de 1976 dice que da lugar al divorcio ‘la separación de cuerpos decretada judicialmente que perdure más de dos años’. Es una causal que nuestro proyecto busca mantener, por las mismas razones expuestas por el legislador del año 1976.
+
+Pero la adicionamos con esta otra: ‘la separación de cuerpos de hecho que perdura más de cuatro (4) años.
+
+Las razones, las mismas de las causas anteriormente mencionadas: Cuando una relación conyugal se rompe y ese rompimiento se mantiene por varios años, concretamente por más de cuatro (4), no hay razón para forzar al mantenimiento de un vínculo materialmente inexistente.
+
+<!-- pagina 37 -->
+Cuatro años son más que suficientes para continuar esperando al restablecimiento de la unidad de vida de los casados. Además, la separación de hecho es la más numerosa en la realidad colombiana, sobre todo en los sectores medio y bajo y se hace necesario proveer legalmente a estos casos10.
+
+Dicho de otra manera, cuando los cónyuges, de forma expresa o tácita, deciden romper la cohabitación sin acudir al juez, es posible que, de mantenerse esta situación en el tiempo, acudan al divorcio para finalizar el matrimonio.
+
+No se configura la causal tratándose de alejamientos temporales o del establecimiento de residencias diferentes por razones médicas, laborales, profesionales, académicas o cualesquiera otra, sino que debe existir una ruptura de la comunidad de vida, que se expresa en la fijación de domicilios disímiles, extinguiendo el techo, mesa y lecho comunes. Resumidamente, debe ser un abandono, expresa o tácitamente consentido, del deber de cohabitación.
+
+2.4. La Ley 25 de 1992, al viabilizar el divorcio por la separación de hecho, buscó dar respuesta a una necesidad social, causada por la indisolubilidad del matrimonio religioso, así como los costos asociados a la separación judicial de cuerpos, que condujeron a que en el país proliferaran los denominados concubinatos simple y doble, esto es, las uniones convivenciales donde uno o ambos integrantes, respectivamente, tenían matrimonios previos no disueltos.
+
+10 Anales del Congreso, año XXXV, n.° 57, Imprenta Nacional, 30 de abril de 1992, pág. 6.
+
+<!-- pagina 38 -->
+Estas modalidades se encontraban en «una relativa aceptación social…, debido a que en un alto porcentaje desearían legalizar la situación anterior para formalizar su nueva unión mediante el matrimonio. Sin embargo, en la mayoría de los casos no se presenta la legitimación debido a la rigidez normativa, los altos costos y los trámites engorrosos para regular la situación legal. Se observa pues claramente cómo un matrimonio que fracasa genera hoy esta modalidad hasta hace dos décadas inexistente»11.
+
+2.4.1. No obstante, y a pesar de la bondad de la medida, el legislador abordó el problema desde una sola de las aristas, huelga resaltarlo, el divorcio para acabar el casamiento, sin advertir sus implicaciones en los campos personal y patrimonial.
+
+Total, cuando los desposados se alejan entre sí, es obvio que faltarán a las cargas que emanan de la vida conjunta, tales como la convivencia y el débito conyugal. Asimismo, como «la comunidad [de bienes] presupone necesariamente la comunidad de vida de los cónyuges», se tiene que la
+«comunidad de bienes… se disuelve por efecto de la separación»12.
+El legislador nada dijo sobre estos efectos, lo que constituye un vacío regulatorio, que hasta tanto haya una intervención legislativa para su solución, debe ser solventado por los jueces.
+
+11 ECHEVERRI DE FERRUFINO, Ligia, La familia de hecho en Colombia, Constitución, características y consecuencias socio-jurídicas, Tercer Mundo, 1987, pág. 59.
+12 GANGI, Calogero, op. cit., pág. 235.
+
+<!-- pagina 39 -->
+Omisión que resulta inescrutable, pues bastaba que el legislador de 1992 revisara el contenido y alcance de la separación judicial de cuerpos, incorporada con la Ley 1ª de
+1976, para advertir que la cesación de la cohabitación, además de dar paso al divorcio, tiene consecuencias sobre la vida y bienes de los cónyuges, como ya se explayó previamente.
+
+2.4.2. De esta forma se suscitó, inconscientemente, una asimetría regulatoria entre las dos modalidades de separación, por cuanto, mientras que la judicial exime de la cohabitación a los consortes, disuelve la comunidad de gananciales y habilita el divorcio después de dos años, la de hecho sólo da lugar a esta última consecuencia.
+
+Situación agravada por la falta de explicación o justificación sobre esta diferenciación, en tanto la exposición de motivos de la Ley 25 de 1992 guardó silencio sobre la temática.
+
+Así queda en evidencia que se configuró una omisión legislativa en cuanto a la separación de hecho de los cónyuges, pues, a pesar de ser reconocida para permitir la conclusión del matrimonio, no se gobernaron de forma integral sus efectos, como sí se hizo en el pasado para la separación judicial de cuerpos.
+
+2.5. La laguna antes advertida adquirió mayor relevancia con el avance progresivo en el reconocimiento de los derechos patrimoniales de los compañeros permanentes,
+
+<!-- pagina 40 -->
+en tanto la continuidad de la sociedad conyugal, a pesar de la separación de hecho de los esposos, impedía la conformación de la sociedad patrimonial.
+
+Con los años, no sólo muchos compañeros sentimentales vieron truncada la posibilidad de recibir una participación equitativa sobre los bienes que ayudaron a conseguir, aunque formalmente estaban en cabeza de su pareja, sino que adicionalmente aparecieron los casos en que cónyuges, extraños al proyecto de vida de su consorte por haberse alejado años atrás, aparecieron sorpresivamente para pretender la mitad de los activos que no ayudaron a construir.
+
+Como consecuencia, el compañero o compañera permanente fueron privados de los bienes comunes, afectando su patrimonio y los futuros ingresos, los cuales se ven socavados por la invocación de un matrimonio huero, que no es más que un cascarón sin sustrato o contenido alguno, que se funda en la mera formalidad de que la sociedad conyugal se mantiene a pesar de que no exista comunidad de vida real entre los consortes.
+Y no se diga que este efecto emana de la propia torpeza de la persona afectada, pues no es dable asegurar, sin incurrir en la falacia de conclusión desmesurada, que todos los compañeros permanentes conocen el estado civil y condiciones patrimoniales de sus parejas.
+
+No en vano se asegura que «[l]a separación de hecho da a los cónyuges la apariencia de solteros. Esa apariencia es
+
+<!-- pagina 41 -->
+capaz de engañar a terceros»13. Por tanto, nada se opone a que los compañeros sentimentales creen en su pareja la apariencia de soltería y, bajo este manto, emprendan una vida conjunta. Además, por convicciones morales o ignorancia, es posible que los partícipes establezcan un proyecto familiar sin cuestionar o indagar sobre las relaciones previas de su homólogo, o que, por engaño o inducción al error, se haga creer que no existen matrimonios previos o, por lo menos, que la situación patrimonial con el cónyuge fue resuelta.
+
+En estos escenarios, el compañero o compañera que forme una relación estable con una persona que considera soltera, que finalmente resulta casada, no puede ser castigada con la pérdida de sus derechos económicos sobre la unión marital de hecho soportada en el principio de que nadie puede invocar su incuria en su favor.
+
+Incluso, aunque en gracia de discusión se acepte que los compañeros deben conocer el estado civil y jurídico de su pareja, lo cierto es que se encuentran desprovistos de una acción para garantizar su derecho patrimonial, pues carecen de mecanismos para obtener la disolución de la sociedad conyugal y, por ende, viabilizar su comunidad de bienes.
+
+En efecto, según el canon 157 del Código Civil, «[e]n el juicio de divorcio son partes únicamente los cónyuges», por lo
+
+13 MAZEAUD, Henri y MAZEAUD, Jean, Lecciones de derecho civil, La familia, organización de la familia, disolución y disgregación de la familia, Parte Primera,
+Volumen IV, Ed. Jurídicas Europa-América, Buenos Aires, 1976, pág. 568.
+
+<!-- pagina 42 -->
+que el compañero o compañera permanente carece de legitimación, lo que descarta incuria o negligencia.
+Recuérdese que es un principio general del derecho que
+«nadie está obligado a lo imposible» (cfr. SC2850-2022,
+SC5755-2014 y SC, 5 de julio de 2007, rad. n.° 1989-09134-
+01).
+
+2.6. La jurisprudencia respondió a esta iniquidad echando mano, como lo hizo cien años atrás, de la sociedad civil de hecho, con la precisión de que «‘no puede exigirse, en forma tan radical, para [su] reconocimiento… que la conjunción de aportes comunes, participación en las pérdidas y ganancias y la affectio societatis surja con prescindencia de la unión extramatrimonial y que no tenga por finalidad crear, prolongar o estimular dicha especie de unión, pues, por el contrario en uniones concubinarias con las particularidades de la aquí examinada no puede escindirse tajantemente la relación familiar y la societaria, habida cuenta que sus propósitos económicos pueden estar inmersos en esa comunidad de vida (…)’ (cas. civ. sentencia de 27 de junio de
+2005, exp. 7188)» (SC, 24 feb. 2011, rad. n.° 2002-00084-01).
+
+Empero, esta solución no resulta satisfactoria, porque
+(I) obliga a la parte afectada a la demostración de elementos que no son propios a la vida de pareja, (II) no garantiza un resultado equitativo en la distribución y, (III) eventualmente, somete a los compañeros a la disolución y liquidación forzosa de su comunidad de activos.
+
+<!-- pagina 43 -->
+Frente al primero de los puntos basta traer a la memoria que, para la declaración judicial de la sociedad de hecho concubinaria, deben demostrarse los ingredientes específicos del contrato de sociedad, como son los aportes, el ánimo de asociarse, el desarrollo de un objeto social y el reparto de utilidades, los cuales son ajenos a una relación de familia.
+
+Requisitos que suponen cargas probatorias adicionales, quizá difíciles de alcanzar, que entorpecen el disfrute de los derechos patrimoniales de los compañeros permanentes, pues suponen probanzas que van más allá de la acreditación de un proyecto de vida común y permanente, por el tiempo mínimo señalado en la ley.
+
+Precisamente, sobre esa base se rechaza la asimilación entre el contrato de sociedad y la comunidad de activos entre cónyuges, reflexión que se hace extensiva a los compañeros permanentes:
+
+[L]a sociedad de gananciales no es una sociedad o forma parte de ella… Mediante el contrato de sociedad se crea una persona jurídica independiente de los socios; en cambio, la sociedad de gananciales no tiene personalidad jurídica… Para ingresar a una sociedad se requiere de una aportación de cada uno de los socios, lo que no necesariamente sucede en la sociedad de gananciales, en la cual puede aportar bienes uno solo de los cónyuges. El contrato de sociedad persigue un fin económico, mientras que la sociedad conyugal principalmente tiene por objeto solventar la económica del hogar. Las aportaciones que se hacen a una sociedad pasan a ser de propiedad de la misma, por eso quien las otorga deja de ser propietario, lo que no ocurre con la sociedad de gananciales, pues aquel o aquella que aporta un bien no pierde la titularidad del mismo, y más bien este régimen lo regula como bien propio con sus particulares normas; además la sociedad de
+
+<!-- pagina 44 -->
+gananciales no tiene el elemento característico que se da en la persona jurídica, esto es, el animus o affectio societatis…14
+
+Respecto del segundo tópico, se tiene que el patrimonio de la sociedad de hecho debe ser liquidado de conformidad con los aportes realizados por cada socio, en comparación con el total del capital social (artículo 249 del Código de
+Comercio), de allí que sea indispensable demostrar su cuantía y realización.
+
+Diferente a la distribución de la sociedad patrimonial, pues se divide por partes iguales entre los compañeros, con independencia del valor o forma de contribución.
+
+Desde esta óptica, los convivientes ya no aspiran a recibir una alícuota equivalente a la de su compañero, sino que dependerá del aporte que logren demostrar ante la autoridad judicial, lo que arrojará reparticiones desiguales.
+Finalmente, la disolución y liquidación de la sociedad civil de hecho puede verse coaccionada por la pretensión del cónyuge que pretende sus gananciales sobre la sociedad conyugal no disuelta, pues, de promoverse esta última, corresponde a los compañeros permanentes acudir a la terminación del contrato de sociedad, para determinar sus derechos y evitar su afectación por parte de la demanda de aquél.
+
+14 AGUILAR LLANOS, Benjamín, Regímenes patrimoniales del matrimonio, Gaceta
+Jurídica, Lima, 2019, pág. 46.
+
+<!-- pagina 45 -->
+Actividad que no depende del querer o decisión de los compañeros, sino que es forzada por la acción del tercero, quienes resultan compelidos a terminar la empresa conjunta, aunque no deseen o pretendan hacerlo ante la continuidad de su vínculo sentimental.
+
+Lo expuesto deja en evidencia que la solución jurisprudencial, ciertamente noble, deja en una desventaja sustancial a los compañeros permanentes, al tener que acudir a las reglas de la sociedad civil de hecho, no sólo contrarias a la naturaleza y contenido de la sociedad patrimonial, sino con cargas probatorias y limitaciones que afecten su participación en el patrimonio familiar construido en conjunto.
+
+2.7. La problemática descrita adquiere una dimensión superlativa al evaluarse en el contexto del cambio constitucional, por cuanto la solución que emana de la literalidad de la norma comporta un atentado directo a los valores y principios del nuevo texto fundamental.
+En concreto, se afecta la justicia en las relaciones sociales, la igualdad de todas las clases de familia, la buena fe y la autonomía de la voluntad, como se mostrará en lo subsiguiente.
+
+2.7.1. Afectación al valor de la justicia.
+
+(I) Señala el preámbulo de la Constitución Política que este instrumento fue instituido, entre otros fines, para
+«asegurar a sus integrantes… la justicia». Además, al
+
+<!-- pagina 46 -->
+enlistar los objetivos del Estado, incluyó «asegurar… la vigencia de un orden justo» (negrilla fuera de texto).
+
+Justicia «que no solamente compromete al Estado», sino que implica «a toda la comunidad y a cada uno de sus miembros» (C.C., C-486/93), por tratarse de un valor que subyace a toda la estructura jurídica nacional y que constituye
+«la estructura básica de toda sociedad democrática» (SC4052-2021).
+
+Entendiéndose la justicia «como esencial virtud de toda forma de organización social, ya sea nacional o extranjera»
+(SC4049-2021), que, conforme a la clásica enunciación de
+Ulpiano, corresponde a «la constante y perpetua voluntad de conceder a cada uno su derecho» (numeral 1-1-10 del
+Digesto15).
+
+Su objeto primario, según la mención realizada por la
+Sala a la obra de John Rawls, «es la estructura básica de la sociedad o, más exactamente, el modo en que las instituciones sociales más importantes distribuyen los derechos y deberes fundamentales y determinan la división de las ventajas provenientes de la cooperación social» (SC, 21 de mayo de
+2010, rad. n.° 2002-00495-01).
+
+La Corte Constitucional ha señalado que la justicia se traduce en «el compromiso que deben asumir todas las personas de respetar los derechos de los demás, de no abusar
+
+15 Los cincuenta libros del Digesto, Parte Primera del Digesto o Pandectas del Derecho
+Corregido, Tipografía de J. Sebastiá Villa, Barcelona, SAE, pág. 199.
+
+<!-- pagina 47 -->
+de los propios y de cumplir con sus deberes y obligaciones constitucionales y legales» (T-890/14).
+
+Luego, la justicia es un valor que requiere concreción en cada caso, dentro del contexto de los derechos subjetivos y las obligaciones correlativas que garantizan su disfrute efectivo.
+
+(II) Visto lo anterior, anticípese que la pervivencia de la sociedad conyugal, aún en el escenario de la separación de los cónyuges por un período significativo, comporta un aprovechamiento injusto sobre el trabajo y esfuerzo ajeno por parte del cónyuge separado de hecho.
+
+Así se colige de considerarse que, una vez se rompe la convivencia por el distanciamiento libre y voluntario de los consortes, se abandona el proyecto colectivo y comienzan individuales, en una especie de sustitución de la empresa conjunta por particulares, en cuya dirección y ejecución ninguna injerencia tiene la expareja.
+
+Por tanto, las consecuencias positivas o negativas de la actividad exclusiva deben redundar únicamente en quien participa de forma directa en ella, como retribución a su esfuerzo o materialización de los riesgos que asumió de manera autónoma.
+
+Cuando uno de los consortes pretende aprovecharse de la actividad ajena o es llamado para que responda de las consecuencias negativas de la misma, se rompe la equidad
+
+<!-- pagina 48 -->
+de las relaciones jurídicas, ya que se atribuyen consecuencias sobre quien no consintió, promovió, apoyó o cohonestó su causa.
+
+Expresado a modo de interrogante, ¿cómo podría hablarse de justicia si un cónyuge separado de hecho, por un acto o decisión de voluntad, pueda ser llamado muchos años después para cubrir con su peculio las deudas de su esposo o esposa, que no conoció ni aceptó? ¿esto mismo no sucede tratándose de la apropiación de los bienes en los que no participó?
+
+Sufrir un efecto patrimonial, que no fue fruto de un acto mancomunado, sino expresión de la individualidad en que se pusieron libremente los esposos, significa participar en algo que le es ajeno, tanto en lo positivo como en lo negativo, lo que contraviene una regla básica de justicia.
+2.7.2. Afectación de la igualdad en todas las clases de familia.
+
+(I) Como ya se explicó, por fuerza del artículo 42 de la
+Constitución Política, en nuestro país se reconocen y deben protegerse todas las formas de organización familiar, sin distinción de ninguna clase.
+
+La Corte Constitucional afirma: «Como bien corresponde a un Estado que reconoce y protege la diversidad étnica y cultural de la nación colombiana (Art. 7 C.N.) no existe un tipo único y privilegiado de familia sino un pluralismo evidente en los diversos vínculos que la originan, pues ellos pueden ser
+
+<!-- pagina 49 -->
+tanto de carácter natural como de carácter jurídico. También se le reconoce consecuencias a la voluntad responsable de conformar una familia… Es claro… que el Constituyente consagró un espacio a la familia de hecho en condiciones de igualdad con otros tipos, en desarrollo de lo dispuesto por el artículo 13 de la Carta vigente» (T-523-92).
+
+Reconocimiento que no se traduce en un igualitarismo, pues hay diferencias esenciales entre las tipologías por su origen o sus efectos. Con todo, en ningún caso son admisibles tratos disímiles que no encuentren fundamento legítimo, en garantía del derecho a la igualdad.
+
+Tratándose del matrimonio y la unión marital de hecho, la prevalencia de la sociedad conyugal sobre la sociedad patrimonial de hecho se ha explicado así:
+[Hay] diferencias esenciales que separan la unión marital de hecho y el matrimonio…
+
+Por tanto, el hecho de que legislativamente se impida la declaración judicial de una sociedad patrimonial ante la existencia de una sociedad conyugal en cabeza de cualquiera de los compañeros permanentes, sin que suceda lo mismo en el caso contrario, encuentra soporte en que la Constitución Política no equiparó estos vínculos, sino que defirió a la libertad de configuración del Congreso de la República el señalamiento de las normas que gobiernan a una u otra, así como sus efectos.
+
+Máxime porque el trato diferente tiene un propósito constitucionalmente admisible, como es evitar la confusión patrimonial que puede generarse ante la coexistencia de las universalidades jurídicas emanadas de diversas fuentes, sin que existan otros instrumentos legales menos gravosos que permitan la satisfacción de esta finalidad.
+
+<!-- pagina 50 -->
+Huelga enfatizarlo, como la sociedad conyugal y la patrimonial, salvo las excepciones legales, se conforman por todos los bienes adquiridos en vigencia de las mismas, con independencia del aporte que hubieren realizado los integrantes, permitir su coexistencia trasluciría una mixtura de irremediable solución.
+Frente a esta eventualidad, es constitucionalmente admisible que se prohíba su simultaneidad, incluso si para estos fines se impide la conformación del fondo patrimonial entre compañeros permanentes, hasta tanto no se liquide la preexistente sociedad conyugal (negrilla fuera de texto, CSJ, SC003-2021).
+
+Remárquese, el derecho a la igualdad se encuentra garantizado, a pesar de la primacía de la sociedad conyugal a que se refiere el artículo 2 de la Ley 54 de 1990, por ser una medida idónea para evitar una coexistencia de universalidades jurídicas, lo que dificultaría deslindar los activos y pasivos que las integran.
+
+(II) Sin embargo, este argumento únicamente tiene plena aplicación tratándose de relaciones concomitantes, en tanto, de concurrir un matrimonio y una o varias uniones maritales de hecho, coexistirían múltiples universalidades.
+
+La situación es diferente cuando se trata de vínculos subsiguientes, pues la sucesión en el tiempo garantiza que, con la extinción de la previa, pueda formarse una universalidad posterior, y así de manera sucesiva, sin que concurran en el mismo período.
+
+Esta última hipótesis es la que se configura cuando hay separación de hecho entre los cónyuges, pues una vez cesa la vida común es posible establecer un hito temporal que servirá para deslindar los activos conyugales de los demás,
+
+<!-- pagina 51 -->
+evitando la confusión patrimonial. Huelga explicarlo, una vez opera el distanciamiento material de los consortes, siempre que se mantenga por un tiempo suficiente para denotar una voluntad definitiva, es dable fijar el hito final de la sociedad de gananciales, sin que las universalidades posteriores se traduzcan en una mezcla de bienes y pasivos.
+
+Por ende, el impedimento para conformar una sociedad patrimonial, por la existencia previa de una sociedad conyugal, desvela una afrenta a la igualdad de todos los tipos de familia, cuando los cónyuges se han separado de hecho, pues en este evento la independencia patrimonial se garantiza con la simple sucesión temporal de universalidades jurídicas.
+(III) Se agrega a lo dicho que, siendo la sociedad conyugal un efecto accesorio del casamiento, cuando éste deviene vacuo o vacío, aquélla se queda sin sustrato, por lo que su protección jurídica, de forma superior a la sociedad patrimonial de hecho, desatiende el principio de igualdad.
+
+Y es que cuando el matrimonio, entendido como el convenio por el cual dos personas «se unen con el fin de vivir juntas, de procrear y auxiliarse mutuamente» (artículo 113 del
+Código Civil), cesa materialmente por cuenta de la separación de hecho de los consortes, el mismo deviene en una simple formalidad, sin un contenido sustancial que amerite una tutela jurídica. Lo mismo sucede con la sociedad conyugal, en tanto pierde su basamento, de allí que propugnar por su primacía sobre otras comunidades de bienes, en verdad descubre una parcialidad contraria a la igualdad.
+
+<!-- pagina 52 -->
+Dicho de otra manera, la preeminencia de la comunidad de activos entre los cónyuges sólo resulta explicable en el supuesto de que haya una comunidad de esfuerzos que reclame la conjunción de patrimonios, por necesitarse para llevar a buen puerto este proyecto colectivo. De desaparecer este fundamento tiene que extinguirse la preferencia, por decaer en el vacío, o sea, quedarse sin objeto.
+
+No puede olvidarse que la sociedad conyugal, más allá de la solemnidad matrimonial, es fruto de la fusión de patrimonios que se genera cuando se contrae un proyecto familiar, basado en objetivos que son compartidos y que se propende por su logro, que reclama compromisos patrimoniales o esfuerzos personales de todos sus integrantes, sin que sea posible particularizarlos. En consecuencia, rota la empresa familiar, decae la sociedad de bienes, por lo que su protección prevalente es reflejo de una desigualdad estructural, que debe ser superada con la entrada en vigencia de la Constitución Política.
+
+Asegura la doctrina que el régimen de comunidad de activos se fundó en «el derecho de la mujer sobre las conquistas [que] se traducía verdaderamente en una recuperación de los bienes comunes», que «ve en los esposos más bien socios que marido y mujer. Conducían a eso no solamente los principios cristianos, sino también las comunidades tácitas de la Edad Media: las personas que compartían la ‘misma olla’ se presumía que formaban una
+
+<!-- pagina 53 -->
+sociedad al cabo de un año y un día; era natural aplicarle a los esposos las reglas de esa sociedad»16.
+
+2.7.3. Afectación a la buena fe y prohibición del abuso del derecho.
+
+(I) Dispone el numeral 1° del artículo 95 de la
+Constitución Política que son deberes de la persona y del ciudadano «[r]espetar los derechos ajenos y no abusar de los propios». Regla de la cual dimana, entre otros, la carga de actuar sin invadir la órbita de prerrogativas de terceros, y evitar que los derechos propios sean utilizados de forma contraria a su razón de ser o para dañar a otros.
+
+La Corte Constitucional explica que «los derechos y principios reconocidos al ser humano no son absolutos y, por tanto, encuentran limitaciones derivadas, entre otras, de la propia naturaleza humana o de las imposiciones establecidas por la Constitución y la ley para mantener el Estado social de derecho dentro de un clima de convivencia social que implica la conciliación y regulación de intereses y derechos particulares» (SU-476-97).
+
+La buena fe «es un principio del ordenamiento que indica que las personas deben celebrar sus negocios, cumplir sus obligaciones, y, en general, emplear con los demás una conducta leal. La lealtad en el derecho se desdobla en dos
+
+16 MAZEAUD, Henri y MAZEAUD, Jean, Lecciones de derecho civil, La organización del patrimonio familiar (los regímenes matrimoniales), Parte Cuarta, Volumen I, Ed.
+Jurídicas Europa-América, Buenos Aires, 1977, págs. 146 a 148.
+
+<!-- pagina 54 -->
+direcciones: primeramente, cada persona tiene el deber de emplear para con los demás una conducta leal, una conducta ajustada a las exigencias del derecho social; en segundo término, cada cual tiene el derecho de esperar de los demás, esa misma lealtad» (CSJ, SC, 23 de junio de 1958, G.J.
+LXXXVIII, n.° 2198, reiterada SC425-2024).
+
+Sobre el abuso del derecho hay decantada jurisprudencia que explica que se incurre en este comportamiento cuando, en el ejercicio de un derecho legítimo, se desconoce su finalidad o se atenta contra terceros. En palabras literales de esta Corporación:
+
+[E]l abuso del derecho constituye una especie particular de la cultura aquiliana; por ende en el abuso puede irse desde la culpa más grave, equivalente al dolo, en que el agente procede movido por la intención de causar daño, animus nocendi, hasta el daño ocasionado por simple negligencia o imprudencia no intencionada.
+(SC, 21 de febrero de 1938, G.J. XLVI, n.° 1932, pág. 56).
+
+Explayada así:
+
+Cada día se ha ido hallando más claramente que con dañada intención o sin ella el titular de un derecho puede ejercitarlo innecesaria, o excesiva o inoportunamente y aún desviarlo de su finalidad efectiva. En todos estos casos ésta se yergue para darle una voz de alto a ese abuso en guarda de sí misma y, por ende, del interés social, ya que el establecimiento de los derechos, los individuales inclusive, y su respaldo por el
+Estado no pueden descuidar ni dejar de tener presente a todo momento el bien de la sociedad, a la que no puede ser indiferente el que el individuo la dañe y la que no puede ejercer su propia misión de garantía en forma de emplear sus fuerzas en dañarse a sí misma, como lo haría si no limitara o vedara el mal que en cualquiera de las formas aludidas cause alguien tan sólo porque lo causa ejerciendo un derecho, sin que se pudiera, por esto sólo,
+
+<!-- pagina 55 -->
+inquirir y discriminar si lo está ejerciendo legítima y normalmente
+(negrilla fuera de texto, SC, 24 de marzo de 1939, G.J. XLVII n.°
+1940, pág. 742).
+
+Y recientemente remarcada:
+
+El principio que prohíbe el ejercicio abusivo de los derechos subjetivos hunde sus raíces en el derecho clásico romano, en el que al lado de la máxima que sentenciaba que ningún daño hace quien usa su derecho (nullus videtur dolo facere qui suo iure utitur) florecieron otras que atemperaron su rigor, como las que pregonaron que no se debe usar mal el derecho (male enim nostro iure uti non debemus) y que un derecho exagerado constituye una gran injusticia (summum ius summa iniuria); se vuelve tangible en las edades Media y Moderna con la
+«prohibición de realizar los llamados actos emulativos…entendiéndose por ‘emulación’ la intención de perjudicar que alguno tuviere al ejecutar un acto realizado dentro de los límites marcados por la ley» (teoría subjetiva), así como con la teoría de las inmisiones que reprochaba las emisiones anormales derivadas de la propiedad, tales como olores, humo, ruido (objetiva); arriba a la edad contemporánea de la mano del
+Código de Napoleón (1804), del que son tributarias muchas otras codificaciones civiles, incluyendo la colombiana (1887), en la cual, no obstante su acentuado corte individualista, se puede atisbar una clara limitación al dominio, al definirlo en su artículo 669 como el «derecho real de una cosa corporal para gozar y disponer de ella arbitrariamente, no siendo contra la ley o derecho ajeno» (se destaca); y definitivamente adquiere un espacio en la práctica jurídica cotidiana a raíz de los importantes desarrollos que se dieron en Francia, tanto los jurisprudenciales de finales del siglo
+XIX, como los doctrinales de principios del XX con Josserand a la cabeza.
+
+En Colombia, la Corte de oro (1936-1940) reconoció su existencia y relevancia en el ordenamiento jurídico, junto a otros conceptos y principios señeros que en su fructífera labor «descubrió», como el enriquecimiento sin causa, el error común creador del derecho, la imprevisión contractual y el fraude a la ley, amén de la teoría de las actividades peligrosas, entre otros.
+
+<!-- pagina 56 -->
+Desde entonces, la jurisprudencia lo ha aplicado indistintamente en diferendos contractuales y extracontractuales, tales como el ejercicio de las acciones judiciales en general y, de manera especial, en el caso de los embargos excesivos, las denuncias temerarias, la terminación unilateral de contratos y las cláusulas abusivas, etc., y a la sazón puede predicarse que constituye una importante herramienta para el planteamiento y resolución de diversas situaciones jurídicas (negrilla fuera de texto, SC616-
+2024).
+
+(II) Nadie discute que la sociedad conyugal es un efecto connatural al acto matrimonial, como lo previene el artículo
+180 del Código Civil, en el sentido de que por el hecho del casamiento se conforma una comunidad de activos entre los cónyuges, que deberá distribuirse al momento de la disolución, salvo que se hayan convenido capitulaciones matrimoniales (artículo 1771 ídem).
+
+De allí que la Sala haya fijado:
+
+Si antes de perfeccionarse la unión nupcial, los esposos no otorgan capitulaciones matrimoniales, entonces, se repite, por ministerio de la ley y por el solo hecho del matrimonio, se forma entre ellos la sociedad conyugal que la ley civil reglamenta. En tal evento, es la voluntad del legislador la que impone este régimen, para cuyo establecimiento no se exige el querer de los desposados. Por ello se ha sostenido, con propiedad, que esta sociedad de bienes se forma aún sin consentimiento de los consortes y aún contra su expresa voluntad, pues a falta de capitulaciones válidas y aunque los cónyuges no lo quieran así, por el hecho del matrimonio se forma entre ellos esa sociedad conyugal, según expresamente lo disponen los artículos 180 y 1774 del Código Civil (SC, 1 ag. 1979,
+G.J. n.° 2400, p. 257).
+
+Comunidad de activos que se extingue por las causales señaladas en el artículo 1820 del Código Civil, dentro de las
+
+<!-- pagina 57 -->
+que no se encuentra la separación de hecho de los desposados.
+
+(III) Sin embargo, cuando un cónyuge, al abrigo de estos preceptos y a pesar de haberse separado de facto y largamente de su consorte, se aprovecha de los bienes o activos adquiridos por éste con posterioridad a la separación, a sabiendas de que no contribuyó en su adquisición, ni participó de forma directa o indirecta en su conservación, administración o explotación, está ejerciendo su derecho de gananciales de forma contraria a la buena fe y en abuso del mismo, contrariando la Carta Fundamental.
+Y es que, reitérese a riesgo de hastiar, una vez cesa la vida común, por fuerza de la separación física, finiquita el trabajo mancomunado y los esfuerzos colectivos, por lo que aguardar pasivamente al paso de los años y después pretender recibir un porcentaje de los activos adquiridos en este período, trasluce una conducta contraria a la lealtad, honestidad y rectitud, además de comportar una desfiguración del derecho a participar en la sociedad conyugal, por pretender usufructuar en una empresa de la cual no hizo parte, que se construyó sin su esfuerzo y que no cooperó para su realización.
+
+En verdad se busca un incremento patrimonial con base en una formalidad y con plena conciencia de que no se contribuyó en su consecución, y muchas veces con la finalidad de afectar o dañar, tanto al consorte, como al nuevo compañero o compañera sentimental.
+
+<!-- pagina 58 -->
+Luego, cuando asoma la reclamación de disolución y liquidación de la sociedad conyugal, incluyendo el período posterior a la separación de hecho, se ejerce el derecho de gananciales de una forma contraria a su finalidad, esto es, no se invoca para garantizar la distribución de los activos sociales entre quienes participaron en la comunidad de vida, sino para amputar la nueva sociedad de bienes y apropiarse por quien no hizo parte de ella, quitándosela a los que sí trabajaron para alcanzarla.
+
+Emerger del pasado, aprovechando un título meramente formal, como es la calidad de esposo o esposa, para quitarle el fruto del esfuerzo emprendido por los compañeros permanentes posteriores, es demostración de un actuar que busca afectar los derechos ajenos y extralimitar los propios.
+
+2.7.4. Afectación al principio de la autonomía de la voluntad.
+
+(I) La voluntad individual fue consagrada en los artículos 16 y 42 de la Constitución Política, relativos al libre desarrollo de la personalidad y la protección de todas las clases de familia, que en su conjunto permiten que las personas puedan autodeterminarse, incluso en asuntos familiares, sin más restricciones que los derechos de terceros y las normas de orden público.
+
+Voluntad que puede ser expresa, tácita o incluso fruto del silencio. Expresa porque emana de un acto de
+
+<!-- pagina 59 -->
+comunicación, como el oral o escrito. Tácita si es consecuencia de un acto inequívoco. Y el silencio, si bien como regla general «no tiene efectos en el campo del derecho», hay contextos donde «puede tenerlos… según la naturaleza o especificidad de cada derecho o relación jurídica, acorde con las regulaciones normativas, que no contemplan un efecto unívoco para el mutismo de las personas, o cuando media pacto expreso de las partes» (SC130-2018).
+
+(II) La autodeterminación y la protección de todos los tipos de familia reclaman que la decisión de los consortes, en asuntos que sólo le conciernen, no pueda ser pretermitida o ignorada, sino que debe ser considerada y reconocida.
+
+Subsiguientemente, expresada de forma tácita la determinación de los cónyuges de concluir su vínculo, fruto del alejamiento voluntario del proyecto común, con la consecuente cesación de sus obligaciones correlativas, corresponde al orden jurídico reconocerla, so pena de socavar su autonomía y desconocer las particularidades de sus proyectos de vida.
+
+Naturalmente, uno de estos efectos es la extinción de la sociedad conyugal por causa de la ruptura de la comunidad marital, que queda sin trasfondo, al no tener justificación para mantener un vínculo patrimonial sin conjunción de vidas.
+
+Aseverar que la sociedad conyugal pervive, a pesar de que los consortes decidieron ponerle fin tácitamente, como
+
+<!-- pagina 60 -->
+se infiere del hecho del alejamiento, es un sacrificio injustificado de la libertad individual, valor, principio y derecho reconocido en nuestra Carta Fundamental y sería tanto como desconocer su propia manifestación de voluntad cuando eligieron distanciarse.
+
+2.8. Deviene de lo expuesto, a título de recapitulación, que la literalidad de la norma que gobierna las causales de disolución de la sociedad conyugal -artículo 1820 del Código
+Civil-, al no consagrar dentro de ellas la separación de hecho de los cónyuges, apareja:
+
+(I) un vacío regulatorio, por no gobernar integralmente los efectos de este acto, al olvidar los efectos personales y patrimoniales que le son ingénitos;
+
+(II) una asimetría regulatoria, entre la separación judicial y la de hecho, pues aquélla comprende la cesación de las obligaciones propias de la vida común, extingue la sociedad conyugal y, pasado el tiempo, permite el divorcio, mientras que la de hecho sólo se reconoció para este último fin; y
+
+(III) su aplicación genera un resultado injusto, por permitir que el cónyuge separado se aproveche, de forma consciente y, en cierta medida, maliciosa, de los frutos de una actividad en la que no participó y que socava la expectativa legítima de quien los cultivó, incluso de los posteriores compañero o compañera permanente, en contravención de los valores y principios constitucionales de
+
+<!-- pagina 61 -->
+la justicia, igualdad de todas las especies de familia, autodeterminación y prohibición de irrespetar los derechos de terceros o abusar de los propios.
+
+3. La separación de hecho: vacío normativo y superación por medio de la analogía.
+Con lo dicho hasta aquí, está demostrado cómo los cambios sociales y constitucionales, así como la regulación deficiente -con la Ley 25 de 1992- de la separación de hecho, provocaron una anomia con relación al ámbito patrimonial del matrimonio, que eventualmente puede afectar la participación en la sociedad patrimonial de hecho entre compañeros permanentes.
+
+Esto, itérese, queda al descubierto a partir de la destacada evolución social de las formas de familia, aunado al reconocimiento constitucional de ese núcleo como institución y el intento - exiguo - del legislativo por dar cuenta de ese panorama en el ordenamiento interno. A esa conclusión se llega luego de realizar, como se hizo en este proveído, una interpretación histórico-lógico y sistemática del régimen marital colombiano actual.
+
+Para solucionar esta anomia es menester acudir a los instrumentos de integración del derecho, en particular, a la analogía, lo que permitirá encontrar una respuesta armónica con los valores de la justicia, igualdad, buena fe, prohibición de abuso del derecho y autonomía de la voluntad, como pasa a explicarse.
+3.1. Los vacíos en el derecho.
+
+<!-- pagina 62 -->
+3.1.1. Las lagunas o anomías hacen referencia a los vacíos regulatorios, esto es, situaciones fácticas que carecen de preceptos que gobiernen sus elementos o efectos, o éstos resultan insuficientes.
+
+La Sala ha dicho: «[l]as lagunas son omisiones de las normas que dejan de regular uno o varios supuestos de hecho que deben ser resueltos por el juzgador» (SC370-2023).
+
+Y es que, la plenitud hermética del derecho, es una ficción, pues no es posible que el legislador prevea todas las respuestas a los problemas jurídicos que existen en la sociedad, no sólo por su variedad, sino también porque la evolución impone desafíos impensables en el pasado.
+
+La Sala ha reconocido que
+
+La evidencia palpable de los avances de la ciencia a límites insospechados, ha puesto en aprietos la tarea del juez, quien so pretexto de tener ante sí el universo jurídico concebido de manera que en él quepan cualesquiera situaciones jurídicas, a modo de plenitud hermética de que ha hablado algún autor, deberá siempre fallar secundum jus. Y así ante otrora inimaginables contratos -alquiler de vientres-, o procedimientos -clonación-, se enfrenta el juez a la dura tarea de concebir, en aras de la búsqueda del ideal de lo justo, la norma aplicable y su ductilidad para que en ella se comprendan más aspectos que los que tuvo en mente el propio legislador (SC, 10 de marzo de 2000).
+
+Fundada en que:
+
+El paradigma de la plenitud del ordenamiento jurídico parece ser una de las características más discutibles del positivismo jurídico y se halla asociada al renacer del derecho romano y a la excesiva confianza en el corpus iuris como una obra que proveía todas las respuestas a los problemas que la realidad planteaba. Así, el lugar que inicialmente ocupó el corpus iuris fue tomado por el
+
+<!-- pagina 63 -->
+Derecho estatal, que como un signo de poder político desembocó en la reafirmación del monopolio de la producción del Derecho, y la confianza, tal vez excesiva, en las grandes codificaciones y en la exégesis de los textos legales, todo lo cual llevó a una sobreestimación fetichista del legislador…
+
+No obstante lo anterior, los críticos del positivismo en su momento denunciaron la existencia de lagunas ideológicas o axiológicas, es decir no sobre la norma que es, sino la que debería ser, lagunas de iure condito (reales) y de iure condendo (axiológicas), para concluir que solo un sistema de derecho natural carecería de lagunas ideológicas o axiológicas, pero que tal sistema no ha sido concebido, como enfatiza el positivismo jurídico…
+
+En todo caso, el reconocimiento de la existencia de lagunas, planteó la necesidad de integrar el ordenamiento jurídico para suplir la falta de completitud (SC, 7 de octubre de 2009, rad. n.°
+2003-00164-01).
+
+3.1.2. También tienen la condición de lagunas las suscitadas en el proceso de constitucionalización del derecho, cuando se advierta que en la interpretación o aplicación de una norma pueda existir una contrariedad con el texto fundamental, a pesar de su aparente conformidad.
+
+Se ha dicho que «la Constitución no es una norma igual a las demás, no sólo por su carácter superior y prevalente, sino por su contenido material que incluye un conjunto de disposiciones axiológicas y un orden de principios con vocación de desarrollo legal y judicial, cuya interpretación y aplicación difícilmente puede efectuarse mediante la utilización del silogismo» (negrilla fuera de texto, C.C. C-820-
+06).
+
+Axiología que se expresa en valores y principios constitucionales, de obligatoria observancia por todos los operadores jurídicos:
+
+<!-- pagina 64 -->
+a-. Los valores representan el catálogo axiológico a partir del cual se deriva el sentido y la finalidad de las demás normas del ordenamiento jurídico pueden tener consagración explícita o no; lo importante es que sobre ellos se construya el fundamento y la finalidad de la organización política.
+
+De este tipo son los valores de convivencia, trabajo, justicia, igualdad, conocimiento, libertad y paz plasmados en el preámbulo de la Constitución. También son valores los consagrados en el inciso primero del artículo 2 de la Constitución en referencia a los fines del Estado…. No obstante el carácter programático de los valores constitucionales, su enunciación no debe ser entendida como un agregado simbólico, o como la manifestación de un deseo o de un querer sin incidencia normativa, sino como un conjunto de propósitos a través de los cuales se deben mirar las relaciones entre los gobernantes y los gobernados, para que, dentro de las limitaciones propias de una sociedad en proceso de consolidación, irradien todo el tramado institucional….
+b-. Los principios Constitucionales, a diferencia de los valores que establecen fines, consagran prescripciones jurídicas generales que suponen una delimitación política y axiológica reconocida y, en consecuencia, restringen el espacio de interpretación, lo cual hace de ellos normas de aplicación inmediata, tanto por el legislador como por el juez constitucional… Su alcance normativo no consiste en la enunciación de ideales que deben guiar los destinos institucionales y sociales con el objeto de que algún día se llegue a ellos; su valor normativo debe ser entendido de tal manera que signifiquen una definición en el presente, una base axiológicojurídica sin la cual cambiaría la naturaleza misma de la
+Constitución y por lo tanto toda la parte organizativa perdería su significado y su razón de ser. Los principios expresan normas jurídicas para el presente; son el inicio del nuevo orden. Los valores, en cambio, expresan fines jurídicos para el futuro; son la mira que jalona hacia el orden del mañana (T-406-92, reiterada
+C-1287-01).
+
+En este escenario, cuando una norma formalmente se encuentra ajustada a la Constitución, pero al aplicarla, se transgrede la axiología de ésta, se configura una laguna, conocida como axiológica, en tanto la disposición revela un
+
+<!-- pagina 65 -->
+vacío frente a la situación de hecho en concreto, pues de otra forma no se explica la desatención de los valores y principios fundamentales.
+
+Estas anomias, entonces, se originan en los efectos que una norma comporta en el caso particular, por conducir a situaciones que devienen opuestas a los valores que subyacen al texto constitucional, lo que se traduce en que el legislador olvidó considerar una particularidad fáctica que necesariamente debe conducir a una solución diferente a la general.
+
+Ha dicho la Corte Constitucional que la laguna se
+«presenta porque, en efecto, no hay una disposición legal en el ordenamiento jurídico que regule el supuesto fáctico controvertido, o bien porque existiendo, la aplicación de tal precepto al caso específico ocasionaría un resultado notoriamente injusto e incompatible con la
+Constitución. En otras palabras, se presenta cuando el caso está regulado por el derecho pero de forma axiológicamente inadecuada, ya que el legislador no previó una distinción especial que conduciría a que la respuesta jurídica fuera distinta» (negrilla fuera de texto, T-122/17).
+
+En antaño había doctrinado: «se denomina laguna axiológica no a la falta de cualquier norma sino a la falta de una norma justa, es decir, de una norma jurídica que no existe, pero que debería existir a causa del sentido de justicia del intérprete o para la justa aplicación de una norma superior
+(constitucional), subrayando que esta laguna se presenta
+
+<!-- pagina 66 -->
+cuando ‘una disposición legal omite la integración de valores superiores o principios constitucionales que están implícitos en la Constitución, pero que no han sido expresamente desarrollados en una norma legal ordinaria’ (negrilla fuera de texto, C-1026/01).
+
+En el mismo sentido, ese Tribunal reiteró en la sentencia T-515 de 2012, que «la laguna axiológica no sólo implica una omisión en la regulación normativa, sino que revela una desconexión entre las disposiciones legales y los principios constitucionales que subyacen en el ordenamiento jurídico».
+
+3.2. Resolución de las lagunas.
+
+3.2.1. La existencia de lagunas o anomias en el derecho, de ninguna manera, comporta que la situación material quede por fuera del sistema jurídico o desprovista de regulación. De allí que, incluso en este escenario, sea deber del juez resolver el litigio, sin que sea admisible que emita decisión inhibitoria ya que tal proceder implica denegación de justicia.
+
+De esto da cuenta el artículo 48 de la Ley 153 de 1887:
+«Los jueces o magistrados que rehusaren juzgar pretextando silencio, oscuridad o insuficiencia de la ley, incurrirán en responsabilidad por denegación de justicia».
+
+Sobre esta norma, la Sala ha manifestado: «No se permite una no-decisión. Y una forma de esa denegación se
+
+<!-- pagina 67 -->
+realiza cuando el funcionario no decide el fondo de la controversia por desplazar a las partes su obligación de interpretar los hechos y pretensiones para inferir de ellos el instituto jurídico que rige el caso» (SC780-2020).
+
+Para superar la anomia se han previsto mecanismos de integración del derecho. La integración «designa la técnica consistente en suplir o llenar las lagunas normativas, los sectores del ordenamiento jurídico carentes de regulación»17.
+
+La Corporación se ha referido a la materia en los siguientes términos:
+
+Para llenar las lagunas, Carnelutti sugería acudir a las herramientas de autointegración y heterointegración. En el primer caso, se eluden en lo posible las fuentes externas y se disuelven las lagunas con herramientas del ordenamiento. En la heterointegración las lagunas del derecho positivo se colman migrando hacia fuentes externas, al derecho natural, del que - según él- viene todo derecho positivo y el que por tener una mayor comprensión valorativa se permite iluminar las zonas de penumbra del ordenamiento (SC, 7 de octubre de 2009, rad. n.°
+2003-00164-01).
+
+3.2.2. En nuestro derecho estas herramientas están enumeradas en el artículo 8 de la Ley 153 de 1887, a saber:
+«Cuando no hay ley exactamente aplicable al caso controvertido, se aplicarán las leyes que regulen casos o materias semejantes, y en su defecto, la doctrina constitucional y las reglas generales de derecho»
+(negrilla fuera de texto).
+
+17 BELTRÁN SÁNCHEZ, Emilio y ORDUÑA MORENO, Francisco Javier (dir), Curso de derecho privado, Tirant Lo Blanch, Valencia, 2004, pág. 78.
+
+<!-- pagina 68 -->
+De este listado se tiene que son mecanismos de autointegración la analogía legis o iuris, de allí que tenga una aplicación preponderante, mientras que son de heterointegración la doctrina constitucional y los principios generales del derecho, lo que explica su subordinación a aquélla.
+
+Adicionalmente, el artículo 8° de la misma ley establece que «[l]a costumbre, siendo general y conforme a la moral cristiana, constituye derecho, a falta de legislación positiva», por lo que se trata de otro instrumento de integración para los asuntos civiles y de familia.
+
+El numeral 6 del canon 42 del Código General del
+Proceso reiteró y complemento la Ley 153 de 1887, a la luz del artículo 230 de la Constitución Política, al señalar como deber del juez «[d]ecidir aunque no haya ley exactamente aplicable al caso controvertido, o aquella sea oscura o incompleta, para lo cual aplicará las leyes que regulen situaciones o materias semejantes, y en su defecto la doctrina constitucional, la jurisprudencia, la costumbre y los principios generales del derecho sustancial y procesal».
+
+3.2.3. Por interesar al sub lite, conviene precisar que la analogía es un raciocinio que va de lo particular a lo particular coordinado, huelga explicarlo, consiste en aplicar, a un caso, consecuencias idénticas a las previstas por el legislador a otro supuesto o grupo de casos que son sustancialmente equivalentes.
+
+<!-- pagina 69 -->
+El ordenamiento define la analogía como la aplicación de leyes «que regulen casos o materias semejantes», o «las reglas generales del derecho», al caso que carece de «ley exactamente aplicable» (artículo 8 de la Ley 153 de 1887).
+
+Existen, como se desprende de la enunciación normativa, dos clases de analogías: de ley o legis y de derecho o iuris. Con la primera se trae una norma de un cuerpo legal concreto para aplicarla a otro. Con la segunda se colige una regla de derecho del compendio parcial o completo del sistema legislativo.
+
+La Corte, tomando por suya la opinión de Norberto
+Bobbio, explicó:
+«Por analogía iuris se entiende el procedimiento con el cual se obtiene una nueva regla para un caso no previsto, no ya por la regla que se refiere a un caso individual, como sucede en la analogía legis, sino por todo el sistema o por una parte del sistema, es decir que este procedimiento no difiere del que se emplea cuando se recurre a los principios generales del derecho» (SC, 7 de octubre de
+2009, rad. n.° 2003-00164-01).
+
+La primera especie, remárquese, «consiste en la aplicación de una situación contemplada en forma expresa en la ley a otra que no lo está. Ambas cuestiones se identifican en que son esencialmente iguales. Y se diferencian en aspectos apenas irrelevantes, distintos a la razón de ser de la norma base» (SC5185-2020).
+La segunda busca las «aplicaciones concretas que el
+Código hizo, pero que se derivan de un principio superior no
+
+<!-- pagina 70 -->
+inscrito expresamente. Corresponde, en consecuencia al juzgador, en posesión del principio y teniendo en cuenta, desde luego, las aplicaciones hechas por el Código, su sentido y orientación, aplicar tal principio a otros casos análogos» (SC,
+23 de junio de 1958, G.J. LXXXVIII, pág. 222).
+
+3.2.4. Para que pueda acudirse a la analogía legis, se tiene por admitido que deben concurrir los siguientes requisitos:
+
+(I) ausencia o insuficiencia de regulación legal en la solución de una controversia sometida a la justicia, por cuanto la materia no se subsume en ninguna regla existente o encaja de manera imperfecta provocando inequidad e injusticia;
+
+(II) similitud o semejanza relevante y sustancial en los supuestos de hecho de una norma sustancial positivizada y el elemento fáctico acreditado en el proceso; y
+
+(III) compatibilidad en los motivos que explican la norma a aplicar y la nueva situación.
+La Sala tiene decantado: «esa especie de integración preceptiva exige las siguientes condiciones: ‘a) Que no haya ley exactamente aplicable al caso controvertido; b) Que la especie legislada sea semejante a la especie carente de norma, y c) Que exista la misma razón para aplicar a la última el precepto estatuido respecto de la primera: Ubi eadem legis ratio ibi eadem legis dispositio’ (Cas. Civ., sentencia de 30 de
+
+<!-- pagina 71 -->
+enero de 1962)» (SC5185-2020, en el mismo sentido SC3727-
+2020 y SC101-2008).
+
+La
+Corte
+Constitucional, al analizar la constitucionalidad del artículo 8 de la Ley 153 de 1886, aseguró: «La consagración positiva de la analogía halla su justificación en el principio de igualdad, base a la vez de la justicia, pues, en función de ésta, los seres y las situaciones iguales deben recibir un tratamiento igual… Por ende, la analogía no constituye una fuente autónoma, diferente de la legislación. El juez que acude a ella no hace nada distinto de atenerse al imperio de la ley. Su consagración en la disposición que se examina resulta, pues, a tono con el artículo
+230 de la Constitución» (C-083-1995).
+
+Mecanismo que no es procedente tratándose de normas taxativas, exceptivas o sancionatorias, pues, por su naturaleza, no admiten aplicación a casos diferentes a los expresamente previstos por el Congreso, so pena de hacer nugatoria su excepcionalidad.
+
+Sobre el punto, esta Corporación manifestó: «En común, las modalidades de integración dichas, exigen para su activación anomia legal. Además, que los elementos de comparación no sean taxativos, exceptivos o sancionatorios.
+Es regla general que los preceptos de esa estirpe carecen de un alcance extensivo. La razón se encuentra en el principio de legalidad. Tratándose de normas de naturaleza restrictiva, su operatividad es limitada, únicamente, a los casos en ellas formulados» (SC5185-2020).
+
+<!-- pagina 72 -->
+En síntesis, en la labor de edificar la sentencia, el juez debe reconstruir el relato factual de las partes para luego pasar a escoger, interpretar y aplicar la norma sustancial que gobierna el litigio. En el evento en el que en la segunda fase aludida aquél advierta un vacío legal absoluto o relativo, o un efecto contrario a la axiología constitucional, entonces deberá buscar una regla (o varias) que contengan supuestos de hecho similares (no necesariamente idénticos) a los de la controversia que juzga, para de allí tomar sus consecuencias jurídicas a aplicar al caso.
+
+Todo, como es obvio, tras un trabajo de argumentación o motivación suficiente que permita corroborar y dar legitimidad a cada una de las etapas expuestas.
+
+3.3. Laguna en materia de separación de hecho conyugal y solución propuesta.
+
+3.3.1. Laguna normativa y axiológica.
+Por brevedad basta recordar que, como ya se demostró, una interpretación histórico-lógico y sistemática descubre que, en verdad, el legislador con la Ley 25 de 1992 omitió regular la separación de hecho de los cónyuges de forma integral, lo que se traduce en una omisión normativa y, en razón de este olvido, vulneró valores y principios constitucionales, incurriendo en una laguna axiológica.
+
+En efecto, el reconocimiento de la separación de hecho, por medio de la Ley 25 de 1992, dejó de lado aspectos nucleares de esta problemática, en particular, y por interesar
+
+<!-- pagina 73 -->
+al presente caso, la extinción de la comunidad de activos fruto de la cesación del proyecto de vida colectivo, que en antaño sí fue prevista para la separación judicial de cuerpos.
+
+Inadvertencia que emana al revisarse el trámite legislativo, pues en el mismo no se advierte ninguna explicación sobre esta materia. Efectivamente, revisada la exposición de motivos y las deliberaciones parlamentarias, no hubo justificación o discusión sobre las razones por los cuales esa corporación legislativa obvió referirse a las consecuencias económicas que brotan de la extinción de la cohabitación. Se descarta, por tanto, la existencia de una decisión expresa en el sentido de que la materia fuera gobernada en un determinado sentido, por medio de una regulación negativa o por falta de positivización.
+
+Además, de haber sido tal la pretensión del Congreso de la República, no cabe duda que se habrían incorporado las directrices normativas que brindaran claridad, como en su momento se hizo por la Ley 1ª de 1976 para la separación de cuerpos, por lo que, al no procederse de esta forma, se desdice la idea de que existe una regulación negativa.
+
+Ciertamente, este vacío fue interpretado por la doctrina y la jurisprudencia en el sentido de mantener la sociedad conyugal, aunque los consortes estén distanciados físicamente y no contribuyan al proyecto común; colofón fundado en una revisión literal de los preceptos y, sin duda, una visión histórica que ha propendido por la prevalencia del matrimonio sobre otras formas de familia.
+
+<!-- pagina 74 -->
+Entendimiento que, simplemente, ignoró lo sucedido en el trámite legislativo y, con la constitucionalización del derecho, entra en crisis, so pena de sacrificar importantes postulados de la Carta Fundamental, como la justicia, la igualdad, la buena fe, la prohibición de abuso del derecho y la autonomía de la voluntad, lo que se traduce en una laguna axiológica.
+
+3.3.2. Resolución la laguna: analogía legis.
+
+3.3.2.1. Para solventar las anomias referidas, estima la
+Corte que lo procedente es acudir a la analogía legis, pues en el sistema jurídico existen disposiciones que regulan las consecuencias de la cesación de la cohabitación, que, por compartir la misma filosofía que la separación de hecho, le son aplicables.
+Estos preceptos son los artículos 167 y 1820 -numeral
+2- del Código Civil, los cuales prescriben, en cuanto interesan, que «[l]a separación de cuerpos disuelve la sociedad conyugal» y que «[l]a sociedad conyugal se disuelve… [p]or la separación judicial de cuerpos, salvo que fundándose en el mutuo consentimiento de los cónyuges y siendo temporal, ellos manifiesten su voluntad de mantenerla».
+
+Total, se satisfacen los requisitos para acudir a este instrumento de autointegración del derecho.
+
+<!-- pagina 75 -->
+(I) En primera medida por estar comprobada, como quedó a lo largo de los razonamientos precedentes, la existencia de la anomía normativa y axiológica.
+
+(II) En segundo lugar, porque son palpables las semejanzas, entre la situación fáctica gobernada por las normas reguladoras - artículo 167 y numeral 2 del artículo
+1820 del Código Civil- y la que se encuentra huérfana de regulación (separación de hecho de los cónyuges).
+
+Por un lado, el acto que da lugar a la consecuencia jurídica es materialmente idéntico, como es el alejamiento físico de los consortes por un acto de voluntad. En la separación de cuerpos -judicial-, es la decisión de los consortes que da lugar a la misma, expresada en una demanda judicial cuando se invoca una causal subjetiva u objetiva, o el acuerdo efectuado ante la autoridad competente
+(artículo 165 del Código Civil); lo mismo sucede en la de hecho, que también emana de «la decisión personal de cualquiera de los cónyuges» de distanciarse, como lo reconoció la Corte Constitucional en la sentencia C-746-
+2011.
+
+Se agrega que, en ninguna de las formas de apartamiento, los consortes tienen la pretensión de finiquitar su matrimonio de forma inmediata, el cual se mantendrá por el tiempo que estimen pertinente y hasta tanto se configure alguna de las causales de extinción.
+Por último, en ambas figuras los consortes desean suspender la vida común, lo que se traduce en una cesación
+
+<!-- pagina 76 -->
+de los deberes de cohabitación y débito conyugal, haciendo del matrimonio una envoltura que perdió una parte esencial de su contenido, a la espera de que los esposos decidan volver a llenarla o simplemente preparen todo lo que es necesario para el divorcio.
+
+Es cierto que hay una diferencia entre ambas formas de separación, como es la intervención de una autoridad para su configuración. Mientras que en la separación de cuerpos se requiere de sentencia judicial, en la de hecho basta la determinación de uno o ambos consortes.
+
+Sin embargo, esta divergencia no es sustancial, sino que se explica por razones históricas y de evolución legislativas, como ya se mostró. Recuérdese, mientras la separación de cuerpos fue un mecanismo ideado para solventar la situación de los matrimonios religiosos, en aquél entonces indisolubles para efectos civiles, razón para asimilarlo al divorcio en cuanto fuera procedente (artículo
+168 del Código Civil), de allí que se impusiera una decisión judicial que verificara el cumplimiento de cualquiera de las causales de éste; la de hecho fue un reconocimiento de una situación patente en la sociedad, que simplemente sucede ante el fracaso de la comunidad de vida, de allí que se encuentre desprovista de formalidades.
+
+(III) En tercer lugar, por cuanto los motivos que explican los artículos 167 y 1820 -numeral 2- del Código Civil, son plenamente compatibles con la situación que emerge de la separación de hecho de los cónyuges.
+
+<!-- pagina 77 -->
+En verdad, el reconocimiento de la extinción de la sociedad conyugal, por la separación de cuerpos, tiene como fundamento la ruptura del proyecto colecto, por desaparecer la fusión de vidas que necesariamente conduce a una amalgama de activos, alrededor de los objetivos compartidos.
+
+Esto mismo sucede con la separación de hecho, pues más allá de la informalidad de la cual se encuentra revestida, también hay una fractura del hogar común y, por ende, de la comunidad de bienes.
+
+3.3.2.2. Con el fin de garantizar que la separación de hecho comporte una ruptura definitiva de la vida común, se hace necesario acoger un período mínimo a partir del cual se ponga fin a la sociedad conyugal.
+
+No en vano la Ley 25 de 1992, al consagrar como causal de divorcio la separación de hecho, fijó un lapso que sirva para abandonar la esperanza del «restablecimiento de la unidad de vida de los casados»18. Interregno que, después de las discusiones parlamentarias, se fijó en dos (2) años, según la ponencia para segundo debate en el Senado de la
+República19.
+
+Nuevamente, por analogía se propone acudir a este término, es decir, dos años contados a partir de la separación de hecho, momento a partir del cual se entenderá que la
+
+18 Imprenta Nacional, Anales del Congreso, Año XXXV, n.° 76, 26 de mayo de 1992, p. 3.
+19 Ibídem.
+
+<!-- pagina 78 -->
+sociedad conyugal se disuelve; salvo que, fundándose en el mutuo consentimiento de los cónyuges y siendo temporal, ellos manifiesten su deseo de mantenerla vigente.
+
+Así las cosas, ocurrido el distanciamiento físico, más dos años, finiquita la comunidad de gananciales, y los bienes adquiridos por los cónyuges dejarán de pertenecer a ella, siendo posible que, desde este instante y de conformarse una unión marital de hecho, se supere el impedimento que imposibilita la conformación de una sociedad patrimonial de hecho.
+
+3.3.2.3. La integración normativa que ahora se afirma, deberá tenerse en cuenta al interpretar sistemáticamente los cánones tocantes a la disolución de la sociedad conyugal o su liquidación.
+
+Por tanto, agotados los dos años siguientes a la separación de hecho, la comunidad de bienes entre los cónyuges se tendrá por disuelta, desde este momento, de lo cual deberá dar cuenta la sentencia respectiva, en caso de que las partes acudan al aparato judicial para la declaratoria de divorcio o para la liquidación de la masa de gananciales.
+
+3.3.2.4. Con las subreglas que ahora se asientan se corrige la omisión normativa y axiológica respecto de la separación de hecho, por medio de la aplicación de los artículos 167 y 1820 del Código Civil de forma analógica.
+De esta forma se garantiza una respuesta a la situación patrimonial de los cónyuges que se han alejado; asimismo,
+
+<!-- pagina 79 -->
+se superan los vacíos axiológicos advertidos ampliamente por esta Corporación:
+a) Se garantiza la justicia, por cuanto los activos posteriores a la cesación de la vida común serán usufructuados solamente por quienes en verdad han participado en su consecución y explotación;
+b) Se evita que la primacía de la sociedad conyugal sobre la sociedad patrimonial, que en principio es constitucional, se soporte en una solemnidad huera, lo que representa una transgresión de la igualdad material entre todas las formas de familia;
+c) Se desestimulan las prácticas desleales y abusivas, al impedir que un cónyuge, extraño a la actividad de su expareja, pretenda apropiarse de sus resultados económicos y de esta manera privar a eventuales compañeros permanentes de sus derechos económicos; y
+d) Se respeta la autonomía de voluntad de los consortes, que al distanciarse por dos años o más, dejan en claro su voluntad de cesar en la empresa común para acometer proyectos individuales.
+
+3.3.3. Reiteración jurisprudencial.
+
+La Corporación, aunque no de forma pacífica, arribó a la proposición que ahora se fija, en la sentencia SC4027-
+2021, cuando sostuvo:
+
+<!-- pagina 80 -->
+Cesada la convivencia matrimonial, ninguno de los cónyuges tiene legitimación para beneficiarse de los bienes que no han contribuido a formar. Lo contrario, implica desconocer el principio de la buena fe, así como la realidad social, con manifiesto abuso del derecho, pues no resulta ético o moral participar de algo que no se ayudó a construir, nada de lo cual permite una lectura legal y constitucional.
+
+Acreditada la separación de hecho definitiva e irrevocable de los cónyuges, esto trae consigo, la disolución de la sociedad conyugal, faltando entonces la decisión judicial que tendrá efectos retroactivos a la data cierta demostrada de la separación de hecho definitiva y permanente.
+
+Idéntico colofón fue plasmado en el proveído SC2429-
+2024, a saber:
+
+…la simple separación de cuerpos -de hecho- por un lapso superior a dos años, disuelve la sociedad conyugal. Incluso sin que medie declaración judicial -o de las partes ante autoridad competente-…
+Así, se dota de efectos jurídicos a una realidad incontestable que revelan los hechos. A saber, que cuando se ha roto de manera definitiva y por lapso superior a dos años la convivencia entre los cónyuges y cada uno de ellos -o al menos uno de ellos- ha hecho vida marital aparte, no existe sociedad conyugal alguna entre los unidos por vínculo matrimonial. Y es que «la palabra sociedad, tomada en su más lata acepción, tiene el sentido de asociación. Se aplica a toda reunión de personas que se proponen conseguir un fin común». Allí donde no hay plan de vida en común, ni aportes, no hay sociedad conyugal.
+
+Total, como afirma Julio López del Carril, en palabras aplicables al caso, mutatis mutandi, «sería inmoral y contrario a las buenas costumbres y a toda equidad, que la ‘unión de dos personas libres’ sirviera para burlar económicamente a una de ellas en provecho injusto de la otra, llevando a una -
+
+<!-- pagina 81 -->
+generalmente la mujer- al desamparo y a la miseria, cuando la ley no prohíbe ese tipo de unión»20.
+
+Solución aceptada por la doctrina nacional lustros atrás:
+
+Si la sociedad conyugal es consecuencia directa de la comunidad doméstica, o sea, el hecho de que marido y mujer vivan bajo un mismo techo, lógico es concluir que cuando semejante comunidad se rompe de hecho, debe romperse la sociedad conyugal. En
+Colombia se ha interpretado la sociedad conyugal como efecto del vínculo matrimonial y no como resultado de la vida en común que deben realizar los cónyuges y del cumplimiento en general de las obligaciones matrimoniales. Por este motivo, la Corte Suprema decidió en sentencia del 1° de agosto de 1979 que no existen otras causales de disolución fuera de las previstas por el art. 1820 del
+C.C… Pero se abre paso en el país la tesis de que la sociedad conyugal es más efecto de la vida común que hacen los casados que de un vínculo matrimonial teórico21.
+
+Y por la doctrina internacional:
+
+La comunidad o sociedad conyugal no es una sociedad de bienes con un límite de duración prefijado. Siendo su finalidad la satisfacción de intereses comunes a los esposos y su fundamento la colaboración del marido y la mujer, lógicamente ha de terminar cuando se disuelva el matrimonio, y, también cuando no obstante subsistir el lazo matrimonial, la vida en común cesa o si, por impericia del marido, la colaboración de los cónyuges se hace imposible22.
+
+Este órgano de cierre ratifica esta posición jurídica, en desarrollo de la misión atribuida como tribunal de casación
+
+20 Derecho de familia, Abeledo-Perrot, Buenos Aires, 1984, pág. 533
+21 Arturo Valencia Zea, et. al., Derecho civil. Derecho de familia, Temis, 1995, p. 356.
+22 Marcelo Planiol y Jorge Ripert, Tratado práctico de derecho civil francés, Ed.
+Cultural S.A., Habana, 1946, p. 7.
+
+<!-- pagina 82 -->
+y en defensa de la unidad e integridad del orden jurídico, la promoción de la eficacia de los instrumentos internacionales, la protección de los derechos constitucionales y la unificación de la jurisprudencia.
+
+4. El caso concreto
+
+Planteado el estado del arte sobre la materia en discusión, la Corte acometerá el estudio del embate propuesto en casación, con el fin de establecer si el Tribunal, en el presente litigio, desatendió de forma directa las normas denunciadas.
+
+4.1. El cargo planteado.
+
+4.1.1. Rememórese que la demandante acusó el desconocimiento de los preceptos 167 y 180 del Código Civil, en concordancia en el literal b) del canon 2 de la ley 54 de
+1990, por cuanto el ad quem negó la sociedad patrimonial reclamada con el libelo genitor del proceso, al encontrar que
+Fernando Izquierdo Izquierdo estuvo casado -con sociedad conyugal-, hasta el final de sus días con María Ligia Salgado
+Izquierdo, lo que le impidió conformar con Luz Eneyda la sociedad de activos que ésta persigue.
+
+En fundamento, arguyó que «el Tribunal no debe afectar el pensamiento del legislador y con ello crear una incertidumbre jurídica, aplicando una norma extraña al caso en concreto, pues en la claridad tenemos, que el artículo 167 del código civil colombiano es el que permite para los fines de
+
+<!-- pagina 83 -->
+la separación de cuerpos entre casados, como es el caso, que nos ocupa, que se produzca unos efectos como el que traduce dicho artículo que es la disolución de la sociedad conyugal y que debe quedar claro que es una falencia grave en la sentencia que debe corregirse para evitar transgredir derechos ya reconocidos legalmente».
+
+4.1.2. Advierte la Sala que, en atención a la senda escogida en casación, como fue el numeral 1° del artículo 336 del Código General del Proceso, cuya finalidad es cuestionar la interpretación y aplicación de las prescripciones que gobiernan sustancialmente el litigio, se entiende que la casacionista aceptó plenamente las conclusiones extraídas por el Tribunal en el campo de los hechos, las que devienen intangibles en casación.
+
+Así lo ha puesto de presente la jurisprudencia refiriéndose a las implicaciones de la senda recta: «en la demostración de un cargo por violación directa, el recurrente no puede separarse de las conclusiones a que en la tarea del examen de los hechos baya llegado el Tribunal. En tal evento, como lo ha dicho la Corte, la actividad dialéctica del impugnador tiene que realizarse necesaria y exclusivamente en torno a los textos legales sustanciales que considere no aplicados, o aplicados indebidamente, o erróneamente interpretados; pero en todo caso con absoluta prescindencia de cualquier consideración que implique discrepancia con el juicio que el sentenciador haya hecho en relación con las pruebas» (SC, 25 de marzo de
+1973, G.J. CXLVI, n.° 2366-2371, pág. 60).
+
+<!-- pagina 84 -->
+Directrices que se ha mantenido en el tiempo: «cuando se invoque la transgresión directa de normas sustanciales, ‘el cargo se circunscribirá a la cuestión jurídica sin comprender ni extenderse a la materia probatoria’, es decir, aceptando los hechos que el Tribunal tuvo como probados o estimó descartados y planteando una controversia exclusivamente jurídica» (negrilla fuera de texto, AC6052-2021).
+
+Por tanto, en el sub examine, la demandante consintió en que las pruebas del proceso son demostrativas de que la unión marital de hecho con el causante comenzó el 14 de julio de 2014 y terminó el 14 de julio de 2020.
+
+4.1.3. Es cierto que en desarrollo del embate la casacionista refirió fechas diferentes a las señaladas por el
+Tribunal en el veredicto confutado. Sin embargo, estas menciones no traslucen una censura por la vía indirecta, que descubra la desatención de la regla técnica de la separación, pues ninguna prueba se denunció como vulnerada, ni se alzó reprobación alguna contra la valoración probatoria que sirvió al Tribunal para soportar su decisión.
+
+En verdad, las nuevas fechas se incluyeron como una simple afirmación y en coherencia con lo pretendido en los cargos segundo y tercero, en los que se pretendió la casación por errores de hecho y de derecho en la determinación de los hitos temporales de la unión marital, que resultaron inadmitidos por auto AC2657-2023.
+
+<!-- pagina 85 -->
+4.1.4. La Sala, en coherencia con lo explicado, se centrará únicamente en la discusión de puro de derecho, conforme al sentido de la acusación en estudio.
+
+Se sigue de esto que la censura deviene parcial, frente al contenido del fallo de alzada, por acotarse a la formación de la sociedad patrimonial de hecho entre compañeros permanentes, quedando intangibles las demás materias objeto de determinación judicial, en especial, la formación de la unión marital de hecho entre Fernando Izquierdo Izquierdo y Luz Eneyda Pérez Paz, así como sus extremos temporales.
+
+4.2. Resolución del cargo.
+
+Adelántese que la acusación se abrirá paso, en tanto la hermenéutica del fallador de segundo grado, basada en una revisión formal y textual de los preceptos denunciados, pasó por alto que, como lo preconiza la casacionista, a la separación de hecho ocurrida entre el causante y su cónyuge le era aplicable el artículo 167 del Código Civil, con el fin de dar por extinguida la sociedad conyugal y, por esta vía, superar el impedimento para la formación de la sociedad patrimonial.
+
+4.2.1.
+Para dilucidar, conviene rememorar los argumentos que sirvieron al juzgador de alzada, en cuanto resultan relevantes para el cargo admitido:
+
+El último tópico frente al cual ha de pronunciarse este cuerpo colegiado atañe a la conformación de la sociedad patrimonial de
+
+<!-- pagina 86 -->
+hecho entre Luz Eneida Pérez Paz y Fernando Izquierdo Izquierdo
+(q.e.p.d.), desde el hito inicial de la unión marital y hasta el 14 de julio de 2020 conforme a los recursos que sobre ese particular formularan todos los demandados. Esto, bajo el entendido que la unión marital de hecho declarada en este proceso sucedió en vigencia del matrimonio existente entre el compañero y la señora
+María Ligia Salgado Izquierdo.
+
+Lo primero que ha de sentar este Tribunal al respecto, es que se aparta del precedente dictado por la Sala de Casación Civil de la
+Corte Suprema de Justicia, en sentencia SC4027-2021 del 14 de septiembre de 202139, que sirvió de apoyo a la decisión de primer grado, para acceder a la declaración de la sociedad patrimonial de hecho entre compañeros permanentes… (i) No nos encontramos frente a una doctrina probable del órgano de cierre… (ii) No existe similitud fáctica entre lo resuelto en el proveído SC4027-2021 del
+14 de septiembre de 2021 y el caso concreto… (iii) La interpretación normativa allá expuesta, a juicio de este juez colegiado, supone un desconocimiento a los designios del legislador…, trátese de una reserva legal, que impide al operador de justicia, reconocer casuales de disolución diferentes a las contenidas en el citado canon [se refiere al 1820 del Código Civil], cualquier otra interpretación, resulta contraria a la Constitución…
+
+De suerte que, para los efectos de este pronunciamiento, el matrimonio de don Fernando Izquierdo Izquierdo (q.e.p.d.) y la señora María Ligia Salgado Izquierdo, celebrado el 15 de noviembre de 197345, no obstante, la separación de hecho definitiva ocurrida en el año 1979, según confesión de esta última surtió efectos hasta el 14 de julio de 2020, fecha en la que falleció el esposo.
+
+4.2.2. Resáltese que esta hermenéutica, al margen de su acuidad, se centró en la literalidad del canon 1820 del estatuto civil, encontrando en el artículo 42 de la
+Constitución Política una reserva legislativa que impide la intervención del juez para el abordaje de la separación de hecho de los cónyuges desde una óptica diferente.
+Tal método de interpretación, por centrarse en la norma legislada y su contenido textual, obvió los demás, en
+
+<!-- pagina 87 -->
+concreto, los histórico-lógico y sistemático, y sacrificó valores y principios reconocidos en la Constitución Política.
+
+Lo primero, porque al centrarse en la literalidad del artículo 1820 del Código Civil, no tuvo en cuenta los cambios legislativos alrededor del reconocimiento de la separación de cuerpos de los cónyuges, en el contexto de la evolución del derecho de familia y el reconocimiento progresivo de sus diversas formas.
+
+Desarrollo que, como ya se mostró con detenimiento en el estado del arte de esta providencia, nos enseña que (I) la primacía otorgada al matrimonio sobre otras formas ha perdido peso, ante la aceptación de que la familia es una institución que puede emanar de múltiples fuentes, todas merecedoras de protección por parte del Estado y de la sociedad, en condiciones de igualdad; (II) el reconocimiento de la separación de hecho en Colombia, por medio de la Ley
+25 de 1992, fue una respuesta a una problemática existente
+-indisolubilidad civil de los matrimonios religiosos-, cuya incorporación se hizo de forma fragmentaria; y (III) existe una laguna normativa, pues el legislador no evaluó ni resolvió todas las implicaciones de la separación de hecho, como en antaño se hizo tratándose de la separación de cuerpos judicial por la Ley 1ª de 1976.
+
+Lo segundo, ya que, como se puso de relieve por la
+Corporación, aceptar que la sociedad conyugal se extienda con posterioridad a la separación de hecho prolongada de los esposos, permite que un cónyuge tome provecho de esta
+
+<!-- pagina 88 -->
+situación para apropiarse de bienes que no ayudó a construir, socave los derechos de quienes sí invirtieron su trabajo y esfuerzo para acumular un patrimonio común. Al mismo tiempo, contribuiría a privilegiar la formalidad de un vínculo que perdió contenido con ocasión de la destrucción de la vida conjunta, en desatención de la justicia, la igualdad, la buena fe, la prohibición del abuso del derecho y la autonomía de la voluntad.
+
+Lagunas -normativa y axiológica- que deben solventarse con la aplicación analógica del artículo 167 del Código Civil a la separación de hecho, en concordancia con el numeral 2 del artículo 1820 ídem, en el sentido de tener por disuelta la sociedad conyugal formada por los consortes cuando haya una separación de hecho por dos o más años.
+
+Ante la extinción de la comunidad de gananciales, la restricción establecida en el literal b) del artículo 2° de la Ley
+54 de 1990 se torna inoperante, contrario a lo aseverado por el sentenciador de segunda instancia.
+
+4.2.3. En consecuencia, el cargo prospera, por la desatención directa de las normas denunciadas, aunque la casación del fallo del 31 de marzo de 2023 tendrá un alcance parcial, por acotarse al análisis de la sociedad patrimonial de hecho.
+
+5. Como el embate prosperó, conforme al artículo 349 del Código General del Proceso, no se impondrá condena en costas procesales en la senda extraordinaria.
+
+<!-- pagina 89 -->
+6. En sede de instancia la Corte proferirá la determinación de reemplazo, colindante, reitérese, a las materias casadas.
+
+III. SENTENCIA SUSTITUTIVA
+
+1. Pretensiones. En lo que resulta relevante, la demandante reclamó el reconocimiento de la unión marital de hecho con Fernando Izquierdo Izquierdo (q.e.p.d.), con la
+«consecuente declaración de la existencia de la sociedad ptrimonial (sic) entre los compañeros permanentes», la cual se encuentra «disuelta y en estado de liquidación».
+
+2. La sentencia de primera instancia. El Juzgado
+Segundo Promiscuo de Familia de Buenaventura, el 7 de julio de 2022, profirió decisión de primera instancia, en la que, entre otras cosas, declaró «la existencia de la sociedad patrimonial entre Luz Eneida Pérez Paz y Fernando Izquierdo
+Izquierdo, la cual inicio (sic) el 7 de julio de 2013 y finiquito (sic) el 14 de julio de 2020», que se encuentra «disuelta y en estado de liquidación».
+
+3. Argumentos de la apelación. La apoderada judicial de Fernando Izquierdo Montañez cuestionó la declaración de existencia de la sociedad patrimonial, pues la sociedad conyugal conformada entre Fernando Izquierdo Izquierdo
+(q.e.p.d.) y María Ligia Salgado Izquierdo se mantuvo hasta el
+14 de julio de 2020, fecha de fallecimiento de aquél.
+
+<!-- pagina 90 -->
+Aseguró que en el caso no es aplicable «lo dispuesto por la Corte Suprema de Justicia en la Sentencia de casación
+SC006 de 2021 (sic) para justificar la existencia de la sociedad patrimonial anotada, por cuanto la sociedad conyugal entre el causante y su esposa María Ligia Salgado Izquierdo estuvo vigente hasta la muerte del esposo al haber dado éste socorro y ayuda a su esposa hasta el momento de su muerte».
+
+El apoderado judicial de Yaneth Izquierdo Salgado, María
+Ligia Salgado Izquierdo y Jhon Jairo Izquierdo Salgado criticó la valoración que sirvió para reconocer la unión marital y, porque de existir, sólo pudo iniciar después del año 2016.
+
+4. Sentencia del Tribunal. Como la casación que se decretó fue de alcance parcial, se tiene que los argumentos del ad quem tocantes a la relación formada por la pareja
+Izquierdo-Montañez y su duración -1982 a 2013-, la falta de demostración del inicio de convivencia de la pareja Izquierdo-
+Pérez a partir del año 1982, y su comienzo desde el año 2014, se mantiene inalterados. Por tanto, los parágrafos primero, tercero y cuarto del veredicto del 31 de marzo de 2023 permanecerán incólumes.
+
+5.
+Consideraciones.
+Acotado a los argumentos concretos expuestos al apelar, conforme al artículo 328 del
+Código General del Proceso, y a la materia sub judice por haber sido objeto de la casación, la Sala se concentrará en evaluar si existe impedimento legal para que surja la sociedad patrimonial de hecho de la pareja Izquierdo-Pérez, así como la procedencia de aplicar, al caso, la sentencia SC4027-2021.
+
+<!-- pagina 91 -->
+5.1. Inexistencia de impedimento legal.
+
+5.1.1. En gracia de concreción, a la presente decisión sustitutiva se entienden incorporados todos los argumentos expuestos al casar, en punto al vacío normativo y axiológico existente sobre la separación de hecho de los cónyuges y la extinción de la sociedad conyugal, así como su resolución por medio de la analogía de los artículos 167 y 1820 -numeral
+2°- del Código Civil.
+
+5.1.2. Para resolver, en cuanto interesa, se tiene que en el presente caso está probado que:
+
+(I) Fernando Izquierdo Izquierdo (q.e.p.d.) contrajo matrimonio religioso con María Ligia Salgado Izquierdo el 15 de noviembre de 1973 (folio 141 del archivo digital
+0001CuadernoPrincipalParte1.pdf), que concluyó con el deceso de aquél el 14 de julio de 2020 (folio 3 ibídem).
+
+(II) Los consortes se separaron de hecho antes del fallecimiento, como fue relatado en el hecho décimo de la demanda (folio 103 ibidem) y aceptado en la contestación de la misma (folio 488 ejusdem).
+
+(III) El distanciamiento físico de los esposos ocurrió en
+1979, según fue admitido en el interrogatorio practicado a
+María Ligia Salgado Izquierdo, aunque con la precisión de que el causante siguió dispensándole ayuda económica
+(audiencia del 2 de mayo de 2023):
+
+<!-- pagina 92 -->
+Preguntada: María Ligia ¿Hasta cuándo vivió usted con don
+Fernando?
+Respondió: Yo viví 10 años… 10 años en 1979…
+Preguntado: Entonces usted se casó en 1973 y vivió 10 años con el señor Fernando Izquierdo Izquierdo y su separación se dio en
+1979, de acuerdo con lo que ha dicho, ¿es así?
+Respondió: Si señor Juez… No me separe sino que nos distanciamos, porque el siempre me siguió ayudando, todo el tiempo…
+Preguntado: Pero viviendo como marido y mujer, bajo el mismo techo, lecho, cama, todo lo que llamados compartir como marido y mujer, ¿hasta cuándo fue?
+Respondió: Hasta el 79…
+
+Al ser inquirida sobre la relación del causante con Luz
+Estella Montañez (q.e.p.d.), aseguró:
+
+Respondió: a los 6 años yo descubrí eso, entonces pues yo lo esperé 3 años más, por eso nos distanciamos, o yo me distancié de él en el 79, porque no hubo arreglo ninguno, yo hablé con ella… pero no… Él me prometió que, a donde yo me fuera, él me seguiría ayudando, y así fue, hasta el marzo de la pandemia que me ayudó porque ya se enfermó…
+Preguntada: doña María Ligia, no obstante, usted señala que en
+1979 fue cuando se separó, según su dicho por adulterio…, usted quedó embarazada y fruto de ese nuevo embarazo fue que nació
+John Jairo en 1982 ¿es así?
+Respondió: Si señor Juez
+Preguntada: ¿o sea que hubo una reconciliación entre usted y don
+Fernando a mediados de 1982?
+Respondió: Si señor Juez
+Preguntada: Nació John Jairo y ¿cuánto tiempo más siguieron como marido y mujer?
+Respondió: Pues él iba, el iba, donde yo estuviera él iba a visitarnos…
+
+Y al ser cuestionada por el apoderado judicial de la demandante reiteró:
+
+<!-- pagina 93 -->
+Interrogada:
+Manifestó usted doña
+María
+Ligia… que efectivamente… tuvo matrimonio vigente hasta 1979, ¿es cierto sí o no?
+Respondió: Pues yo me distancié de él y seguimos como si fuéramos casados porque no nos divorciamos por papeles ni con firmas…
+Interrogada: lo que quiere decir es que separó de hecho más no hubo un documento ¿verdad?
+Respondió: Si señor abogado… (negrilla fuera de texto).
+
+(IV) Según la sentencia del 31 de marzo de 2023, proferida por la Sala Civil-Familia del Tribunal Superior del
+Distrito Judicial de Buga, en las materias no rescindidas por el remedio casacional, se tiene que la unión marital de hecho de Fernando Izquierdo Izquierdo (q.e.p.d.) y Luz Estella
+Montañez Casallas (q.e.p.d.) estuvo vigente de 1982 a 2013.
+A su vez, la relación convivencial entre Fernando Izquierdo
+Izquierdo (q.e.p.d.) y Luz Eneida Pérez Paz tiene «como baremo inicial… la fecha del 14 de julio de 2014» y terminó con el perecimiento del compañero permanente «el 14 de julio de 2020».
+
+5.1.3. Según la subregla fijada en la decisión casacional, se tiene que la separación física de los cónyuges da lugar a la disolución de la comunidad de gananciales, siempre que se traduzca en rompimiento del proyecto de vida común, por un término igual o superior a un bienio.
+
+Así sucedió en el caso de la pareja Izquierdo-Salgado, pues desde 1979 decidieron echar a pique la empresa conjunta, lo que se materializó en que la consorte se alejó de su esposo, cambiando su domicilio a un municipio diferente, según lo reconoció en su interrogatorio.
+
+<!-- pagina 94 -->
+Como consecuencia, Fernando Izquierdo Izquierdo
+(q.e.d.p.) determinó consolidar una nueva relación sentimental con Luz Estella Montañez Casallas (q.e.p.d.), quien era reconocida como su compañera permanente, según se asintió en la sentencia del Tribunal.
+
+5.1.4. Estos razonamientos no se modifican por el hecho de que los cónyuges tuvieran encuentros sexuales posteriores, pues éstos no desvelan un proyecto de vida compartido, no sólo por su carácter esporádico, sino también porque no estaban acompañados de la fijación de objetivos y metas connaturales a un proyecto familiar.
+
+Tampoco tiene este alcance la ayuda económica brindada por el causante a su familia matrimonial, porque realmente era la forma en que cumplía su deber alimentario, destinándose a la manutención y estudio de sus hijos comunes. Con todo, incluso de aceptarse que estas contribuciones eran disfrutadas por su cónyuge, su fuente se encuentra en el deber de solidaridad, explicable por el hecho de que fue el culpable de la separación.
+
+Refulge de lo expuesto que para el año de 1981 se entiende disuelta la sociedad conyugal, esto es, dos años después de la separación de hecho.
+
+5.1.5. Como la pareja Izquierdo-Montañez comenzó su vida común el 14 de julio de 2014, es diáfano que para esta data había operado la disolución de la comunidad de activos matrimonial, por lo que no se configura el impedimento a que
+
+<!-- pagina 95 -->
+se refiere el literal b) del artículo 2° de la ley 54 de 1990, en orden a imposibilitar el surgimiento de la sociedad patrimonial de hecho entre aquéllos.
+
+5.2. Configuración de los supuestos para declarar la sociedad patrimonial de hecho.
+
+5.3.1. La última de las disposiciones citadas, después de sus modificaciones y exclusiones por inconstitucionalidad, prescribe:
+
+Se presume sociedad patrimonial entre compañeros permanentes y hay lugar a declararla judicialmente… Cuando exista una unión marital de hecho por un lapso no inferior a dos años e impedimento legal para contraer matrimonio por parte de uno o de ambos compañeros permanentes, siempre y cuando la sociedad o sociedades conyugales anteriores hayan sido disueltas… por lo menos un año antes de la fecha en que se inició la unión marital de hecho.
+
+Añádase que, según la jurisprudencia de la Sala, se «ha inaplicado por vía de excepción de inconstitucionalidad la exigencia temporal, pues… el legislador al fijar el tiempo de espera de ‘por lo menos un año’, no fundamentó la finalidad que persigue ese término, situación que lo convierte en un tiempo muerto que causa perjuicio a la familia natural que conforman los compañeros permanentes del literal b) parcialmente acusado y genera un trato desigual que debe ser corregido por esta Corporación» (SC311-2023).
+
+5.3.2. La Corte ha compilado y explicado los requisitos normativos de marras de la siguiente forma:
+
+<!-- pagina 96 -->
+(a) comunidad de vida entre los compañeros, quienes deciden unirse con la finalidad de alcanzar objetivos comunes y desarrollar un proyecto de vida compartido (CSJ, SC, 12 dic. 2012, rad. n.°
+2003-01261-01);
+
+(b) singularidad, que se traduce en que los consortes no pueden establecer compromisos similares con otras personas, ‘porque si alguno de ellos, o los dos, sostienen además uniones con otros sujetos o un vínculo matrimonial en el que no estén separados de cuerpos los cónyuges, esa circunstancia impide la configuración del fenómeno’ (CSJ, SC11294, 17 ag. 2016, rad. n.° 2008-00162-
+01);
+
+(c) permanencia, entendida como la conjunción de acciones y decisiones proyectadas establemente en el tiempo, que permitan inferir la decisión de conformar un hogar y no simplemente de sostener encuentros esporádicos (CSJ, SC, 20 sep. 2000, exp. n.°
+6117);
+
+(d) inexistencia de impedimentos legales que hagan ilícita la unión, como sucede, por ejemplo, con el incesto (CSJ, SC, 25 mar. 2009, rad. n.° 2002-00079-01); y
+
+(e) convivencia ininterrumpida por dos (2) años, que hace presumir la conformación de la sociedad patrimonial (CSJ, SC268, 28 oct.
+2005, rad. n.° 2000-00591-01)… (SC128, 12 feb. 2018, rad. n.°
+2008-00331-01).
+
+[f] A los cuales habrá que añadirse, que «si alguno o ambos lo tienen, ‘que la sociedad o sociedades conyugales anteriores hayan sido disueltas’» (SC, 20 sep. 2000, exp. n.° 6117, reiterada en
+SC11949, 26 ag. 2016, rad. n.° 2001-00011-01) (SC003-2021).
+
+5.3.3. Estos requerimientos se encuentran satisfechos en el sub examine, a saber:
+
+(I) Conforme a la sentencia del Tribunal, la pareja formada por Fernando Izquierdo Izquierdo (q.e.d.p.) y Luz
+Eneida Pérez Paz, construyeron una vida común.
+
+<!-- pagina 97 -->
+(II) Con posterioridad al año 2014 la relación fue singular, pues para esta data se había extinguido la relación entre Fernando Izquierdo Izquierdo (q.e.d.p.) y Luz Estella
+Montañez Casallas (q.e.p.d.), según lo precisado por el ad quem.
+
+(III) La pareja Izquierdo-Pérez alcanzó un vínculo estable, que se proyectó en el tiempo por muchos años, de acuerdo con el veredicto de alzada en los acápites no casados.
+
+(IV) No se demostró en el expediente la presencia de situaciones que hicieran ilícita la unión sentimental.
+
+(V) La convivencia se extendió del 14 de julio de 2014 al
+14 de julio de 2020 con lo que se superó el plazo de dos años requerido para presumir la sociedad patrimonial de hecho.
+
+(VI) Para la fecha en que principió la relación de hecho ya estaba disuelta la sociedad conyugal que previamente había formado Fernando Izquierdo Izquierdo (q.e.p.d.) con
+María Ligia Salgado Izquierdo, como ya se explicó.
+
+Por lo expuesto, deviene procedente acceder al reconocimiento de la comunidad de activos entre los compañeros permanentes, como se hará en la parte resolutiva de este proveído.
+
+En este punto habrá que modificar el numeral segundo de la decisión de primera instancia, pues el a quo indicó como
+
+<!-- pagina 98 -->
+fecha de iniciación el 7 de julio de 2013, por corresponder al extremo inaugural de la unión marital, data que resultó modificada por el Tribunal en materia ajena a la casación.
+
+5.3. Alcance del precedente SC4027-2021
+
+Al margen del valor de la sentencia del 14 de septiembre de 2021, dentro del sistema de fuentes de nuestro orden jurídico, lo cierto es que la Corte, en esta providencia, en garantía de la integridad del plexo normativo y para evitar el desconocimiento de la axiología de la Constitución Política, realizó una interpretación histórica y sistemática de las normas que gobiernan la separación de hecho de los cónyuges y sus efectos sobre la sociedad patrimonial de hecho, fijando una subregla que servirá a todos los sentenciadores de instancia para resolver los asuntos que en el futuro sean sometidos a conocimiento, quienes tienen el deber de considerarla en desarrollo de los artículos 13 de la
+Constitución Política, 7 y 42 del Código General del Proceso.
+Máxime porque en el proveído SC2429-2024 se reiteró igual directriz interpretativa para la resolución de un asunto casacional.
+
+6. Sumario de cierre.
+
+Una vez casada parcialmente la sentencia del Tribunal por infringir de manera directa los artículos 167 y 1820 - numeral 2- del Código Civil, en concordancia con el artículo 2
+-literal b- de la ley 54 de 1990, en sede de instancia se emitirá veredicto de segundo grado únicamente sobre la materia
+
+<!-- pagina 99 -->
+objeto de casación, confirmando la decisión de primer grado relativa al reconocimiento de la sociedad patrimonial de hecho, con la precisión realizada en el veredicto de alzada sobre las fechas en que ocurrió la convivencia.
+
+Con todo, para fines de claridad, se reproducirán en el acápite resolutivo de este veredicto todas las determinaciones de la apelación.
+
+Se impondrá condena en costas a la demandante en la alzada conforme al numeral 1° del artículo 365 del Código
+General del Proceso, por cuanto su recurso se despachó de forma desfavorable. Las agencias en derecho las fija el magistrado ponente de acuerdo con las tarifas establecidas por el Consejo Superior de la Judicatura.
+
+IV.
+DECISIÓN
+
+En mérito de lo expuesto, la Corte Suprema de Justicia,
+Sala de Casación Civil, Agraria y Rural, administrando justicia en nombre de la República y por autoridad de la ley,
+CASA PARCIALMENTE la sentencia de 31 de marzo de 2023, proferida por la Sala Civil-Familia del Tribunal Superior del
+Distrito Judicial de Buga, en el proceso verbal de Declaración de Existencia de Unión Marital de Hecho y Sociedad
+Patrimonial entre compañeros permanentes que la recurrente le adelantó a María Ligia Salgado Izquierdo, como cónyuge supérstite de Fernando Izquierdo Izquierdo y herederos de este. En consecuencia, en sede de instancia,
+RESUELVE:
+
+<!-- pagina 100 -->
+Primero. Modificar el numeral segundo de la sentencia de primer grado, de fecha y procedencia conocidas, en el sentido de señalar que la sociedad patrimonial de hecho que existió entre Luz Eneida Pérez Paz y Fernando Izquierdo
+Izquierdo (q.e.p.d.), inició el 14 de julio de 2014.
+
+Segundo. El acápite resolutivo de la decisión de segunda instancia se compendia así:
+
+Primero: modificar el numeral primero de la sentencia apelada, de fecha y procedencia conocidas, en el sentido de señalar que la unión marital de hecho que existió entre Luz Eneida Pérez Paz y
+Fernando Izquierdo Izquierdo (q.e.p.d.), inició el 14 de julio de
+2014.
+
+Segundo: Modificar el numeral segundo de la sentencia apelada, de fecha y procedencia conocidas, en el sentido de señalar que la sociedad patrimonial de hecho que existió entre Luz Eneida Pérez
+Paz y Fernando Izquierdo Izquierdo (q.e.p.d.), inició el 14 de julio de 2014.
+
+Tercero: En lo demás, confirmar la decisión objeto del presente pronunciamiento.
+
+Tercero. Condenar en costas de la apelación a la parte demandante. El magistrado ponente fija como agencias en derecho la suma equivalente a tres salarios mínimos legales mensuales vigentes a la fecha de esta providencia.
+
+Cuarto. No condenar en costas en casación.
+
+Tómense las anotaciones pertinentes, por secretaria, y envíese al Tribunal copia de esta providencia.
+
+<!-- pagina 101 -->
+NOTIFÍQUESE Y CÚMPLASE
+
+FERNANDO AUGUSTO JIMÉNEZ VALDERRAMA
+Presidente de Sala
+(Salvamento de voto)
+
+HILDA GONZÁLEZ NEIRA
+
+MARTHA PATRICIA GUZMÁN ÁLVAREZ
+(Salvamento de voto)
+
+OCTAVIO AUGUSTO TEJEIRO DUQUE
+
+FRANCISCO TERNERA BARRIOS
+(Aclaración de voto)
+
+HERNANDO HERRERA MERCADO
+(Conjuez)
+(Aclaración de voto)
+
+<!-- pagina 102 -->
+JOHN FREDY IBÁÑEZ DÍAZ
+(Conjuez)
+
+<!-- pagina 103 -->
+SALVAMENTO DE VOTO
+
+Con el mayor respeto por la decisión adoptada por la mayoría de la Sala en la sentencia SC3085-2024, nos permitimos expresar las razones jurídicas por las cuales disentimos de la posición mayoritaria.
+
+Reconocemos, en primer lugar, la importancia del problema jurídico abordado y valoramos el riguroso esfuerzo de la Sala por proteger los derechos patrimoniales de los compañeros permanentes, adaptando el derecho de familia a las realidades sociales actuales. La sentencia refleja un trabajo académico minucioso y una genuina preocupación por la justicia material en las relaciones familiares.
+
+Sin embargo, después de un cuidadoso análisis, los suscritos Magistrados consideramos que la solución adoptada, aunque movida por un fin constitucionalmente valioso, puede generar dificultades significativas en su implementación práctica, y plantea algunos desafíos desde el punto de vista de la seguridad jurídica:
+
+1.
+El uso de la analogía y los límites de la creación judicial de derecho.
+
+1.1. La sentencia de la cual respetuosamente disentimos propone que los efectos de la separación de hecho
+
+<!-- pagina 104 -->
+de los cónyuges, sumada al transcurso de cierto tiempo, pueden equipararse a la separación judicial de cuerpos prevista en el artículo 1820-2 del Código Civil como causal de disolución de la sociedad conyugal. Sin embargo, esta interpretación presenta algunas dificultades jurídicas que merecen ser analizadas.
+
+En primer lugar, la norma en cuestión establece expresamente que la sociedad conyugal se disuelve por «la separación judicial de cuerpos»23, lo que presupone la necesaria intervención de la jurisdicción para ratificar tanto la separación como sus efectos patrimoniales. Esta exigencia no es accidental sino que responde a un principio general del derecho según el cual “las cosas se deshacen como se hacen”, principio que cobra especial relevancia tratándose de actos solemnes como el matrimonio y sus efectos –tanto personales, como patrimoniales–.
+
+1.2. La decisión mayoritaria fundamenta el uso de la analogía en la existencia de un vacío normativo. Sin embargo, esta premisa requiere un análisis más detenido. El artículo
+1820 del Código Civil establece de manera taxativa las causales de disolución de la sociedad conyugal, y esta taxatividad sugiere que el legislador, al enumerar los supuestos específicos que dan lugar a este efecto jurídico, decidió conscientemente excluir otras posibles causas, entre ellas la separación de hecho de los cónyuges.
+
+23 Cfr. Corte Constitucional, sentencias C-222 de 1995; C-006 de 1998; C-228 de 1998; C-007 de 2002 y C-510 de 2008, entre otras.
+
+<!-- pagina 105 -->
+En este mismo sentido, el hecho de que la Ley 25 de
+1992 no hubiera regulado expresamente los efectos patrimoniales de la separación, de hecho no necesariamente constituye un vacío normativo que deba ser llenado por vía judicial. Por el contrario, este silencio, en presencia de una regulación clara sobre las causales de disolución de la sociedad conyugal, podría interpretarse como una decisión consciente de mantener el régimen existente.
+
+2.
+Los efectos generales y retroactivos de la decisión
+
+2.1. La interpretación adoptada por la mayoría de la
+Sala establece que la separación de hecho de los cónyuges por más de dos años produce la disolución automática de la sociedad conyugal. E insistimos en que esta determinación, aunque busca resolver una situación de inequidad, tiene implicaciones que trascienden el caso concreto, pues modifica el estado civil y la situación patrimonial de todas las parejas separadas de hecho en Colombia.
+
+Un aspecto que genera particular inquietud es que la decisión no establece claramente sus efectos temporales.
+Esta indeterminación podría afectar situaciones jurídicas consolidadas bajo el entendimiento anterior de la norma, alterando derechos adquiridos y expectativas legítimas de parejas que se separaron hace años o décadas.
+
+La seguridad jurídica, principio fundamental de nuestro ordenamiento, sugiere la necesidad de establecer
+
+<!-- pagina 106 -->
+lineamientos absolutamente claros sobre la aplicación en el tiempo de nuevas interpretaciones normativas, en especial cuando estas afectan el estado civil y las relaciones patrimoniales de las personas.
+
+2.2. La función creadora de derecho que corresponde a la Corte Suprema de Justicia como órgano de cierre de la jurisdicción ordinaria se materializa a través de la construcción de subreglas jurisprudenciales que emergen de la resolución de casos concretos. Estas subreglas, por su naturaleza, son adaptables a las particularidades de cada controversia y permiten a los jueces resolver situaciones análogas considerando sus circunstancias específicas.
+
+Sin embargo, esto no puede entenderse como una facultad para establecer efectos de pleno derecho, que modifican situaciones jurídicas incluso en ausencia de controversia judicial. Ese tipo de cambios estructurales al ordenamiento tradicionalmente han sido materia de regulación legislativa, ya que es el Congreso quien cuenta con mecanismos de deliberación y participación democrática que permiten evaluar comprehensivamente sus impactos.
+
+Además, cuando el legislador introduce cambios de esta magnitud, suele establecer regímenes de transición que facilitan una adaptación ordenada a las nuevas realidades normativas (y ello no ocurrió así en este caso).
+
+3.
+Autonomía de la voluntad .
+
+<!-- pagina 107 -->
+3.1. La decisión mayoritaria parte de una premisa que merece un análisis cuidadoso: que la separación de hecho prolongada por dos años refleja necesariamente una voluntad tácita de los cónyuges de cesar su proyecto de vida común y, con él, sus efectos patrimoniales. Esta interpretación, aunque razonable en algunos casos, podría no reflejar la complejidad de las relaciones familiares.
+
+En efecto, la falta de formalización de la ruptura matrimonial también podría interpretarse como una manifestación de la voluntad de mantener el vínculo, por diversos motivos que merecen igual respeto y consideración: móviles religiosos, expectativas pensionales, razones emocionales o familiares, entre otros. Nuestro ordenamiento, precisamente reconociendo esta complejidad, ofrece herramientas específicas para que los consortes formalicen su situación personal y patrimonial cuando así lo deseen.
+
+En ese sentido, estimamos prudente permitir que las partes gobiernen sus relaciones con libertad y conciencia. Tal como lo señaló la Corte Constitucional en la sentencia SU617 de 2014, la protección estatal a la familia debe materializarse principalmente a través del reconocimiento de su capacidad de autodeterminación, lo que equivale a decir que la intervención de las autoridades en el devenir y las decisiones familiares debe ser la excepción, y no la regla.
+
+3.2. La pauta adoptada por la mayoría, aunque busca proteger los derechos patrimoniales de los compañeros permanentes, tiene efectos que trascienden este propósito. Al
+
+<!-- pagina 108 -->
+establecer la disolución automática de todas las sociedades conyugales después de dos años de separación de hecho, la decisión afectaría incluso a parejas donde no existe un tercero cuya calidad de compañero requiera protección.
+
+Esta consecuencia general plantea interrogantes sobre la preservación de la naturaleza solemne del vínculo matrimonial, característica que ha cumplido históricamente una función importante en la protección de la seguridad jurídica y la estabilidad de las relaciones familiares.
+
+Adicionalmente, esta interpretación podría tener un efecto no deseado en el comportamiento social: en lugar de promover la definición responsable y ordenada de las situaciones familiares, podría incentivar la informalidad.
+Recordemos que la Constitución enfatiza que la familia debe surgir de una “voluntad responsable”, lo que implica atender adecuadamente las obligaciones y relaciones jurídicas.
+
+Los principios de seguridad jurídica y confianza legítima, pilares fundamentales de nuestro ordenamiento, sugieren la importancia de mantener reglas claras y previsibles en las relaciones familiares, especialmente en su dimensión patrimonial.
+
+4.
+Desafíos prácticos de implementación
+
+4.1. La solución adoptada por la mayoría, aunque busca atender una necesidad legítima de protección patrimonial, genera interrogantes importantes sobre su
+
+<!-- pagina 109 -->
+implementación práctica que merecen ser analizados cuidadosamente:
+
+Primero, surgen preguntas sobre el procedimiento judicial adecuado: ¿En qué tipo de proceso debe declararse la disolución de la sociedad conyugal derivada de la separación de hecho? ¿Esta declaración podría hacerse en el mismo proceso donde se reconoce la unión marital de hecho, o requeriría un trámite independiente?
+
+Segundo, existen inquietudes sobre la garantía del derecho de defensa: El cónyuge, siendo titular de derechos en la sociedad conyugal y por tanto litisconsorte necesario en asuntos que afecten su disolución, ¿cómo ejercería sus derechos procesales en el marco de un proceso declarativo de unión marital que involucra a su consorte con un tercero?
+
+Tercero, hay cuestiones probatorias relevantes: Si el objeto principal del proceso es la declaración de la unión marital, ¿cómo se estructuraría el debate probatorio sobre la separación de hecho del matrimonio preexistente? ¿Qué garantías tendría el cónyuge –tercero respecto de la cuestión de la unión marital– para controvertir esta evidencia?
+
+Finalmente, se presentan dudas sobre publicidad y oponibilidad: ¿Cómo se garantizaría el derecho a la información de los acreedores de la sociedad conyugal? ¿Qué mecanismo permitiría dar publicidad a la disolución para hacerla oponible a terceros?
+
+<!-- pagina 110 -->
+4.2. La determinación del momento exacto de la separación de hecho, punto de partida del plazo bienal establecido en la sentencia, también presenta desafíos prácticos significativos. Las separaciones matrimoniales rara vez son eventos precisos y delimitados en el tiempo; más comúnmente se presentan como procesos graduales que pueden incluir períodos de distanciamiento y reconciliación.
+Esta realidad dificulta establecer con certeza el inicio del término que llevaría a la disolución de la sociedad conyugal.
+
+4.3. Otro aspecto que genera especial preocupación es que la regla establecida por la mayoría tiene efectos que trascienden el propósito declarado de proteger los derechos patrimoniales de los compañeros permanentes. En efecto, todas las sociedades conyugales vigentes se entenderían disueltas automáticamente tras dos años de separación de hecho, exista o no una tercera persona cuya calidad de compañero permanente requiera protección.
+
+Esta consecuencia general, se reitera no solo carece de respaldo normativo explícito, sino que pasa por alto la naturaleza solemne que históricamente ha caracterizado al vínculo matrimonial .Y más preocupante aún es el mensaje que esta decisión envía a la sociedad: en lugar de promover la organización responsable de los asuntos familiares y patrimoniales antes de constituir nuevos núcleos familiares, la sentencia crea un incentivo para la informalidad.
+
+La familia, como lo establece nuestra Constitución, debe surgir de una “voluntad responsable” de conformarla; y
+
+<!-- pagina 111 -->
+esta responsabilidad implica, necesariamente, definir y concluir de manera ordenada las situaciones jurídicas preexistentes, especialmente en el ámbito patrimonial.
+
+5.
+Alternativas jurídicas adecuadas.
+
+Queremos insistir en que el precedente de esta
+Corporación ya ha desarrollado una solución sustantiva que permite proteger efectivamente los derechos patrimoniales de las parejas de hecho, sin necesidad de modificar el régimen de disolución de la sociedad conyugal: la sociedad de hecho entre compañeros permanentes.
+
+Esta figura ha evolucionado significativamente gracias a la jurisprudencia reciente. La Corte ha reconocido que la decisión de conformar una familia implica naturalmente la intención de construir un patrimonio común, lo que satisface el requisito de affectio societatis propio de las sociedades de hecho. Además, se ha dado pleno valor jurídico y económico a todas las formas de contribución a la economía familiar, incluyendo el trabajo doméstico y los aportes en especie, garantizando una verdadera igualdad entre los compañeros.
+
+La sentencia SC3463-2022 consolidó esta evolución al establecer que la convivencia singular y estable constituye un indicio significativo del ánimo de asociación, siempre que las contribuciones al proyecto común se desarrollen en condiciones de igualdad. Esta decisión validó expresamente que los aportes pueden materializarse en servicios o trabajo,
+
+<!-- pagina 112 -->
+incluyendo las labores del hogar como factor esencial para la conformación y consolidación del núcleo familiar.
+
+Esta alternativa jurisprudencial ofrece ventajas importantes:
+
+(i)
+Preserva la integridad del sistema jurídico al no crear nuevas causales de disolución de la sociedad conyugal.
+
+(ii)
+Armoniza con la naturaleza solemne del matrimonio y sus efectos patrimoniales.
+
+(iii)
+Protege adecuadamente tanto los derechos de los compañeros permanentes como los intereses legítimos del cónyuge y de terceros.
+
+(iv)
+Ofrece seguridad jurídica al operar dentro de marcos procesales ya establecidos.
+
+(v)
+Promueve la formalización y organización responsable de las relaciones familiares.
+
+En este sentido, consideramos que la protección efectiva de los derechos patrimoniales de los compañeros permanentes podría lograrse mediante el desarrollo y fortalecimiento de esta figura jurídica, que cuenta ya con respaldo jurisprudencial sólido y vías instrumentales claras para su efectiva implementación.
+
+6.
+Conclusiones.
+
+<!-- pagina 113 -->
+La evolución del derecho de familia representa uno de los mayores desafíos que enfrenta la jurisprudencia. La decisión adoptada por la mayoría de la Sala refleja una genuina preocupación por adaptar nuestro ordenamiento jurídico a las realidades sociales actuales y, particularmente, por proteger los derechos patrimoniales de quienes conforman familias por fuera del vínculo matrimonial.
+
+Compartimos plenamente estos propósitos.
+La necesidad de garantizar la equidad en las relaciones económicas familiares y de proteger a las personas más vulnerables en estos contextos constituye un imperativo constitucional que la Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia, está llamada a materializar.
+
+Sin embargo, después de un análisis cuidadoso, consideramos que la solución específica adoptada por la mayoría –aunque teóricamente sofisticada–, podría generar dificultades significativas. La modificación del régimen de disolución de la sociedad conyugal, por sus profundas implicaciones en la seguridad jurídica y en la estabilidad de las relaciones familiares, quizás requeriría una intervención más comprehensiva, que establezca reglas sustanciales y mecanismos instrumentales para su realización.
+
+Estas preocupaciones, sumadas a la existencia de alternativas jurisprudenciales ya desarrolladas que permitirían alcanzar objetivos similares, nos llevan a
+
+<!-- pagina 114 -->
+expresar, con el mayor respeto y consideración por nuestros colegas, nuestro disenso con la decisión mayoritaria.
+
+Fecha ut supra,
+
+FERNANDO AUGUSTO JIMÉNEZ VALDERRAMA
+Magistrado
+
+MARTHA PATRICIA GUZMÁN ÁLVAREZ
+Magistrada
+
+<!-- pagina 115 -->
+ACLARACIÓN DE VOTO
+
+HERNANDO HERRERA MERCADO
+
+FRANCISCO TERNERA BARRIOS
+
+Radicación n° 76109-31-10-002-2021 00107-01
+
+Con el debido respeto, consignamos las razones por las cuales aclaramos el voto.
+
+1.- Sea lo primero indicar que estamos conformes con la determinación adoptada por la Sala.
+
+2. Sin embargo, consideramos que se debe aclarar que si existe una sociedad conyugal vigente no puede surgir a la vida jurídica una sociedad patrimonial de hecho. Esto es, el legislador ha pretendido evitar la coexistencia de universalidades de bienes.
+
+2.1. Ahora bien, por regla general, la sociedad conyugal se disuelve por las causales establecidas en el artículo 1820 del Código Civil. Y según el artículo 167 del Código Civil “la separación de cuerpos disuelve la sociedad conyugal, salvo que, fundándose en el mutuo consentimiento de los cónyuges y siendo temporal, ellos manifiesten su deseo de mantenerla vigente”.
+
+<!-- pagina 116 -->
+2.2. Se ha venido discutiendo en la Sala que la disolución de la sociedad conyugal también puede producirse por la ruptura definitiva de los deberes maritales entre los cónyuges. Pero, para que esa subregla pueda ser aplicada se considera que deben cumplirse las siguientes condiciones o presupuestos.
+
+2.2.1. Primero, debe existir una unión marital entre uno de los cónyuges -o ambos- y un tercero.
+
+2.2.2. Y segundo, debe verificarse que en efecto se produjo una cesación definitiva y permanente de los deberes conyugales. Así y todo, de avizorarse cumplimiento de uno o algunos de esos deberes no podría afincarse la ruptura definitiva de hecho. En otras palabras, debe estudiarse si los hechos probados revelaron una realidad incontestable e inequívoca. Esto es, que se ha roto de manera definitiva - y por lapso superior a dos años-, la convivencia y deberes maritales entre los cónyuges, uno de los cuales hizo vida marital por separado -para que se abriese camino la declaratoria de la novel sociedad patrimonial-.
+
+2.3. Como ha sido posición decantada de la Sala, lo relevante es determinar cuándo se disolvió una sociedad conyugal para poder delimitar el inicio de otra comunidad universal. Allí donde no hay ánimo ni plan de vida en común, no hay propósito asociativo. Por último, se precisa que se ha exigido en el marco de la subregla, la separación definitiva y la cesación absoluta de los deberes maritales por un término
+
+<!-- pagina 117 -->
+superior a dos años. Ello, puesto que se ha hecho analogía con la causal de divorcio de separación de hecho por más de dos años (por ser la situación más parecida a la situación fáctica que genera el problema jurídico).
+
+Con el mayor respeto,
+
+HERNANDO HERRERA MERCADO
+Conjuez
+
+FRANCISCO TERNERA BARRIOS
+Magistrado

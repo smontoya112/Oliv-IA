@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_2437_2024",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2437_2024.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2437_2024.html",
+      "sha256": "7ff03fbc548a5e9ea2d774bc84df5b2af5b74fdeec43b5283b009560d0784640",
+      "bytes": 85346,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:13-05:00"
+    }
+  ]
+}

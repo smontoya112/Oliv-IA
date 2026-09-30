@@ -1,0 +1,4519 @@
+---
+{
+  "doc_id": "sentencia_c-183_2025",
+  "titulo": "Sentencia C-183 de 2025",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/C-183-25.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "civil"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-183",
+  "anio": 2025,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-183",
+    "2025"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2025/C-183-25.htm"
+  ],
+  "sha256_partes": [
+    "3e2eaff8289e97e7360a596de8f77d588478f135129950ac22023928e0e0b0cb"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 261831,
+  "n_articulos_detectados": 7,
+  "archivo_md": "md/sentencia_c-183_2025.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2025/C-183-25.htm -->
+C-183-25
+
+---
+
+**TEMAS-SUBTEMAS**
+
+**Sentencia C-183/25**
+
+**PRINCIPIO DE IGUALDAD EN MATERIA
+PENAL-**Se vulnera por norma que prohíbe a las personas
+con enfermedades o trastornos mentales ser nombradas peritos
+
+*(…) la disposición normativa
+demandada contraría lo dispuesto en el artículo 13 de la Constitución Política
+de Colombia y las normas concordantes que integran el Bloque de
+Constitucionalidad, puesto que aun cuando persigue una finalidad
+constitucionalmente imperiosa, no se configura como una medida idónea ni mucho
+menos necesaria para garantizar la finalidad que persigue: la fiabilidad de la
+prueba pericial.*
+
+**DIGNIDAD HUMANA-**Principio, valor y derecho fundamental
+
+**PRINCIPIO DE DIGNIDAD HUMANA-**Características
+
+*(…) el principio de la dignidad
+humana presenta las siguientes características esenciales (i) Universalidad.
+Todas las personas están dotadas de dignidad por el solo hecho de ser humanas,
+sin distinción alguna. (ii) Inalienabilidad. La dignidad no puede ser
+enajenada, transferida o renunciada; es inherente a la condición humana,
+independientemente de la percepción o consciencia que una persona tenga sobre
+su propia dignidad. (iii) Inviolabilidad. Ninguna persona o entidad puede
+atentar contra la dignidad de otra. (iv) Innegociabilidad. La dignidad no es
+una mercancía, ni está sujeta a transacción o negociación. (v)
+Irrenunciabilidad. No es posible prescindir de la dignidad propia, aun
+voluntariamente, pues resultaría en un imposible lógico y ético. (vi) Absoluta
+en su esencia. Al entrar en conflicto con otros principios debe prevalecer su
+garantía.*
+
+**DERECHO DE
+IGUALDAD-**Deviene del concepto de dignidad humana
+
+*(...) la dignidad comprendida desde la
+perspectiva de la igualdad implica que toda persona debe ser tratada conforme a
+su naturaleza y con respeto de sus condiciones y situaciones particulares, de
+tal forma que debe gozar de los mismos derechos y oportunidades que los demás,
+sin que en ningún caso pueda ser rechazada, maltratada, marginada, lesionada o discriminada.
+Los seres humanos somos diversos, todos somos diferentes, pero nadie es
+superior a nadie, por tanto, todos y todas tenemos el derecho ser tratados y
+formados en igualdad de condiciones. Esto supone la prohibición de
+discriminación y la obligación individual y social de promover la igualdad
+material.*
+
+**PRINCIPIO DE IGUALDAD-**Dimensiones
+
+**PRINCIPIO DE IGUALDAD Y NO
+DISCRIMINACIÓN-**Contenido
+
+*(…) la igualdad es un principio
+jurídico independiente pero íntimamente relacionado con la dignidad humana, puesto
+que se desprende de ella, el cual se constituye como una de las piedras
+angulares de la Constitución Política de 1991. Como derecho fundamental,
+implica la facultad que tiente toda persona natural de exigirle al estado y a
+la sociedad: (i) por regla general, un trato idéntico respecto de todas los
+ciudadanos y ciudadanas; (ii) un trato diferenciado, cuando exista una
+situación que la ponga en una posición desfavorable o marginal, esto, con el
+fin de eliminar o disminuir las brechas entre los sujetos que integran las
+sociedad; (iii) a no ser discriminado por razones de sexo, raza, origen étnico,
+identidad de género, religión, opinión política, condiciones de salud,
+situaciones de discapacidad o cualquier otra circunstancia que emane de la
+diversidad propia de los seres humanos.*
+
+**CAPACIDAD-**Concepto
+
+**CAPACIDAD JURIDICA-**Significado en sentido general/**CAPACIDAD DE GOCE O JURIDICA-**Definición
+
+**DERECHO AL RECONOCIMIENTO DE LA
+PERSONALIDAD JURIDICA-**Capacidad como atributo
+
+**INCAPACIDAD JURÍDICA-**Concepto
+
+**DISCAPACIDAD-**Concepto
+
+**DISCAPACIDAD-**Clasificación
+
+**MODELO SOCIAL DE DISCAPACIDAD-**Estado debe asegurar el apoyo para el pleno ejercicio de los derechos
+de las personas con discapacidad
+
+**MODELO SOCIAL DE DISCAPACIDAD-**Postulados
+
+**TRASTORNO MENTAL Y ENFERMEDAD
+MENTAL-**Relación
+
+*(…) en el entorno médico y clínico
+las expresiones “trastorno mental” y “enfermedad mental” son equiparables y se
+usan como sinónimos para hacer referencia a un síndrome caracterizado por una
+alteración clínicamente significativa del estado cognitivo, la regulación
+emocional o del comportamiento del individuo que refleja una disfunción de los
+procesos biológicos, psicológicos o del desarrollo que subyacen en su función
+mental.*
+
+**TRASTORNO MENTAL, ENFERMEDAD
+MENTAL Y DISCAPACIDAD MENTAL-**Diferencias
+
+**PRUEBA PERICIAL-**Concepto/**PRUEBA PERICIAL-**Objeto
+
+**PRUEBA PERICIAL-**Procedencia
+
+**PRUEBA PERICIAL-**Fiabilidad/**PRUEBA PERICIAL-**Pertinencia
+
+*(…) (i) el medio de prueba
+pericial puede ser fiable, puesto que emana de una persona experta e idónea que
+comunica al juez un conocimiento científico, técnico o artístico especializado
+de calidad y suficiente; pero puede carecer de pertinencia, ser irrelevante
+para la resolución del proceso, al no tener nada que ver con los hechos del
+caso y/o con las hipótesis fácticas que se pretende acreditar o desacreditar;
+(ii) por otro lado, el medio de prueba pericial puede ser pertinente puesto que
+sirve para acreditar o rebatir los hechos con relevancia jurídica en un proceso
+penal, pero carecer de fiabilidad puesto que la información científica, técnica
+o artística especializada no está debidamente soportada, se justifica en
+métodos o procedimientos cuestionables, no es congruente, entre otros factores.*
+
+**PERITO-**Calidades
+
+**PERITO-**Requisitos
+para ser nombrado en el derecho comparado
+
+*(...) a diferencia del ordenamiento jurídico
+colombiano, en los ordenamientos jurídicos paraguayo y panameño no basta con
+que la persona que pretende ser un perito presente una enfermedad y/o trastorno
+mental para que sea excluido de la posibilidad de ejercer este oficio; la ley
+establece un requisito o una condición adicional para ello: que tal situación
+conlleve a que “no comprendan el significado del acto”. E**n
+los dos países referenciados -Paraguay y Panamá- se establece una restricción
+para el ejercicio de la función pericial relacionada con la salud mental. No
+obstante, en esos escenarios se exige, además, que la persona no comprenda el
+significado del acto, lo que no sucede en la legislación colombiana.* *En conclusión, el panorama internacional refleja una perspectiva
+garantista de los derechos de las personas con afecciones a la salud mental que
+pretendan ser nombrados como peritos o peritas en el marco de un proceso penal.*
+
+**JUICIO INTEGRADO DE IGUALDAD-**Contenido
+
+**JUICIO ESTRICTO DE IGUALDAD-**Aplicación
+
+---
+
+**REPÚBLICA DE COLOMBIA**
+
+**CORTE CONSTITUCIONAL**
+
+**Sentencia C-183 de 2025**
+
+Expediente:D-15877
+
+Acción pública de inconstitucionalidad contra la expresión *“y
+los enfermos mentales”* contenida en el numeral primero
+parcial del artículo 409 de la Ley 906 de 2004, “*por la cual se expide el
+Código de Procedimiento Penal”.*
+
+**Actores:** Carlos Fernando Gómez Riaño, Paula
+Juliana Kopp Bustos, Julia León Torres, María Angélica Otero González y Paula
+Andrea Umaña Cuellar.
+
+**Magistrado sustanciador:**
+
+Vladimir Fernández Andrade
+
+Bogotá,
+D. C., catorce (14) de mayo de dos mil veinticinco (2025).
+
+La
+Sala Plena de la Corte Constitucional, en ejercicio de sus atribuciones
+constitucionales, y de conformidad con los requisitos y trámites previstos por
+el Decreto 2067 de 1991, profiere la siguiente sentencia:
+
+# I. SINTESIS DE LA DECISIÓN
+
+La Sala Plena de la Corte
+Constitucional estudió una demanda contra la expresión “y los enfermos
+mentales” contenida en el numeral primero parcial del artículo 409 de la Ley
+906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+En criterio de las y los demandantes,
+la disposición normativa demandada vulnera el principio de igualdad contemplado
+en el artículo 13 de la Constitución Política puesto que, en su criterio: (i)
+cuando la norma demandada enuncia el término “enfermos mentales”, se hace
+alusión directa a “las personas con discapacidad mental” y (II) aun cuando las
+personas con discapacidad mental y las personas que no tienen discapacidad
+mental, se encuentran en una situación de igualdad fáctica puesto que ambas
+gozan de capacidad jurídica para ejercer la actividad de peritos en virtud de
+lo dispuesto en Ley 1996 de 2019 y la adopción de un modelo social en Colombia
+como el paradigma base de la comprensión de la discapacidad, las primeras no
+pueden en ningún caso ser nombradas peritos mientras que las segundas si lo
+pueden ser siempre y cuando cumplan con los requisitos establecidos en el
+artículo 408 del Código de Procedimiento Penal.
+
+El problema jurídico a resolver por
+parte de la Corte consistió en determinar si la expresión “enfermos mentales”,
+contenida en el numeral primero parcial del artículo 409 de la Ley 906 de 2004,
+vulneraba el principio de igualdad contenido en el artículo 13 de la
+Constitución, por disponer un tratamiento presuntamente discriminatorio entre
+las personas que presentan una “enfermedad mental” y quienes no presentan la
+misma, cuando a pesar de cumplir con los requisitos establecidos en el artículo
+408 de la Ley 906 de 2004, los segundos pueden ser nombrados como peritos o
+peritas, mientras los primeros no pueden serlo en ningún caso, o si, por el
+contrario, dicho tratamiento desigual resulta constitucionalmente justificado.
+
+Para abordar el problema jurídico
+planteado, la Corte primero se refirió (A) a la dignidad humana como pilar de
+la Constitución Política de 1991, seguido del análisis de (B) la igualdad y la
+no discriminación en el ordenamiento jurídico colombiano. Posteriormente, (C)
+realizó un análisis semántico y conceptual de las siguientes categorías
+jurídicas: “capacidad”, “incapacidad”, “discapacidad”, “discapacidad mental”,
+“enfermedad mental” y “trastorno mental” en el ordenamiento jurídico
+colombiano. A continuación, (D) se pronunció sobre la prueba pericial y la
+actividad del perito en el proceso penal.
+
+Para resolver el problema jurídico la
+Corte utilizó la metodología del juicio integrado de igualdad de intensidad
+estricta, a partir de la cual concluyó lo siguiente:
+
+i.
+De acuerdo con una interpretación sistemática, finalistica,
+integral y holística de los artículos 8, 10, 372, 405, 408, 409, 410, 411, 412,
+413, 414, 415, 416, 417, 418, 419, 420, 421, 422 y 423 del Código de
+Procedimiento Penal, la Corte determinó que la finalidad de la prohibición
+establecida en el numeral primero parcial del artículo 409 del Código de
+Procedimiento Penal es garantizar la fiabilidad de la prueba pericial tanto
+desde un punto de vista subjetivo, esto es, la idoneidad del perito o perita,
+como desde un punto de vista objetivo, es decir, la calidad y suficiencia de la
+información científica, técnica o artística especializada.
+
+ii.
+La disposición normativa demandada no se constituye
+como una medida *idónea* para cumplir la finalidad que persigue puesto que:
+(a) supone, de manera errónea, que las personas que presentan una afección de
+salud consistente en una enfermedad y/o trastorno mental no cuentan con el peso
+académico, científico necesario para ser peritos o peritas, ni poseen la
+capacidad intelectual, cognoscitiva y emocional suficiente para transmitir el
+conocimiento y la información científica, técnica y/o artística requerida por
+el juez; y (b) se constituye una barrera normativa que impide el ejercicio de
+los derechos a la dignidad humana, a la igualdad y a la personalidad jurídica
+de quienes presentan una afección de salud mental. En este sentido la disposición
+normativa acusada, no solo no contribuye efectivamente a garantizar la
+fiabilidad de la prueba pericial sino que inclusive puede perjudicar la
+realización de esta finalidad toda vez que puede llegar a impedir que el juez
+conozca información científica, técnica y/o artística de calidad que le permita
+llegar a un conocimiento, más allá de duda razonable, de los hechos y
+circunstancias materia del juicio, y de la responsabilidad penal del acusado a
+partir de la cual pueda dar resolución al proceso.
+
+iii.
+La disposición normativa demandada no se constituye
+como una medida *necesaria* para garantizar la fiabilidad de la prueba
+pericial ni desde un punto de vista subjetivo, ni desde un punto de vista
+objetivo, puesto que el Código de Procedimiento Penal (Ley 906 de 2004)
+establece un conjunto de reglas específicas dirigidas a garantizar tanto la
+idoneidad del perito como la calidad y suficiencia de la información
+científica, técnica y/o artística especializada que el perito comunica al juez.
+Particularmente, los escenarios adecuados para que el juez determine
+racionalmente si dicha información es o no fiable son: la declaración del
+perito en audiencia, el interrogatorio y el contrainterrogatorio del perito.
+Adicionalmente, la Corte resaltó que el Estado tiene la obligación de realizar
+ajustes razonables para garantizar la presentación del informe base de opinión
+pericial y la participación del perito o perita en audiencia.
+
+Finalmente, la Corte destacó que la
+norma demandada no solo brinda un tratamiento diferenciado injustificado a las
+personas que presentan una afección de salud consistente en una enfermedad y/o
+trastorno mental, sino que se constituye como una barrera normativa que
+promueve sesgos y estigmas infundados sobre la salud mental.
+
+En consecuencia, la Corte
+Constitucional declaró la *inexequibilidad* de la expresión “y los enfermos
+mentales”, contenida en el numeral primero parcial del artículo 409 de la Ley
+906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+# II. TABLA DE CONTENIDO
+
+**Sentencia
+C-183 de 2025**
+
+I. SINTESIS DE LA DECISIÓN
+
+II. TABLA DE CONTENIDO
+
+III. ANTECENDENTES
+
+1. Norma demandada
+
+2. La demanda
+
+2.1. Cargo único de inconstitucionalidad: violación al
+principio de igualdad contemplado en el artículo 13 de la Constitución Política
+
+3. Auto admisorio, pruebas requeridas e insistencia
+probatoria
+
+4. Intervenciones
+
+5. Concepto de la Procuradora General de la Nación
+
+IV. CONSIDERACIONES.
+
+1. Competencia
+
+2. Problema jurídico
+
+3. Metodología y parámetros para dar solución al problema
+jurídico
+
+3.1. La metodología del juicio integrado de igualdad
+
+3.2. Parámetros para dar solución al problema jurídico.
+
+4. Aplicación del juicio integrado de igualdad
+
+4.1. Determinación de los términos de comparación
+
+4.2. Aplicación del juicio de igualdad de intensidad estricta
+
+4.3. Conclusión
+
+V. DECISIÓN
+
+# III. ANTECENDENTES
+
+## 1. Norma demandada
+
+1.
+Las ciudadanas Paula Juliana Kopp
+Bustos, Julia León Torres, María Angélica Otero González y Paula Andrea Umaña
+Cuellar, así como el ciudadano Carlos Fernando Gómez Riaño, quienes pertenecen
+a la Clínica Jurídica de la Universidad Autónoma de Bucaramanga (UNAB), en
+ejercicio de la acción pública de inconstitucionalidad prevista en los
+artículos 40.6, 241.4 y 242 de la Constitución Política, demandan la
+declaratoria de inconstitucionalidad de la expresión *“y los enfermos
+mentales”* contenida en el numeral primero del artículo 409 de la Ley 906 de
+2004, “por la cual se expide el Código de Procedimiento Penal”. El texto
+normativo acusado se subraya a continuación:
+
+*“LEY 906 DE 2004*
+
+*Diario Oficial No. 45.658 del
+1 de septiembre de 2004*
+
+*Por la cual se expide el
+Código de Procedimiento Penal.*
+
+*PARTE III*
+
+*PRUEBA PERICIAL*
+
+*ARTÍCULO 409. QUIÉNES NO PUEDEN SER
+NOMBRADOS**.** No pueden ser nombrados, en ningún caso:*
+
+1. *Los menores de dieciocho (18) años, los interdictos
+**y los enfermos mentales.***
+2. *Quienes hayan sido suspendidos en el ejercicio de
+la respectiva ciencia, técnica o arte, mientras dure la suspensión.*
+3. *Los que hayan sido condenados por algún delito, a
+menos que se encuentren rehabilitados”.* (Énfasis añadido)
+
+## 2. La demanda
+
+2.
+Los y las demandantes solicitan a este
+Tribunal que declare la inexequibilidad de la expresión *“y los enfermos
+mentales”,* contenida en el numeral 1 del artículo 409 de la Ley 906 de 2004,
+*“*por la cual se expide el Código de Procedimiento Penal”, al considerar
+que desconoce lo preceptuado en el artículo 13 de la Constitución Política de
+1991.
+
+### 2.1. Cargo único de inconstitucionalidad: violación al principio de igualdad contemplado en el artículo 13 de la Constitución Política
+
+3.
+En relación con el cargo único de
+inconstitucionalidad por la presunta vulneración del
+principio de igualdad contemplado en el artículo 13 de la Constitución Política
+por parte de la disposición normativa acusada, los y las accionantes utilizaron
+la siguiente metodología para desarrollar su argumentación: en primer
+lugar, (i) identificaron y definieron los grupos susceptibles de ser
+contrastados en virtud de la censura parcial del artículo 409 de la Ley 906 de
+2004, al ser una exigencia de la jurisprudencia para los cargos de igualdad;
+(ii) determinaron si ambos grupos se encontraban en un mismo plano fáctico respecto
+del principio de igualdad (criterio de comparación) y, por último, (iii) desarrollaron
+los argumentos de naturaleza constitucional que motivan, a su juicio, la falta
+de idoneidad de la norma jurídica demandada.
+
+4.
+Así las cosas, los y las accionantes llegaron
+a las siguientes conclusiones[1]:
+
+(i)
+Dado que, “el lenguaje es un fenómeno
+social que es arquitecto de realidades y, en razón a ello, resulta imperante
+utilizar un lenguaje con una carga axiológica positiva, acorde con el modelo
+social de discapacidad y el esquema
+internacional de la protección de los derechos humanos de este grupo de
+personas, cuando el artículo 409 de la Ley 906 de 2004 enuncia
+el término *enfermos mentales*, se hace alusión directa a *las personas
+con discapacidad mental*”.
+
+(ii)
+Los artículos 408 y 409 de la Ley 906
+de 2004 deben ser interpretados de manera sistemática, de tal forma que la -no-
+condición de discapacidad mental, al igual que los demás requisitos del
+artículo 409, son requisitos habilitantes, pero no suficientes, pues estos
+deben estar armonizados entre sí y, en todo caso, se requiere acreditar la
+experticia en una materia[2]. Es por eso por lo que, con
+independencia de la condición de discapacidad mental, quienes cumplan con los
+demás requisitos establecidos en los artículos 408 y 409 de Ley 906 de 2004,
+deben tener la oportunidad de ejercer las labores de perito o perita.
+
+(iii)
+Los grupos de comparación establecidos,
+esto es, las personas con discapacidad mental y las
+personas que no tienen discapacidad mental, se encuentran en una situación de
+igualdad fáctica puesto que ambos gozan de capacidad jurídica para ejercer la actividad de peritos en virtud de lo
+dispuesto en Ley 1996 de 2019 y la adopción de un modelo social en Colombia
+como el paradigma base de la comprensión de la discapacidad.
+
+(iv)
+“El *tertium comparationes*
+utilizado por el artículo 409, numeral 1, de la Ley 906 de 2004 para excluir *a
+priori* a las personas con discapacidad mental del ejercicio del peritaje,
+es la capacidad jurídica de las personas. No obstante, ese criterio de
+comparación carece de validez pues, ambos grupos sujetos de comparación se
+encuentran en un mismo plano de igualdad fáctica con respecto al ejercicio de
+la capacidad jurídica”.
+
+(v)
+La expresión “enfermos mentales”
+contenida en el numeral 1 del artículo 409 de la Ley 906 de 2004 representa una
+discriminación en contra de las personas con discapacidad mental, puesto que
+establece un criterio sospechoso de discriminación inadmisible que vulnera el
+principio de igualdad. Así mismo, desconoce deberes negativos respecto al trato
+de las personas con discapacidad al establecer una exclusión *a priori*
+para realizar un acto jurídico, lo cual a su vez refuerza los prejuicios en
+contra de las personas con discapacidad mental.
+
+(vi)
+En definitiva, “Las personas con
+discapacidad mental, mayores de 18 años, que no tengan una sanción penal o
+disciplinaria en curso, que demuestren idoneidad en la ciencia, técnica o arte
+de la cual se alude la pericia, se encuentran en igualdad de condiciones que
+una persona que, igualmente, sea mayores de 18 años, que no tengan una sanción
+penal o disciplinaria en curso y que demuestren idoneidad en la ciencia, técnica
+o arte de la cual se alude la pericia. Esto por cuanto que, lo único que
+diferencia a un grupo de comparación del otro es la condición de discapacidad
+mental, y esa condición no es una limitante real para que estas personas puedan
+expresar ante un juez penal su experticia en algún tema que sea perentorio en
+el juicio oral.” (Sic)
+
+## 3. Auto admisorio, pruebas requeridas e insistencia probatoria
+
+5.
+Mediante auto del 24 de junio de 2024,
+el magistrado sustanciador decidió admitir la demanda presentada en contra de
+la expresión “*y los enfermos mentales*”, contenida en el numeral primero
+parcial del artículo 409 de la Ley 906 de 2004, y ordenó practicar pruebas. Así
+mismo, ofició al Instituto Colombiano de Antropología e Historia (ICANH) y a la
+Facultad de Ciencias Humanas de la Universidad Nacional –Departamentos de
+Psicología y Sociología- para que, en el ámbito de sus atribuciones,
+competencias y conocimientos técnicos y especializados rindieran informe dando
+respuesta a los interrogantes planteados en la citada providencia.
+
+6.
+El 12 de julio de 2024, la Secretaría General de la Corte Constitucional
+informó que “*vencido el término ordenado en el auto del veinticuatro (24) de
+junio de 2024, no se recibió documento alguno”.* En esta misma fecha, el
+Instituto Colombiano de Antropología e Historia (ICANH) remitió un oficio de
+respuesta al citado auto en el cual adujo que no contaba con la competencia ni
+con el conocimiento para responder a los interrogantes formulados.
+
+7.
+Mediante auto de 4 de septiembre de 2024, el
+magistrado sustanciador insistió a la Facultad de Ciencias Humanas de la
+Universidad Nacional –Departamentos de Psicología y Sociología- en las pruebas
+practicadas y ofició a las entidades y autoridades que a continuación se
+enuncian, para que en el ámbito de sus atribuciones, competencias y
+conocimientos técnicos y especializados rindieran informe dando respuesta a los
+interrogantes planteados en dicha providencia: Colegio Colombiano de
+Psicólogos, Asociación Colombiana de Psiquiatría, Facultades de Psicología y Medicina
+de la Universidad Pontificia Javeriana de Bogotá, de la Universidad del Rosario
+y de la Universidad de los Andes. Por otra parte, se requirió al Instituto
+Colombiano de Derecho Procesal, a la Facultad de Derecho de la Universidad de
+Antioquia y a la Facultad de Derecho de la Universidad Libre.
+
+8.
+El 23 de septiembre de 2024, la Secretaría General de
+la Corte Constitucional informó que, vencido el término ordenado en el anterior
+auto se recibieron dos respuestas a lo solicitado por parte de la Escuela de
+Medicina y Ciencias de la Salud de la Universidad del Rosario[3] y del Colegio
+Colombiano de Psicólogos (COLPSIC)[4],
+las cuales se resumen a continuación:
+
+| | |
+| --- | --- |
+| **Institución** | **Concepto** |
+| Colegio Colombiano de Psicólogos (COLPSIC) | El Colegio Colombiano de Psicólogos (COLPSIC) concluyó que: “En términos generales, una persona con un diagnóstico de “enfermedad mental” (trastorno del comportamiento) que haya sido bien diagnosticada y que tenga adherencia al tratamiento psiquiátrico y psicológico, se puede desempeñar en cargos tanto públicos como privados. Se insiste, todo depende de la persona con el mentado diagnóstico, en la medida que cada una de ellas es una individualidad en sí misma.” |
+| Escuela de Medicina y Ciencias de la Salud de la Universidad del Rosario | La Escuela de Medicina y Ciencias de la Salud de la Universidad del Rosario señaló que: “La competencia cognitiva de una persona con enfermedad mental o trastorno mental, no necesariamente está comprometida para impedir la producción de ciertos conocimientos, desarrollar ciertas actividades que requieran de una cognición preservada (memoria, lenguaje, orientación, juicio, gestión de relaciones interpersonales, ejecución de acciones y/o resolución de problemas).” |
+
+## 4. Intervenciones
+
+9.
+Durante el trámite del presente asunto, la Corte recibió ocho escritos
+de intervención: cuatro intervinientes consideraron que la disposición debe ser
+declarada exequible de manera condicionada, uno solicitó a la Corte declarar la
+inexequibilidad de la disposición normativa acusada y tres se limitaron a
+contestar las preguntas enunciativas formuladas en el Oficio No. 0308 de 21 de
+octubre 2024[5]
+enviado por la Secretaría General de la Corte Constitucional, sin realizar
+ninguna solicitud expresa respecto de la constitucionalidad, como se resume a
+continuación:
+
+| | | |
+| --- | --- | --- |
+| **Interviniente** | **Solicitud** | **Concepto** |
+| Ministerio de Igualdad y la Equidad[6] | “Declarar la exequibilidad condicionadadel aparte demandado, en el entendido que se deben adoptar medidas razonables para que las personas con discapacidad mental/psicosocial dentro de su autonomía e independencia desempeñan con idoneidad el rol de peritos”. | Para al Ministerio de Igualdad y la Equidad: “Todas las personas con discapacidad tienen capacidad jurídica, entendido este como un derecho inherente a todas las personas inherente a su dignidad y condición humana en igualdad de condiciones sin discriminación alguna (…) Negar la capacidad jurídica teniendo en cuenta la discapacidad o la capacidad de tomar decisiones resulta discriminatorio. El artículo 12 de la Convención, garantiza la igualdad ante la ley y el derecho recibir apoyos para facilitar el ejercicio de los derechos. Por ende, los Estados partes deben adoptar sistemas de apoyo encaminados a que las personas con discapacidad ejercen su capacidad jurídica y toma de decisiones de manera autónoma e independiente. En este sentido, la Convención reconoce a las personas con discapacidad mental, lo que implica, implícitamente para Colombia como Estado parte, debe adoptar las medidas necesarias para que las personas con discapacidad mental/psicosocial gocen y ejerzan todos los derechos en condiciones de igualdad con las demás personas, lo que incluye el ejercicio de su profesión, trabajo, y eventualmente, previa acreditación, ser peritos en el marco de un proceso penal”. |
+| Ministerio de Justicia y del Derecho[7] | Declarar la “exequibilidad condicionada del aparte demandado, en el entendido que no podrá actuar como perito la persona con diagnóstico de enfermedad o trastorno mental que afecte su idoneidad para desempeñarse como tal”. | Para el Ministerio de Justicia y del Derecho: “En los casos en que el auxiliar de la justicia presenta una enfermedad o trastorno mental de tal incidencia que impida o perturbe su capacidad cognitiva e idoneidad exigidas para rendir un dictamen y ser sometido a contradicción en audiencia y a aquel se le permita fungir como perito, lejos de brindar un apoyo necesario y, a veces, vital en toma de la decisión por parte del juez, podría menoscabar los derechos de defensa, contradicción y debido proceso de los sujetos procesales. Esta situación amerita condicionar la exequibilidad del aparte demandado, con el fin de morigerar o moderar los efectos de la prohibición estudiada en este proceso”. |
+| Instituto Colombiano de Derecho Procesal[8] | Declarar la exequibilidad condicionada del artículo el artículo 409, numeral 1 (parcial) de la Ley 906 de 2004. | Para la Instituto Colombiano de Derecho Procesal: “En conclusión, impedir que una persona con una enfermedad mental actúe como perito vulnera su derecho a la igualdad, especialmente si esta restricción se basa únicamente en su condición de salud mental y no en una evaluación objetiva de su capacidad para desempeñar el rol de perito. La legislación colombiana y los tratados internacionales ratificados por el país establecen claramente que las personas con discapacidad deben ser tratadas con igualdad y no ser discriminadas. Por lo tanto, cualquier restricción debe ser cuidadosamente evaluada para asegurar que no se base en prejuicios o estigmas, sino en criterios objetivos relacionados con la capacidad para realizar las funciones requeridas. Esto, bajo el entendido de que la restricción de nombramiento como perito a personas con enfermedades mentales no debe ser absoluta, sino sujeta a una valoración específica de la capacidad y competencia para desempeñar el rol pericial. Esta condición garantizaría que la exclusión de estas personas no se base en estigmas o prejuicios, sino en una evaluación objetiva de su habilidad para contribuir al proceso judicial, en respeto al derecho a la igualdad y a la no discriminación”. |
+| Universidad Externado de Colombia[9] | Declarar la exequibilidad condicionadadel artículo 409 numeral 1 (parcial) de la Ley 906 de 2004, “*Por medio de la cual se expide el Código de Procedimiento Penal*”, “en el entendido que las personas con discapacidad mental no podrán ser designadas como peritos dentro de un proceso penal únicamente cuando esta discapacidad pueda afectar directa y razonadamente su idoneidad como perito, esto es, su capacidad para emitir un dictamen pericial o pueda afectar la posibilidad de rendir su dictamen y el correspondiente interrogatorio y contrainterrogatorio en el juicio, examinada la situación del caso en concreto”. | Para el Departamento de Derecho Penal de la Universidad Externado de Colombia: "La respuesta al problema jurídico planteado es la constitucionalidad condicionada de la norma demandada, ya que si bien el artículo 409 numeral 1 de la Ley 906 de 2004, plantea una limitación desproporcionada al principio de igualdad al consagrar una presunción de derecho según la cual las personas con una discapacidad mental en ningún caso podrán ser nombradas peritos dentro del proceso penal, la modulación de la norma a través de la declaratoria de exequibilidad condicionada permite realizar una interpretación que no viole el principio de igualdad (interpretación conforme), lo que a su vez conlleva a mantener la norma dentro del ordenamiento jurídico (principio de conservación del derecho), para aquellas hipótesis en las cuales la discapacidad mental pueda afectar directa y razonablemente el desempeño de dicho cargo, esto es, que la discapacidad cognitiva impida o dificulte gravemente que aplique sus conocimientos especializados al momento de realizar la experticia o que impida o dificulte gravemente el que emita un dictamen o lo defienda en juicio”. |
+| Fundación Jurídica Proyecto Inocencia.[10] | Declarar la inexequibilidad de la norma acusada. | Para la Fundación Jurídica Proyecto Inocencia tres (3) son los aspectos que soportan la inexistencia de una justificación razonable para establecer el límite que hoy regula a la legislación procesal penal en materia de prueba pericial: (i) “No toda enfermedad tiene el potencial de ser discapacitante, que le impida a un profesional que reúna los requisitos señalados en la legislación procesal penal, cumplir con el peritaje.” “(…) Si bien pueden existir trastornos que tengan potencial discapacitante, la incapacidad legal requiere declaración de acuerdo a la legislación civil, toda vez que la capacidad (para declarar en un proceso), debe necesariamente ser examinada a la luz de la legislación civil. Ejemplo de ello es que un trastorno depresivo no necesariamente conlleva a una discapacidad y menos, la imposibilidad de cumplir una función como auxiliar de justicia, en este caso, de satisfacer los supuestos de la prueba pericial*”.* (ii) “La legislación debe establecer bajo que criterios, se establecen tratos discriminatorios para ser peritos entre lo dispuesto en el Código General del Proceso de 2012 y el Código de Procedimiento Penal del 2006 y lo reglado en la ley 1996 de 2019 que reflejaría la prosperidad del cargo de transgresión al principio de igualdad consignado en el artículo 13 constitucional*”.* (Sic) (iii) Dicha exclusión conlleva a un trato discriminatorio y además a que se transgreda la dinámica del principio acusatorio y de contradicción. “Debe recordarse que las partes, pueden cuestionar la idoneidad del perito a través del contra-interrogatorio” y que “La norma acusada, permite a las partes, atacar un aspecto subjetivo de la persona que rinde el dictamen pericial, que no guarda relación con el dictamen en sí mismo, sino en una condición médica, que como se insiste y reitera, no sería *per se* inhabilitante para ejercer la función como auxiliar de justicia”. |
+| Ministerio de Salud y Protección Social[11] | No realiza solicitud expresa. | El Ministerio de Salud y Protección Social presentó un concepto técnico en el que da respuesta a las preguntas enunciativas formuladas mediante el Oficio No. 0308 de 21 de octubre de 2024 por parte de la Secretaría General de la Corte Constitucional, las cuales pueden ser consultadas en el expediente del proceso. No realizó ninguna solicitud expresa respecto a la constitucionalidad. |
+| Universidad del Norte[12] | No realiza solicitud expresa. | La Universidad del Norte presentó un concepto jurídico en el que da respuesta a las preguntas enunciativas formuladas mediante el Oficio No. 0308 de 21 de octubre de 2024 por parte de la Secretaría General de la Corte Constitucional, las cuales pueden ser consultadas en el expediente del proceso. No realizó ninguna solicitud expresa respecto de la constitucionalidad. |
+| Colegio Colombiano de Psicólogos (COLPSIC)[13] | No realiza solicitud expresa. | El Colegio Colombiano de Psicólogos (COLPSIC) presentó un concepto en el que da respuesta a las preguntas enunciativas formuladas mediante el Oficio No. 0308 de 21 de octubre de 2024 por parte de la Secretaría General de la Corte Constitucional, las cuales pueden ser consultadas en el expediente del proceso. No realizó ninguna solicitud expresa respecto a la constitucionalidad. |
+
+## 5. Concepto de la Procuradora General de la Nación
+
+10.
+La procuradora general de la Nación emitió oportunamente el concepto de
+su competencia[14]
+y solicitó declarar la inexequibilidad de la expresión “*y los enfermos
+mentales”* contenida en el numeral primero parcial del artículo 409 de la
+Ley 906 de 2004, “Por la cual se expide el Código de Procedimiento Penal”.
+
+11.
+Para el Ministerio Público, “en la jurisprudencia constitucional se ha
+indicado que en la actualidad no existe una razón suficiente para prohibir *ex
+ante* y genéricamente que las personas en situación de discapacidad ejerzan
+un empleo o una función pública, dado que, ante los avances tecnológicos o
+científicos y la existencia de medidas de soporte humano, debe analizarse en
+cada caso concreto si existen apoyos o ajustes razonables que les permitan a
+los individuos desempeñarse en el cargo respectivo sin afectar la prestación
+del servicio”, de tal forma que “la demanda de la referencia está llamada a
+prosperar, en tanto no existe una razón suficiente para excluir de manera
+general y abstracta de la función pericial a las personas que se encuentren en
+situación de discapacidad cognitiva, sin verificar previamente y en cada caso
+concreto la existencia de apoyos o ajustes razonables que eventualmente les
+permita cumplir sus obligaciones y deberes de manera adecuada”.[15]
+
+12.
+En criterio de la procuradora general de la Nación, existen dos
+argumentos que soportan dicha conclusión:
+
+“(i) En la actualidad las personas en situación de discapacidad
+cognitiva pueden utilizar apoyos terapéuticos, pedagógicos o personales, con el
+propósito de desarrollar sus actividades laborales de manera ordinaria (Ley
+1996 de 2019). Además, no puede ignorarse que no todas las tipologías de
+discapacidad cognitiva impiden que la persona concurra a una diligencia
+judicial y manifieste su opinión experta sobre alguna materia, incluso sin
+necesidad de algún soporte; y
+
+(ii) La idoneidad de los peritos puede ser cuestionada por las partes
+y, en todo caso, se encuentra sujeta a la valoración del juez penal.
+Ciertamente, “en el juicio oral y público, se tendrá en cuenta la idoneidad
+técnico-científica y moral del perito, la claridad y exactitud de sus
+respuestas, su comportamiento al responder, el grado de aceptación de los
+principios científicos, técnicos o artísticos en que se apoya el perito, los
+instrumentos utilizados y la consistencia del conjunto de respuestas”.[16]
+
+# IV. CONSIDERACIONES.
+
+## 1. Competencia
+
+13.
+De conformidad con lo dispuesto en el artículo 241-4 de la Constitución
+Política, la Corte Constitucional es competente para conocer y decidir la
+demanda de inconstitucionalidad de la referencia, por cuanto se dirige contra
+el artículo 409 numeral primero parcial, que es ley de la República, por cargos
+relacionados con su contenido material.
+
+## 2. Problema jurídico
+
+14.
+En atención a los antecedentes expuestos, le corresponde a esta Corte determinar si la expresión “enfermos mentales”*,* contenida
+en el numeral primero parcial del artículo 409 de la Ley 906 de 2004, vulnera
+el principio de igualdad contenido en el artículo 13 de la Constitución, por
+disponer un tratamiento presuntamente discriminatorio entre las personas que presentan
+una “enfermedad mental” y quienes no presentan la misma, cuando a pesar de
+cumplir con los requisitos establecidos en el artículo 408 de la Ley 906 de
+2004, los segundos pueden ser designados como peritos o peritas, mientras los
+primeros no pueden serlo *en ningún caso*, o si, por el contrario,
+dicho tratamiento desigual resulta constitucionalmente justificado.
+
+## 3. Metodología y parámetros para dar solución al problema jurídico
+
+### 3.1. La metodología del juicio integrado de igualdad
+
+15.
+Tal y como se dispuso en la Sentencia C-301 de 2023: “Esta corporación
+ha reconocido que el llamado “juicio integrado de igualdad” es una metodología
+de gran utilidad para resolver cargos en los que se cuestionen normas por su
+presunta incompatibilidad con el principio de igualdad. Este marco de análisis
+constitucional requiere identificar dos presupuestos básicos: (i) los términos
+de comparación, es decir, las personas, elementos, hechos o situaciones que
+efectivamente son comparables; y (ii) el trato desigual sin justificación
+constitucional”.
+
+16.
+“Tras una integración de las corrientes hermenéuticas europea y estadounidenses,
+esta corporación formuló un juicio integrado de igualdad que consta de dos
+pasos: primero, se define la intensidad del juicio, que puede ser débil,
+intermedio o estricto, según la mayor o menor libertad de configuración que se
+reconoce al legislador en virtud de la materia específica de que se trate o del
+tipo de medida. Segundo, y de conformidad con las exigencias propias de cada
+nivel de exigencia, se analiza (a) la relevancia constitucional de la finalidad
+de la medida legislativa; (b) su idoneidad, es decir, si entre la disposición
+demandada y su finalidad es posible establecer una relación de medio a fin; (c)
+su necesidad, referida a si la medida legislativa restringe los derechos o
+intereses constitucionales con que entra en tensión, y si existen otras medidas
+para lograr la misma finalidad con menor costo para los derechos o intereses
+invocados; y (d) su proporcionalidad en sentido estricto, es decir, si los
+beneficios de lograr el objetivo legítimo que persigue la medida, supera las
+afectaciones que persiguen para los intereses constitucionales que se limita”.[17]
+
+### 3.2. Parámetros para dar solución al problema jurídico.
+
+17.
+Para abordar el problema
+jurídico planteado, la Corte primero se referirá (A) a la dignidad humana como
+pilar de la Constitución Política de 1991, seguido del análisis de (B) la
+igualdad y la no discriminación en el ordenamiento jurídico colombiano.
+
+18.
+Posteriormente, (C)
+realizará un análisis semántico y conceptual de las siguientes categorías
+jurídicas: “capacidad”, “incapacidad”, “discapacidad”, “discapacidad mental”,
+“enfermedad mental” y “trastorno mental” en el ordenamiento jurídico
+colombiano. Para ello se referirá a: (i) la
+capacidad jurídica en el ordenamiento jurídico colombiano; (ii) la capacidad jurídica de las personas
+naturales como componente del derecho fundamental a la personalidad jurídica;
+(iii) el concepto de incapacidad de las personas naturales en el Código Civil
+Colombiano y en la Ley 1996 de 2019; (iv) el concepto de discapacidad, los
+modelos de comprensión de las personas en situación de discapacidad y la
+protección constitucional de la discapacidad en el ordenamiento jurídico
+colombiano, (v) los tipos de discapacidad en la normativa colombiana; (vi) la relación
+entre los conceptos: salud mental, trastorno mental, enfermedad mental y
+discapacidad mental, (vii) las expresiones trastorno mental y enfermedad mental
+como conceptos equiparables y (viii) la diferencia entre las expresiones “trastorno
+mental y/o enfermedad mental” y “discapacidad mental”.
+
+19.
+Finalmente, esta
+Corporación (D) se pronunciará sobre la prueba pericial y la actividad
+del perito en el proceso penal. Para lo cual se referirá al (i) concepto,
+función y procedencia de la prueba pericial; (ii) la
+fiabilidad y la pertinencia de la prueba pericial; (iii) la doble naturaleza jurídica del numeral
+primero del artículo 409 del Código de Procedimiento Penal; y (iv) los requisitos para ser nombrado perito o perita en el derecho
+comparado.
+
+20.
+Con base en esta
+metodología y estos parámetros procederá a resolver el
+problema jurídico.
+
+#### A. La dignidad humana como pilar de la Constitución Política de 1991
+
+21.
+Como lo ha señalado esta
+corporación en las sentencias T-521 y T-529 de 2024, el concepto de dignidad
+humana es uno de los más importantes en los ordenamientos jurídicos
+contemporáneos y en los estados constitucionales modernos, constituyéndose como
+una de las piedras angulares de los sistemas normativos occidentales.
+
+22.
+De conformidad con lo establecido
+en el artículo 1 de la Constitución Política de 1991, Colombia es un Estado
+social de derecho, fundado en el respeto de la dignidad humana y la solidaridad
+de las personas, de tal forma que la dignidad humana se constituye como la
+"fuente" de la que todos derechos fundamentales – o al menos la
+mayoría – derivan su sustento. [18]
+
+23.
+Como concepto jurídico, la
+dignidad humana ha sido reconocida en diversos instrumentos normativos de
+derecho positivo, entre ellos, la Declaración Universal de los Derechos Humanos
+(preámbulo y artículos 1, 22 y 23), la Convención Americana sobre Derechos Humanos
+(artículos 5, 6 y 11), el Protocolo Adicional a la Convención Americana sobre
+Derechos Humanos en materia de Derechos Económicos, Sociales y Culturales
+–Protocolo de San Salvador– (preámbulo y artículo 13), el Pacto Internacional
+de Derechos Civiles y Políticos (preámbulo y artículo 10) la Convención sobre
+los Derechos del Niño (preámbulo y artículos 23, 28, 37, 39 y 40), la Convención
+sobre los Derechos de las Personas con Discapacidad (preámbulo y artículos 1,
+3, 8, 16, 24 y 25), la Convención sobre la Eliminación de Todas las Formas de
+Discriminación contra la Mujer –CEDAW– (preámbulo) y por supuesto, la
+Constitución Política colombiana (artículos 1, 42 y 70, entre otros).
+
+24.
+En Colombia, la dignidad humana
+ocupa un lugar central en el sistema jurídico, siendo uno de los pilares que sustenta los derechos y garantías
+constitucionales[19], tal como lo establece el artículo 1 de la
+Constitución, que reconoce que Colombia se funda en el respeto a la dignidad
+humana.
+
+25.
+Desde una perspectiva
+jurídico-normativa, la dignidad humana puede ser entendida en dos facetas: como
+principio y como derecho fundamental.
+
+26.
+La dignidad humana como
+principio parte de una premisa incuestionable e irrebatible: toda persona es
+única, irrepetible y posee un valor intrínseco que la convierte en un fin en sí misma[20], por lo cual, en ningún caso puede
+ser considerada o utilizada como un medio o instrumento para cumplir con los
+propósitos o finalidades de otras personas. Esta idea se fundamenta en la
+concepción kantiana del ser humano como fin en sí mismo y se ha consolidado
+como un pilar ético y jurídico en las sociedades democráticas.
+
+27.
+La persona humana, es el único ser
+sobre el planeta que tiene la cualidad de razón y conciencia sobre sí mismo y
+sobre su entorno, y, por tanto, la capacidad de regular conscientemente su
+conducta para vivir y convivir en sociedad.[21]
+
+28.
+Bajo este entendido, el principio de la
+dignidad humana presenta las siguientes características esenciales: (i) *Universalidad*.
+Todas las personas están dotadas de dignidad por el solo hecho de ser humanas,
+sin distinción alguna. (ii) *Inalienabilidad*. La dignidad no puede ser
+enajenada, transferida o renunciada; es inherente a la condición humana,
+independientemente de la percepción o consciencia que una persona tenga sobre
+su propia dignidad. (iii) *Inviolabilidad*. Ninguna persona o entidad
+puede atentar contra la dignidad de otra. (iv) *Innegociabilidad*. La
+dignidad no es una mercancía, ni está sujeta a transacción o negociación. (v) *Irrenunciabilidad*.
+No es posible prescindir de la dignidad propia, aun voluntariamente, pues
+resultaría en un imposible lógico y ético. (vi) *Absoluta en su esencia*.
+Al entrar en conflicto con otros principios debe prevalecer su garantía.[22]
+
+29.
+En este sentido, la dignidad humana no
+puede concebirse como un concepto etéreo, vacío de contenido o como una mera
+herramienta retórica. Por el contrario, como uno de los fundamentos axiológicos
+centrales que orienta la protección y garantía de todos los derechos del ser
+humano[23], la dignidad humana normativamente se
+materializa en tres facetas interrelacionadas y complementarias: la libertad individual
+o de autodeterminación, la igualdad y la solidaridad o empatía.
+
+30.
+La dignidad humana entendida como
+libertad de autodeterminación o autonomía, se refiere a la capacidad que tiene
+toda persona, como ser racional, para tomar sus decisiones de acuerdo con sus
+intereses y fines propios, sin injerencias injustificadas por parte de
+terceros. Este aspecto de la dignidad garantiza el respeto a la autonomía
+personal y protege la libertad individual en la elección del propio plan de
+vida. Sin embargo, esta autonomía se encuentra limitada por el reconocimiento
+de la dignidad de otros miembros de la comunidad. El ejercicio de las
+libertades individuales no puede menoscabar la dignidad del otro.
+
+31.
+Por otro lado, la dignidad comprendida
+desde la perspectiva de la igualdad implica que toda persona debe ser tratada
+conforme a su naturaleza y con respeto de sus condiciones y situaciones
+particulares, de tal forma que debe gozar de los mismos derechos y oportunidades
+que los demás, sin que en ningún caso pueda ser rechazada, maltratada,
+marginada, lesionada o discriminada. Los seres humanos somos diversos, todos
+somos diferentes, pero nadie es superior a nadie, por tanto, todos y todas
+tenemos el derecho ser tratados y formados en igualdad de condiciones. Esto supone la
+prohibición de discriminación y la obligación individual y social de promover
+la igualdad material.
+
+32.
+Finalmente, la dignidad, entendida en
+su faceta de solidaridad o empatía, implica que el ser humano, como ser
+consciente y racional, tiene la capacidad de reconocer la importancia del otro
+y comprender que, tal y como él es un fin en sí mismo, el otro también lo es,
+lo cual implica un deber de aceptación y respeto a la individualidad del otro.
+El respeto propio y el respeto a los demás son componentes inescindibles de la
+dignidad humana.
+
+33.
+Así mismo, comprender a la dignidad
+humana desde una dimensión de la solidaridad implica concebir al ser humano
+como un ser social que, consciente de las realidades del mundo moderno, está
+dotado de la capacidad de ayudar al otro, de cooperar en la realización del
+plan de vida de los demás, para así, convivir pacíficamente y reducir las
+brechas de desigualdad. En este sentido, como ser racional, el ser humano
+entiende que el hecho de ayudar a los menos favorecidos, a aquellos que se han
+encontrado en una situación manifiesta de desventaja frente a otros mejor
+situados en la sociedad, se constituye como un mandato que emana nuestra propia
+naturaleza. Bajo esta dimensión, la dignidad humana supone que todas las
+personas deben tener cubiertas sus necesidades básicas[24]
+y fomenta una
+convivencia basada en la valoración de la diversidad, reconociendo que cada
+persona, desde su propia singularidad, contribuye al bienestar colectivo.
+
+34.
+Como puede observarse, estas tres
+facetas que integran el principio de dignidad humana reflejan los valores
+fundamentales que guían el ordenamiento jurídico, por tanto, su protección y
+promoción es esencial para el desarrollo de sociedades justas y equitativas. Es
+a través del reconocimiento y respeto de la dignidad humana que se posibilita
+el desarrollo integral de cada individuo y se construye una convivencia basada
+en la justicia, la igualdad y la solidaridad.
+
+35.
+Ahora bien, como derecho fundamental,
+la dignidad humana es un derecho subjetivo, intrínseco e inescindible de la
+condición humana, reconocido en distintos instrumentos normativos tanto
+nacionales como internacionales. Este derecho confiere a todas y a cada persona
+la facultad o potestad de exigir al Estado[25], a la sociedad
+y a las instituciones el respeto por su plan de vida, el acceso a condiciones
+materiales mínimas de existencia y la protección de su integridad moral y
+física. En consecuencia, la dignidad humana, como derecho fundamental, es
+justiciable y exigible, y constituye la base que sustenta la protección de
+otros derechos esenciales. Defender la
+dignidad humana en una faceta de libertad solidaria implica defender el derecho
+a elegir un plan de vida de manera autónoma, en igualdad de oportunidades, con
+el respeto y apoyo del Estado y la sociedad. [26]
+
+36.
+En conclusión, la dignidad humana, como
+principio jurídico- normativo, se constituye como la base sobre la que se
+cimentan todos los derechos y se estructuran los deberes y responsabilidades
+que tienen los individuos hacia sí mismos y hacia los demás. De tal manera que
+se concibe un mandato que orienta la interpretación y aplicación del derecho en
+todos sus ámbitos. Por otra parte, como derecho fundamental, implica la
+facultad que tiene cada persona, por el solo hecho de pertenecer a la especie
+humana, de exigir al estado, a la sociedad y a las instituciones no ser
+tratados con desidia, como instrumentos o, mucho menos, como cosas, sino como
+fines de la propia existencia, como seres valiosos, únicos, que requieren de la
+garantía de unas condiciones mínimas de existencia, que no pueden limitarse
+única y exclusivamente a la subsistencia.
+
+37.
+El reconocimiento de la dignidad humana en las
+constituciones democráticas implica un imperativo ético y normativo para todos
+los individuos y las instituciones: despojar a una persona de su dignidad
+equivale a despojarla de su naturaleza humana, negándole su condición como ser
+humano.
+
+#### B. La igualdad y la no discriminación en el ordenamiento jurídico colombiano
+
+38.
+La igualdad se erige como un pilar esencial del
+Estado reconocido en la Constitución como principio rector y derecho
+fundamental[27].
+El artículo 13 superior establece que todas las personas nacen libres e iguales
+ante la ley y deben recibir el mismo trato y protección, sin discriminación por
+razones como “sexo, raza, origen nacional o familiar, lengua, religión, opinión
+política o filosófica” u otros aspectos como una condición de salud o una situación
+de discapacidad. Este derecho es inherente a la persona desde su nacimiento,
+permea todos los aspectos de la vida social y conlleva el deber del Estado de
+garantizar su protección y goce efectivo, así como de hacer distinciones cuando
+las circunstancias particulares de cada individuo lo requieran[28].
+
+39.
+Así mismo, la cláusula general de igualdad está
+consagrada en diversos instrumentos internacionales que forman parte del bloque
+de constitucionalidad, entre ellos: la Declaración Universal de los Derechos
+Humanos (artículos 1, 2 y 7), la Convención Americana sobre Derechos Humanos (artículos
+1 y 24), el Pacto Internacional de Derechos Civiles y Políticos (artículo 26) y
+el Pacto Internacional de Derechos Económicos, Sociales y Culturales (artículo 2).
+
+40.
+La igualdad[29] se desarrolla
+en tres dimensiones[30]:
+*(i) formal*, que exige la aplicación imparcial de la ley a todas las
+personas; *(ii) material**[31]***,
+que busca garantizar iguales oportunidades y condiciones de vida acordes con la
+dignidad humana, lo cual implica el deber de adopción de acciones afirmativas[32];
+y *(iii) la prohibición de discriminación*, que impide tratos
+diferenciados basados en criterios sospechosos como sexo, raza, origen étnico,
+identidad de género, religión, opinión política, condiciones de salud o
+situaciones de discapacidad. Estos criterios reflejan su valoración social y
+están ligados intrínsecamente a la identidad de las personas o a grupos
+históricamente marginados.
+
+41.
+La Corte[33]
+define la discriminación como un trato arbitrario sin justificación objetiva,
+razonable ni proporcional, que anula a una persona o grupo basándose en
+prejuicios o estereotipos socioculturales. Cualquier tratamiento diferencial
+basado en categorías como una situación de discapacidad o una condición de
+salud se presume discriminatorio, a menos que pueda justificarse objetivamente[34],
+dado su “reconocimiento como una parte esencial e indisoluble de la
+personalidad y ser desarrollo directo de los derechos al libre desarrollo de la
+personalidad, la intimidad y la dignidad humana”[35].
+
+42.
+Así mismo, esta Corte ha señalado
+que: “Por su naturaleza, la igualdad es un
+concepto relacional, que presupone el cotejo entre dos o más situaciones,
+personas o grupos poblacionales a partir de un elemento determinado”[36].
+De tal manera que “las situaciones de igualdad o desigualdad entre las personas
+o los supuestos no son nunca absolutas sino siempre parciales”.[37]
+
+43.
+“El legislador tiene la obligación de garantizar la igualdad, atendiendo
+razonablemente a las variaciones entre las situaciones comparadas. Lo anterior
+se traduce en una serie de mandatos específicos que debe observar en la labor
+legislativa para salvaguardar este mandato de igualdad, estos son: (i) un
+mandato de trato idéntico a destinatarios que se encuentren en circunstancias
+idénticas; (ii) un mandato de trato diferente a destinatarios cuyas situaciones
+no comparten ningún elemento en común; (iii) un mandato de trato similar a
+destinatarios cuyas situaciones presentan similitudes y diferencias, pero las
+similitudes sean más relevantes a pesar de las diferencias; y, por último, (iv)
+un mandato de trato diferenciado a destinatarios que se encuentren en una
+posición en parte similar y en parte diversa, pero en cuyo caso las diferencias
+son más relevantes que las similitudes. Sin embargo, no cualquier variación en
+el trato supone una vulneración al principio de igualdad, pues ello
+desconocería la diversidad de circunstancias y condiciones en las que se
+encuentran los grupos analizados” .[38]
+
+44.
+En síntesis, la igualdad es un principio jurídico independiente pero
+íntimamente relacionado con la dignidad humana, puesto que se desprende de
+ella, el cual se constituye como una de las piedras angulares de la
+Constitución Política de 1991. Como derecho fundamental, implica la facultad
+que tiente toda persona natural de exigirle al estado y a la sociedad: (i) por
+regla general, un trato idéntico respecto de todas los ciudadanos y ciudadanas;
+(ii) un trato diferenciado, cuando exista una situación que la ponga en una
+posición desfavorable o marginal, esto, con el fin de eliminar o disminuir las
+brechas entre los sujetos que integran las sociedad; (iii) a no ser
+discriminado por razones de sexo, raza, origen étnico, identidad de género,
+religión, opinión política, condiciones de salud, situaciones de discapacidad o
+cualquier otra circunstancia que emane de la diversidad propia de los seres
+humanos.
+
+####
+
+#### C. Análisis semántico y conceptual de las categorías jurídicas: “capacidad”, “incapacidad”, “discapacidad”, “discapacidad mental”, “enfermedad mental” y “trastorno mental” en el ordenamiento jurídico colombiano
+
+##### (i) La “capacidad jurídica” en el ordenamiento jurídico colombiano.
+
+45.
+Desde un punto de vista semántico y etimológico desde el lenguaje
+natural, según la Real Academia de la Lengua Española, el vocablo “*capacidad*”
+expresa la “*cualidad de capaz*”, siendo a su vez “*capaz*” quien es
+“*apto, con talento, habilidades o cualidades para algo*”. De modo que el
+concepto de “*capacidad*”, como cualidad o adjetivo, se utiliza para hacer
+referencia a una propiedad de un sujeto específico que tiene la aptitud para
+tener o hacer algo.
+
+46.
+En términos generales, la “*capacidad jurídica*” consiste en la
+cualidad o aptitud que tienen los sujetos de derecho para ser titulares y
+ejercer derechos, deberes y/u obligaciones, lo cual garantiza su participación
+“en la sociedad a través de la realización de actos jurídicos que generen
+efectos para sí o terceros involucrados”.[39]
+
+47.
+En términos generales, la capacidad jurídica es la “la aptitud legal
+para adquirir derechos y ejercerlos”[40].
+No obstante, en el lenguaje jurídico, encontramos diferentes definiciones o
+concepciones de la expresión “capacidad”, dentro de las cuales se destacan las
+siguientes:
+
+a. Capacidad
+de goce o de derecho: consiste en una cualidad, aptitud o característica de los
+sujetos de derechos que les permite referida a ser reconocidos como titulares
+de derechos, deberes y obligaciones*. “Es la aptitud general que tiene toda
+persona natural o jurídica para ser sujeto de derechos y obligaciones y es, sin
+duda alguna, el atributo esencial de la personalidad jurídica.”**[41]*** Para
+el profesor Fernando Hinestrosa, la capacidad de goce o de derecho es aquella
+que se tiene “por la sola circunstancias de ser persona o sujeto de derecho,
+con lo que se indica que tanto los individuos aisladamente considerados
+(personas físicas), desde su nacimiento hasta su muerte (artículos 90 y 94
+c.c.) como las agrupaciones de individuos y los patrimonios con reconocimiento
+al efecto (personas jurídicas o morales) desde su construcción hasta su
+extinción son personas y gozan de aptitud jurídica o “capacidad de derecho”, lo
+cual quiere decir sin más y nada más, que pueden ser titulares de relaciones jurídicas,
+tanto como sujetos activos como en calidad de sujetos pasivos”.[42]
+
+b. La
+capacidad legal o de ejercicio: de conformidad con lo establecido en el artículo
+1502 del Código Civil, “La capacidad legal de una persona consiste en poderse
+obligar por sí misma, sin el ministerio o la autorización de otra”. Para el
+profesor Fernando Hinestrosa, la capacidad de ejercicio se refiere a la aptitud
+para “realizar las operaciones tendientes al desarrollo de la personalidad y de
+sus atributos y para crear, mantener, modificar, o extinguir derechos u
+obligaciones que conciernen al sujeto contempladas por el derecho”[43], es decir,
+que hace referencia a la capacidad de realizar manifestaciones de voluntad
+dirigidas a generar efectos jurídicos de manera válida y por tanto exigible por
+el ordenamiento jurídico.
+
+De acuerdo con lo establecido en
+el artículo 1504 del Código Civil, la capacidad legal o de ejercicio a su vez
+puede clasificarse como absoluta y relativa.
+
+- Capacidad absoluta o
+plena: un sujeto de derechos tiene una capacidad de ejercicio plena o absoluta
+cuando está autorizado por el ordenamiento jurídico para realizar manifestaciones
+de voluntad dirigidas a generar efectos jurídicos, por sí solo, sin la
+necesidad de colaboración o asistencia de otra persona.
+
+- Capacidad relativa: se
+entiende que un sujeto de derecho tiene una capacidad de ejercicio relativa
+cuando sus actos jurídicos pueden tener valor en ciertas circunstancias y bajo
+ciertas condiciones determinadas por las leyes.
+
+48.
+En conclusión, de conformidad con lo establecido en el Código Civil
+Colombiano, por regla general, todos los sujetos de derechos tienen la aptitud
+para ser titulares de derechos, deberes y obligaciones (capacidad de goce) y por
+también tienen la facultad de ejercer dichos derechos, deberes y obligaciones
+por sí mismas sin la intervención de otro (capacidad de ejercicio), salvo las excepciones
+determinadas por la ley. A estas cualidades en conjunto se les denomina:
+capacidad jurídica.
+
+##### (ii) La *capacidad jurídica* de las personas naturales como componente del derecho fundamental a la personalidad jurídica.
+
+49.
+En virtud de lo establecido en el artículo 16 de la Constitución
+Política de Colombia, en el artículo 6 de la Declaración Universal de los
+Derechos Humanos y en el artículo 3 de la Convención Americana sobre Derechos
+Humanos, todas las personas naturales tienen el derecho al reconocimiento de su
+personalidad jurídica.
+
+50.
+Como fue expresado por esta Corporación en la sentencia C-109 de 1995,
+el derecho fundamental a la personalidad jurídica es un derecho subjetivo de
+rango constitucional, “que comprende la posibilidad de que todo ser humano
+posea, por el simple hecho de existir e independientemente de su condición,
+determinados atributos que constituyen la esencia de su personalidad jurídica e
+individualidad como sujeto de derecho”. “Por consiguiente, cuando la
+Constitución consagra el derecho de toda persona natural a ser reconocida como
+persona jurídica está implícitamente estableciendo que todo ser humano tiene
+derecho a todos los atributos propios de la personalidad jurídica: (…) El
+nombre, el domicilio, el estado civil, el patrimonio, la nacionalidad y la capacidad.
+No puede haber personas a quienes se les niegue la personalidad jurídica, ya
+que ello equivaldría a privarles de capacidad para ejercer derechos y contraer
+obligaciones”[44].
+(Énfasis añadido)
+
+51.
+En este mismo sentido, en la Sentencia C-022 de 2021, la Corte
+Constitucional afirmó que “el reconocimiento de la personalidad jurídica es un
+derecho de naturaleza fundamental, consagrado en el artículo 14 de la
+Constitución”, el cual que tiene “la calidad iusfundamental, al contar con la
+funcionalidad de materializar la dignidad humana.” Para esta corporación, “Los
+atributos de la personalidad jurídica –el nombre, el domicilio, el estado
+civil, la nacionalidad, el patrimonio y la capacidad - permiten a toda persona
+actuar en sociedad de acuerdo al proyecto de vida elegido, así como conocer su
+historia e identidad en la comunidad donde se desarrolla”.
+
+##### (iii) El concepto de *incapacidad* de las personas naturales en el Código Civil Colombiano y en la Ley 1996 de 2019
+
+52.
+Desde un punto de vista sintáctico y semántico, según el diccionario de
+la Real Academia de la Lengua el prefijo “*in*” es utilizado en la lengua
+castellana para hacer referencia a una negación del sustantivo que lo sucede,
+de tal manera que el vocablo “*in-capacidad*”, hace referencia a la “*no
+capacidad*”, es decir la “*no cualidad de capaz*”, la “*no aptitud,
+habilidad o cualidad para algo*”.
+
+53.
+Esta definición de incapacidad expuesta desde el lenguaje natural se
+presupone como un punto de partida para entender el significado jurídico de tal
+expresión, de tal manera que la “incapacidad jurídica” hace referencia a la “carencia
+o falta de aptitud legal para adquirir derechos y ejercerlos”.
+
+54.
+Ahora bien, teniendo en cuenta las distintas nociones de capacidad que
+fueron expuestas con anterioridad y de conformidad con lo establecido en la
+normativa vigente, debe entenderse que la expresión “incapacidad de goce o de
+derecho”, hace referencia a la “carencia de la cualidad o aptitud para ser
+titular o adquirir derechos, deberes y/u obligaciones”, una característica
+propia de los bienes y/o de las cosas. Por su parte, la “incapacidad legal o de
+ejercicio” debe comprenderse como una restricción o condicionamiento impuesto
+por el ordenamiento jurídico en virtud del cual un sujeto de derechos, aun teniendo
+la aptitud para ser titular de derechos subjetivos (capacidad de goce o de
+derecho), no puede ejercerlos, ni contraer obligaciones sin la colaboración o
+asistencia de otro. Cuando se trata de personas naturales, la incapacidad legal
+o de ejercicio implica una inhabilidad para realizar manifestaciones de
+voluntad dirigidas a generar efectos jurídicos, “sin el ministerio o la
+autorización de otra” (Artículo 1502 del Código Civil).
+
+55.
+En este sentido, debe precisarse que, cuando el artículo 1504 del Código
+Civil vigente, modificado por el artículo 57 de la Ley 1996 de 2019, se refiere
+a los conceptos de “incapacidad absoluta y relativa”: (i) dicha clasificación aplica
+directamente a los menores de edad, (ii) no se refiere a una a la falta de
+capacidad de goce o de derecho, puesto que, en virtud de lo establecido los artículos
+14, 44 y concordantes de la Constitución Política de Colombia, los artículos 90
+y 94 del Código Civil y el articulo 3 al de la Ley 1098 de 2006, los menores de
+edad son sujetos que gozan del derecho fundamental a la personalidad jurídica,
+por tanto, tienen capacidad de goce o de derecho[45]; (iii) lo
+que hace en realidad es establecer una diferencia entre la capacidad legal o de
+ejercicio absoluta y la capacidad legal o de ejercicio relativa.
+
+56.
+Vale la pena recordar que el artículo
+1504 del Código Civil establecía que: “Son absolutamente incapaces los
+dementes, los impúberes y sordomudos que no pueden darse a entender.
+Sus actos no producen ni aún obligaciones naturales, y no admiten caución. Son
+también incapaces los menores adultos que no han obtenido habilitación
+de edad y los disipadores que se hallen bajo interdicción. Pero la
+incapacidad de estas personas no es absoluta y sus actos pueden tener valor en
+ciertas circunstancias y bajo ciertos respectos determinados por las leyes.
+Además de estas incapacidades hay otras particulares que consisten en la
+prohibición que la ley ha impuesto a ciertas personas para ejecutar ciertos
+actos” (Énfasis añadido), no obstante,
+dichos apartes fueron derogados por el artículo 57 de la Ley 1996 de 2019, por
+lo cual, en sentido estricto, dicha disposición normativa aplica directamente a
+los menores de edad.
+
+57.
+La incapacidad de ejercicio absoluta implica que los actos de los
+menores de edad “impúberes” no producen “ni aún obligaciones naturales, y no
+admiten caución”. Por su parte, la incapacidad de ejercicio relativa implica
+que los actos jurídicos de los menores de edad “púberes” pueden tener validez “en
+ciertas circunstancias y bajo ciertos respectos determinados por las leyes”[46].
+
+58.
+Finalmente, el Código Civil colombiano establece que, “Además de estas
+incapacidades hay otras particulares que consisten en la prohibición que la ley
+ha impuesto a ciertas personas para ejecutar ciertos actos”.[47]
+
+59.
+En cuanto a las incapacidades establecidas en el Código Civil, resulta
+importante señalar que la Corte Constitucional expresamente ha manifestado que
+“tienen un sentido protector en favor de ciertas personas que, por sus
+especiales características, pueden resultar afectadas en sus intereses debido a
+que no tienen el total discernimiento o la experiencia necesaria para expresar
+su voluntad y para poder obligarse con claridad suficiente, pero no por ello
+resulta ajustada a los preceptos constitucionales una norma en tal sentido que
+consagre medidas discriminatorias”.[48]
+
+##### (iv) El concepto de *discapacidad*, los modelos de comprensión de la discapacidad y la protección constitucional de las personas en situación de discapacidad en el ordenamiento jurídico colombiano.
+
+60.
+La legislación colombiana define de la siguiente manera el concepto de
+“discapacidad”:
+
+| | |
+| --- | --- |
+| **Ley** | **Definición** |
+| Ley 1145 de 2007, “por medio de la cual se organiza el Sistema Nacional de Discapacidad y se dictan otras disposiciones”. | *Artículo 2*. *Situación de discapacidad:* Conjunto de condiciones ambientales, físicas, biológicas, culturales y sociales, que pueden afectar la autonomía y la participación de la persona, su núcleo familiar, la comunidad y la población en general en cualquier momento relativo al ciclo vital, como resultado de las interacciones del individuo con el entorno. *Persona con discapacidad:* Es aquella que tiene limitaciones o deficiencias en su actividad cotidiana y restricciones en la participación social por causa de una condición de salud, o de barreras físicas, ambientales, culturales, sociales y del entorno cotidiano. Esta definición se actualizará, según las modificaciones que realice la Organización Mundial de la Salud, OMS, dentro de la Clasificación Internacional de Funcionalidad, CIF. |
+| Ley 1346 de 2009, “por medio de la cual se aprueba la Convención sobre los Derechos de las personas con Discapacidad, adoptada por la Asamblea General de la Naciones Unidas el 13 de diciembre de 2006”. | *Preámbulo. Literal e)* Reconociendo que la discapacidad es un concepto que evoluciona y que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás. *Articulo 1 (...).* Las personas con discapacidad incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás. |
+| Ley estatutaria 1618 de 2013, “Por medio de la cual se establecen las disposiciones para garantizar el pleno ejercicio de los derechos de las personas con discapacidad”. | *Artículo 2. Numeral 1.* *Personas con y/o en situación de discapacidad*: Aquellas personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a mediano y largo plazo que, al interactuar con diversas barreras incluyendo las actitudinales, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás. |
+| Ley 1752 de 2015, “Por medio de la cual se modifica la Ley 1482 de 2011, para sancionar penalmente la discriminación contra las personas con discapacidad”. | *Artículo 4°.* El Código Penal tendrá un artículo 134B del siguiente tenor: “(…) Parágrafo. Entiéndase por discapacidad aquellas limitaciones o deficiencias que debe realizar cotidianamente una persona, debido a una condición de salud física, mental o sensorial, que al interactuar con diversas barreras puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás”. |
+
+61.
+Al respecto, debe precisarse que, (i) de acuerdo con lo dispuesto en el artículo
+4 de la Constitución Política, estas disposiciones normativas deben
+interpretarse integral, sistemática, finalística y holísticamente con las demás
+disposiciones constitucionales contenidas en la Constitución, para lo cual,
+debe tenerse en cuenta particularmente lo dispuesto en los artículos 1, 2, 13,
+14, 16, 47 y 54 de la Carta; (ii) de conformidad con lo establecido en los
+artículos 44 y 93 de la Constitución Política, estas definiciones deben
+interpretarse en concordancia con lo establecido en la Declaración Universal de
+Derechos Humanos, en la Convención Interamericana para la Eliminación de todas
+las Formas de Discriminación contra las Personas en Situación de Discapacidad y
+en Las Normas Uniformes sobre la Igualdad de Oportunidades para las Personas
+con Discapacidad adoptadas por la Asamblea General de las Naciones Unidas y en
+las Directrices para un lenguaje inclusivo en el ámbito de
+la discapacidad de las Naciones Unidas.
+
+62.
+De este modo, a través de la jurisprudencia constitucional, esta
+Corporación ha entendido que el ordenamiento jurídico colombiano desarrolla un
+modelo social como paradigma de la comprensión de la discapacidad, en virtud
+del cual “la discapacidad no tiene que ver con deficiencias funcionales, sino
+con omisiones de la sociedad que no tiene en cuenta a toda la población. En esa
+medida, lo que destaca este modelo es la identificación de un grupo de
+obstáculos que enfrentan las personas en situación de discapacidad para hacer
+uso de sus capacidades y la obligación de eliminar dichas barreras”.[49]
+
+63.
+A diferencia de otros modelos de comprensión de la discapacidad[50] como el
+modelo de prescindencia (que se distingue porque en él se prescinde de la
+persona en situación de discapacidad, es decir, se suprime o se opta por
+eliminarla) o el modelo asistencial o rehabilitador (en el cual la discapacidad
+es abordada única y exclusivamente desde un punto de vista médico o de
+rehabilitación bajo el paradigma de la “normalidad”), el modelo social no comprende
+a la discapacidad como una mera *condición* de un individuo que presenta
+una particularidad o limitación en su actividad, ya sea física, cognitiva o psicológica,
+sino como una *situación* que la sociedad le impone a una persona mediante
+obstáculos o barreras en diferentes ámbitos de su vida y entorno. De tal manera
+que una persona con una particularidad física, mental, intelectual o sensorial*per se,* no es discapacitado o discapacitada; la situación de discapacidad
+le es atribuida por la sociedad que le impone barreras para el acceso y
+ejercicio de sus derechos.
+
+64.
+Desde una perspectiva histórica, filosófica y normativa, bajo el
+paradigma del modelo social de discapacidad, el hecho de que una persona
+presente una singularidad física, mental, intelectual o sensorial como
+condición individual[51]
+- al igual que otras condiciones como el sexo, raza, origen nacional o
+familiar, lengua, religión, peso, tamaño o la edad - debe comprenderse desde la
+integralidad del ser humano, como parte de la diversidad humana y no como una anormalidad
+que necesita indiscutiblemente ser curada. “De allí que la protección de los
+derechos de las personas en situación de discapacidad dependa de la remoción de
+las barreras físicas, culturales, sociales y jurídicas que les impone la
+sociedad, a través de diversos instrumentos, siendo el primero de ellos la toma
+de conciencia sobre la discapacidad, **que sustituye la marginalización por el
+reconocimiento como sujetos de derecho**”. [52]
+(Énfasis añadido)
+
+65.
+Por lo anterior y dada la histórica marginación y discriminación a las
+que han estado sometidas las personas en situación de discapacidad, la
+jurisprudencia constitucional ha reconocido que el estado tiene un deber de
+brindar una protección reforzada en favor de este grupo poblacional con el
+propósito de lograr la igualdad material y efectiva.[53] Así mismo,
+el estado debe realizar acciones afirmativas razonables que permitan la
+remoción de las barreras que impiden a las personas en situación de
+discapacidad ejercer sus derechos en la igualdad de condiciones.
+
+66.
+En conclusión, el modelo social de comprensión de la discapacidad[54] reconocido
+por el ordenamiento jurídico colombiano sostiene los siguientes postulados:
+
+(i)
+La discapacidad debe abordarse desde el punto de vista de los derechos
+humanos, particularmente desde el plano de los derechos a la dignidad humana, a
+la igualdad y la no discriminación.
+
+(ii)
+La discapacidad más que una condición o particularidad de una persona debe
+entenderse como una situación que le es impuesta por la sociedad a través de
+obstáculos y barreras que le impiden ejercer sus derechos.
+
+(iii)
+La discapacidad tiene un origen social, principalmente es un problema de
+discriminación, estigmatización e inacción del estado y la sociedad.
+
+(iv)
+El estado y la sociedad son los responsables de remover las barreras que
+enfrentan las personas en situación de discapacidad en aras de lograr su
+inclusión social.
+
+(v)
+El reconocimiento y protección de las personas en situación de
+discapacidad como sujetos de derechos y sujetos de protección reforzada no solo
+es un imperativo moral y normativo, sino que se constituye como la primera y
+más importante herramienta para superar la situación histórica de
+discriminación y marginación que ha tenido que soportar esta población.
+
+67.
+En este punto, y sin perjuicio de que la jurisprudencia constitucional
+ha entendido que la normativa colombiana ha desarrollado el modelo social de
+discapacidad, vale la pena resaltar que la profesora Agustina Palacios y el
+profesor Javier Romañac han desarrollado una nueva teoría sobre la forma en la
+que debería ser tratada o concebida la discapacidad, a la cual denominaron
+“Modelo de diversidad funcional (MDF)”. Esta nueva teoría parte de los
+siguientes postulados[55]:
+(i) este modelo “va más allá del eje teórico de la capacidad, ya que éste no da
+respuesta a los nuevos retos bioéticos y además ha sido impuesto por los
+modelos anteriores en un vano intento de ser como el otro, de aspirar a una
+normalidad estadísticamente incompatible con la diversidad que caracteriza a
+las personas con diversidad funcional”;[56]
+(ii) a diferencia del modelo social, en esta teoría se prescinde del concepto
+de “capacidad”, dado que, el mismo se constituye como una barrera misma para la
+protección de los derechos de las personas, por tanto, propone suprimir la
+expresión “discapacidad” del lenguaje moderno, cuya con notación sigue siendo
+negativa, y remplazarla por la noción de: “personas con diversidad funcional”,
+una noción neutra o positiva, abordada desde la bioética y los derechos
+humanos; (iii) el eje fundamental de este nuevo modelo es la “dignidad”[57] y los
+derechos humanos de todas las personas que de entrada son diversas o hacen
+parte de una diversidad; (iv) las personas, con y sin diversidad funcional deben
+disponer de una plena autonomía moral por lo cual “la sociedad debe trabajar
+para ayudarles a conseguirla, y en caso de no ser posible, utilizar la
+solidaridad, como valor fundante de derecho, y el derecho, como herramienta,
+para mantener intacta su dignidad y aceptarlas plenamente”.
+
+68.
+Sin perjuicio de lo expuesto, esta Corporación se permite resaltar que,
+aun cuando esta teoría, desde un punto de vista lingüístico-conceptual y desde
+la perspectiva de los derechos humanos, se constituye como un paso más hacia la
+protección y garantía de los derechos de todas las personas; las normas de
+derecho positivo vigentes, tanto nacionales como internacionales, se refieren
+al uso de la expresión “discapacidad” por lo cual, en esta sentencia, la Corte
+se referirá a dicha expresión.
+
+##### (v) Tipos de discapacidad en la normativa colombiana.
+
+69.
+Si bien la legislación colombiana (artículo 2 de la Ley 1147 de 2017,
+preámbulo, artículo 1 de la Ley 1346 de 2009 y artículo 1 de Ley estatutaria
+1618 de 2013) establece unas definiciones del concepto de discapacidad, en
+virtud de las cuales una persona en situación de discapacidad es aquella que presenta
+limitaciones o deficiencias físicas, mentales, intelectuales o sensoriales que,
+al interactuar con diversas barreras ambientales, físicas, biológicas,
+culturales, normativas, sociales y las actitudinales, puedan impedir su
+participación plena y efectiva en la sociedad, en igualdad de condiciones con
+las demás; no establece ningún tipo de clasificación respecto de los tipos de o
+clases de discapacidad.
+
+70.
+En este sentido, el Ministerio de Salud y Protección Social, partiendo
+de lo establecido en la normativa nacional e internacional y para los efectos
+de captura y análisis de información necesaria para realizar el procedimiento
+de certificación de discapacidad y el registro de
+localización y caracterización de personas en situación de discapacidad de los
+que trata el numeral 5 del artículo 5 de Ley Estatutaria 1618 de 2013; expidió la Resolución número 00001197 de 2024, en la cual estableció
+siete categorías o clasificaciones de discapacidad. Valga la pena resaltar que
+dicha clasificación se fundamentó en el Modelo Conceptual de la Clasificación
+Internacional de Funcionamiento, la Discapacidad y la Salud – CIF, propuesto
+por la Organización Mundial de la Salud (OMS)[58].
+
+71.
+De acuerdo con el acto administrativo en
+mención, las categorías de la discapacidad en Colombia son las siguientes:
+discapacidad física, discapacidad auditiva, discapacidad visual, sordoceguera,
+discapacidad intelectual, discapacidad psicosocial o mental y discapacidad
+múltiple. La Resolución número 00001197 de 2024 definió las discapacidades
+intelectual y psicosocial o mental en los siguientes términos:
+
+·
+*“**Discapacidad intelectual*. Se refiere a aquellas
+personas que presentan deficiencias en las capacidades mentales generales, como
+el razonamiento, la resolución de problemas, la planificación, el pensamiento
+abstracto, el juicio, el aprendizaje académico y el aprendizaje de la
+experiencia. Estos producen deficiencias del funcionamiento adaptativo, de tal
+manera que el individuo no alcanza los estándares de independencia personal y
+de responsabilidad social en uno o más aspectos de la vida cotidiana, incluidos
+la comunicación, la participación social, el funcionamiento académico u
+ocupacional y la independencia personal en la casa o en la comunidad (*American
+Psychiatric Association*, 2014). Para lograr una mayor independencia
+funcional y participación social, estas personas requieren de apoyos
+especializados terapéuticos y pedagógicos, entre otros. Es necesaria la
+adecuación de programas educativos o formativos adaptados a sus posibilidades y
+necesidades, al igual que el desarrollo de estrategias que faciliten el
+aprendizaje de tareas y actividades de la vida diaria, como auto cuidado,
+interacción con el entorno y de desempeño de roles dentro de la sociedad. Los
+apoyos personales son indispensables para su protección y como facilitadores en
+su aprendizaje y participación social.
+
+*“Discapacidad psicosocial
+(mental).*Resulta de la interacción entre las personas con
+deficiencias (alteraciones en el pensamiento, percepciones, emociones,
+sentimientos, comportamientos y relaciones, considerados como signos y síntomas
+atendiendo a su duración, coexistencia, intensidad y afectación funcional) y
+las barreras del entorno que evitan su participación plena y efectiva en la
+sociedad. Estas barreras surgen de los límites que las diferentes culturas y
+sociedades imponen a la conducta y comportamiento humanos, así como por el
+estigma social y las actitudes discriminatorias. Para lograr una mayor
+independencia funcional, estas personas requieren básicamente de apoyos médicos
+y terapéuticos especializados de acuerdo a sus necesidades. De igual forma,
+para su protección y participación en actividades personales, educativas,
+formativas, deportivas, culturales, sociales, laborales y productivas, pueden
+requerir apoyo de otra persona”.
+
+##### (vi) La relación entre los conceptos: *salud mental*, *trastorno mental*, *enfermedad mental* y *discapacidad mental*
+
+72.
+En primer lugar, debe destacarse que, aun cuando la expresión
+“enfermedad mental” es utilizada en algunas disposiciones legales, como el
+artículo 409 del Código de Procedimiento Penal, la legislación colombiana no
+establece una definición normativa de dicho concepto.
+
+73.
+No obstante, los artículos tercero y quinto de la Ley 1616 de 2013, “por
+medio de la cual se expide la ley de Salud Mental y se dictan otras disposiciones”,
+establecen las definiciones de los conceptos “salud mental”, “trastorno mental”
+y “discapacidad mental”:
+
+| | |
+| --- | --- |
+| Salud mental | “Se define como un estado dinámico que se expresa en la vida cotidiana a través del comportamiento y la interacción de manera tal que permite a los sujetos individuales y colectivos desplegar sus recursos emocionales, cognitivos y mentales para transitar por la vida cotidiana, para trabajar, para establecer relaciones significativas y para contribuir a la comunidad”. |
+| Trastorno mental[59] | “Para los efectos de la presente ley se entiende trastorno mental como una alteración de los procesos cognitivos y afectivos del desenvolvimiento considerado como normal con respecto al grupo social de referencia del cual proviene el individuo. Esta alteración se manifiesta en trastornos del razonamiento, del comportamiento, de la facultad de reconocer la realidad y de adaptarse a las condiciones de la vida”. |
+| Discapacidad mental. | “Se presenta en una persona que padece limitaciones psíquicas o de comportamiento; que no le permiten en múltiples ocasiones comprender el alcance de sus actos, presenta dificultad para ejecutar acciones o tareas, y para participar en situaciones vitales. La discapacidad mental de un individuo puede presentarse de manera transitoria o permanente, la cual es definida bajo criterios clínicos del equipo médico tratante”. |
+
+##### (vii) Las expresiones *trastorno mental* y *enfermedad mental* como conceptos equiparables.
+
+74.
+Las expresiones “trastorno mental” y “enfermedad mental”, al originarse
+y hacer parte de las ciencias de la salud, son conceptos que trascienden la
+dimensión jurídica, por lo cual, para su adecuada interpretación resulta
+necesario entender las definiciones y clasificaciones que las ciencias clínicas
+y de la salud disponen. Al respecto, es menester señalar que el razonamiento
+judicial se fundamenta en la interpretación de las normas de derecho positivo y de las
+fuentes del derecho, sin embargo, en determinadas circunstancias el juez
+debe recurrir a otras ciencias para fundamentar en debida forma la
+argumentación que sustenta su decisión. Si bien el juez no puede
+circunscribirse única y exclusivamente a lo que dicen otras ciencias como la
+medicina, la economía, la sociología o la estadística para
+la toma de su decisión, tampoco puede prescindir del análisis del estado
+actual de lo que ellas dictaminan, aun con sus limitaciones,
+si lo que se pretende es la toma de una decisión justa, racional y motivada.
+
+75.
+La Clasificación Internacional de Enfermedades (CIE-11) de la
+Organización Mundial de la Salud publicada en el 2022[60], marco de
+referencia de la Resolución número 00001197 de 2024, no se refiere a la
+expresión “enfermedad mental” sino a “trastorno mental, del comportamiento y
+del desarrollo”, en los siguientes términos:
+
+“Los trastornos
+mentales, del comportamiento y del neurodesarrollo son síndromes que se
+caracterizan por una alteración clínicamente significativa en la cognición, la
+regulación emocional o el comportamiento de un individuo que refleja una
+disfunción en los procesos psicológicos, biológicos o del desarrollo que
+subyacen al funcionamiento mental y comportamental. Estas perturbaciones están **generalmente**
+asociadas con malestar o deterioro significativos a nivel personal, familiar,
+social, educativo, ocupacional o en otras áreas importantes del funcionamiento”.[61](Énfasis
+añadido).
+
+76.
+Ahora bien, la quinta y última edición del Manual Diagnóstico y Estadístico
+de Trastornos Mentales (DSM-5-TR)”[62]
+de la Asociación Americana de Psiquiatría (APA) del 2014, estableció la
+siguiente definición de “Trastorno mental”:
+
+“Un trastorno
+mental es un **síndrome caracterizado por una alteración clínicamente
+significativa del estado cognitivo, la regulación emocional o el comportamiento
+de un individuo, que refleja una disfunción de los procesos psicológicos,
+biológicos o del desarrollo que subyacen en su función mental**. **Habitualmente
+los trastornos mentales van asociados a un estrés significativo o una
+discapacidad, ya sea social, laboral o de otras actividades importantes**.
+Una respuesta predecible o culturalmente aceptable ante un estrés usual o una
+pérdida, tal como la muerte de un ser querido, no constituye un trastorno mental.
+Un comportamiento socialmente anómalo (ya sea político, religioso o sexual) y
+los conflictos existentes principalmente entre el individuo y la sociedad, no
+son trastornos mentales **salvo que la anomalía o el conflicto sean el
+resultado de una disfunción del individuo**, como las descritas
+anteriormente”.[63](Énfasis
+añadido).
+
+77.
+Al respecto, resulta importante precisar que el Manual Diagnóstico y
+Estadístico de Trastornos Mentales (DMS-5) se refiere al expresión enfermedad
+mental, cuando analiza los “Trastornos de síntomas somáticos y trastornos
+relacionados”, particularmente, los ““Factores psicológicos que influyen en
+otras afecciones médicas”, señalando que “Una asociación temporal entre los
+síntomas de un trastorno mental y los de una afección médica es también
+característica de un trastorno mental debido a otra afección médica, pero el
+presunto mecanismo causal se encuentra en la dirección opuesta. **En un
+trastorno mental debido a otra afección médica, la afección médica se evidencia
+como la causa de la enfermedad mental a través de un mecanismo fisiológico
+directo**. En los factores psicológicos que afectan a otras afecciones
+médicas, los factores psicológicos o conductuales afectan al curso de la
+afección médica”.[64]
+(Énfasis añadido).
+
+78.
+En relación con la expresión “enfermedad mental”, el Colegio Colombiano
+de Psicólogos (COLPSIC) señala que:
+
+“La expresión
+“enfermedad mental" es un atavismo que se deriva de la concepción
+presocrática en la que se especulaba que el ser humano estaba compuesto de
+acuerdo con una dualidad mente, (sustancia incorpórea) y cuerpo (soma), el
+cuerpo físico. Esta distinción entre mente y cuerpo en el pensamiento
+occidental fue esquematizada por René Descartes (1596-1650), quien suponía una
+entidad “alma”, racional distinta del cuerpo y que encontraban su punto de
+fusión en la glándula pineal (Damásio, 2013).
+
+En la
+actualidad esta expresión – enfermedad mental - se utiliza para describir los
+desórdenes del comportamiento, tal como se señala en el Manual Diagnóstico y
+Estadístico de los Trastornos Mentales (*Diagnostic and Statistical Manual of
+Mental Disorder, IV, DSM – IV, por sus siglas en inglés*), […] la definición
+de trastorno mental del DSM-IV es la misma que la del DSM-III y la del
+DSM-III-R, ya que es tan útil como cualquier otra definición y, además, ha
+permitido tomar decisiones sobre alteraciones ubicadas entre la normalidad y la
+patología, que deberían ser incluidas en el DSM-IV”. Esto indica que desde
+1980, ya la *American Psychiatric Association*, **habían abandonado el
+concepto de “Enfermedad Mental” trocándolo por “Trastornos Mentales”**,
+haciendo la claridad de que el concepto “mental” sólo sirve como un referente
+histórico. En la última edición del Manual Diagnóstico y Estadístico de los
+Trastornos Mentales- 5 edición de 2014, se define el trastorno mental como: “[…]
+un síndrome caracterizado por una alteración clínicamente significativa del
+estado cognitivo, la regulación emocional o el comportamiento del individuo que
+refleja una disfunción de los procesos psicológicos, biológicos o del
+desarrollo que subyacen en su función mental. Habitualmente los trastornos
+mentales van asociados a un estrés significativo o discapacidad ya sea social,
+laboral o de otras actividades importantes (de la persona) […] (pág. 20)
+
+En conclusión
+(…) es un síndrome caracterizado por una alteración clínicamente significativa
+del estado cognitivo, la regulación emocional o del comportamiento del
+individuo que refleja una disfunción de los procesos biológicos, psicológicos o
+del desarrollo”.[65]
+(Énfasis añadido).
+
+79.
+En el Contexto Colombiano, tanto el Colegio Colombiano de Psicólogos
+(COLPSIC) como el Ministerio de Salud y Protección Social concuerdan en afirmar
+que la práctica cotidiana de quienes prestan servicios de salud, los términos
+"trastorno mental” y “enfermedad mental” son intercambiables, es decir son
+usados como sinónimos.[66]
+
+80.
+Por su parte, el Ministerio de Salud y Protección Social manifiesta lo
+siguiente:
+
+“El término
+“trastorno mental” hace referencia a las condiciones clínicas que afectan el
+pensamiento, el afecto, el comportamiento y la capacidad de una persona para
+funcionar en su vida diaria; **los
+trastornos mentales** pueden variar en su gravedad y
+afectar diferentes áreas de la vida de una persona, **pueden ser transitorios o crónicos**. **La distinción entre "trastorno
+mental" y "enfermedad mental"****suele ser sutil, en esencia, ambos términos se refieren a condiciones
+que afectan el pensamiento, el****estado de ánimo y el comportamiento de una persona**. **Sin embargo, el término de trastorno mental
+es****más amplio** y se utiliza para describir cualquier alteración en la salud mental que
+causa malestar o disfunción en la
+vida diaria, aquí entran por ejemplo los trastornos de personalidad y los
+trastornos del neurodesarrollo, **los cuales configuran
+un espectro de individuos con características distintivas que pueden estar
+entre “la normalidad” y la disfunción severa**. Por otra
+parte, **el término de “enfermedad mental”, suele
+referirse desde a condiciones más específicas en las que el estado actual de la
+ciencia médica ha logrado identificar un origen etiológico más claro, como, por
+ejemplo, alteraciones en los neurotransmisores o cambios estructurales en el
+cerebro. Se aclara que, en la práctica cotidiana en salud, los términos de
+trastorno mental y enfermedad mental son intercambiables**. Sin embargo, **coloquialmente
+el término "enfermedad mental" suele tener una connotación
+estigmatizante ciertas condiciones, mientras que el término “trastorno
+mental" puede ser percibido como más neutro”.**[67] (Énfasis
+añadido).
+
+81.
+En conclusión, en el entorno médico y clínico las expresiones “trastorno
+mental” y “enfermedad mental” son equiparables y se usan como sinónimos para hacer
+referencia a un síndrome caracterizado por una alteración clínicamente
+significativa del estado cognitivo, la regulación emocional o del
+comportamiento del individuo que refleja una disfunción de los procesos
+biológicos, psicológicos o del desarrollo que subyacen en su función mental.
+
+##### (viii) Diferencia entre las expresiones *trastorno y/o enfermedad mental* y *discapacidad mental*
+
+82.
+De lo expuesto hasta el presente acápite puede concluirse que las
+expresiones “enfermedad y/o trastorno mental” y “discapacidad mental” son
+conceptos diferentes con un contenido semántico, médico-clínico y normativo
+distinto.
+
+83.
+Desde un punto de vista médico-clínico, lo primero
+que puede destacarse es que la Organización Mundial de la Salud (OMS), como
+organismo de la Organización de las Naciones Unidas (ONU) especializado en
+gestionar políticas de prevención, promoción e intervención en salud a nivel
+mundial, establece distintas clasificaciones internacionales relacionadas con
+la salud y sanidad. Dentro de dichas clasificaciones se destacan la
+“Clasificación Internacional de Enfermedades (CIE-11)”, que brinda un marco conceptual basado en la etiología, y la “Clasificación
+Internacional del Funcionamiento, de la Discapacidad y de la Salud (CIF)”, que
+se refiere al funcionamiento y la noción de discapacidad asociados con las
+condiciones de salud.
+
+84.
+En otras palabras, “La CIE – 11 - proporciona un “diagnóstico”
+de enfermedades, trastornos u otras condiciones de salud y esta información se
+ve enriquecida por la que brinda la CIF sobre el funcionamiento. La información
+sobre el diagnóstico unida a la del funcionamiento, nos proporciona una visión
+más amplia y significativa del estado de salud de las personas o poblaciones,
+que puede emplearse en los procesos de toma de decisiones”.[68]
+
+85.
+La CIF se refiere a dos componentes: el Componente de
+Funcionamiento y Discapacidad y el Componente de Factores Contextuales. El
+primero de ellos, el Componente del Funcionamiento y Discapacidad, a su vez está
+compuesto por dos subcomponentes: El componente del *Cuerpo* referido a las
+funciones de los sistemas corporales y las estructuras del cuerpo (dentro de
+los cuales se incluye toda estructura o función relacionada con la mente) y el
+componente de las *Actividades y Participación*, que cubre el rango
+completo de dominios que indican aspectos relacionados con el funcionamiento. El
+segundo componente, el Componente de Factores Contextuales también presenta dos
+clasificaciones: los Factores Ambientales y los Factores Personales.[69]
+
+86.
+Así las cosas, según la CIF: “El funcionamiento y la
+discapacidad de una persona se conciben como una interacción dinámica entre los
+estados de salud (enfermedades, trastornos, lesiones, traumas, etc.) y los
+factores contextuales. Como se ha indicado anteriormente, los Factores
+Contextuales incluyen tanto factores personales como factores ambientales. La
+CIF incluye un esquema exhaustivo de los factores contextuales como un
+componente esencial de la clasificación. Los factores ambientales interactúan
+con todos los componentes del funcionamiento y la discapacidad”.
+
+87.
+En esta línea, para la CIF, la expresión “Capacidad”,
+“es un **constructo** que
+indica, como calificador, el **máximo nivel posible
+de funcionamiento** que puede alcanzar una persona
+en un momento dado, en alguno de los dominios incluidos en Actividad y
+Participación. La capacidad se mide en un contexto/entorno uniforme o
+normalizado, y por ello, refleja describir las características de este
+contexto/entorno uniforme o la habilidad del individuo ajustada en función del
+ambiente. Se puede utilizar el componente Factores Ambientales para describir
+las características de este contexto/entorno uniforme o normalizado.”.[70]
+(Énfasis añadido). (Negrilla fuera de texto)
+
+88.
+Como puede observarse, de acuerdo con lo establecido
+en la CIF y en la CIE-11, un “trastorno o enfermedad mental” se constituye como
+una “condición o afección de salud”, esto es, como
+una enfermedad, trastorno, traumatismo o lesión, que puede afectar el
+“funcionamiento” del ser humano, es decir, “las funciones corporales,
+estructuras corporales, actividades y participación” del ser humando, teniendo
+en cuenta a su vez que, para la OMS la expresión “funcionamiento”, “indica los
+aspectos positivos de la **interacción** entre un individuo (con una
+“condición de salud”) y sus factores contextuales (factores ambientales y
+personales)”.. (Énfasis añadido) (Negrilla fuera de texto)
+
+89.
+Por el contrario, “Discapacidad” es un “término
+genérico que incluye déficits, limitaciones en la actividad y restricciones en
+la participación. Indica los aspectos negativos de la **interacción** entre un individuo (con
+una “condición de salud”) y sus factores contextuales (factores ambientales y
+personales)”. (Énfasis
+añadido). (Negrilla fuera de texto).
+
+~~ ~~
+
+90.
+De conformidad con lo establecido en la “Clasificación
+Internacional del Funcionamiento, de la Discapacidad y de la Salud (CIF)”,~~ ~~ y
+en el “Clasificación Internacional de Enfermedades (CIE-11)”,
+, el diagnostico o la determinación de la existencia de un “trastorno mental” o
+de una “discapacidad mental” depende del caso en específico y corresponde a la
+autoridad médica y/o administrativa correspondiente reconocer tal situación
+dependiendo del “nivel de interacción o funcionamiento” del ser humano. Dicho
+de otro modo: “Dos personas con la misma enfermedad pueden tener diferentes
+niveles de funcionamiento – o interacción con el entorno -, y dos personas con
+el mismo nivel de funcionamiento - o interacción con el entorno - no tienen
+necesariamente la misma condición de salud”.[71]
+
+91.
+Esta diferenciación entre las expresiones “trastorno o enfermedad
+mental” y “discapacidad mental” también es reconocida en el Manual Diagnóstico
+y Estadístico de Trastornos Mentales (DMS-5) de la Asociación Americana de
+Psiquiatría (APA). Según dicha institución:
+
+“El grupo de
+trabajo del DSM-5 y la Organización Mundial de la Salud (OMS) **han hecho
+importantes esfuerzos para separar los conceptos de trastorno mental y
+discapacidad (desequilibrios en áreas sociales, laborales u otras áreas
+importantes).** En el sistema de la OMS, la Clasificación Internacional de
+Enfermedades (CIE), abarca todas las enfermedades y trastornos, mientras que la
+Clasificación Internacional del Funcionamiento, de la Discapacidad y de la
+Salud (CIF) constituye una clasificación independiente para la discapacidad
+global. A su vez se ha demostrado que la Escala de Evaluación de las
+Discapacidades de la OMS (WHODAS), que se basa en la CIF, es una medida
+estandarizada útil de la discapacidad por causa de los trastornos mentales. Sin
+embargo, en ausencia de marcadores biológicos claros o de medidas clínicas
+útiles de la gravedad de muchos trastornos mentales, no ha sido posible separar
+por completo las expresiones de síntomas normales y patológicos que se incluyen
+en los criterios de diagnóstico. (…)”.[72]
+(Énfasis añadido)
+
+92.
+Según el Manual Diagnóstico y Estadístico de Trastornos Mentales (DMS-5)
+de la APA, la expresión “Trastorno mental/Enfermedad mental” es utilizada con
+fines de una utilidad clínica, es decir que su fin es ayudar a los
+profesionales de la salud a realizar un diagnóstico, trazar los planes de
+tratamiento y proyectar los posibles resultados de los tratamientos para los
+pacientes. “Sin embargo, **el diagnóstico de un trastorno mental no
+equivale a una necesidad de tratamiento****.** **La necesidad de
+tratamiento es una decisión clínica compleja que debe tomar en consideración****la gravedad del síntoma, su significado (p. ej. la presencia de ideas de
+suicidio), el sufrimiento del paciente (dolor mental) asociado con el síntoma, la
+discapacidad que implican dichos síntomas**, los riesgos y los beneficios
+de los tratamientos disponibles y otros factores (p. ej. síntomas psiquiátricos
+que complican otras enfermedades)”.[73]
+(Énfasis añadido).
+
+93.
+Adicionalmente, el Manual Diagnóstico y Estadístico de Trastornos Mentales
+(DMS-5) de la APA, también reconoce que:
+
+“El DSM-5
+también se utiliza como referencia en los juzgados/ tribunales y por los
+abogados para evaluar las consecuencias forenses de los trastornos mentales. En
+consecuencia, es importante observar que **la definición de trastorno mental
+que contiene el DSM-5 se redactó para satisfacer las necesidades de los
+clínicos, los profesionales de la salud pública y los investigadores, antes que
+para las necesidades técnicas de los juzgados y los profesionales que prestan
+servicios legales**. También es importante observar que el DSM-5 no ofrece
+ninguna recomendación de tratamiento para ningún trastorno.
+
+(…) **En la
+mayoría de los casos, el diagnóstico clínico de un trastorno mental del DSM-5**,
+**como una discapacidad intelectual (trastorno del desarrollo
+intelectual),** una esquizofrenia, un trastorno neurocognitivo mayor, una
+ludopatía o una pedofilia, **no implica que un individuo con dicha afección
+cumpla los criterios legales de existencia de un trastorno mental ni los de una
+norma legal concreta** **(****por ejemplo****,**competencia, responsabilidad criminal **o** **discapacidad).** **Para
+esto último acostumbra a ser necesaria más información que la que contiene el
+diagnóstico del DSM5, como podría ser información sobre el deterioro funcional
+del individuo y sobre la forma como este afecta a las determinadas capacidades
+en cuestión**. **Precisamente por el hecho de que los impedimentos,
+capacidades y discapacidades pueden variar mucho dentro de cada categoría
+diagnóstica, la atribución de un diagnóstico concreto no implica un grado
+específico de desequilibrio o discapacidad”.** (Énfasis añadido).
+
+94.
+En conclusión, de conformidad con lo establecido por la CIE-11, la
+CIF y el DMS-5 pueden categorizarse dos tipos de personas con “trastornos
+mentales”: (i) aquellas que no presentan dificultades en su interacción con su
+entorno y por tanto no necesariamente se encontrarían en una situación de
+discapacidad, es más, en algunos casos ni siquiera requieren de tratamiento
+médico, clínico o psicológico; (ii) aquellas que presentan dificultades,
+limitaciones o restricciones en su interacción con el entorno (ambiente y
+sociedad), situación que se denomina: discapacidad, dichas dificultades se
+presentan porque la sociedad le impone restricciones u obstáculos al individuo
+que impiden su interacción, de tal forma que la discapacidad se genera por las
+barreras que la sociedad le impone al individuo.
+
+95.
+Así las cosas, de conformidad con el CIE-11, la CIF y el DMS-5, el
+factor fundamental para determinar si una persona que tiene determinada
+condición de salud también se encuentra en una situación de discapacidad es el
+“nivel de interacción con el entorno”, la sociedad y el ambiente, nivel que
+debe determinarse dependiendo de: (i) el nivel de alteración o afección de los
+sistemas y estructuras corporales del individuo y (ii) el nivel de limitación,
+la magnitud de las restricciones y la intensidad de las barreras que la
+sociedad le impone a las personas y que limitan su funcionamiento y
+relacionamiento con la sociedad.
+
+96.
+Desde un punto de vista jurídico normativo, encontramos que las
+expresiones “enfermedad y/o trastorno mental” y “discapacidad mental” tampoco
+son equiparables. En primer lugar, se destaca la Ley 1616 de 2013, por medio de
+la cual se expide la Ley de Salud Mental y se dictan otras disposiciones, expresamente
+estableció una diferenciación entre los dos conceptos. En ese mismo sentido, el
+Legislador expresamente reconoció que la “salud mental” es un estado dinámico
+que puede variar en la vida cotidiana de los seres humanos.
+
+97.
+Al respecto, vale la pena resaltar que las diferenciaciones entre las
+expresiones “enfermedad y/o trastorno mental” y “discapacidad mental”,
+expuestas y extraídas de las Clasificaciones realizada por la OMS, han sido
+adoptadas como norma de derecho positivo colombiano, puesto que la Resolución
+00001197 de 2024 del Ministerio de Salud y Protección Social, “Por la cual se
+dictan disposiciones en relación con el procedimiento de certificación de
+discapacidad y el Registro de Localización y Caracterización de Personas con
+Discapacidad y se deroga la Resolución 1239 de 2022”, se fundamenta en el
+Modelo Conceptual de la Clasificación Internacional del Funcionamiento, la
+Discapacidad y la Salud—CIF y en Clasificación Internacional de Enfermedades-
+CIE.
+
+98.
+En relación con dicha diferenciación, el Ministerio de Salud y
+Protección Social fue claro en manifestar que: “no toda persona que experimenta
+una enfermedad/trastorno mental es una persona en situación de discapacidad”. [74] En palabras
+de esta autoridad pública, las expresiones “discapacidad” y “trastorno/enfermedad
+mental”:
+
+“**Son
+términos que engloban situaciones diferentes, aunque en algunas personas ambas
+condiciones puedan coexistir**. La Ley 1618 de 2013 “Por medio de la cual se
+establecen las disposiciones para garantizar el pleno ejercicio de los derechos
+de las personas con discapacidad”, especifica la discapacidad como “aquellas
+personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales
+a mediano y largo plazo que, al interactuar con diversas barreras incluyendo
+las actitudinales, puedan impedir su participación plena y efectiva en la
+sociedad, en igualdad de condiciones con las demás**”. Al reconocer la
+discapacidad desde un punto de vista relacional, hace posible que un subgrupo
+de la población de personas con enfermedad/trastorno mental puedan también
+presentar una discapacidad mental o intelectual, en la medida que su condición
+genere dificultades de adaptación debido a las barreras del ambiente social y
+físico que representan las circunstancias en las que vive esa persona.**
+
+**Se aclara
+que no todas las enfermedades mentales afectan las capacidades cognitivas,
+afectivas o conductuales de la misma manera**. La severidad de los síntomas y
+su impacto en el día a día de la persona también influirá en su desempeño
+interpersonal y con su entorno. Por lo que un tratamiento y manejo adecuado de
+la enfermedad mental pueden minimizar significativamente el impacto en la
+capacidad en sus diferentes áreas de adaptación. **Una enfermedad mental
+controlada con un tratamiento adecuado, puede permitir que la persona que lo
+sufre pueda llevar a cabo su vida cotidiana de la misma manera que lo hacen
+personas con otras condiciones medicas como hipertensión, diabetes o arritmias**”.[75] (Énfasis
+añadido)
+
+99.
+Ahora bien, esta Corporación destaca que, aun cuando la expresión
+“discapacidad” y su inclusión en la normatividad de derecho positivo tanto
+nacional como internacional se ha comprendido como un avance en la protección
+de los derechos humanos, sustituyendo vocablos despectivos y ofensivos como
+“demente”, “minusválido”, o “anormal” utilizados con anterioridad en la
+normativa colombiana, lo cierto es que, la expresión discapacidad, también
+contiene una carga emotiva negativa puesto que tiende a comprenderse desde la
+dicotomía: capaz-no capaz. Precisamente, es esta la razón por la cual, para
+muchas personas que presentan determinada condición de salud mental (enfermedad
+y/o trastorno mental), ser catalogado como “discapacitado”, no solo es
+impreciso, sino que incluso puede llegar a ser ofensivo.
+
+100. En
+síntesis, de acuerdo con una interpretación sistemática y lógica entre lo
+dispuesto en la Constitución Política de 1991, en los artículos 1, 2, 13, 14,
+16, 47, 54 y 68 de la Constitución Política de Colombia, en Declaración
+Universal de Derechos Humanos, en la Convención Interamericana para la
+Eliminación de todas las Formas de Discriminación contra las Personas en
+Situación de Discapacidad, Las Normas Uniformes sobre la Igualdad de
+Oportunidades para las Personas con Discapacidad” adoptadas por la Asamblea
+General de las Naciones Unidas, el artículo 2 de la Ley 1147 de 2017, en el
+preámbulo y articulo 1 de la Ley 1346 de 2009 y el artículo 1 de Ley
+estatutaria 1618 de 2013, así como en Resolución número 00001197 de 2024 del
+Ministerio de Salud y Protección Social, puede concluirse que una enfermedad y/o
+trastorno mental se entiende como una condición del individuo que puede o no
+afectar su interacción o relacionamiento con las sociedad y con su entorno,
+mientras que la noción de discapacidad mental es un concepto relacional, que
+presenta como resultado de la interacción entre las personas con enfermedades y/o
+trastornos mentales y las barreras ambientales, sociales, físicas, normativas y
+culturales que pueden impedir el ejercicio de su autonomía y su participación
+plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
+
+101.
+En suma, no toda condición de salud mental
+(enfermedades y/o trastornos mentales) implica necesariamente una discapacidad
+mental por cuanto no siempre dichas condiciones generan barreras sociales para el ejercicio de los derechos de las
+personas que las presentan.
+
+#### D. La prueba pericial y la actividad del perito en el proceso penal
+
+##### (i) Concepto, función y procedencia de la prueba pericial
+
+102. De
+conformidad con lo establecido en el artículo 409 del Código de Procedimiento
+Penal (Ley 906 de 2004): “la prueba pericial es procedente cuando sea necesario
+efectuar valoraciones que requieran conocimientos científicos, técnicos,
+artísticos o especializados. Al perito le serán aplicables, en lo que
+corresponda, las reglas del testimonio.”. Esta disposición normativa se
+encuentra en concordancia con lo establecido en el artículo 226 del Código
+General del Proceso, en el cual se establece que, “La prueba pericial es
+procedente para verificar hechos que interesen al proceso y requieran
+especiales conocimientos científicos, técnicos o artísticos”.
+
+103. Como
+puede observarse, la prueba pericial se constituye como un medio de prueba en
+virtud del cual el juez o las partes acuden a un experto para obtener
+información científica, técnica o artística, especializada y relevante para la
+resolución del proceso. En palabras del profesor Michele Taruffo: “Ni los
+jueces ni los jurados son omniscientes y este es un problema en todos los
+sistemas probatorios. Esta limitación tiene consecuencias muy diversas, la más
+importante de las cuales el juzgador puede no tener conocimiento científico o
+técnico que se requiere para establecer y evaluar algunos hechos en el litigio.
+(…) Por ello todos los sistemas procesales tienen que utilizar formas de prueba
+pericial. Esto significa que hay que recurrir a peritos expertos en diversos
+ámbitos para ofrecer al juzgador toda la información técnica y científica
+necesaria para decidir el caso”.[76]
+
+104.
+Con base en lo establecido en el Código de Procedimiento Penal (Ley 906
+de 2004), la Sala Penal de la Corte Suprema de Justicia ha explicado que la
+prueba pericial se constituye un medio de prueba compuesto, el cual está “integrado
+por el informe escrito base de la opinión pericial y el testimonio del perito
+en el juicio, quien concurre para ser interrogado y contrainterrogado sobre su
+concepto previo”. [77]
+
+105. En
+este sentido, según la Sala Penal de la Corte Suprema de Justicia, en el
+sistema de procesamiento acusatorio, la prueba pericial se compone de dos
+actos: “(i) el informe, generalmente escrito, que contiene la base de la
+opinión científica, técnica, artística o especializada, el cual debe entregarse
+con antelación a la contraparte para garantizar el principio de igualdad de
+armas y el contradictorio, y (ii) la declaración personal del experto en el
+juicio oral, exigencia que apunta a preservar los principios de contradicción e
+inmediación pues, como ya se anotó, está sujeta a las reglas del testimonio”.[78]
+
+106. Ahora
+bien, en relación con la prueba pericial en el proceso penal, el Código de
+Procedimiento Penal colombiano (i) establece una serie de reglas sobre quiénes
+pueden comparecer al juicio calidad de peritos (artículos 406 y 407), (ii)
+regula la emisión del informe base de opinión pericial (artículos 415 y
+siguientes) y (iii) consagra las instrucciones para interrogar y
+contrainterrogar al experto (artículos 417 y 418), respectivamente[79], las cuales
+se explicarán de maneral general a continuación:
+
+###### (a) Quienes pueden tener la calidad de peritos o peritas
+
+107. De
+conformidad con lo establecido en el artículo 408 de la Ley 906 de 2004, Código
+de Procedimiento Penal, pueden ser peritos: “(i) Las personas con título
+legalmente reconocido en la respectiva ciencia, técnica o arte; (ii) En
+circunstancias diferentes, podrán ser nombradas las personas de reconocido
+entendimiento en la respectiva ciencia, técnica, arte, oficio o afición aunque
+carezca de título y (iii) A los efectos de la cualificación podrán utilizarse
+todos los medios de prueba admisibles, incluido el propio testimonio del
+declarante que se presenta como perito”.
+
+108. En
+cuanto a quienes no pueden ser peritos o peritas, el artículo 409 del Código de
+Procedimiento Penal dispone que no pueden ser nombrados**,** en ningún
+caso:“(i)Los menores de dieciocho (18) años, los
+interdictos y los enfermos mentales; (ii) Quienes hayan sido suspendidos en el
+ejercicio de la respectiva ciencia, técnica o arte, mientras dure la suspensión
+y (iii) Los que hayan sido condenados por algún delito, a menos que se
+encuentren rehabilitados.”[80]
+(Énfasis añadido)
+
+109. De
+acuerdo con lo establecido por la jurisprudencia de la Sala Penal de la Corte
+Suprema de Justicia: “En el mismo sentido, el legislador dispuso la obligación
+de demostrar la idoneidad del experto. Al efecto, el artículo 408 establece
+quiénes pueden ser peritos y dispone que a los efectos de la cualificación
+podrán utilizarse todos los medios de prueba admisibles, incluido el propio
+testimonio del declarante que se presenta como perito; el artículo 413, que
+trata de la presentación de los informes, establece que a los mismos deberá
+agregarse la certificación que acredite la idoneidad del perito, y los tres
+primeros numerales del artículo 417, que regulan el interrogatorio del experto,
+establecen la acreditación de su conocimiento teórico sobre la ciencia, técnica
+o arte, (…) sobre los antecedentes que acrediten su conocimiento en el uso de
+instrumentos o medios en los cuales es experto y sobre los antecedentes que acrediten
+su conocimiento práctico en la ciencia, técnica, arte, oficio o afición
+aplicables”.[81]
+
+###### (b) El informe base de la opinión pericial.
+
+110. De
+conformidad con lo dispuesto en los artículos 413, 414 y 415 de la Ley 906 de
+2004, el informe base de la opinión pericial es un documento en el que se
+resume y expresa la base de la opinión del perito o perita solicitada por la
+parte que propuso la práctica de la prueba.
+
+111. En
+palabras de la Sala Penal de la Corte Suprema de Justicia: “El informe pericial
+(artículo 415 Ley 906 de 2004) es la base de la opinión pericial, generalmente
+expresada por escrito, que contiene la ilustración experta o especializada
+solicitada por la parte que pretende aducir la prueba”[82]. “En suma,
+el informe escrito equivale a una declaración previa del perito; que se entrega
+con antelación a la contraparte, en salvaguarda del principio de igualdad de armas,
+para que pueda preparar el contrainterrogatorio; y puede servir también para
+refrescar la memoria del perito y para ponerle de presente contradicciones
+entre lo anotado en el informe y lo declarado actualmente en la audiencia del
+juicio oral”[83].
+“De lo anterior se sigue que, como **el** **reporte o informe escrito
+vertido por el perito es apenas la base de su dictamen, no tiene la calidad de
+medio de prueba autónomo**”.[84](Énfasis
+añadido)
+
+112. De
+acuerdo con la Sala Penal de la Corte Suprema de Justicia, “las partes deben
+poner en conocimiento de su antagonista el informe de que trata el artículo 413,
+bajo el entendido de que, en todo caso, la base de opinión pericial, que abarca
+los aspectos analizados en precedencia, debe ser divulgada como mínimo cinco
+días antes de la celebración de la audiencia pública, tal y como lo dispone el
+artículo 415 ídem”[85].
+Lo anterior, en aras de garantizar el derecho de defensa y de contradicción,
+toda vez que “la prueba pericial debe ser objeto de descubrimiento oportuno, en
+los términos previstos en los artículos 344 y siguientes, 355 y siguientes, y
+405 y siguientes de la Ley 906 de 2004”.[86]
+
+###### (c) La declaración personal, el interrogatorio y el contra interrogatorio del perito.
+
+113.
+El artículo 215 del Código de Procedimiento Penal determinó que la
+declaración oral del perito en el juicio es una condición necesaria para que el
+informe pericial sea admisible. “**En ningún
+caso – dice perentoriamente el artículo 415- el informe pericial será admisible
+como evidencia, si el perito no declara oralmente en el juicio**”. (Énfasis
+añadido)
+
+114. Para
+la Sala Penal de la Corte Suprema de Justicia, “El interrogatorio tiene como
+finalidad que el perito explique a cabalidad su informe previo, que traduzca
+sus notas y razonamientos a conclusiones prácticas sencillas, entendibles por
+las partes, la audiencia y el Juez”.[87]
+
+115. El
+artículo 417 del Código de Procedimiento Penal consagra las reglas generales de
+la declaración y/o interrogatorio al perito. En palabras de la Sala Penal de la
+Corte Suprema de Justicia:
+
+“De manera
+puntual, el artículo 417 consagra la secuencia lógica de ese interrogatorio,
+así: (i) **en primer término, debe establecerse la calidad de perito, a lo que
+apuntan los temas tratados en los tres primeros numerales -conocimiento
+teórico, conocimiento y experiencia en uso de instrumentos, y conocimiento
+práctico**-; (ii) la explicación de los “principios
+científicos, técnicos o artísticos en los que verifica fundamenta sus
+verificaciones o análisis”; (iii) el grado de aceptación de los mismos; (iv)
+los “métodos empleados en las investigaciones y análisis relativos al caso”;
+(v) la aclaración sobre si “en sus exámenes o verificaciones utilizó técnicas
+de orientación, de probabilidad o de certeza, entre otros”[88]
+
+A la luz de esta
+reglamentación, es claro que **los peritos comparecen
+al juicio oral a explicar unas determinadas reglas o principios
+técnico-científicos, que sirven de fundamento a sus conclusiones frente a unas
+situaciones factuales en particular**. Igualmente, deben precisar el
+nivel de probabilidad de la respectiva conclusión, que, a manera de ejemplo,
+suele ser más alta en los exámenes de ADN que en algunos conceptos
+psicológicos. **Del experto se espera que, en cuanto
+sea posible, traduzca al lenguaje cotidiano los aspectos técnicos, de tal
+suerte que el Juez: (i) identifique y comprenda la regla que permite el
+entendimiento de unos hechos en particular; (ii) sea consciente del nivel de
+generalidad de la misma y de su aceptación en la comunidad científica; (iii)
+comprenda la relación entre los hechos del caso y los principios que se le
+ponen de presente; (iv) pueda llegar a una conclusión razonable sobre el nivel
+de probabilidad de la conclusión; etcétera.**
+
+Visto de otra
+manera, **al perito le está vedado presentar conclusiones sin fundamento,
+opinar sobre asuntos que escapan a su experticia, eludir las aclaraciones que
+debe hacer sobre el fundamento técnico científico de sus apreciaciones, no
+precisar el grado de aceptación de esos principios en la comunidad científica,
+abstenerse de explicar si las técnicas utilizadas son de orientación,
+probabilidad o certeza, etcétera.**
+
+La intención del
+legislador de evitar que los expertos emitan opiniones que no tengan un
+adecuado soporte técnico-científico se hace palmario en la reglamentación de la
+admisibilidad de publicaciones y de prueba novel”.[89] (Énfasis
+añadido)
+
+116. En
+este sentido, de acuerdo con lo establecido en artículo 422 del Código de
+Procedimiento Penal: “Para apreciar la prueba pericial, en el juicio oral y
+público, **se tendrá en cuenta la idoneidad técnico-científica y moral del
+perito**, **la claridad y exactitud de sus respuestas, su comportamiento al
+responder**, **el grado de aceptación de los principios científicos,
+técnicos o artísticos en que se apoya el perito, los instrumentos utilizados**
+y **la consistencia del conjunto de respuestas”.** (Énfasis añadido)
+
+117. Como
+puede observarse, la base técnico-científica del dictamen pericial se
+constituye como la piedra angular del mismo puesto que es inherente a la misma,
+es la razón de ser de la prueba pericial.
+
+118. De
+acuerdo con la jurisprudencia de la Sala Penal de la Corte Suprema de Justicia:
+
+“De igual manera,
+la jurisprudencia ha identificado reglas específicas de la prueba pericial, en
+especial acerca de la base “técnico-científica” inherente a la misma,
+atendiendo que los expertos convocados por las partes deben explicar
+suficientemente “los principios científicos, técnicos o artísticos en los que
+fundamenta sus verificaciones o análisis y grado de aceptación”, como ordena el
+artículo 417 de la citada codificación, en el entendido que los jueces no deben
+aceptar de forma irreflexiva lo que expresen los peritos, a partir de la simple
+autoridad de quien emite la opinión”.[90]
+
+“Frente a la base
+técnico científica del dictamen pericial se tiene lo siguiente: (i) la opinión
+puede – debe - estar soportada en “conocimientos científicos, técnicos,
+artísticos o especializados”; (ii) el interrogatorio al perito debe orientarse
+a que este explique suficientemente la base “técnico-científica” de su opinión,
+lo que implica asumir las respectivas cargas, como cuando, a manera de ejemplo,
+se fundamenta en una “ley científica” –en sentido estricto-, en datos
+estadísticos, en conocimientos técnicos, etcétera; (iii) el experto debe
+explicar si “en sus exámenes o verificaciones utilizó técnicas de orientación,
+probabilidad o certeza”, lo que resulta determinante para establecer el peso
+que el dictamen puede tener en la decisión judicial, porque, a manera de
+ejemplo, no es lo mismo que se afirme que existe más del 99% de probabilidad de
+que un hecho haya ocurrido, a que se concluya que es “más probable que menos
+probable” –preponderancia- que un determinado fenómeno haya tenido ocurrencia;
+(iv) cuando se pretende la admisión de “publicaciones científicas o de prueba
+novel”, se deben cumplir los requisitos previstos en el artículo 422 de la Ley
+906 de 2004; (v) lo anterior, bajo el entendido de que el Juez no está llamado
+a aceptar de forma irreflexiva el dictamen pericial, sino a valorarlo en su
+justa dimensión, lo que supone el cabal entendimiento de las explicaciones
+dadas por el experto; y (v) en buena medida, la claridad sobre la base
+científica del dictamen pericial, y de los demás aspectos que lo conforman,
+depende de la actividad de las partes durante el interrogatorio cruzado, lo que
+es propio de un sistema de corte adversativo, del que es expresión la
+regulación del interrogatorio al experto, prevista en los artículos 417 y
+siguientes de la Ley 906 de 2004.
+
+Finalmente, debe
+resaltarse que la explicación suficiente de la base “técnico-científica” del
+dictamen adquiere mayor relevancia cuando: (i) la opinión se soporta en áreas
+del conocimiento poco difundidas, (ii) frente a las mismas no existen consensos
+consolidados, (iii) los procedimientos que sirven de soporte a la conclusión no
+están suficientemente estandarizados, etcétera. Esto se compagina con lo
+dispuesto en el artículo 422 de la Ley 906 de 2004 sobre los requisitos para la
+admisión de “publicaciones científicas y prueba novel”.
+
+Así, aunque los
+peritos tienen el deber de explicar este aspecto, lo que se traduce en la
+obligación de la parte de incluirlo en el interrogatorio (Art. 417, numerales
+4, 5 y 6), en cada caso debe evaluarse la incidencia de las omisiones que se
+presenten sobre el particular, sin perder de vista que es imperioso que las
+partes y los jueces comprendan y acaten la respectiva reglamentación legal”.[91]
+
+119. Ahora
+bien, la declaración o participación del perito en el juicio puede cumplir con
+uno o dos propósitos: (i) ilustrar sobre determinadas reglas
+“técnico-científicas”, para que, a partir de las mismas, el Juez realice la
+valoración de los hechos; y (ii) emitir su opinión frente a un determinado
+aspecto fáctico[92].
+En palabras de Taruffo: “En los sistemas del *civil law*, el perito o
+experto no es un testigo (…). La figura del perito se distingue claramente de
+la figura del testigo. (…) Ahora bien, el perito también puede expresar sus
+opiniones y evaluaciones de hechos específicos, o tomar conocimiento personal
+de algunos hechos o determinar, además algunos hechos relevantes. Ello no obsta
+para que la principal función del experto sea ofrecer al tribunal conocimiento
+especializado que éste usará para su veredicto final sobre los hechos en
+disputa”[93].
+Para estos últimos casos, en los cuales el perito se refiere a la “base
+fáctica” del caso, la jurisprudencia de la Sala Penal de la Corte Suprema de
+Justicia ha establecido unas reglas especiales que debe seguir el juzgador.[94]
+
+120. En
+relación con el contrainterrogatorio, el artículo 418 del Código de
+Procedimiento Penal dispone que: “(i) La finalidad del contrainterrogatorio es
+refutar, en todo o en parte, lo que el perito ha informado y (ii) En el
+contrainterrogatorio se podrá utilizar cualquier argumento sustentado en
+principios, técnicas, métodos o recursos acreditados en divulgaciones técnico
+científicas calificadas, referentes a la materia de controversia”.
+
+121. Así
+las cosas, el contrainterrogatorio se constituye como una oportunidad procesal
+para cuestionar, criticar o refutar el dictamen pericial, “al ser interrogado y
+contrainterrogado por las partes acerca del contenido del informe, el experto
+ayuda a comprender el tema sobre el cual versa su opinión”.[95]
+
+122. Finalmente,
+respecto de la prueba pericial, esta Corporación destaca que, tal y como lo
+menciona el profesor Michele Taruffo, “el juez es un *peritus peritorium*,
+y por tanto debe ser capaz de valorar y controlar las bases y las conclusiones
+de la opinión del perito. Este deberá comprobar la plausibilidad y la
+fiabilidad del dictamen pericial y hacer una valoración libre de los datos y la
+información contenida en su informe”.[96]
+
+##### (ii) La fiabilidad y la pertinencia de la prueba pericial
+
+123.
+De acuerdo con la jurisprudencia de la Sala Penal de la Corte Suprema de
+Justicia: “El artículo 372 de la Ley 906 de 2004 establece que las pruebas en
+materia penal tienen la finalidad de llevar al conocimiento del juez, más allá
+de duda razonable, los hechos y circunstancias materia del juicio y los de la
+responsabilidad penal del procesado, como autor o partícipe. El artículo 357.2
+de la misma codificación autoriza al juez a decretar la práctica de las pruebas
+solicitadas, cuando se refieran a los hechos de la acusación que requieran
+prueba, de acuerdo con las reglas de pertinencia y admisibilidad”[97]
+
+124. “Dado que el juez de conocimiento no tiene la oportunidad
+de presenciar los hechos frente a los que debe tomar la decisión, es necesario
+que los conozca mediante un mecanismo **fiable**, que además permita a los
+demás intervinientes ejercer el derecho de contradicción. (…) Por lo
+anterior, la actividad probatoria de las partes, en este caso del fiscal, debe
+centrarse en el contenido de cada medio de acreditación, pero también debe
+estar orientada a verificar la **confiabilidad** del medio utilizado, es
+decir, la credibilidad del testigo, la autenticidad del elemento material
+probatorio, **la idoneidad del perito u otros aspectos**. **Esta actividad
+implica también la verificación de que el medio cognoscitivo sea presentado de
+tal manera que facilite en la mayor medida posible la aprehensión del
+conocimiento por parte del juez, pues a manera de ejemplo, poco o nada sirve un
+testigo que tiene gran conocimiento de los hechos pero no puede transmitirlo en
+forma adecuada**.”[98]
+(Énfasis añadido)
+
+125. Bajo
+este sentido, de conformidad con lo establecido en el Código de Procedimiento Penal,
+para que la prueba pericial se entienda fiable (i) deber ser ofrecida por quien
+tiene el peso académico, intelectual, científico o vivencial suficiente[99]; y (ii) debe
+brindar información científica, técnica y/o artística suficiente y de calidad al
+juez.
+
+126. Así
+las cosas, la fiabilidad de la prueba pericial debe analizarse desde dos
+perspectivas consecuentes y complementarias:
+
+(i)
+Subjetiva: tiene que ver con las condiciones particulares del perito o
+perita, es decir, si el sujeto puede ser considerado realmente un experto o no.
+Está relacionada con: la formación académica, la experiencia profesional, el
+reconocimiento y buen nombre en la comunidad científica, etc.
+
+(ii)
+Objetiva: tiene que ver con la calidad y suficiencia de la información científica, técnica y/o artística que aporta el perito. Está
+relacionada con: (a) la legitimidad de las fuentes de
+información, así como los métodos y procedimientos utilizados por el perito o
+perita, (b) la explicación del perito o perita, su claridad y coherencia
+argumentativa (c) la veracidad de sus afirmaciones y (d) la suficiencia de sus
+respuestas.
+
+127. Al
+respecto, resulta importante precisar que no basta con garantizar la idoneidad
+del perito para garantizar la fiabilidad de la prueba pericial, adicionalmente
+debe garantizarse la fiabilidad de la información científica, técnica o
+artística en sí misma, solo de esta forma la prueba pericial puede contribuir a
+que el juez pueda tener un conocimiento sobre los hechos, circunstancias
+materia del juicio y los de la responsabilidad penal del acusado, como autor o
+partícipe, más allá de toda duda razonable.
+
+128. En relación con la fiabilidad de la prueba pericial, la profesora
+Carmen Vásquez menciona lo siguiente: “Si consideramos, por ejemplo, la noción
+de credibilidad como criterio para admitir o para asignar valor probatorio a
+las pruebas científicas presentadas, estaríamos valorando exclusivamente a la
+persona: las credenciales formales y/o informales de los expertos, su
+experiencia cuantitativa y/o cualitativa, su experiencia como perito en
+diversos procesos judiciales, su fama en el aérea de conocimiento, etc. Sin
+embargo, valorar ciertas características de las personas es totalmente
+insuficiente: el mejor sujeto podría estar utilizando técnicas o métodos
+cuestionables o cuya fiabilidad se desconoce, y, por supuesto, todo sujeto es
+susceptible de sufrir sesgos cognitivos”.[100]
+Por estas razones, el perito tiene el deber de brindar “una explicación
+suficiente para que pueda ser entendida y procesada racionalmente- es decir,
+valorada racionalmente - por el juez”. [101]
+
+129. Ahora
+bien, una cosa es la fiabilidad de la prueba y otra cosa es la pertinencia de
+la misma. En esta línea, la Sala Penal de la Corte Suprema de Justicia ha
+señalado que: “el artículo 375 *ibidem*, al definir la pertinencia de la prueba,
+precisa que los elementos materiales probatorios, la evidencia física y los
+medios de prueba deben «referirse, directa o indirectamente, a los hechos o
+circunstancias relativos a la comisión de la conducta delictiva y sus
+consecuencias, así como a la identidad o a la responsabilidad penal del
+acusado». Misma connotación que se exige a aquellas que sirven para hacer «más
+probable o menos probable uno de los hechos o circunstancias mencionados», o
+las que se refieren «a la credibilidad de un testigo o de un perito»”[102]
+
+130. Algunos
+autores como Taruffo no utilizan la expresión “pertinencia” sino “relevancia”
+de la prueba, no obstante, ambas son nociones referidas a un mismo concepto.
+Para este autor, “El concepto de relevancia – pertinencia - es un estándar lógico
+de acuerdo con el cual los únicos medios de prueba que deben ser admitidos y
+tomados en consideración por el juzgador son aquellos que mantienen una
+conexión lógica con los hechos en litigio, de modo que pueda sustentarse en
+ellos una conclusión acerca de la verdad de tales hechos”.[103]
+
+131. De
+lo expresado hasta el momento, puede concluirse que: (i) el medio de prueba
+pericial puede ser fiable, puesto que emana de una persona experta e idónea que
+comunica al juez un conocimiento científico, técnico o artístico especializado de
+calidad y suficiente; pero puede carecer de pertinencia, ser irrelevante para
+la resolución del proceso, al no tener nada que ver con los hechos del caso y/o
+con las hipótesis fácticas que se pretende acreditar o desacreditar; (ii) por
+otro lado, el medio de prueba pericial puede ser pertinente puesto que sirve
+para acreditar o rebatir los hechos con relevancia jurídica en un proceso
+penal, pero carecer de fiabilidad puesto que la información científica, técnica
+o artística especializada no está debidamente soportada, se justifica en
+métodos o procedimientos cuestionables, no es congruente, entre otros
+factores.
+
+132. Finalmente,
+debe señalarse que, de conformidad con lo establecido en el
+artículo 376 de la Ley 906 de 2004, Código de Procedimiento Penal: “Toda prueba
+pertinente es admisible, salvo en alguno de los siguientes casos: a) Que exista
+peligro de causar grave perjuicio indebido; b) Probabilidad de que genere
+confusión en lugar de mayor claridad al asunto, o exhiba escaso valor
+probatorio, y c) Que sea injustamente dilatoria del procedimiento.”.
+
+##### (iii) La doble naturaleza jurídica del numeral primero del artículo 409 del Código de Procedimiento Penal
+
+133. El
+numeral primero del artículo 409 de la Ley 906 de 2004, Código de Procedimiento
+Penal, dispone que: “No pueden ser en ningún caso nombrados como peritos:(…)
+los enfermos mentales”.
+
+134. En
+relación con esta norma jurídica y sin perjuicio del análisis de la disposición
+demandada a partir del juicio integrado de igualdad, debe precisarse que dicha
+norma jurídica presenta una doble naturaleza jurídica. En primer lugar, se
+constituye como un enunciado prescriptivo, es decir, establece una prohibición:
+“ser nombrado perito”, respecto de un sujeto cualificado: “las personas con
+enfermedades mentales”. En segundo lugar, corolario de lo anterior, la
+condición de “no tener una enfermedad mental” se constituye como un requisito
+habilitante pero no suficiente para ser nombrado perito.
+
+##### (iv) Requisitos para ser nombrado perito en el derecho comparado
+
+135.
+En el derecho iberoamericano comparado, de 11 países analizados
+(Argentina, Bolivia, Chile, Ecuador, España, México, Panamá, Paraguay, Perú,
+Uruguay y Venezuela. *Ver anexo*.) únicamente dos legislaciones, la
+paraguaya y la panameña, establecen una restricción para el ejercicio de la
+función de la actividad de perito relacionada con la salud mental. En dichos
+ordenamientos jurídicos se establece que “No podrán actuar como peritos,quienes,
+por insuficiencia o alteración de sus facultades mentales, o por inmadurez, no
+comprendan el significado del acto”.
+
+136.
+Ahora bien, a diferencia del ordenamiento jurídico colombiano, en los
+ordenamientos jurídicos paraguayo y panameño no basta con que la persona que
+pretende ser un perito presente una enfermedad y/o trastorno mental para que
+sea excluido de la posibilidad de ejercer este oficio; la ley establece un
+requisito o una condición adicional para ello: que tal situación conlleve a que
+“no comprendan el significado del acto”. En los dos países
+referenciados -Paraguay y Panamá- se establece una restricción para el
+ejercicio de la función pericial relacionada con la salud mental. No obstante,
+en esos escenarios se exige, además, que la persona no comprenda el significado
+del acto, lo que no sucede en la legislación colombiana.
+
+137.
+En conclusión, el panorama internacional refleja una
+perspectiva garantista de los derechos de las personas con afecciones a la
+salud mental que pretendan ser nombrados como peritos o peritas en el marco de
+un proceso penal.
+
+## 4. Aplicación del juicio integrado de igualdad
+
+138. De
+conformidad con lo establecido por la jurisprudencia constitucional, en el
+presente caso, la Corte aplicará un juicio integrado de igualdad con el fin de
+determinar si la disposición normativa demandada es constitucional o no. Como fue
+determinado por esta Corporación en la Sentencia C-301 de 2023: “Previo al
+análisis de la disposición demandada a partir del juicio integrado de igualdad,
+debe recordarse que se trata de una norma de carácter procesal y, por tanto, el
+margen del legislador es amplio. Tal como lo ha señalado la jurisprudencia
+constitucional extensamente, en estos supuestos el legislador sólo cuenta con
+los límites derivados de (i) la fijación directa, en la Constitución, de
+determinado recurso o trámite judicial; (ii) el cumplimiento de los fines
+esenciales del Estado y particularmente de la administración de justicia; (iii)
+la satisfacción de principios de razonabilidad y proporcionalidad; y (iv) la
+eficacia de las diferentes garantías que conforman el debido proceso y el
+acceso a la administración de justicia”.
+
+139. Ahora
+bien, de acuerdo con los parámetros establecidos por la jurisprudencia
+constitucional[104]
+para llevar a cabo un juicio integrado de igualdad, esta Corporación, en primer
+lugar, establecerá los términos de comparación y, posteriormente, evaluará si
+la disposición normativa acusada establece o no un trato discriminatorio
+injustificado entre dos grupos de sujetos. Lo anterior,
+teniendo en cuenta que el juicio integrado de igualdad es una
+herramienta hermeneútica compuesta por una serie de pasos o etapas que guarda
+una estructura lógica determinada según la cual solo se puede avanzar a la
+siguiente etapa si se ha superado la anterior.
+
+### 4.1. Determinación de los términos de comparación
+
+140.
+A continuación, la Corte identificará: (i) si en el caso en particular, existen
+dos grupos asimilables o iguales; y (ii) si tales sujetos o grupos son
+asimilables debido a un criterio de comparación específico aun cuando existan
+algunas diferencias entre ellos; (iii) si a dichos grupos se les brinda
+efectivamente un tratamiento normativo diferenciado, dándole prelación a las diferencias
+que existen entre ambos grupos por encima de las similitudes relevantes que
+comparten.[105]
+
+#### A. Identificación de los grupos o sujetos susceptibles de comparación
+
+141. De
+acuerdo con lo establecido en el numeral 1 del artículo 409 de la Ley 906 de
+2004, resulta claro que los grupos o sujetos susceptibles de ser contrastados
+en el caso en particular son los siguientes:
+
+| | |
+| --- | --- |
+| Grupo 1 | Grupo 2 |
+| Personas que **presentan** una afección de salud consistente en un trastorno y/o enfermedad mental. | Personas que **no presentan**ninguna afección de salud consistente en una enfermedad y/o trastorno mental. |
+
+142. Al
+respecto, debe tenerse en cuenta que, tal como ha sido explicado en esta
+providencia, las afecciones[106]
+a la salud como lo son las enfermedades y/o trastornos mentales deben
+entenderse como una condición del individuo que, al igual que otras
+condiciones, como el sexo, raza, origen nacional o familiar, lengua, religión,
+peso, tamaño o la edad, debe comprenderse como parte integral de la diversidad
+humana.
+
+143. Así
+mismo, resulta importante resaltar que no toda persona que presenta una
+afección de salud mental (trastorno y/o enfermedad mental) necesariamente se
+encuentra en una situación de discapacidad, razón por la cual el grupo genérico
+susceptible de ser analizado está integrado por todas las personas que
+presentan una afección de salud mental, dentro del cual se incluye a las
+personas que presentan una discapacidad mental.
+
+#### B. Determinación del criterio de comparación específico.
+
+144.
+La Corte estima que las personas que presentan una afección de salud consistente
+en un trastorno y/o enfermedad mental y las personas que no presentan ninguna
+afección de salud, esto es, una enfermedad y/o trastorno mental, son categorías
+comparables.
+
+145.
+Estos dos grupos objeto de comparación comparten una similitud
+relevante: se presume su capacidad para “realizar las operaciones tendientes al
+desarrollo de la personalidad y de sus atributos y para crear, mantener,
+modificar, o extinguir derechos u obligaciones”[107] de
+conformidad con lo establecido en los artículos 14 de la Constitución Política
+de 1991, 1503 del Código Civil y 6 y 8 de la Ley 1996 de 2019, sin embargo, se
+diferencian en que los primeros presentan una afección de salud consistente en
+una enfermedad y/o trastorno mental mientras los segundos no.
+
+**C.****Identificación del tratamiento normativo diferenciado.**
+
+146.
+Si bien los dos grupos objeto de comparación comparten una similitud
+relevante: se presume su capacidad para realizar actos jurídicos vinculantes;
+esta Corporación identifica que a los primeros no les es posible ser nombrados
+como peritos o peritas en un proceso penal, mientras que los segundos si pueden
+ser nombrados peritos o peritas en el proceso penal siempre y cuando cumplan
+con los requisitos establecidos en el artículo 408 del Código de Procedimiento
+Penal.
+
+147.
+Como corolario de lo anterior, resulta claro que el Legislador brinda un
+tratamiento diferenciado a dos grupos poblacionales que comparten similitudes
+relevantes pero que presentan ciertas diferencias, otorgándole mayor importancia
+a las diferencias que existen entre ambos grupos por encima de las semejanzas
+que ambos grupos comparten. Para el Legislador, el hecho de que una persona
+tenga una enfermedad y/o trastorno mental puede poner en riesgo la fiabilidad
+de la prueba pericial, en contraposición a quienes no tienen esa condición.
+
+148. Una
+vez determinado el criterio de comparación, le corresponde a esta Corte continuar
+con la segunda etapa del juicio o *test* de igualdad con el fin de
+establecer si el tratamiento diferenciado que el Legislador le otorga a los dos
+grupos identificados se encuentra justificado o no a la luz de los postulados
+contenidos en la Constitución Política de 1991.
+
+### 4.2. Aplicación del juicio de igualdad de intensidad estricta
+
+149.
+De conformidad con lo establecido en la jurisprudencia constitucional[108], el juicio
+de igualdad en un nivel de intensidad estricto debe emplearse de manera
+excepcional cuando se trate de una hipótesis en la que la misma Constitución
+señala mandatos específicos de igualdad y en la que la medida enjuiciada: contiene
+una clasificación sospechosa como las enumeradas no taxativamente en el inciso primero
+del artículo 13 de la Constitución; afecta a personas en condiciones de
+debilidad manifiesta o grupos discriminados o marginados; impacta gravemente,
+al menos en principio, un derecho fundamental; o crea un privilegio.
+
+150.
+Bajo estos presupuestos, en el presente caso, la Corte Constitucional aplicará un juicio de igualdad de intensidad estricta[109]toda vez que:
+
+(i)
+La cuestión objeto de análisis recae sobre los derechos de las personas
+que presentan una afección en su salud consistente en un trastorno y/o una
+enfermedad mental, quienes han sido un grupo tradicionalmente discriminado,
+marginado, objeto de burla y de exclusión, que incluso han sido llamados con
+adjetivos despectivos y peyorativos como “locos o locas”, “perturbados o
+perturbadas”, “dementes”, entre otros.
+
+(ii)
+Que, en el caso específico de las personas en situación de discapacidad,
+esta Corte ha reconocido que son sujetos de especial protección.[110]
+
+(iii)
+Que la prueba pericial en el proceso penal constituye un elemento
+trascendental para la guarda de otros bienes jurídicos de especial relevancia
+constitucional, como lo son la libertad de las personas, el debido proceso, el
+acceso a la administración de justicia y los derechos a la verdad, la justicia,
+la reparación y las garantías de no repetición.
+
+151. Para tal efecto, la Corte (a) en primer lugar, identificará si la
+norma jurídica demandada persigue una finalidad constitucionalmente imperiosa;
+(b) analizará si la medida adoptada por el legislador es idónea, es decir si es
+efectivamente conducente para contribuir a alcanzar la finalidad que persigue,
+(c) verificará si es necesaria, pues no existe otra medida alternativa que,
+considerada desde las mismas perspectivas, sea igual o más idónea y que resulte
+menos lesiva del principio de igualdad y no discriminación; y, en caso de que se
+superen los pasos anteriores, (d) determinará si es ponderada o proporcionada
+en estricto sentido, esto es, si los beneficios que implica la adopción de la
+medida suponen una restricción excesiva del derecho a la igualdad y a la no
+discriminación de las personas que presentan una afección de salud consistente
+en una enfermedad y/o trastorno mental.
+
+#### A. Identificación de la finalidad constitucionalmente imperiosa que persigue la disposición normativa demandada
+
+152. De
+acuerdo con una interpretación sistemática, finalística, integral, histórica y
+holística de los artículos 8, 10, 372, 405, 408, 409, 410, 411, 412, 413, 414,
+415, 416, 417, 418, 419, 420, 421, 422 y 423 del Código de Procedimiento Penal[111], se infiere que la finalidad de la prohibición establecida en el
+numeral primero parcial del artículo 409 del Código de Procedimiento Penal es
+garantizar la fiabilidad de la prueba pericial tanto desde un punto de vista
+subjetivo, esto es, la idoneidad del perito o perita, como desde un punto de
+vista objetivo, es decir, la calidad y suficiencia de la información
+científica, técnica o artística especializada.
+
+153. Al
+respecto, debe recordarse que, de conformidad con lo establecido en la Ley 906
+de 2004, Código de Procedimiento Penal, el fin último pretendido por la
+disposición normativa demandada es que el juez obtenga información científica,
+técnica o artística especializada de calidad y suficiente (artículo 405 del del CPP) que le permita llegar a un conocimiento, más allá
+de duda razonable, de los hechos y circunstancias materia del juicio, y de la
+responsabilidad penal del acusado (artículo 372 del
+CPP), a partir de cual pueda dar resolución al proceso respetando los derechos
+fundamentales de las personas que intervienen en el mismo (artículo 10 del CPP).
+
+154. Bajo
+este entendido, el propósito de garantizar la fiabilidad de la prueba pericial
+(desde el punto de vista subjetivo y objetivo) perseguido por el Legislador en
+el numeral primero parcial del artículo 409 del Código de Procedimiento Penal, se
+constituye como un *fin constitucionalmente imperioso*
+puesto que promueve un interés público inaplazable, transversal y urgente[112]: garantizar
+la eficacia en el ejercicio de la administración de justicia, proteger el debido proceso, específicamente, el derecho
+constitucional a presentar pruebas y a controvertir las que se alleguen en su
+contra, así como garantizar un juicio justo
+para las partes a través de la búsqueda de la verdad[113]establecidas
+en el preámbulo y en los artículos 28, 29, 228 y 229 de la Constitución
+Política de Colombia.
+
+#### B. Examen de *idoneidad* de la disposición normativa demandada.
+
+155. El
+examen de *idoneidad* consiste en determinar si la medida establecida por
+el legislador es efectivamente conducente para contribuir a alcanzar la
+finalidad que persigue, es decir, en determinar si el cumplimiento de dicha
+medida contribuye efectivamente a la realización de finalidad que persigue. Al
+respecto, debe anotarse que el Legislador cuenta con un amplio margen de
+configuración para regular los procedimientos y las formas propias de cada
+juicio en que se materializan los derechos de acceso a la justicia y el debido
+proceso, entre ellos los requisitos de procedencia y/o admisibilidad de las
+pruebas.
+
+156. En
+este punto, resulta importante precisar que una medida es efectivamente conducente si: (i) no está prohibida
+por la Constitución[114];
+(ii) es útil y contribuye a alcanzar de forma sustancial y probada las
+finalidades que persigue[115]
+y (iii) si no perjudica la realización de la finalidad que persigue.[116]
+
+157. Bajo
+este entendido, a continuación, la Corte expondrá las razones por las cuales
+encuentra que la norma jurídica demandada no contribuye efectivamente a cumplir
+con la finalidad pretendida e, incluso, su aplicación puede llegar a perjudicar
+la realización de la finalidad que persigue:
+
+*(i)**La disposición normativa demandada supone
+equivocadamente que* *las personas que presentan una afección de
+salud consistente en una enfermedad y/o trastorno mental no pueden tener el
+peso académico, científico o vivencial para ser peritos o peritas, ni tienen la
+capacidad intelectual, cognoscitiva y emocional suficientes para transmitir el
+conocimiento y la información científica, técnica o artística requerida por el
+juez*
+
+158. Al
+respecto, lo primero que debe mencionarse es que, tal y como lo manifiesta la
+Organización Mundial de la Salud: “La salud mental no es un estado binario: no
+estamos ni mentalmente sanos ni mentalmente enfermos. Antes bien, la salud
+mental existe en un complejo proceso continuo con experiencias que abarcan
+desde un estado óptimo de bienestar hasta estados debilitantes de gran
+sufrimiento y dolor emocional. (…) Así como alguien puede tener un trastorno
+físico y estar físicamente en forma, las personas pueden tener un problema de
+salud mental y aun así tener altos niveles de bienestar mental. Esto puede ser
+cierto incluso en caso de un diagnóstico de trastorno grave de salud mental”.[117]
+
+159. Así
+las cosas y teniendo en cuenta lo expresado a lo largo de esta providencia, esta
+Corporación entiende que las personas con afecciones de salud consistentes en trastornos
+y/o enfermedades mentales son un grupo de personas que presentan alteraciones
+en su cognición, regulación emocional o comportamiento como una condición de
+salud particular que hace parte de la diversidad humana.
+
+160. Así
+mismo, para esta Corte, resulta claro que dicha condición de salud: (i) no
+necesariamente implica la existencia de una “situación de discapacidad”, puesto
+que ni siquiera puede llegar a generar algún tipo de barrera para su
+participación en la sociedad y el ejercicio de sus derechos; (ii) puede que a
+su vez conlleve a la existencia de una “situación de discapacidad”, en la
+medida en que, con ocasión de dicha característica particular del individuo, la
+sociedad imponga barreras u obstáculos que impidan su interacción con la
+sociedad y el ejercicio de sus derechos en igualdad de condiciones. En este
+último caso, el Estado tiene la obligación de realizar ajustes razonables para
+lograr una igualdad real en el ejercicio de sus derechos.
+
+161. Bajo
+este entendido, resulta claro que las personas que presentan una afección de salud
+consistente en una enfermedad y/o trastorno mental, que no tienen barreras de
+interacción o adaptación significativas; no solo pueden ser expertos en
+cualquier área del conocimiento científico, técnico o artístico, sino que
+además tienen las capacidades intelectuales, cognoscitivas y emocionales
+suficientes para presentar el informe base de la opinión pericial, interactuar
+con el juez y con las partes y transmitir el conocimiento y la información
+científica, técnica o artística requerida para la resolución del caso.
+
+162. Afirmar
+lo contrario, implicaría inferir, por ejemplo, que una persona que sufre de
+depresión, ansiedad o trastornos obsesivos- compulsivos (con síntomas como:
+limpieza o lavado de manos excesivo, necesidad de verificar repetidamente algunas
+cosas, como si la puerta está cerrada o el horno apagado, contar
+compulsivamente, ordenar y organizar las cosas de una manera particular y
+precisa, etc.), no son aptos para ser peritos, cuando la ciencia ha demostrado
+que dicha singularidad no impide que adquieran conocimientos especializados ni
+que puedan transmitirlos puesto que en muchos casos ni siquiera requieren de
+tratamiento y, en otros, dicha singularidad inclusive podría contribuir
+positivamente a la formación de una experticia en un área del conocimiento
+determinada.
+
+163. Al
+respecto, resulta importante recordar que, de conformidad con lo establecido en
+el DMS-5 de la Asociación Americana de Psiquiatría: “el diagnóstico de un
+trastorno mental no equivale a una necesidad de tratamiento. La necesidad de
+tratamiento es una decisión clínica compleja que debe tomar en consideración la
+gravedad del síntoma, su significado (p. ej. la presencia de ideas de
+suicidio), el sufrimiento del paciente (dolor mental) asociado con el síntoma,
+la discapacidad que implican dichos síntomas, los riesgos y los beneficios de
+los tratamientos disponibles y otros factores”. [118]
+
+164. En
+este mismo sentido, el Ministerio de Salud y Protección Social manifestó que
+“no todas las enfermedades mentales afectan las capacidades cognitivas,
+afectivas o conductuales de la misma manera. (…) Por lo que un tratamiento y
+manejo adecuado de la enfermedad mental pueden minimizar significativamente el
+impacto en la capacidad en sus diferentes áreas de adaptación. Una enfermedad
+mental controlada con un tratamiento adecuado puede permitir que la persona que
+lo sufre pueda llevar a cabo su vida cotidiana de la misma manera que lo hacen
+personas con otras condiciones médicas como hipertensión, diabetes o arritmias”.[119]
+
+165. Adicionalmente,
+como lo ha expuesto el Colegio Colombiano de Psicólogos, los trastornos
+mentales pueden ser transitorios o permanentes. “(…) la diferencia entre una
+enfermedad (trastorno) mental permanente y el trastorno mental transitorio es
+la duración de los signos y síntomas: mientras que en la permanente son, como
+la expresión lo indica, permanentes, es decir son un rasgo permanente que
+identifica a la persona, mientras que la transitoria es la respuesta de la
+persona a eventos concretos que hacen que aparezcan signos y síntomas característicos
+de un trastorno mental”. De tal forma que, las afecciones de salud consistentes
+en enfermedades y/o trastornos mentales ni siquiera se constituyen
+necesariamente como condiciones permanentes y aun cuando lo fueran “(…) una
+persona que presenta un trastorno mental que sea adherente al tratamiento,
+puede ser considerada absolutamente capaz para hacerse cargo de las diferentes
+parcelas de su vida sin la tutela de terceros”.[120]
+
+166. Cierto
+es que la interacción del perito o perita con el juez y las partes se
+constituye como un elemento fundamental de la prueba pericial, razón por la
+cual, criterios como el razonamiento, la resolución de problemas, la
+planificación, el pensamiento abstracto, el juicio, el aprendizaje académico y
+el aprendizaje de la experiencia, se constituyen como criterios válidos a tener
+en cuenta para analizar la idoneidad del perito. Por tanto, cuando no existe
+ninguna barrera que impida o dificulte la interacción entre el juez y el perito
+o cuando dicha situación ha sido superada, la prohibición de que una persona
+con una afección de salud consistente en una enfermedad y/o trastorno mental sea
+perito o perita carece de sustento.
+
+167. Ahora
+bien, en cuanto a la idoneidad del perito o perita, debe destacarse que, en la
+ciencia moderna existen estudios que inclusive demuestran la existencia de una relación
+entre las profesiones artísticas o científicas y las “enfermedades mentales”[121]. Por
+ejemplo, de acuerdo con un estudio realizado por el Departamento de Medicina
+Epidemiológica y Bioestadística del Instituto Karolinska (Suecia), publicado en
+el *J**ournal of Psychiatric Research**[122]**:*
+
+*“*Las personas con
+profesiones creativas reciben tratamiento por enfermedades mentales con mayor
+frecuencia que la población general (…)”.
+
+(…) Los resultados confirmaron los
+de su estudio anterior: cierta enfermedad mental, como el trastorno bipolar, es
+más prevalente en todo el grupo de personas con profesiones artísticas o
+científicas, como bailarines, investigadores, fotógrafos y
+escritores. Los escritores, en particular, también fueron más comunes entre la
+mayoría de las demás enfermedades psiquiátricas (como la esquizofrenia, la
+depresión, el síndrome de ansiedad y el abuso de sustancias) y tenían casi un
+50 % más de probabilidades de suicidarse que la población general.
+
+(…) Los investigadores también
+observaron que las profesiones creativas eran más comunes entre los familiares
+de pacientes con esquizofrenia, trastorno bipolar, anorexia nerviosa y, en
+cierta medida, autismo. Según Simon Kyaga, consultor en psiquiatría y
+estudiante de doctorado del Departamento de Epidemiología Médica y
+Bioestadística, los resultados dan pie a reconsiderar los enfoques de las
+enfermedades mentales.
+
+“Si
+se considera que ciertos fenómenos asociados con la enfermedad del paciente son
+beneficiosos, se abre la puerta a un nuevo enfoque terapéutico”, afirma.
+“En ese caso, médico y paciente deben llegar a un acuerdo sobre qué tratar y a
+qué coste. En psiquiatría y medicina en general, ha existido la tradición de
+ver la enfermedad en términos de blanco o negro y de esforzarse por tratar al
+paciente eliminando todo lo que se considere patológico”.[123] (Énfasis
+añadido)
+
+168. Al respecto, tal y como lo sostiene la psicóloga Kay Redfield
+Jamison y lo replican los profesores Alfonso Escobar y Beatriz Gómez Gonzáles
+del Departamento de Biología Celular y Fisiología del Instituto de
+Investigaciones Biomédicas de la UNAM: “Vale la pena
+mencionar el *libro Touched with Fire: Manic Depressive Illnes and The
+Artistic Temperament* – de autoría de la psicóloga Kay Redfield Jamison – en
+el que la autora hace énfasis en que ese cíclico trastorno mental es común en
+los escritores, que en la fase hipomaniaca el talante eufórico, la fluidez,
+rapidez y flexibilidad del pensamiento por un lado y la habilidad para combinar
+ideas o categorías del pensamiento y la actividad motriz exagerada, conlleva al
+escritor a generar abundantes ideas nuevas originales que facilitan la
+producción literarias, ideas que con análisis y refinamiento más profundo
+durante las fases de melancolía (fases de depresión) conducen a darle calidad
+a la producción del autor. La autora hace mención de múltiples nombres de
+escritores y pintores que fueron diagnosticados con padecer el trastorno
+maniaco depresivo, entre ellos, Vincent Van Gogh, F. Scott Fitzgerald, Edgar
+Allan Poe, George Gordon Lord Byron el poeta”.[124]
+
+169. Como
+puede observarse, la ciencia y la realidad moderna está evidenciando que cada
+vez son más las personas que reconocen que han presentado alguna afección en su
+la salud mental (enfermedades y/o trastornos mentales) y que aquellas que
+ejercen profesiones artísticas o científicas suelen presentar trastornos
+mentales, cognitivos o de comportamiento, los cuales no impiden el ejercicio de
+su profesión. Por el contrario, dada la diversidad de los seres humanos, dichas
+singularidades pueden llegar incluso a impulsar su experticia en una
+determinada área del conocimiento.
+
+170. Al
+respecto, también es importante resaltar que, según la Organización Mundial de
+la Salud (OMS): “En 2019, una de cada ocho personas en el mundo
+(lo que equivale a 970 millones de personas) padecían un trastorno mental. Los
+más comunes son la ansiedad y los trastornos depresivos (1), que en 2020
+aumentaron considerablemente debido a la pandemia de COVID-19; las estimaciones
+iniciales muestran un aumento del 26% y el 28% de la ansiedad y los trastornos
+depresivos graves en solo un año. Aunque existen opciones eficaces de
+prevención y tratamiento, la mayoría de las personas que padecen trastornos
+mentales no tienen acceso a una atención efectiva. Además, muchos sufren
+estigma, discriminación y violaciones de los derechos humanos”. En Colombia, la “Encuesta de percepción de los colombianos
+sobre la salud mental, su cuidado y valoración” realizada por el Ministerio de
+Salud y Protección Social en el año 2023, reveló que “El 66,3% de los
+colombianos declara que en algún momento de su vida ha enfrentado algún
+problema de salud mental”.[125]
+
+171. Ahora
+bien, desde un punto de vista lógico y probabilístico, resulta adecuado inferir
+que prohibir de manera general y absoluta el nombramiento como peritos o
+peritas a personas que presentan ciertas afecciones de salud mental
+(enfermedades y/o trastornos mentales) puede llegar a restringir errónea y
+abruptamente la posibilidad de que el juez obtenga información científica,
+técnica o artística especializada y fiable que le permita obtener un
+conocimiento, más allá de duda razonable, de los hechos y circunstancias
+materia del juicio, y de la responsabilidad penal del acusado a partir de cual
+pueda dar resolución al proceso; puesto que dicha información ni siquiera le
+sería transmitida ni comunicada al juez ya que se descarta de plano al perito
+o perita solo por el hecho de tener una afección en su salud mental sin
+importar si esta puede afectar o no su desempeño en tal cargo. Piénsese, por
+ejemplo, en personas de público y conocido reconocimiento en la comunidad
+científica o artística que por el hecho de tener ansiedad, depresión o
+trastornos como el Trastorno por Déficit de Atención con Hiperactividad (TDAH) o Trastornos Bipolares no podrían ser nombrados
+peritas o peritos, aun cuando tienen todas las competencias y aptitudes
+profesionales para desarrollar una labor científica, técnica y artística, aun
+cuando son admiradas y reconocidas como expertos en un área de la ciencia o el arte
+y aun cuando son referentes académicos y profesionales a quienes sus pares
+quieren escuchar y de quienes quieren aprender.
+
+172. Descartar
+de plano la posibilidad de que los profesionales y técnicos que presentan una
+afección de salud mental (enfermedad y/o trastorno mental) puedan ser nombrados
+como peritos o peritas en un proceso penal puede conllevar a que el juez penal
+se prive de valorar información científica, técnica y/o artística de calidad,
+que sea proferida por personas que, aun con esta condición particular, son
+reconocidas y admiradas como expertas en un área de conocimiento específico, lo
+cual perjudicaría el fin último del proceso penal que es la realización de un
+juicio justo y la búsqueda de la verdad de los hechos objeto de litigio para
+lograr una efectiva administración de justicia.
+
+173. Además,
+en relación con las personas que presentan una afección de salud mental
+(enfermedad y/o trastorno mental), que a su vez se encuentran en una situación
+de discapacidad, debe advertirse que, de conformidad con lo
+establecido en la Constitución Política de Colombia y en la Convención sobre
+los Derechos de las Personas con Discapacidad, estas personas tienen el
+derecho a que se adopten los ajustes razonables necesarios para eliminar las
+barreras que les impidan comunicar la información científica, técnica o
+artística especializada al juez penal.
+
+174. Al respecto, debe recordarse que la Convención sobre los Derechos
+de las Personas con Discapacidad establece claramente que los estados tienen el
+deber de adoptar todas las medidas pertinentes para asegurar la realización de
+los ajustes razonables y que la denegación de ajustes razonables se constituye como una forma
+de discriminación (artículo 5).
+
+175. Así mismo, debe reiterarse que, en aras de dar cumplimiento a esta
+obligación convencional y constitucional, el Legislador expidió la Ley
+1996 de 2019. De acuerdo con este instrumento normativo, los ajustes razonables
+deben entenderse como: “aquellas modificaciones y adaptaciones que no impongan
+una carga desproporcionada o indebida, cuando se requieran en un caso
+particular, para garantizar a las personas con discapacidad el goce o
+ejercicio, en igualdad de condiciones que las demás, de todos los derechos
+humanos y libertades fundamentales”. Para tal efecto, vale la pena mencionar
+que la mencionada Ley, promueve el uso de “apoyos” para el ejercicio de la
+capacidad legal de las personas en situación de discapacidad, los cuales pueden
+incluir “la asistencia en la comunicación, la asistencia para la comprensión de
+actos jurídicos y sus consecuencias, y la asistencia en la manifestación de la
+voluntad y preferencias personales” (artículo 3.4).
+
+176. En conclusión, como lo ha mencionado esta Corporación en
+oportunidades anteriores, el Estado tiene el deber de realizar los ajustes
+razonables y de realizar las modificaciones y adaptaciones necesarias adecuadas
+para garantizar el goce y el ejercicio de los derechos de las personas en
+situación de discapacidad, esto, con el fin de “impedir
+abusos y garantizar la primacía de la voluntad y las preferencias de la persona
+titular del acto jurídico”[126],
+lo cual incluye la realización de los ajustes razonables y la promoción de los
+apoyos necesarios para el ejercicio de las funciones del cargo de perito o
+perita.
+
+177. En
+esta medida, se concluye que la disposición normativa demandada no es conducente,
+en términos de eficacia, eficiencia, temporalidad o probabilidad, para alcanzar
+la finalidad que persigue. Por el contrario, su adopción puede ir en perjuicio
+de la finalidad pretendida puesto que*: (i)* descarta de plano la
+posibilidad de que una persona con una afección de salud mental que no requiere
+de tratamiento alguno pero que cuenta con los conocimientos científicos,
+técnicos y/o artísticos especializados, que incluso goce de reconocimiento
+científico pueda ser nombrado perito o perita; *(ii)* descarta de plano la
+posibilidad de que una persona con una afección de salud mental que se
+encuentra en un tratamiento médico o psiquiátrico exitoso que le permite
+superar barreras de interacción que le son impuestas por la sociedad pueda ser
+nombrado perito o perita; *(iii)* podría inclusive llegar a ser una norma
+contra fáctica puesto que estudios científicos recientes han demostrado que las
+personas que ejercen profesiones creativas, científicas reciben tratamiento por
+afecciones de salud (trastornos y/o enfermedades mentales) con mayor frecuencia
+que la población general.
+
+178. Para
+esta Corte, es claro que la incidencia de una afección de salud mental
+(trastornos y/o enfermedades mentales) como criterio a tener en cuenta para
+garantizar la fiabilidad de la prueba pericial debe ser analizada en cada caso
+en particular puesto que es una condición singular que varía en cada persona.
+Presumir que una persona que presenta una afección mental no tiene las
+calidades para ser perito implica despojar al juez de la posibilidad de tener
+mayores elementos de juicio para tomar una decisión justa.
+
+*(ii)* *La disposición normativa demandada se configura
+como una barrera normativa* *que impide el ejercicio de los
+derechos fundamentales a la dignidad humana, a la igualdad y a la personalidad
+jurídica de quienes presentan una afección de salud mental*
+
+179. Tal
+y como lo menciona la Universidad Externado de Colombia, la disposición normativa
+demandada parte de una premisa falsa que le hace llegar a una conclusión
+contraria a la Constitución (falacia argumentativa *non sequitur*): no se
+sigue que el presentar una afección de salud mental (enfermedad y/o trastorno
+mental) siempre implique que una persona vea afectado su conocimiento
+especializado o su capacidad de emitir conceptos objetivos e idóneos, ni
+tampoco su capacidad de rendir declaración en juicio. “En efecto, es
+perfectamente plausible que una persona tenga una divergencia cognitiva, que,
+si bien pueda afectar en cierto grado su capacidad mental, dicha afectación no
+necesariamente impida que la persona pueda ser idónea para ser perito, esto es,
+que tenga conocimientos expertos en una ciencia, arte u oficio, cuya adecuada
+aportación al proceso permita demostrar la hipótesis de la defensa o la
+Fiscalía”.[127]
+
+180. Así
+las cosas, la prohibición general establecida por el legislador en el numeral
+primero parcial del artículo 409 de la Ley 906 de 2004, Código de Procedimiento
+Penal, consistente en que, en ningún caso, las personas que presentan una
+afección de salud mental (enfermedad y/o trastorno mental) pueden ser nombras
+peritos o peritas se constituye como una barrera normativa que impide el
+ejercicio de los derechos fundamentales a la dignidad humana, a la igualdad y a
+la personalidad jurídica de quienes presentan estas condiciones particulares de
+salud.
+
+181. En
+esta línea, la prohibición establecida en la disposición normativa demandada se
+constituye como una barrera normativa que vulnera el derecho fundamental a la
+dignidad humana puesto que impide que las personas que presentan ciertas
+condiciones de salud particulares no puedan desarrollar su plan de vida, en igualdad de oportunidades, con el respeto y apoyo del Estado y
+la sociedad, siendo valorados como únicos con un valor intrínseco por el hecho
+de ser seres humanos.
+
+182. Así
+mismo, vulnera el derecho fundamental a la igualdad puesto que promueve un
+trato manifiestamente discriminatorio contra un grupo de personas por el solo
+hecho de que tienen una particularidad propia de la diversidad: una afección a
+su salud consistente en una enfermedad y/o trastorno mental. Al respecto debe
+tenerse en cuenta que ningún ser humano es superior a otro, mucho menos por el
+hecho de tener o no una enfermedad y/o trastorno mental.
+
+183. De
+igual manera, la disposición normativa demandada vulnera el derecho fundamental
+a la personalidad jurídica, puesto que niega un atributo que todos los seres
+humanos poseen solo por el simple hecho de ser seres humanos: la capacidad
+jurídica. En efecto, la disposición normativa acusada, restringe
+injustificadamente la potestad que tienen todos los sujetos de derecho para
+ejercer derechos, dar cumplimiento a deberes y contraer obligaciones. Particularmente,
+para realizar ciertos actos jurídicos relacionados con las funciones propias
+del cargo de perito o perita, como lo es emitir opiniones científicas, técnicas
+o artísticas en el marco de un proceso penal.
+
+184. Desde
+esta perspectiva, la prohibición absoluta contenida en el artículo 409 del
+Código de Procedimiento Penal constituye en sí misma una barrera normativa que
+genera discapacidad, al impedir que personas con un diagnóstico de salud mental
+sean designadas como peritos, indistintamente de su tratamiento médico o de su
+necesidad de apoyos o ajustes.
+
+185. Adicionalmente,
+en relación con las personas que presentan una afección de salud mental, que previamente
+se encontraban en una situación de discapacidad, la norma jurídica demandada se
+configura como una barrera normativa que contraria la presunción de capacidad
+de ejercicio consagrada en la Ley 1996 de 2019, la cual se funda en los
+principios de dignidad e igualdad y no discriminación consagrados en los
+artículos 1 y 13 de la Constitución Política de 1991.
+
+186. Al
+respecto, debe recordarse que, tanto la Constitución Política de Colombia como
+el Bloque de Constitucionalidad reconocen que:
+
+-
+La discapacidad debe ser comprendida desde un punto de vista relacional
+(modelo social) como una situación que la sociedad le impone a los individuos a
+través de barreras ambientales, sociales, físicas, normativas y culturales que
+le impiden interactuar y participar plena y efectiva, en igualdad de
+condiciones con los demás miembros de la sociedad.
+
+-
+Una persona en situación de discapacidad mental puede presentar un mayor
+o menor nivel de interacción con la sociedad dependiendo del nivel de
+limitación, la magnitud de las restricciones y la intensidad de las barreras
+que la sociedad le impone para lo cual debe analizarse la singularidad de cada
+sujeto.
+
+-
+El estado y la sociedad tienen el deber de remover las barreras que
+impiden el ejercicio de las personas en situación de discapacidad en igualdad
+de condiciones o establecer mecanismos dirigidos a que las personas en
+situación de discapacidad puedan superar los obstáculos que la sociedad
+tradicionalmente le han impuesto, que han limitado el ejercicio de sus derechos
+y que los han puesto en una situación tradicional e histórica de
+discriminación.
+
+-
+En cumplimiento y desarrollo de los principios de igualdad y dignidad
+humana, el ordenamiento jurídico colombiano establece una presunción de la
+capacidad de goce y de ejercicio de las personas en situación de discapacidad.
+
+-
+La protección de la capacidad de ejercicio de las personas en situación
+de discapacidad implica que el ordenamiento jurídico colombiano propende porque
+las personas en situación de discapacidad puedan manifestar su voluntad por sí
+mismas, sin necesidad de la validación de terceros, y por tanto que puedan
+elegir y ejercer el trabajo, oficio o labor que elijan.[128]
+
+-
+En caso de que las personas en situación de discapacidad así lo
+consideren pueden contar con apoyos para facilitar el ejercicio de su capacidad
+legal de ejercicio, inclusive su capacidad laboral.
+
+-
+Desde un punto de vista axiológico e histórico, el mismo Legislador ha
+propendido por la protección de los derechos de las personas en situación de
+discapacidad, hasta el punto de determinar expresamente que: “En ningún caso la
+existencia de una discapacidad podrá ser motivo para la restricción de la
+capacidad de ejercicio de una persona” (Ley 1996 de 2016)
+
+187. Al
+respecto, se reitera que, con fundamento en los principios constitucionales de
+dignidad humana e igualdad, el Legislador expidió la Ley 1996 de 2019 con el
+objeto de: “establecer medidas específicas para la garantía del derecho a la
+capacidad legal plena de las personas con discapacidad, mayores de edad, y al
+acceso a los apoyos que puedan requerirse para el ejercicio de la misma”. Esta
+Ley, en su artículo cuarto, expresamente dispone que uno de los principios bajo
+los cuales debe actuar el estado y la ciudadanía es la igualdad de
+oportunidades, en virtud del cual: “En todas las actuaciones se deberá buscar
+la remoción de obstáculos o barreras que generen desigualdades de hecho que se
+opongan al pleno disfrute de los derechos de las personas con discapacidad.”
+
+188. Conforme a lo expuesto, esta Corte encuentra que el numeral
+primero parcial del artículo 409 de la Ley 906 de 2004 demandado se constituye
+como una barrera normativa que impide a las personas en situación de
+discapacidad puedan ejercer de manera plena sus derechos en igualdad de
+condiciones a los demás miembros de la sociedad, puesto que parte de una
+premisa falsa para llegar a una conclusión contraria a la Constitución, esta
+es, entender que el hecho de que una persona se encuentre en una situación de
+discapacidad mental implica necesariamente que no puede tener los conocimientos o la capacidad de emitir conceptos científicos,
+técnicos y/o artísticos especializados.
+
+189. Como
+conclusión del examende *idoneidad*, para esta Corporación, la
+prohibición general de que las personas que presentan una afección de salud
+mental consistente en un trastorno y/o enfermedad mental puedan ser nombrados
+como peritos o peritas; no se constituye como una
+medida idónea para cumplir la finalidad que persigue
+puesto que no contribuye efectivamente a garantizar la fiabilidad de la prueba
+pericial en el proceso penal e inclusive puede llegar a perjudicar la
+realización de la finalidad que persigue toda vez que podría impedir que el
+juez conozca información científica, técnica y/o artística de calidad que le
+permita llegar a un conocimiento, más allá de duda
+razonable, de los hechos y circunstancias materia del juicio, y de la
+responsabilidad penal del acusado a partir de cual pueda dar resolución al
+proceso.
+
+#### C. Examende *necesidad* de la disposición normativa demandada
+
+190.
+Aunque es evidente que la disposición normativa demandada no superó el
+examen de idoneidad o adecuación, con lo cual bastaría para declarar su inconstitucionalidad;
+por razones de suficiencia argumentativa y en consideración de la importancia
+de la prueba pericial en el proceso penal, esta Corporación procederá a
+efectuar el examen de *necesidad,* con el fin de exponer, de manera clara
+y exhaustiva, las razones por las cuales la Corte concluye que la disposición
+normativa acusada tampoco se constituye como una medida necesaria para
+garantizar la finalidad que persigue: la fiabilidad de la prueba pericial.
+
+191.
+Para efectos de realizar el examende necesidad, esta Corte
+verificará si existen otras medidas alternativas, diferentes a la prohibición
+establecida en el numeral primero parcial del artículo 409 de la Ley 906 de
+2004, Código de Procedimiento Penal, que de ser cumplidas permitirían
+igualmente garantizar la fiabilidad de la prueba pericial tanto desde un punto
+de vista subjetivo como objetivo y, por ende, resultarían menos lesivas del
+principio de igualdad y no discriminación.
+
+192. Como
+ya se mencionó, la disposición normativa demandada, en virtud de la cual: “Las
+personas que presenten una afección de salud consistente en un trastorno y/o
+enfermedad mental en ningún caso podrán ser nombradas peritos o peritas”, tiene
+como finalidad garantizar la fiabilidad de la prueba pericial tanto desde un
+punto de vista subjetivo, esto es, que “la prueba experta sea ofrecida por
+quien tiene el peso académico, intelectual, científico o vivencial suficiente”[129], como desde
+un punto de vista objetivo, es decir, que la información científica, técnica o
+artística especializada sea de calidad, para que a partir de la misma el juez
+pueda llegar a un conocimiento, más allá de duda razonable, de los hechos y
+circunstancias materia del juicio, y de la responsabilidad penal del acusado, a
+partir de cual pueda dar resolución al proceso.
+
+193. En
+cuanto a la idoneidad del perito (fiabilidad subjetiva), lo primero que debe
+señalarse es que esta no es la única medida que contempla el Código de
+Procedimiento Penal para garantizar que la prueba experta sea ofrecida por
+quien tiene el peso académico, intelectual, científico o vivencial suficiente[130]. Por el
+contrario, la disposición normativa acusada hace parte de un conjunto de reglas
+a través de las cuales el legislador estableció los criterios, condiciones y
+requisitos que deben cumplir las personas naturales que pretendan ser designadas
+como peritos o peritas, las cuales se enunciarán a continuación:
+
+-
+Deben contar con título legalmente reconocido en la respectiva ciencia,
+técnica o arte (artículo 408 del CPP).
+
+-
+En circunstancias diferentes, podrán ser nombradas las personas de
+reconocido entendimiento en la respectiva ciencia, técnica, arte, oficio o afición,
+aunque carezca de título (artículo 408 del CPP).
+
+-
+Deben ser mayores de dieciocho (18) años (artículo 409 del CPP).
+
+-
+No pueden estar suspendidos en el ejercicio de la respectiva ciencia,
+técnica o arte. (artículo 409 del CPP).
+
+-
+No pueden haber sido condenados por algún delito, a menos que se
+encuentren rehabilitados (artículo 409 del CPP).
+
+-
+Deben presentar una certificación de idoneidad (artículo 413 del CPP).
+
+-
+Debe acreditar o certificar su conocimiento teórico sobre la ciencia,
+técnica o arte en que es experto; los antecedentes que acrediten su
+conocimiento en el uso de instrumentos o medios en los cuales es experto; los
+antecedentes que acrediten su conocimiento práctico en la ciencia, técnica,
+arte, oficio o afición aplicables (numerales 1, 2, 3 del artículo 417 del CPP).
+Para efectos de la acreditación de las cualidades del perito, pueden utilizarse
+todos los medios de prueba admisibles, por ejemplo: certificados de experiencia
+profesional y/o técnica, certificados de experiencia docente, textos académicos
+de autoría propia publicados, títulos de posgrado, certificados académicos de
+educación continuada (diplomados, cursos, capacitaciones) e inclusive el
+testimonio del mismo perito (artículo 408 del CPP).
+
+-
+Adicionalmente, el artículo 410 del Código de Procedimiento Penal
+establece que quien sea nombrado como perito “(…) sólo podrá excusarse por
+enfermedad que lo imposibilite para ejercerlo, por carencia de medios
+adecuados para cumplir el encargo, o por grave perjuicio a sus intereses”. Al
+respecto, resulta importante precisar que, de acuerdo con lo establecido en la
+Ley 906 de 2004, son las partes quienes postulan a los peritos o peritas (artículos
+413 y 414 del CPP) y la obligatoriedad del cargo de perito únicamente es de
+forzosa aceptación tratándose de servidores públicos (Artículo 410 C.P.P).
+
+194. Como
+puede observarse, el Código de Procedimiento Penal tiene todo un conjunto de
+medidas dirigidas a garantizar que el perito tenga el peso académico,
+intelectual, científico o vivencial suficiente, así como su capacidad
+intelectual, cognoscitiva y emocional. Además, en el caso de que la persona que
+vaya a ser nombrada perito o perita considerara que su afección de salud (enfermedad
+y/o trastorno mental) y/o su discapacidad pueden comprometer el ejercicio de
+sus labores o imposibilitarlo para ejercer dicho cargo cuenta con distintas
+oportunidades y medios para comunicar dicha situación al juez de conocimiento. Esta
+serie de medidas dispuestas por el legislador evidentemente resultan menos
+lesivas del principio a la igualdad que la prohibición o restricción general
+para ejercer el cargo de perito o perita, siempre y cuando se desarrollen en
+marco del respeto de los derechos a la intimidad, al habeas data y a la honra
+de la persona.
+
+195. Así
+las cosas, para esta Corporación resulta claro que la prohibición general de
+que las personas que presentan una afección de salud consistente en una
+enfermedad y/o trastorno mental puedan ser nombradas peritos o peritas, no se
+constituye como una medida necesaria para garantizar la fiabilidad de la prueba
+pericial desde un punto de vista subjetivo puesto que, de conformidad con lo
+establecido en el Código de Procedimiento Penal (Ley 906 de 2004), por la
+jurisprudencia de la Sala Penal de la Corte Suprema de Justicia y con lo
+expuesto a lo largo de esta providencia; el ordenamiento jurídico colombiano
+establece diferentes reglas dirigidas a garantizar la idoneidad de los peritos,
+es decir, la fiabilidad de la prueba pericial desde una perspectiva subjetiva,
+las cuales hacen prescindible la medida legislativa demandada.
+
+196. Ahora
+bien, en cuanto a la calidad de la información científica, técnica o artística
+especializada (fiabilidad objetiva), además de las reglas establecidas respecto
+de la idoneidad del perito (fiabilidad subjetiva), el Código de Procedimiento
+Penal establece una serie de reglas dirigidas a garantizar que la información
+científica, técnica y/o artística especializada que el perito le transfiere o
+comparte al juez sea de calidad, legítima y suficiente.
+
+197. En
+otras palabras, no basta con que el perito o perita acredite las calidades,
+cualidades, habilidades y experiencia para el cargo para que la prueba pericial
+se entienda fiable, pues, además, la información que aporta debe contribuir
+objetiva y efectivamente a que el juez pueda tener un conocimiento sobre los
+hechos, circunstancias materia del juicio y los de la responsabilidad penal del
+acusado más allá de toda duda razonable.
+
+198. El
+perito no es un juez, la función del perito es transmitirle un conocimiento
+científico, técnico y/o artístico especializado al juez para que él, a partir
+del mismo, sea quien resuelva el caso. El juez es el administrador de justicia,
+no el perito. Es por ello por lo que el que el ordenamiento jurídico colombiano
+prevé una serie de mecanismos para que el juez valore, contraste y controle los
+conceptos o dictámenes de los peritos en aras de determinar si la información
+que presenta es fiable o adecuada para ser tenida en cuenta a efectos de tomar
+una decisión judicial, los cuales se señalarán a continuación:
+
+-
+La declaración oral del perito o perita en el juicio es una condición
+necesaria para que el informe pericial sea admisible. “En ningún caso el
+informe pericial será admisible como evidencia, si el perito no declara
+oralmente en el juicio.” (artículo 215 del CPP).
+
+-
+El perito o perita está obligado a presentar el informe base de opinión
+pericial, el cual es un informe resumido en donde expresa la base de la opinión
+pedida por la parte que propuso la práctica de la prueba. (artículo 215 del
+CPP).
+
+-
+Dicho informe debe ser puesto en conocimiento de las demás partes al
+menos con cinco (5) días de anticipación a la celebración de la audiencia
+pública en donde se rendirá el peritaje. (artículo 215 del CPP).
+
+-
+Los peritos o peritas sólo serán interrogados y contrainterrogados en la
+audiencia del juicio oral y tendrán acceso a los elementos materiales
+probatorios y evidencia física a que se refiere el informe pericial o a los que
+se hará referencia en el interrogatorio (artículo 416 del CPP).
+
+-
+El perito o perita debe ser interrogado (i) sobre los principios científicos,
+técnicos o artísticos en los que fundamenta sus verificaciones o análisis y
+grado de aceptación; (ii) sobre los métodos empleados en las investigaciones y
+análisis relativos al caso; (iii) sobre si en sus exámenes o verificaciones
+utilizó técnicas de orientación, de probabilidad o de certeza, en este caso, deben
+precisar el nivel de probabilidad o factibilidad de sus conclusiones; (iv)
+sobre los principios científicos, técnicos o artísticos en los que fundamenta
+sus verificaciones o análisis y grado de aceptación; (v) sobre los métodos
+empleados en las investigaciones y análisis relativos al caso, (vi) sobre si en
+sus exámenes o verificaciones utilizó técnicas de orientación, de probabilidad
+o de certeza, (vii) La corroboración o ratificación de la opinión pericial por
+otros expertos que declaran también en el mismo juicio, entre otros (artículo
+417 del CPP).
+
+-
+El perito o perita debe responder de forma clara y precisa las preguntas
+que le formulen las partes. Para este fin, tiene, el derecho de consultar
+documentos, notas escritas y publicaciones con la finalidad de fundamentar y
+aclarar su respuesta. (artículo 417 del CPP).
+
+-
+El perito o perita puede ser contrainterrogado por la contraparte con la
+finalidad de refutar, contradecir o desmentir, en todo o en parte, lo que le ha
+informado al juez. Para ello, la contraparte puede utilizar cualquier argumento
+sustentado en principios, técnicas, métodos o recursos acreditados en
+divulgaciones técnico científicas calificadas, referentes a la materia de
+controversia (artículo 418 del CPP).
+
+-
+El juez puede desestimar la pericia
+en la sentencia por exhibir escaso valor probatorio (artículo 420 del CPP).
+
+-
+La Fiscalía y defensa cuentan también con la posibilidad de ofrecer
+pruebas de refutación (artículo 362 del CPP), para atacar la fiabilidad de la
+prueba pericial. Esto, porque de conformidad con el artículo 405 del CPP, a la
+prueba pericial le son aplicables las reglas del testimonio. Al respecto, se
+pone de presente que el pronunciamiento de la Sala de Casación Penal de la
+Corte Suprema de Justicia en la decisión SP2582 de 2019, donde explicó que:
+“[…] la presentación de la prueba de refutación es una herramienta adicional -y
+residual- para la impugnación de la credibilidad […], que debe armonizarse con
+los principios de concentración e inmediación, entre otros, así como con la
+obligación de garantizar que la justicia sea célere y eficaz, por lo que no se
+trata de prueba orientada a soportar la teoría del caso de una de las partes
+sino a atacar o demeritar el valor del testimonio de quien rinde la
+declaración”[131]
+
+199. Como
+se puede advertir, resulta claro que el legislador buscó garantizar la
+fiabilidad de la prueba pericial desde un punto de vista objetivo, es decir la calidad y suficiencia de la información
+científica, técnica, artística o especializada que el perito o perita le
+transmite al juez, estableciendo: (i) la obligatoriedad de
+la declaración del perito en el juicio; (ii) las reglas relacionadas con la
+interrogación del perito o perita en el juicio; y (iii) las reglas relacionadas
+con el contrainterrogatorio del perito o perita.
+
+200. Como
+lo menciona la Sala Penal de la Corte Suprema de Justicia: del experto se
+espera que, en cuanto sea posible, traduzca al lenguaje cotidiano los aspectos
+técnicos, de tal suerte que el Juez: (i) identifique y comprenda la regla que
+permite el entendimiento de unos hechos en particular; (ii) sea consciente del
+nivel de generalidad de la misma y de su aceptación en la comunidad científica;
+(iii) comprenda la relación entre los hechos del caso y los principios que se
+le ponen de presente; (iv) pueda llegar a una conclusión razonable sobre el
+nivel de probabilidad de la conclusión.[132]
+
+201. A
+partir del ejercicio de la declaración en audiencia, del interrogatorio y del
+contrainterrogatorio, es que el Juez puede valorar racionalmente si la
+información científica, técnica y/o artística especializada es fiable o no,
+puesto que en este escenario es cuando el juez tiene la oportunidad de evaluar,
+contrastar y controlar: (a) la legitimidad de las fuentes de información del
+perito o perita, (b) la explicación del perito, su claridad y coherencia argumentativa
+(c) la veracidad de sus afirmaciones y (d) la suficiencia de sus respuestas.
+
+202. Para
+esta Corte es claro que, aun cuando el perito o perita tenga las credenciales
+exigidas por el ordenamiento jurídico, cuente con experiencia profesional, e
+incluso goce de amplio reconocimiento en su campo de conocimiento, podría utilizar
+métodos o técnicas cuestionables, incurrir en errores en su razonamiento,
+omitir u olvidar información importante o transmitir información sesgada (sesgos
+cognitivos).
+
+203. Si
+el juez no realiza una valoración sobre las fuentes de información, los métodos,
+razonamientos y conclusiones del perito o perita, sino que simplemente da por
+cierto el conocimiento que este expresa por el simple hecho de que dicho
+conocimiento proviene de un “experto en una materia”, podría incurrir en un error
+argumentativo que comprometería su razonamiento y su decisión final,
+consistente en dar por creíble una información que puede ser falsa, inexacta,
+imprecisa o incoherente (falacia *ad verecundiam)*. Es por ello por lo
+cual es un deber del juez valorar la fiabilidad de la información que el perito
+o perita le suministra utilizando las herramientas que para tal propósito prevé
+el ordenamiento jurídico.
+
+204. Para
+el caso de la valoración de la prueba pericial cuando el perito o perita presenta
+una afección de salud mental (enfermedad y/o trastorno mental), el Código de
+Procedimiento Penal prevé distintas oportunidades para que el juez determiné la
+fiabilidad de la información científica, técnica o artística especializada que
+el perito le transmita:
+
+(i)
+El perito presente o no una afección de salud mental (enfermedad y/o
+trastorno mental) está obligado a presentar el informe base de opinión pericial;
+
+(ii)
+En caso de que el informe base de opinión pericial sea legible y no se
+entienda manifiestamente desacertado, el perito o perita presente o no una
+afección de salud mental debe asistir a la audiencia pública, debe presentar
+declaración sobre la información científica técnica o artística para la cual
+fue solicitado su concepto;
+
+(iii)
+El perito o perita presente o no una afección de salud debe responder
+las preguntas que efectué el juez para comprender la información y/o su opinión
+y
+
+(iv)
+El perito o perita presente o no una afección de salud mental debe
+responder las preguntas de las partes y demostrar la veracidad y suficiencia de
+sus afirmaciones y conclusiones.
+
+205. Si
+el informe base de opinión pericial presenta incongruencias evidentes o es
+inteligible, si el perito con una afección de salud mental en la declaración no
+puede transmitirle la información al juez de manera efectiva, si la información
+que transmite el perito al juez es incongruente, incoherente o sesgada; el juez
+podrá desestimar la pericia en la sentencia por exhibir escaso valor
+probatorio, para lo cual, debe tener en cuenta las reglas de apreciación de la
+prueba pericial establecidas en el Código de Procedimiento Penal,
+particularmente, aquellas enunciadas en el artículo 420.
+
+206. Adicionalmente,
+si una de las partes advierte que el perito o perita no se encuentra en
+condiciones mentales adecuadas al momento de suscribir la base de la opinión
+pericial o de declarar ante el juez, estas pueden hacer uso de otras
+herramientas jurídicas, incluyendo la prueba de refutación, para restarle valor
+a la prueba pericial. Está situación, aunque se plantea en términos generales,
+resulta menos lesiva del principio de igualdad que impedir por completo que las
+personas que presentan una afección de salud consistente en una enfermedad y/o
+trastorno mental ejerzan labores como peritos o peritas.
+
+207. Como
+lo reconoció esta Corporación en la Sentencia C-301 de 2023, la deferencia que
+la autoridad judicial pueda tener hacia las declaraciones de los expertos: “no
+releva al juez de su función de valorar la prueba y decidir de conformidad con
+tal valoración”. Es por ello por lo que el juez, quien funge como perito de
+peritos, debe realizar una valoración racional de la prueba pericial en sí
+misma y una valoración integral de la prueba pericial en relación con los otros
+medios de conocimiento que le ponen de presente, en aras de realizar un debido
+ejercicio de apreciación probatoria.
+
+208. En
+relación con las personas que presentan una afección de salud mental
+(enfermedad y/o trastorno mental), que a su vez se encuentran en una situación
+de discapacidad, se reitera que, además de todos los mecanismos con los que
+cuenta el juez para verificar la fiabilidad de la prueba pericial, las personas
+en situación de discapacidad tienen el derecho de que se adopten los ajustes
+razonables necesarios para eliminar las barreras que les impidan comunicar la
+información científica, técnica o artística especializada al juez, así como
+presentar el informe base de la opinión pericial y participar en las audiencias y todas aquellas etapas procesales previstas en
+el Código de Procedimiento Penal a las que haya a lugar.
+
+209. Ahora bien, al igual que en la Sentencia C-513 de 2024, vale la
+pena resaltar que la Sala Plena no desconoce que puedan existir realidades que
+eventualmente puedan tornar incompatible o insuperable la situación de
+discapacidad con el desempeño del cargo de perito o perita. No obstante, ello
+no es óbice para que se encuentre justificada una prohibición general para que
+una persona pueda ser nombrada en el cargo de perito o perita con fundamento
+en un criterio sospechoso de discriminación como lo es la condición de salud
+mental de las personas. Pues bien, una cosa es concluir en cada caso puntual
+que la discapacidad es incompatible o insuperable con la finalidad de la prueba
+pericial y otra muy distinta es establecer una prohibición general para que
+cualquier persona en situación de discapacidad pueda ser nombrado y, por tanto,
+pueda ejercer labores como perito o perita. Más aun cuando una disposición normativa
+de este tipo, que establece una prohibición absoluta, elimina la posibilidad de
+emplear ajustes razonables que permitan superar las barreras cognoscitivas,
+actitudinales, comunicativas o comportamentales que pueda presentar el perito o
+la perita. Corresponde al juez, evaluar en cada caso
+si existen o no ajustes razonables que le permitan al perito o perita
+comunicarle un conocimiento científico, técnico o artístico en el desarrollo de
+un proceso penal.
+
+210. Bajo
+este entendido, una disposición normativa que descarta de plano la opinión de
+un perito por el hecho de presentar una afección de salud mental (enfermedad y/o
+trastorno mental) resulta innecesaria, puesto que tal y como ha quedado
+evidenciado el ordenamiento jurídico colombiano prevé una serie de medidas que
+de ser cumplidas garantizarían de mejor manera el cumplimiento del fin
+perseguido sin lesionar el principio de igualdad y no discriminación.
+
+211. En
+conclusión, tras el examen de
+la *necesidad*, esta Corporación encuentra que la prohibición general de
+que las personas que presentan una afección de salud consistente en un trastorno
+y/o enfermedad mental puedan ser nombrados como peritos o peritas, no se constituye como una medida necesaria para garantizar
+la fiabilidad de la prueba pericial ni desde un punto de vista subjetivo, ni
+desde un punto de vista objetivo, puesto que el Código de Procedimiento Penal
+(Ley 906 de 2004) establece diferentes reglas dirigidas a garantizar tanto la
+idoneidad del perito o perita como la calidad y suficiencia de la información
+científica, técnica y/o artística especializada. Particularmente, los
+escenarios adecuados para que el juez determine racionalmente si dicha
+información es o no fiable son, la declaración del perito en audiencia, el
+interrogatorio y el contrainterrogatorio.
+
+### 4.3. Conclusión
+
+212.
+Por las razones expuestas, esta Corporación concluye que la disposición
+normativa demandada contraría lo dispuesto en el artículo 13 de la Constitución
+Política de Colombia y las normas concordantes que integran el Bloque de
+Constitucionalidad, puesto que aun cuando persigue una finalidad
+constitucionalmente imperiosa, no se configura como una medida idónea ni mucho
+menos necesaria para garantizar la finalidad que persigue: la fiabilidad de la
+prueba pericial.
+
+213.
+En particular, esta Corporación destaca que la prohibición general de
+que las personas que presentan una afección de salud consistente en trastorno y/o
+enfermedad mental puedan ser nombradas peritos o peritas:
+
+i.
+Supone, de manera errónea, que las personas que hacen parte de
+dicho grupo poblacional no pueden contar con los conocimientos científicos,
+técnicos y/o artísticos de una materia especializada, ni poseen la capacidad intelectual,
+cognoscitiva y emocional suficiente para transmitir dicho conocimiento al juez
+penal.
+
+ii.
+Puede impedir que el juez obtenga información
+científica, técnica o artística de calidad que le permita llegar a un
+conocimiento, más allá de duda razonable, de los hechos y circunstancias
+materia del juicio, y de la responsabilidad penal del acusado.
+
+iii.
+Promueve sesgos y prejuicios infundados sobre la salud mental.
+
+iv.
+Finalmente, debe resaltarse que en cada caso en particular, el juez debe
+valorar y controlar la información, las afirmaciones, las metodologías y las
+conclusiones de la opinión pericial, para lo cual debe dar cumplimiento a las
+reglas establecidas para tal efecto por el Legislador en el Código de
+Procedimiento Penal.
+
+214.
+En consecuencia, teniendo en cuenta que la norma jurídica demandada no
+se entiende como una medida idónea, ni necesaria para cumplir con la finalidad
+que persigue y por tanto, brinda un tratamiento desigual injustificado respecto
+de un grupo poblacional específico que lesiona el principio de igualdad y no
+discriminación consagrado en el artículo 13 de la Constitución Política de
+Colombia, la Corte Constitucional declarará la inexequibilidad de la expresión
+“y los enfermos mentales”, contenida en el numeral 1 del artículo 409 de la Ley
+906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+# V. DECISIÓN
+
+215. La
+Corte Constitucional de la República de Colombia, administrando justicia en
+nombre del pueblo y por mandato de la Constitución,
+
+**RESUELVE**
+
+**Único.** Declarar la
+INEXEQUIBILIDAD de la expresión “y *los enfermos mentales*”, contenida en
+el numeral primero del artículo 409 de la Ley 906 de 2004, “por la cual se
+expide el Código de Procedimiento Penal”.
+
+Notifíquese, comuníquese y
+cúmplase.
+
+JORGE
+ENRIQUE IBÁÑEZ NAJAR
+
+Presidente
+
+Con
+aclaración de voto
+
+NATALIA
+ÁNGEL CABO
+
+Magistrada
+
+JUAN
+CARLOS CORTÉS GONZÁLEZ
+
+Magistrado
+
+DIANA
+FAJARDO RIVERA
+
+Magistrada
+
+Ausente
+con permiso
+
+VLADIMIR
+FERNÁNDEZ ANDRADE
+
+Magistrado
+
+PAOLA
+ANDREA MENESES MOSQUERA
+
+Magistrada
+
+CRISTINA
+PARDO SCHLESINGER
+
+Magistrada
+
+MIGUEL
+POLO ROSERO
+
+Magistrado
+
+JOSE
+FERNANDO REYES CUARTAS
+
+Magistrado
+
+Con
+salvamento de voto
+
+ANDREA
+LILIANA ROMERO LOPEZ
+
+Secretaria
+General
+
+**Anexo
+- Requisitos para ser** **nombrado perito en el derecho comparado.**
+
+| | | |
+| --- | --- | --- |
+| PAÍS. | REQUISITOS | INHABILIDADES, IMPEDIMENTOS O RECUSACIONES PARA SER PERITO. |
+| Ecuador. | Código Orgánico Integral Penal. Artículo 511.- Reglas generales. - Las y los peritos deberán: 1. Ser profesionales expertos en el área, especialistas titulados o con conocimientos, experiencia o experticia en la materia y especialidad, acreditados por el Consejo de la Judicatura. 2. Desempeñar su función de manera obligatoria, para lo cual la o el perito será designado y notificado con el cargo. 3. La persona designada deberá excusarse si se halla en alguna de las causales establecidas en este Código para las o los**juzgadores**. 4. Las o los peritos no podrán ser recusados, sin embargo el informe no tendrá valor alguno si el perito que lo presenta, tiene motivo de inhabilidad o excusa, debidamente comprobada | Artículo 572.- Causas de excusa y recusación. Cita 10 causas de excusa y recusación de las o los juzgadores. Ninguna relacionada con la existencia de un “trastorno o enfermedad mental”. |
+| Argentina | Código Procesal Penal. Art. 254. - Los peritos deberán tener título de tales en la materia a que pertenezca el punto sobre el que han de expedirse y estar inscriptos en las listas formadas por el órgano judicial competente. Si no estuviere reglamentada la profesión, o no hubiere peritos diplomados o inscriptos, deberá designarse a persona de conocimiento o práctica reconocidos | Incapacidad e incompatibilidad. Art. 255. - No podrán ser peritos: los **incapaces**; los que deban o puedan abstenerse de declarar como testigos o que hayan sido citados como tales en la causa; los que hubieren sido eliminados del registro respectivo por sanción; los condenados o inhabilitados. Excusación y recusación. Art. 256. - Sin perjuicio de lo dispuesto en el artículo anterior, son causas legales de excusación y recusación de los peritos las establecidas para los jueces. El incidente será resuelto por el juez, oído el interesado y previa averiguación sumaria, sin recurso alguno. |
+| Bolivia | Código de Procedimiento Penal. Artículo 205. (Peritos). Serán designados peritos quienes, según reglamentación estatal, acrediten idoneidad en la materia. Si la ciencia, técnica o arte no está reglamentada o si no es posible contar con un perito en el lugar del proceso, se designará a una persona de idoneidad manifiesta. Las reglas de este Título regirán para los traductores e intérpretes | Artículo 208. (Impedimentos). No serán designados peritos los que hayan sido testigos del hecho objeto del proceso y quienes deban o puedan abstenerse de declarar como testigos. Artículo 210. (Excusa y Recusación). Los peritos podrán excusarse o ser recusados por los mismos motivos establecidos para los jueces, excepto por su participación en cualquier etapa del proceso. El juez o tribunal resolverá lo que corresponda, previa averiguación sumaria sobre el motivo invocado sin recurso ulterior. |
+| Chile. | Código de Procedimiento Penal Artículo 225.- Si las partes hicieren uso de la facultad que les concede el inciso segundo del artículo anterior, manifestarán al juez el nombre del perito, y ofrecerán, al hacer esta manifestación, los comprobantes de tener dichos peritos título profesional conferido conforme a la ley, salvo el caso de excepción indicado en el artículo 222. Art. 222. (243) Sólo en defecto de personas que tengan título profesional conferido conforme a la ley, podrán ser nombrados en el carácter de peritos personas no tituladas, pero que tengan competencia especial en la materia sobre que debe versar el informe. | Art. 232. (254) Son causas de recusación de los peritos: 1a. El parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo con el querellante o con el querellado o el procesado; 2a. El interés directo o indirecto en la causa o en otra semejante; y 3a. La amistad íntima con la parte contraria o la enemistad manifiesta con el que recusa. |
+| Paraguay | Código Procesal Penal. Artículo 215. CALIDAD HABILITANTE. Los peritos deberán ser expertos y tener título habilitante en la materia relativa al punto sobre el que dictaminarán, siempre que la ciencia, arte o técnica estén reglamentadas. En caso contrario deberá designarse a persona de idoneidad manifiesta. No regirán las reglas de la prueba pericial para quien declare sobre hechos o circunstancias que conoció directamente aunque utilice para informar las aptitudes especiales que posee en una ciencia arte o técnica. En este caso regirán las reglas de la prueba testimonial. | Artículo 216. INCAPACIDAD. No podrán actuar como peritos: 1) **quienes por insuficiencia o alteración de sus facultades mentales, o por inmadurez, no comprendan el significado del acto;** 2) quienes deban abstenerse de declarar como testigos; 3) quienes hayan sido testigos del hecho objeto del procedimiento; y, 4) los inhabilitados. |
+| Perú | Código de Procedimiento Penal. Artículo 172.- Procedencia 1. La pericia procederá siempre que, para la explicación y mejor comprensión de algún hecho, se requiera conocimiento especializado de naturaleza científica, técnica, artística o de experiencia calificada. 2. Se podrá ordenar una pericia cuando corresponda aplicar el artículo 15 del Código Penal. Ésta se pronunciará sobre las pautas culturales de referencia del imputado. 3. No regirán las reglas de la prueba pericial para quien declare sobre hechos o circunstancias que conoció espontáneamente aunque utilice para informar las aptitudes especiales que posee en una ciencia, arte o técnica. En este caso regirán las reglas de la prueba testimonial. | Artículo 175.- Impedimento y subrogación del perito 1. No podrá ser nombrado perito, el que se encuentra incurso en las mismas causales previstas en los numerales 1) y 2) ‘a’ del artículo 165. Tampoco lo será quien haya sido nombrado perito de parte en el mismo proceso o en proceso conexo, quien está suspendido o inhabilitado en el ejercicio de su profesión, y quien haya sido testigo del hecho objeto de la causa |
+| Uruguay | Código General del Proceso/Reglamento especial. ARTICULO 1°. - Los aspirantes a ser incluidos en el Registro Único de Peritos que estará a cargo de la Suprema Corte de Justicia deberán ser Profesionales Universitarios, Científicos, Técnicos, Docentes, Artistas o Idóneos. En caso de actividades sujetas a reglamentación constituye un prerrequisito estar habilitado para su ejercicio en el territorio de la República | Artículo 179. Impedimentos y recusaciones de los peritos. - Los peritos están impedidos y son recusables por las mismas causales que los Jueces. La causal deberá ser dada a conocer por el perito o por las partes dentro de los tres días siguientes al de la notificación de la providencia que lo designe o de audiencia en que se haga su designación. Si aducida causal de recusación, la misma no fuera aceptada por el perito, se procederá por el trámite de los incidentes y la resolución que recaiga será irrecurrible. La recusación de los peritos propuestos por las partes sólo podrá fundarse en causas supervinientes. |
+| Venezuela | Código Orgánico Procesal Penal. Artículo 238. ° Peritos. Los peritos deberán poseer título en la materia relativa al asunto sobre el cual dictaminarán, siempre que la ciencia, el arte u oficio estén reglamentados. En caso contrario, deberán designarse a personas de reconocida experiencia en la materia. Los peritos serán designados y juramentados por el Juez, previa petición del Ministerio Público, salvo que se trate de funcionarios adscritos al órgano de investigación penal, caso en el cual, para el cumplimiento de sus funciones bastará la designación que al efecto le realice su superior inmediato. Serán causales de excusa y recusación para los peritos las establecidas en este Código. El perito deberá guardar reserva de cuanto conozca con motivo de su actuación. En todo lo relativo a los traductores e intérpretes regirán las disposiciones contenidas en este artículo. | Artículo 86. ° Causales de inhibición y recusación. Los jueces profesionales, escabinos, fiscales del Ministerio Público, secretarios, expertos e intérpretes, y cualesquiera otros funcionarios del Poder Judicial, pueden ser recusados por las causales siguientes: 1. Por el parentesco de consanguinidad o de afinidad dentro del cuarto y segundo grado respectivamente, con cualquiera de las partes o con el representante de alguna de ellas; 2. Por el parentesco de afinidad del recusado con el cónyuge de cualquiera de las partes, hasta el segundo grado inclusive, caso de vivir el cónyuge que lo cause, si no está divorciado, o caso de haber hijos de él con la parte aunque se encuentre divorciado o se haya muerto; 3. Por ser o haber sido el recusado padre adoptante o hijo adoptivo de alguna de las partes; 4. Por tener con cualquiera de las partes amistad o enemistad manifiesta; 5. Por tener el recusado, su cónyuge o alguno de sus afines o parientes consanguíneos, dentro de los grados requeridos, interés directo en los resultados del proceso; 6. Por haber mantenido directa o indirectamente, sin la presencia de todas las partes, alguna clase de comunicación con cualquiera de ellas o de sus abogados, sobre el asunto sometido a su conocimiento; 7. Por haber emitido opinión en la causa con conocimiento de ella, o haber intervenido como fiscal, defensor, experto, intérprete o testigo, siempre que, en cualquiera de estos casos, el recusado se encuentre desempeñando el cargo de Juez; 8. Cualquiera otra causa, fundada en motivos graves, que afecte su imparcialidad. |
+| Panamá | Art. 205.- Calidad habilitante. Los peritos deben ser expertos y tener título, expedido en el país o en el extranjero, habilitante en la materia relativa al punto sobre el cual son llamados a dictaminar, siempre que la ciencia, arte o técnica estén reglamentadas. En caso contrario debe designarse a personas de idoneidad manifiesta. | Art. 206.- Incapacidad. No pueden actuar como peritos: 1) **Quienes, por insuficiencia o alteración de sus facultades mentales, no comprendan el significado del acto** 2) Quienes deban abstenerse de declarar como testigos; 3) Quienes hayan sido testigos del hecho objeto de procedimiento; 4) Los inhabilitados. |
+| México | Código Nacional de Procedimientos Penales. Artículo 369. Título oficial Los peritos deberán poseer título oficial en la materia relativa al punto sobre el cual dictaminarán y no tener impedimentos para el ejercicio profesional, siempre que la ciencia, el arte, la técnica o el oficio sobre la que verse la pericia en cuestión esté reglamentada; en caso contrario, deberá designarse a una persona de idoneidad manifiesta y que preferentemente pertenezca a un gremio o agrupación relativa a la actividad sobre la que verse la pericia. No se exigirán estos requisitos para quien declare como testigo sobre hechos o circunstancias que conoció espontáneamente, aunque para informar sobre ellos utilice las aptitudes especiales que posee en una ciencia, arte, técnica u oficio. | Por remisión aplica para los peritos: Artículo 37. Causas de impedimento Son causas de impedimento de los jueces y magistrados: I. II. Haber intervenido en el mismo procedimiento como Ministerio Público, Defensor, Asesor jurídico, denunciante o querellante, o haber ejercido la acción penal particular; haber actuado como perito, consultor técnico, testigo o tener interés directo en el procedimiento; Ser cónyuge, concubina o concubinario, conviviente, tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad y por afinidad hasta el segundo grado con alguno de los interesados, o que éste cohabite o haya cohabitado con alguno de ellos; Ser o haber sido tutor, curador, haber estado bajo tutela o curatela de alguna de las partes, ser o haber sido administrador de sus bienes por cualquier título; IV. V. VI. VII. VIII. IX. Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, tenga un juicio pendiente iniciado con anterioridad con alguna de las partes; Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, sea acreedor, deudor, arrendador, arrendatario o fiador de alguna de las partes, o tengan alguna sociedad con éstos; Cuando antes de comenzar el procedimiento o durante éste, haya presentado él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, querella, denuncia, demanda o haya entablado cualquier acción legal en contra de alguna de las partes, o cuando antes de comenzar el procedimiento hubiera sido denunciado o acusado por alguna de ellas; Haber dado consejos o manifestado extrajudicialmente su opinión sobre el procedimiento o haber hecho promesas que impliquen parcialidad a favor o en contra de alguna de las partes; Cuando él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, hubiera recibido o reciba beneficios de alguna de las partes o si, después de iniciado el procedimiento, hubiera recibido presentes o dádivas independientemente de cuál haya sido su valor, o Para el caso de los jueces del Tribunal de enjuiciamiento, haber fungido como Juez de control en el mismo procedimiento. |
+| España | Código Procesal Penal. Artículo 457. Los peritos pueden ser o no titulares. Son peritos titulares los que tienen título oficial de una ciencia o arte cuyo ejercicio esté reglamentado por la Administración. Son peritos no titulares los que, careciendo de título oficial, tienen, sin embargo, conocimiento o prácticas especiales en alguna ciencia o arte. | Artículo 468. Son causa de recusación de los peritos: 1.º El parentesco de consanguinidad o de afinidad dentro del cuarto grado con el querellante o con el reo. 2.º El interés directo o indirecto en la causa o en otra semejante. 3.º La amistad íntima o la enemistad manifiesta. |
+
+**SALVAMENTO DE VOTO DEL
+MAGISTRADO**
+
+**JOSÉ FERNANDO REYES
+CUARTAS**
+
+**A LA SENTENCIA C-183/25**
+
+En
+la Sentencia C-183 de 2025 la Corte declaró inexequible la expresión “enfermos
+mentales” contenida en el artículo 409 de la Ley 906 de 2004. Me aparto de la decisión adoptada por la mayoría
+con fundamento en las siguientes razones.
+
+Inicialmente, advierto que declarar la inexequibilidad
+pura y simple de la expresión acusada y, por lo tanto, permitir que una persona
+diagnosticada con enfermedades mentales que riñan con el ejercicio de la labor
+pericial rinda conceptos científicos, técnicos o artísticos en el proceso
+penal, produciría efectos nocivos para los principios de inmediación, verdad
+procesal y debido proceso.
+
+Para entender dicha afirmación es necesario precisar
+que en el sistema penal acusatorio los peritos, por regla general, no son
+propiamente “nombrados” por el juez. Por el contrario, son las partes quienes
+postulan las pericias, principalmente en el escenario de la audiencia preparatoria,
+para que el juez evalúe su pertinencia en los términos del artículo 375 del CPP
+y de este modo, admita su práctica en la audiencia de juicio oral.
+
+Por este motivo, son los sujetos procesales quienes en
+el escenario de la audiencia preparatoria o del juicio oral a través del
+ejercicio del interrogatorio y el contrainterrogatorio, cuestionan las
+aptitudes y la credibilidad del perito en los términos del artículo 403 del
+CPP. Además, fiscalía y defensa cuentan también con la posibilidad de ofrecer pruebas
+de refutación, para acreditar, por ejemplo, la incapacidad mental del perito
+para rendir el concepto científico, técnico o artístico que le fue encomendado.
+Esto, porque de conformidad con el artículo 405 del CPP, a la prueba pericial
+le son aplicables las reglas del testimonio.
+
+En este sentido, una vez el perito ha declarado en
+juicio y la base de la opinión pericial es admisible como evidencia en los
+términos del segundo inciso del artículo 415 del CPP, el juez debe valorar la
+misma con la finalidad de corroborar: (i) si soporta las conclusiones
+expresadas por el perito en la audiencia, (ii) si está construida con criterios
+científicos, técnicos o artísticos con reconocimiento y aceptación académica y
+(iii) si tiene la vocación de acreditar la teoría del caso de quien postula el
+medio de conocimiento. De este modo, la riqueza del informe es determinante
+para calificar el mérito probatorio de la pericia. Finalmente, el juez es quien
+evalúa si las condiciones mentales del experto fueron determinantes en la
+elaboración o la sustentación de la prueba novel.
+
+La decisión que adoptó la Sala Plena permite que, aun
+cuando el juez penal advierta la inidoneidad mental del perito para ofrecer el
+concepto experto desde la audiencia preparatoria, deba esperar hasta el juicio
+oral para que, una vez practicada la experticia pueda desestimarla en la
+sentencia. Esta situación impediría que las partes, en virtud del principio de
+preclusión de las etapas procesales[133],
+puedan proponer a otro experto que, con el pleno uso de las facultades
+mentales, ofrezca los conocimientos especializados que requiere el fallador
+para adoptar una decisión condenatoria o absolutoria en el caso concreto.
+
+De esta forma, lo correcto es permitir que las partes
+a través de las solicitudes de inadmisión o rechazo, puedan advertir desde la
+audiencia preparatoria la inidoneidad mental del perito para rendir una
+experticia en particular y así, otorgarle la posibilidad a quien ofrece la
+experticia de allegar otro perito que con el pleno de sus facultades mentales
+sustente la prueba en juicio. Y no así, permitir que el perito cuya enfermedad
+mental riñe con el ejercicio de la labor científica, técnica o artística sea
+llevado a juicio donde posteriormente serán desestimadas sus conclusiones
+privando el proceso penal de un medio de conocimiento de esta naturaleza. Esta
+situación por si sola tiene la virtualidad de poner en tensión los derechos de
+defensa y contradicción en el proceso penal.
+
+No quiere desconocer el suscrito magistrado que el
+término “enfermo mental” tiene una connotación estigmatizante que debe
+superarse. Sin embargo, no es lo mismo que la persona que ofrece los conceptos
+expertos al proceso penal tenga episodios esporádicos de ansiedad o depresión,
+a que el mismo sujeto tenga un diagnóstico incurable de cualquier otra
+patología grave que le impida comprender el alcance de las conclusiones que le
+ofrece a la administración de justicia sobre determinada materia.
+
+De este modo, constatada la tensión de los principios
+en juego y con la finalidad de procurar la armonización concreta de los
+intereses, esto es, evitando la exclusión genérica de personas con enfermedades
+mentales, pero también evitando que el proceso penal se prive de una prueba de
+esa naturaleza, consideré que la fórmula adecuada para resolver el problema
+constitucional era introducir un condicionamiento en el sentido de que, *no
+podrían ser nombrados como peritos, personas cuyos padecimientos mentales riñan
+con el ejercicio propio de la disciplina científica, técnica o artística que se
+ofrece como medio de prueba al proceso penal*.
+
+En estos términos dejo expuestos los argumentos que
+motivaron mi salvamento de voto.
+
+*Fecha ut supra*
+
+**JOSE FERNANDO REYES CUARTAS**
+
+**Magistrado**
+
+**ACLARACIÓN
+DE VOTO DEL MAGISTRADO**
+
+**JORGE
+ENRIQUE IBÁÑEZ NAJAR**
+
+**A LA
+SENTENCIA C-183/25**
+
+Expediente: D-15.877
+
+Magistrado
+Ponente: Vladimir Fernández Andrade
+
+Con el
+acostumbrado respeto por las decisiones adoptadas por la Sala Plena de la Corte
+Constitucional, suscribo la presente aclaración de voto en relación con la
+Sentencia C-183 de 2025. En dicha sentencia, se resolvió la demanda de
+inconstitucionalidad en contra de la expresión *“y los enfermos mentales”*
+contenida en el numeral primero parcial del artículo 409 de la Ley 906 de 2004,
+*“por la cual se expide el Código de Procedimiento Penal”.* En la parte
+resolutiva se declaró inexequible la expresión de la disposición demandada, con
+el argumento de que brinda un tratamiento diferenciado injustificado a las
+personas que presentan una condición de salud consistente en una enfermedad y/o
+trastorno mental, lo que constituye una barrera normativa que promueve sesgos y
+estigmas infundados sobre la salud mental.
+
+En mi
+criterio, la decisión de la Sala Plena no tuvo en cuenta un argumento
+adicional: con la ratificación de la Convención sobre los Derechos de las
+Personas con Discapacidad, aprobada internamente por medio de la Ley 1346 de
+2009, se produjo un cambio en el parámetro de control constitucional que
+reforzaba la declaratoria de inexequibilidad de la expresión *“y los enfermos
+mentales”* contenida en el numeral primero parcial del artículo 409. Con la
+ratificación del mencionado instrumento jurídico internacional, se transformó
+la concepción sobre la capacidad jurídica de las personas en condición de
+discapacidad, reconocimiento que pasó a integrar el parámetro constitucional de
+protección de los derechos fundamentales de estas personas, como sujetos de
+especial protección constitucional.
+
+La
+sentencia en cita, en su parte motiva, explica el denominado *modelo social
+de la discapacidad* como un método de comprensión de la discapacidad, *“en
+virtud del cual “la discapacidad no tiene que ver con deficiencias funcionales,
+sino con omisiones de la sociedad que no tiene en cuenta a toda la población.
+En esa medida, lo que destaca este modelo es la identificación de un grupo de
+obstáculos que enfrentan las personas en situación de discapacidad para hacer
+uso de sus capacidades y la obligación de eliminar dichas barreras”.* La
+Convención sobre los Derechos de las Personas con Discapacidad plasmó los
+orígenes y las características del modelo social de discapacidad, con el
+propósito de superar el modelo médico-rehabilitador que erróneamente veía a la
+discapacidad como una enfermedad que requería rehabilitación y no como una
+característica más de la diversidad humana.[134]
+Seguidamente, la Ley Estatutaria 1618 de 2013 y la Ley 1996 de 2019 (o Ley de
+apoyos) regularon internamente los compromisos adquiridos en materia de los
+derechos humanos de las personas en condiciones de discapacidad, entre ellos,
+su capacidad jurídica para exigir su protección.
+
+En
+vigencia del Código de Procedimiento Penal, ni Colombia había ratificado la
+Convención sobre los Derechos de las Personas con Discapacidad, ni se habían
+expedido la Ley Estatutaria y la Ley de apoyos. Es por ello que, para el
+momento en que se expidió el artículo 409, la figura de la interdicción
+permanecía vigente. El Código de Procedimiento Penal data de 2004, pero la
+Asamblea General de las Naciones Unidas adoptó la Convención solamente hasta
+2006, y Colombia la ratificó hasta 2009. Inclusive, fue solo diez años después
+que se materializaron sus obligaciones mediante la ya mencionada Ley de apoyos.
+
+En lo que
+respecta al bloque de constitucionalidad como parámetro de constitucionalidad,
+esta Corte ha señalado que *“el bloque de constitucionalidad incorpora un
+parámetro de control constitucional adicional al texto insertado en la Carta,
+compuesto por los instrumentos internacionales en materia de derechos humanos
+(sentido estricto) y por un contenido supralegal de las disposiciones de
+carácter orgánico o estatutario (sentido lato).*”[135]
+Sobre esta cuestión, ha puntualizado en que con la conformación del bloque de
+constitucionalidad, se pretende integrar como parámetro de constitucionalidad
+normas que no hacen parte formalmente de la Constitución Política, así como
+interpretar normas constitucionales a fin de precisar el contenido y alcance en
+materia de derechos y deberes constitucionales.[136]
+
+En suma,
+el parámetro de constitucionalidad que la mayoría del Pleno debió tener en
+cuenta al momento de tomar la decisión de declarar inexequible la expresión
+demandada incluía no solamente el texto de la Constitución, sino también la
+Convención sobre los Derechos de las Personas con Discapacidad, e inclusive la
+Ley Estatutaria 1618 de 2013, en virtud de la integración del bloque de
+constitucionalidad. Es por ello que, en criterio del suscrito, la decisión pudo
+fundarse en la violación del artículo 13 de la Constitución, no solamente
+porque la expresión establece un tratamiento discriminatorio, sino porque
+contraría el modelo social de discapacidad al prohibirle a las personas en
+condición de discapacidad mental o psicosocial ejercer como peritos, con lo
+cual se desconoce que, conforme al marco jurídico nacional e internacional,
+dichas personas pueden hacer uso de ajustes razonables para asegurar el goce
+efectivo de sus derechos fundamentales. Además, la Corte también podía concluir
+que la existencia de una barrera normativa en desmedro de los derechos de las
+personas en situación de discapacidad mental es discriminatoria y contraria al
+modelo social de discapacidad porque no explora la posibilidad de que, haciendo
+uso de acciones afirmativas como lo son los ajustes razonables previstos en la
+Ley de apoyos, pudieran desempeñarse como peritos.
+
+En
+concreto, si bien comparto el sentido general de la decisión adoptada en la
+Sentencia C-183 de 2025, considero que el razonamiento podía fortalecerse si se hubiese tenido en cuenta que el
+parámetro de control constitucional aplicable al momento de la decisión no era
+el mismo que existía cuando se expidió la norma acusada. En efecto, el análisis
+que del artículo 409 del Código de Procedimiento Penal hizo esta Corporación no
+consideró que la ratificación de la Convención
+sobre los Derechos de las Personas con Discapacidad y sus desarrollos
+legislativos internos ampliaron el estándar constitucional bajo el cual debía
+examinarse la disposición demandada.
+
+Conforme
+con lo expuesto, dejo consignada mi aclaración de voto.
+
+Fecha *ut
+supra.*
+
+**JORGE ENRIQUE IBÁÑEZ NAJAR**
+
+**Magistrado**
+
+---
+
+[1]
+Tomadas del escrito de la demanda.
+
+[2] Ibidem.
+
+[3] El 20 de
+septiembre de 2024, se recibió respuesta por parte del Decano de la Escuela de
+Medicina y Ciencias de la Salud de la Universidad del Rosario, Juan Mauricio
+Pardo Oviedo, en la que remitió un documento elaborado por las psicólogas
+Ximena Palacios Espinosa, Claudia Marcela Gutiérrez Cáceres y Ana María Gómez
+Carvajal.
+
+[4] El 23 de
+septiembre de 2024, se recibió respuesta del Colegio
+Colombiano de Psicólogos (COLPSIC) que fue elaborada por José Raúl Jiménez
+Molina, representante legal, en colaboración con el señor Gerardo Augusto
+Hernández Medina, psicólogo, abogado, magister en derecho penal y criminología,
+máster en neuropsicología forense, máster en neurocriminología y especialista
+en evaluación y diagnóstico neuropsicológico, quien oficia como asesor jurídico
+de COLPSIC.
+
+[5] En este
+oficio se formularon las siguientes preguntas de manera enunciativa,
+advirtiendo que las intervenciones podían o no aludir a estos temas: “(i) ¿Cuál
+es el objeto y cuáles son los fines de la interrogación al perito y del
+contrainterrogatorio? , ¿Cuál es la oportunidad para cuestionar en términos
+objetivos el peritaje?; (ii) En la actualidad ha acaecido un cambio frente al
+derecho al habeas data y, por ello, se considera que la información referida a
+la historia clínica no debería ser difundida. En este contexto, ¿sigue siendo
+útil una disposición como la demandada o, por el contrario, es inidónea esta
+restricción?; (iii) ¿A su juicio, el hecho de que un perito padezca de una
+“enfermedad mental”, necesariamente afecta la imparcialidad en el ejercicio de
+sus funciones o esto puede ser solventado a partir la posibilidad de impugnar
+el peritaje, sus conclusiones y efectuar el contrainterrogatorio? En dicho
+marco normativo, considera que la segunda aproximación se ajusta de una mejor
+manera a la aproximación social de la discapacidad o, por el contrario, se
+deben mantener restricciones generales como las contenidas en la disposición
+demandada; (iv) ¿Considera que la medida adoptada es proporcional o sacrifica
+valores o derechos constitucionales de igual o mayor importancia? De ser
+afirmativa la respuesta, cuáles derechos podrían ser afectados.”
+
+[6] El 21 de
+noviembre de 2024, se recibió la intervención del Ministerio de la Igualdad y
+Equidad suscrita por el señor Raúl Fernando Núñez Marín, jefe de la Oficina
+Jurídica.
+
+[7] El 05 de
+noviembre de 2024 se recibió la intervención del Ministerio de Justicia y del
+Derecho suscrita por el señor Oscar Mauricio Ceballos Martínez, director de
+Desarrollo del Derecho y del Ordenamiento Jurídico.
+
+[8] El 05 de
+noviembre de 2024 se recibe la intervención del Instituto Colombiano de Derecho
+Procesal, suscrita por el señor Mauricio Pava Lugo, Miembro del Instituto
+Colombiano de Derecho Procesal.
+
+[9] El 05 de
+noviembre de 2024 se recibió la intervención del Departamento de Derecho Penal
+y Ciencias Criminológicas de la Universidad Externado de Colombia, suscrita por
+el señor Camilo Burbano Cifuentes
+
+[10] El día 23 de
+octubre de 2024 se recibió la intervención de la Fundación Jurídica Proyecto
+Inocencia suscrita por la señora Natalia Alexandra Insuast y Daza, directora y
+representante legal Fundación Jurídica Proyecto Inocencia
+
+[11] El 03 de
+diciembre de 2024 se recibió la intervención del Ministerio de Salud y
+Protección Social suscrita por la señora Cristina Daza Rodríguez, subdirectora
+de Enfermedades no Transmisibles.
+
+[12] El 01 de
+noviembre de 2024 se recibió la intervención de la Universidad del Norte
+suscrita por las señoras Eva Camila Miranda Fernández de Castro, Luciana Aponte
+Morales, Juliana Gómez Vieda, en calidad de miembros activos de Consultorio
+Jurídico, y por la señora Melissa Aníbal López, docente-asesora de la
+Universidad del Norte.
+
+[13] El 31 de
+octubre de 2024, se recibió la intervención del Colegio Colombiano de
+Psicólogos (COLPSIC) que fue elaborada por José Raúl Jiménez Molina, como
+representante legal de esta entidad, en colaboración con el señor Gerardo
+Augusto Hernández Medina, psicólogo, abogado, magister en derecho penal y
+criminología, máster en neuropsicología forense, máster en neurocriminología y
+especialista en evaluación y diagnóstico neuropsicológico, quien oficia como
+asesor jurídico de COLPSIC.
+
+[14] El 28 de
+noviembre de 2024, de conformidad con los artículos 242.2 y 278.5 de la
+Constitución Política, se recibió el concepto de la procuradora general de la
+Nación correspondiente al proceso D-15877.
+
+[15] Concepto de
+la señora procuradora general de la Nación radicado el 28 de noviembre de 2024.
+
+[16] Concepto de
+la señora procuradora general de la Nación, radicado el 28 de noviembre de
+2024.
+
+[17]
+Corte Constitucional. Sentencia C-301 de 2023.
+
+[18]
+Jürgen Habermas, “El concepto de dignidad humana y la utopía realista de los
+derechos humanos”. En *Revista de Filosofía Dianonia.* Vol. 55 Núm. 64
+(2010). https://doi.org/10.21898/dia.v55i64.218
+
+[19]
+Corte Constitucional. Sentencia T-443 de 2020.
+
+[20] “¿Qué
+comporta la dignidad del ser humano? Comporta que el hombre es un ser ordenado
+a la perfección, como fin esencial. Acrecentar la dignidad humana es una
+exigencia de la propia esencia del hombre, que es perfectible. Apartarse de la
+dignidad lleva, ineludiblemente, a la degradación del hombre. De ahí la
+reiterada apelación de los tratadistas de derechos fundamentales a los fines
+racionales del hombre; y de ahí también que tales fines constituyan para la
+civilización los principios básicos de moralidad de los actos humanos.” Corte
+Constitucional. Sentencia C-221 de 1994.
+
+[21] Emmanuel
+Kant advierte en torno a la finalidad del ser humano, que el libre albedrío no
+puede tener su esencia sino en la realización de los fines racionales del
+hombre. La finalidad de que habla el filósofo alemán es la finalidad de la
+naturaleza; dicha finalidad no es otra que el mismo hombre, ya que éste es
+"el único ser sobre la tierra que posee un entendimiento y, por tanto, una
+facultad de proponerse unos fines, por eso merece ciertamente el título de
+señor de la naturaleza, y si se considera a la naturaleza como a un sistema
+teleológico, es según su destino, el fin último de la naturaleza; pero es
+solamente de una manera condicional, es decir, a condición de que sepa y de que
+tenga la voluntad de establecer entre ella y él una relación final tal, que
+ésta sea independiente de la naturaleza y, bastándose a sí misma, pueda ser por
+consiguiente fin último”. Corte Constitucional. Sentencia C-221 de 1994, en
+referencia a lo expuesto por el filósofo Emmanuel Kant en Crítica del juicio de
+(París, 1965). Pág. 23 ss.
+
+[22]
+Crd. Manuel Atienza. Sobre la dignidad humana. (Editorial Trotta, 2022).
+
+[23]
+A partir de la dignidad, “se pueden identificar las
+necesidades esenciales que tiene el individuo en relación con el entorno que le
+rodea, para poder establecer un margen de protección reforzada que sea acorde
+con las demás normas del ordenamiento jurídico”. Corte
+Constitucional. Sentencia T-023 de 2017.
+
+[24]
+Manuel Atienza*. Sobre la dignidad humana*. (Editorial
+Trotta, 2022). Página 77.
+
+[25]
+Es así como “la dignidad se erige como un derecho
+fundamental, de eficacia directa, cuyo reconocimiento general compromete el
+fundamento político del Estado colombiano”. Corte Constitucional. Sentencias
+SU- 062 de 1999, T-291 de 2016 y T-443 de 2020.
+
+[26] En este
+sentido, esta Corporación ha reafirmado que el contenido esencial de la
+dignidad exige que las personas sean tratadas de acuerdo con su naturaleza,
+respetando su autonomía, integridad física y moral. Corte Constitucional. Sentencias
+T-611 de 2011 y T-804 de 2014.
+
+[27]
+Cfr. Corte Constitucional. Sentencias T-291 de 2009 y T-443 de
+2020.
+
+[28]
+Cfr. Corte Constitucional. Sentencias T-214 de 2009 y T-443 de
+2020.
+
+[29] Esta Corte ha señalado que “hablar de igualdad o
+desigualdad, siguiendo alguna variante de la fórmula clásica (como la contenida
+en el artículo 13 CP) tiene sentido sólo en la medida en que se respondan las
+siguientes tres preguntas: a) ¿Igualdad entre quiénes?; b) ¿Igualdad en qué?; y
+c) ¿Igualdad con base en qué criterio?”. Corte Constitucional. Sentencia T-099 de 2015.
+
+[30] Cfr. Corte Constitucional. Sentencias T-043 de 2015, T-099 de 2015 y
+T-443 de 2020.
+
+[31] La igualdad material en el pensamiento aristotélico está relacionada
+con el criterio de justicia: “parece que igualdad es lo justo, y lo es, pero no
+para todos, sino para los iguales; y lo desigual parece que es justo, y
+ciertamente lo es, pero no para todos, sino para los desiguales” Cf. Aristóteles, Política. Traducción y notas de
+Carlos García Gual y Aurelio Pérez Jiménez (Barcelona: Alianza Editorial –
+Ediciones Atalaya, 1993), p. 122 [1280a].
+
+[32] Esto es
+“medidas dirigidas a favorecer a determinadas personas o grupos, ya sea con el
+fin de eliminar o reducir las desigualdades que los afectan, o de lograr que
+los miembros de un grupo sub-representado, tengan una mayor representación, y
+así, estén en condiciones de igualdad en dignidad y derechos”. Corte
+Constitucional. Sentencia T-928 de 2014.
+
+[33] Cfr. Corte Constitucional. Sentencias T-098 de
+1994, T-288 de 1995, C-022 de 1996, T-1042 de 2001 y T-443 de 2020.
+
+[34]
+Cfr. Corte Constitucional. Sentencia T-443 de 2020.
+
+[35]
+Corte Constitucional. Sentencia T-143 de 2016.
+
+[36]
+Corte Constitucional. Sentencia C-301 de 2023.
+
+[37]
+Corte Constitucional. Sentencias C-1146 de 2004, C-210 de 2021 y
+C-301 de 2023.
+
+[38]
+Corte Constitucional. Sentencias C-179 de 2016, C-551 de 2015, C-601 de 2015, C-1125
+de 2001, C-210 de 2021 y C-301 de 2023.
+
+[39]
+Corte Constitucional. Sentencia C-022 de 2021.
+
+[40]
+Corte Constitucional. Sentencia C-022 de 2021
+
+[41]
+Corte Constitucional. Sentencia C-983 de 2002.
+
+[42]
+Fernando Hinestrosa. *Tratado de las Obligaciones II. De las fuentes de las
+obligaciones: el negocio jurídico. Volumen II.* (Bogotá- Colombia:
+Universidad Externado de Colombia, 2015) Páginas 209 y ss.
+
+[43]
+Fernando Hinestrosa. *Tratado de las Obligaciones II. De las fuentes de las
+obligaciones: el negocio jurídico. Volumen II.* (Bogotá- Colombia:
+Universidad Externado de Colombia, 2015) Páginas 209 y ss.
+
+[44]
+Corte Constitucional. Sentencia C-109 de 1995.
+
+[45] Ley 1098 de
+2006, *Por la cual se expide el Código de la Infancia y la Adolescencia*.
+“Artículo 3. SUJETOS TITULARES DE DERECHOS. Para todos los efectos de esta ley
+son sujetos titulares de derechos todas las personas menores de 18 años. Sin
+perjuicio de lo establecido en el artículo 34 del Código Civil, se entiende por
+niño o niña las personas entre los 0 y los 12 años, y por adolescente las
+personas entre 12 y 18 años de edad.”
+
+[46]
+Código Civil. Artículo 1504.
+
+[47] Ibidem.
+
+[48]
+Corte Constitucional. Sentencia C-983 de 2002.
+
+[49]Corte
+Constitucional. Sentencia C-165 de 2023, concordante con las sentencias C-025
+de 2021, T-098 de 2021, C-329 de 2019 y C-043 de 2017.
+
+[50] Los modelos de tratamiento o comprensión de la discapacidad son
+categorías conceptuales en la cuales se enmarcan las respuestas sociales y
+jurídicas que a lo largo de la historia se han presentado respecto de la
+discapacidad o diversidad funcional. Entre los textos más relevantes en la
+materia se encuentran los siguientes: “El modelo social de discapacidad:
+orígenes, caracterización y plasmación en la Convención Internacional sobre los
+Derechos de las Personas con Discapacidad” de autoría de Agustina Palacios y
+“El modelo de la diversidad. La Bioética y los Derechos Humanos como
+herramientas para alcanzar la plena dignidad en la diversidad funcional” de
+autoría de Agustina Palacios y Javier Romañach.
+
+[51]
+Corte Constitucional. Sentencia C-165 de 2023.
+
+[52]
+Corte Constitucional. Sentencia C-066 de 2013.
+
+[53]
+Corte Constitucional. Sentencias C-804 de 2019 y C-165 de 2023.
+
+[54] Ver:
+Agustina Palacios. El *modelo social de discapacidad: orígenes,
+caracterización y plasmación en la Convención Internacional sobre los Derechos
+de las Personas con Discapacidad.* (Madrid:Grupo editorial CINCA,
+2008)
+
+[55] Tomado de
+los textos con las siguientes referencias bibliográficas: (i) “Palacios,
+Agustina & Romañach Cabrero, Javier. *El modelo de la diversidad La
+Bioética y los Derechos Humanos como herramientas para alcanzar la plena
+dignidad en la diversidad funcional”* (Valencia: Ediciones Diversitas-
+AIES); y (ii) Palacios, Agustina. “*El modelo de la diversidad: una nueva
+visión de la bioética desde la perspectiva de las personas con diversidad
+funcional (discapacidad)”*. En: Revista sociológica de pensamiento crítico.
+Vol. 2 Núm. 2 (2008). Páginas 37 -47.
+
+[56] Ibidem.
+
+[57] “Esta dignidad
+tiene dos vertientes: la dignidad intrínseca y la dignidad extrínseca. a. La
+igualdad de DIGNIDAD INTRÍNSECA está relacionada con el valor de la vida de las
+mujeres y hombres. Todas las personas, con o sin diversidad funcional, tienen
+la misma dignidad intrínseca, el valor de sus vidas es el mismo. b. La
+igualdad de DIGNIDAD EXTRÍNSECA está relacionada con los derechos y las
+condiciones de vida de las personas. Todas las mujeres y hombres, con o sin
+diversidad funcional, tienen la misma dignidad extrínseca, tienen los mismos
+derechos y se les debe de dotar del entorno y las herramientas necesarias para
+que su vida se desarrolle en las mismas condiciones que los demás miembros de
+su sociedad.” Palacios, Agustina & Romañach Cabrero, Javier. *El modelo
+de la diversidad La Bioética y los Derechos Humanos como herramientas para
+alcanzar la plena dignidad en la diversidad funcional”* (Valencia: Ediciones
+Diversitas- AIES).
+
+[58] Como en su
+mismo texto se reconoce, la Clasificación Internacional del Funcionamiento, de
+la Discapacidad y de la Salud - CIF está basada en la integración de los modelos
+asistencial y social de tratamiento de la discapacidad. Con el fin de conseguir
+la integración de las diferentes dimensiones del funcionamiento, la
+clasificación utiliza un enfoque “biopsicosocial”. Por lo tanto, la CIF intenta
+conseguir una síntesis y, así, proporcionar una visión coherente de las
+diferentes dimensiones de la salud desde una perspectiva biológica, individual
+y social. Bajo este entendido, CIF expone la siguiente definición:
+“Discapacidad es un término genérico que incluye déficits, limitaciones en la
+actividad y restricciones en la participación. Indica los aspectos negativos de
+la interacción entre un individuo (con una “condición de salud”) y sus factores
+contextuales (factores ambientales y personales)”.
+
+[59] En cuanto a la
+definición de la expresión “trastorno mental” contenida en el artículo quinto
+de la Ley 1616 de 2013, resulta importante mencionar que actualmente se
+encuentra en trámite en el Congreso de la República el Proyecto de Ley número
+29 de 2024 (Senado) y 014 de 2023 (Cámara de Representantes), acumulado con los
+proyectos números 080 de 2023, 143 de 2023; 261 de 2023; 268 de 2023 y 151 de
+2023 de la Cámara de Representantes, “*por medio del cual se modifica la Ley
+1616 de 2013 y se dictan otras disposiciones en materia de prevención y
+atención de trastornos y/o enfermedades mentales, así como medidas para la
+promoción y cuidado de la salud mental”*. De acuerdo con el informe de
+conciliación del mencionado proyecto de Ley, el cual consta en la Gaceta del
+Congreso de la República Número 503 del viernes 11 de abril de 2025, en el texto
+conciliado se propone modificar la definición de la expresión “Trastorno
+Mental” en el siguiente sentido: “ARTÍCULO 5°. DEFINICIONES. Para la aplicación
+de la presente ley y demás normas que regulen la protección de la salud mental,
+se tendrán en cuenta las siguientes definiciones: (…) 5. Trastorno mental. Es
+una condición clínica que afecta el pensamiento, el estado de ánimo, el
+comportamiento y la capacidad de una persona para funcionar en su vida diaria”.
+
+[60] Según la
+página web de la Organización Mundial de la Salud (OMS): “La Clasificación
+Internacional de Enfermedades (CIE) proporciona un lenguaje común que permite a
+los profesionales de la salud compartir información estandarizada en todo el
+mundo. La undécima revisión contiene unos 17 000 códigos únicos y más de 120
+000 términos codificables y es ahora totalmente digital”. Consultar online en: https://www.who.int/es/news/item/11-02-2022-icd-11-2022-release
+
+[61]
+Consultar directamente en: https://icd.who.int/browse/2025-01/mms/es#334423054
+
+[62] De
+conformidad con lo establecido en su propio texto y en la Guía de Consulta de
+los Criterios Diagnósticos del DSM-5: “El Manual Diagnóstico y Estadístico de
+los Trastornos Mentales (DSM) de la Asociación Americana de Psiquiatría es una
+clasificación de trastornos mentales con criterios asociados que se diseñó para
+facilitar un diagnóstico más fiable de estos trastornos. (…) El DSM pretende
+servir de guía práctica, funcional y flexible para organizar la información que
+pueda ayudar en el diagnóstico preciso y el tratamiento de los trastornos
+mentales. Es un instrumento para los clínicos, una fuente educativa fundamental
+para los estudiantes y una referencia para los investigadores en este campo. La
+clasificación de enfermedades está coordinada con la Clasificación
+Internacional de Enfermedades (CIE) de la Organización Mundial de la Salud, el
+sistema de codificación oficial que se utiliza en Estados Unidos, de forma que
+los criterios del DSM definen trastornos que se identifican con los nombres y
+códigos diagnósticos de la CTE. En el DSM-5, tanto los códigos de la CIE-9-MC
+como los de la CIE10-MC (la adopción de esta última está programada para
+octubre de 2014) se añaden a los trastornos importantes en la clasificación.
+Aunque el DSM-5 continúa siendo una clasificación categórica de los distintos
+trastornos, reconocemos que las dolencias mentales no siempre encajan
+totalmente dentro de los límites de determinado trastorno. Algunos dominios de
+síntomas, como la depresión y la ansiedad, aparecen en múltiples categorías
+diagnósticas y podrían reflejar una vulnerabilidad común que subyacería en un
+mayor grupo de trastornos. Como reconocimiento de esta realidad, los trastornos
+que se incluyen en el DSM-5 se han reordenado con una estructura organizativa
+revisada con el fin de estimular nuevas perspectivas clínicas. Esta estructura
+nueva se corresponde con la organización de los trastornos que empleará la
+CIE-11, cuya publicación está prevista para 2015”.
+
+[63] Asociación
+Americana de Psiquiatría. *Guía de consulta de los criterios diagnósticos del
+DSM-5*. (Washington D.C, 2014). Página 5.
+
+[64]
+Asociación Americana de Psiquiatría. *Manual diagnóstico y estadístico de
+trastornos mentales (DSM-5-TR)* (Washington D.C, 2014). Página
+323.
+
+[65]
+Ver en el expediente: “*Respuesta a la amable invitación al Colegio
+Colombiano de Psicólogos mediante el Oficio N° OPC- 101/24 de fecha seis (06)
+de septiembre de 2024.”*
+
+[66] Consultar en
+el expediente: “*Respuesta a la amable invitación al Colegio Colombiano de
+Psicólogos mediante el Oficio N° OPC- 101/24 de fecha seis (06) de septiembre
+de 2024.”*
+
+[67]
+Ver en el expediente: “*Respuesta Solicitud concepto inconstitucionalidad
+D-15877. Rta Id 323665”*
+
+[68]
+Organización Mundial de la Salud. Clasificación Internacional del
+Funcionamiento, de la Discapacidad y de la Salud. Página 4.
+
+[69] “Los
+conceptos centrales de la Clasificación Internacional del Funcionamiento, la
+Discapacidad y la Salud —CIF, son: (i) Las estructuras y funciones corporales,
+incluidas las funciones mentales y psicológicas, cuya
+
+ausencia o alteración
+conducen a las deficiencias corporales. (ii) Las actividades, ubicadas en el
+nivel del desempeño individual de tareas y cuyas dificultades conducen a las
+limitaciones en las actividades. (iii) La participación, componente relacionado
+con el nivel de involucramiento y desenvolvimiento en las situaciones sociales,
+que al no poder ser desarrolladas llevan a las restricciones en la
+participación. (OMS, 2001). Con base en estos elementos, la CIF define la
+discapacidad corno un término genérico que incluye: deficiencias en las
+funciones o estructuras corporales, limitaciones en la actividad y
+restricciones en la participación y que indica los aspectos negativos de la
+interacción entré un individuo con una condición de salud y su1 factores
+contextuales, los cuales pueden actuar como: (i) Facilitadores: Todos aquellos
+factores en el entorno de una persona que, cuando están presentes o ausentes,
+mejoran el funcionamiento y reducen la discapacidad. (ii) Barreras: Todos
+aquellos factores en el entorno de una persona que, cuando están presentes o
+ausentes, limitan el funcionamiento y generan discapacidad”. Ministerio de
+Salud y Protección Social. *Anexo de la Resolución número 00001197 de 2024.*
+
+[70]
+Organización Mundial de la Salud. *Clasificación Internacional del
+Funcionamiento, de la Discapacidad y de la Salud.*
+
+[71]
+Organización Mundial de la Salud. *Clasificación Internacional del
+Funcionamiento, de la Discapacidad y de la Salud.*
+
+[72]
+Asociación Americana de Psiquiatría. *Manual diagnóstico y estadístico de
+trastornos mentales* (DSM-5-TR) y *Guía de consulta de los criterios
+diagnósticos del DSM-5*. (Washington D.C, 2014).
+
+[73]
+Asociación Americana de Psiquiatría. *Manual diagnóstico y estadístico de
+trastornos mentales* (DSM-5-TR) y *Guía de consulta de los criterios
+diagnósticos del DSM-5*. (Washington D.C, 2014).
+
+[74]
+Ver expediente oficio denominado: “*Respuesta Solicitud
+concepto inconstitucionalidad D-15877.*
+
+*Rta Id 323665”* de
+27 de noviembre 2024 del Ministerio de Salud y Protección Social.
+
+[75]
+Ibidem.
+
+[76] .” Michele Taruffo. *La prueba* (Madrid: Marcial Pons, 2008). Página
+90.
+
+[77] Corte
+Suprema de Justicia. Sala de Casación Penal. Auto AP906 de 22 de marzo de 2023.
+MP. Hugo Quintero Bernate.
+
+[78] Corte
+Suprema de Justicia. Sala de Casación Penal. Auto AP3390 de 21 de julio de
+2022. M.P. Fabio Ospitia Garzón
+
+[79] Corte
+Suprema de Justicia. Sala de Casación Penal. Sentencia SP2709 de 11 de julio de
+2018. M.P. Patricia Salazar Cuéllar.
+
+[80]
+En relación con la expresión “interdicto”, debe tenerse en cuenta
+que la Ley 1996 de 2019, en sus artículos 53 y 61 expresamente prohibió los procesos
+de interdicción y eliminó la figura de la interdicción.
+
+[81]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP2709 de 11 de
+julio de 2018. M.P. Patricia Salazar Cuéllar.
+
+[82]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia 25920 de 21 de
+febrero de 2007. M.P. Javier Zapata Ortiz.
+
+[83]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia 25920 de 21 de
+febrero de 2007. M.P. Javier Zapata Ortiz.
+
+[84]
+Corte Suprema de Justicia. Sala de Casación Penal. Auto AP3390 de 21 de julio
+de 2022. M.P. Fabio Ospitia Garzón.
+
+[85]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP2709 de 11 de
+julio de 2018. M.P. Patricia Salazar Cuéllar.
+
+[86]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP2709 de 11 de
+julio de 2018. M.P. Patricia Salazar Cuéllar.
+
+[87]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia 25920 de 21 de
+febrero de 2007. M.P. Javier Zapata Ortiz.
+
+[88]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP1557 de 9 de
+mayo de 2018. M.P. Patricia Salazar Cuéllar.
+
+[89] Corte Suprema de Justicia. Sala de Casación Penal.
+Sentencia SP1557 de 9 de mayo de 2018. M.P. Patricia Salazar Cuéllar.
+
+[90]
+Corte Suprema de Justicia. Sala de Casación Penal. Auto AP906 de 22 de marzo de
+2023. M.P: Hugo Quintero Bernate.
+
+[91]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP2709 de 11 de
+julio de 2018. M.P. Patricia Salazar Cuéllar.
+
+[92] En relación
+con la diferencia entre el “perito” y el “testigo experto”, la
+Sentencia C-301 de 2023 de la Corte Constitucional estableció lo siguiente: “dentro
+de los testigos se encuentran los testigos técnicos quienes, además de contar
+con un conocimiento personal de los hechos jurídicamente relevantes para el
+delito que se investiga, por haberlos percibido directamente, cuentan con
+conocimientos técnicos especiales y por tanto pueden incorporar “de una parte,
+un relato sobre los hechos objeto de investigación y, de otra, una apreciación
+técnica o científica que el testigo se forma sobre los mismos en razón de
+experticia sobre una determinada área del conocimiento”, y se rigen por las
+reglas de la prueba testimonial.
+"El perito, por su parte, es el experto convocado, no por su conocimiento
+personal de los hechos, sino por su conocimiento especializado y autorizado,
+que le permite, a diferencia de los otros intervinientes, presentar su opinión
+a través de un dictamen que presenta al juez. Entre las diferencias relevantes,
+se encuentra que la deposición del perito debe estar antecedida por un informe
+que incluya la base de la opinión pedida por la parte que propuso la práctica
+de la prueba. Este informe base de opinión pericial solo podrá ser tenido en
+cuenta como evidencia, cuando el perito declara oralmente en el juicio.”
+
+[93]
+Michele Taruffo. *La prueba* (Madrid: Marcial Pons, 2008).
+Página 77.
+
+[94] “En síntesis,
+frente a la base fáctica del dictamen, cabe resaltar lo siguiente: (i) salvo
+que el perito sea llevado a juicio con el único propósito de explicar unas
+determinadas reglas “técnico-científicas”, para que el Juez las aplique a una
+específica realidad fáctica, los expertos suelen emitir opiniones sobre unos
+hechos en particular; (ii) la base fáctica del dictamen puede coincidir con
+hechos que integren el tema de prueba; (iii) la base fáctica puede demostrarse
+con el testimonio del perito, cuando este ha tenido conocimiento “personal y
+directo” de la misma, como sucede con las observaciones que hace el médico
+legista en el cadáver de la víctima, a partir de las cuales emite su opinión
+sobre la causa de la muerte; (iv) también puede demostrarse con las pruebas
+legalmente practicadas en el juicio oral; (v) el dictamen pericial no puede
+convertirse en un instrumento para incorporar de forma subrepticia pruebas
+inadmisibles o, de cualquier otra manera, violatorias del debido proceso; (vi)
+cuando el dictamen recae sobre una declaración atinente a los hechos que
+integran el tema de prueba, y la parte pretende que la misma sea valorada como
+soporte de su “teoría del caso”, no le basta con solicitar el decreto de la
+prueba pericial, también debe solicitar la incorporación de la declaración
+anterior al juicio oral, según las reglas del debido proceso.” Corte Suprema de
+Justicia. Sala de Casación Penal. Sentencia SP2709 de 11 de julio de 2018. M.P.
+Patricia Salazar Cuéllar.
+
+[95]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia de 17 de junio de
+2009. Expediente: 31475.
+
+[96]
+Michele Taruffo. *La prueba* (Madrid: Marcial Pons, 2008).
+Página 96.
+
+[97]
+Corte Suprema de Justicia. Sala de Casación Penal. Auto AP814 de 19 de febrero
+de 2025. M.P. Gerardo Barbosa Barbosa Castillo.
+
+[98] Luis
+Fernando Bedoya Sierra. *La prueba en el proceso penal colombiano.* (Bogotá
+D.C – Colombia: Fiscalía General de la Nación. Escuela de Estudios e
+Investigaciones. Criminalísticas y Ciencias forenses, 2008). Páginas 23-26.
+
+[99]
+Corte Constitucional. Sentencia C-301 de 2023.
+
+[100]
+Carmen Vásquez. La prueba pericial en el razonamiento probatorio. (Perú: Zena
+Grupo editorial E.I.R.L, 2019). Página 124.
+
+[101]
+Carmen Vásquez. De la prueba científica a la prueba pericial. (Madrid: Marcial
+Pons, 2015) Página 200
+
+[102]
+Corte Suprema de Justicia. Sala de Casación Penal. Auto AP814 de 19 de febrero
+de 2025. M.P. Gerardo Barbosa Barbosa Castillo.
+
+[103]
+Michele Taruffo. La prueba (Madrid: Marcial Pons, 2008). Página 96.
+
+[104]Ver
+Sentencias C-104 de 2016, C-115 de 2017, C-138 de 2019, C-345 de 2019, C-748 de
+2019, C-420 de 2020, C-119 de 2021 y C-301 de 2023.
+
+[105]
+Corte Constitucional, Sentencia C-295 de 2021.
+
+[106]
+Según lo establecido en el Diccionario de la Real Academia de la
+Lengua Española, la palabra “afección” significa: “Enfermedad (alteración de la
+salud)”.
+
+[107]
+Fernando Hinestrosa. Tratado de las Obligaciones II. De las fuentes de las
+obligaciones: el negocio jurídico. Volumen II. (Bogotá- Colombia: Universidad
+Externado de Colombia, 2015) Páginas 209 y ss.
+
+[108]
+Sentencias C-178 de 2014, C-038 de 2021 y C-301 de 2023.
+
+[109] Si bien, en
+otras ocasiones la Corte Constitucional ha empleado la metodología de
+adecuación normativa para examinar disposiciones normativas contrarias a los
+derechos de las personas en situación de discapacidad (por ejemplo, en la
+Sentencia C-513 de 2024), en el presente caso, la Corte utilizará la
+herramienta del juicio integrado de igualdad un nivel de intensidad estricto
+por la importancia de la prueba pericial en el proceso penal y toda vez que, en
+estricto sentido, la cuestión no recae únicamente sobre los derechos de las
+personas en situación de discapacidad, sino también de las demás personas que
+presentan un trastorno o una enfermedad mental que no necesariamente presentan
+una situación de discapacidad*.*
+
+[110] “En el
+curso de la historia, las personas discapacitadas han sido tradicional y
+silenciosamente marginadas. A través del tiempo, las ciudades se han construido
+bajo el paradigma del sujeto completamente habilitado. La educación, la
+recreación, el transporte, los lugares y los medios de trabajo, incluso el
+imaginario colectivo de la felicidad, se fundan en la idea de una persona que
+se encuentra en pleno ejercicio de todas sus capacidades físicas y mentales.
+Sentencias T-823-99 y C-559 de 2001.
+
+[111] En la
+exposición de motivos del Proyecto de Ley Estatutaria Número 01 de 2003 de la
+Cámara de Representantes, que a la postre se convirtió en la Ley 906 de 2004,
+Código de Procedimiento Penal, no se indicó de manera específica el propósito de
+la prohibición contenida en el numeral primero parcial del artículo 409 del
+CPP. En estos casos, la Corte Constitucional ha determinado que: “si el trámite
+legislativo no permite establecer con certeza la finalidad que persigue cada
+una de las disposiciones incluidas en un proyecto de ley, aún si estas hacen
+parte del articulado original, la finalidad habrá de definirse de acuerdo con
+las manifestaciones generales que haya hecho el legislador sobre los objetivos
+que persigue la ley de la que la disposición hace parte, o en general con el
+cuerpo normativo en el que se inserta cuando se trata de una norma
+modificatoria. Por último, si no existe una manera de identificar la finalidad
+de la disposición a partir de lo debatido en el curso del proceso legislativo o
+de las pruebas aportadas al expediente, podrá el juez constitucional suplir tal
+carencia a partir del contexto de la disposición y la valoración razonable de
+la finalidad que podría inspirarla”. (Corte Constitucional. Sentencia C-386 de
+2022)
+
+[112]
+Corte Constitucional. Sentencia C-054 de 2024.
+
+[113] Como lo
+reconoció la Corte Constitucional en la Sentencia C-301 de 2023: “En un sistema
+procesal penal de tendencia acusatoria, como el acuñado por la Ley 906 de 2004,
+las partes en igualdad de armas pueden acudir a los mismos medios de prueba
+para acreditar sus hipótesis sobre el caso. La prueba pericial puede ser
+solicitada por ambas partes del proceso, y está contemplada como un derecho
+para el ejercicio de la defensa. En efecto, el artículo 8º literal k) de la Ley
+906 de 2004 consagra el derecho a “[t]ener un juicio público, oral,
+contradictorio, concentrado, imparcial, con inmediación de las pruebas y sin
+dilaciones injustificadas, en el cual pueda, si así lo desea, por sí mismo o
+por conducto de su defensor, interrogar en audiencia a los testigos de cargo y
+a obtener la comparecencia, de ser necesario aun por medios coercitivos, de
+testigos o peritos que puedan arrojar luz sobre los hechos objeto del debate”
+
+[114]
+Corte Constitucional. Sentencia C-054 de 2024.
+
+[115]
+Ibidem.
+
+[116] “El principio de adecuación excluye el empleo de medios que perjudican la
+realización de al menos un principio, sin promover al menos un principio o meta
+a cuya realización sirven. Si un medio M que fue establecido para promover la
+realización de un principio *Pa*, no fuera idóneo para esto mas sí
+perjudicara la realización de *Pb*; entonces de omitirse *M* no se
+originarían costos para *Pa* ni para *Pb*, aunque sí los habría para *Pb*
+de emplearse *M*. Pueden *Pa* y *Pb* ser realizados
+conjuntamente en más alta medida, relativamente a las posibilidades materiales,
+de no producirse *M*; tomados conjuntamente, *Pa* y *Pb*
+prohíben el uso de *M*. Esto muestra que el principio de idoneidad no es
+otra cosa que una manifestación de la idea del óptimo de Pareto: una posición puede
+mejorarse sin originar desventajas a otra” Robert Alexy. "*Derechos
+fundamentales, ponderación y racionalidad*". Revista Iberoamericana de
+Derecho Procesal Constitucional: proceso y constitución, 2009, 3-14. https://biblioteca.corteidh.or.cr/adjunto/38358
+
+[117]
+Organización Mundial de la Salud. *Informe mundial sobre la salud mental.
+Transformar la salud mental para todo* (Washington D.C, 2022). Página 13.
+
+[118]
+Asociación Americana de Psiquiatría. Manual diagnóstico y
+estadístico de trastornos mentales (DSM-5-TR) (Washington D.C, 2014). Página 22
+y ss.
+
+[119] Ver en el
+expediente el archivo denominado*: “**Respuesta Solicitud
+concepto inconstitucionalidad D-15877. Rta Id 323665*”
+enviado por el ministerio de Salud y Protección Social el 27 de noviembre de
+2024.
+
+[120] Ver en el
+expediente: “*Referencia respuesta a la amable invitación al Colegio
+Colombiano de Psicólogos mediante el Oficio N° OPC-101/24 de fecha seis (06) de
+septiembre de 2024”* enviada el 23 de septiembre de 2024.
+
+[121] Al
+respecto, se resalta que correlación y causalidad son conceptos diferentes. La
+correlación se refiere a la relación entre dos variables o hechos a partir de
+la cual se examinan y se intentan explicar patrones. Por su parte, la
+causalidad se refiere a la relación necesaria y eficiente entre un hecho
+antecedente: la “causa” y un hecho consecuente: “el efecto”.
+
+[122] Kyaga, S., Landén, M., Boman, M., Hultman, C. M., Långström, N.,
+& Lichtenstein, P. (2013). *Mental illness, suicide and creativity:
+40-year prospective total population study*. Journal of psychiatric
+research, 47(1), 83–90. https://doi.org/10.1016/j.jpsychires.2012.09.010
+
+[123]
+Ibidem.
+
+[124]
+Alfonso, Escobar & Gómez-González Beatriz. "Creatividad y función
+cerebral." Revista Mexicana de Neurociencia 7.5 (2006): páginas 391-399.
+
+[125] Consultar
+en: https://www.minsalud.gov.co/Paginas/66-porciento-de-colombianos-declara-haber-enfrentado-algun-problema-de-salud-mental.aspx
+
+[126]
+Corte Constitucional. Sentencia C-260 de 2023.
+
+[127] Ver en el
+expediente: “Concepto rendido por el Departamento de Derecho Penal y
+Criminología de la Universidad Externado de Colombia” de fecha 05 de noviembre
+de 2024.
+
+[128]
+Corte Constitucional. Sentencia C-301 de 2023
+
+[129]
+Corte Constitucional. Sentencia C-301 de 2023.
+
+[130]
+Ibidem.
+
+[131]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP2582 de 10 de
+julio de 2019. M.P. Patricia Salazar Cuéllar.
+
+[132]
+Corte Suprema de Justicia. Sala de Casación Penal. Sentencia SP1557 de 9 de
+mayo de 2018. M.P. Patricia Salazar Cuéllar.
+
+[133]
+Asi, auto 235/025 Corte Constitucional: “Uno de los
+principios fundamentales del Derecho Procesal, aplicable a todos los procesos,
+es el de la preclusión; principio este conforme al cual los actos procesales
+han de cumplirse en una etapa determinada del proceso y, en cuanto hace a los
+recursos y a los demás medios de impugnación puestos a disposición de las
+partes por el ordenamiento jurídico, ello significa que si se dejan transcurrir
+los términos señalados por la ley para el efecto, su interposición con
+posterioridad no surte efecto jurídico”
+
+[134]
+*Cfr.* Corte Constitucional, Sentencia
+C-042 de 2017.
+
+[135]
+*Cfr.* Corte Constitucional, sentencias C-228 de 2009 y C-334 de 2023.
+
+[136]
+*Cfr.* Corte Constitucional, Sentencia C-334 de 2023.

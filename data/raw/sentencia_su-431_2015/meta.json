@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-431_2015",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU431-15.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU431-15.htm",
+      "sha256": "605dae2f0ad6a8dabb91d6a48a7819d9f2e7a47f6e3f0ee7337b0b475e1ebb60",
+      "bytes": 584684,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:10-05:00"
+    }
+  ]
+}

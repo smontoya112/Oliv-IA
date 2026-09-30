@@ -1,0 +1,3829 @@
+---
+{
+  "doc_id": "sentencia_c-80_2025",
+  "titulo": "Sentencia C-080 de 2025",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/C-080-25.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "mercados"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-080",
+  "anio": 2025,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-80",
+    "2025"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2025/C-080-25.htm"
+  ],
+  "sha256_partes": [
+    "e5b5b073e757b6ca3d0d747c39dd9b8ecd33e9461ee82bd125d4887acdc52425"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 208114,
+  "n_articulos_detectados": 14,
+  "archivo_md": "md/sentencia_c-80_2025.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2025/C-080-25.htm -->
+C-080-25
+
+---
+
+**TEMAS-SUBTEMAS**
+
+**Sentencia C-080/25**
+
+**PRINCIPIO DE
+ESTRICTA LEGALIDAD O TAXATIVIDAD PENAL-**No se vulnera
+por cuanto norma de remisión del tipo penal en blanco cumple requisitos
+
+*(…) la Corte Constitucional considera que la norma
+demandada prevé un tipo penal en blanco que satisface los requisitos de
+tipicidad desarrollados por la jurisprudencia constitucional. Primero, la norma
+de remisión es claramente identificable. Esto, porque una interpretación
+sistemática del nomen iuris, el inciso 1º, el parágrafo y los antecedentes
+legislativos de la norma demandada permiten inferir, sin lugar a equívocos, que
+el tipo penal debe integrarse, exclusivamente, con el artículo 47.9 del Decreto
+2153 de 1992, el cual prohíbe los acuerdos restrictivos de la competencia en
+procesos de contratación pública, también denominados acuerdos colusorios.
+Segundo, el artículo 47.9 del Decreto 2153 de 1992 tiene rango material de ley
+y es anterior a la tipificación de la conducta punible. Tercero, la norma de
+remisión permite al intérprete determinar inequívocamente el alcance de la
+conducta penalizada. En efecto, (i) el artículo 47.9 de 2152 prevé una
+prohibición clara y precisa de los acuerdos restrictivos de la competencia en
+procesos de contratación pública y (ii) la SIC –máxima autoridad de
+competencia– ha delimitado y desarrollado los elementos de estos acuerdos de
+forma consistente, clara y precisa.*
+
+**DEMANDA
+DE INCONSTITUCIONALIDAD-**Improcedencia
+de pronunciamiento sobre nuevo cargo presentado por interviniente
+
+**LIBERTAD DE
+CONFIGURACION LEGISLATIVA EN MATERIA PENAL-**Alcance
+
+**LIBERTAD DE
+CONFIGURACION LEGISLATIVA EN MATERIA PENAL-**Límites
+implícitos y explícitos
+
+**PRINCIPIO DE LEGALIDAD-**Contenido
+
+*El principio de legalidad comprende tres subprincipios.
+Primero, el principio de reserva legal (lex stricta), el cual exige que los
+delitos y las penas estén previstos en una Ley en sentido formal, expedida por
+el Congreso de la República como órgano de representación popular. Segundo, el
+principio de irretroactividad de la ley penal (lex praevia), conforme al cual
+el tipo penal que prevé el delito y la sanción debe preexistir a la conducta:
+una conducta* *no constituye delito ni puede ser objeto
+de sanción penal si no existe una ley previa que así lo establezca. Tercero, el
+principio de legalidad estricta o tipicidad (lex certa), el cual* *implica un mandato de claridad y precisión en la tipificación del
+delito y la sanción.*
+
+**PRINCIPIO DE
+ESTRICTA LEGALIDAD-**Alcance**/PRINCIPIO DE ESTRICTA
+LEGALIDAD-**Contenido
+
+**PRINCIPIO DE ESTRICTA LEGALIDAD O TAXATIVIDAD PENAL-**Elementos
+para determinar el cumplimiento
+
+**TIPO PENAL EN
+BLANCO-**Definición
+
+*Los tipos penales en blanco son aquellos en
+los que la descripción del supuesto de hecho (precepto) se encuentra
+desarrollado total o parcialmente por una norma de carácter extrapenal. Son
+tipos penales “incompletos” o “imperfectos” que exigen que en el proceso de
+adecuación típica el operador jurídico lleve a cabo un proceso de integración
+del tipo, en el que se acude a normas no penales –normas de remisión– que
+concretan el alcance de alguno de sus elementos.*
+
+**TIPO PENAL
+ABIERTO-**Definición
+
+*Los tipos penales abiertos son aquellos en
+los que alguno de los elementos estructurales de la conducta punible está
+definido con expresiones que tienen un alto grado de indeterminación semántica,
+lo que implica que “no existe total precisión de las circunstancias en que la
+conducta debe realizarse”. Como se expuso, todos los tipos penales tienen un nivel
+de indeterminación que es connatural al lenguaje y el derecho. En este sentido,
+la apertura de las normas penales es, en realidad, una “cuestión de grados: hay
+tipos más cerrados y tipos más abiertos”.*
+
+**TIPOS PENALES
+ABIERTOS Y TIPOS PENALES EN BLANCO**-Jurisprudencia
+constitucional
+
+**TIPO PENAL EN
+BLANCO-**Remisión normativa propia e impropia
+
+*(i) La norma de remisión debe ser
+claramente identificable; (ii) La norma de remisión debe existir y hacer parte
+“del ordenamiento jurídico al momento de realizarse la conducta y de llevarse a
+cabo el proceso de adecuación típica”; (iii) La norma de remisión debe permitir
+al intérprete determinar con razonable precisión, claridad y previsibilidad el
+alcance de la conducta sancionable. Además, en los tipos de remisión impropia,
+la norma de remisión de rango infra legal debe (a) tener un alcance general,
+(b) ser de conocimiento público, así como (c) respetar los principios y valores
+constitucionales.*
+
+---
+
+**REPÚBLICA DE
+COLOMBIA**
+
+**CORTE
+CONSTITUCIONAL**
+
+**Sala Plena**
+
+**SENTENCIA
+C-080 DE 2025**
+
+**Expediente:** D-15954
+
+**Asunto:** demanda de
+inconstitucionalidad en contra del artículo 410A de la Ley 599 de 2000, adicionado
+por el artículo 27 de la Ley 1474 de 2011
+
+**Magistrada ponente:**
+
+Paola Andrea Meneses Mosquera
+
+Bogotá, D. C., seis (6) de marzo
+de dos mil veinticinco (2025)
+
+La Sala Plena de la Corte
+Constitucional, en cumplimiento de sus atribuciones constitucionales y de los
+requisitos y trámites establecidos en el Decreto 2067 de 1991, profiere la
+siguiente
+
+**SENTENCIA**
+
+**Síntesis de la
+decisión**
+
+**Norma demandada.** La Sala Plena estudió una demanda de inconstitucionalidad en
+contra del artículo 410A
+de la Ley 599 de 2000, “por la cual se expide el Código Penal”, adicionado por
+el artículo 27 de la Ley 1474 de 2011. La norma demandada creó el tipo penal denominado
+“acuerdos restrictivos de la competencia”. Este tipo penal sanciona al “que en
+un proceso de licitación pública, subasta pública, selección abreviada o
+concurso se concertare con otro con el fin de alterar ilícitamente el procedimiento
+contractual”.
+
+**La demanda.** El demandante solicitó a la Corte declarar la inexequibilidad del
+artículo 410A del Código Penal, por considerar que vulneraba el principio de
+legalidad estricta o tipicidad en materia penal, consagrado en los artículos 6, 28 y 29 de la Constitución Política y 9º de la
+Convención Americana sobre los Derechos Humanos. Sostuvo
+que la expresión “*alterar ilícitamente*” genera
+una indeterminación insuperable de la conducta sancionable. Esto, porque tiene
+tal grado de vaguedad y ambigüedad que no permite a los destinatarios de la
+norma conocer cuáles son las conductas que podrían dar lugar a la
+responsabilidad penal. Por otra parte, argumentó que la norma demandada no
+satisface los requisitos de tipicidad de los tipos penales en blanco que han
+sido desarrollados por la jurisprudencia constitucional.
+
+**Examen de la Corte.** La Sala Plena concluyó que el artículo 410A del Código
+Penal no vulnera el principio de legalidad estricta o tipicidad. La Corte
+consideró que el artículo 410A prevé un tipo penal en blanco, porque la
+expresión “ilícitamente” es una fórmula de reenvío a una norma extrapenal. La
+Sala Plena constató que esta fórmula de remisión satisface los requisitos de
+constitucionalidad de los tipos penales de remisión propia que la
+jurisprudencia constitucional ha desarrollado. *Primero*, la norma de
+remisión es claramente identificable. Al respecto, la Sala Plena encontró que
+una interpretación sistemática del *nomen iuris*, el inciso 1º y el
+parágrafo del artículo 410A del Código Penal, así como de sus antecedentes
+legislativos, permiten inferir, sin lugar a equívocos, que el tipo penal debe
+integrarse, exclusivamente, con el artículo 47.9 del Decreto 2153 de 1992, el
+cual prohíbe los acuerdos restrictivos de la competencia en procesos de
+contratación pública, también denominados acuerdos colusorios. *Segundo*,
+el artículo 47.9 del Decreto 2153 de 1992 tiene rango material de ley y es
+anterior a la tipificación de la conducta punible. *Tercero*, la norma de
+remisión permite al intérprete determinar inequívocamente el alcance de la
+conducta penalizada. Esto porque, *(i)* el artículo 47.9 de 2153 de 1992
+prevé una prohibición clara y precisa de los acuerdos restrictivos de la
+competencia en procesos de contratación pública y *(ii)* la SIC –máxima
+autoridad de competencia– ha delimitado y desarrollado los elementos de estos
+acuerdos de forma consistente.
+
+**Decisión.** Con fundamento en las anteriores consideraciones, la Corte
+resolvió declarar la exequibilidad del artículo 410A del Código Penal, en
+relación con el cargo por la presunta vulneración del principio de legalidad
+estricta o tipicidad en materia penal.
+
+# I. ANTECEDENTES
+
+## 1. Trámite procesal
+
+1.
+El 28 de junio de 2024, el ciudadano Wilfredo Robayo Galvis (“demandante”)
+presentó demanda de acción pública de inconstitucionalidad en
+contra del artículo 410A de la Ley 599 de
+2000, adicionado por el artículo 27 de la Ley 1474 de 2011.
+El demandante sostuvo que el artículo demandado contrariaba el artículo 29 de la
+Constitución Política, porque violaba *(i)* el principio de tipicidad
+estricta; *(ii)* los principios de proporcionalidad, necesidad y
+subsidiariedad de la pena y, por último, *(iii)* el principio de *non
+bis in idem*.
+
+2.
+El 26
+de julio de 2024, la magistrada sustanciadora inadmitió la demanda, por
+considerar que los pretendidos cargos no cumplían con las exigencias
+argumentativas generales de las demandas de inconstitucionalidad[1]. El 2 de agosto de 2024, dentro del término
+legal, el demandante presentó escrito de corrección[2].
+
+3.
+Mediante auto de 21 de agosto de 2024, la magistrada
+sustanciadora: *(i)* admitió el
+cargo primero de la demanda por violación al principio de tipicidad estricta
+(art. 29 de la CP); *(ii)* rechazó los cargos segundo y tercero; *(iii)* fijó
+en lista el proceso; *(iv)* corrió traslado a la Procuraduría General de
+la Nación; *(v)* comunicó el inicio del proceso a la Presidencia de la
+República, al Presidente del Congreso de la República y al Ministerio de Justicia y del Derecho y *(vi)*
+invitó a participar a varias entidades y universidades.
+
+## 2. Norma demandada
+
+4.
+El actor dirige la demanda contra la totalidad del artículo 410A de la Ley 599 de 2000, adicionado por el artículo 27
+de la Ley 1474 de 2011:
+
+**“LEY 599 DE 2000**
+
+*por la cual se expide el Código Penal.*
+
+**EL CONGRESO DE LA REPÚBLICA**
+
+**DECRETA:**
+
+(…)
+
+**Artículo
+410A**. **Adicionado por la****Ley 1474 de 2011****, artículo 27**. ***Acuerdos
+restrictivos de la competencia***. El que en un proceso de licitación
+pública, subasta pública, selección abreviada o concurso se concertare con otro
+con el fin de alterar ilícitamente el procedimiento contractual, incurrirá en
+prisión de seis (6) a doce (12) años y multa de doscientos (200) a mil (1.000)
+salarios mínimos legales mensuales vigentes e inhabilidad para contratar con
+entidades estatales por ocho (8) años.
+
+Parágrafo.
+El que en su condición de delator o clemente mediante resolución en firme
+obtenga exoneración total de la multa a imponer por parte de la
+Superintendencia de Industria y Comercio en una investigación por acuerdos
+anticompetitivos en un proceso de contratación pública obtendrá los siguientes
+beneficios: reducción de la pena en una tercera parte, un 40% de la multa a
+imponer y una inhabilidad para contratar con entidades estatales por cinco (5)
+años”.
+
+## 3. La demanda – cargo único de inconstitucionalidad
+
+5.
+El demandante sostiene que el artículo
+410A del Código Penal vulnera los artículos 6, 28 y 29 de la Constitución
+Política y 9º de la Convención Americana sobre los Derechos Humanos (CADH), porque
+prevé un tipo penal en blanco que desconoce el principio de legalidad estricta
+o tipicidad.
+
+6.
+Según el demandante, los tipos penales en blanco son “aquellos
+delitos que remiten a otras leyes, decretos o actos administrativos”[3] para la “definición
+de la conducta sancionable”[4].
+La característica principal de estos delitos es que “dejan ciertos aspectos
+abiertos o indeterminados, requiriendo la referencia a otras fuentes normativas
+(…) para su completa especificación”[5].
+Esta característica implica que, “aunque la ley penal establezca un marco
+general, se necesita de la remisión a regulaciones complementarias para
+precisar qué acciones u omisiones concretas construyen el tipo penal concreto”[6].
+
+7.
+El demandante reconoce que el legislador cuenta con un amplio
+margen de configuración para establecer tipos penales en blanco, los cuales son
+una “herramienta legal que permite abordar aspectos variados de la sociedad
+regulando comportamientos de manera flexible, de acuerdo con la evolución de
+las circunstancias”[7].
+Sin embargo, resalta que estos delitos “resultan especialmente problemáticos
+toda vez que su alto nivel de indeterminación deriva en un mayor grado de
+complejidad para el ciudadano medio de entender las normas prohibitivas”[8].
+Por esta razón, la jurisprudencia constitucional[9]
+e interamericana[10]
+han enfatizado que el margen de configuración que la Constitución reconoce al
+legislador para establecer estos delitos no es absoluto; está limitado por los “principios
+y valores constitucionales” y, en particular, por el principio de legalidad
+estricta o tipicidad.
+
+8.
+El demandante señala que la tipicidades una manifestación
+del principio de legalidad en materia penal. En su faceta positiva, exige que todos los componentes del tipo penal (sujetos,
+verbos rectores, ingredientes subjetivos y objetivos, sanción, agravantes, etc.)
+estén definidos de forma “clara y precisa” en la ley o sean “razonablemente
+determinables por el intérprete”[11].
+En su faceta negativa, prohíbe la vaguedad o ambigüedad de la norma penal[12].
+Según el demandante, en las sentencias C-367 de 2022, C-411 de 2022 y C-021 de
+2023, la Corte Constitucional precisó el contenido del principio de tipicidad
+frente al establecimiento de tipos penales en blanco. Al respecto, sostuvo que
+la constitucionalidad de un tipo penal en blanco depende del “grado de
+determinación de la conducta” y de la “claridad post-remisión normativa”[13].
+
+9.
+Asimismo, afirma el demandante, en estas decisiones la Corte fijó
+cinco reglas para determinar si un tipo penal en blanco satisface el principio
+de legalidad estricta o tipicidad: *(i)* la remisión normativa debe ser
+clara y precisa[14];
+*(ii)* la redacción del tipo debe permitir al intérprete establecer
+claramente cuál es la conducta que el legislador pretende sancionar; *(iii)*
+la norma a la que remite el tipo debe ser previa a la configuración de la
+conducta[15]
+y *(iv**)* si la remisión es impropia[16],
+la norma de remisión debe ser: *(a)* precisa, *(b)* previa a la
+configuración de la conducta, *(c)* tener un alcance general y ser de
+conocimiento público y *(d)* preservar los principios y valores
+constitucionales.
+
+10.
+Con fundamento en estas reglas de
+decisión, el demandante sostiene que el artículo 410A del Código Penal es
+inconstitucional, dado que no define de forma clara y precisa la conducta
+sancionable. Para fundamentar esta conclusión, en la demanda se presentan tres
+argumentos:
+
+11.
+Primero. El legislador definió la conducta sancionable en los
+siguientes términos: “concertar[s]e con otro
+con el fin de alterar ilícitamente el procedimiento contractual”
+(énfasis añadido). En criterio del demandante, la expresión “alterar
+ilícitamente” impide “comprender con exactitud qué conductas están castigadas y
+cuales no”[17].
+Esto, porque tiene tal nivel de apertura semántica que conduciría a que
+“cualquier accionar irreglamentario podría ser constitutivo del tipo penal (…)
+independientemente de su naturaleza o gravedad; desde simples errores
+administrativos hasta conductas fraudulentas intencionadas”[18]. Esta indeterminación semántica, argumenta
+el demandante, es inconstitucional porque “no distingue la criminalización de
+comportamientos que no representan un peligro significativo para el bien
+jurídico protegido o que no fueron claramente contemplados como delitos por el
+legislador”[19].
+
+12.
+Segundo. La indeterminación semántica de la conducta sancionable
+es insuperable. Esto, porque el ordenamiento jurídico no define el término
+“alterar ilícitamente” y el artículo 410A del Código Penal no especifica a qué
+normas debe remitirse el intérprete para definir el alcance de la ilicitud que
+da lugar a sanción. En este sentido, afirma el actor, “el legislador se
+sustrajo de determinar, con mediano grado de precisión, a cuál ordenamiento o
+régimen normativo debía el intérprete remitirse para establecer el carácter
+‘ilícito’ del intento de manipulación del proceso de selección contractual”[20].
+
+13.
+Tercero. La Sala Plena debe aplicar el precedente fijado
+en la sentencia C-411 de 2022. En esta decisión, la Corte declaró inexequible
+los tipos penales en blanco del régimen de baldíos. Esto, al encontrar que
+contenían expresiones ambiguas, tales como “sin el lleno de los requisitos de
+ley”, las cuales tenían un grado de indeterminación semántica que no era
+superable a partir de reenvíos normativos. Según el demandante, esto es
+justamente lo que ocurre en este caso, dado que la expresión “alterar
+ilícitamente” tiene el mismo nivel de vaguedad y ambigüedad que la expresión
+“sin el lleno de requisitos legales”.
+
+14.
+El demandante reconoce que el título o *nomen
+iuris* del tipo penal sugeriría que la conducta sancionable son los
+“acuerdos restrictivos de la competencia”. En este sentido, afirma que “un
+intérprete desprevenido”[21]
+podría sostener que la indeterminación de la expresión “alterar ilícitamente” podría
+subsanarse con la remisión a las normas generales del régimen de protección de competencia.
+En particular, el artículo 47 del Decreto 2153 de 1992, el cual define los
+comportamientos contrarios a la competencia. Esta remisión supondría que “la
+acción de concertarse con otro con el fin de alterar ilícitamente un
+procedimiento contractual solo podría predicarse respecto de un acto que,
+[conforme al régimen de la libre competencia], pueda entenderse como un *acuerdo
+restrictivo de la competencia*”. Con todo, el demandante, sostiene que esta
+remisión no es procedente y, en cualquier caso, no permitiría superar la
+indeterminación semántica de la norma demandada, por las siguientes razones:
+
+-
+La remisión al artículo 47 del Decreto 2153 de 1992 no es
+procedente. Esto, porque si bien el título del tipo penal –*nomen iuris*–
+“hace referencia a los ‘acuerdos restrictivos de la competencia’, el legislador
+no hizo una remisión expresa al régimen de la competencia”. Además, la norma
+demandada no sanciona conductas anticompetitivas, “sino la concertación de dos
+o más personas para *alterar ilícitamente* el procedimiento contractual,
+sin definir, realmente, cuál es el alcance del delito”.
+
+-
+La descripción típica de concertarse
+con otro con el fin de alterar ilícitamente el procedimiento contractual no se
+restringe únicamente a “comportamientos contrarios a la competencia”[22]. Por el contrario, la “literalidad
+permite entender que se trata de cualquier
+irregularidad–ilicitud– dolosa en un proceso de selección contractual”[23].
+
+-
+La norma acusada se ubica en el título
+del Código Penal que contiene los “Delitos contra la administración pública”.
+Por esta razón, “no puede concluirse que el accionar censurado, esto es, la
+concertación para manipular ilícitamente, se limita a comportamientos
+contrarios a la competencia, sino que podría entenderse, partiendo de su tenor,
+como cualquier conducta irreglamentaria que afecte el bien jurídico de la
+administración pública”[24].
+
+15.
+En tales términos, el demandante concluye que la norma demandada
+“no le permite al operador judicial, bajo los mencionados criterios
+jurisprudenciales, establecer la conducta concreta que resulta punible, dejando
+un margen de interpretación que puede conducir a una aplicación penal
+incoherente o desproporcionada”[25].
+En el escrito de corrección, el demandante reconoció que, en estricto sentido,
+las acusaciones de la demanda estaban dirigidas en contra de la expresión
+“alterar ilícitamente”. Sin embargo, explicó que solicitaba a la Corte declarar
+la inexequibilidad de la totalidad del artículo 410A del Código Penal porque,
+“en ausencia de la mencionada expresión, la norma demandada carecería, aún más,
+de cualquier sentido político criminalmente coherente”[26].
+
+## 4. Intervenciones
+
+16.
+La Corte Constitucional recibió nueve intervenciones[27],
+que fueron presentadas por distintas entidades públicas, universidades,
+instituciones académicas, fundaciones y asociaciones. La siguiente tabla
+sintetiza las solicitudes de los intervinientes:
+
+| | |
+| --- | --- |
+| **Intervenciones** | |
+| **Interviniente** | **Solicitud** |
+| Ministerio de Justicia y del Derecho | Exequibilidad |
+| Superintendencia de Industria y Comercio (SIC) | Exequibilidad |
+| Agencia Nacional de Contratación Pública | Exequibilidad |
+| Asociación Colombiana de Derecho de la Competencia (ACDC) | Exequibilidad |
+| Universidad del Norte | Exequibilidad |
+| Instituto Colombiano de Derecho Procesal (ICDP) | Inexequibilidad |
+| Universidad Externado de Colombia | Inexequibilidad |
+| Fundación Proyecto Inocencia | Inexequibilidad |
+| Colegio de Abogados Penalistas | Inexequibilidad |
+
+-Tabla 1-
+
+17.
+A continuación, la Corte sintetiza los
+argumentos que presentan los intervinientes que solicitan a la Corte declarar *(i)*
+la exequibilidad y *(ii)* la inexequibilidad de la norma demandada. El **Anexo
+I** a esta sentencia contiene una tabla en la que cada una de las
+intervenciones están resumidas de forma individual.
+
+### 4.1. Intervenciones que solicitan la exequibilidad de la norma
+
+18.
+El Ministerio de Justicia y del Derecho, la SIC, la Agencia
+Nacional de Contratación Pública, la ACDC y la Universidad del Norte consideran
+que el artículo 410A del Código Penal no vulnera la Constitución Política.
+Argumentan que la tipificación de la conducta punible es clara y precisa, por
+lo que no desconoce el principio de legalidad estricta o tipicidad. Esto, con
+fundamento en tres argumentos:
+
+19.
+Primero. Contrario a lo que sostiene el actor, la norma
+demandada no prevé un tipo penal en blanco”[28],
+puesto que no deja “ningún aspecto abierto o indeterminado que requiera de la
+referencia a otras fuentes normativas”[29].
+Por el contrario, a partir de una interpretación literal de la norma demandada[30], es posible
+determinar todos los elementos del tipo y, en concreto, la conducta sancionable.
+El “*nomen iuris* o título del tipo penal señala con precisión que la
+conducta prohibida se refiere a los ‘acuerdos restrictivos de la competencia’ que
+se lleven a cabo en el marco de procesos de contratación pública”[31].
+Por otro lado, no es necesario remitir a otro cuerpo normativo para dotar de
+contenido a la expresión “ilícitamente”. Conforme a su sentido literal, la
+expresión “ilícitamente” se refiere a “una acción u omisión que se realiza de
+manera ilícita, a saber, en sentido no permitido legalmente o en contravía de
+las normas pertinentes”[32].
+Por otro lado, el verbo rector del tipo penal –“concertar”– permite inferir que
+quienes “pacten, contravengan, acuerden o arreglen de cualquier manera, una o
+más conductas cuyo fin sea el de alterar ilegalmente el procedimiento
+contractual de algunos procesos de contratación con el Estado, dolosamente
+representando un resultado jurídicamente ilícito, incurrirán en el tipo penal”[33].
+
+20.
+Segundo. En cualquier caso, aun si se aceptara que la
+norma prevé un tipo penal en blanco o “abierto”, la tipificación de la conducta
+no desconoce el principio de legalidad estricta. Según los intervinientes, la
+Corte Constitucional ha señalado que los tipos penales en blanco o abiertos
+“son constitucionalmente válidos siempre y cuando su amplitud se justifique en
+la naturaleza de la conducta penalizada, la indeterminación sea moderada y
+existan referencias en el ámbito jurídico que permitan precisar su contenido y
+alcance”[34].
+Según los intervinientes, la norma demandada satisface estos requisitos:
+
+-
+La colusión en procesos de contratación “es una conducta que se
+caracteriza por ser dinámica”. Esto significa que la conducta objeto de estudio
+puede materializarse a través de diferentes actuaciones, siempre que estas sean
+coordinadas e idóneas. Por tanto, “no se limita a un conjunto específico de
+comportamientos o un número limitado de conductas”[35]. En tales términos, tipificar
+esta conducta por medio de un tipo penal en blanco o “abierto” es una opción
+regulatoria que “permite que la ley se adapte a las distintas formas de
+colusión que puedan surgir, al tiempo que garantiza que las prácticas que afectan
+negativamente la transparencia y la competencia en los procesos de selección
+sean sancionadas de manera efectiva”[36].
+
+-
+La presunta indeterminación semántica de la expresión “alterar
+ilícitamente”, es “superable”[37]
+a partir de una interpretación del tipo penal en conjunto con las normas que
+regulan la protección de la libre competencia[38].
+Los intervinientes sostienen que los artículos 45 y 47.9 del Decreto 2153 de
+1992 prohíben los “acuerdos restrictivos a la competencia”. En este sentido,
+consideran que es posible interpretar que la conducta “ilícita” que la norma
+sanciona es, justamente, todo acuerdo restrictivo o colusorio que sea ilegal “bajo las normas que regulan el derecho de la competencia”[39].
+Por lo demás, señalan los intervinientes, la gama de conductas que
+implican una “alteración ilícita” está delimitada razonablemente por el marco
+normativo del derecho a la competencia. Esto, porque la SIC y el Consejo de
+Estado han *(i)* definido la colusión en los procesos de contratación
+pública como aquella que se produce cuando “las empresas que están llamadas a
+competir acuerdan eliminar o reducir las presiones competitivas a las que
+deberían estar sometidas”[40]
+y *(ii)* identificado un listado no taxativo de conductas anticompetitivas
+en materia de contratación estatal[41].
+
+21.
+Tercero. El establecimiento de un tipo penal que sancione
+los acuerdos colusorios[42]
+en los procedimientos contractuales públicos es indispensable “para garantizar
+la integridad y el buen funcionamiento del mercado competitivo”[43]. Lo anterior, habida
+cuenta de que *(i)* el sistema de contratación pública es “especialmente
+vulnerable a las prácticas colusorias entre proponentes, lo que a su vez
+justifica la necesidad de un marco represivo” y *(ii)* cuando los procesos
+de selección son manipulados mediante colusión, “se produce un uso ineficiente
+de los recursos públicos. Los fondos destinados a obras, bienes o servicios se
+desvían hacia los bolsillos de los oferentes que han formado parte de la
+colusión, afectando negativamente el bienestar general”. Esta manipulación “no
+solo perjudica al Estado, que actúa como un importante agente económico en el
+mercado, sino que también provoca distorsiones significativas en el sistema de
+mercado en general”[44].
+En este sentido, concluyen que “el tipo penal establecido en el artículo 410A
+funciona como una medida punitiva que complementa las sanciones administrativas
+aplicables por la Superintendencia de Industria y Comercio”. Por lo demás,
+sostienen los intervinientes, este tipo de conducta ha sido tipificada en
+múltiples jurisdicciones[45].
+
+### 4.2. Intervenciones que solicitan la inexequibilidad de la norma
+
+22.
+El Instituto Colombiano de Derecho Procesal, la Universidad
+Externado, la Fundación Jurídica Proyecto Inocencia y el Colegio de Abogados
+Penalistassostienen que la norma acusada vulnera el principio de legalidad
+estricta (arts. 6, 28 y 29 de la CP) y, por lo tanto, debe ser declarada
+inexequible. Al respecto, presentan cinco argumentos:
+
+23.
+Primero. El legislador no definió la conducta sancionable
+de forma clara y completa. Los intervinientes coinciden con el actor en que la
+norma demandada “no precisa lo que se entiende por ‘alterar ilícitamente’ una
+licitación, subasta, selección abreviada o concurso”[46]. Esto afecta el debido
+proceso del investigado y “se presta para la arbitrariedad”[47], habida cuenta del alto grado
+de vaguedad de este ingrediente normativo. Por otro lado, la redacción de la
+norma es equívoca porque, al señalar que la conducta sancionable consiste
+simplemente en “concertarse con otro con el fin de alterar ilícitamente el
+procedimiento contractual”, el legislador sugiere que no es necesario que
+ninguna acción de alteración ilícita del proceso contractual se concrete o
+exteriorice; basta con que los sujetos activos lleven a cabo acuerdos con la
+finalidad de lograr dicha alteración[48].
+
+24.
+Segundo. La remisión normativa no es precisa, porque no es
+claro “cuál es la norma o conjuntos de normas que el intérprete debe emplear
+para completar el sentido y alcance de la disposición jurídico penal” y, en
+concreto, para dotar de contenido la expresión “alteración ilícita”. Por el
+contrario, señalan los intervinientes, existe una contradicción entre el *nomen
+iuris* y el capítulo del Código Penal en el que se encuentra el delito. El tipo
+penal se denomina“acuerdos restrictivos de la competencia”, lo que
+sugeriría que, para determinar su contenido, el intérprete debe remitirse al
+régimen general de protección de la libre competencia. No obstante, el delito forma
+parte del título de los delitos que atentan contra la administración pública,
+lo que, en contraste, implicaría que el intérprete debe acudir al régimen general
+de la contratación pública. Por lo demás, señalan que “no todo acuerdo
+restrictivo de la competencia tiene incidencia en el bien jurídico tutelado (la
+administración pública), pues hay subastas, concursos, licitaciones y
+selecciones abreviadas donde sólo intervienen personas jurídicas de carácter
+privado y en las que la administración no tiene ninguna participación”[49]. En este
+sentido, concluyen que “no es posible establecer con certeza hacia dónde se
+dirige la remisión”[50].
+
+25.
+Tercero. Aun si en gracia de discusión se aceptara que el intérprete
+debe acudir al régimen general de protección de la libre competencia, “es tal
+la bastedad de este último y su grado de indeterminación que los esfuerzos por
+dotar de contenido el artículo 410A pueden continuar siendo inútiles”[51].La remisión a este régimen implicaría que todas las “prácticas restrictivas
+de la competencia” que se enlistan en los artículos 46, 47, 48 y 50 del Decreto
+2153 de 1992 configurarían el punible, lo que conlleva “una extensión
+irrazonable del objeto y alcance del tipo penal”. Además, las conductas
+restrictivas de la competencia “están descrit[a]s en términos genéricos y no
+aportan nada a la determinación del objeto y alcance del tipo penal”[52].
+
+26.
+Cuarto. La remisión genérica al régimen de protección de
+la competencia desconocería el principio de lesividad o de *última ratio*
+del derecho penal. Esto, porque *(i)* muchas de las conductas señaladas en
+el régimen de la competencia “carecen de aptitud para lesionar, o tan siquiera
+poner en peligro, el bien jurídico de la administración pública”, y *(ii)*
+se estaría aceptando que los tipos *sancionatorios* abiertos e
+indeterminados “sirvan de complemento para fijar el alcance de las normas
+penales, de las que se exige, paradójicamente, un grado de concreción y
+claridad mucho mayor al de las disposiciones que integran el derecho
+sancionatorio administrativo”. Según los intervinientes, de acuerdo con la
+jurisprudencia de la Corte, el principio de tipicidad opera de forma más
+flexible en el derecho administrativo sancionatorio, por lo que no es admisible
+que, para delimitar el punible, las normas penales remitan a disposiciones
+administrativas, que sean amplias y genéricas[53].
+
+27.
+Quinto. Por último, los intervinientes agregan que la
+norma demandada viola otros principios constitucionales y derechos
+fundamentales:
+
+-
+El principio de *non* *bis in idem*. El Colegio
+de Abogados Penalistas señala que “bajo la premisa de que cualquier conducta
+que satisfaga los elementos de concertación y alteración irregular del rito
+contractual constituye el delito en cuestión, se hace plausible una sistemática
+vulneración del derecho fundamental a no ser juzgado dos veces por una misma
+conducta, dado que, evidentemente, por el grado de abstracción e indeterminación
+del tipo, es posible que en él se configuren conductas que ya están
+tipificadas”. Por ejemplo, “una persona podría ser considerada culpable como
+determinador, cómplice o interviniente (coautor no calificado) en delitos como
+interés indebido en la celebración de contratos, peculado, cohecho, concusión,
+prevaricato, entre otros, y a la vez ser penalmente sancionada por el delito
+establecido en el artículo 410A, que castiga la concertación para alterar
+ilícitamente un procedimiento contractual”[54].
+
+-
+El derecho a la presunción de inocencia. Según los
+intervinientes, la conclusión de la SIC sobre la responsabilidad administrativa
+de una persona por haber incurrido en las faltas administrativas previstas en
+el régimen general de protección de la libre competencia, condiciona el juicio
+de la Fiscalía General de la Nación (“FGN”). Luego de que se remite el
+expediente de la investigación administrativa, la FGN “estará sesgada abiertamente parcializada (sic) por las pruebas y las valoraciones
+efectuadas por la [SIC]”[55].
+
+-
+El principio de contradicción de las pruebas. Durante la
+investigación administrativa, la SIC practica y valora todas las pruebas que
+luego serán determinantes en el proceso penal. Esto impide que luego, en el
+proceso penal, la defensa pueda materialmente controvertirlas en la etapa de
+indagación.
+
+**5.** **Concepto
+de la Procuraduría General de la Nación**
+
+28.
+El 9 de octubre de 2024, el Viceprocurador General de la Nación
+presentó concepto en el que argumentó que el artículo 410A del Código Penal es
+constitucional.
+
+29.
+El Viceprocurador sostiene que, de acuerdo con la jurisprudencia
+constitucional, el principio de legalidad estricta o tipicidad ordena que todos
+los elementos normativos de los tipos penales en blanco o abiertos sean
+“razonablemente determinables por el intérprete”. Esto, *(i)* mediante “referencias
+al ‘ámbito jurídico que permitan precisar su contenido y alcance’” o *(ii)*
+a partir de las “reglas generales de interpretación”[56].
+Según el Ministerio Público, el artículo 410A del Código Penal satisface estas
+exigencias, dado que “la tipificación es comprensible a partir de las reglas
+generales de interpretación” y las normas sobre la “contratación pública y la
+protección de la competencia”.
+
+30.
+Al respecto, señala que, de acuerdo con el Diccionario de la Real
+Academia Española, el verbo rector del tipo penal –*concertar*– implica la
+participación de un número plural de sujetos. En este sentido, la concertación
+“con el fin de alterar ilícitamente el procedimiento contractual” que se
+sanciona en el artículo 410A del Código Penal se refiere “al acuerdo realizado
+con otro con la intención de ‘modificar’, ‘torpedear’ o ‘desviar’ el objetivo y
+el desarrollo del trámite establecido para celebrar negocios jurídicos con el Estado”[57].
+Por lo demás, la norma precisa que “la comisión del ilícito se encuentra
+circunscrita a unos escenarios específicos, ya que se configura en el marco del
+proceso de ‘licitación pública’, subasta pública’, ‘selección abreviada’ o ‘concurso’”[58].
+
+31.
+Por otro lado, el Viceprocurador sostiene que para comprender el
+alcance de la expresión “alterar ilícitamente el procedimiento contractual”, es
+necesario “acudir al contexto normativo en el que se inserta el precepto”. Sobre
+este punto, señala que:
+
+-
+La norma acusada se encuentra incluida en el título de “los
+delitos contra la administración pública”, en el capítulo “celebración indebida
+de contratos”. Esto permite interpretar que la expresión “*procedimiento
+contractual*”, se refiere “al trámite de los negocios jurídicos con el
+Estado, que se encuentra ordenado en las leyes 80 de 1993 y 1150 de 2007”[59].
+
+-
+El tipo penal se denomina: “acuerdos restrictivos de la
+competencia”. Según el Viceprocurador, este es “un término técnico definido en
+la legislación del derecho de la competencia”, regulado en las leyes 155 de
+1959 y 1340 de 2009, así como en el Decreto 2153 de 1992. En particular, el artículo
+47.9 del Decreto 2153 de 1992 define los acuerdos restrictivos de la
+competencia en materia contractual con el Estado, como aquellos que “tengan por
+objeto la colusión en las licitaciones o concursos o los que tengan como efecto
+la distribución de adjudicaciones de contratos, distribución de concursos o
+fijación de términos de las propuestas”[60].
+
+-
+La “palabra ‘*ilícitamente*’ es recurrente en la legislación
+penal, por lo que su significado ha sido decantado por la dogmática de la
+especialidad, en la cual se ha explicado que dicho concepto tiene como
+finalidad reconocer que un comportamiento no puede ser ‘lícito a la luz de una
+rama del derecho e ilícito para el derecho penal, o viceversa’”. El Ministerio
+Público aduce que, con fundamento en esta línea argumentativa, la
+jurisprudencia del Consejo de Estado ha sostenido que el delito de acuerdos
+restrictivos de la competencia se configura cuando: “se persigue como intención
+o finalidad la alteración ilícita del procedimiento contractual, con lo cual se
+deja a salvo aquellos tratos y acuerdos entre partícipes en un procedimiento
+contractual que se ajusten al ordenamiento jurídico”[61].
+
+32.
+En tales términos, el Ministerio Público concluye que la norma demandada
+no desconoce el principio de estricta legalidad en materia penal y, por lo
+tanto, solicita a la Corte declarar su exequibilidad.
+
+# II. CONSIDERACIONES
+
+## 1. Competencia
+
+33.
+La Corte Constitucional es competente para adelantar el control
+de constitucionalidad de la presente demanda, de conformidad con lo dispuesto
+por el numeral 4 del artículo 241 de la Constitución.
+
+## 2. Problema jurídico y metodología
+
+34.
+*Problema jurídico.* La Sala Plena debe resolver el
+siguiente problema jurídico:
+
+¿El artículo 410A del Código Penal vulnera el principio de legalidad estricta o
+tipicidad al haber establecido un delito que sanciona penalmente a la persona
+que, en un proceso de licitación pública, subasta pública, selección abreviada
+o concurso, se concertare con otro con el fin de “*alterar* *ilícitamente*”
+el procedimiento contractual?
+
+35.
+La Sala Plena reconoce que algunos intervinientes argumentaron
+que la norma demandada vulnera, además del principio de legalidad estricta,
+otros principios constitucionales y derechos fundamentales que también
+constituyen límites al ejercicio del *ius puniendi* (lesividad, presunción
+de inocencia, proporcionalidad y *non bis in idem*). Sin embargo, la Corte
+circunscribirá el examen de constitucionalidad al cargo por la presunta
+violación al principio de legalidad estricta o tipicidad. Esto es así, por tres
+razones.
+
+-
+La Corte ha considerado que “carece de competencia para
+pronunciarse respecto de cargos que no han sido admitidos y, por tanto, cuya
+aptitud no ha sido constatada previamente”[62]. En este caso, en el escrito de
+corrección el demandante desistió expresamente de los cargos relacionados con
+la presunta violación a los principios de *(i)* proporcionalidad,
+necesidad y subsidiariedad y *(ii) non bis in idem*. Por esta razón,
+mediante auto de 21 de agosto de 2024, la magistrada sustanciadora rechazó
+estos cargos.
+
+-
+La jurisprudencia constitucional[63]
+ha señalado que, en atención al carácter rogado de la acción pública de inconstitucionalidad,
+por regla general no es procedente ampliar el parámetro de control a partir de
+nuevos cargos formulados por los intervinientes. Al respecto, la Sala Plena
+resalta las sentencias C-078 de 2023 y C-050 de 2024.
+
+-
+La jurisprudencia ha señalado que, en virtud del artículo 22 del
+Decreto 2067 de 1991, la Corte Constitucional está facultada para, en casos
+excepcionales, analizar la constitucionalidad de la norma demandada a la luz de
+argumentos no planteados en la demanda[64].
+Lo anterior, siempre que, a partir de las intervenciones la Corte advierta un
+“vicio evidente de inconstitucionalidad”[65].
+En este caso, sin embargo, la Sala Plena no advierte un vicio evidente de inconstitucionalidad
+de la norma demandada.
+
+36.
+*Metodología de la decisión.* La Sala Plena seguirá la
+siguiente metodología para resolver el caso. En primer lugar, se referirá a los
+límites a la competencia del legislador para definir la política criminal del Estado,
+y hará especial énfasis en el principio de legalidad estricta (**sección II.3 *infra***).
+En segundo lugar, la Sala llevará a cabo el examen de constitucionalidad de la
+norma demandada (**sección II.4 *infra***).
+
+## 3. Competencia del legislador para crear tipos penales. Reiteración de jurisprudencia
+
+37.
+Los artículos 114 y 150.2 de la Constitución le asignan al
+Congreso de la República la competencia para “determinar la política criminal
+del Estado”[66].
+En ejercicio de esta competencia, el legislador cuenta con un amplio margen de
+configuración normativa para crear, modificar o suprimir tipos
+penales, establecer modalidades punitivas, graduar penas aplicables y definir
+las reglas de procedimiento[67]. Esta competencia se fundamenta en el
+principio democrático y de soberanía popular, dado que exige que “el diseño de
+las respuestas penales a conductas consideradas reprochables o causantes de
+perjuicio social sea producto de una discusión que integre al colectivo y en la
+cual prime la participación”[68].
+
+38.
+El amplio margen de configuración normativa del legislador en
+materia penal, sin embargo, no es absoluto[69].
+La Corte Constitucional ha sostenido que en el diseño de la política criminal
+el legislador está sometido a dos tipos de límites constitucionales: explícitos
+e implícitos[70]:
+
+-
+Los límites *explícitos* son aquellas
+“prohibiciones que de manera expresa le fija la Constitución al legislador”[71] en materia
+penal, tales como: la prohibición de la pena de muerte (art. 11 de la CP);
+la prohibición de las penas crueles, inhumanas o degradantes (art. 12 de la CP)
+y la prohibición de las penas de destierro, prisión perpetua y confiscación
+(art. 34 de la CP).
+
+-
+Los límites *implícitos*, por su parte, son
+aquellos que le imponen al legislador el deber de “actuar de forma razonable y
+proporcionada”[72]
+para garantizar la protección de los “principios, derechos y deberes
+establecidos en la Constitución”[73].
+La jurisprudencia ha señalado que dentro de estos límites se encuentran, entre
+otros[74],
+*(i)* el principio de necesidad o *ultima* *ratio* del
+derecho penal, *(ii)* el principio de culpabilidad, *(iii)* el
+principio de lesividad, *(iv)* los principios de razonabilidad y
+proporcionalidad de la pena y *(v)* el principio de legalidad.[75].
+
+39.
+En tales términos, ha dicho la Corte, la
+Constitución opera como un mecanismo de “control de límites de competencia del
+legislador, con el fin de evitar excesos punitivos”[76]. El
+cumplimiento de estos límites constitucionales es una condición de validez de
+las normas penales, así como del ejercicio legítimo del *ius puniendi*.
+
+### 3.1. El principio de legalidad como límite al margen de configuración del legislador en materia penal
+
+40.
+El principio de legalidad en materia penal,
+conforme al cual no existe delito ni pena sin ley –*nullum crimen, nulla
+poena sine lege*–, está previsto en el inciso 2º del artículo 29 de la
+Constitución Política. Esta disposición constitucional prescribe que “[n]adie
+podrá ser juzgado sino conforme a leyes preexistentes al acto que se le imputa,
+ante juez o tribunal competente y con observancia de la plenitud de las formas
+propias de cada juicio”. El principio de legalidad en materia penal también
+está consagrado en múltiples instrumentos internacionales de derechos humanos
+que forman parte del bloque de constitucionalidad, a saber: los artículos 15
+del Pacto Internacional de Derechos Civiles y Políticos y 9 de la
+Convención Americana sobre Derechos Humanos. De acuerdo con la jurisprudencia
+constitucional e interamericana, el principio de
+legalidad en materia penal es un elemento definitorio del Estado de
+Derecho, una las principales conquistas del constitucionalismo
+democrático y un pilar del sistema de protección de las libertades y
+derechos fundamentales de las personas frente al ejercicio del poder punitivo
+del Estado[77].
+
+41.
+El principio de legalidad comprende tres subprincipios[78].
+Primero, el principio de reserva legal (*lex stricta*), el cual exige que
+los delitos y las penas estén previstos en una Ley en sentido formal, expedida
+por el Congreso de la República como órgano de representación popular[79].
+Segundo, el principio de irretroactividad de la ley penal (*lex praevia*),
+conforme al cual el tipo penal que prevé el delito y la sanción debe preexistir
+a la conducta[80]:
+una conducta no constituye delito ni puede ser objeto de
+sanción penal si no existe una ley previa que así lo establezca. Tercero, el
+principio de legalidad estricta o tipicidad (*lex certa*), el cual implica un mandato de claridad y precisión en la tipificación del
+delito y la sanción[81].
+En síntesis, conforme al principio de legalidad en materia penal, no
+puede existir crimen ni pena sin ley formal escrita, previa y cierta (“*nullum crimen, nulla poena sine lege scripta, praevia et certa*”[82]).
+
+42.
+El principio de legalidad estricta, tipicidad
+o taxatividad[83],
+consagrado en los artículos 6, 28 y 29 de la
+Constitución Política, obliga al legislador a definir
+la conducta punible y la sanción de forma clara, precisa e inequívoca[84]. Conforme
+a la jurisprudencia constitucional, este principio tiene dos
+dimensiones: una positiva y otra negativa. La dimensión positiva exige que
+“todos los componentes de un tipo penal (sujetos, verbos rectores, ingredientes
+subjetivos y objetivos, sanción, agravantes, etc.) deben estar determinados o
+ser razonablemente determinables por el intérprete”[85]. Esta dimensión busca que las personas conozcan “con exactitud
+cuáles son las conductas prohibidas”[86], de modo que puedan orientar su comportamiento
+conforme a un orden jurídico vigente y cierto[87].
+Ladimensión
+negativa, por su parte, prohíbe la vaguedad o ambigüedad de los tipos penales[88], lo que implica que “son inadmisibles desde
+el punto de vista constitucional los supuestos de hecho y las penas redactadas
+en forma incierta o excesivamente indeterminada”[89].
+
+43.
+La Corte Constitucional ha precisado que el
+principio de tipicidad no impone al legislador una obligación de claridad y
+precisión *absoluta* en la tipificación de la conducta punible y la
+sanción[90].
+La indeterminación semántica propia del lenguaje[91]
+y la textura abierta del derecho implican que “siempre existirán grados
+de ambigüedad o vaguedad en las normas penales”[92]; zonas grises de interpretación
+sobre el alcance de sus elementos que inciden en el proceso de adecuación
+típica. Esta circunstancia, sin embargo, no supone su inconstitucionalidad. De
+acuerdo con la jurisprudencia constitucional, la Constitución Política sólo
+prohíbe las indeterminaciones de la norma penal que sean insuperables[93], lo que ocurre si, a partir de las
+reglas generales de interpretación jurídica, no es posible precisar con un
+grado razonable de previsibilidad, claridad y precisión los elementos
+esenciales del tipo[94].
+
+44.
+En el mismo sentido, la Corte ha explicado que
+el principio de tipicidad no excluye por completo la discrecionalidad
+interpretativa del juez, “sino que la restringe hasta llegar a un grado
+admisible que garantice la reserva de ley y evite la arbitrariedad”[95]. Pretender que la tipificación de la
+conducta elimine toda discrecionalidad del operador jurídico, ha dicho la
+Corte, “es irreal”[96].
+Con todo, este tribunal ha enfatizado que el principio de legalidad estricta o
+tipicidad somete a los jueces al imperio de la ley. En
+efecto, de este principio se derivan los cánones de interpretación restrictiva
+de la norma penal y la prohibición de la analogía. Estos cánones garantizan que el proceso de adecuación típica tenga un grado óptimo de
+previsibilidad y aseguran que las autoridades judiciales no reemplacen la
+voluntad del legislador[97].
+
+45.
+En síntesis, el principio
+de legalidad estricta o tipicidad es un pilar esencial del sistema de
+garantismo penal que la Constitución Política instituye[98]. La
+exigencia de precisión, claridad y taxatividad en la tipificación del delito
+tiene una relación inescindible con el derecho fundamental al debido proceso,
+es una herramienta de control al poder punitivo del Estado, así como un
+instrumento de garantía de la libertad individual y de la seguridad
+jurídica[99].
+Al mismo tiempo, salvaguarda el derecho a la igualdad, dado que, al garantizar
+un grado razonable de previsibilidad y objetividad en el proceso de adecuación
+típica, asegura que “sólo hechos iguales sean objeto del mismo castigo”[100].
+
+### 3.2. El principio de legalidad estricta o tipicidad en tipos penales en blanco y tipos penales abiertos. Reiteración de jurisprudencia
+
+46.
+Existen algunas categorías de tipos penales –los tipos penales en
+blanco y abiertos– que tienen un grado de indeterminación
+semántica más alto que el ordinario[101].
+Estos tipos penales generan tensiones con el principio de legalidad[102],
+por lo que la jurisprudencia constitucional ha sostenido que están sometidos a
+reglas y condiciones específicas de constitucionalidad. En atención al objeto
+de la presente demanda, a continuación, la Sala Plena reitera y sintetiza el
+precedente constitucional en relación con el juicio de tipicidad estricta
+aplicable a cada uno de estos delitos:
+
+#### (i) Los tipos penales en blanco
+
+47.
+Los tipos penales en blanco son aquellos en los que la
+descripción del supuesto de hecho (precepto)[103]
+se encuentra desarrollado total o parcialmente por una norma de
+carácter extrapenal[104].
+Son tipos penales “incompletos”[105]
+o “imperfectos”[106]
+que exigen que en el proceso de adecuación típica el operador jurídico lleve a
+cabo un proceso de integración del tipo, en el que se acude a normas no penales
+–*normas de remisión*– que concretan el alcance de alguno de sus
+elementos. La Sala de Casación Penal[107]
+y la Corte Constitucional[108]
+han estimado que estos tipos penales tienen dos componentes normativos: *(i)*
+la norma penal propiamente dicha o “tipo penal básico” y *(ii)* la “norma
+de remisión”, esto es, la disposición no penal que se integra al tipo para
+desarrollar o concretar el significado y alcance de la conducta. Conforme a la
+jurisprudencia constitucional y ordinaria penal, los tipos penales en blanco
+pueden clasificarse en función de la jerarquía normativa de la norma de
+remisión. La remisión es *propia* cuando el tipo penal remite a una norma
+de rango legal[109].
+La remisión es *impropia* si el tipo penal en blanco remite
+a normas de rango infra legal, como actos administrativos[110].
+
+48.
+Los tipos penales en blanco constituyen una técnica de tipificación
+flexible *prima facie* constitucional que está amparada por el amplio
+margen de configuración del legislador en materia penal[111].
+La Corte Constitucional ha reconocido que existen “ciertos
+bienes jurídicos que se desarrollan en el marco de actividades sociales
+variables, dinámicas”[112],
+que impiden al legislador definir de forma taxativa y con absoluta precisión
+todas las conductas que pueden afectarlos[113].
+Esto es frecuente en asuntos económicos, de comercio exterior,
+salubridad pública, medio ambiente y recursos naturales[114]. En
+estos escenarios, los tipos penales en blanco y, en concreto, los de remisión *impropia*,
+constituyen una herramienta de tipificación que permite que la norma
+penal se actualice a esas dinámicas variables, por medio de la remisión
+a otras normas no penales[115]. Lo anterior, en el entendido de que las normas de rango infra legal
+son, por su propia naturaleza, de más fácil ajuste que la ley penal y, por lo
+tanto, “permiten la penetración y [actualización] de la sanción en la
+cada vez más compleja sociedad contemporánea”[116].
+Por lo demás, la administración, como encargada de la ejecución directa de la
+ley, “interpreta con mayor agilidad la realidad cambiante que el legislador
+quiso someter a su regla”, por lo que “resulta apenas entendible que éste
+recurra a la normativa administrativa para complementar la voluntad
+legislativa”[117].
+
+49.
+Con todo, la Corte Constitucional ha reconocido que los tipos
+penales en blanco generan tensiones con el principio de legalidad estricta.
+Esto es así, porque al no definir de forma definitiva los elementos del tipo y
+exigir una remisión a normas extrapenales para completar el tipo, introducen un
+grado de incertidumbre en la determinación de sus elementos esenciales[118].
+Por esta razón, este tribunal ha desarrollado requisitos que los tipos penales
+en blanco deben satisfacer para ser compatibles con la exigencia de tipicidad.
+Estos requisitos buscan garantizar un grado razonable de previsibilidad en el
+proceso de integración del tipo con otras normas no penales.
+
+50.
+En las sentencias C-367 y C-411 de 2022, así como en la Sentencia
+C-021 de 2023, la Corte Constitucional sistematizó estas exigencias en los
+términos que se describen en la siguiente tabla:
+
+| |
+| --- |
+| **Legalidad estricta de los tipos penales en blanco** |
+| 1. La norma de remisión debe ser claramente identificable. Es deseable que la remisión sea lo más expresa y explícita posible[119]. Con todo, la Corte Constitucional ha precisado que *(a)* la remisión de los tipos penales “a otros preceptos normativos no debe, necesariamente, ser expresa; es posible que el reenvío sea tácito”[120]; y *(b)* es constitucionalmente admisible que el legislador remita una “normativa dispersa, abundante y compleja”[121]. Lo anterior, siempre que el intérprete y el destinatario de la norma penal puedan individualizar “sin ambages, anfibologías o equívocos”[122] la norma o normas complementarias que se integran a la disposición penal para llevar a cabo el proceso de adecuación típica[123]. 2. La norma de remisión debe existir y hacer parte “del ordenamiento jurídico al momento de realizarse la conducta y de llevarse a cabo el proceso de adecuación típica”[124]. Esta regla admite que la norma complementaria sea expedida “con posterioridad al tipo penal, siempre y cuando la adecuación típica sea posterior a la norma complementaria. Esto garantiza el derecho a ser juzgado solo con base en las leyes preexistentes”[125]. 3. La norma de remisión debe permitir al intérprete “determinar inequívocamente el alcance de la conducta penalizada y la sanción correspondiente”[126], sin que haya lugar a “ambigüedades ni a indeterminaciones al respecto”[127]. La Corte ha precisado que la norma penal puede remitir a sistemas normativos “hiperregulados”[128], “abundantes y complejos de entender”[129]. Sin embargo, en estos casos debe garantizarse que la tipicidad post-remisión normativa sea clara y precisa. 4. La Corte Constitucional ha precisado que los tipos penales de remisión *impropia* deben satisfacer, además de los requisitos anteriores, dos condiciones adicionales: *(i)*La norma de remisión de rango infra legal debe tener un alcance general y ser de conocimiento público[130]. Esto, con el fin de garantizar su “oponibilidad social”[131] y que los ciudadanos “conozcan su contenido”[132]. *(ii)*La norma de remisión debe respetar “los principios y valores constitucionales, sobre la base de los principios de razonabilidad y proporcionalidad”[133]. |
+
+-Tabla 2-
+
+51.
+El cumplimiento concurrente de estos requisitos, ha dicho la
+Corte, es una condición de constitucionalidad y validez de los tipos penales en
+blanco.
+
+#### (ii) Los tipos penales abiertos
+
+52.
+Los tipos penales abiertos son aquellos en los que alguno de los
+elementos estructurales de la conducta punible está definido con expresiones
+que tienen un alto grado de indeterminación semántica, lo que implica que “no existe total precisión de las circunstancias en que la conducta
+debe realizarse”[134].
+Como se expuso, todos los tipos penales tienen un nivel de
+indeterminación que es connatural al lenguaje y el derecho. En este sentido, la
+apertura de las normas penales es, en realidad, una “cuestión de grados: hay
+tipos más cerrados y tipos más abiertos”[135].
+Por lo tanto, ha precisado la Corte, la calificación de un tipo penal como
+abierto *strictu sensu*, está reservada para aquellas conductas punibles
+que están tipificadas con un grado de indeterminación mayor al que es
+connatural al lenguaje.
+
+53.
+Los tipos penales abiertos son *prima facie*
+constitucionales[136].
+La jurisprudencia constitucional ha reconocido que “no toda
+la realidad sujeta a regulación penal es susceptible de ser descrita en moldes legales,cerrados *y* completos”[137].
+Esto implica que la exigencia constitucional de precisión y claridad en
+la tipificación de una conducta “sólo es posible hasta donde se lo permite su
+naturaleza”[138].
+En este sentido, este tribunal ha reiterado que los tipos penales abiertos se
+justifican cuando para el legislador es imposible describir la conducta punible
+de forma absolutamente inequívoca, perfecta y completa. Lo anterior, en
+atención a la naturaleza dinámica del bien jurídico que buscan proteger o “la
+multiplicidad de formas” que la conducta punible puede tomar en la realidad[139].
+
+54.
+La Corte Constitucional ha reiterado, de forma pacífica y
+uniforme, que la inconstitucionalidad de los tipos penales
+abiertos no deriva de “su indeterminación, sino de la imposibilidad de
+superarla satisfactoriamente”[140].
+La indeterminación es insuperable si el grado de vaguedad o ambigüedad
+es de tal entidad que, pese a los esfuerzos interpretativos, es imposible “individualizar los comportamientos prohibidos y sancionados”[141]. En contraste, la indeterminación será superable si es
+“moderada”[142],
+lo que implica que, mediante un ejercicio de actividad interpretativa ordinaria,
+es posible precisar el alcance de la conducta punible con un grado razonable de
+precisión[143].
+Esto ocurre si existen referentes jurídico-normativos –*vgr*., precedentes
+judiciales de órganos de cierre[144],
+antecedentes legislativos[145],
+“una larga tradición jurídica en el ordenamiento”[146] o “las denominaciones de
+los capítulos y títulos del código penal”[147]–
+que permitan a un “destinatario promedio”[148]
+determinar el contenido y alcance de la conducta punible y la sanción[149].
+
+55.
+El cumplimiento de estos requisitos tiene como finalidad proteger
+la libertad de los ciudadanos y garantizar el derecho fundamental al debido
+proceso. Por esta razón, la Corte ha enfatizado que para que la indeterminación
+sea superable, el resultado de la interpretación del tipo penal abierto debe
+asegurar a los destinatarios de la ley “un grado admisible de previsibilidad
+sobre las consecuencias jurídicas de sus comportamientos”[150]. La previsibilidad es, a
+su turno, una importante salvaguarda del derecho de defensa. Esto es así, dado
+que la razonable certeza sobre los elementos del tipo “es un presupuesto de la
+posibilidad de verificar(…)la existencia del
+hecho; de probary controvertirlas pruebas”[151]
+y de refutar la adecuación típica ante una eventual imputación o acusación por
+haber cometido el delito[152].
+
+### 3.3. Jurisprudencia relevante
+
+56.
+La Corte Constitucional se ha pronunciado en numerosas ocasiones
+sobre la constitucionalidad de tipos penales en blanco y abiertos a la luz del
+principio de legalidad estricta. Por su relevancia y similitud con la demanda
+objeto de estudio, la Sala resalta las sentencias C-917 de 2001, C-742 de 2012,
+C-084 de 2013, C-367 de 2022, C-411 de 2022 y C-021 de 2023:
+
+57.
+Sentencia C-917 de 2001. La Corte Constitucional estudió
+una demanda en contra de, entre otros, el artículo 410 del Código Penal, el
+cual prevé el delito de celebración de contrato sin cumplimiento de los
+requisitos legales:
+
+“**Artículo 410. Contrato
+sin cumplimiento de requisitos legales**. El servidor público que por
+razón del ejercicio de sus funciones tramite contrato *sin observancia de
+los requisitos legales esenciales o lo celebre o liquide sin verificar el
+cumplimiento de los mismos*, incurrirá en prisión de cuatro (4) a
+doce (12) años, multa de cincuenta (50) a doscientos (200) salarios mínimos
+legales mensuales vigentes, e inhabilitación para el ejercicio de derechos y
+funciones públicas de cinco (5) a doce (12) años” (subrayado fuera del texto).
+
+58.
+El demandante argumentaba que el tipo penal desconocía el
+principio de legalidad estricta o tipicidad, debido a que la expresión “sin
+observancia de los requisitos legales esenciales” era vaga e indeterminada. A
+su juicio, si bien la Ley 80 de 1993 “consagra las reglas y principios a los
+que el ente estatal debe atenerse, (…) no establece un procedimiento formal
+riguroso, sino pautas generales”. Estas pautas, señalaba el demandante, no
+permitían diferenciar los requisitos esenciales de los meramente accidentales o
+naturales.
+
+59.
+La Corte Constitucional consideró que la norma demandada era
+exequible y no vulneraba el principio de legalidad estricta. Esto, porque la
+indeterminación semántica de la expresión “requisitos legales esenciales” era
+superable mediante la remisión “a la norma legal vigente, en cuanto al
+establecimiento de tales requisitos en cada uno de los distintos tipos de
+contrato”. De esta forma, señaló la Corte, “se integra la normatividad en
+materia vigente para la aplicación de la conducta considerada por la ley como
+delito, con lo cual, el procesado tiene conocimiento de cuáles son los
+requisitos legales esenciales de tales contratos, sabe que su inobservancia
+constituye una conducta punible, ya sea al tramitarlos o en la celebración o al
+liquidarlos, y puede ejercer a plenitud su derecho de defensa, con lo que se da
+estricto cumplimiento a los artículos 28 y 29 de la Constitución”.
+
+60.
+Sentencia C-742 de 2012. La Corte Constitucional estudió
+una demanda de constitucionalidad en contra de, entre otros, el artículo 44 de
+la Ley 1453 de 2011, el cual tipificó el delito de obstrucción a vías públicas:
+
+“Artículo
+44. La Ley 599 de 2000 tendrá un artículo del siguiente tenor:
+
+**Artículo
+353A. Obstrucción a vías públicas que afecten el orden público**. El que por *medios
+ilícitos* incite, dirija, constriña o proporcione los medios para
+obstaculizar de manera temporal o permanente, selectiva o general, las vías o
+la infraestructura de transporte de tal manera que atente contra la vida
+humana, la salud pública, la seguridad alimentaria, el medio ambiente o el
+derecho al trabajo, incurrirá en prisión de veinticuatro (24) a cuarenta y ocho
+meses (48) y multa de trece (13) a setenta y cinco (75) salarios mínimos
+legales mensuales vigentes y pérdida de inhabilidad de derechos y funciones
+públicas por el mismo término de la pena de prisión” (subrayado fuera del
+texto).
+
+61.
+El demandante sostenía que, al tipificar la conducta, el
+legislador había desconocido el principio de legalidad estricta o tipicidad
+puesto que la indeterminación de, entre otras, la expresión “medios ilícitos”, permitía
+que la norma fuera interpretada de manera restrictiva en perjuicio del derecho
+a la protesta social. La Corte Constitucional, encontró que el cargo no prosperaba
+porque, pese a que la expresión “medios ilícitos” tenía una relativa vaguedad,
+en el contexto del tipo penal “su sentido es lo suficientemente claro”. Al
+respecto, señaló lo siguiente:
+
+“[N]ótese que, según el
+precepto, es indispensable que sea “*por medios ilícitos*” que
+la persona “*incite, dirija, constriña o proporcione los medios*” para
+obstaculizar las vías o la infraestructura de transporte. En ciertos casos muy
+puntuales quizás podría haber debates en torno a si se dieron estos elementos,
+pero en términos generales y abstractos no hay ningún exceso de imprecisión en
+esas palabras, y por ejemplo sería posible advertir cuándo una persona
+constriñe a otra por medios ilícitos para que obstaculice una vía pública, o
+cuando la incita. Los verbos cuestionados tienen entonces un sentido gramatical
+lo suficientemente comprensible, en el control abstracto. (…)
+
+La expresión “*por medios
+ilícitos*”, que el ciudadano califica de demasiado indeterminada, no
+presenta una oscuridad insuperable. En efecto, cuando el tipo requiere un
+actuar “*por medios ilícitos*”, es razonable entender que establece
+como condición necesaria para la tipicidad de la conducta, que el agente logre
+la incitación, dirección, constreñimiento, entre otros, como resultado directo
+de un comportamiento de suyo ilícito. Y en la teoría jurídica de los sistemas
+de derecho civil, aunque puede haber desacuerdos en aspectos marginales sobre
+la materia, hay suficiente claridad en torno a que comportamientos ilícitos son
+aquellos actos que reúnen al menos dos propiedades: que efectivamente están
+prohibidos, y a los cuales se les enlaza una penalidad coherente con la
+Constitución”.
+
+62.
+Sentencia C-084 de 2013*.* La Corte Constitucional
+estudió una demanda en contra de, entre otros, el artículo 22 de la Ley 1474 de
+2011, que creó el tipo penal de “omisión de control en el sector de la salud”:
+
+“**Artículo 22. *Omisión de
+control en el sector de la salud.***La Ley 599 de 2000 tendrá un
+artículo 325B,
+el cual quedará así:
+
+El empleado o director de una
+entidad vigilada por la Superintendencia de Salud, que con el fin de ocultar o
+encubrir un *acto de corrupción, omita el cumplimiento de alguno o todos
+los mecanismos de control establecidos para la prevención y la lucha contra el
+fraude en el sector de la salud*, incurrirá, por esa sola conducta, en
+la pena prevista para el artículo 325 de
+la Ley 599 de 2000” (subrayado fuera del texto).
+
+63.
+Los demandantes argumentaban que esta disposición vulneraba el
+principio de legalidad estricta, porque introdujo una prohibición con alto
+grado de indeterminación, consistente en omitir “el cumplimiento de alguno
+o todos los mecanismos de control establecidos para la prevención y la lucha
+contra el fraude en el sector salud”. Señalaron que “si bien la norma
+condiciona[ba] la tipicidad de la conducta a que se efectúe con el fin de
+ocultar o encubrir un acto de corrupción” esa prevención no era suficiente“porque
+no existe definición de ‘corrupción’en la norma, ni es
+posible determinar quién está facultado para señalar cuándo se presenta un acto
+de corrupción, así que cualquier irregularidad puede estimarse como
+corrupción”.
+
+64.
+La Corte declaró la constitucionalidad del artículo 22 de la Ley
+1474 de 2011, por considerar que no vulneraba el principio de legalidad
+estricta. A juicio de la Corte, todos los elementos del tipo penal podían ser
+determinados a partir de una interpretación sistemática de la Ley 1474 de 2011
+y de otras disposiciones de carácter legal que regulan el servicio de salud y
+establecen los ámbitos de control de la Superintendencia de Salud. De un lado, refirió
+que el concepto de “actos de corrupción” estaba definido en los artículos 2, 3,
+13, 16 y 33 de la Ley 1474 de 2011, como también en la Ley 412 de 2017 y la Ley
+970 de 2005. Por otra parte, señaló que era posible “discernir cuáles son los
+mecanismos que al ser omitidos darían lugar a la tipificación de la conducta
+punible, como quiera que tanto la Ley 1474 de 2011, como las demás normas
+legales que establecen los mecanismos para controlar el manejo de los recursos
+de la salud por las entidades que hacen parte del sistema de seguridad social
+en salud, permiten conocer con precisión, cuál es la conducta penalmente
+reprochada”.
+
+65.
+Sentencia C-367 de 2022. La Corte examinó una demanda
+presentada contra los artículos 328, 328A, 328B, 328C, 329, 330, 331, 332, 333,
+334, y 335 del Código Penal. Estas disposiciones
+crearon, entre otros, los delitos de aprovechamiento ilícito de los recursos
+naturales renovables, tráfico de fauna, caza ilegal, pesca ilegal y manejo
+ilícito de especies exóticas. De acuerdo con las disposiciones demandadas, para
+la configuración del tipo penal estas conductas debían llevarse a cabo “sin permiso de autoridad competente o con
+incumplimiento de la normatividad existente”.
+Así, a título de ejemplo, el delito de aprovechamiento ilícito fue tipificado
+en los siguientes términos:
+
+**“Artículo 328.
+Aprovechamiento ilícito de los recursos naturales renovables.** {{Artículo modificado por el artículo 1 de la Ley 2111 de 2021. El nuevo texto es el siguiente:}} El que *con incumplimiento de la
+normatividad existente* se apropie, acceda, capture, mantenga,
+introduzca, extraiga, explote, aproveche, exporte, transporte, comercie,
+explore, trafique o de cualquier otro modo se beneficie de los especímenes,
+productos o partes de los recursos fáunicos, forestales, florísticos,
+hidrobiológicos, corales, biológicos o genéticos de la biodiversidad
+colombiana, incurrirá en prisión de sesenta (60) a ciento treinta y cinco (135)
+meses y multa de ciento treinta y cuatro (134) a cuarenta y tres mil
+setecientos cincuenta (43.750) salarios mínimos legales mensuales vigentes”.
+
+66.
+El demandante argumentaba que estos
+delitos eran tipos penales en blanco que vulneraban el principio de legalidad
+estricta o tipicidad. A su juicio, la fórmula de remisión “con incumplimiento
+de la normatividad vigente” no satisfacía los requisitos desarrollados por la
+jurisprudencia constitucional para las remisiones propias (precisión,
+conocimiento público y alcance general), dado que no era posible identificar
+cuáles eran *(i)* las normas ambientales a las que debía acudirse para
+integrar el tipo y *(ii)* tampoco las autoridades ambientales que podían
+expedir la “normatividad vigente”.
+
+67.
+La Corte Constitucional consideró que la fórmula de remisión “con
+incumplimiento de la normatividad vigente” satisfacía los requisitos
+de alcance general y conocimiento público. Esto, porque “si bien
+la normatividad existente en materia ambiental puede ser abundante y compleja
+de entender, lo cierto es que tiene un orden y una lógica que se deriva de la
+estructura jerárquica de nuestro ordenamiento jurídico”. Sin embargo, encontró
+que no cumplía plenamente con el requisito de precisión, puesto que el
+legislador “no determinó cuáles son las autoridades que pueden emitir la
+‘normatividad vigente’ a la que remiten los tipos penales”. Habida cuenta de
+que en “materia ambiental existen autoridades con funciones de distinta índole
+como prevención, control, vigilancia, regulación (…) un entendimiento amplio de
+esa remisión normativa permitiría que autoridades ambientales con funciones,
+por ejemplo, de control y vigilancia emitieran regulaciones que complementaran
+los tipos penales en blanco, lo cual incumpliría el principio de legalidad y
+taxatividad en los delitos”.
+
+68.
+Con todo, la Corte consideró que esta indeterminación no conducía
+a la inexequibilidad de la norma. Según la Corte, “en desarrollo del principio
+de conservación del derecho, si esta Corporación encuentra que una norma puede
+ser interpretada de una manera que resulte respetuosa de la Constitución,
+entonces, debe emitir un fallo condicionado”. En este sentido, a pesar de que
+el legislador no determinó de manera precisa cuáles eran las
+autoridades competentes para emitir la normatividad que complementa los tipos
+penales en blanco aquí estudiados, “lo cierto es que esa respuesta sí la brinda
+el ordenamiento jurídico colombiano, si se efectúa una interpretación armónica
+de las normas demandadas y la Constitución. Para realizar esa
+determinación, esta Corte encuentra que el Sistema Nacional Ambiental –SINA– es
+una herramienta indispensable”.
+
+69.
+La Corte constató que las autoridades
+ambientales en el país están organizadas bajo el Sistema Nacional Ambiental
+–SINA–, que integra autoridades con distintas funciones. En criterio de la
+Corte, para salvaguardar el principio de tipicidad debía entenderse que “sólo
+aquellas con poder regulativo son las que pueden entenderse incluidas en la
+fórmula de remisión impropia que propuso el legislador”. En este sentido, la
+Corte resolvió declarar la exequibilidad condicionada de los tipos penales
+demandados en el entendido de que “las normas de reenvío que sean de naturaleza
+administrativa deben ser expedidas por las instituciones públicas
+pertenecientes al Sistema Nacional Ambiental con competencias regulatorias;
+sean precisas, previas a la configuración de la conducta, con alcance general y
+de conocimiento público”.
+
+70.
+Sentencia C-411 de 2022. La Corte estudió una demanda de
+constitucionalidad en contra del artículo 1º de la Ley 2111 de 2022,“por medio de la cual se sustituye el título XI ‘De los delitos contra
+los recursos naturales y el medio ambiente’ de la Ley 599 de 2000, se modifica
+la Ley 906 de 2004 y se dictan otras disposiciones”. En concreto, en contra del
+artículo 1º, el cual adicionó *(i)* el delito
+de apropiación ilegal de baldíos (art. 337 del Código Penal) y *(ii)* el
+delito de financiación de la apropiación ilegal de baldíos (art. 337A del
+Código Penal):
+
+**“Artículo 337. *Apropiación
+ilegal de baldíos de la Nación***. El que usurpe,
+ocupe, utilice, acumule, tolere, colabore o permita la apropiación de baldíos
+de la Nación, *sin el lleno de los requisitos de ley* incurrirá en
+prisión de sesenta (60) a ciento cuarenta y cuatro (144) meses y multa de
+ciento cuarenta (140) a cincuenta mil (50.000) salarios mínimos legales
+mensuales vigentes (énfasis añadido)”
+
+(…)
+
+**Artículo 337A.*Financiación de la apropiación ilegal de los baldíos de la nación****.* El que directa o indirectamente provea,
+recolecte, entregue, reciba, administre, aporte, custodie o guarde fondos,
+bienes o recursos, o realice cualquier otro acto que promueva, organice, apoye,
+mantenga, financie, patrocine, induzca, ordene o dirija la apropiación ilegal
+de baldíos de la nación descrito en el artículo anterior, incurrirá en prisión
+de noventa y seis (96) a ciento ochenta (180) meses y multa de trescientos
+(300) a cincuenta mil (50.000) salarios mínimos legales mensuales vigentes, sin
+perjuicio del decomiso de los bienes muebles, inmuebles o semovientes
+encontrados en los baldíos ilegalmente apropiados”.
+
+71.
+Los demandantes argumentaban que las normas demandadas preveían
+tipos penales en blanco que desconocían el principio de legalidad estricta o
+tipicidad. Esto, porque la expresión “sin el lleno de los requisitos de ley”
+implicaba una ambigüedad y vaguedad que no permitía determinar con claridad y precisión
+cuál era la conducta punible. La Corte Constitucional consideró que, tal y como
+lo sostuvieron los demandantes, la fórmula de remisión “sin el lleno de los
+requisitos de ley” generaba una indeterminación insuperable de la conducta
+punible. Esta fórmula suponía, señaló la Corte, que el intérprete debía
+remitirse al régimen de baldíos, el cual, sin embargo, había generado múltiples
+debates interpretativos complejos y, por lo tanto, no aportaba claridad ni
+precisión en el proceso de adecuación típica:
+
+“El
+régimen de baldíos al que remiten las disposiciones acusadas cuando señala que
+se castiga la apropiación, utilización, entre otros, de bienes baldíos “*sin
+el lleno de los requisitos de ley*” genera discusiones interpretativas
+complejas, así como valoraciones probatorias amplias, frente a lo cual el
+ciudadano no está en capacidad de establecer de forma razonable y previa si su
+proceder se enmarca o no en una conducta criminal. En efecto, el régimen de
+baldíos, en su integralidad, ha generado discusiones interpretativas y
+conflictos entre, por una parte, *jueces civiles*y *autoridades
+administrativas;*y, por otra, las altas cortes (así lo demuestra la
+SU-282 de 2022). Estos conflictos podrían trasladarse ahora a la justicia
+penal, pese a que como se ha señalado la Constitución exige una precisión aún
+mayor en el campo penal puesto que involucra el máximo poder punitivo del
+Estado y la eventual sanción de privación de libertad. Tal indeterminación
+afecta el principio de estricta legalidad de las disposiciones acusadas pues,
+en síntesis, implicaría que no será fácil saber, antes de la decisión del juez
+penal, qué conductas están castigadas y cuáles no. Esta conclusión también
+repercute en el artículo 337A en tanto que este último está atado a la suerte
+del primero cuando señala que la conducta de financiación ocurre ante la ‘*apropiación
+ilegal de baldíos de la nación descrita en el artículo anterior**’*.
+
+Así, cabe resaltar que la
+incertidumbre identificada en el objeto material de la conducta no puede ser
+superada a partir de una presunción legal sobre la existencia de un bien
+baldío”.
+
+72.
+Sentencia C-021 de 2023. La Corte estudió una demanda de
+constitucionalidad en contra del artículo 1º de la Ley 2111 de 2022 el cual,
+entre otros, estableció el delito de daños a los recursos naturales y ecocidio.
+Esta conducta quedó tipificada en el artículo 333 del Código Penal en los
+siguientes términos:
+
+**Artículo 333.** ***Daños
+en los recursos naturales y ecocidio***. El que con incumplimiento de la
+normatividad existente destruya, inutilice, haga desaparecer o cause un impacto
+ambiental grave o de cualquier otro modo dañe los recursos naturales a que se
+refiere este título o a los que estén asociados con estos, incurrirá en prisión
+de sesenta (60) a ciento treinta y cinco (135) meses y multa de ciento sesenta
+y siete (167) a dieciocho mil setecientos cincuenta (18.750) salarios mínimos
+legales mensuales vigentes.
+
+73.
+Los demandantes argumentaron que el artículo 333 desconocía el
+principio de legalidad estricta o tipicidad porque, entre otras, la expresión “*con
+incumplimiento de la normatividad existente*” no permitía determinar con
+precisión y claridad la conducta sancionable. La Corte consideró que la
+acusación de los demandantes no debía prosperar. Señaló que el tipo penal
+contenía una remisión normativa “a partir de la expresión ‘con incumplimiento
+de la normatividad vigente’ que les permite a los operadores judiciales adecuar
+su margen de actuación”. Asimismo, refirió que, “como lo señaló recientemente
+esta corporación en la Sentencia C-367 de 2022, dicha remisión ‘ata a los
+operadores jurídicos de manera que reduce su margen de actuación arbitraria” y
+garantiza que adopten “decisiones ajustadas a las condiciones o circunstancias
+de cada caso concreto, que no pueden ser anticipadas plenamente por la ley,
+pero deben ser tenidas en cuenta para que la finalidad de la ley penal se
+cumpla”. Con fundamento en estas consideraciones, la
+Corte resolvió declarar la exequibilidad de las normas demandadas.
+
+74.
+**Síntesis de las reglas de
+decisión**. La siguiente tabla sintetiza
+las reglas de decisión relevantes para resolver la presente demanda de
+inconstitucionalidad:
+
+| |
+| --- |
+| **Síntesis de las reglas de decisión** |
+| 1. El principio de legalidad estricta, tipicidad o taxatividad, obliga al legislador a definir la conducta punible y la sanción de forma clara, precisa e inequívoca. 2. Con todo, la Corte Constitucional ha precisado que el principio de tipicidad no impone al legislador una obligación de claridad y precisión absoluta en la tipificación de la conducta punible y la sanción. La jurisprudencia constitucional ha reiterado que “no toda la realidad sujeta a regulación penal es susceptible de ser descrita en moldes legales,cerrados *y* completos”[153]. Esto implica que la exigencia constitucional de precisión y claridad en la tipificación de una conducta “sólo es posible hasta donde se lo permite su naturaleza”[154]. 3. Los tipos penales en blanco y abiertos son *prima facie* constitucionales. La Corte Constitucional ha reconocido que estos tipos penales son imperfectos o incompletos, dado que emplean fórmulas de tipificación flexibles o de remisión normativa, que generan algún grado de indeterminación o incertidumbre. Sin embargo, esto no implica que sean inconstitucionales. De acuerdo con la jurisprudencia constitucional estos tipos penales serán constitucionales siempre y cuando la indeterminación de la conducta punible sea *superable*. Esto ocurre si, a partir de las reglas generales de interpretación jurídica, es posible determinar los elementos esenciales del tipo con un grado razonable de previsibilidad, claridad y precisión. 4. La Corte Constitucional ha desarrollado cuatro requisitos que los tipos penales en blanco deben satisfacer para ser compatibles con el principio de legalidad estricta o tipicidad. *(i)*La norma de remisión debe ser claramente identificable por parte del intérprete y el destinatario de la norma penal. De acuerdo con la Corte, la remisión *(a)* no debe ser expresa y *(b)* puede dirigirse a normatividades diversas, amplias y complejas. *(ii)*La norma de remisión debe existir y hacer parte del ordenamiento jurídico al momento de realizarse la conducta y de llevarse a cabo el proceso de adecuación típica. *(iii)*La norma de remisión debe permitir al intérprete determinar inequívocamente el alcance de la conducta penalizada y la sanción correspondiente. *(iv)*Los tipos penales en blanco de remisión *impropia* deben satisfacer dos requisitos adicionales, según los cuales la norma de remisión *(a)* debe tener un alcance general y ser de conocimiento público y *(b)* respetar los principios y valores constitucionales. 5. Estas reglas jurisprudenciales han sido reiteradas en, entre otras, las sentencias C-917 de 2001, C-742 de 2012, C-084 de 2013, C-367 de 2022, C-411 de 2022 y C-021 de 2023. En estas decisiones la Corte ha declarado la exequibilidad de tipos penales que, al tipificar la conducta sancionable, emplean expresiones o fórmulas de remisión normativa tales como “sin el lleno de requisitos legales”, “con incumplimiento de la normatividad vigente”, “sin observancia de los requisitos legales esenciales” y “medios ilícitos”. La Corte ha reconocido que estas fórmulas de remisión son comunes en la tipificación de conductas punibles y son *prima facie* constitucionales. Lo anterior, a menos de que su significado no sea determinable o el régimen de remisión carezca de una lógica y coherencia interna que impida precisar razonablemente el alcance de la conducta punible. |
+
+-Tabla 3-
+
+## 4. Examen de constitucionalidad de la norma demandada
+
+75.
+En este acápite, la Sala Plena abordará el examen de constitucionalidad
+de la norma demandada en dos secciones. En la primera, delimitará el contexto y
+contenido del artículo 410A del Código Penal (**sección****4.1** ***infra*)**.
+En concreto, la Sala Plena se referirá a los antecedentes legislativos y describirá
+los elementos estructurales del tipo penal. En la segunda, examinará si la
+disposición demandada vulnera el principio de legalidad estricta o tipicidad (**sección** **4.2** ***infra*)**.
+
+## 4.1. El artículo 410A del Código Penal. Contexto y contenido normativo
+
+### 4.1.1. Antecedentes legislativos
+
+76.
+El 12 de julio de 2011, el Congreso de la República expidió la
+Ley 1474 de 2011, “por la cual se dictan normas orientadas a fortalecer los
+mecanismos de prevención, investigación y sanción de actos de corrupción y la
+efectividad del control de la gestión pública”. Esta ley tuvo como objeto
+general “introducir nuevas disposiciones que se ajusten a las necesidades
+actuales que la lucha contra la corrupción exige, propendiendo subsanar e
+integrar aquellos aspectos en los cuales se requiere una acción contundente”[155].
+El capítulo II de la Ley 1474 de 2011 creó “medidas penales en la lucha contra
+la corrupción pública y privada”[156].
+Estas medidas penales se implementaron con la finalidad de: *(i)* permitir
+al Estado “ejercer una represión del fenómeno”[157]
+de la corrupción, *(ii)* “hacer un llamado preventivo general a que las personas que piensan incurrir en un acto de corrupción desistan”[158] y *(iii)* “evitar
+la impunidad de eventos que presentan características especiales que los
+diferencian de otros delitos”[159].
+
+77.
+El artículo 27 de la Ley 1474 de 2011, mediante el cual se
+adicionó el artículo 410A del Código Penal, creó el tipo penal denominado
+“Acuerdos restrictivos de la competencia”[160].
+De acuerdo con la exposición de motivos, la creación de este tipo penal buscaba
+“sancionar fundamentalmente los ya frecuentes casos en los cuales los
+proponentes de un proceso precontractual se ponen de acuerdo para engañar al
+Estado”[161].
+Durante el trámite legislativo, varios congresistas coincidieron en la
+importancia de sancionar penalmente “los acuerdos restrictivos de la
+competencia en materia de contratación”[162]
+pública. Esto es, los acuerdos entre proponentes que tuvieran como objeto
+“restringir la competencia”[163]
+y “establecer barreras artificiales” en los procesos de contratación con el
+Estado[164].
+Asimismo, otros congresistas resaltaron que el delito también permitiría
+sancionar penalmente a los funcionarios públicos que establecieran requisitos ilegales
+e “innecesarios para acceder democráticamente a los contratos y favorecer así a
+una determinada persona, natural o jurídica, con la adjudicación”[165].
+
+78.
+Este artículo fue objeto de algunas modificaciones durante el
+trámite legislativo, que se sintetizan en la siguiente tabla:
+
+| | | | |
+| --- | --- | --- | --- |
+| **Proyecto - redacción original** | **Informe de ponencia para primer debate en el Senado** | **Informe de ponencia para primer debate en Cámara** | **Tercer debate en Cámara** |
+| **Artículo 30.** ***Acuerdos restrictivos de la competencia***. El que en un proceso de licitación pública, selección abreviada o concurso se concertare con otro proponente con el fin de alterar el procedimiento contractual, incurrirá en prisión de dos (2) a cuatro (4) años y multa de cien (100) a doscientos (200) salarios mínimos legales mensuales vigentes. | **Artículo 30. *Acuerdos restrictivos de la competencia***. El que en un proceso de licitación pública, selección abreviada o concurso se concertare con otro proponente con el fin de alterar el procedimiento contractual, incurrirá en prisión de dos (2) a cuatro (4) años y multa de cien (100) a doscientos (200) salarios mínimos legales mensuales vigentes **e inhabilidad para contratar con entidades estatales por ocho (8) años**. | **Artículo 30. *Acuerdos restrictivos de la competencia***. El que en un proceso de licitación pública, selección abreviada o concurso se concertare con otro proponente con el fin de alterar **ilícitamente** el procedimiento contractual, incurrirá en prisión de dos (2) a cuatro (4) años y multa de cien (100) a doscientos (200) salarios mínimos legales mensuales vigentes e inhabilidad para contratar con entidades estatales por ocho (8) años. | **Artículo 30. *Acuerdos restrictivos de la competencia***. El que en un proceso de licitación pública, **subasta pública**, selección abreviada o concurso se concertare con otro con el fin de alterar ilícitamente el procedimiento contractual, incurrirá en prisión de seis (6) a doce (12) años y multa de doscientos (200) a mil (1.000) salarios mínimos legales mensuales vigentes e inhabilidad para contratar con entidades estatales por ocho (8) años. **Parágrafo. El que en su condición de delator o clemente mediante resolución en firme obtenga exoneración total de la multa a imponer por parte de la Superintendencia de Industria y Comercio en una investigación por acuerdos anticompetitivos en un proceso de contratación pública obtendrá los siguientes beneficios: reducción de la pena en una tercera parte, un 40% de la multa a imponer y una inhabilidad para contratar con entidades estatales por cinco (5) años.** |
+
+-Tabla 4-
+
+79.
+La Sala Plena resalta que la tabla 4 *supra* evidencia que en
+el trámite legislativo se efectuaron dos modificaciones al tipo penal demandado
+que son relevantes para resolver la presente demanda:
+
+a)
+Inclusión de la expresión “ilícitamente”. En el informe de
+ponencia para tercer debate en la Cámara de Representantes, los ponentes
+introdujeron una modificación que buscaba precisar “que para que se configure
+el delito, el acuerdo debe buscar alterar ‘ilícitamente’ el procedimiento
+contractual”[166].
+Por esta razón, sugirieron una nueva redacción del tipo penal, conforme a la
+cual la conducta punible consistiría en “concertar[s]e con otro proponente con
+el fin de alterar ***ilícitamente*** el procedimiento
+contractual” (énfasis añadido). En criterio de la Sala Plena, esta modificación
+es relevante porque da cuenta de que el legislador no quiso sancionar cualquier
+conducta que incidiera en un procedimiento contractual. Por el contrario, el
+legislador precisó de forma expresa que, para la configuración de este delito,
+el acuerdo entre los sujetos debía tener una finalidad de alteración *ilícita*.
+
+b)
+Adición del parágrafo. Durante el tercer debate del proyecto en
+la Comisión Primera de la Cámara de Representantes, por solicitud de la
+Superintendencia de Industria y Comercio, un grupo de representantes a la
+Cámara[167]
+sugirió incluir un parágrafo que estableciera beneficios penales para quien
+actuara como delator o clemente ante el proceso administrativo[168]. Lo anterior, para estimular que
+las personas que “participen en esos acuerdos restrictivos de competencia,
+hagan las correspondientes denuncias”[169]. A juicio de la Sala, la inclusión
+del parágrafo permite inferir que el legislador comprendía que el delito
+sancionaba penalmente los acuerdos restrictivos de la competencia en procesos
+de contratación pública y, de este modo, complementaba las sanciones
+administrativas para estas conductas, las cuales ya existían en el régimen de
+protección a la libre competencia.
+
+80.
+En síntesis, de acuerdo con los antecedentes legislativos, la
+creación del tipo penal denominado “Acuerdos restrictivos de la competencia”
+tuvo como objeto sancionar las conductas anticompetitivas en los procesos de
+contratación pública. Lo anterior, en un contexto más general de lucha contra
+la corrupción privada y pública que buscaba fortalecer la capacidad del Estado
+para reprimir de forma más efectiva y contundente este fenómeno.
+
+### 4.1.2. Elementos del tipo penal demandado
+
+81.
+La norma demandada es el artículo 410A del Código Penal,
+adicionado por el artículo 27 de la Ley 1474 de 2011. Este tipo penal forma
+parte del Capítulo Cuarto, “de la celebración indebida de contratos”, del
+Título XV, “delitos contra la administración Pública”, del Código Penal. Esta
+conducta fue tipificada por el legislador en los siguientes términos:
+
+“**Artículo 410A. *Acuerdos
+restrictivos de la competencia***. El que en un proceso de licitación
+pública, subasta pública, selección abreviada o concurso se concertare con otro
+con el fin de alterar ilícitamente el procedimiento contractual, incurrirá en prisión
+de seis (6) a doce (12) años y multa de doscientos (200) a mil (1.000) salarios
+mínimos legales mensuales vigentes e inhabilidad para contratar con entidades
+estatales por ocho (8) años.
+
+Parágrafo. El que en su
+condición de delator o clemente mediante resolución en firme obtenga
+exoneración total de la multa a imponer por parte de la Superintendencia de
+Industria y Comercio en una investigación por acuerdo anticompetitivos en un
+proceso de contratación pública obtendrá los siguientes beneficios: reducción
+de la pena en una tercera parte, un 40% de la multa a imponer y una inhabilidad
+para contratar con entidades estatales por cinco (5) años”.
+
+82.
+La jurisprudencia constitucional ha señalado que los tipos
+penales “constituyen el mecanismo mediante el cual el
+legislador describe en forma abstracta las conductas humanas que son objeto de
+reproche social y de punición”. Los tipos penales se componen por una
+estructura bipartita: el precepto y la sanción[170].
+El precepto, a su vez, se compone por: *(i)* el sujeto activo[171];
+*(ii)* el sujeto pasivo[172]
+y *(iii)* la acción o verbo rector[173].
+
+83.
+La siguiente tabla sintetiza los elementos estructurales del tipo
+penal demandado, que el legislador denominó “acuerdos restrictivos de la
+competencia”:
+
+| | |
+| --- | --- |
+| **Artículo 410A del Cogido penal: “acuerdos restrictivos de la competencia”** | |
+| **Sujeto activo** | El sujeto activo es indeterminado –no calificado– y plurisubjetivo. Lo primero –*indeterminado–*, porque la norma penal utiliza la expresión “el que”, lo que supone que cualquier persona puede realizar la conducta punible, con independencia de su condición jurídica. Lo segundo –*plurisubjetivo*– porque la disposición emplea la expresión “con otro”, por lo que exige una concertación entre dos o más sujetos activos. |
+| **Sujeto pasivo** | El sujeto pasivo es el Estado, como titular del bien jurídico de la administración pública. |
+| **Acción o verbo rector** | Concertarse. |
+| **Ingredientes normativos** | 1. Un proceso contractual de licitación pública, subasta pública, selección abreviada o concurso. Estas modalidades de contratación con el Estado están definidas en el artículo 2º de la Ley 1150 de 2007. 2. La finalidad de “alterar ilícitamente”. |
+| **Sanción** | La persona que sea encontrada penalmente responsable por la conducta descrita en el tipo penal incurrirá en las siguientes sanciones: 1. Pena de prisión de seis (6) a doce (12) años. 2. Multa de doscientos (200) a mil (1.000) salarios mínimos legales mensuales vigentes. 3. Inhabilidad para contratar con entidades estatales por ocho (8) años *El parágrafo establece una circunstancia de reducción de la pena para los delatores o clementes en las investigaciones administrativas que lleva a cabo a la SIC por acuerdos anticompetitivos en proceso de contratación pública. |
+
+-Tabla 5-
+
+## 4.2. Caso concreto
+
+84.
+El demandante y algunos intervinientes[174] consideran que el artículo 410A del
+Código Penal vulnera el principio de legalidad estricta previsto en los
+artículos 6, 28 y 29 de la Constitución Política. A su juicio, la expresión
+“alterar ilícitamente” genera una indeterminación insuperable de la conducta
+sancionable, porque no está definida en la ley y tiene tal grado de vaguedad y
+ambigüedad que no permite a los destinatarios de la norma conocer cuáles son
+las conductas que podrían dar lugar a responsabilidad penal. Por otro lado,
+sostienen que la norma demandada no satisface los requisitos de tipicidad de
+los tipos penales en blanco que han sido desarrollados por la jurisprudencia
+constitucional.
+
+85.
+La Corte discrepa de la posición del
+demandante y los intervinientes que solicitan declarar la inexequibilidad de la
+norma demandada. La Sala Plena reitera que la jurisprudencia constitucional ha
+estimado que es común que los tipos penales en blanco contengan expresiones con
+una moderada indeterminación semántica tales como “con incumplimiento de la
+normatividad existente”[175],
+“sin el lleno de los requisitos de ley”[176] , así como “con incumplimiento de la
+normatividad existente”[177].
+Estas expresiones, constituyen fórmulas de reenvío normativo que exigen al intérprete
+integrar el tipo penal con otras normas extrapenales para precisar el alcance
+de la conducta sancionable. En el mismo sentido, la Corte Constitucional ha
+señalado que el término “ilicitud” es una expresión recurrente en el Código
+Penal[178]
+que: *(i)* implica que la conducta sancionable debe estar prohibida por la
+ley[179]
+y *(ii)* exige al intérprete remitirse a otras normas o regímenes normativos
+extrapenales (ambiental, de la contratación estatal, de policía etc.) para
+integrar el tipo y precisar cuáles son las conductas prohibidas por la ley que
+son punibles.
+
+86.
+La Sala Plena considera que esto es lo
+que ocurre en este caso. El artículo 410A del Código Penal prevé un tipo penal
+en blanco, porque el *nomen iuris* del tipo penal –acuerdos restrictivos de
+la competencia–, en conjunto con la expresión “ilícitamente”, constituyen una
+fórmula de reenvío normativo a una norma extrapenal. Como se expuso, la Corte
+Constitucional ha estimado que los tipos penales en blanco que utilicen estas
+fórmulas de reenvío normativo no son *per se* inconstitucionales. Sin
+embargo, ha enfatizado que deben satisfacer tres estrictos requisitos de
+tipicidad que condicionan su constitucionalidad:
+
+(i)
+La norma de remisión debe ser
+claramente identificable.
+
+(ii)
+La norma de remisión debe existir y
+hacer parte “del ordenamiento jurídico al momento de realizarse la conducta y
+de llevarse a cabo el proceso de adecuación típica”[180].
+
+(iii)
+La norma de remisión debe permitir al
+intérprete determinar con razonable precisión, claridad y previsibilidad el
+alcance de la conducta sancionable. Además, en los tipos de remisión *impropia*,
+la norma de remisión de rango infra legal debe (a) tener un alcance general,
+(b) ser de conocimiento público, así como (c) respetar los principios y valores
+constitucionales.
+
+87.
+Por las razones que a continuación se
+exponen, la Corte considera que el artículo 410A del Código Penal cumple estos
+requisitos y, por lo tanto, no vulnera el principio de legalidad estricta o
+tipicidad.
+
+##### (i) La norma de remisión es claramente identificable
+
+88.
+El demandante argumenta que la norma de
+remisión no es claramente identificable, por tres razones principales. De un
+lado, el legislador no definió de forma *expresa* cuál es la norma de
+remisión a la que el intérprete debe remitirse para determinar que conductas
+constituyen una concertación con la finalidad de alterar ilícitamente el
+proceso contractual. Por otra parte, sostiene que no es procedente el renvío al
+régimen general de la competencia y, en concreto, al artículo 47 del Decreto
+2153 de 1992, el cual prohíbe los acuerdos restrictivos de la competencia.
+Esto, porque el tipo penal demandado protege el bien jurídico de la
+administración pública –no la libre competencia–. Por último, la remisión al
+régimen general de la libre competencia, señala el demandante, no permite
+determinar con suficiente precisión y claridad qué conductas constituyen una
+concertación con la finalidad de “alterar ilícitamente” el procedimiento
+contractual. Esto es así, porque el régimen de la competencia prohíbe múltiples
+actos, conductas y acuerdos restrictivos de la competencia en la contratación
+pública y privada, sin que sea posible identificar cuáles son punibles conforme
+al artículo 410A del Código Penal.
+
+89.
+La Sala Plena no comparte la argumentación
+del demandante, por tres razones:
+
+90.
+Primero*.* El principio de
+legalidad estricta no impone al legislador la obligación de definir de forma *expresa*
+la norma de remisión. Al respecto, la Sala Plena resalta que en la sentencia
+C-411 de 2022, la Corte Constitucional precisó que la remisión de los tipos
+penales en blanco “a otros preceptos normativos no debe, necesariamente, ser
+expresa; es posible que el reenvío sea tácito”. Lo anterior, siempre que el
+intérprete pueda individualizar “sin ambages, anfibologías o equívocos”[181] las normas
+complementarias que se integran a la disposición penal[182]. En este sentido, a diferencia de lo que sugiere el
+demandante, la inexistencia de una remisión expresa no implica, *per se*,
+que el artículo 410A del Código Penal desconozca el principio de legalidad
+estricta o tipicidad.
+
+91.
+Segundo*.* La Sala Plena
+considera que una interpretación sistemática del artículo 410A del Código Penal
+permite concluir, sin ambages ni equívocos, que la norma de remisión que se
+integra al tipo penal para determinar que conductas constituyen una
+concertación con la finalidad de alterar ilícitamente los procesos de
+licitación pública, subasta pública, selección abreviada o concurso, es el
+artículo 47.9 del Decreto 2153 de 1992. Esta norma prohíbe de forma expresa los
+acuerdos restrictivos de la competencia en procesos de contratación pública,
+también denominados *acuerdos colusorios*.
+
+92.
+La Corte Constitucional considera que
+es posible identificar de forma clara e inequívoca que el artículo 47.9 de la
+Ley 2153 de 1992 es la norma de remisión, con fundamento en: *(a)* el
+título o *nomen iuris*, *(b)* el parágrafo y *(c)* los
+antecedentes legislativos del tipo penal demandado:
+
+93.
+(a) El título o *nomen iuris* del
+tipo penal previsto en el artículo 410A del Código Penal es “acuerdos
+restrictivos de la competencia”. Tal y como lo señala el Ministerio Público, este
+es un término legal definido en el régimen general de la competencia. El
+artículo 1° de la Ley 155 de 1959 –*prohibición general*– dispone que
+“[q]uedan prohibidos los *acuerdos* o convenios que directa o
+indirectamente tengan por objeto limitar la producción, abastecimiento,
+distribución o consumo de materias primas, productos, mercancías o servicios
+nacionales o extranjeros, y en general toda clase de prácticas, procedimientos
+o sistemas tendientes a limitar la libre competencia, con el propósito de
+determinar o mantener precios inequitativos en perjuicio de los consumidores y
+de los productores de materias primas” (énfasis añadido). Por su parte, el
+Decreto 2153 de 1993 *(i)* define los acuerdoscomo “[t]odo
+contrato, convenio, *concertación*, práctica *concertada* o
+conscientemente paralela entre dos o más empresas” (art. 45) y *(ii)*
+establece un listado indicativo de acuerdos que se consideran contrarios a la
+competencia (art. 47).
+
+94.
+La Corte reconoce que, en estricto
+sentido, el título o *nomen iuris* de los tipos penales no es un elemento
+del precepto o supuesto de hecho. No obstante, la jurisprudencia constitucional
+ha señalado que “las denominaciones de los capítulos y títulos del
+código penal”[183]
+son referentes jurídico-normativos que permiten delimitar el contenido y
+alcance de la conducta sancionada. Asimismo, es
+razonable inferir que, en los tipos penales en blanco, el título o *nomen
+iuris* es un elemento indicativo del régimen de reenvío al cual el
+intérprete debe remitirse para desarrollar o precisar los elementos de la
+conducta sancionable.
+
+95.
+Ahora bien, la Sala Plena reconoce que el
+artículo 47del Decreto 2153 de 1992 prevé un listado enunciativo[184]
+de los acuerdos que “se consideran contrarios a la libre competencia”:
+
+“**ARTICULO 47. ACUERDOS
+CONTRARIOS A LA LIBRE COMPETENCIA**. Para el cumplimiento de las funciones a
+que se refiere el artículo 44 del presente Decreto se consideran contrarios a
+la libre competencia, entre otros, los siguientes acuerdos:
+
+1. Los que tengan por objeto o
+tengan como efecto la fijación directa o indirecta de precios.
+
+2. Los que tengan por objeto o
+tengan como efecto determinar condiciones de venta o comercialización
+discriminatoria para con terceros.
+
+3. Los que tengan por objeto o
+tengan como efecto la repartición de mercados entre productores o entre
+distribuidores.
+
+4. Los que tengan por objeto o
+tengan como efecto la asignación de cuotas de producción o de suministro.
+
+5. Los que tengan por objeto o
+tengan como efecto la asignación, repartición o limitación de fuentes de
+abastecimiento de insumos productivos.
+
+6. Los que tengan por objeto o
+tengan como efecto la limitación a los desarrollos técnicos.
+
+7. Los que tengan por objeto o
+tengan como efecto subordinar el suministro de un producto a la aceptación de
+obligaciones adicionales que por su naturaleza no constituían el objeto del
+negocio, sin perjuicio de lo establecido en otras disposiciones.
+
+8. Los que tengan por objeto o
+tengan como efecto abstenerse de producir un bien o servicio o afectar sus
+niveles de producción.
+
+9. **Los que tengan por
+objeto la colusión en las licitaciones o concursos o los que tengan como efecto
+la distribución de adjudicaciones de contratos, distribución de concursos o
+fijación de términos de las propuestas** (subrayado fuera del texto).
+
+10. <Numeral adicionado por
+el artículo 16 de la Ley 590 de 2000. El nuevo
+texto es el siguiente:> Los que tengan por objeto o tengan como efecto
+impedir a terceros el acceso a los mercados o a los canales de
+comercialización.
+
+96.
+La Sala Plena advierte y reconoce que
+el artículo 47 prevé múltiples tipos de acuerdos que se consideran contrarios a
+la libre competencia. Los acuerdos restrictivos de la competencia en procesos
+de contratación pública, que están prohibidos en el numeral 9º, son apenas un
+tipo de acuerdo anticompetitivo. Asimismo, la Sala Plena observa que el numeral
+9° del artículo 47 prohíbe los acuerdos restrictivos de la competencia en
+procesos de contratación privada y pública. Sin embargo, contrario a los
+sostenido por el demandante, la Sala Plena considera que esto no implica que el
+artículo 410A del Código Penal prevea un reenvío al artículo 47 en general y,
+por lo tanto, sancione penalmente cualquier tipo de acuerdo anticompetitivo. En
+criterio de la Corte, una lectura sistemática del tipo penal permite concluir
+que el artículo 410A del Código Penal se integra, exclusivamente, con el
+artículo 47.9 del Decreto 2153 de 1992, que prevé una prohibición de los
+acuerdos restrictivos de la competencia en procesos de contratación *pública*.
+Esto porque:
+
+-
+Los acuerdos restrictivos a la
+competencia que están listados en los numerales 1º-8º y 10º no tienen lugar en
+el marco de procesos de contratación. El numeral 9º del artículo 47 del Decreto
+2153 de 1992 es el único numeral que se refiere a acuerdos restrictivos de la
+competencia en el marco de procesos de contratación.
+
+-
+El inciso 1º del artículo 410A del
+Código Penal sanciona, exclusivamente, la concertación que tenga la finalidad
+de alterar ilícitamente procesos de contratación *pública*, a saber: la
+licitación pública, subasta pública, selección abreviada o concurso. Estas
+modalidades de contratación estatal están definidas en el artículo 2º de la Ley
+1150 de 2007 “[p]or medio de la cual se introducen medidas para la eficiencia y
+la transparencia en la Ley 80 de 1993 y se dictan otras disposiciones
+generales sobre la contratación con Recursos Públicos”. La definición y reglas
+aplicables a estas modalidades de contratación estatal son referentes
+normativos ineludibles para delimitar el alcance de la conducta punible.
+
+-
+El principio de legalidad estricta
+o tipicidad exige interpretar los tipos penales de forma restrictiva.
+
+97.
+En tales términos, la Corte encuentra que la interpretación conjunta
+del *nomen iuris* y el inciso 1º del artículo 410A del Código Penal permite
+concluir que el tipo penal se integra, exclusivamente, con el artículo 47.9 del
+Decreto 2153 de 1992, el cual prohíbe los acuerdos restrictivos de la
+competencia en procesos de contratación pública.
+
+98.
+(b) El parágrafo del artículo 410A del
+Código Penal establece un beneficio de reducción de la pena a la persona que
+“en su condición de delator o clemente mediante resolución en firme obtenga
+exoneración total de la multa a imponer por parte de la Superintendencia de
+Industria y Comercio en una investigación por *acuerdos anticompetitivos en
+un* *proceso de contratación pública*”. En criterio de la Sala Plena, el
+parágrafo confirma, sin lugar a equívocos, que la norma de remisión que debe integrarse
+al tipo penal es el artículo 47.9 del Decreto 2153 de 1992, el cual prohíbe,
+justamente, los acuerdos anticompetitivos en procesos de contratación pública.
+
+99.
+(c) Los antecedentes legislativos de la
+Ley 1474 de 2011 demuestran que el legislador estableció el tipo penal con el
+propósito de sancionar penalmente los acuerdos anticompetitivos en procesos de
+contratación pública, también denominados acuerdos colusorios. Como se expuso
+(ver párr. 77 *supra*), en la
+exposición de motivos se explicó que la creación de este tipo penal buscaba
+“sancionar fundamentalmente los ya frecuentes casos en los cuales los
+proponentes de un proceso precontractual se ponen de acuerdo para engañar al
+Estado”[185].
+Asimismo, durante el trámite legislativo los congresistas justificaron la
+creación del delito en la importancia de sancionar penalmente los acuerdos
+restrictivos de la competencia en materia de contratación pública[186].
+
+100.
+Por último, la Sala Plena resalta que,
+contrario a los sostenido por el demandante, la remisión al artículo 47.9 del
+Decreto 2153 de 1992 es compatible con el bien jurídico que el tipo penal
+previsto en el 410A del Código Penal busca proteger.
+
+101.
+El artículo 410A del Código Penal forma
+parte del Capítulo Cuarto, “de la celebración indebida de contratos”, del
+Título XV, “delitos contra la administración Pública”. Esto implica que el bien
+jurídico protegido es, justamente, la administración pública. A juicio de la
+Sala Plena, la integración del tipo penal con la prohibición de los acuerdos
+restrictivos de la competencia en procesos de contratación pública contribuye a
+la protección de la administración pública en la celebración de contratos. Esto
+es así, porque la prohibición de los acuerdos restrictivos de la competencia en
+procesos de contratación pública no sólo busca garantizar la libre competencia,
+sino que también protege los principios de la función administrativa (art. 209
+de la CP) y, en concreto, de la contratación estatal (Título II de la Ley 80 de
+1993).
+
+102.
+Al respecto, la SIC ha reiterado que
+los acuerdos anticompetitivos en procesos contractuales públicos producen,
+entre otros, los siguientes efectos nocivos para los intereses del Estado: “*(i)*limitan la competencia y la participación de otros proponentes en un
+proceso de selección justo y regido por los principios de igualdad y
+transparencia, *(ii)* el Estado resulta afectado por el incremento de los
+costos que representa la participación de proponentes no idóneos, *(iii)*
+se generan asimetrías de información entre los proponentes, *(iv)* pueden
+incrementarse injustificadamente los precios de los productos o reducirse su
+calidad; y *(v)* se afecta negativamente el bienestar social al darse una
+pérdida irrecuperable en el mercado de bienes debido al aumento de las
+utilidades percibidas por los participantes coludidos”[187]. Asimismo, conforme a la doctrina
+de la SIC y de la OCDE, los acuerdos restrictivos de la competencia “afectan
+valores como la selección objetiva, la eficiencia y eficacia del uso de los
+recursos públicos para el cumplimiento de los fines Estatales y la confianza
+misma que los administrados tienen en la administración. En estos términos, la
+colusión en procesos públicos de selección se convierte en una de las prácticas
+restrictivas de la competencia más nocivas para el Estado”[188].
+
+103.
+En síntesis, con fundamento en estas
+consideraciones, la Corte concluye que es claramente identificable que la norma
+de remisión que se integra al tipo penal demandado es el artículo 47.9 del
+Decreto 2153 de 1992. En este sentido, para determinar las conductas que, de
+acuerdo con el artículo 410A del Código Penal, constituyen una concertación con
+la finalidad de alterar ilícitamente los procesos de licitación pública,
+subasta pública, concurso y selección abreviada, el intérprete debe remitirse al
+artículo 47.9 del Decreto 2153 de 1992, el cual prohíbe los acuerdos
+restrictivos de la competencia en procesos de contratación pública.
+
+##### (ii) La norma de remisión tiene rango legal y es anterior a la realización de la conducta
+
+104.
+La Sala Plena constata que la norma de
+remisión –artículo 47.9 del Decreto 2153 de 1992– es una norma de rango legal,
+lo que implica que el delito demandado es un tipo penal en blanco de remisión *propia*.
+La Corte resalta que la jurisprudencia constitucional y del Consejo de Estado
+han sostenido que el Decreto 2153 de 1992 es un decreto con fuerza material de
+ley, por tres razones. *Primero*,el Presidente de la República
+expidió el Decreto 2153 de 1992 en ejercicio de la facultad prevista en el
+artículo 20 transitorio de la Constitución Política. Esta disposición
+constitucional otorgó al Gobierno Nacional la competencia para que, dentro de
+los 18 meses siguientes a partir de la entrada en vigencia de la Constitución,
+suprimiera, fusionara o reestructurara entidades de la rama ejecutiva. Esta es
+una competencia que, en principio, corresponde al Congreso de la República, de
+conformidad con los artículos 150.7 y 189.15 y 189.16 de la Constitución
+Política. Por esto, los decretos expedidos en ejercicio de estas facultades
+tienen “la misma fuerza o entidad normativa de la ley, lo que equivale a decir
+que desde los puntos de vista material y jerárquico constituyen actos de
+naturaleza o categoría legislativa”[189].
+*Segundo*, la jurisprudencia constitucional, –sentencias C-1126 de 2008 y
+C-032 de 2017– ha señalado expresamente que el Decreto 2153 de 1992 tiene
+fuerza material de ley. *Tercero*, la Sala advierte que el Decreto 2153 de
+1992 ha sido objeto de modificaciones por medio de leyes –no actos
+administrativos– (*vrg*. Ley 1340 de 2009). Lo anterior, justamente bajo
+la premisa de que tiene fuerza material de ley.
+
+105.
+Por otro lado, la Corte constata que el
+Decreto 2153 de 1992 fue expedido con anterioridad al artículo 410A de la Ley
+599 de 2000, el cual fue adicionado por el artículo 27 de la Ley 1474 de 2011. En
+todo caso, la Corte precisa que si, en el futuro, el legislador modifica el
+artículo 47.9 del Decreto 2153, el proceso de adecuación típica del artículo
+410A del Código Penal deberá llevarse a cabo a partir de la norma existente al
+momento de la realización de la conducta.
+
+##### (iii) La norma de remisión permite determinar de forma clara y precisa el alcance de la conducta sancionable
+
+106.
+La Sala Plena considera que, a partir de la
+remisión al artículo 47.9 del Decreto 2153 de 1992, es posible determinar de
+forma clara y precisa el alcance de la conducta sancionable. Esto es así,
+porque el artículo 47.9 del Decreto 2153 prevé una prohibición clara e
+inequívoca de los acuerdos restrictivos de la competencia en procesos de
+contratación pública. La definición y elementos de los acuerdos restrictivos a
+la competencia en procedimientos contractuales públicos han sido desarrollados de
+forma consistente por la Superintendencia de Industria y Comercio –máxima
+autoridad de competencia–. En criterio de la Sala Plena, estos referentes
+normativos precisan el alcance de la expresión “alterar ilícitamente” prevista
+en el artículo 410A del Código Penal y, en este sentido, dotan el proceso de
+adecuación típica de un grado razonable de previsibilidad y objetividad, lo que
+permite que un destinatario promedio pueda determinar el contenido y alcance de
+la conducta punible.
+
+107.
+Al respecto, la Corte resalta que la SIC ha señalado de forma
+consistente que el 47.9 del Decreto 2153 de 1992 prohíbe dos tipos de acuerdos
+restrictivos de la competencia en cualquier tipo de proceso de selección o contratación
+con el Estado[190]:
+
+“La normatividad referida describe dos tipos de conductas
+anticompetitivas. En primer lugar, considera anticompetitivo y reprochable todo
+acuerdo que ‘tenga por objeto’ la colusión en las licitaciones o concursos. En
+segundo lugar, se considera contrario a la libre competencia, aquel acuerdo que
+tenga por efecto: (i) la distribución de adjudicaciones de contratos, (ii)
+distribución de concursos o (iii) la fijación de términos de las propuestas”[191].
+
+108.
+La SIC ha precisado el alcance y elementos de
+cada una de estas conductas. Según la SIC, la *colusión* es “la acción o
+efecto de coludir, es decir, el hecho o circunstancia de pactar contra un
+tercero”[192].
+Asimismo, ha aclarado que “se entiende ‘por objeto’ la potencialidad que tiene
+una conducta de causar un daño a un mercado, sin que para ello sea necesario
+que produzca el resultado esperado”. En este sentido, de acuerdo con la
+doctrina de la SIC, el artículo 47.9 del Decreto 2153 de 1992 sanciona a los
+sujetos que “realicen un acuerdo que tenga el objeto de modificar
+artificialmente los resultados de la adjudicación, defraudando así no solo el
+interés público que atañe el cumplimiento de los fines estatales, sino los de
+los demás proponentes que participan en la competencia por ese mercado”[193]. Por otra parte, la SIC ha aclarado
+que “la conducta ‘*por efecto*’, es aquella que permite verificar el
+resultado lesivo sobre la libre competencia en el mercado con independencia de
+la intención inicial de los agentes”[194].
+
+109.
+De acuerdo con la doctrina de la SIC, los acuerdos
+anticompetitivos que el artículo 47.9 del Decreto 2153 de 1992 prohíbe se
+denominan internacionalmente “colusión en procesos de contratación pública (*bid
+rigging* o *collusive tendering* en inglés)”. Esta conducta es “una de
+las infracciones a la libre competencia de mayor impacto, debido a que no solo
+vulnera el derecho colectivo constitucional a la libre competencia económica,
+también los bienes y los recursos públicos”[195].
+Por otro lado, la SIC ha identificado: *(i)* ejemplos recurrentes o
+usuales de acuerdos colusorios, *(ii)* señales de advertencia “que de
+presentarse sirven para detectar una posible conducta colusoria”; *(iii)*
+estrategias y “esquemas de colusión que suelen usar los proponentes para lograr
+la adjudicación” y, por último, *(iv)* factores que “aumentan el riesgo de
+colusión en los procesos de selección contractual”[196]. La siguiente tabla sintetiza la doctrina
+de la SIC en relación con estos puntos[197]:
+
+| | |
+| --- | --- |
+| **Elementos de la colusión en procesos de contratación pública** | |
+| **Conductas colusorias** | - Intercambios de información sensible sobre las posturas de cada oferente. - Los oferentes se abstienen o no presentan propuestas. - Los oferentes retiran las ofertas presentadas. - Los oferentes presentan propuestas destinadas al fracaso –propuestas complementarias–. - En licitaciones repetidas en el tiempo, se organizan para repartirse los contratos a lo largo del tiempo. - A efectos de distribuir el excedente generado entre los miembros del acuerdo, el adjudicatario puede tomar la posición de licitante en una segunda subasta efectuada sólo entre los miembros del acuerdo, que a diferencia de la primera subasta, presentan propuestas realmente competitivas. |
+| **Señales de advertencia** | - Se presentan cotizaciones similares para la elaboración de los estudios previos. - Observaciones muy similares al proyecto de pliego de condiciones. - Entrega de varias propuestas por parte de una misma persona. - Similitud de errores en la propuesta. - Formatos similares en las propuestas cuando no son provistos por la entidad. - Datos, certificaciones y personal idéntico entre distintos proponentes. - Documentos presentados con números consecutivos o expedidos con poco tiempo de diferencia o simultáneamente. - Observaciones similares al informe de evaluación de las propuestas. - Subcontratación de proponentes rivales una vez adjudicado el contrato. - El adjudicatario es el mismo a lo largo del tiempo o en varios procesos. - Potenciales proponentes que, teniendo la capacidad, no se presentan al proceso sin mediar razón. - Retiro sistemático de proponentes al proceso. - Proponentes que se presentan constantemente y nunca son adjudicatarios. - Proponentes que dejan de presentarse en consorcios o uniones temporales que solían conformar, para ahora hacerlo de forma independiente. - Ofertas muy diferentes en procesos de similares condiciones. - Cambio en la conducta de los habituales oferentes ante el ingreso de uno nuevo. |
+| **Estrategias y esquemas de colusión** | - Posturas encubiertas que sirven para simular la existencia de competencia, o ayudan a que las medias que se utilizan para la adjudicación –media aritmética, geométrica, etc.– se muevan a favor de una oferta. - Supresión de ofertas o no presentación de las mismas cuando surten todo el proceso precontractual, sin que haya evidencia de un motivo racional para ello. - Rotación de ofertas en las que se van distribuyendo a través del tiempo, así como de los distintos procesos, la adjudicación de los contratos. - Asignación de procesos de selección por criterios territoriales, tipos de entidad, tipos de procesos, etc. |
+| **Factores que aumentan el riesgo de colusión** | - Pocos proveedores del bien o servicio a contratar. - Necesidad periódica de adquirir el bien o servicio. - Pocos sustitutos que puedan satisfacer la necesidad de la entidad contratante. - La inexistencia o poco cambio tecnológico. - Estabilidad en formatos y formas de evaluación. - Fijación de barreras innecesarias a la entrada por medio de requisitos excesivos. - Facilitación de contacto entre proponentes –actuales o potenciales–. - Uso de fórmulas de fácil manipulación o muy sensibles a ofertas irracionales. |
+
+-Tabla 6-
+
+110.
+Ahora bien, la Corte reconoce que la
+definición de los acuerdos restrictivos de la competencia en procesos de
+contratación pública abarca una amplia gama de conductas que no pueden ser
+definidas de forma taxativa y definitiva. Asimismo, la Corte advierte que es
+posible que, en algunos casos, se generen debates razonables sobre la
+configuración de esta conducta. Sin embargo, a diferencia de lo que afirma el
+demandante, la Corte considera que esto no implica que la remisión al artículo
+47.9 del decreto 2153 de 1992 sea inútil y no contribuya a superar la moderada
+indeterminación semántica de la expresión “alterar ilícitamente”. En criterio
+de la Sala Plena, habida cuenta de claridad de la prohibición de los acuerdos
+restrictivos de la competencia en procesos de contratación pública y el
+desarrollo de la SIC en la materia, la integración del tipo penal demandado con
+el artículo 47.9 del Decreto 2153 de 1992 garantiza que la conducta sancionable
+tenga un grado razonable de precisión que es compatible con el principio de
+legalidad estricta o tipicidad.
+
+111.
+La Sala Plena reitera que, conforme a la
+jurisprudencia constitucional el grado de “determinación de una conducta sólo
+es posible hasta donde se lo permite su naturaleza”[198]. Esto, en la medida que “no toda la
+realidad sujeta a regulación penal es susceptible de ser descrita en
+moldes *legales*, *cerrados* y *completos*”[199]. Por esta razón, la Corte
+Constitucional ha reiterado que es posible que el legislador acuda a fórmulas
+de tipificación flexibles que se adecúen a la naturaleza dinámica y cambiante
+del fenómeno criminal que busca combatir.
+
+112.
+Pues bien, para la Corte esto es justamente lo
+que ocurre en este caso. Tal y como lo resaltaron las intervenciones de la SIC
+y Colombia Compra Eficiente, la colusión en procesos de contratación con el
+Estado “es una conducta que se caracteriza por ser dinámica”. Esto significa
+que “puede materializarse a través de diferentes actuaciones, siempre que estas
+sean coordinadas e idóneas. Por lo tanto, no se limita a un conjunto específico
+de comportamientos o un número limitado de conductas”[200]. En tales
+términos, la Corte considera que tipificar esta conducta por medio de un tipo
+penal en blanco es una opción regulatoria que permite que la ley penal “se
+adapte a las distintas formas de colusión que puedan surgir, al tiempo que
+garantiza que las prácticas que afectan negativamente la transparencia y la
+competencia en los procesos de selección sean sancionadas de manera efectiva”[201].
+
+113.
+Por último, la Sala Plena resalta que,
+contrario a lo que sostiene el demandante, esta línea de argumentación no
+contraría la regla de decisión de la sentencia C-411 de 2022. Como se expuso, en
+esta decisión la Corte declaró inexequibles los tipos penales en blanco del
+régimen de baldíos, los cuales sancionaban, entre otras, la apropiación de
+baldíos “sin el lleno de los requisitos de ley”. La Corte consideró que las
+normas demandadas desconocían el principio de legalidad estricta porque “el
+régimen de baldíos al que remiten las disposiciones acusadas cuando señala que
+se castiga la apropiación, utilización, entre otros, de bienes baldíos ‘*sin
+el lleno de los requisitos de ley*’ genera discusiones interpretativas
+complejas, así como valoraciones probatorias amplias, frente a lo cual el
+ciudadano no está en capacidad de establecer de forma razonable y previa si su
+proceder se enmarca o no en una conducta criminal”. En efecto, señaló la Corte,
+“el régimen de baldíos, en su integralidad, ha generado discusiones
+interpretativas y conflictos entre, por una parte,*jueces civiles*y *autoridades
+administrativas;*y, por otra, las altas cortes (así lo demuestra la
+SU-282 de 2022)”.
+
+114.
+En criterio de la Sala Plena, esto no ocurre
+en este caso. La prohibición de los acuerdos restrictivos de la competencia en
+procesos de contratación pública está prevista de forma expresa y clara en el artículo
+47.9 del Decreto 2153 de 1992. Por lo demás, la Sala Plena reitera que el
+artículo 2º de la Ley 1150 de 2007 define los procesos de licitación pública,
+subasta pública, selección abreviada o concurso. Más allá de las discusiones
+interpretativas que puedan darse en un caso concreto, las cuales se derivan de
+la naturaleza abierta del lenguaje y el derecho, la prohibición de estos
+acuerdos es clara y la SIC ha desarrollado sus elementos de forma consistente. Por
+lo demás, en contraste con el régimen de baldíos, el régimen de protección de
+la libre competencia tiene un orden lógico y estructura jerárquica coherente,
+compuesto por: *(i)* una prohibición general de las prácticas restrictivas
+de la competencia (art. 1 de la ley 155 de 1959), y *(ii)* un listado de
+prácticas que son, *per se*, contrarias a la libre competencia (art. 45,
+46 y 47 del Decreto 2153 de 1992 y demás normas complementarias y
+modificatorias).
+
+115.
+En este sentido, a diferencia de la Sentencia
+C-411 de 2022, la norma de remisión en este caso no genera debates
+interpretativos irresolubles que impidan al operador delimitar la conducta
+sancionable. Por el contrario, por las razones que se expusieron, la
+integración del tipo penal previsto en el artículo 410A del Código Penal con el
+artículo 47.9 del Decreto 2153 de 1992 precisa razonablemente el alcance de la
+expresión “alterar ilícitamente”, lo que dota de claridad y previsibilidad el
+proceso de adecuación típica.
+
+116.
+**Conclusión****.** En síntesis, la Sala
+Plena concluye que el artículo 410A del Código Penal no vulnera el principio de
+legalidad estricta. Contrario a lo sostenido por el demandante, la Corte Constitucional
+considera que la norma demandada prevé un tipo penal en blanco que satisface
+los requisitos de tipicidad desarrollados por la jurisprudencia constitucional.
+Primero, la norma de remisión es claramente identificable. Esto, porque una
+interpretación sistemática del *nomen iuris*, el inciso 1º, el parágrafo y
+los antecedentes legislativos de la norma demandada permiten inferir, sin lugar
+a equívocos, que el tipo penal debe integrarse, exclusivamente, con el artículo
+47.9 del Decreto 2153 de 1992, el cual prohíbe los acuerdos restrictivos de la
+competencia en procesos de contratación pública, también denominados acuerdos
+colusorios. Segundo, el artículo 47.9 del Decreto 2153 de 1992 tiene rango
+material de ley y es anterior a la tipificación de la conducta punible.
+Tercero, la norma de remisión permite al intérprete determinar inequívocamente
+el alcance de la conducta penalizada. En efecto, *(i)* el artículo 47.9 de
+2152 prevé una prohibición clara y precisa de los acuerdos restrictivos de la
+competencia en procesos de contratación pública y *(ii)* la SIC –máxima
+autoridad de competencia– ha delimitado y desarrollado los elementos de estos
+acuerdos de forma consistente, clara y precisa. Por estas razones, la Corte
+declarará la exequibuilidad del artículo 410A del Código Penal.
+
+| |
+| --- |
+| |
+
+# III. DECISIÓN
+
+La Corte Constitucional de
+Colombia, administrando justicia en nombre del pueblo y por mandato de la
+Constitución,
+
+**RESUELVE:**
+
+**ÚNICO.** Declarar **EXEQUIBLE** el artículo 410A de la Ley 599 de 2000, “por la cual se expide el Código Penal”,
+adicionado por el artículo 27 de la Ley 1474 de 2011, respecto del cargo por la presunta vulneración del
+principio de legalidad estricta o tipicidad en materia penal.
+
+Notifíquese, comuníquese y
+cúmplase,
+
+JORGE ENRIQUE IBÁÑEZ NAJAR
+
+Presidente
+
+Con aclaración de voto
+
+NATALIA ÁNGEL CABO
+
+Magistrada
+
+Con aclaración de voto
+
+JUAN CARLOS CORTÉS GONZÁLEZ
+
+Magistrado
+
+Con Aclaración de voto
+
+DIANA FAJARDO RIVERA
+
+Magistrada
+
+VLADIMIR FERNÁNDEZ ANDRADE
+
+Magistrado
+
+PAOLA ANDREA MENESES MOSQUERA
+
+Magistrada
+
+CRISTINA PARDO SCHLESINGER
+
+Magistrada
+
+Con impedimento aceptado
+
+MIGUEL POLO ROSERO
+
+Magistrado
+
+JOSE FERNANDO REYES CUARTAS
+
+Magistrado
+
+ANDREA LILIANA ROMERO LOPEZ
+
+Secretaria General
+
+**Anexo 1: resumen de intervenciones**
+
+| | |
+| --- | --- |
+| **Exequibilidad** | |
+| **Ministerio de Justicia y del Derecho** | El Ministerio de Justicia y del Derecho solicitó a la Corte declarar la exequibilidad del artículo 410A del Código Penal, al considerar que el tipo penal no lesiona el principio de legalidad estricta. Sostuvo que “el legislador no está obligado a identificar con total precisión la disposición a la cual se ha de dirigir, cuando el enunciado del artículo logra cumplir con el lugar de ubicación o direccionamiento normativo, con el fin de llenar el contenido del tipo penal en blanco”. Según el ministerio, esto lo que ocurre en este caso: “la expresión ‘alterar ilícitamente’ se basa en un fin indebido, irregular o ilegítimo, respecto a esa concertación lograda por parte de los sujetos activos en los procesos de licitación o subasta pública, selección abreviada y concurso de méritos, referencias que completan el tipo penal y garantizan la materialización legítima del principio de legalidad y taxatividad”. De otro lado, adujo que, tal y como lo ha señalado la doctrina de Colombia Compra Eficiente, “[l]a integración del tipo penal previsto en el artículo 410A con el Decreto Ley 2153 de 1992 [art. 47.9] y sus normas complementarias permite identificar claramente los acuerdos restrictivos como aquellos que son ilegales bajo las normas que regulan el derecho de la competencia”[202]. En este sentido, concluye que, a pesar de ser un tipo penal en blanco, la norma es “clara, específica y precisa”[203]. |
+| **SIC** | La Superintendencia de Industria y Comercio solicitó declarar la exequibilidad del artículo 410A del Código Penal. Argumentó que la Corte Constitucional ha señalado que los tipos penales abiertos “son constitucionalmente válidos siempre y cuando su amplitud se justifique en la naturaleza de la conducta penalizada, la indeterminación sea moderada y existan referencias en el ámbito jurídico que permitan precisar su contenido y alcance”. A juicio de la SIC, la norma demandada satisface estos requisitos. *Primero*, la colusión en procesos de contratación “es una conducta que se caracteriza por ser dinámica. Esto significa que la conducta objeto de estudio puede materializarse a través de diferentes actuaciones, siempre que estas sean coordinadas e idóneas. Por tanto, no se limita a un conjunto específico de comportamientos o un número limitado de conductas”[204]. *Segundo*, la conducta sancionada es determinable. Según la SIC, es posible interpretar que el artículo criminaliza los “acuerdos colusorios”. Esta conclusión se deriva de *(i)* “el *nomen iuris* del artículo demandado, el cual señala con precisión que la conducta prohibida se refiere a los ‘acuerdos restrictivos de la competencia’ que se lleven a cabo en el marco de procesos de contratación pública”. Además, *(ii)* “esta conclusión también resulta coherente con los motivos por los cuales el legislador tipificó esta conducta. En la exposición de motivos del proyecto de ley que derivó en la Ley 1474 de 2011, el legislador señaló que “[s]e adiciona como nuevo tipo penal los acuerdos restrictivos de competencia en materia de contratación estatal para sancionar fundamentalmente los ya frecuentes casos en los cuales los proponentes de un proceso precontractual se ponen de acuerdo para engañar al Estado”. *Tercero*, los acuerdos colusorios están definidos con precisión en “las normas del régimen de protección de la libre competencia”[205]. Al respecto, señaló que el Decreto 2153 de 1992 determinó un catálogo de conductas contrarias a la libre competencia, dentro de los cuales se encuentran los “acuerdos en el marco de procesos de contratación pública, también denominados acuerdos colusorios”[206] (art. 47.9). Además, a partir de la cláusula general de protección a la libre competencia prevista en el artículo 1° de la Ley 155 de 1959, la SIC ha identificado conductas anticompetitivas en materia de contratación estatal[207]. De acuerdo con la doctrina de la entidad, la colusión en procesos de contratación estatal (conocida como *rrigging* o *collusive tendering*), se produce cuando “las empresas que están llamadas a competir acuerdan eliminar o reducir las presiones competitivas a las que deberían estar sometidas”[208]. Por último, resaltó que varios países[209] han tipificado las prácticas colusorias en la contratación pública dentro de su legislación penal[210]. |
+| **Colombia Compra Eficiente** | Colombia Compra Eficiente solicitó a la Corte declarar la exequibilidad de la norma acusada. Lo anterior, con fundamento en los siguientes cuatro argumentos. *Primero*, el establecimiento de un tipo penal que sancione los acuerdos colusorios[211] en los procedimientos contractuales públicos es indispensable “para garantizar la integridad y el buen funcionamiento del mercado competitivo”[212]. Lo anterior, habida cuenta de que *(i)* el sistema de contratación pública es “especialmente vulnerable a las prácticas colusorias entre proponentes, lo que a su vez justifica la necesidad de un marco represivo”; y *(ii)* cuando los procesos de selección son manipulados mediante colusión, “se produce un uso ineficiente de los recursos públicos. Los fondos destinados a obras, bienes o servicios se desvían hacia los bolsillos de los oferentes que han formado parte de la colusión, afectando negativamente el bienestar general. Esta manipulación no solo perjudica al Estado, que actúa como un importante agente económico en el mercado, sino que también provoca distorsiones significativas en el sistema de mercado en general”[213]. En este sentido, “el tipo penal establecido en el artículo 410A funciona como una medida punitiva que complementa las sanciones administrativas aplicables por la Superintendencia de Industria y Comercio”. *Segundo*, es razonable que el legislador haya decidido tipificar la conducta mediante un tipo penal en blanco. Lo anterior, debido a que “[e]sta forma de regulación permite que la ley se adapte a las distintas formas de colusión que puedan surgir, al tiempo que garantiza que las prácticas que afectan negativamente la transparencia y la competencia en los procesos de selección sean sancionadas de manera efectiva”[214]. *Tercero*, la gama de conductas que implican una “alteración ilícita” está claramente delimitada por el marco normativo del derecho a la competencia, en concreto, los artículos 45 y 47.9 del Decreto Ley 2153 de 1992. Este marco normativo “establece las bases para identificar los acuerdos que se consideran restrictivos de la competencia, conforme a las condiciones descritas por el *nomen iuris* del tipo penal en cuestión”[215]. Según Colombia Compra Eficiente, la integración del tipo penal previsto en el artículo 410A con el Decreto Ley 2153 de 1992 y sus normas complementarias “permite identificar claramente los acuerdos restrictivos como aquellos que son ilegales bajo las normas que regulan el derecho de la competencia”. Por último, la interviniente resaltó que la norma fue expedida en el marco del amplio margen de configuración normativa del legislador en materia penal y de contratación pública. |
+| **Asociación Colombiana de Derecho de la Competencia (ACDC)** | La ACDC solicitó a la Corte declarar la exequibilidad de la norma. Argumentó que el artículo 410A del Código Penal “es preciso, claro y determinable”[216]. Esta conclusión se fundamentó en tres premisas. *Primero*, es claro que “lo punible bajo el tipo penal es toda concentración o acuerdo que tenga un objetivo o propósito ilícito o ilegal, conducta necesariamente dolosa, en el contexto de un proceso de contratación pública”[217]. Por tanto, contrario a los sostenido por el demandante, “no existe tipo penal en blanco alguno”[218], pues la norma no deja ningún aspecto abierto o indeterminado que requiera de la referencia a otras fuentes normativas, habida cuenta de que “la propia doctrina” ya ha analizado la adecuación típica de la conducta e identificado con plena claridad todos sus elementos. *Segundo*, la sentencia C-411 de 2022 no es un precedente aplicable, habida cuenta de que la expresión “sin el lleno de los requisitos de ley” –que la Corte estudió en la sentencia C-411 de 2022–, de ninguna manera es equiparable con la expresión “*ilícitamente*”. Esto, porque *(i)* “aquello que no cumple con el lleno de requisitos legales, no resulta ser necesariamente ilícito”. Además, *(ii)* la expresión “ilícitamente” es “una acción u omisión que se realice (…) en sentido no permitido legalmente o en contravía de las normas pertinentes”[219]. Por último, *(iii)* el verbo rector “concertar” permite definir que quienes “pacten, contravengan, acuerden o arreglen de cualquier manera, una o más conductas cuyo fin sea el de alterar ilegalmente el procedimiento contractual de algunos procesos de contratación con el Estado, dolosamente representando un resultado jurídicamente ilícito, incurrirán en el tipo penal regulado en el artículo 410A del Código Penal”[220]. |
+| **Universidad del Norte** | La Universidad del Norte solicitó a la Corte declarar la exequibilidad de la norma acusada. Argumentó que el artículo 410A del Código Penal “establece de forma clara las conductas que se consideran típicas”, a saber: la concertación para alterar ilícitamente los procesos de contratación pública. En su criterio, es posible determinar cuáles son los comportamientos prohibidos y sus consecuencias, si se consultan las disposiciones que regulan la contratación pública. En concreto, los conceptos de “licitación pública, subasta pública, selección abreviada y concurso” están definidos en la Ley 1150 de 2007, que modificó la Ley 80 de 1993, y han sido desarrollados por la jurisprudencia del Consejo de Estado. En tales términos, concluyó que, “aunque el artículo 410A no detalla de manera exhaustiva todas las conductas prohibidas, se puede entender que el legislador no está obligado a identificar cada disposición de forma precisa, en el contexto que el articulo permite la remisión a normas existentes que regulan los procedimientos de contratación pública, lo que ayuda a definir con mayor claridad las conductas que se consideren ilícitas, por lo cual la expresión ‘alterar ilícitamente’ pueda parecer vaga, su interpretación puede ser aclarada mediante la remisión a otras normas que regulan la contratación pública”[221]. |
+| **Inexequibilidad** | |
+| **ICDP** | El Instituto Colombiano de Derecho Procesal solicitó a la Corte declarar la inexequibilidad del artículo 410A del Código Penal. A su juicio, el tipo penal vulnera el principio de legalidad estricta, por dos razones. *Primero*, “no precisa lo que se entiende por ‘alterar ilícitamente’ una licitación, subasta, selección abreviada o concurso”,[222]. Esto afecta el debido proceso del investigado y “se presta para la arbitrariedad”[223], pues se pueden adelantar procesos penales sin tener precisión sobre el contenido del verbo rector del delito. *Segundo,* es “erróneo”[224] ubicar el tipo penal demandado dentro del título dedicado a los delitos contra la administración pública. Lo anterior, porque no todo acuerdo restrictivo de la competencia tiene incidencia en el bien jurídico tutelado (la administración pública), pues hay subastas, concursos, licitaciones y selecciones abreviadas donde sólo intervienen personas jurídicas de carácter privado y en las que la administración no tiene ninguna participación[225]. Por otro lado, el ICDP presentó tres razones adicionales por las cuales, en su criterio, el artículo 410A del Código Penal es inconstitucional: *(i)* la norma vulnera el principio de *ultima ratio* porque, cuando los hechos constitutivos de delito ya son investigados y sancionados por una autoridad administrativa, el derecho penal “no tiene por qué investigar los mismos hechos, valorar las mismas pruebas y a las mismas personas”[226]; *(ii)* la disposición vulnera el derecho a la presunción de inocencia, por cuanto la Fiscalía General de la Nación (“FGN”) “está sesgada abiertamente parcializada (sic) por las pruebas y las valoraciones efectuadas por la [SIC]”[227]. En su criterio, como la SIC investiga y determina la responsabilidad administrativa y compulsa copias a la FGN, toda la investigación penal está parcializada a lo que determine la SIC. Por último, *(iii)* la norma acusada vulnera el principio de contradicción de las pruebas, porque, en el momento en el que la SIC adelanta la investigación administrativa, practica y valora todas las pruebas, lo que le impide que luego, en el proceso penal, el investigado pueda ejercer plenamente el derecho de defensa[228]. |
+| **Universidad Externado de Colombia** | El Departamento de Derecho Penal y Criminología de la Universidad Externado de Colombia solicitó a la Corte declarar la inexequibilidad de la norma acusada. Argumentó que el tipo penal desconoce el principio de legalidad estricta, por tres razones principales. *Primero*, “no existe certeza sobre el régimen jurídico de remisión detrás de la expresión ‘con el fin de alterar ilícitamente’, más exactamente, no es claro si lo ilícito se refiere al régimen legal de protección de la competencia o al orden jurídico que gobierna la contratación pública”[229]. Esto, porque existe una contradicción entre el *nomen iuris* y el capítulo del Código Penal en el que se encuentra la norma, que impide determinar “cuál es la norma o conjuntos de normas que el intérprete debe emplear para completar el sentido y alcance de la disposición jurídico penal”. De un lado, el tipo penal se denomina “acuerdos restrictivos de la competencia”, lo que sugeriría que, para determinar su contenido, debe acudirse al régimen general de libre competencia. Sin embargo, el delito su ubica en el título de los delitos que atentan contra la administración pública, lo que, en contraste, implicaría que el intérprete debe remitirse al régimen de la contratación pública[230]. *Segundo*, aun suponiendo que el régimen remisorio al que acude el legislador con la expresión “ilícitamente” es el estatuido para la protección de la libre competencia, “es tal la bastedad de este último y su grado de indeterminación que los esfuerzos por dotar de contenido el artículo 410A pueden continuar siendo inútiles”.En efecto, si se aceptara que la expresión “ilícitamente” puede sustituirse por la expresión “prácticas restrictivas de la competencia”, contenida en los artículos 46, 47, 48 y 50 del Decreto 2153 de 1992, todas las conductas que se enlistan en estas disposiciones configurarían el punible, lo que conlleva “una extensión irrazonable del objeto y alcance del tipo penal”. Por lo demás, el interviniente sostuvo que, en el régimen general de la competencia, estas conductas “están descrit[a]s en términos genéricos y no aportan nada a la determinación del objeto y alcance del tipo penal”[231]. *Tercero*, la remisión genérica al régimen de protección de la competencia desconocería el principio de lesividad o de *ultima ratio* del derecho penal. Esto, porque *(i)* muchas de las conductas señaladas en el régimen de la competencia “carecen de aptitud para lesionar, o tan siquiera poner en peligro, el bien jurídico de la administración pública”, y *(ii)* se estaría aceptando que los tipos *sancionatorios* abiertos e indeterminados “sirvan de complemento para fijar el alcance de las normas penales, de las que se exige, paradójicamente, un grado de concreción y claridad mucho mayor al de las disposiciones que integran el derecho sancionatorio administrativo”. De acuerdo con la jurisprudencia de la Corte, el principio de tipicidad opera de forma más flexible en el derecho sancionatorio, por lo que no es admisible que, para fijar delimitar el punible, las normas penales remitan a disposiciones sancionatorias administrativas, que sean amplias y genéricas[232]. |
+| **Fundación Proyecto Inocencia** | La Fundación Jurídica Proyecto Inocencia solicitó a la Corte declarar la inexequibilidad de la norma acusada. Sostiene que la norma acusada desconoce el principio de estricta tipicidad porque “adolece de determinación inequívoca de la acción o las acciones”[233] punibles. Lo anterior, porque, tal y como está redactada, la conducta sancionable consiste en “concertarse con otro con el fin de alterar ilícitamente el procedimiento contractual”. El interviniente sostiene que la norma está indebidamente redactada toda vez que sugiere que no es necesario que ninguna acción de alteración ilícita del proceso contractual se concrete o exteriorice, basta con que los sujetos activos lleven a cabo acuerdos con la finalidad de lograr ficha alteración. En este sentido, concluye que “el fin de alterar sin una acción concreta más allá de la concertación exigida en el tipo penal demandado, torna excesiva la regulación, por cuanto estaría sancionándose la intención de concertarse, sin que exista acción concreta típicamente regulada y exteriorizada por el agente”[234]. |
+| **Colegio de Abogados Penalistas** | El Colegio de Abogados Penalistas solicitó a la Corte que declarara la inexequibilidad de la norma demandada. A título preliminar, refirió que el artículo 410A del Código penal es “un tipo penal en blanco, por cuanto, el Legislador, lejos de prescribir todos los elementos constitutivos de este delito” confirió al intérprete la competencia de determinar el significado de un ingrediente normativo del tipo, a saber, la expresión “*alterar **ilícitamente** el procedimiento contractual*”. Sin embargo, sostuvo que la norma demandada no satisface las exigencias de claridad y precisión desarrolladas por la jurisprudencia constitucional para el establecimiento de estos tipos penales. Esto, por cuatro razones[235]. En primer lugar, “no es posible establecer con certeza hacia dónde se dirige la remisión”. Esto, porque el delito se ubica en el título de los delitos contra la administración pública, lo que daría a entender que protege la recta función pública y, por lo tanto, el intérprete debe dirigirse al régimen general de la contratación pública para determinar el significado del ingrediente normativo. Sin embargo, su *nomen iuris* o título sugiere que la conducta sancionable son los “acuerdos restrictivos de la libre competencia”, lo que implicaría que, para llenar la “laguna”, debe acudir al régimen de libre competencia. En segundo lugar, argumentó que la expresión “alterar ilícitamente el proceso contractual” es de tal grado de “inseguridad, incertidumbre y vaguedad”[236] que no permite al intérprete determinar las conductas que “concretamente fueron objeto de prohibición”[237]. Esta indeterminación conlleva a que “cualquier acto doloso y coordinado que distorsione un proceso contractual por parte de dos o más individuos podría ser considerado como infracción penal de acuerdo con el artículo hoy demandado”[238]. En este sentido, “habida cuenta de la imprecisión legislativa en comento, se tiene a un tipo penal que, de manera amplia y abstracta, abarca un universo de conductas que pueden o no describir aquello que el Legislador buscó censurar, pues, necesariamente, incluye conductas que, o bien ya se encuentran tipificadas, o bien no corresponden a lo que puede entenderse como *acuerdos restrictivos de la competencia*, extendiéndose a ámbitos que probablemente no deberían ser objeto de reproche penal como medio de coerción estatal fragmentario, bastando con la imposición de una sanción de carácter administrativo para la reivindicación de la expectativa social quebrantada”[239]. En tercer lugar, la indeterminación semántica del tipo podría dar lugar a una violación del principio *non bis in idem*. Al respecto, señala que “bajo la premisa de que cualquier conducta que satisfaga los elementos de concertación y alteración irregular del rito contractual constituye el delito en cuestión, se hace plausible una sistemática vulneración del derecho fundamental a no ser juzgado dos veces por una misma conducta, dado que, evidentemente, por el grado de abstracción e indeterminación del tipo, es posible que en él se configuren conductas que ya están tipificadas”. Por ejemplo, “una persona podría ser considerada culpable como determinador, cómplice o interviniente (coautor no calificado) en delitos como interés indebido en la celebración de contratos, peculado, cohecho, concusión, prevaricato, entre otros, y a la vez ser penalmente sancionada por el delito establecido en el artículo 410A, que castiga la concertación para alterar ilícitamente un procedimiento contractual”[240]. En cuarto lugar, la vaguedad del tipo penal conduce a un desconocimiento del principio de *ultima ratio* del derecho penal. Esto, porque sugeriría que todas las faltas *administrativas* que se producen por llevar a cabo acuerdos restrictivos de la competencia también constituyen delitos. |
+
+**ACLARACIÓN
+DE VOTO DE LA MAGISTRADA**
+
+**NATALIA
+ÁNGEL CABO**
+
+**A
+LA SENTENCIA C-080/25**
+
+Referencia:
+expediente D-15954.
+
+Demanda de inconstitucionalidad en contra del artículo 410A
+de la Ley 599 de 2000, adicionado por el artículo 27 de la Ley 1474 de 2011.
+
+Magistrada ponente:
+
+Paola Andrea Meneses Mosquera
+
+Aunque en este caso acompañé la
+decisión de declarar exequible el artículo 410A del Código Penal respecto del
+cargo por la presunta vulneración del principio de estricta legalidad, a continuación
+haré referencia a algunos argumentos de la sentencia que, en mi criterio,
+generan más confusión que claridad en la caracterización del tipo penal
+demandado, y que me llevaron a aclarar el voto.
+
+**1.****Sobre la norma de reenvío**
+
+Según la sentencia, la expresión
+“alterar ilícitamente”, contenida en el artículo 410 A del Código Penal, es la
+que hace que este sea un tipo penal en blanco cuyo contenido se completaría a
+partir de la remisión al artículo 47.9 del Decreto 2153 de 1992, que sería la
+norma de reenvío. La sentencia fue enfática, además, en concluir que “el tipo
+penal se integra, **exclusivamente**, con el artículo 47.9 del Decreto 2153
+de 1992”[241].
+Esta conclusión me parece problemática, al menos por dos razones.
+
+En primer lugar, el artículo 47.9
+del Decreto 2153 de 1992 se refiere a los acuerdos “que tengan por objeto la
+colusión en las licitaciones o concursos o los que tengan como efecto la
+distribución de adjudicaciones de contratos, distribución de concursos o
+fijación de términos de las propuestas”. Los primeros parecen no cobijar todas
+las conductas que podrían adecuarse al tipo penal, pues la norma de remisión no
+hace referencia explícita a las subastas públicas y los procesos de selección
+abreviada, que en cambio sí se mencionan expresamente en el tipo penal
+analizado.
+
+En segundo lugar, y más relevante
+para el caso que ocupó a la Corte en esta oportunidad, si el reenvío se
+concreta exclusivamente en el artículo 47.9 del Decreto 2153 de 1992, como
+planteó la sentencia, se dejan por fuera las normas relativas al régimen de
+contratación estatal que, en mi criterio, también resultan necesarias para
+dotar de contenido al tipo penal demandado. De hecho la propia sentencia
+reconoció que uno de los ingredientes normativos del tipo es la existencia de
+un proceso contractual de licitación pública, subasta pública, selección
+abreviada o concurso, y que estas modalidades de contratación están definidas
+en la Ley 1150 de 2007[242].
+
+Como advertí antes, la conclusión
+a la que llegó la sentencia en este punto partió de la idea de entender que el
+elemento del tipo penal que requiere una remisión a normas extrapenales es la
+finalidad de “alterar ilícitamente”. Considero, en cambio, que los elementos
+que requieren dicha remisión para poder dotarlos de contenido son aquellos que
+se refieren al procedimiento contractual en los procesos de licitación pública,
+subasta pública, selección abreviada o concurso. En efecto, para conocer si un
+acuerdo tiene como finalidad alterar un procedimiento contractual en alguno de
+los procesos mencionados, es necesario conocer las reglas que rigen la
+contratación estatal, en general, y estos procesos en particular.
+
+De acuerdo con lo anterior, las
+normas de reenvío en este tipo penal serían, entonces, aquellas que integran el
+régimen de contratación estatal (Ley 80 de 1993 y Ley 1150 de 2007) y las de
+protección a la competencia (leyes 155 de 1959 y 1340 de 2009, y Decreto 2153
+de 1992). Esta postura está en consonancia con las normas de reenvío a las que
+hizo referencia la Procuraduría en su intervención en este proceso[243].
+
+**2.****Sobre la tabla que enlista
+ejemplos de acuerdos colusorios**
+
+Finalmente, la sentencia incluyó
+una tabla[244]
+en la que sintetizó la doctrina de la Superintendencia de Industria y Comercio
+en relación con los denominados “acuerdos colusorios”. Esta tabla, además de no
+ser necesaria porque ya antes la sentencia
+había mencionado los puntos esenciales de esta doctrina, podría llevar a la
+conclusión —en mi criterio, errada— de que la ejecución de alguna de las conductas
+que ahí se califican de colusorias implicaría ya, al menos, la realización del
+tipo objetivo previsto en el artículo 410A. Esto ampliaría en exceso la
+interpretación del delito, pues conductas como la de los oferentes que retiran
+las propuestas presentadas o aquellos que se abstienen de presentar propuestas
+podrían ser consideradas como ajustadas a la descripción típica de dicho
+delito, lo que, en mi opinión, resulta exagerado y rebasa los alcances de la
+decisión que debía tomar la Corte en este caso.
+
+En estos términos aclaro mi
+voto.
+
+Respetuosamente,
+
+**NATALIA ÁNGEL CABO**
+
+**Magistrada**
+
+**ACLARACIÓN DE VOTO DEL MAGISTRADO**
+
+**JUAN CARLOS CORTÉS GONZÁLEZ**
+
+**A LA SENTENCIA C-080/25**
+
+En la
+Sentencia C-080 de 2025 la Sala Plena de la Corte Constitucional estudió el
+cargo por la presunta vulneración del principio de legalidad estricta o
+tipicidad en materia penal y declaró exequible el artículo 410A del Código Penal. Aunque
+acompañé la decisión mayoritaria, me aparto de la metodología empleada para
+abordar la constitucionalidad de los tipos penales en blanco, porque la
+utilizada puede llevar a desconocer la naturaleza y fines de esta técnica
+legislativa, así como los límites de las decisiones de constitucionalidad en
+relación con aquella.
+
+A
+continuación, explicaré en primera medida, mis acuerdos centrales con la
+decisión, luego describiré la finalidad de los tipos penales en blanco y la
+explicación a partir de la cual la
+Sentencia C-080 de 2025 asigna un contenido estático a la conducta sancionada,
+omitiendo la voluntad de apertura del Legislador.
+
+*Acuerdo
+central.* Al tipificar los
+acuerdos restrictivos de la competencia en procesos de licitación pública,
+subasta pública, selección abreviada o concurso, tal como lo consideró la
+decisión de Sala Plena, el artículo demandado consagró un tipo penal en blanco,
+que permite reconocer la conducta sancionada por remisión tácita a
+disposiciones extrapenales, de modo que la conducta sancionada resulta
+determinable, de allí que tras la integración del tipo penal se impide que el
+juez efectúe una adecuación típica a partir de criterios subjetivos y
+arbitrarios.
+
+En
+efecto, el artículo 47.9 del Decreto 2153 de 1992 y la regulación jurídica
+sobre contratación pública, especialmente las Leyes 80 de 1993 y 1150 de 2007,
+así como las relacionadas con la protección de la libre competencia (Leyes 155
+de 1959 y 1340 de 2009), determinan con claridad los acuerdos admisibles y los
+proscritos, y son fundamentales para establecer cuándo se presenta la colusión
+en la contratación pública, de manera que la constitucionalidad de la medida
+está precedida de este examen, que impide arbitrariedad en la determinación de
+la conducta y por tanto no se trasgrede el principio de legalidad estricta o
+tipicidad en materia penal.
+
+Sin
+embargo, como lo resalté al inicio de este disenso, mi discrepancia radica en
+la metodología utilizada para llegar a esa conclusión, como lo explicaré
+enseguida.
+
+*Finalidad
+de los tipos penales en blanco*.
+Un tipo penal en blanco se caracteriza porque “la conducta de acción u omisión
+no se encuentra definida integralmente por el legislador en la norma penal,
+dejando la precisión de algunos aspectos a una norma de complemento del mismo o
+de otro ordenamiento jurídico, penal o extrapenal, que con su integración
+permite realizar el proceso de adecuación típica”[245].
+
+Entonces,
+la conducta que se reprocha no se encuentra exhaustivamente descrita en la
+disposición penal y presenta cierto grado de indeterminación[246].
+Cuando el Legislador fija un tipo penal en blanco, aplica una técnica legislativa
+de integración del tipo penal, a través de la cual “[l]a norma complementaria
+se adosa al tipo penal básico para integrar el ‘tipo penal’, momento a partir
+del cual éste tiene vigencia y poder vinculante completo. Ambas forman una
+unidad normativa que tiene plena vigencia”[247].
+
+La
+jurisprudencia de la Corte Constitucional ha señalado que, en principio, los
+tipos penales en blanco no socavan el principio de legalidad (tipicidad[248])
+que rige el derecho penal[249]. Tan solo pueden afectarlo cuando,
+aun tras la integración de la disposición penal y la norma de remisión, la
+conducta o la sanción penal no es claramente discernible[250].
+De lo contrario, la remisión penal[251] o extrapenal que el Legislador
+establezca para conformar el tipo penal es admisible[252],
+en función del margen de configuración normativa que le asiste en relación con
+la política criminal[253].
+
+Según
+se ha reconocido, la previsión de tipos penales en blanco atiende a un
+propósito puntual: evitar la inoperancia de la norma penal ante la evolución de
+la dinámica social. Es decir, “se justifican por la necesidad de proteger
+ciertos bienes jurídicos que se desarrollan en el marco de actividades sociales
+variables, dinámicas y que debe[n] ser actualizadas de manera continua”[254].
+Para regular ciertas conductas, resulta desacertado acudir a “moldes legales,
+cerrados y completos”[255], en consideración de la
+“multiplicidad de formas que puede tomar en la realidad”[256],
+con el paso del tiempo, aquellas prácticas que se pretenden proscribir.
+
+Usualmente,
+los tipos penales en blanco son empleados en ámbitos específicos, como el
+económico, el comercial y el ambiental, caracterizados por los cambios ágiles[257].
+La dinámica cambiante de estos escenarios demanda una amplitud en la norma
+penal, con la que el Legislador asegura una definición mínima de la conducta,
+sin pretensiones de exhaustividad y con apertura al cambio en las prácticas
+sociales a través del tiempo.
+
+La
+sentencia reconoce aquella finalidad. En concreto, destaca que los tipos
+penales en blanco están concebidos para hacer frente a actividades sociales
+variables; sin embargo, en su metodología de examen no tuvo en cuenta la
+dinámica cambiante del ámbito de regulación de la norma demandada, ni el
+propósito del tipo penal en blanco. Lo anterior, por dos razones que paso a
+exponer.
+
+*Primera.
+La Sentencia C-080 de 2025 asigna un contenido estático a la conducta
+sancionada, omitiendo la voluntad de apertura del Legislador*. La decisión de la Corte Constitucional en
+esta oportunidad se orientó por establecer de forma específica, cerrada y
+exhaustiva la norma de remisión. Concluyó que la disposición acusada de
+inconstitucional efectuaba una remisión tácita y en todo caso “exclusiva” al
+artículo 47.9 del Decreto 2153 de 1992. Dada esa remisión, la Sala Plena
+encontró que la norma acusada no contenía un precepto indescifrable y, por el
+contrario, tras la integración normativa, era clara e inconfundible la conducta
+objeto de reproche penal, razón por la cual declaró la exequibilidad de la
+disposición.
+
+Por
+el contrario, encuentro que la constitucionalidad de una disposición en el
+ordenamiento penal que contiene un tipo en blanco no puede establecerse en
+función de una única norma de remisión puntual e invariable, menos aun cuando
+el Legislador no señaló expresamente tal remisión y esta se encuentra
+establecida en modo tácito. Hacerlo implica cerrar de tal forma el tipo penal
+que este pierde aquellas características que lo hacen un tipo en blanco, con lo
+que se desconoce la voluntad del Legislador y la dinámica social cambiante a la
+que este quiso responder.
+
+Tal
+argumento se encuentra respaldado por la jurisprudencia. En todos aquellos
+eventos en los que se ha declarado la exequibilidad simple de un tipo penal en
+blanco con remisión tácita[258], como ocurrió en este asunto, esta
+Corporación se ha orientado por identificar la norma de remisión, valorar la
+claridad de la conducta objeto de reproche tras la integración normativa pero,
+en todo caso, absteniéndose de establecer una relación invariable entre la
+constitucionalidad de la disposición y la existencia de una norma de remisión
+específica, concreta y única.
+
+Por ejemplo, en la
+Sentencia C-084 de 2013 la Corte analizó si “[r]esulta[ba] contrario al
+principio de legalidad en materia penal (art. 29 CP) que el legislador haya
+consagrado en el artículo 22 de la Ley 1474 de 2011 el tipo penal de omisión de
+control en el sector de la salud, sin precisar cuáles son los mecanismos de
+control a los que hace referencia ni haber definido lo que se entiende por
+corrupción”. Al respecto, la providencia señaló que el tipo penal analizado, en
+efecto, constituía un tipo en blanco, y era constitucional en tanto, a partir
+de una lectura sistemática del ordenamiento jurídico, era posible establecer de
+forma nítida los mecanismos de control y el concepto de corrupción, como los
+actos constitutivos de esta, con una remisión a una pluralidad de normas
+penales y extrapenales. El fallo dejó en claro que la existencia de dicha
+normativa complementa de forma exitosa y clara el tipo penal analizado, sin que
+quede sujeto su análisis en concreto al criterio subjetivo del juzgador. Aquel
+análisis no fijó de modo invariable las normas de remisión.
+
+Así mismo, en la
+Sentencia C-501 de 2014 la Corte valoró si el principio de legalidad “fue
+desconocido por el artículo 306 de la Ley 599 de 2000, tal y como fue
+modificado por el artículo 4° de la Ley 1032 de 2006, sobre la base de que el
+tipo penal de usurpación de derechos de obtentor vegetal en él contenido, no
+precisa ni delimita con el necesario grado de certeza la conducta que
+tipifica”. Para determinar el asunto, esta Corporación identificó en el
+ordenamiento jurídico colombiano un sistema de protección de los derechos de
+obtentor vegetal, a través del cual es posible reconocer la conducta sancionada
+por el ordenamiento penal[259]. Destacó que “las normas o
+disposiciones complementarias que regulan los derechos de obtentor vegetal
+están contenidas en disposiciones de ley y en otras que, si bien son de
+inferior jerarquía, tienen en todo caso un alcance general, son de conocimiento
+público y preservan los principios y los valores constitucionales, tal como
+ocurre con el Decreto 533 de 1994 y las Resoluciones ICA 1893 de 1995, 2046 de
+2003 y 970 de 2010, entre otras”. De tal suerte, la Corte se abstuvo de
+establecer de forma exhaustiva e invariable la norma de remisión que
+complementaba el tipo penal.
+
+Analizada
+minuciosamente la jurisprudencia de la Corte Constitucional respecto de los
+tipos penales en blanco, encuentro que cuando el Legislador ha optado por una
+remisión tácita para tipificar una conducta, la exequibilidad de las
+disposiciones penales no ha estado asociada a la definición invariable de una
+norma de remisión. Hasta ahora en ninguno de los casos analizados esta
+Corporación había establecido una única norma de remisión, estatuyéndola como
+la única vía de complementación del tipo penal.
+
+Esta
+aproximación a la constitucionalidad de los tipos penales en blanco resulta
+atípica, pues los distintos fallos en la materia se contraen a establecer si a
+partir de la integración normativa de la disposición acusada y las normas de
+remisión, desde una interpretación sistemática del ordenamiento, es posible
+superar la indeterminación que le es propia al tipo penal en blanco. Nunca
+antes se había complementado la norma acusada con una norma de remisión
+específica e invariable, como lo admitió la postura mayoritaria de la Sala
+Plena en esta oportunidad.
+
+Además
+de ser una alternativa de decisión atípica, la aproximación de la mayoría de la
+Sala Plena resulta problemática. Al señalar una única norma de remisión,
+calificada como una remisión “exclusiva” para fijar el alcance de la conducta
+sancionada por el ordenamiento penal, la Corte Constitucional condiciona su
+declaratoria de exequibilidad a la existencia de la norma de remisión. En este
+caso, a la vigencia del artículo 47.9 del Decreto 2153 de 1992 “[p]or el cual
+se reestructura la Superintendencia de Industria y Comercio y se dictan otras
+disposiciones”. Lo anterior constituye un desafío desde el punto de vista de la
+consolidación de la cosa juzgada en este asunto particular.
+
+Adicionalmente,
+la decisión se distancia de la naturaleza propia de los tipos penales en
+blanco. Aun cuando reconoce que su consolidación es admisible en el
+ordenamiento jurídico colombiano, como una técnica legislativa de
+complementación por remisión, parece rechazar la idea de la apertura del tipo
+penal al cambio. En últimas, resuelve cerrar el tipo penal, al entender la
+conducta exhaustiva y exclusivamente determinada por el artículo 47.9 del
+Decreto 2153 de 1992. Esto, en oposición a la voluntad del Legislador que,
+orientado por la necesidad de la apertura del tipo penal para dar una respuesta
+al cambio en el fenómeno criminal penado, había consagrado un tipo penal de
+textura abierta.
+
+Conviene
+recordar que la jurisprudencia en la materia ha precisado que el análisis de
+constitucionalidad de los tipos penales en blanco no puede derivar en la
+fijación de su alcance por parte de la Corte Constitucional[260].
+Ha resaltado que a esta Corporación le está vedado dotar de sentido y alcance
+al precepto incompleto. Esto, dado que la imperfección del tipo penal no
+obedece a una omisión del Legislador, sino a una técnica legislativa
+deliberadamente empleada por él. Entonces, la labor de esta Corte se limita a
+verificar que la norma acusada efectúa una remisión que determina en forma
+clara y comprensible la conducta sancionada, sin precisar ni completar el tipo
+penal.
+
+No
+obstante, la Sentencia C-080 de 2025 habría definido por completo y de forma
+minuciosa la conducta asociada al tipo penal examinado. Esto resulta evidente
+del contenido de la *Tabla 6*, en la que se consagra de forma precisa y
+detallada el compendio de conductas que la mayoría de la Sala Plena entendió
+contempladas en el tipo penal. Incluso, prevé distintas modalidades de comisión
+de la conducta, como factores de riesgo y estrategias en pro de la colusión,
+con una dificultad adicional como es el hecho de la indeterminación del rol de
+estos últimos en la adecuación típica. Tal consagración exhaustiva excede las
+competencias de esta Corporación y, si bien es cierto la mayor precisión en la
+identificación de la conducta típica representa mayores garantías para la
+ciudadanía, aquella determinación tiene reserva de ley y su establecimiento
+debe responder al principio democrático. Adicionalmente, una vez determinada la
+existencia de normas de remisión que dotaban de sentido y alcance al tipo
+penal, resulta innecesario el análisis de las modalidades, riesgos y
+estrategias en la comisión de la conducta.
+
+La
+metodología adoptada por la mayoría de la Sala Plena en la Sentencia C-080 de
+2025 incluso podría resultar contradictoria. Aunque la providencia reconoce que
+“el principio de legalidad estricta no impone al legislador la obligación de
+definir de forma expresa la norma de remisión”, parece condicionar la
+constitucionalidad de las normas que consagran un tipo penal en blanco a la
+existencia y a la declaración de una remisión normativa exclusiva, como acaba
+haciéndose, con lo cual es posible que se advierta cierta ambivalencia sobre la
+legitimidad de los tipos penales de textura abierta. En esa medida debo
+apartarme de esta postura específica.
+
+*Segunda.
+Exigir que la norma de remisión sea anterior al tipo penal en blanco también
+desconoce la apertura del tipo a la evolución de la dinámica social.* La sentencia en la que aclaro el voto estableció que uno de
+los requisitos que permiten concluir que el tipo penal en blanco es
+constitucionalmente admisible corresponde a que la norma de remisión sea
+precedente. Es decir, que el tipo penal en blanco solo puede efectuar una
+remisión, expresa o tácita, a una norma penal o extrapenal que exista para el
+momento de su expedición. Sostengo que, a partir de esta exigencia, una vez
+más, la postura mayoritaria de la Sala Plena se apartó de la pretensión de
+regular ámbitos dinámicos y mutables de la realidad social.
+
+Para la Corte
+Suprema de Justicia, en los tipos penales abiertos “[e]l núcleo y el
+complemento integran una sola disposición [y] ambos deben sujetarse a las
+exigencias esencial[es] del principio legalidad, […] esto es, deben ser previos
+a la comisión de la conducta punible”[261]. Del mismo modo, la jurisprudencia
+de la Corte Constitucional ha establecido que “[n]o es necesario que la norma
+complementaria exista con anterioridad a la expedición de la disposición
+contentiva del tipo penal, aun cuando sí se requiere que haga parte del
+ordenamiento jurídico al momento de realizarse la conducta y de llevarse a cabo
+el proceso de adecuación típica”[262],
+por lo cual, en definitiva, “no es condición de constitucionalidad que [la
+norma que complementa el tipo] preexista al momento de aprobación de la ley
+correspondiente”[263].
+Si así se instituyera, el tipo penal quedaría sujeto a la dinámica social en la
+que surgió, sin posibilidad de responder a su evolución en el tiempo.
+
+En atención a
+lo expuesto, cuando la Sentencia C-080 de 2025 dispone que la norma acusada es
+exequible porque el artículo 47.9 del Decreto 2153 de 1992 es “anterior a la
+tipificación de la conducta punible” o a la expedición del artículo 410A del
+Código Penal, establece una condición de constitucionalidad que la
+jurisprudencia ha descartado y que no responde al dinamismo del fenómeno
+criminal que se pretendió regular en aquella disposición. Desde mi punto de
+vista, esta consideración no responde al propósito que tiene el tipo penal en
+blanco. De tal suerte, debo apartarme de tal apreciación.
+
+*Cuestión
+final*. Por último, considero que la
+justificación de la distinción conceptual entre remisión propia e impropia en
+materia de tipos penales en blanco es problemática. El fallo del que me separo
+refiere que la conceptualización sobre cada uno de estos tipos de remisión se
+adopta con fundamento en las últimas decisiones de la Corte Constitucional. En
+esa medida, aunque la jurisprudencia constitucional parece confundir esta
+tipología en varias de sus decisiones, la Sentencia C-080 de 2025 especifica
+que adopta el criterio expuesto por las últimas decisiones de esta Corporación.
+Al respecto, conviene reparar en que no hay un criterio de antigüedad para
+resolver sobre dos posturas jurisprudenciales, como sí para interpretar
+antinomias legislativas. En esa medida, considero inadecuado el criterio de
+decisión al respecto.
+
+Encuentro que
+la conceptualización propuesta tiene más solidez en función de la
+jurisprudencia de la Corte Suprema de Justicia, la cual ha establecido que la
+remisión propia es la que efectúa el tipo penal en blanco a una disposición,
+penal o extrapenal, de rango legal, mientras aquella de carácter impropio alude
+a la complementación del tipo a partir de normas infralegales. Sentencias como
+la SP14190-2016 y la SP441-2023 lo dejan claro y son fundamento jurisprudencial
+suficiente para adoptar las nociones expuestas en la providencia ahora
+comentada.
+
+En los
+anteriores términos aclaro el voto respecto de la Sentencia C-080 de 2025.
+
+*Fecha ut
+supra*
+
+**JUAN CARLOS CORTÉS GONZÁLEZ**
+
+**Magistrado**
+
+---
+
+[1]
+En concreto, la magistrada sustanciadora inadmitió los pretendidos cargos,
+porque no cumplían con las exigencias argumentativas de claridad, certeza,
+pertinencia y suficiencia de las demandas de inconstitucionalidad.
+
+[2]
+En este *(i)* aclaró cuál era la norma demandada y *(ii)* precisó
+cuál era parámetro de control que proponía.
+
+[3] Escrito de
+la demanda, p. 10.
+
+[4]
+Ib.
+
+[5]
+Ib.
+
+[6]
+Ib.
+
+[7]
+Ib., p. 13.
+
+[8]
+Ib., p. 12.
+
+[9]
+El demandante señala las sentencias C-599 de 1999,
+C-367 de 2022, C-411 de 2022 y C-021 de 2023.
+
+[10] El actor
+refiere la Sentencia de la Corte Interamericana de Derechos Humanos “Castillo
+Petruzzi y otros Vs. Perú” y “Norín Catrimán y otros *Vs*.
+Chile”. En particular, destaca que, de acuerdo con la jurisprudencia interamericana, “los
+Estados deben tipificar en sus
+normas penales conductas con términos estrictos y unívocos de tal manera que la
+interpretación de la prohibición sea expresa, precisa y taxativa”[10].
+
+[11]
+Corte Constitucional, Sentencia C-021 de 2023.
+
+[12]
+Corte Constitucional, Sentencia C-599 de 1999.
+
+[13]
+Ib.
+
+[14]
+Respecto de este requisito, el actor enfatizó en que,
+frente a los criterios de claridad y precisión, la jurisprudencia
+constitucional ha resaltado que los tipos penales en blanco son
+inconstitucionales cuando “generan discusiones interpretativas complejas,
+valoraciones probatorias amplias y los ciudadanos no están en capacidad de
+establecer de forma razonable y previa si su proceder se enmarca o no en una
+conducta criminal”.
+
+[15] Escrito
+de la demanda, pp. 17 y 20.
+
+[16]
+De acuerdo con el actor, en la Sentencia C-367 de 2022, la Corte Constitucional
+precisó que “la remisión es *impropia* cuando el reenvío se hace a una
+normatividad expedida por autoridades administrativas como, por ejemplo, el
+Gobierno nacional, los ministerios o gobiernos departamentales o municipales,
+entre otras instituciones. Esta última modalidad de remisión presenta un mayor
+grado de tensión respecto del principio de legalidad en sentido amplio –reserva
+de ley en materia sancionatoria–”.
+
+[17] Escrito
+de la demanda, p. 19.
+
+[18] Ib. p. 4.
+
+[19] Ib.
+
+[20] Ib.
+
+[21] Ib., p.
+22.
+
+[22]
+Ib.
+
+[23]
+Ib.
+
+[24]
+Ib.
+
+[25]
+Ib., p. 26.
+
+[26]
+Escrito de corrección, p. 3.
+
+[27]
+Estos fueron: *(i)* el Ministerio de Justicia y del Derecho, *(ii)* la
+Superintendencia de Industria y Comercio, *(iii)* la Agencia Nacional de
+Contratación Pública, *(iv)* la Asociación Colombiana del Derecho de la
+Competencia, *(v)* el Instituto Colombiano de Derecho Procesal, *(vi)* la
+Universidad del Norte; *(vii)* la Universidad Externado; *(viii)* la
+Fundación Jurídica Proyecto Inocencia y *(ix)* el Colegio de Abogados
+Penalistas. Por otra parte, la Sala advierte que el 23 de octubre de 2024, el
+ciudadano Julio César Ortiz Rodríguez presentó un escrito en el que solicitó a
+la Corte tener en cuenta dos demandas que fueron presentadas contra la misma
+norma. Sin embargo, habida cuenta de que este escrito fue presentado de manera
+extemporánea, no será tenido en cuenta.
+
+[28]
+Intervención de la Asociación Colombiana de Derecho de la Competencia, p. 4.
+
+[29]
+Ib.
+
+[30]
+Intervención del Ministerio de Justicia y del Derecho, p. 7.
+
+[31]
+Además, esta conclusión también resulta coherente con los motivos por los
+cuales el legislador tipificó esta conducta. En la exposición de motivos del
+proyecto de ley que derivó en la Ley 1474 de 2011, el legislador señaló que
+“[s]e adiciona como nuevo tipo penal los acuerdos restrictivos de competencia
+en materia de contratación estatal para sancionar fundamentalmente los ya
+frecuentes casos en los cuales los proponentes de un proceso precontractual se
+ponen de acuerdo para engañar al Estado”.
+
+[32]
+Ib.
+
+[33]
+Intervención del Ministerio de Justicia y del Derecho, p. 7. *Cfr.*
+Intervención de la Agencia Nacional de Contratación Pública y de la Asociación
+Colombiana de Derecho de la Competencia.
+
+[34]
+Intervención de la SIC, p. 4.
+
+[35]
+Intervención de la SIC, p. 10.
+
+[36]
+Intervención de Colombia Compra Eficiente, p. 12.
+
+[37]
+Ib., p. 9.
+
+[38]
+En concreto, los intervinientes refieren la doctrina de la Agencia
+Nacional de Contratación Pública y de la Superintendencia de
+Industria y Comercio.
+
+[39]
+Intervención del Ministerio de Justicia y del Derecho, p. 7.
+
+[40]
+Intervención de la Superintendencia de Industria y Comercio,
+p. 6. Destacó que ese “acuerdo por lo general está
+orientado a propósitos como elevar los precios, disminuir la calidad de los
+productos o servicios o aumentar sus posibilidades de resultar beneficiados con
+la adjudicación del contrato en detrimento de la probabilidad de victoria de
+los demás proponentes que participan en el proceso”.
+
+[41]
+Ib., p. 6. Dentro de estas se encuentran: el “(i) control competitivo ejercido
+respecto de agentes del mercado que concurren al proceso de contratación
+simulando ser competidores; (ii) intercambio de información sensible que no
+está disponible para la totalidad de los proponentes; (iii) favorecimiento por
+parte de un funcionario o contratista de una entidad pública con la finalidad
+de direccionar la adjudicación de un proceso de selección a un proponente
+específico; y (iv) las restricciones verticales impuestas en el marco de
+procesos de contratación”.
+
+[42]
+Colombia Compra Eficiente define los acuerdos colusorios como aquellos que
+“tienen como objetivo principal eliminar la competencia genuina entre los
+participantes, facilitando así la distribución de los beneficios que derivan de
+la reducción de la rivalidad en el mercado”.
+
+[43]
+Intervención de Colombia Compra Eficiente, p. 3.
+
+[44]
+Ib., p. 5.
+
+[45]
+Intervención de la SIC, p. 11-15. En concreto, el interviniente sostiene que
+este tipo de conductas han sido reguladas en las normas penales de países
+miembros de la OCDE tales como Alemania, Canadá, España, Estados Unidos, Chile,
+México y Brasil.
+
+[46]
+Intervención del Instituto Colombiano de Derecho Procesal, p. 2.
+
+[47]
+Ib.
+
+[48]
+Intervención de la Fundación Proyecto Inocencia, p. 3.
+
+[49]
+Intervención del Instituto Colombiano de Derecho Procesal, p.2. Señaló que este
+es “el caso de los procedimientos en donde se aplican normas de derecho privado
+y no público, como lo es el caso de la Bolsa Mercantil cuyo procedimiento
+contractual es de carácter privado y no público”.
+
+[50]
+Intervención del Colegio de Abogados Penalistas, p. 8.
+
+[51]
+Intervención de la Universidad Externado de Colombia, p. 9.
+
+[52]
+Ib., p. 13.
+
+[53]
+Al respecto, citó las sentencias C-860 de 2006 y C-032 de 2017.
+
+[54]
+Intervención del Colegio de Abogados Penalistas, p. 10.
+
+[55]
+Ib. En criterio del interviniente, “como la SIC investiga y determina la
+responsabilidad administrativa y compulsa copias a la FGN, toda la
+investigación penal está parcializada a lo que determine la SIC, lo que vulnera
+el derecho a la presunción de inocencia”.
+
+[56]
+Concepto del Ministerio Público, p. 3.
+
+[57]
+Ib., p. 5.
+
+[58]
+Ib.
+
+[59]
+Ib.
+
+[60]
+Ib.
+
+[61]
+Ib., p. 5.
+
+[62]
+Corte Constitucional, Sentencia C-053 de 2021.
+
+[63]
+Corte Constitucional, sentencias C-078 de 2023 y C-050 de
+2024.
+
+[64]
+Corte Constitucional, sentencias C-1052 de 2001, C-1074 de 2002, C-284 de 2014,
+C-091 de 2022, C-219 de 2024 y C-400 de 2024.
+
+[65]
+Corte Constitucional, Sentencia C-400 de 2024. *Cfr.* Sentencias C-402 de
+1997, C-1074 de 2002 y C-022 de 2004.
+
+[66]
+Corte Constitucional, sentencias
+C-1033 de 2006 y C-501 de 2014.
+
+[67]
+Corte Constitucional, Sentencia C-501 de 2014.
+
+[68]
+Corte Constitucional, Sentencia C-411 de 2022.
+
+[69]
+Corte Constitucional, sentencias C-121 de 2012, C-091 de
+2017, C-411 de 2022 y C-021 de 2023.
+
+[70]
+Corte Constitucional, sentencias C-488 de 2009, C-501 de 2014, C-297 de 2016 y C-411 de
+2022.
+
+[71]
+Corte Constitucional, Sentencia C-501 de 2014.
+
+[72]
+Corte Constitucional, Sentencia C-297 de 2016.
+
+[73]
+Ib.
+
+[74]
+La jurisprudencia ha señalado que dentro de los límites al amplio margen de
+configuración normativa del legislador en materia penal se encuentra el
+principio de exclusiva protección de bienes jurídicos, los principios de
+necesidad de la intervención penal, culpabilidad, proporcionalidad y
+razonabilidad y el bloque de constitucionalidad. *Cfr.* Corte Constitucional,
+sentencias C-489 de 2002, C-365 de 2012, C-387
+de 2014, C-181 de 2016, C-042 de 2018, C-411
+de 2022, entre otras.
+
+[75]
+Corte Constitucional, sentencias C-939 de 2002 y C-411 de 2022.
+
+[76]
+Corte Constitucional, Sentencia C-038 de 1995. Ver también, Sentencia C-442 de
+2011.
+
+[77]
+Corte Constitucional, sentencias C-559 de 1999 y C-367 de
+2022.
+
+[78]
+Corte Constitucional, Sentencia C-204 de 2023.
+
+[79]
+Corte Constitucional, sentencias C-599 de 1999, C-843 de
+1999, C-501 de 2014, C-297 de 2016, C-367 de 2022. C-411 de 2022, C-204 de
+2023, entre otras. Con todo, la jurisprudencia constitucional ha precisado
+que, conforme a la Ley 137 de 1994, el Presidente de la República puede crear
+tipos penales en estados de excepción. *Cfr.* Sentencias C-179 de 1994,
+C-224 de 2009 y C-225 de 2009.
+
+[80]
+Corte Constitucional, sentencias C-205 de 2003, C-365
+de 2012, C-041 de 2017, C-297 de 2016, C-204 de 2023, entre otras. De acuerdo
+con este principio, un hecho no puede considerarse delito ni
+ser objeto de sanción si no existe una ley previa que así lo establezca, salvo
+el principio de favorabilidad.
+
+[81]
+Corte Constitucional, Sentencia C-091 de 2017.
+
+[82]
+Corte Constitucional, sentencias C-996 de 2000, C-177 de 2001 y C-084 de 2013,
+entre otras.
+
+[83]
+Corte Constitucional, sentencias C-367 de 2022 y C-021 de
+2023. Este principio también se encuentra previsto en el artículo 6º del Código
+Penal. “ARTÍCULO 10. TIPICIDAD. La ley penal definirá de manera inequívoca,
+expresa y clara las características básicas estructurales del tipo penal”.
+
+[84]
+*Cfr.* Sentencias C-559
+de 1999, C-843 de 1999, C-739 de 2000, C-1164 de 2000, C-205 de 2003, C-897 de
+2005, C-393 de 2006, C-335 de 2008, C-442 de 2011, C-297 de 2016, C-539 de 2016, C-091 de
+2017, C-411 de 2022, entre muchas otras.
+
+[85]
+Corte Constitucional, sentencias C-091 de 2017, C-367 de
+2022, C-411 de 2022 y C-021 de 2023. De acuerdo con la jurisprudencia, una norma es clara y precisa cuando es posible “conocer con exactitud cuáles son los comportamientos prohibidos”
+de modo que “la labor de los jueces, en el proceso de adecuación típica, se
+limit[e] a determinar si, conforme a los hechos probados en el proceso, el
+acusado cometió o no el hecho punible que se le imputa”. *Cfr.* Sentencias
+C-559 de 1999 y C-843 de 1999.
+
+[86]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[87]
+Corte IDH. *Caso Liakat Ali Alibux vs. Suriname*. Sentencia del 30 de
+enero de 2014. (Excepciones Preliminares, Fondo, Reparaciones y Costas).
+
+[88]
+Corte Constitucional, sentencias C-133 de 1999 y C-559 de 1999.
+
+[89]
+Corte Constitucional, Sentencia C-091 de 2017.
+
+[90]
+Corte Constitucional, sentencias C-091 de 2017 y C-021 de 2023.
+
+[91]
+Corte Constitucional, Sentencia C-091 de 2017. “Como lo
+indicó la Corte en la Sentencia C-539 de 2016, la ambigüedad y la vaguedad (y
+por lo tanto la textura abierta y la relativa indeterminación de las
+expresiones) son características ‘consustanciales y prácticamente ineliminables
+del lenguaje natural’. Como el Legislador dicta sus normas a través de
+enunciados que también pertenecen al lenguaje natural, todo tipo penal sufrirá
+un mínimo de indeterminación, pero no por ello resultan incompatibles con el
+principio de taxatividad penal. Al momento de verificar el cumplimiento del
+principio de legalidad estricta, debe indagarse si es posible, con fundamento
+en una interpretación razonable y a partir de referentes objetivos y
+verificables, trazar la ‘frontera que divida con suficiente claridad el
+comportamiento lícito del ilícito’”.
+
+[92]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[93]
+Corte Constitucional, sentencias C-041 de 2017, C-014 de 2023 y C-204 de 2023.
+
+[94] Corte
+Constitucional, sentencias C-121 de 2012 y C-041 de 2017. En esa medida,
+en la Sentencia C-742 de 2012, esta Corte explicó que una indeterminación
+o imprecisión en la norma penal es superable: *(i)* si la norma penal es
+sometida a una interpretación razonable y después de ello se asegura a la
+ciudadanía un grado admisible de previsibilidad sobre las consecuencias
+jurídicas de determinados comportamientos; *(ii)* si se garantiza el
+derecho a la defensa de los acusados por la norma en cuestión; y *(iii)* si
+es posible, después de un razonamiento previo, entender con claridad cuál es el
+bien jurídico que se quiere proteger y cuál es el comportamiento que se quiere
+desestimular.
+
+[95]
+Corte Constitucional, Sentencia C-204 de 2023.
+
+[96]
+Ib.
+
+[97]
+Corte Constitucional, sentencias C-559 de 1999, C-488 de 2009, C-297 de 2016 y
+C-411 de 2022.
+
+[98]
+Corte Constitucional, Sentencia C-091 de 2017.
+
+[99]
+Corte Constitucional, Sentencia C-367 de 2022. Ver también, Sentencia
+C-014 de 2023.
+
+[100]
+Corte Constitucional, sentencias C-091 de 2017 y C-411 de 2022.
+
+[101]
+Corte Constitucional, Sentencia C-091 de 2017.
+
+[102]
+Corte Constitucional, sentencias C-127 de 1993, C-599
+de 1999, C-739 de 2000 y C-367 de 2022.
+
+[103]
+*Cfr.* Sentencia C-605 de 2006 y C-297 de 2016.
+
+[104]
+Corte Constitucional, sentencias C-851 de 2009, C-442 de 2011, C-121 de 2012,
+C-501 de 2014, C-367 de 2022 y C-411 de 2022.
+
+[105]
+Corte Constitucional, Sentencia C-739 de 2000.
+
+[106]
+Ib.
+
+[107]
+Corte Suprema de Justicia, Sala de Casación Penal, Sentencia SP14190-2016.
+
+[108]
+Corte Constitucional, Sentencia C-605 de 2006. Ver también, Sentencia
+C-442 de 2011.
+
+[109]
+Corte Constitucional, sentencias C-605 de 2006, C-297 de
+2016 y C-367 de 2022.
+
+[110]
+La Sala advierte que la jurisprudencia constitucional no ha sido pacífica en el
+uso de estas categorías. De un lado, en las sentencias C-605 de 2006, C-501 de
+2014 y C-297 de 2016 la Corte señaló la remisión propia es aquella que se hace
+a normas de rango infralegal y la impropia a normas de rango legal. De otro, en
+las en las sentencias C-091 de 2017, C-367 de 2022 y la C-021 de 2023 la Corte
+señaló que la remisión es impropia si el tipo penal se integra con normas de
+rango infra legal. Habida cuenta de que el último es el precedente más reciente
+fijado por la Sala Plena, la Corte Constitucional adoptará esta clasificación.
+
+[111]
+Corte Constitucional, sentencias C-559 de 1999, C-739
+de 2000, C-1161 de 2000, C-1490 de 2000, C-917 de 2001,
+C-343 de 2006, C-605 de 2006, C-851 de 2009, C-501 de 2014, C-367 de 2022,
+entre otras.
+
+[112]
+Corte Constitucional, sentencias C-739 de 2000 y C-367 de 2022.
+
+[113]
+Corte Constitucional, sentencias C-605 de 2006 y
+C-501 de 2014. La Corte Constitucional ha resaltado “la importancia de los
+tipos penales en blanco como institutos de perfeccionamiento del derecho penal,
+en la medida en que permiten la penetración de la sanción en la cada vez más
+compleja sociedad contemporánea”.
+
+[114]
+Ib.
+
+[115]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[116]
+Corte Constitucional, Sentencia C-605 de 2006.
+
+[117]
+Corte Constitucional, Sentencia C-333 de 2001.
+
+[118]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[119]
+Con todo, la Corte advierte que en otros tribunales constitucionales han
+interpretado que el principio de legalidad estricta exige que la remisión sea
+expresa. *Cfr.* Tribunal Constitucional Español, sentencia 127 de 5 de
+julio de 1990. En esta decisión, el Tribunal Constitucional
+señaló: “es posible la incorporación al tipo de elementos normativos y es
+conciliable con los postulados constitucionales la utilización legislativa y
+aplicación judicial de las llamadas leyes penales en blanco; esto es, de normas
+penales incompletas en las que la conducta o la consecuencia jurídico-penal no
+se encuentre agotadoramente prevista en ellas, debiendo acudirse para su
+integración a otra norma distinta, siempre que se den los siguientes
+requisitos: que el reenvío normativo sea expreso y esté justificado en
+razón del bien jurídico protegido por la norma penal” (subrayado fuera del
+texto).
+
+[120]
+Corte Constitucional, Sentencia C-411 de 2022.
+
+[121]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[122]
+Corte Constitucional, sentencias C-605 de 2006, C-851 de
+2009 y C-501 de 2014.
+
+[123]
+Corte Constitucional, sentencias C-501 de 2014 y C-041 de
+2017.
+
+[124]
+Corte Constitucional, Sentencia C-501 de 2014.
+
+[125]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[126]
+Corte Constitucional, Sentencia C-442 de 2011.
+
+[127]
+Corte Constitucional, sentencias C-710 de 2001 y C-343 de 2006. Ver también, Sentencia C-739 de 2000: “En
+nada contraría el ordenamiento superior el hecho de que el legislador recurra a
+esta modalidad de tipo penal [en blanco], siempre y cuando verifique la
+existencia de normas jurídicas precedentes que definan y determinen, de manera
+clara e inequívoca, aquellos aspectos de los que adolece el precepto en blanco,
+cuyos contenidos sirvan efectivamente al intérprete, específicamente al juez
+penal, para precisar la conducta tipificada como conducta punible (…)”. En el
+mismo sentido, ver Sentencia C-091 de 2017.
+
+[128]
+Ib.
+
+[129]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[130]
+Ib.
+
+[131]
+Ib.
+
+[132]
+Ib.
+
+[133]
+Corte Constitucional, sentencias C-605 de 2006, C-442 de
+2011 y C-121 de 2012.
+
+[134]
+Corte Constitucional, sentencias C-127 de 1993, C-133 de
+1999, C-121 de 2012 y C-501 de 2014. Ver también, Sentencia C-041 de 2017.
+
+[135]
+Corte Constitucional, Sentencia C-442 de 2011.
+
+[136]
+Corte Constitucional, Sentencia C-127 de 1993. Ver también, sentencias C-442 de 2011, C-121 de 2012 y C-501 de 2014.
+
+[137]
+Corte Constitucional, sentencias C-559 de 1999 y C-442 de
+2011.
+
+[138]
+Corte Constitucional, Sentencia C-297 de 2016.
+
+[139]
+Corte Constitucional, sentencias C-331 de 2001 y C-297 de
+2016. Ver también, Sentencia C-204 de 2023.
+
+[140]
+Corte Constitucional, Sentencia C-041 de 2017.
+
+[141]
+Corte Constitucional, Sentencia C-501 de 2014.
+
+[142]
+Corte Constitucional, Sentencia C-021 de 2023.
+
+[143]
+Este criterio hace referencia a que mediante la interpretación los jueces
+puedan aplicar y comprender el tipo penal sin ejercicios interpretativos de
+excesiva complejidad (principalmente basados en la literalidad, el contexto y
+el propósito de la disposición, siempre que estos sean determinados) y que las
+personas puedan acceder al conocimiento de la prohibición. *Cfr.* Corte
+Constitucional, Sentencia C-091 de 2017.
+
+[144]
+Corte Constitucional, sentencias C-442 de 2011 y
+C-501 de 2014.
+
+[145]
+Corte Constitucional, Sentencia C-559 de 1999.
+
+[146]
+Corte Constitucional, sentencias C-442 de 2011 y
+C-501 de 2014.
+
+[147]
+Corte Constitucional, Sentencia C-121 de 2012. Al respecto, señaló la Corte que
+“[n]o es novedoso sostener que las denominaciones de los capítulos y títulos
+del código penal, no cumplen simplemente una labor de ordenación sino que
+contribuyen a dar sentido a las prohibiciones, al punto que constituyen un
+valioso parámetro para determinar la antijuridicidad material de las conductas,
+es decir su verdadera idoneidad para configurar una acción socialmente dañosa,
+y por ende merecedora de reproche penal” (resaltado fuera de texto).
+
+[148]
+Corte Constitucional, sentencias C-501 de 2014 y C-297 de
+2016.
+
+[149]
+Corte Constitucional, sentencias C-091 de 2017, C-297
+de 2016 y C-041 de 2017.
+
+[150]
+Corte Constitucional, sentencias C-742 de 2012, C-297 de 2016, y C-204 de 2023.
+
+[151]
+Corte Constitucional, Sentencia C-091 de 2017.
+
+[152]
+Ib.
+
+[153]
+Corte Constitucional, sentencias C-559 de 1999 y C-442 de
+2011.
+
+[154]
+Corte Constitucional, Sentencia C-297 de 2016.
+
+[155]
+Gaceta 607 de 2010, p. 16.
+
+[156]
+Ib., p. 17.
+
+[157]
+Ib.
+
+[158]
+Ib., p. 18.
+
+[159]
+Ib.
+
+[160]
+Ib., p. 18.
+
+[161]
+Ib.
+
+[162]
+Gaceta 180 de 2011, p. 20
+
+[163]
+Ib.
+
+[164]
+Ib. Durante el trámite legislativo el Representante Pablo Enrique Salamanca
+Cortéssolicitó modificar la redacción de la norma para mejorar lo que
+se entiende por “restricción a la competencia en materia de contratos”. Al
+respecto, explicó a la comisión que este nuevo tipo penal buscaba sancionar los
+“acuerdos restrictivos de la competencia en materia de contratación”[164],
+lo cual implica “establecer barreras artificiales para que la gente acceda a un
+contrato”[164].
+El congresista expuso que también la norma pretende sancionar a los
+funcionarios públicos que establezcan requisitos “innecesarios para acceder
+democráticamente a los contratos y favorecer así a una determinada persona,
+natural o jurídica, con la adjudicación del mismo”. No obstante, el
+representante retiró esta proposición.
+
+[165]
+Ib.
+
+[166]
+Gaceta 19 de 2011, p. 3.
+
+[167]
+Estos eran los Representantes Germán Varón, Alfonso Prada, Jaime Buenahora y Juan Carlos Salazar.
+
+[168]
+En concreto, se incluyó el siguiente parágrafo: “[e]l que en su condición de
+delator o clemente mediante resolución en firme obtenga exoneración total de la
+multa a imponer por parte de la Superintendencia de Industria y Comercio en una
+investigación por acuerdo anticompetitivo en un proceso de contratación pública
+obtendrá los siguientes beneficios: reducción de la pena en una tercera parte,
+un 40% de la multa a imponer y una inhabilidad para con entidades estatales por
+cinco años”.
+
+[169]
+Ib.
+
+[170]
+Corte Constitucional, Sentencia C-501 de 2014. Ver también, Sentencia SU-360 de
+2024: “La teoría del delito dicta que para que haya *tipicidad*, es
+necesario que ‘la conducta se adecúe a las exigencias materiales definidas en
+el respectivo precepto de la parte especial del estatuto penal (tipo objetivo)’:
+el sujeto activo, el sujeto pasivo, la acción, el resultado, la causalidad, los
+medios y las modalidades del comportamiento. Asimismo, exige que cumpla con la
+modalidad de la conducta (dolo, culpa o preterintención) establecida por
+el legislador en cada norma especial (tipo subjetivo). Conforme el artículo 21
+del Código Penal, todos los tipos de la parte especial corresponden a conductas
+dolosas, salvo cuando se haya previsto expresamente que trata de
+comportamientos culposos o preterintencionales”.
+
+[171]
+Ib. El sujeto activo se refiere a la persona que ejecuta la conducta punible.
+Los sujetos activos pueden ser monosubjetivos, plurisubjetivos, de sujeto
+indeterminado o de sujeto cualificado.
+
+[172]
+Ib. El sujeto pasivo se refiere al “titular del bien jurídico que el legislador
+busca proteger y que resulta afectado con la conducta del sujeto activo”.
+
+[173]
+Ib. La conducta “corresponde al comportamiento de acción o de omisión cuya
+realización se acomoda a la descripción del tipo y que generalmente se
+identifica con un verbo rector”.
+
+[174]
+La Sala recuerda que los intervinientes que solicitan a la Corte declarar la
+inexequibilidad de la norma son: el Instituto Colombiano de Derecho Procesal,
+la Universidad Externado, la Fundación Jurídica Proyecto Inocencia y el Colegio
+de Abogados Penalistas.
+
+[175]
+Corte Constitucional, Sentencia C-021 de 2023.
+
+[176]
+Corte Constitucional, Sentencia C-411 de 2022.
+
+[177]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[178]
+Al respecto, la Sala resalta los siguientes artículos del Código Penal: 142,
+“Utilización de medios y métodos de guerra ilícitos”; 156, “Destrucción o
+utilización ilícita de bienes culturales y de lugares de culto”, 162
+“Reclutamiento ilícito”; 175, “Prolongación ilícita de privación de la
+libertad”; 192, “Violación ilícita de comunicaciones”; 196, “Violación ilícita
+de comunicaciones o correspondencia de carácter oficial”; 197, “Utilización
+ilícita de redes de comunicaciones”; 312, “Ejercicio ilícito de actividad
+monopolística de arbitrio rentístico”, entre otros.
+
+[179]
+Corte Constitucional, Sentencia C-742 de 2012.
+
+[180]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[181]
+Corte Constitucional, sentencias C-605 de 2006, C-851 de
+2009 y C-501 de 2014.
+
+[182]
+Corte Constitucional, sentencias C-501 de 2014 y C-041 de
+2017.
+
+[183]
+Corte Constitucional, Sentencia C-121 de 2012. Al respecto, señaló la Corte que
+“[n]o es novedoso sostener que las denominaciones de los capítulos y títulos
+del código penal, no cumplen simplemente una labor de ordenación sino que
+contribuyen a dar sentido a las prohibiciones, al punto que constituyen un
+valioso parámetro para determinar la antijuridicidad material de las conductas,
+es decir su verdadera idoneidad para configurar una acción socialmente dañosa,
+y por ende merecedora de reproche penal” (resaltado fuera de texto).
+
+[184]
+Corte Constitucional, Sentencia C-080 de 2023.
+
+[185]
+Ib.
+
+[186]
+Gaceta 180 de 2011, p. 20 .
+
+[187]
+SIC, Resolución 30415 de 2021.
+
+[188]
+SIC, Resoluciones 58961 de 2018, 85898 de 2018, 52770 de
+2019, 42216 de 2019, 26266 de 2019, 12992 de 2019, 3150 de 2019, 2076 de 2019,
+1728 de 2019, 3150 de 2019, 35082 de 2020 y 30415 de 2021. *Cfr*. OCDE, “*Fighting Bid Rigging in
+Public Procurement in Colombia*”, p. 9.
+
+[189]
+Corte Constitucional, sentencias C-032 de 1996 y C-1126 de
+2008. *Cfr.* Consejo de Estado, Sala de lo Contencioso Administrativo,
+Sección Primera, sentencias de 13 de mayo de 1993, exp. 2249, y de 7 diciembre
+de 1993, exp. 2335.
+
+[190]
+Resolución 35082 de 2020: “Por lo anterior, este tipo de
+conductas son reprochadas a través del numeral 9º del artículo 47 del Decreto
+2153 de 1992, descripción típica del ordenamiento jurídico colombiano que
+condena tanto las conductas que tengan por objeto la colusión en *procesos de
+selección*, como aquellas que tengan como efecto la distribución de la
+adjudicación de tales procesos o la fijación de los términos de las
+propuestas”. Ver también, Resoluciones 68972 de 2013, 40415 de 2021 y 56158 de
+2021, entre muchas otras.
+
+[191]
+SIC, Resolución 82510 de 2020.
+
+[192]
+La SIC ha reconocido que el numeral 9º prohíbe los acuerdos colusorios en
+procesos de contratación *públicos* y *privados*. Con todo, la Sala
+Plena sólo se referirá a los elementos de la colusión en procesos de
+contratación pública habida cuenta de que el tipo penal demandado sólo sanciona
+las concertaciones con finalidad de alteración ilícita de procedimientos
+contractuales públicos.
+
+[193]
+SIC, Resolución 3150 de 13 de febrero de 2019. *Cfr.* Resoluciones
+1728 de 2019 y 44505 de 2022.
+
+[194]
+SIC, Resolución 82510 de 2020.
+
+[195]
+SIC, Resolución 3150 de 13 de febrero de 2019, p. 12. *Cfr.*Resoluciones 1728 de 2019 y 44505 de 2022.
+
+[196]
+SIC, Resoluciones 58961 de 2018, 85898 de 2018, 52770 de
+2019, 42216 de 2019, 26266 de 2019, 12992 de 2019, 3150 de 2019, 2076 de 2019,
+1728 de 2019, 3150 de 2019, 35082 de 2020, 30415 de 2021, entre muchas otras.
+
+[197]
+La Sala Plena reitera que los desarrollos doctrinales de la SIC sobre los
+acuerdos colusorios son referentes normativos que permiten determinar el
+alcance de la expresión “alterar ilícitamente” y dotar el proceso de adecuación
+típica de un grado razonable de previsibilidad y objetividad. Estos referentes
+normativos, en todo caso, son ilustrativos y no representan una lista acabada
+de las conductas prohibidas por la norma demandada.
+
+[198]
+Corte Constitucional, Sentencia C-297 de 2016.
+
+[199]
+Corte Constitucional, sentencias C-121 de 2012 y C-021 de 2023.
+
+[200]
+Intervención de la SIC, p. 10.
+
+[201]
+Intervención de Colombia Compra Eficiente, p. 12.
+
+[202]
+Ib.
+
+[203]
+Intervención del Ministerio de Justicia y del Derecho, p. 7.
+
+[204]
+Intervención de la SIC, pág. 10.
+
+[205]
+Ib., p. 9.
+
+[206]
+Ib., p. 5.
+
+[207]
+Ib., p. 6. Dentro de estas se encuentran: el “(i) control competitivo ejercido
+respecto de agentes del mercado que concurren al proceso de contratación
+simulando ser competidores; (ii) intercambio de información sensible que no
+está disponible para la totalidad de los proponentes; (iii) favorecimiento por
+parte de un funcionario o contratista de una entidad pública con la finalidad
+de direccionar la adjudicación de un proceso de selección a un proponente
+específico; y (iv) las restricciones verticales impuestas en el marco de
+procesos de contratación”.
+
+[208]
+Ib. Destacó que ese “acuerdo por lo
+general está orientado a propósitos como elevar los precios, disminuir la
+calidad de los productos o servicios o aumentar sus posibilidades de resultar
+beneficiados con la adjudicación del contrato en detrimento de la probabilidad
+de victoria de los demás proponentes que participan en el proceso”.
+
+[209]
+En particular, refirió las legislaciones de Alemania,
+Canadá, España, Estados Unidos, Chile, México y Brasil.
+
+[210]
+Por otra parte, el interviniente formuló varios reparos frente a los argumentos
+presentados en la demanda, los cuales calificó de “inexactos” e “imprecisos” y
+como “contradicciones lógicas y conceptuales”. En concreto, el accionante
+afirmó que *(i)* la Superintendencia Financiera es la autoridad nacional
+de competencia, cuando realmente es la propia SIC; *(ii)* la norma permite
+la sanción de simples errores administrativos y, al tiempo, reconoce que es
+dolosa; *(iii)* si bien la expresión ilicitud es imprecisa, en repetidas
+ocasiones se refirió al grupo interdisciplinario contra colusiones, cuya
+función es investigar las prácticas anticompetitivas por la práctica de
+colusión, lo que denota “una gran imprecisión por parte del demandante al
+momento de configurar la estructura que incorpora el régimen de protección de
+la competencia”; *(iv)* además, la única norma que se refiere a un mercado
+especial (contratación pública) es el artículo 47.9 del Decreto 2153 de 1992 y *(v)*
+en su cargo por “desproporcionalidad” de la sanción, el demandante se refiere a
+sanciones que no existen en el ordenamiento jurídico.
+
+[211]
+Colombia Compra Eficiente define los acuerdos colusorios como aquellos que
+“tienen como objetivo principal eliminar la competencia genuina entre los
+participantes, facilitando así la distribución de los beneficios que derivan de
+la reducción de la rivalidad en el mercado”.
+
+[212]
+Intervención de Colombia Compra Eficiente, pág. 3.
+
+[213]
+Ib., pág. 5.
+
+[214]
+Intervención de Colombia Compra Eficiente, pág. 12.
+
+[215]
+Intervención de Colombia Compra Eficiente, p. 13.
+
+[216]
+Intervención ACDC, p. 4.
+
+[217]
+Ib.
+
+[218]
+Ib.
+
+[219]
+Ib.
+
+[220]
+Ib.
+
+[221]
+Intervención de la Universidad del Norte, pág. 7.
+
+[222]
+Intervención del Instituto Colombiano de Derecho Procesal, p. 2.
+
+[223]
+Ib.
+
+[224]
+Ib., p. 2.
+
+[225]
+Ib. Señaló que este es “el caso de los procedimientos en donde se aplican
+normas de derecho privado y no público, como lo es el caso de la Bolsa
+Mercantil cuyo procedimiento contractual es de carácter privado y no público”.
+
+[226]
+Ib., p. 4.
+
+[227]
+Ib.
+
+[228]
+Finalmente, el interviniente presentó argumentos orientados a demostrar por qué
+la norma acusada desconoce el principio de *non bis in idem*. Habida
+cuenta de que ese reproche fue formulado en el cargo tercero de la demanda, el
+cual fue inadmitido, la Sala no se pronunciará al respecto.
+
+[229]
+Intervención de la Universidad Externado de Colombia, p. 9.
+
+[230]
+En este punto, la interviniente presentó argumentos tendientes a rebatir los
+argumentos por los cuales la magistrada sustanciadora inadmitió el cargo
+segundo de la demanda. Habida cuenta de que tal cargo fue rechazado, la Sala no
+los tendrá en cuenta.
+
+[231]
+Ib., p. 13.
+
+[232]
+Al respecto, citó las sentencias C-860 de 2006 y C-032 de 2017.
+
+[233]
+Intervención de la Fundación Proyecto Inocencia, p. 3.
+
+[234]
+Intervención de la Fundación Proyecto Inocencia, p. 2.
+
+[235]
+Intervención del Colegio de Abogados Penalistas, p. 3.
+
+[236]
+Ib.
+
+[237]
+Ib., p. 8.
+
+[238]
+Ib., p. 9. Finalmente, el interviniente presentó argumentos orientados a
+demostrar por qué la norma acusada desconoce el principio de *non bis in idem*.
+Habida cuenta de que ese reproche fue formulado en el cargo tercero de la
+demanda, el cual fue inadmitido, la Sala no se pronunciará al respecto.
+
+[239]
+Intervención del Colegio de Abogados Penalistas, p. 9.
+
+[240]
+Intervención del Colegio de Abogados Penalistas, p. 10.
+
+[241]
+Fj. 97. Resaltado por fuera del texto original.
+
+[242]
+Ver fj. 83, tabla 5.
+
+[243]
+Ver fj. 31 de la sentencia.
+
+[244]
+Tabla 6, fj. 109.
+
+[245]
+Corte Suprema de Justicia. Sentencia SP-13448-2016 del 20 de septiembre de
+2016, Radicación n°. 48262.
+
+[246]
+Corte Constitucional, Sentencia C-1490 de 2000.
+
+[247]
+Corte Constitucional, Sentencia C-121 de 2012.
+
+[248]
+Corte Constitucional, Sentencia C-559 de 1999. “[E]n materia penal, el
+principio de legalidad en sentido lato o reserva legal, esto es, que la ley
+debe definir previamente los hechos punibles, no es suficiente y debe ser
+complementado por un principio de legalidad en sentido estricto, también
+denominado como el principio de tipicidad o taxatividad, según el cual, las
+conductas punibles deben ser no sólo previamente sino taxativa e
+inequívocamente definidas por la ley, de suerte, que la labor del juez penal se
+limite a verificar si una conducta concreta se adecua a la descripción
+abstracta realizada por la ley”.
+
+[249]
+Corte Constitucional, Sentencia C-605 de 2006, C-739 de 2000, C-333 de 2001,
+C-121 de 2012, C-021 de 2023 y C-917 de 2001.
+
+[250]
+Corte Constitucional, sentencias C-559 de 1999, C-539 de 2016 y C-411 de 2022.
+
+[251]
+Al respecto, la jurisprudencia presenta aproximaciones distintas. En la
+Sentencia C-559 de 1999 la Corte admitía que la remisión de los tipos penales
+en blanco podría efectuarse a otro artículo de la misma codificación penal,
+mientras recientemente en la Sentencia C-367 de 2022 adujo que la remisión de
+una disposición penal a otra constituía una “simple remisión” sin constituir un
+tipo penal en blanco, que se limitó entonces a la remisión a normas
+extrapenales de carácter legal o infra legal.
+
+[252]
+Corte Constitucional, sentencias C-843 de 1999 y C-1490 de 2000.
+Adicionalmente, la Sentencia C-084 de 2013, señaló que “[l]a validez
+constitucional de los tipos penales en blanco, está supeditada en todo caso a
+que los contenidos con los cuales se hace la integración normativa, permitan
+establecer de manera previa, clara e inequívoca cual es la conducta punible que
+sanciona la ley penal”.
+
+[253]
+Corte Constitucional, Sentencia C-501 de 2014. Al respecto, el fallo señaló:
+“la competencia para desarrollar la política criminal del Estado es amplia, en
+el sentido de que incluye, entre otros aspectos: (i) la posibilidad de crear,
+modificar o suprimir figuras delictivas; (ii) introducir clasificaciones entre
+ellas; (iii) establecer modalidades punitivas; (iv) graduar las penas
+aplicables y fijar la clase y magnitud de las mismas; y (v) consagrar los
+regímenes para el juzgamiento y tratamiento de los delitos y contravenciones,
+definiendo en ellos las reglas de procedimiento de acuerdo con las garantías
+del debido proceso. // El amplio margen de configuración en materia penal
+reconocida al legislador lo autoriza, en suma, para definir todos los temas
+relacionados con el delito y con los mecanismos y procedimientos para
+reprimirlo, teniendo en cuenta las circunstancias políticas, sociales,
+económicas o de cualquier orden que en un determinado contexto histórico puedan
+incidir en la realidad que se pretenda regular y controlar”.
+
+[254]
+Corte Constitucional, sentencias C-367 de 2022 y C-739 de 2000.
+
+[255]
+Corte Constitucional, sentencias C-501 de 2014 y C-021 de 2023. En el mismo
+sentido, ver la Sentencia C-127 de 1993.
+
+[256]
+Corte Constitucional, Sentencia C-297 de 2016.
+
+[257]
+Corte Constitucional, Sentencia C-367 de 2022.
+
+[258]
+Al respecto, frente a tipos penales en blanco de remisión tácita se encuentran
+las sentencias C-084 de 2013 y C-501 de 2014, en las que la decisión fue
+exequible. Respecto de tipos penales abiertos, ver entre otras la Sentencia
+C-041 de 2017.
+
+[259]
+La providencia señaló en concreto que “es claro que la conducta delictiva, al
+no contener disposiciones específicas que regulen los derechos de obtentor,
+remite a las normas complementarias que se integran a la disposición acusada,
+con el fin de llevar a cabo el proceso de adecuación típica. Tales normas son
+aquellas que regulan de manera específica los derechos de obtentor de
+variedades vegetales, y que se encuentran contenidas, principalmente, en el
+Convenio UPOV de 1978 y la Decisión 345 de 1993, reglamentada por el Decreto
+533 de 1994 y las Resoluciones ICA 1893 de 1995, 2046 de 2003 y 970 de 2010,
+entre otras, las cuales, a su vez, permiten determinar de manera clara y
+precisa el alcance de la conducta típica contenida en la norma acusada. // Las
+referidas disposiciones regulan, en detalle y con suficiente precisión, todos
+los aspectos relacionados con los derechos de obtentor de variedades vegetales,
+los registros de variedades vegetales, las denominaciones de las variedades
+vegetales, las autoridades competentes para otorgar los registros, los
+procedimientos de solicitud de concesión de los derechos de obtentor, y todo lo
+relacionado con la presentación de la solicitud.”.
+
+[260]
+Corte Constitucional, sentencias C-739 de 2000 y C-367 de 2022.
+
+[261]
+Corte Suprema de Justicia. Sentencia del 12 de diciembre de 2005. Rad. 23899.
+
+[262]
+Corte Constitucional, Sentencia C-501 de 2014.
+
+[263]
+Corte Constitucional, Sentencia C-041 de 2017.

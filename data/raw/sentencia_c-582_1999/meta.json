@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-582_1999",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/1999/C-582-99.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/1999/C-582-99.htm",
+      "sha256": "ccf16fe0fee60cb72d960db64d89ddb84e571d24fc431b47371901f245e45438",
+      "bytes": 92608,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:40-05:00"
+    }
+  ]
+}

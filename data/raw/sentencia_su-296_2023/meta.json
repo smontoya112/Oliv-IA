@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-296_2023",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2023/SU296-23.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2023/SU296-23.htm",
+      "sha256": "d79c7f4983a4282cd1c494e737d11bd9b6e1c5bdcac8782c9197717493e45784",
+      "bytes": 536028,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:00-05:00"
+    }
+  ]
+}

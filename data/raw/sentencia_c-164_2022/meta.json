@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-164_2022",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2022/C-164-22.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2022/C-164-22.htm",
+      "sha256": "8358177e15dda6d5d8122e4548643e9e4e8294b39f15e4bf7c3afa4a54ba9b96",
+      "bytes": 621684,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:28-05:00"
+    }
+  ]
+}

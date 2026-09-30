@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-15_2018",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-015-18.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-015-18.htm",
+      "sha256": "38b8759ef21de0b4fa68e7d00926c4f547382429089d6e25e1bbfd6a9c5a81e5",
+      "bytes": 421635,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:26-05:00"
+    }
+  ]
+}

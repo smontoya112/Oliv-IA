@@ -1,14 +1,13 @@
 ---
 {
   "doc_id": "sentencia_c-355_2006",
-  "titulo": "C-355-06",
+  "titulo": "Sentencia C-355 de 2006",
   "fuente": "Relatoría de la Corte Constitucional",
   "url": "https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm",
   "fecha_consulta": "2026-09-29",
   "areas": [
-    "penal",
     "constitucional",
-    "tributario"
+    "penal"
   ],
   "tipo_norma": "sentencia",
   "numero": "C-355",
@@ -19,7 +18,7 @@
     "C-355",
     "2006"
   ],
-  "items_del_banco": null,
+  "items_del_banco": 7,
   "formato_origen": [
     "html"
   ],
@@ -39,8 +38,7 @@
   "n_articulos_detectados": 94,
   "archivo_md": "md/sentencia_c-355_2006.md",
   "metadata_autocompletada": [
-    "titulo",
-    "areas"
+    "numero"
   ]
 }
 ---

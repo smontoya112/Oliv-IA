@@ -1,0 +1,1316 @@
+---
+{
+  "doc_id": "sentencia_c-1033_2002",
+  "titulo": "Sentencia C-1033 de 2002",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2002/C-1033-02.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "familia"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-1033",
+  "anio": 2002,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-1033",
+    "2002"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2002/C-1033-02.htm"
+  ],
+  "sha256_partes": [
+    "a0ceefb750be4f20cda5707757d8cb6bf45d468c230c738ac3b1c3cf68b54297"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 59993,
+  "n_articulos_detectados": 4,
+  "archivo_md": "md/sentencia_c-1033_2002.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2002/C-1033-02.htm -->
+C-1033-02
+
+---
+
+### Sentencia C-1033/02
+
+**DERECHO A LA
+IGUALDAD EN OBLIGACION ALIMENTARIA**-Compañeros permanentes
+
+FAMILIA EN LA
+CONSTITUCION POLITICA
+
+**FAMILIA**-Protección integral
+
+**FAMILIA**-Plano de igualdad
+
+**MATRIMONIO Y
+UNION MARITAL DE HECHO**-Diferencias
+sin equiparar efectos
+
+**FAMILIA EN
+MATRIMONIO Y UNION MARITAL DE HECHO**-Protección de la igualdad
+
+**DERECHO A LA
+IGUALDAD**-Elementos
+
+**DERECHO A LA
+IGUALDAD**-Alcance**/PRINCIPIO
+DE LA JUSTA IGUALDAD**-Alcance
+
+El derecho a la igualdad, que a la vez
+constituye un principio fundamental, se traduce en la garantía a que no se
+instauren excepciones o privilegios que exceptúen a unos individuos de lo que
+se concede a otros en idénticas circunstancias, de donde se sigue
+necesariamente, que la real y efectiva igualdad consiste en aplicar la ley en
+cada uno de los acaecimientos según las diferencias constitutivas de ellos. El
+principio de la justa igualdad exige precisamente el reconocimiento de la
+variada serie de desigualdades entre los hombres en lo biológico, económico,
+social, cultural, etc., dimensiones todas que en justicia, deben ser relevantes
+para el derecho.
+
+**DERECHO A LA
+IGUALDAD**-Es objetivo
+
+El derecho a la igualdad que consagra la
+Constitución es objetivo y no formal, puesto que se predica de la identidad de
+los iguales y de la diferencia entre los desiguales, concepción ésta que supera
+así la noción de la igualdad de la ley a partir de la generalidad abstracta,
+por el de la generalidad concreta, que concluye con el principio según el cual
+no se permite regulación diferente de supuestos iguales o análogos y prescribe
+diferente reglamentación a supuestos distintos. Con este concepto sólo se
+autoriza un trato diferente si está razonablemente justificado.
+
+**DERECHO A LA
+IGUALDAD**-Protección
+material
+
+La protección material del derecho la
+igualdad alude al compromiso de remover los obstáculos que en el plano
+económico y social configuran efectivas desigualdades de hecho, las cuales se
+oponen al disfrute efectivo del derecho, lo que hace necesaria la configuración
+de medidas que puedan compensar y sean defensivas, con respecto a personas y
+grupos ubicados en condiciones de inferioridad mediante el ejercicio de
+acciones positivas por parte de las autoridades públicas.
+
+**PRINCIPIO DE NO
+DISCRIMINACION**-Finalidad
+
+**FAMILIA EN
+MATRIMONIO Y UNION MARITAL DE HECHO**-Igualdad de derechos y obligaciones para núcleo
+familiar y miembros que la componen
+
+**MATRIMONIO Y
+UNION MARITAL DE HECHO**-Distinción
+
+**ALIMENTOS**-Relevancia constitucional
+
+**DERECHO DE
+ALIMENTOS**-Definición
+
+*Conforme lo ha
+sostenido esta Corporación el derecho de alimentos es aquél que le asiste a una
+persona para reclamar de quien está obligado legalmente a darlos, lo necesario
+para su subsistencia, cuando no está en capacidad de procurársela por sus
+propios medios. Así, la obligación alimentaria está en cabeza de la persona que
+por ley, debe sacrificar parte de su propiedad con el fin de garantizar la
+supervivencia y desarrollo del acreedor de los alimentos.*
+
+**OBLIGACION
+ALIMENTARIA**-Características
+
+*Entre
+las características que la jurisprudencia constitucional ha reconocido a la
+obligación alimentaria se tienen las siguientes: a.* *La obligación alimentaria no es una que
+difiera de las demás de naturaleza civil, por cuanto presupone la existencia de
+una norma jurídica y una situación de hecho, contemplada en ella como supuesto
+capaz de generar consecuencias en derecho. b. Su especificidad radica en su
+fundamento y su finalidad, pues, la obligación alimentaria aparece en el marco
+del deber de solidaridad que une a los miembros más cercanos de una familia, y
+tiene por finalidad la subsistencia de quienes son sus beneficiarios. c. El
+deber de asistencia alimentaria se establece sobre dos requisitos
+fundamentales: i) la necesidad del beneficiario y ii) la capacidad del obligado,
+quien debe ayudar a la subsistencia de sus parientes, sin que ello implique el
+sacrificio de su propia existencia. d. La obligación de dar alimentos y los
+derechos que de ella surgen tiene unos medios de protección efectiva, por
+cuanto el ordenamiento jurídico contiene normas relacionadas con los titulares
+del derecho, las clases de alimentos, las reglas para tasarlos, la duración de
+la obligación, los alimentos provisionales; el concepto de la obligación**,** las
+vías judiciales para reclamarlos, el procedimiento que debe agotarse para el
+efecto, y el trámite judicial para reclamar alimentos para mayores de edad,
+todo lo cual permite al beneficiario de la prestación alimentaria hacer
+efectiva su garantía, cuando el obligado elude su responsabilidad.*
+
+**PRINCIPIO DE
+SOLIDARIDAD EN OBLIGACION ALIMENTARIA**
+
+**OBLIGACION
+ALIMENTARIA-**Fundamento
+
+*La
+obligación alimentaria tiene su fundamento tanto en el principio constitucional
+de la solidaridad**,* *del cual se derivan obligaciones y cargas susceptibles de ser
+reclamados coercitivamente y con el apoyo del Estado, como del principio de
+equidad, en la medida en que “cada miembro es obligado y beneficiario
+recíprocamente”.*
+
+**DERECHO A LA
+IGUALDAD EN OBLIGACION ALIMENTARIA PARA CONYUGE Y COMPAÑERO PERMANENTE**
+
+**INHIBICION DE LA
+CORTE CONSTITUCIONAL**-Cargo
+sin razones ciertas, específicas y pertinentes
+
+CONTROL DE
+CONSTITUCIONALIDAD INTEGRAL
+
+Referencia: expediente D-4102
+
+Demanda de
+inconstitucionalidad contra los numerales 1º y 4º del artículo 411 del Código
+Civil.
+
+Actor: Janeth
+González Romero
+
+Magistrado Ponente:
+
+##### Dr. JAIME CÓRDOBA TRIVIÑO
+
+Bogotá, D.C.,
+veintisiete (27) de noviembre de dos mil dos (2002).
+
+La Sala Plena
+de la Corte Constitucional en cumplimiento de sus atribuciones constitucionales
+y de los requisitos de trámite establecidos en el Decreto 2067 de 1991,
+profiere la siguiente
+
+# SENTENCIA
+
+**I.
+ANTECEDENTES**
+
+En ejercicio
+de la acción de inconstitucionalidad, la ciudadana Janeth González Romero
+demandó la inconstitucionalidad de los numerales 1º y 4º del artículo 411 del
+Código Civil.
+
+Cumplidos los
+trámites constitucionales y legales propios de los procesos de
+constitucionalidad, la Corte Constitucional procede a decidir acerca de la
+demanda de la referencia.
+
+## II. TEXTO DE LA NORMA ACUSADA
+
+A continuación
+se transcribe el texto de la disposición objeto del proceso y se subraya lo
+acusado:
+
+**CODIGO CIVIL**
+
+TITULO XXI
+
+De los alimentos que se deben por ley a ciertas personas
+
+ART. 411.- Se deben alimentos:
+
+1. Al cónyuge.
+
+2. A los descendientes.
+
+3. A los ascendientes.
+
+4. Modificado. Ley 1ª/76, art. 23. A
+cargo del cónyuge culpable, al cónyuge divorciado o separado de cuerpos sin su
+culpa.
+
+5. Modificado. Ley 75/68, art. 31. A los
+hijos naturales.
+
+6. Modificado. Ley 75/68, art. 31. A los
+ascendientes naturales.
+
+7. A los hijos adoptivos.
+
+8. A los padres adoptantes.
+
+9. A los hermanos legítimos.
+
+10. Al que hizo una donación cuantiosa si no
+hubiere sido rescindida o revocada.
+
+La acción del donante se dirigirá contra el
+donatario.
+
+No se deben
+alimentos a las personas aquí designadas en los casos en que una ley se los
+niegue.
+
+III.
+LA DEMANDA
+
+La demandante solicita la declaratoria de inexequibilidad
+de los numerales 1º y 4º del artículo 411 del Código Civil, por considerar que
+dichas normas vulneran el artículo 13 de la Constitución Política;
+subsidiariamente pide la declaratoria de exequibilidad condicionada de dichos
+preceptos, bajo el entendido que la expresión “cónyuge” contenida en los
+numerales acusados, también hace referencia a los compañeros permanentes.
+
+Sostiene la demandante que incluso antes de la expedición
+de la Constitución de 1991, el legislador – mediante la Ley 54 de 1990 – dio
+reconocimiento jurídico a las uniones maritales de hecho señalando que los
+compañeros permanentes que las integran tienen los mismos derechos y deberes de
+quienes conformaron una familia mediante contrato de matrimonio, razón por la
+cual los numerales acusados contradicen la Carta Política, al señalar que el
+derecho de alimentos sólo lo tiene el cónyuge o en el caso de divorcio o
+separación de cuerpos el cónyuge inocente, excluyendo al compañero o compañera
+permanente.
+
+Afirma que la normativa acusada desconoce el derecho a la
+igualdad al establecer los alimentos a favor de los cónyuges y excluir a los
+compañeros permanentes, cuando la unión marital de hecho es una figura jurídica
+equivalente y con la misma protección constitucional que el matrimonio.
+
+Por lo anterior, concluye que no existe razón objetiva ni
+razonable que permita afirmar que sólo el cónyuge, en las condiciones que
+señalan los numerales 1º y 4º del artículo 411 del Código Civil, tenga derecho
+a la prestación alimentaria, por lo cual considera que la discriminación a que
+se somete a los compañeros permanentes, es contraria a la Carta Política.
+
+IV.
+INTERVENCION DEL MINISTERIO DE JUSTICIA Y DEL DERECHO
+
+El Ministerio de Justicia y del Derecho, a través de
+apoderado judicial, solicita a la Corte declarar la exequibilidad de los
+preceptos impugnados, por cuanto considera que si bien la Constitución Política
+ampara la conformación de una familia por vínculos jurídicos (matrimonio) y por
+vínculos naturales (unión marital de hecho), ello no significa que exista entre
+una y otra institución una relación jurídica idéntica y equivalente.
+
+Con fundamento en la Sentencia C-239/94[1],
+afirmó que tanto el matrimonio como la unión marital de hecho constituyen dos
+opciones vitales igualmente protegidas por la Carta Política, pero
+distinguibles en razón de su conformación y efectos jurídicos, razón por la
+cual “el trato diferenciado resulta no sólo constitucional sino necesario,
+pues, una regulación idéntica, equivaldría a desconocer las diferencias
+existentes entre las dos instituciones e incluso podría implicar anular una de
+las dos opciones, constitucionalmente protegidas, con que cuentan los
+ciudadanos para conformar una familia.”[2]
+
+Concluye que el hecho de que ambas instituciones jurídicas
+sean protegidas por la Constitución, no trae como consecuencia, que en ellas
+deban existir los mismos derechos y obligaciones, como lo pretende la
+accionante.
+
+V.
+CONCEPTO DEL PROCURADOR GENERAL DE LA NACION
+
+El Procurador General de la Nación solicita a esta
+Corporación declarar la exequibilidad condicionada de los numerales demandados,
+bajo el entendido que el derecho de alimentos debe ser igualmente reconocido al
+compañero o compañera permanente.
+
+Precisa que si bien en las Sentencias C-105 de 1994[3] y
+C-174 de 1996[4],
+la Corte Constitucional se pronunció respecto del artículo 411 del Código
+Civil, no existe cosa juzgada constitucional respecto del cargo alegado por la
+ciudadana accionante.
+
+Después de hacer varias consideraciones sobre los
+antecedentes y filosofía de la institución jurídica de la unión marital de
+hecho, cuyos efectos jurídicos se reconocieron a partir de la Ley 54 de 1990 y
+la compatibilidad de la figura con el artículo 42 de la Constitución Política,
+sostiene que en materia de prestación alimentaria se debe dar a los compañeros
+permanentes que integran la unión marital de hecho el mismo tratamiento que el
+Código Civil brinda a los cónyuges, cuyo vínculo jurídico mediante la
+celebración de un contrato de matrimonio establece una serie de derechos y
+obligaciones fundadas en el principio constitucional de solidaridad. Así, los
+miembros de una familia independientemente del origen de ésta, tienen la
+obligación de suministrar la subsistencia a aquellos integrantes que no están
+en capacidad de asegurársela por sí mismos.
+
+Para el director del Ministerio Público existe una
+equivalencia sustancial entre el matrimonio y la unión marital de hecho, porque
+las dos instituciones dan origen a una familia, lo que, en su entendimiento,
+debe generar ciertos derechos y deberes en igualdad de condiciones para ambas
+figuras, dentro de las cuales debe estar la obligación alimentaria.
+
+Agrega que la conformación de una unión marital de hecho no
+implica evadir ciertas responsabilidades propias de la constitución de una
+familia, las cuales no surgen de manera exclusiva del contrato matrimonial. En
+el mismo sentido, sostiene que no existe razón para excluir al compañero(a)
+permanente de ser titular del derecho de alimentos al que hace referencia el
+artículo 411 del Código Civil, pues éste, al igual que un cónyuge, ha dedicado
+su vida a la conformación y mantenimiento de una familia, incluyendo a los
+hijos que ha podido o puede llegar a procrear, asistiendo física y
+espiritualmente a su pareja, y compartiendo un determinado proyecto de vida.
+
+Precisa que el contrato de matrimonio no es razón
+suficiente para negar el derecho del compañero(a) permanente a percibir
+alimentos de su pareja, dado que la obligación alimentaria no surge de dicho
+vínculo contractual, sino de la decisión voluntaria, libre y responsable de un
+hombre y una mujer de constituir una familia. Para reforzar su argumento hace
+referencia a que el legislador previó el derecho a la subsistencia del
+compañero permanente sobreviviente, al hacerlo titular de la sustitución
+pensional, para no dejar desamparada a la familia formada en una unión de
+hecho, lo cual obedece a la misma finalidad del reconocimiento de alimentos
+para los compañeros permanentes.
+
+Concluye que todas las prerrogativas, ventajas o
+prestaciones y también las cargas y responsabilidades que el sistema jurídico
+establece a favor de las personas unidas en matrimonio son aplicables en pie de
+igualdad a las que conviven sin necesidad de dicho vínculo formal; de lo
+contrario, al configurarse distinciones que la preceptiva constitucional no
+justifica, se desconoce la norma que equipara las dos formas de unión (artículo
+42 C.P.) y se quebranta el principio de igualdad ante la ley, que prescribe el
+mismo trato a situaciones idénticas.
+
+Finalmente, en relación al numeral 4º del artículo 411 del
+Código Civil, considera que cuando la unión marital ha de disolverse por culpa
+de uno de sus integrantes, es admisible extenderle ese derecho al compañero
+separado sin su culpa, tal como se aplica para el cónyuge, porque de lo
+contrario se dejaría desamparado al compañero permanente que no tenga los
+medios para proveer su subsistencia. Para el señor Procurador General de la
+Nación no existe razón para castigar al compañero o compañera permanente no
+reconociéndole alimentos, después de haber estado de forma permanente al
+cuidado y mantenimiento de la familia conformada por esa unión.
+
+VI.
+CONSIDERACIONES DE LA CORTE CONSTITUCIONAL Y FUNDAMENTOS DE LA DECISION
+
+1.
+Competencia
+
+De conformidad con lo dispuesto en el artículo 241 numeral
+4º de la Constitución Política, la Corte es competente para conocer de la
+presente demanda.
+
+2.
+Planteamiento del problema jurídico
+
+La demanda de inconstitucionalidad instaurada contra los
+numerales 1º y 4º del artículo 411 del Código Civil, versa sobre presunta
+violación al derecho a la igualdad que dichas disposiciones configuran, al no
+incluir a los integrantes de la unión marital de hecho (Ley 54 de 1990) como
+sujetos pasivos de la obligación alimentaria, a pesar que la Constitución
+Política protege tanto a la familia formada por vínculos jurídicos como la
+fundada en vínculos naturales.
+
+Esta misma posición la comparte el señor Procurador General
+de la Nación, quien solicita la declaración de exequibilidad condicionada de
+los numerales acusados, con el fin de que los compañeros permanentes también
+sean beneficiarios de la prestación alimentaria, puesto que, en su entender,
+existe una equivalencia sustancial entre el matrimonio y la unión marital de
+hecho, en la medida en que las dos instituciones dan origen a una familia, y,
+además, porque ese derecho no surge exclusivamente del contrato matrimonial.
+
+Sin embargo, el Ministerio interviniente considera que
+dicha equivalencia no existe, puesto que en su sentir, no puede confundirse el
+reconocimiento constitucional que se hace a la familia formada por vínculos
+naturales y los derechos y obligaciones que surgen de esa relación de hecho,
+con los efectos jurídicos propios del contrato matrimonial, que quienes
+integran una unión marital de hecho no desean asumir.
+
+Corresponde a
+la Corte Constitucional, entonces, establecer si es violatorio del derecho a la
+igualdad que a los compañeros permanentes integrantes de una unión marital de
+hecho no se les incluya como beneficiarios de la prestación alimentaria, en los
+mismos términos que los numerales 1º y 4º del artículo 411 del Código Civil lo
+hacen respecto de quienes celebraron contrato de matrimonio.
+
+**3. Asunto procesal previo. Cosa juzgada relativa**
+
+En primer
+lugar, debe aclararse que los numerales del artículo 411 del Código Civil
+objeto de este proceso de constitucionalidad ya habían sido acusados (D-1047[5]) en el año 1995, sin embargo, en dicha oportunidad,
+la demanda fue rechazada por haber considerado esta Corporación que sobre ese
+artículo ya se había dictado la Sentencia C-105 de 1994[6] y teniendo en cuenta que en dicha
+providencia, la Corte no limitó los efectos y alcances de su decisión, debía
+entenderse que dicho fallo tuvo como fundamento la confrontación integral de
+las disposiciones constitucionales con la normativa legal, es decir, había operado la cosa juzgada
+constitucional. [7]
+
+Analizada la
+Sentencia C-105 de 1994 frente al cargo propuesto en esta oportunidad se
+advierte que en dicha ocasión la Corte se ocupó de realizar el control de
+constitucionalidad frente al trato discriminatorio que varios de los numerales
+del artículo 411 del Código Civil prodigaban a descendientes o ascendientes
+legítimos, puesto que sólo éstos tenían derecho a los alimentos, excluyendo a
+los extramatrimoniales y a los adoptivos.
+
+En este orden de
+ideas, si bien es cierto no se limitó en la parte resolutiva el alcance de la
+decisión adoptada en dicha providencia, de sus consideraciones se infiere que
+la materia a tratar en el proceso de la referencia no ha sido objeto de
+pronunciamiento, es decir, apenas existe una cosa juzgada relativa[8] -restringida al aspecto antes enunciado-,
+pero no al de los compañeros permanentes como titulares del derecho de
+alimentos, situación que permite a esta Corporación realizar el presente juicio
+de constitucionalidad, en acatamiento del principio de supremacía de la
+Constitución (C.P., arts. 4 y 241).
+
+**4. La familia en la Constitución Política**
+
+La Constitución
+Política de 1991 estableció dentro del catálogo de principios fundamentales
+(Art. 5) la protección de la familia como institución básica de la sociedad y
+en concordancia con ello el artículo 42 Superior prescribió que ésta se
+constituye por vínculos naturales o jurídicos, por la decisión libre de un
+hombre y una mujer de contraer matrimonio o por la voluntad responsable de
+conformarla. Así esta norma establece el deber de protección integral de la
+familia a cargo del Estado y de la sociedad.
+
+Del análisis de las
+normas constitucionales mencionadas la Corte ha concluido lo siguiente[9]:
+
+a) La Constitución pone en un plano de
+igualdad a la familia constituida "por vínculos naturales o
+jurídicos", es decir, a la que surge de la "voluntad responsable de
+conformarla" y a la que tiene su origen en el matrimonio.
+
+b) "El Estado y la Sociedad garantizan
+la protección integral de la familia", independientemente de su
+constitución por vínculos jurídicos o naturales, lo cual es consecuencia lógica
+de la igualdad de trato.
+
+c) Por lo mismo, "la honra, la dignidad
+y la intimidad de la familia son inviolables", sin tener en cuenta el
+origen de la misma familia.
+
+d) Pero la igualdad está referida a los
+derechos y obligaciones, y no implica identidad. Prueba de ello es que el
+mismo artículo 42 reconoce la existencia del matrimonio.
+
+De esta
+manera, tanto la familia constituida por vínculos jurídicos como la formada al
+margen de éste es igualmente digna de respeto y protección por parte del
+Estado.
+
+**5. El matrimonio y la unión marital de hecho**
+
+A partir de
+las normas constitucionales referentes al tema de la familia la Corte ha
+realizado diversos análisis sobre la institución del matrimonio y la unión
+marital de hecho. Dentro de estos pronunciamientos, en esta oportunidad, es
+pertinente reseñar dos de ellos: en primer lugar la Sentencia C-533/00[10] en la cual su argumentación buscó dar
+respuesta al siguiente interrogante: ¿Cuál es la
+diferencia esencial entre el matrimonio y la unión marital de hecho, si las dos
+dan origen a una familia, si ambas suponen la cohabitación entre el hombre y la
+mujer, e incluso, si las dos dan origen hoy en día a la conformación de un
+régimen de bienes comunes entre la pareja?
+
+La posición de
+la Corte en dicha oportunidad fue la siguiente:
+
+Las diferencias son muchas, pero una de ellas es
+esencial y la constituye el consentimiento que dan los cónyuges en el
+matrimonio al hecho de que la unión que entre ellos surge sea una unión
+jurídica, es decir una unión que en lo sucesivo tenga el carácter de deuda
+recíproca. La unión que emana del consentimiento otorgado por ambos cónyuges,
+hace nacer entre ellos una serie de obligaciones que no es del caso analizar
+ahora detalladamente, las cuales son exigibles por cada uno de ellos respecto
+del otro, y que no terminan sino por la disolución del matrimonio por divorcio
+o muerte o por su declaración de nulidad. Entre ellas, las más relevantes son
+las que se refieren a la comunidad de vida y a la fidelidad mutua. Algunas de
+las obligaciones derivadas de este vínculo jurídico comprometen a los cónyuges
+incluso después del divorcio, como las que conciernen a la obligación
+alimentaria a favor del cónyuge inocente.[11]
+
+Así, este consentimiento respecto de un vínculo que
+es jurídico, es lo que resulta
+esencial al matrimonio. Por lo tanto, sin consentimiento no hay matrimonio y el
+principio formal del mismo es el vínculo jurídico. En este sentido el artículo
+115 del Código Civil expresa que “(E)l
+contrato de matrimonio se constituye y perfecciona por el libre y mutuo
+consentimiento de los contrayentes...”. **El matrimonio no es pues la mera
+comunidad de vida que surge del pacto conyugal; Ésta es el desarrollo vital del
+matrimonio, pero no es lo esencial en él. La esencia del matrimonio es la unión
+jurídica producida por el consentimiento de los cónyuges**.
+
+De lo anterior se deducen conclusiones
+evidentes: en primer lugar, que **el matrimonio no es la mera unión de hecho,
+ni la cohabitación entre los cónyuges. Los casados no son simplemente dos
+personas que viven juntas. Son más bien personas jurídicamente vinculadas. La
+unión libre, en cambio, sí se produce por el solo hecho de la convivencia y en
+ella los compañeros nada se deben en el plano de la vida en común, y son
+libres en la determinación de continuar en ella o de terminarla o de guardar
+fidelidad a su pareja. En el matrimonio, en cambio, las obligaciones que surgen
+del pacto conyugal, a pesar de que pueden llegar a extinguirse por divorcio y
+éste a su vez puede darse por voluntad de los cónyuges**[12]**, es menester lograr la declaración judicial del divorcio para que
+se produzca la disolución del vínculo jurídico a que se ha hecho referencia.** (Resalta la Corte)
+
+Se concluye en
+esta sentencia que al ser el consentimiento la única causa de las obligaciones
+conyugales debe ser claro, libre e incondicional en el sentido de aceptar al
+otro como esposo o esposa.
+
+Sobre
+la institución de la Unión Marital de Hecho a partir del análisis de la Ley 54
+de 1990, esta Corporación en la Sentencia C-098/96[13]
+señaló:
+
+2.1 La Ley 54 de 1990 se ocupa de definir las
+uniones maritales de hecho y establecer el régimen patrimonial entre compañeros
+permanentes.
+
+En el artículo primero se define, en los
+siguientes términos, la unión marital de hecho: "la formada entre un
+hombre y una mujer, que sin estar casados, hacen una comunidad de vida
+permanente y singular. Igualmente, y para todos los efectos civiles, se
+denomina compañero y compañera permanente, al hombre y la mujer que forman
+parte de la unión marital de hecho. Según lo reconoció esta Corte (sentencia
+C-239 de 1994. M.P. Jorge Arango Mejía), la expresión "unión marital de
+hecho", sustituye a las más antiguas de "concubinato" y
+"amancebamiento", portadoras de una connotación inocultablemente
+peyorativa.
+
+El artículo segundo formula una presunción,
+simplemente legal, sobre la existencia de "sociedad patrimonial de hecho
+entre compañeros permanentes", si ésta ha existido por un lapso no
+inferior a dos años. Se precisa que si obra un impedimento legal para contraer
+matrimonio por parte de uno o ambos compañeros permanentes, la sociedad o
+sociedades conyugales anteriores han debido ser disueltas o liquidadas por lo
+menos un año antes de la fecha de iniciación de la unión marital de hecho, a
+fin de que la presunción pueda efectivamente operar. El propósito de esta norma
+es "evitar la coexistencia de dos sociedades de ganancias a título
+universal, nacida una del matrimonio y la otra de la unión marital de
+hecho" (Corte Constitucional. Sentencia C-239 de 1994).
+
+El artículo tercero determina los activos que
+ingresan a la sociedad patrimonial y los que no se incorporan a su haber. Los
+primeros están constituidos por el patrimonio o capital producto del trabajo,
+ayuda y socorro mutuo y los originados en los réditos o mayor valor de los
+bienes propios, los cuales "pertenecen por partes iguales a ambos
+compañeros permanentes". Los segundos, que no alimentan el acervo social,
+son los adquiridos en virtud de donación, herencia o legado, y los que hubieren
+sido adquiridos con anterioridad a la unión marital de hecho. Así como el
+código civil contempla la constitución de la sociedad conyugal, por el mero
+hecho del matrimonio (art. 1774), la que tiene el carácter de sociedad de
+ganancias a título universal, la Ley 54 de 1990, a su turno, contempla la
+sociedad patrimonial entre compañeros permanentes, si se reúnen los elementos
+que configuran el supuesto material de la unión material de hecho.
+
+El artículo cuarto dispone que la unión
+marital de hecho puede establecerse por los medios de prueba consagrados en el
+código de procedimiento civil.
+
+El artículo quinto enumera las causales de
+disolución de la unión marital de hecho.
+
+El artículo sexto faculta a cualquiera de los
+compañeros permanentes y a sus herederos para pedir la liquidación de la
+sociedad patrimonial y la respectiva adjudicación.
+
+El artículo séptimo indica los procedimientos
+que deben seguirse para la disolución y liquidación de la sociedad patrimonial
+entre compañeros permanentes y las normas que en éste se aplican.
+
+Finalmente, el artículo octavo define el
+término de la prescripción de la acción enderezada a obtener la disolución y
+liquidación de la sociedad patrimonial entre compañeros permanentes.
+
+2.2 El texto de la ley responde al fin que
+explícitamente se trazó el Congreso al expedirla: reconocer jurídicamente la
+existencia de la "familia natural", hecho social innegable en
+Colombia ("son más los hijos nacidos de las relaciones extramatrimoniales
+de sus padres que del matrimonio civil o religioso") y fuente de los hijos
+"naturales" o "extramatrimoniales" - equiparados en la
+legislación civil -, con el objeto de establecer los derechos y deberes de
+orden patrimonial de los "concubinos", y así llenar el vacío legal
+existente en una materia que interesa al bienestar de la familia y que no puede
+quedar al margen de la protección del Estado (Exposición de motivos. Anales del
+Congreso N° 79 de agosto 15 de 1988).
+
+La Ley 54 de 1990 se inscribe en una línea de
+sucesivas reformas legales que progresivamente han introducido el principio de
+igualdad, equidad y mutuo respeto en el ámbito de las relaciones familiares.
+Este proceso se inició con la expedición de la Ley 28 de 1932 sobre derechos de
+la mujer casada, prosiguió con la Ley 75 de 1968 relativa a la paternidad
+responsable, y continuó con la Ley 29 de 1982 que equiparó los derechos
+sucesorales de los hijos extramatrimoniales y los matrimoniales.
+
+En este punto, **la Ley 54 de 1990, sin
+equiparar a los miembros de las uniones libres y a los cónyuges vinculados por
+matrimonio, avanza en el sentido de reconocer jurídicamente su existencia y
+regular sus derechos y deberes patrimoniales.** Si bien la jurisprudencia con
+base, primero, en la teoría del enriquecimiento sin causa y, más tarde, en la
+de la sociedad de hecho, había ofrecido su apoyo a la parte débil de la pareja
+que con su actividad y esfuerzo participaba en la creación de un patrimonio
+común, las dificultades probatorias y la complejidad de los procedimientos para
+su reconocimiento, limitaban notoriamente la eficacia de los instrumentos con
+que podía contar para su defensa. Precisamente, las disposiciones sustantivas y
+procedimentales de la ley se orientan a suplir esta falencia. Las presunciones
+legales sobre la existencia de la unión marital de hecho, la configuración de
+la sociedad patrimonial entre los miembros de la pareja, la libertad probatoria
+para acreditar la unión, comportan mecanismos y vías diseñadas por el
+legislador con el objeto de reconocer la legitimidad de este tipo de relaciones
+y buscar que en su interior reine la equidad y la justicia. (Resalta la Corte)
+
+Del
+análisis de los anteriores pronunciamientos puede afirmarse que la
+jurisprudencia constitucional ha diferenciado la institución del matrimonio de
+la unión marital de hecho, sin equiparar los efectos de una y otra. No
+obstante, a partir del reconocimiento de esa diferencia ha amparado el derecho
+a la igualdad de las personas que en uno u otro caso, conforme lo permite la
+Constitución, han constituido una familia.
+
+**6. El derecho a
+la igualdad**
+
+Es bien sabido que
+la igualdad ante la ley se encuentra garantizada desde el mismo Preámbulo de la
+Constitución, y se encuentra consagrada en el artículo 13 de la Carta Política
+como uno de los fundamentos del Estado social de derecho que fueron concebidos
+como primordiales en la estructura del ordenamiento superior, con el carácter
+de derecho constitucional fundamental.
+
+Con respecto a la
+citada disposición, esta Corporación ha expresado[14]:
+
+De todos ellos se desprende una clara y
+contundente afirmación sobre el carácter fundamental del derecho a la igualdad,
+como valor fundante del Estado social de derecho y de la concepción
+dignificante del ser humano que caracteriza la Constitución de 1991 y que
+consagra su artículo 13 (...).
+
+Según lo ha indicado también la Corte[15], dicho derecho contiene seis elementos, a saber:
+
+a) Un principio general, según el cual, todas[16] las personas nacen libres e iguales ante la ley y recibirán la
+misma protección y trato de las autoridades.
+
+b) La prohibición de establecer o consagrar
+discriminaciones: este elemento pretende que no se otorguen privilegios, se
+niegue el acceso a un beneficio o se restrinja el ejercicio de un derecho a un
+determinado individuo o grupo de personas de manera arbitraria e injustificada,
+por razón de su sexo, raza, origen nacional o familiar, o posición económica.
+
+c) El deber del Estado de promover
+condiciones para lograr que la igualdad sea real y efectiva para todas las
+personas.
+
+d) La posibilidad de conceder ventajas o
+prerrogativas en favor de grupos disminuidos o marginados.
+
+e) Una especial protección en favor de
+aquellas personas que por su condición económica, física o mental se encuentren
+en circunstancias de debilidad manifiesta, y
+
+f) La sanción de abusos y maltratos que se
+cometan contra personas que se encuentren en circunstancias de debilidad
+manifiesta.
+
+De esta manera, el
+derecho a la igualdad, que a la vez constituye un principio fundamental, se
+traduce en la garantía a que no se instauren excepciones o privilegios que
+exceptúen a unos individuos de lo que se concede a otros en idénticas
+circunstancias, de donde se sigue necesariamente, que la real y efectiva igualdad
+consiste en aplicar la ley en cada uno de los acaecimientos según las
+diferencias constitutivas de ellos. El principio de la justa igualdad exige
+precisamente el reconocimiento de la variada serie de desigualdades entre los
+hombres en lo biológico, económico, social, cultural, etc., dimensiones todas
+que en justicia, deben ser relevantes para el derecho.[17]
+
+Así, el derecho a la
+igualdad que consagra la Constitución es objetivo y no formal, puesto que se
+predica de la identidad de los iguales y de la diferencia entre los desiguales,
+concepción ésta que supera así la noción de la igualdad de la ley a partir de
+la generalidad abstracta, por el de la generalidad concreta, que concluye con
+el principio según el cual no se permite regulación diferente de supuestos
+iguales o análogos y prescribe diferente reglamentación a supuestos distintos.
+Con este concepto sólo se autoriza un trato diferente si está razonablemente justificado.[18]
+
+Conforme a la
+jurisprudencia constitucional, la igualdad formal no es ajena al
+establecimiento de diferencias en el trato, sustentadas en condiciones
+relevantes que imponen la necesidad de distinguir situaciones para otorgarles
+tratamientos diferentes, cuyos supuestos exigen un tratamiento igual para los
+mismos y desigual con respecto a quienes no se encuentran cobijados por la
+misma situación.[19]
+
+La protección
+material del derecho la igualdad alude al compromiso de remover los obstáculos
+que en el plano económico y social configuran efectivas desigualdades de hecho,
+las cuales se oponen al disfrute efectivo del derecho, lo que hace necesaria la
+configuración de medidas que puedan compensar y sean defensivas, con respecto a
+personas y grupos ubicados en condiciones de inferioridad mediante el ejercicio
+de acciones positivas por parte de las autoridades públicas.
+
+Cabe señalar que el
+artículo 13 Superior consagra el principio de no discriminación el cual tiene
+por finalidad que no se brinden tratos diferenciados injustificados por
+criterios raciales, familiares[20], sexuales etc.
+
+En este orden de
+ideas, la discriminación se presenta, cuando la diferencia de trato se hace sin
+fundamento constitucional que tenga un carácter objetivo y razonable. No
+obstante, conforme a la jurisprudencia constitucional[21], existen situaciones que justifican el
+trato diferenciado, a saber:
+
+a) La diferenciación razonable de los
+supuestos de hecho: El principio de igualdad solo se viola si el tratamiento
+diferenciado de casos no está provisto de una justificación objetiva y
+razonable. La existencia de tal justificación debe ser apreciada según la
+finalidad y los efectos del tratamiento diferenciado.
+
+b) Racionalidad y proporcionalidad: Fuera del
+elemento anotado anteriormente, debe existir un vínculo de racionalidad y
+proporcionalidad entre el tratamiento desigual, el supuesto de hecho y el fin
+que se persigue.
+
+Por lo tanto, los medios escogidos por el
+legislador no sólo deben guardar proporcionalidad con los fines buscados por la
+norma, sino compartir su carácter de legitimidad. Este principio busca que la
+medida no sólo tenga fundamento legal, sino que sea aplicada de tal manera que
+los intereses jurídicos de otras personas o grupos no se vean afectados, o que
+si ello sucede, lo sean en grado mínimo.
+
+La discriminación
+implica entonces, la violación del derecho a la igualdad, por lo que su
+prohibición constitucional se encamina a impedir que se restrinja o excluya el
+ejercicio de los derechos y libertades de una o varias personas, se les niegue
+el acceso a un beneficio o se otorgue un privilegio sólo a algunas de ellas,
+sin que exista justificación objetiva y razonable.
+
+7. La igualdad de
+derechos y obligaciones para los miembros de la familia constituida por el
+matrimonio y la conformada por la unión marital de hecho
+
+Una interpretación
+de los artículos 5 y 42 de la Carta Política permite afirmar que la igualdad
+que propugna la Carta entre las uniones familiares surgidas de vínculos
+naturales y la conformada por vínculos jurídicos, abarca no sólo al núcleo
+familiar como tal, sino también a cada uno de los miembros que lo componen,
+puesto que estas disposiciones guardan íntima relación con el artículo 13
+Superior, que prescribe: *"Todas las personas nacen libres e iguales
+ante la ley, recibirán la misma protección y trato de las autoridades y gozarán
+de los mismos derechos, libertades y oportunidades sin ninguna
+discriminación por razones de sexo, raza, origen nacional o familiar,
+lengua religión, opinión política o filosófica (..)"* (Subraya la
+Corte).
+
+Por consiguiente, ha
+señalado esta Corporación que el legislador no puede expedir normas que
+consagren un trato diferenciado en cuanto a los derechos y deberes de quienes
+ostentan la condición de cónyuge o de compañero permanente, como tampoco entre
+los hijos habidos en matrimonio o fuera de él.[22]
+
+Sobre este
+particular la Corte Constitucional[23] ha sostenido que:
+
+El esposo o esposa en el caso del matrimonio
+y el compañero o compañera permanente, si se trata de unión de hecho, gozan de
+la misma importancia y de iguales derechos, por lo cual están excluidos los
+privilegios y las discriminaciones que se originen en el tipo de vínculo
+contractual.
+
+Todas las prerrogativas, ventajas o
+prestaciones y también las cargas y responsabilidades que el sistema jurídico
+establezca a favor de las personas unidas en matrimonio son aplicables, en pie
+de igualdad, a las que conviven sin necesidad de dicho vínculo formal. De lo
+contrario, al generar distinciones que la preceptiva constitucional no
+justifica, se desconoce la norma que equipara las dos formas de unión y se
+quebranta el principio de igualdad ante la ley que prescribe el mismo trato a
+situaciones idénticas.
+
+Sin embargo, esta
+regla jurisprudencial no debe entenderse, como la existencia de una
+equiparación o equivalencia entre el matrimonio y la unión marital de hecho,
+puesto que como lo ha explicado la Corte en varias ocasiones[24] *“sostener que
+entre los compañeros permanentes existe una relación idéntica a la que une a
+los esposos, es afirmación que no resiste el menor análisis, pues equivale a
+pretender que pueda celebrarse un verdadero matrimonio a espaldas del Estado, y
+que, al mismo tiempo, pueda éste imponerle reglamentaciones que irían en contra
+de su rasgo esencial, que no es otro que el de ser una unión libre.”*
+
+Por lo anterior, el
+juicio de igualdad deberá tener en cuenta las particularidades de la norma o
+situación fáctica sometida a consideración, tendientes a constatar si existe
+discriminación entre cónyuges y compañeros permanentes, pero sin soslayar las
+diferencias existentes entre el matrimonio y la unión marital de hecho.
+
+**8. Relevancia
+constitucional de los alimentos y fundamentos de la obligación alimentaria**
+
+Conforme lo ha
+sostenido esta Corporación[25] el derecho de alimentos es aquél que le
+asiste a una persona para reclamar de quien está obligado legalmente a darlos,
+lo necesario para su subsistencia, cuando no está en capacidad de procurársela
+por sus propios medios. Así, la obligación alimentaria está en cabeza de la
+persona que por ley, debe sacrificar parte de su propiedad con el fin de
+garantizar la supervivencia y desarrollo del acreedor de los alimentos.
+
+La Corte
+Constitucional sobre la relevancia constitucional de los alimentos señaló que *“el
+reconocimiento y concreción de las obligaciones alimentarias y su realización
+material, se vincula con la necesaria protección que el Estado debe dispensar a
+la familia como institución básica o núcleo fundamental de la sociedad, y con
+la efectividad y vigencia de derechos fundamentales reconocidos por la
+Constitución, en la medida en que el cumplimiento de aquéllas sea necesario
+para asegurar en ciertos casos la vigencia de los derechos fundamentales de las
+personas al mínimo vital o los derechos de la misma estirpe en favor de los
+niños, o de las personas de la tercera edad, o de quienes se encuentren en
+condiciones de marginación o de debilidad manifiesta (art. 2º, 5, 11, 13, 42,
+44 y 46 C.P.)”*[26]
+
+En la
+Sentencia C-919/01[27] se hicieron las siguientes
+consideraciones sobre el derecho a los alimentos:
+
+El Código Civil reconoce
+y reglamenta ese derecho que le asiste a ciertas personas para exigir de otras
+el suministro de lo necesario para vivir, cuando ellas mismas no tienen ni la
+capacidad ni los medios para procurárselo por sí mismas. Esta obligación
+supone, como cualquiera otra, la existencia de una situación de hecho que, por
+estar contemplada en una norma jurídica, genera consecuencias en el ámbito del
+derecho.[28] Los alimentos pueden clasificarse en: voluntarios,
+esto es, aquellos que se originan por un acuerdo entre las partes o una
+decisión unilateral de quien los brinda; y legales, es decir, aquellos que se
+deben por ley. Estos, a su vez, se clasifican en cóngruos y necesarios. Los
+primeros son "los que habilitan al alimentado para subsistir modestamente
+de un modo correspondiente a su posición social", y los segundos, los que
+"le dan lo que basta para sustentar la vida" (artículo 413 del Código
+Civil).”
+
+El Código del Menor, en
+el artículo 133, define los alimentos como "todo lo que es indispensable
+para el sustento, habitación, vestido, asistencia médica, recreación, formación
+integral y educación o instrucción del menor. Los alimentos comprenden la
+obligación de proporcionar a la madre los gastos de embarazo y parto", de
+modo que, según esta disposición y de acuerdo con la Constitución, debe
+entenderse que la prestación de alimentos no sólo comprende el suministro de lo
+estrictamente necesario para vivir, sino, además, todo aquello que se requiere para
+llevar una vida digna.
+
+Ahora bien, para poder
+reclamar alimentos, es necesario que se cumplan estas condiciones:
+
+-
+que una norma jurídica
+otorgue el derecho a exigir los alimentos;
+
+-
+que el peticionario carezca
+de bienes y, por tanto, requiera los alimentos que solicita;
+
+-
+que la persona a quien se le
+piden los alimentos tenga los medios económicos para proporcionarlos.
+
+A nivel procesal, es
+menester demostrar el parentesco o la calidad de acreedor del derecho de
+alimentos según las normas aplicables; dirigir la demanda contra la persona
+obligada a dar alimentos y, por último, probar que se carece de bienes de tal
+forma que no puede asegurarse su subsistencia.
+
+Entre
+las características que la jurisprudencia constitucional ha reconocido a la
+obligación alimentaria se tienen las siguientes[29]:
+
+a. La obligación alimentaria no es una que
+difiera de las demás de naturaleza civil, por cuanto presupone la existencia de
+una norma jurídica y una situación de hecho, contemplada en ella como supuesto
+capaz de generar consecuencias en derecho.
+
+b. Su especificidad
+radica en su fundamento y su finalidad, pues, la obligación alimentaria aparece
+en el marco del deber de solidaridadque une a los miembros más cercanos
+de una familia, y tiene por finalidad la subsistencia de quienes son sus
+beneficiarios.
+
+c. El deber de
+asistencia alimentaria se establece sobre dos requisitos fundamentales: *i)*
+la necesidad del beneficiario y *ii)* la capacidad del obligado, quien
+debe ayudar a la subsistencia de sus parientes, sin que ello implique el
+sacrificio de su propia existencia.
+
+d. La obligación de
+dar alimentos y los derechos que de ella surgen tiene unos medios de protección
+efectiva, por cuanto el ordenamiento jurídico contiene normas relacionadas con
+los titulares del derecho, las clases de alimentos, las reglas para tasarlos,
+la duración de la obligación, los alimentos provisionales (arts. 411 a 427 del
+Código Civil); el concepto de la obligación**,** las vías judiciales para
+reclamarlos, el procedimiento que debe agotarse para el efecto, (arts. 133 a
+159 del Código del Menor), y el trámite judicial para reclamar alimentos para
+mayores de edad (arts. 435 a 440 Código de Procedimiento Civil), todo lo cual
+permite al beneficiario de la prestación alimentaria hacer efectiva su
+garantía, cuando el obligado elude su responsabilidad.
+
+A partir de las
+anteriores consideraciones se ha concluido que cada persona debe velar por su
+propia subsistencia y por la de aquellos a quienes la ley le obliga, ello con
+fundamento en el principio de solidaridad, según el
+cual los miembros de la familia tienen la obligación de procurar la
+subsistencia a aquellos integrantes de la misma que no están en capacidad de
+asegurársela por sí mismos.
+
+Por
+ello, la obligación alimentaria tiene su fundamento tanto en el principio
+constitucional de la solidaridad[30], del cual se derivan obligaciones y cargas
+susceptibles de ser reclamados coercitivamente y con el apoyo del Estado, como
+del principio de equidad, en la medida en que *“cada miembro es obligado y
+beneficiario recíprocamente”*[31].
+
+**9. Análisis de los cargos de la demanda**
+
+**9.1. Violación al
+derecho a la igualdad por el numeral 1º del artículo 411 del Código Civil, al
+restringir el derecho de alimentos a los cónyuges y no incluir a los compañeros
+permanentes**
+
+La disposición del
+numeral 1º acusado del Código Civil, expedida en el año de 1873, adolece de una
+inconstitucionalidad sobreviniente puesto que a la luz del nuevo orden superior
+infringe el principio de igualdad que debe existir entre la familia surgida de
+un matrimonio válidamente celebrado y la originada en vínculos naturales
+(uniones de hecho) y, por ende, vulnera los mandatos constitucionales
+consagrados en los artículos 5, 13 y 42 del estatuto superior.
+
+En efecto, el
+precepto impugnado otorga la calidad de sujeto pasivo de la obligación
+alimentaria al cónyuge. Sin embargo, no establece, como es obvio por la fecha
+en que se instituyó dicha normativa, el mismo derecho para quienes son
+integrantes de una familia conformada por vínculos naturales, es decir, para
+los compañeros permanentes, lo cual resulta inconstitucional por cuanto la
+Carta Política consagra la igualdad de derechos y deberes entre las parejas o
+familias conformadas por vínculos jurídicos y las fundadas en vínculos
+naturales.
+
+De este
+modo, una interpretación conforme a la Constitución del numeral 1º del artículo
+411 del Código Civil obliga concluir que si la obligación alimentaria se
+fundamenta en el principio de solidaridad, según el cual los miembros de la
+familia tienen la obligación de suministrar la subsistencia a aquellos
+integrantes de la misma que no están en capacidad de asegurársela por sí
+mismos, y la unión marital de hecho al igual que el matrimonio está cimentada
+en la ayuda y socorro mutuos de quienes integran esas relaciones, no resulta
+razonable ni proporcional que
+se brinde un tratamiento desigual en materia de derecho de alimentos a los
+compañeros permanentes frente a quienes celebraron contrato de matrimonio, por
+el simple origen del vínculo familiar, más aun teniendo en cuenta la expresa
+prohibición que hace el artículo 13 Superior.
+
+Una interpretación
+en sentido contrario permitiría presumir que las personas que constituyen una
+unión marital de hecho pretenden evadir responsabilidades, contraviniendo con
+ello el principio de que a todas las personas que forman una familia se les
+exige un comportamiento responsable, sin importar la forma que ella asuma, el
+cual puede ser exigido incluso judicialmente.
+
+Sin embargo, debe
+precisarse que los compañeros permanentes sólo podrán exigir el derecho
+alimentario, hasta que esté demostrada su condición de integrantes de la unión
+marital de hecho, puesto que debe existir certeza que quien dice ser compañero
+permanente lo sea en realidad.
+
+Demostrada la
+inconstitucionalidad del numeral acusado habría lugar a declarar su
+inexequibilidad, caso en el cual la Corte Constitucional actuaría como un
+simple legislador negativo y no como el órgano a quien el Constituyente en el
+Estado social de derecho confió la guarda de la integridad y supremacía de la
+Constitución. Por ello en aplicación del principio de conservación del derecho
+y en aras de respetar el principio democrático y garantizar la seguridad
+jurídica, se proferirá una sentencia integradora[32], que permita mantener en el ordenamiento
+jurídico dicha disposición del Código Civil pero condicionando su exequibilidad
+a una interpretación que respete los valores, principios y derechos consagrados
+en el ordenamiento superior. Esto es, que el numeral 1º del artículo 411 del
+Código Civil se ajusta a la Constitución, siempre y cuando se entienda que
+dichas normas también se aplican a los compañeros permanentes.[33]
+
+**9.2. Inhibición
+respecto del numeral 4º del artículo 411 del Código Civil**
+
+El
+numeral 4º del artículo 411 del Código Civil modificado por el artículo 23 la
+Ley 1ª de 1976, impone al cónyuge culpable la obligación de pagar alimentos al
+cónyuge divorciado o separado de cuerpos sin su culpa, es decir, al cónyuge
+inocente.
+
+En
+este caso la obligación a cargo del cónyuge culpable surge como sanción a la
+conducta que originó el rompimiento del vínculo matrimonial en el caso del
+divorcio del matrimonio civil y de la cesación de los efectos civiles en el
+matrimonio o la causal que suspende la vida en común de los casados y disuelve
+la sociedad conyugal[34] en el caso de la
+separación de cuerpos.
+
+El divorcio y la
+separación de cuerpos son figuras jurídicas que operan en el campo exclusivo
+del contrato matrimonial y por lo mismo no regulan las relaciones entre los
+miembros de la unión marital de hecho. Pretender que ello sea así, es partir
+del supuesto de que el matrimonio y la unión marital de hecho son instituciones
+equiparables y tienen los mismos efectos jurídicos, lo cual, como se ha
+explicado, es un supuesto interpretativo equivocado.
+
+En efecto, al no
+existir regulación normativa que permita determinar la culpabilidad de uno de
+los compañeros permanentes en la ruptura de la unión marital de hecho, no puede
+equipararse la condición del cónyuge culpable a la de un "compañero
+culpable" y mucho menos la existencia de un "compañero permanente
+divorciado o separado de cuerpos", inferencia que surge de la
+interpretación que hace la accionante de la disposición acusada, la cual no
+admite dicho entendimiento.
+
+La Corte
+Constitucional ha precisado que es necesario que las demandas de
+inconstitucionalidad contengan cargos predicables de las normas demandadas, es
+decir, cargos que guarden “conexión de pertinencia con ella. Esta relación de
+correspondencia es indispensable para que el cotejo entre la norma legal y la
+norma constitucional sea posible, pues constituye el nexo lógico que permite
+enfrentar los contenidos normativos en pugna.”[35]
+
+En el mismo
+sentido ha hecho énfasis en la relevancia del cargo, como supuesto objetivo
+para la confrontación normativa. Concepto este que tiene relación con la
+necesidad de que la oposición entre la norma constitucional y la norma legal
+sea real y no meramente deducida de una lectura irrazonable de la norma. De
+este modo, “el cargo debe ser constitucionalmente relevante, es decir, que las
+razones de oposición entre la norma legal y la constitucional deben provenir de
+una contradicción real entre dichos regímenes”[36].
+
+Por estas razones
+los argumentos sobre los cuales se estructure un cargo de inconstitucionalidad
+deben emerger directamente del texto de la norma demandados; es decir, que se
+prediquen del texto acusado o le sean atribuibles al mismo, de modo que se
+establezca un puente argumentativo a través del cual, el cotejo entre la norma
+legal y la Constitución sea posible.[37]
+
+Sobre este
+particular en la Sentencia C-1113/01[38] señaló:
+
+La exigencia de una correspondencia lógica y
+jurídica entre el reproche planteado en la demanda y la norma de la cual dice
+desprenderse, se impone al demandante como garantía para la efectiva resolución
+de la acción, pues sólo en cuanto el cargo se derive efectivamente de la norma
+acusada es posible que el juez constitucional se pronuncie sobre la
+concordancia o falta de acuerdo entre las normas comparadas.
+
+En el evento en que dicha coherencia lógica
+no se guarde o que los reproches de inconstitucionalidad formulados por el
+demandante no se deriven de la norma atacada, sino de otra disposición no
+demandada, el juicio de inconstitucionalidad que se solicita se hace imposible
+y, en consecuencia, el juez constitucional debe inhibirse de emitir
+pronunciamiento de fondo acerca de la exequibilidad o inexequibilidad de la
+disposición acusada.
+
+El aparente cargo
+formulado por la ciudadana accionante excedió los contornos regulativos del
+numeral acusado al atribuirle a dicha norma una consecuencia jurídica ajena a
+su redacción, puesto que por esa vía pretende extender la sanción al cónyuge
+culpable que dio origen al divorcio o a la separación de cuerpos, a uno de los
+integrantes de la unión marital de hecho, lo cual viola el principio de
+legalidad y desconoce que la interpretación en materia de sanciones es de
+carácter restrictivo.
+
+De lo anterior, se
+deduce que la demanda contra el numeral 4º acusado no cumple con el requisito
+de explicar la coherencia lógica o correspondencia jurídica que existe entre
+la disposición y el reproche que contra ella se formulan, es decir, el cargo de
+inconstitucionalidad no está respaldado con razones ciertas, específicas y
+pertinentes[39] lo cual imposibilita un pronunciamiento de
+fondo por parte de la Corte Constitucional.
+
+Finalmente, podría
+aducirse que conforme lo ha sostenido esta Corporación en su jurisprudencia[40], el juez
+constitucional no está sometido a la *causa petendi*, por lo cual debe
+entrar a confrontar la norma acusada con todo el texto de la Carta.
+
+A este respecto debe
+recordarse[41] que el control que
+ejerce esta Corporación no se limita a los cargos de la demanda, como quiera
+que el control constitucional que ejerce esta Corte es integral (artículos 46
+de la Ley 270 de 1996 y 22 del Decreto 2067 de 1991), pero no es menos cierto
+que toda la carga argumentativa de la inconstitucionalidad no le corresponde a
+esta Corporación, en razón a que el control oficioso está taxativamente
+limitado para los casos que expresamente consagra el artículo 241 de la Carta,
+por lo que “el control constitucional exige una justificación mínima de la
+supuesta contradicción cuyo fundamento es el texto superior”[42].
+
+En consecuencia, la
+Corte se declarará inhibida para pronunciarse de fondo sobre la demanda contra
+el numeral 4º del artículo 411 del Código Civil.
+
+DECISION
+
+Con fundamento
+en las precedentes motivaciones, la Sala Plena de la Corte Constitucional
+administrando justicia en nombre del pueblo y por mandato de la Constitución,
+
+**RESUELVE:**
+
+**Primero**.- Declarar **EXEQUIBLE** el numeral 1º
+del artículo 411 del Código Civil, siempre y cuando se entienda que esta
+disposición es aplicable a los compañeros permanentes que forman una unión
+marital de hecho.
+
+**Segundo**.- Declararse **INHIBIDA**
+para pronunciarse sobre la constitucionalidad del numeral 4º del
+artículo 411 del Código Civil.
+
+Cópiese,
+notifíquese, comuníquese, insértese en la Gaceta de la Corte Constitucional,
+cúmplase y archívese el expediente.
+
+MARCO GERARDO MONROY CABRA
+
+Presidente
+
+| | |
+| --- | --- |
+| JAIME ARAUJO RENTERIA Magistrado | ALFREDO BELTRAN SIERRA Magistrado |
+| MANUEL JOSE CEPEDA ESPINOSA Magistrado | JAIME CORDOBA TRIVIÑO Magistrado |
+| RODRIGO ESCOBAR GIL Magistrado | EDUARDO MONTEALEGRE LYNETT Magistrado |
+| ALVARO TAFUR GALVIS Magistrado | CLARA INES VARGAS HERNANDEZ Magistrada |
+| MARTHA VICTORIA SACHICA MENDEZ Secretaria General | |
+
+---
+
+[1] M.P. Jorge Arango Mejía.
+
+[2] Folios 19 y 20 del
+expediente.
+
+[3] M.P. Jorge Arango Mejía.
+
+[4] M.P. Jorge Arango Mejía.
+
+[5] Esta demanda de inconstitucionalidad fue decidida mediante
+la Sentencia C-174/96 M.P. Jorge Arango Mejía.
+
+[6] M.P. Jorge Arango Mejía.
+
+[7] Esta posición se materializó en el auto 043A/95 de Sala
+Plena M.P. Antonio Barrera Carbonell, mediante el cual se desató el recurso de
+súplica que el ciudadano demandante interpuso contra el auto de rechazo de la
+demanda.
+
+[8] Conforme lo explicó la Corte en la Sentencia C-925/00 M.P.
+José Gregorio Hernández Galindo la cosa juzgada relativa opera cuando *“el
+juez de constitucionalidad ha proferido antes un fallo de exequibilidad
+circunscrito de manera específica a alguno o algunos aspectos constitucionales
+de la norma, sin haberlos agotado en su totalidad, lo que conduce a que, aun
+existiendo ya sentencia declaratoria de la constitucionalidad del precepto,
+subsiste la posibilidad de nuevo análisis de la disposición correspondiente,
+no ya por los conceptos precedentes -respecto de los cuales se juzgó y a
+los que no puede volverse- sino por otros sobre los cuales en el primer fallo
+no se pronunció la Corte.”*
+
+[9] Corte Constitucional. Sentencia C-105/94 M.P. Jorge Arango
+Mejía.
+
+[10] M.P. Vladimiro Naranjo Mesa.
+
+[11] *Cfr*. Código Civil artículo 411 numeral 4°.
+
+[12] *Cfr*. Código Civil art. 154 numerales 8° y 9°.
+
+[13] M.P. Eduardo Cifuentes Muñoz.
+
+[14] Corte Constitucional. Sentencia C-409/94. M.P. Hernando
+Herrera Vergara.
+
+[15] Corte Constitucional. Sala de Revisión. Sentencia
+T-591 de diciembre 4 de 1992. M.P. Dr. Jaime Sanín Greiffenstein.
+
+[16] Corte Constitucional -Sala Plena-. Sentencia C-221 de mayo 29 de
+1992. M.P. Dr. Alejandro Martínez Caballero, pp. 10-12.
+
+[17] Corte Constitucional. Sentencia T-432/92
+M.P. Simón Rodríguez Rodríguez.
+
+[18] Corte Constitucional. Sentencia C-221/92
+M.P. Alejandro Martínez Caballero.
+
+[19] Corte Constitucional. Sentencia C-410/96
+M.P. Hernando Herrera Vergara.
+
+[20] De conformidad con lo establecido la jurisprudencia
+constitucional, el origen familiar es uno de los factores que obligan al juez
+constitucional recurrir a un juicio de igualdad más riguroso o estricto. Sobre
+este tema puede estudiarse entre otras, la sentencia C-093/01 M.P. Alejandro
+Martínez Caballero.
+
+[21] Corte Constitucional. Sentencias C-016/93 M.P. Ciro Angarita
+Barón y T-422/92 M.P. Eduardo Cifuentes Muñoz, entre otras.
+
+[22] Corte Constitucional. Sentencia C-477/99 M.P. Carlos
+Gavira Díaz.
+
+[23] Corte Constitucional. Sentencia T-553/94 M.P. José
+Gregorio Hernández Galindo.
+
+[24] Corte Constitucional. Sentencias C-239/94 M.P. Jorge
+Arango Mejía, C-114/96 M.P. Jorge Arango Mejía y C-533/00 M.P. Vladimiro
+Naranjo Mesa.
+
+[25] Corte Constitucional. Sentencia C-919/01 M.P. Jaime Araujo
+Rentaría.
+
+[26] Corte Constitucional. Sentencia
+C-184/99. M.P. Antonio Barrera Carbonell.
+
+[27] M.P. Jaime Araujo Rentería.
+
+[28] Ver sentencias C-237 de 1997 M.P. Carlos Gaviria Díaz y
+C-1064 2000 M.P. Alvaro Tafur Galvis.
+
+[29] Corte Constitucional. Sentencia C-237/97 M.P. Carlos Gaviria
+Díaz.
+
+[30] Corte Constitucional. Sentencias C-174/96 M.P. Jorge Arango Mejía,
+C-237/97 M.P. Carlos Gaviria Díaz y C-657/97 M.P. José Gregorio Hernández
+Galindo, entre otras.
+
+[31] Corte Constitucional. Sentencia C-237/97 M.P. Carlos Gaviria
+Díaz.
+
+[32] Sobre esta forma de modulación de sentencias de
+constitucionalidad pueden estudiarse las sentencias C-109/95 M.P. Alejandro
+Martínez Caballero, C-690/96 M.P. Alejandro Martínez Caballero, C-183/98 M.P.
+Eduardo Cifuentes Muñoz.
+
+[33] *Cfr*. Corte Constitucional. Sentencia T-500/02 M.P. Eduardo
+Montealegre Lynett. Fundamento Jurìdico No. 22.
+
+[34] Salvo la excepción contenida en el inciso segundo del
+artículo 167 del Código Civil que establece que “*la separación de cuerpos
+disuelva la sociedad conyugal, salvo que, fundándose en el mutuo consentimiento
+de los cónyuges y siendo temporal, ellos manifiesten su deseo de mantenerla
+vigente.”*
+
+[35] Corte Constitucional. Sentencia C-1294/01 M.P. Marco Gerardo
+Monroy Cabra.
+
+[36] *Idem.*
+
+[37] Corte Constitucional. Sentencia C-1113/01 M.P. Marco Gerardo
+Monroy Cabra.
+
+[38] M.P. Marco Gerardo Monroy Cabra.
+
+[39] Corte Constitucional. Sentencia C-1052/01 M.P. Manuel José Cepeda
+Espinosa.
+
+[40] Sobre este tema pueden estudiarse, entre otras, las sentencias
+C-531/95 M.P. Alejandro Martínez Caballero, C-017/96 M.P. Alejandro Martínez
+Caballero, C-445/96 M.P. Hernando Herrera Vergara, C-387/97 M.P. Fabio Morón
+Díaz y C-497/98 M.P. Alejandro Martínez Caballero.
+
+[41] Corte Constitucional. Sentencia C-645/00 M.P. Alejandro Martínez
+Caballero.
+
+[42] Corte Constitucional. Sentencia C-358 de 1999 M.P. Alejandro
+Martínez Caballero.

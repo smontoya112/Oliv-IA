@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-111_2025",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/SU111-25.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2025/SU111-25.htm",
+      "sha256": "1c7be1d69feed8299099ebabf41c38f21ce97bcbe7f4e9eead85c08787bd2c87",
+      "bytes": 758383,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:58-05:00"
+    }
+  ]
+}

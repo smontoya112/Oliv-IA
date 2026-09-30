@@ -1,0 +1,994 @@
+---
+{
+  "doc_id": "sentencia_c-746_2011",
+  "titulo": "Sentencia C-746 de 2011",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-746-11.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "constitucional",
+    "familia"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-746",
+  "anio": 2011,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-746",
+    "2011"
+  ],
+  "items_del_banco": 2,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2011/C-746-11.htm"
+  ],
+  "sha256_partes": [
+    "edc6faafd105d7532ba96c023b7db83da82441e24b82fb2641389ee60afc0529"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 46425,
+  "n_articulos_detectados": 2,
+  "archivo_md": "md/sentencia_c-746_2011.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2011/C-746-11.htm -->
+C-746-11
+
+---
+
+**TEMAS-SUBTEMAS**
+
+**Sentencia C-746/11**
+
+**DIVORCIO**-Requisito de dos
+años de separación de cuerpos para invocar el divorcio, no vulnera libre
+desarrollo de la personalidad
+
+*La exigencia de
+los dos años de separación corporal de los cónyuges para su invocación como
+causal de divorcio, es una limitación temporaria y no una medida que vacíe o
+anule la dignidad o el derecho del cónyuge separado, ni representa una
+restricción desproporcionada de su autonomía para elegir libre y
+responsablemente el estado civil que le plazca u optar por la conformación de
+una nueva relación sentimental o de familia.*
+
+**DERECHO AL LIBRE
+DESARROLLO DE LA PERSONALIDAD**-Contenido y alcance
+
+**LIBERTAD DE
+CONFIGURACION LEGISLATIVA EN MATERIA DE DIVORCIO Y SEPARACIÓN DE CUERPOS**-Límites
+
+**DERECHO AL LIBRE
+DESARROLLO DE LA PERSONALIDAD**-No es absoluto
+
+*El derecho al
+libre desarrollo de la personalidad no es un derecho absoluto: es una potestad
+subjetiva, constitucional y legalmente restringible. La propia Constitución
+admite su acotamiento concretado en “los derechos de los demás” y en el “orden
+jurídico”.*
+
+**MATRIMONIO**-Definición**/MATRIMONIO**-Efectos
+de su disolución o terminación
+
+*Definido el
+específicamente el matrimonio como “un contrato solemne por el cual un hombre y
+una mujer se unen con el fin de vivir juntos, de procrear y auxiliarse
+mutuamente” (C.C., art. 113), se destaca como un acuerdo de voluntades
+encaminado a: (i) la unión o comunidad de vida de los contrayentes, que
+incluye la satisfacción de sus recíprocas necesidades sexuales y afectivas;
+(ii) la procreación, crianza y educación de la prole; y la ayuda y auxilio
+recíproco en las contingencias materiales y sociales de la vida en común. La
+comunidad de vida en que se basa el matrimonio es expresión de la “unidad”
+familiar a que alude el artículo 42.3 superior como valor constitucional; y la
+procreación y crianza de los hijos tiene fundamento constitucional en la
+regulación constitucional sobre el derecho de la pareja a “decidir libre y
+responsablemente el número de sus hijos” y a “sostenerlos y educarlos mientras
+sean menores o impedidos” (CP, 42.5). De este modo, la protección
+constitucional a la familia guarda una relación necesaria con el matrimonio, no
+solo como forma solemne de constituirla, sino como la institución que, al
+comprometer relaciones maritales y filiales, concurre a la realización del
+mandato constitucional de “protección integral de la familia”.*
+
+---
+
+**Sentencia C-746/11**
+
+**(Bogotá DC, 5 de
+octubre de 2011)**
+
+| |
+| --- |
+| **Referencia:** Expediente D- 8467. **Demanda de inconstitucionalidad:** contra el artículo 154, numeral 8 (parcial) del Código Civil, modificado por el artículo 6 de la Ley 25 de 1992. **Actor:** Julián Arturo Polo Echeverry. **Magistrado Ponente:** MAURICIO GONZALEZ CUERVO. |
+
+**I.
+ANTECEDENTES.**
+
+El ciudadano Julián Arturo Polo Echeverry, en ejercicio de acción
+pública, demanda la inconstitucionalidad del numeral 8 (parcial) del artículo
+154 del Código Civil, modificado por el artículo 6º
+de la ley 25 de 1992.
+
+**1.
+Texto normativo demandado.**
+
+El
+texto de las normas mencionadas es el siguiente, subrayando los apartes
+demandados:
+
+CÓDIGO CIVIL
+
+“(…)
+
+Artículo 154. *Modificado por la Ley 25/92, art. 6.* Son causales de divorcio:
+
+(…)”
+
+8. La separación de
+cuerpos, judicial o de hecho, que haya perdurado por más de dos años.” (aparte acusado subrayado)
+
+**2.
+Demanda: pretensión y fundamentos.**
+
+**2.1. Pretensión.**
+
+El actor solicita sea
+declarado inconstitucional el aparte subrayado del numeral 8 del artículo 154 del Código Civil,
+(modificado por el artículo 6º. de la ley 25 de
+1992), por considerar que vulnera el artículo 16 de la
+Constitución Política.
+
+**2.2. Fundamento:
+vulneración del derecho al libre desarrollo de la personalidad (CP, art. 16).**
+
+El aparte demandado del
+artículo acusado lesiona el derecho al libre desarrollo de la personalidad
+contenido en el artículo 16 de la
+Constitución Política, al establecer como una de las causales objetivas de
+divorcio la separación de cuerpos judicial o de hecho que haya perdurado por
+más de dos (2) años, sujetando al transcurso del periodo indicado la libre
+elección del cónyuge de continuar o no con el vínculo matrimonial.
+
+En otras palabras, el
+aparte de la norma demandada limita el derecho a la escogencia libre del estado
+civil -a planear una nueva vida-, de quien decida no seguir conviviendo con su
+esposo o esposa, imponiéndole el deber de continuar con el estado civil de
+“casado”, al fijar un término de dos años de estar separado de hecho o
+judicialmente para solicitar el divorcio al juez de familia, con las
+consecuencias que ello tiene en materia de sociedad conyugal. La vulneración
+del postulado de libre desarrollo de la personalidad se pone en evidencia al no
+poder contraer un nuevo vínculo matrimonial aunque lo deseara y, frente a una
+nueva pareja, estar obligado a unirse a ella por vínculos naturales.
+
+**3.
+Intervenciones públicas y ciudadanas.**
+
+**3.1.
+El Ministerio del Interior y de Justicia.**
+
+El
+actor en su demanda busca la consagración de una causal de divorcio unilateral,
+la cual no está consagrada en el ordenamiento jurídico colombiano. En realidad
+se trata de una demanda por omisión legislativa que, en el caso en análisis,
+sería por ausencia absoluta de legislación que contemple en Colombia la figura
+del divorcio unilateral, por lo cual no hay norma sobre la que resulte
+procedente un examen de constitucionalidad y que como lo ha expresado la
+Corte Constitucional en su jurisprudencia, *“... hay que excluir de esta
+forma de control el que se dirige a evaluar las omisiones legislativas
+absolutas; si no hay actuación, no hay acto que comparar con las normas
+superiores; si no hay actuación, no hay acto que pueda ser objeto de control”**[1]**.*
+
+No
+prospera el cargo de violación expuesto, pues no es la norma acusada la que
+desconoce el derecho al libre desarrollo de la personalidad del cónyuge que
+quiera solicitar el divorcio de manera unilateral, sino que el desconocimiento
+de ese derecho estaría dado por la ausencia de legislación que consagre la
+figura del divorcio unilateral, razón por la cual no es viable para la
+Corte realizar un examen de constitucionalidad por ausencia de objeto sobre el
+que recaiga.
+
+**3.2.
+Instituto Colombiano de Bienestar Familiar -ICBF-.**
+
+La
+familia se constituye por vínculos naturales y jurídicos, por la decisión libre
+de un hombre y una mujer de contraer matrimonio o por la voluntad responsable
+de conformarla, la que una vez constituida se convierte por mandato superior en
+el núcleo esencial de la sociedad y se erige en una institución que representa
+en interés público y la hace acreedora de la protección integral por parte del
+Estado, por encima de los particulares, incluidos los cónyuges. Así lo entiende
+el legislador al establecer como causal de divorcio la separación de cuerpos
+por un lapso de dos (2) años, por lo que la simple decisión de uno de los
+cónyuges de disolverla no puede ser un acto instantáneo e inmediato, pues los
+elementos que concurren en la institución familiar no son del resorte de los
+miembros de la pareja, ni siquiera de los dos en todas las ocasiones, ya que
+otros intereses se entienden establecidos. El tratamiento legal del matrimonio
+no se aparta del contemplado en la ley para la generalidad de los contratos,
+cuya solución prematura es por el mutuo disenso o por justas causas declaradas
+por el juez.
+
+**3.3.
+Academia Colombiana de Jurisprudencia.**
+
+Ninguna libertad en Colombia es absoluta, todas son
+limitadas, por lo que *“la opción de ser casado por ceremonia o casado
+consensual o de vivir en pareja temporal o permanente, tiene limitaciones y
+quien tome estas opciones deberá cumplir con las obligaciones que su estado de
+familia le impone.”* Las causales de divorcio y las de nulidad del
+matrimonio limitan el ejercicio del derecho a cambiar discrecionalmente la
+condición de casado, soltero, divorciado, etc. puesto que para casarse es
+necesario cumplir ciertos requisitos, cuando se alega una causal de divorcio,
+ésta debe probarse, por lo que se descarta el divorcio por repudiación.
+
+Establecer el plazo de dos (2) años para poder alegar
+las causales de separación se justifica en la medida que la experiencia
+conlleva a que las parejas que viven en matrimonio tienen crisis que son de la
+esencia de la vida en pareja y que salvo graves ofensas, se tiene la esperanza
+de reconstruir la vida en común, más aun cuando hay hijos. Esta opción dada por
+el legislador busca preservar la unidad de la familia y en nada impide que el
+cónyuge inocente demande el divorcio inmediatamente ocurra una causal que genere
+sanción al culpable.
+
+Si el parte acusado fuere declarado inexequible, se
+llegaría a la conclusión de que se establecería el divorcio por repudiación y
+se patrocinaría la irresponsabilidad de los cónyuges, lo que sería
+manifiestamente contrario a la obligación de actuar con responsabilidad.
+
+**3.4.
+Universidad del Rosario.**
+
+Procede
+la exequibilidad de la norma demandada o que en caso de que la
+Corte declare la inexequibilidad, lo haga modulando el fallo, en el sentido de
+que el cónyuge que dé pie al divorcio, sea tenido como culpable de la ruptura,
+responda por la infracción unilateral de su compromiso e indemnice en debida
+forma al afectado.
+
+El
+sistema jurídico colombiano como en la mayoría de las legislaciones del mundo
+cuenta con una institución matrimonial cuyo objeto es dar origen a la familia,
+que surge con un compromiso entre las partes de carácter contractual, público y
+solemne con un régimen de deberes y propósitos inmodificables por las partes
+que conlleva a un estado civil que por disposición es de origen legal,
+indisponible y regido por normas positivas. El constituyente de 1991 confirió
+amplias facultades al legislador en materia de configuración normativa frente
+al régimen jurídico de este contrato y la institución que le da origen.
+
+Resalta
+que el estado civil no es de libre elección, como lo es el casarse y tener
+hijos, adoptarlos o darlos en adopción, sino impuesto por las normas positivas,
+indisponible, imprescriptible e inalienable y regido por normas de orden
+público. Lo que muta a elección del sujeto no es el estado civil, sino la
+fuente o lo que le da origen al estado civil. El matrimonio o el repudio que se
+propone, no hacen que el estado civil se vuelva electivo, pues mientras se esté
+casado se tendrá ese estado civil, con los correspondientes derechos y
+obligaciones y si se deja de estarlo, se tendrá el estado civil de ex casado,
+son también los derechos y obligaciones que correspondan.
+
+**3.5.
+Universidad Santo Tomás.**
+
+La
+Corte
+debe declarar la inexequibilidad del aparte demandado del numeral 8 del
+artículo 154 del c.c., ya que el término de dos años de separación de cuerpos
+exigidos por la ley para que se constituya en causal de divorcio es una
+limitación a la órbita de la libertad personal de dos sujetos o uno de ellos
+que ya no quieran compartir y mantener la relación, que carece de justificación
+constitucional. La norma acusada vulnera la
+Constitución pues impide que una decisión de la persona tenga efectos
+inmediatos buscados por el sujeto, imponiendo a los individuos un vínculo que
+no desean, coaccionando la libertad por un término demasiado largo y
+dificultando la separación de las vidas en común.
+
+**3.6.
+Participación Ciudadana**[2]**.**
+
+La
+norma demandada no es inconstitucional: el matrimonio es una de las formas de
+crear familia como núcleo fundamental de la sociedad, el cual se rige por la
+ley civil, constituyéndose en un deber del Estado y de la sociedad su
+protección. La norma acusada no es un ejercicio abusivo de la autonomía del
+legislador para regular las causales de divorcio, puesto que la misma
+Constitución (Art. 42.9) le confiere facultades para reglamentar lo referente
+al contrato matrimonial y sus consecuencias, deberes y derechos de los
+cónyuges, y en general todo lo relacionado con sus condiciones de validez,
+separación y disolución del vínculo.
+
+La
+causal octava del artículo 154 del código civil, objeto de acusación en la
+presente demanda persigue dos objetivos: el primero, dirigido a proteger la
+institución del matrimonio y la vida familiar, al verse desdibujada con la
+separación de cuerpos de los cónyuges por el periodo de dos años o más,
+viéndose vulnerado uno de los deberes y objetivos del mismo; y en segundo término,
+el derecho al libre desarrollo de la personalidad, al establecer la posibilidad
+que cuando los cónyuges no estén de acuerdo con el divorcio y la convivencia no
+sea irresistible por alguna de las otras causales de divorcio, se pueda probar
+la ineficiencia de la unión demostrando dos años de separación de cuerpos.
+
+**4.
+Concepto del Procurador General de la Nación**[3]**.**
+
+La
+Corte
+debe declararse inhibida para emitir un pronunciamiento de fondo, por
+ineptitud sustancial de la demanda: se atribuye al texto demandado un sentido
+que no se encuentra él y resulta contrario a su lectura objetiva, lo que
+implica el análisis constitucional de textos legales que no se encuentran
+incluidas en la demanda, omitiendo el contexto de la norma acusada y
+pretendiendo agregar a la ley una nueva causal de divorcio, la del divorcio
+unilateral.
+
+No
+existe ni puede existir prima facie, contradicción alguna entre la norma legal
+demandada y la norma constitucional invocada, puesto que la norma Superior
+reconoce el derecho al libre desarrollo de la personalidad dentro de los
+límites fijados por los derechos de los demás y por el orden jurídico del cual
+hace parte la norma acusada. El artículo 42 Superior establece el régimen
+jurídico del matrimonio al disponer *“[l]as formas del matrimonio, la edad y
+capacidad para contraerlo, los deberes y derechos de los cónyuges, su
+separación y la disolución del vínculo, se rigen por la ley civil”* y que*“los efectos civiles de todo matrimonio cesaran por divorcio con arreglo a la
+ley civil”* por lo cual en esta materia el legislador cuenta con plena
+competencia tanto general como especifica por mandato constitucional. La
+pretensión del actor, más que reprochar la inconstitucionalidad de los dos años
+de separación contenida en la causal demandada es instituir una nueva causal,
+la del divorcio unilateral, pretensión que supone la existencia de una omisión
+absoluta para la cual no tiene competencia la
+Corte Constitucional.
+
+**II.
+CONSIDERACIONES.**
+
+**1.
+Competencia.**
+
+La Corte
+Constitucional es competente para conocer de la presente demanda al
+estar dirigida contra una disposición de la una ley -Ley 25 de 1992-, en virtud
+de lo dispuesto por el artículo 241.4 de la
+Constitución Política.
+
+**2.
+Marco y alcance de la normatividad demandada.**
+
+2.1. Con el fin de ajustar las normas relativas al
+matrimonio para adecuarlas a la nueva Carta Política (Art. 42), el legislador
+expidió la Ley 25 de 1992, mediante la cual se adoptaron disposiciones
+relativas, entre otros asuntos, a las formas de matrimonio, la edad y
+capacidad para contraerlo, y particularmente, a la disolución del vínculo:
+(i) por la muerte real o presunta de alguno de los cónyuges o (ii) por divorcio
+judicialmente decretado (Ley 25/92, art. 5, modificatorio del artículo 152 del
+Código Civil).
+
+2.2. El artículo 6 de la
+Ley 25 de 1992 -modificatorio del artículo 154 del Código Civil-, estableció
+las causales para solicitar el divorcio, determinando dos tipos: unas
+denominadas subjetivas,relacionadas con el incumplimiento de
+obligaciones y deberes conyugales, solo alegables por el cónyuge inocente, y
+que dan lugar al divorcio sanción, dentro de las que se encuentran las
+causales 1[4],
+2[5],
+3[6],
+4[7],
+5[8]
+y 7[9]
+del artículo 154; otras llamadas causales objetivas, relacionan con el
+rompimiento de los lazos afectivos que motivan el matrimonio, alegables por
+cualquiera de los cónyuges que desee disolver el vínculo matrimonial, como las
+causales de los numerales 6[10],
+8[11]
+y 9[12].
+
+2.3. La norma acusada modificó la
+Ley 1 de 1976 -artículo 4, numeral 8- que había descrito la misma causal como
+consistente en *“la separación de cuerpos decretada judicialmente que perdure
+más de dos años”*. Así, la Ley 25/92 -artículo 6, numeral 8- agregó que la
+separación de cuerpos puede ser *“de hecho”* y no solo judicialmente
+decretada. Tal es el texto vigente del artículo 154 del Código Civil.
+
+2.4. La separación de cuerpos entraña la suspensión de
+la vida en común de los cónyuges, pudiendo ser declarada judicialmente o darse
+de hecho. La separación judicial procede invocando alguna de las causales de
+divorcio, solo alegables por el cónyuge inocente en cuanto causales subjetivas;
+y por el mutuo consentimiento de los cónyuges manifestado ante el juez
+competente (Art. 165 C.C.). Por otro lado, la separación de hecho se da cuando
+se rompe la convivencia conyugal, sea acordada por ambos cónyuges o decidida
+por uno de ellos, sin que haya intervenido un juez (Corte Constitucional,
+C-1495/00).
+
+2.5. En cuanto al efecto de la separación de cuerpos
+sobre la sociedad conyugal, el Código Civil prevé su disolución -entre otras
+causales- por la *“separación judicial de cuerpos”*, salvo que los
+cónyuges consientan mantenerla por tratarse de una separación temporal(C.C.,
+art. 167y 1820). Al contrario, la separación de cuerpos de hecho no lleva a
+la disolución de dicha sociedad, pudiendo en todo caso ser acordada por los
+cónyuges mediante escritura pública protocolizada ante notario.
+
+**3.
+Aptitud del cargo de la demanda.**
+
+3.1. No comparte esta Corte la solicitud de inhibición
+por la supuesta configuración de omisión legislativa absoluta, por lo
+siguiente: (i) la consecuencia de una inexequibilidad de la expresión demandada
+sería la modificación de la causal existente de divorcio basada en la separación
+de cuerpos, no la consagración de una causal autónoma sustentada en un supuesto
+normativo no contemplado en el Código Civil y leyes reformatorias; (ii) la
+demanda se dirige contra un texto cierto de la ley que se considera contrario a
+un derecho constitucionalmente consagrado, por las razones expresadas.
+
+3.2. En la demanda objeto de examen el demandante
+soporta el cargo, manifestando que el aparte de la disposición acusada vulnera
+el artículo 16 de la Carta Política -libre desarrollo de la personalidad-, pues
+al establecer que la causal de divorcio se configura con transcurso dos años de
+separación de cuerpos -judicial o de hecho-, se limita de una manera
+desproporcionada el ejercicio de la libertad de las personas de decidir sobre
+la terminación del vínculo matrimonial, acorde a sus deseos y convicciones
+personales, no pudiendo planear una nueva vida, ni escoger su estado. Así, tras
+señalar la norma acusada, indicar la disposición constitucional vulnerada y
+estructurar un cargo de posible inconstitucionalidad del texto legal, el
+demandante cumple con los presupuestos mínimos de admisibilidad de la demanda.
+
+**4. Problema jurídico constitucional (cargo
+único: vulneración del artículo 16 constitucional).**
+
+4.1. En esencia, el actor alega que el requisito de
+dos años de separación de cuerpos, como exigencia fáctica para la procedencia
+del divorcio con base en dicha causal, se erige como una limitación
+desproporcionada al libre desarrollo de la personalidad del cónyuge que,
+deseando dar por terminado el vínculo matrimonial, no puede hacerlo en virtud
+de dicha restricción. Para el demandante, la sola decisión de uno o los dos
+cónyuges de separarse corporalmente de su pareja, debería bastar para la
+configuración de esta causal objetiva de divorcio. En otras palabras, la
+pretensión de inconstitucionalidad de la expresión “*que
+haya perdurado por más de dos años*” predicada de la
+separación de cuerpos, conduce a la consagración del divorcio unilateral e
+inmediato por la mera separación de cuerpos de uno de los cónyuges.
+
+4.2. Así, el problema de constitucionalidad a resolver
+es el siguiente: ¿la exigencia legal de dos años de duración de la separación
+de cuerpos para invocar el divorcio, vulnera el derecho al libre desarrollo de
+la personalidad del cónyuge separado que desea disolver su vínculo conyugal,
+por obligarlo a permanecer en el vínculo e impedirle contraer nuevo matrimonio,
+en dicho lapso?
+
+4.3. La Sala procederá a examinar los siguientes
+puntos: (i) afectación del derecho al libre desarrollo de la personalidad por
+la disposición demandada; (ii) limitación del derecho del cónyuge, como
+ejercicio de la potestad de configuración legislativa en materia de divorcio y
+separación de cuerpos; (iii) fundamentación, finalidad, razonabilidad y
+proporcionalidad en la limitación del derecho fundamental al
+libre desarrollo de la personalidad.
+
+**5. Afectación del derecho al libre
+desarrollo de la personalidad por la disposición demandada.**
+
+5.1. El artículo 16 constitucional -presuntamente
+vulnerado- dispone que *“todas las personas tienen derecho al libre
+desarrollo de la personalidad…”*. El derecho al libre
+desarrollo de la personalidad se identifica con el ámbito reservado al
+individuo para la toma de decisiones vitales, correspondiéndole a las propias
+personas y no al Estado decidir la manera como gobiernan sus derechos y
+construyen sus proyectos y modelos de realización personal. Y contempla las
+conductas humanas posibles y las posiciones jurídicas de libertad que no están
+prohibidas por la Constitución o determinadas normas de inferior jerarquía.
+Interpretando lo anterior, ha dicho la
+Corte Constitucional que este derecho se vulnera *“cuando a la persona se le
+impide, en forma irrazonable, alcanzar o perseguir aspiraciones legítimas de su
+vida o valorar y escoger libremente las opciones y circunstancias que le dan
+sentido a su existencia y permiten su realización como ser humano”**[13]***.
+
+En síntesis, el derecho al libre
+desarrollo de la personalidad consagra una protección general de la capacidad
+que la Constitución reconoce a las personas para autodeterminarse, y con ello,
+de escoger pareja, contraer matrimonio, cesar la vida compartida y el vínculo
+conyugal y optar por un nuevo estado civil.
+
+5.2. La disposición demandada, al fijar un término de
+dos años para la invocación del divorcio, en efecto restringe en algún grado la
+potestad subjetiva de autodeterminación de las personas cónyuges que han optado
+por la separación definitiva de cuerpos con miras a la disolución del vínculo a
+través del divorcio. Lo anterior, porque lo(s) obliga a permanecer en
+matrimonio indeseado y le(s) impide contraer de nuevo con quien les plazca,
+limitación que puede afectar sus personales proyectos de realización individual
+en una materia fundamental como lo es la decisión de convivencia y la elección
+de estado civil.
+
+5.3. Sin embargo, la sola restricción de la potestad
+de autodeterminación no es sinónimo de inconstitucionalidad, menos cuando el
+Legislador se basó en disposiciones superiores para regular tales materias. Es
+menester examinar si la limitación del derecho cuenta con justificación
+constitucional.
+
+**6. Limitación del derecho del cónyuge,
+como ejercicio de la potestad de configuración legislativa en materia de
+divorcio y separación de cuerpos.**
+
+6.1. La legislación ha venido
+incorporando nuevas regulaciones en materia de divorcio y separación de
+cuerpos. Inicialmente, la norma civil no regulaba forma alguna de divorcio.
+Luego, la
+Ley
+1 de 1976 lo introdujo en el matrimonio civil con las respectivas causales de
+procedencia, entre las que estableció *“la separación de cuerpos decretada
+judicialmente que perdure más de dos años”*, advirtiendo que el divorcio *“solo
+podrá ser demandado por el cónyuge que no haya dado lugar a los hechos que lo
+motivan”* (Ley 1/76; CC, arts. 154 y 156). Posteriormente, tras
+la vigencia de la Constitución de 1991, la
+Ley 25/92 -artículo 6, numeral 8- agregó que la separación de cuerpos puede
+ser *“de hecho”* y no solo judicialmente decretada, permitiendo que la
+decisión de uno de los cónyuges -o ambos- de cesar la convivencia marital se
+erija en causal de divorcio con el transcurso del tiempo. Al
+declarar exequible la expresión *“o de hecho”* del artículo 6, numeral 8
+de la Ley 25/92, y con ello principalmente la posibilidad de que el cónyuge
+separado invoque la interrupción de la vida en común, la
+Corte Constitucional dijo: *“En consecuencia, la expresión en
+estudio en cuanto permite a uno de los cónyuges invocar la interrupción de la
+vida conyugal, por más de dos años, para obtener una sentencia de divorcio, no
+contraría sino que desarrolla debidamente la
+Constitución Política, porque los cónyuges que no logran convivir demuestran
+por este solo hecho el resquebrajamiento del vínculo matrimonial…”* (C-1495/00)*.*
+
+6.2. La
+Asamblea Nacional Constituyente de 1991 -CP, art. 42- decidió que corresponde
+al Legislador, a través de la ley civil, regir entre otros aspectos: *“las
+formas del matrimonio”*; *“la edad y capacidad para contraerlo”*; *“los
+deberes y derechos de los cónyuges”*; *“su separación”* y *“la
+disolución del vínculo”* matrimonial, y *“lo relativo al estado civil de
+las personas”*.
+
+A su vez, la
+Constitución Política fijó unos principios y parámetros
+generales que enmarcan el ejercicio de la potestad legislativa en materia de
+familia y matrimonio, como los siguientes: la familia es *“el núcleo
+fundamental de la sociedad”* (CP; art. 42.1); La *“protección integral de
+la familia”* es deber del Estado y la sociedad (CP, art 42.2); la familia se
+constituye *“por la decisión libre de un hombre y una mujer de contraer
+matrimonio”* (CP, art. 42.1); las *relaciones familiares* deben
+regularse, basadas en *“la igualdad de derechos y deberes de la pareja”* y
+en *“el respeto recíproco”* entre todos sus integrantes (art. 42.4, CP);
+deberá tenerse en cuenta que la *“honra, la dignidad y la intimidad de la
+familia son inviolables”* (art. 42.3, CP) y que *“cualquier forma de
+violencia en la familia se considera destructiva de su armonía y unidad”* y
+debe ser sancionada por la ley (art. 42.5, CP); en materia de paternidad y
+maternidad, el Congreso de la
+República está compelido a reglamentar la progenitura *“responsable”*
+(art. 42-7, CP); y respecto de los efectos civiles derivados del divorcio, la
+ley civil debe regularlos para *“todo matrimonio”* (art. 42-11, CP). En
+igual sentido, la
+Convención Americana de Derechos Humanos -art. 17.4- reconoce en el Legislador
+la responsabilidad de tomar *“medidas apropiadas para
+asegurar la igualdad de derechos y la adecuada equivalencia de
+responsabilidades de los cónyuges”*, *“en cuanto al matrimonio”*, *“durante
+el matrimonio”* y *“en la disolución del matrimonio”*.
+
+Se observa que mientras la familia y el
+matrimonio son objeto de desarrollos constitucionales a través de normas
+consagratorias de principios jurídicos y valores sociales, la *“separación”*
+y la *“disolución del vínculo”* le está atribuida al Congreso de la
+República sin que la
+Constitución Política preestablezca causales, términos o supuestos fácticos
+específicos. Así, en materia de causales de divorcio, de separación
+de los cónyuges o del estado civil de los mismos, el margen de
+configuración que expresamente le asigna el Constituyente al Legislador es
+bastante amplio, exento de precisas regulaciones constitucionales que
+prefiguren la tarea legislativa.
+
+6.3. Al partir de la separación de cuerpos para la
+invocación del divorcio, el Legislador dispuso esta consecuencia jurídica en
+claro desarrollo de su potestad de configuración. Y al cualificar el supuesto
+normativo como la separación *“que haya perdurado por más de dos años”*,
+también actuó en el margen de configuración amplia que la
+Constitución le ha reconocido en el inciso 6 del artículo 42 constitucional
+para regular la *“separación y la disolución del vínculo”.*
+
+6.4. Con todo, la titularidad
+de la potestad legislativa y la atribución constitucional de un amplio margen
+de configuración, no son suficientes para concluir en la constitucionalidad de
+la expresión normativa demandada. En sentencia C-1037 de 2003, la
+Corte Constitucional expresó*: “**el Constituyente deja
+librado al Congreso un gran espacio de configuración legislativa para implantar
+las mencionadas causales, al no establecer directrices específicas para
+desarrollar esa materia. Empero, esa autorización no debe entenderse como una
+habilitación para que desconozca derechos, principios y valores reconocidos por
+la propia Carta Política, debido a que estos sirven de fundamento y de límite a
+toda la actividad legislativa”.* Así, es necesario
+precisar, adicionalmente, si tal limitación es constitucionalmente
+justificable.
+
+**7. Fundamentación, finalidad,
+razonabilidad y proporcionalidad en la limitación del derecho fundamental** **al
+libre desarrollo de la personalidad.**
+
+**7.1. Fundamentación constitucional de la
+restricción del derecho al libre desarrollo de la personalidad.**
+
+7.1.1. El derecho al libre desarrollo de la
+personalidad no es un derecho absoluto: es una potestad subjetiva,
+constitucional y legalmente restringible. La propia Constitución admite su
+acotamiento concretado en “*los derechos de los demás”* y en el *“orden
+jurídico”*. Interpretando lo anterior, ha dicho la
+Corte Constitucional que este derecho se vulnera *“cuando a la persona se le
+impide, en forma irrazonable, alcanzar o perseguir aspiraciones legítimas de su
+vida o valorar y escoger libremente las opciones y circunstancias que le dan
+sentido a su existencia y permiten su realización como ser humano”**[14]***,
+y, por consiguiente, *“…las restricciones de las autoridades al artículo 16,
+para ser legítimas, no sólo deben tener sustento constitucional y ser
+proporcionadas sino que, además, no pueden llegar a anular la posibilidad que
+tienen las personas de construir autónomamente un modelo de realización
+personal, por cuanto estarían desconociendo el núcleo esencial de este derecho”**[15]**.*
+
+7.1.2. El establecimiento del término de *“más de
+dos años”* para que la separación de cuerpos pueda ser aducida como causal
+de divorcio, se ha hecho en nombre de *“derechos de los demás”* -del
+cónyuge remiso o de los hijos en caso de haberlos, y aún de terceros- por una
+norma legal que integra el *“orden jurídico”* regente. Tal afectación se
+justifica, inicialmente, al haber sido impuesto por el ordenamiento legal, en
+consideración a los derechos ajenos cuya protección se persigue.
+
+7.1.3. Sin embargo, ni la propia intervención
+jurídica del poder en el ámbito de la autodeterminación puede, en caso alguno,
+vaciar de contenido este derecho, ni retraer ilegítimamente su ejercicio: debe
+procurar una finalidad constitucional válida y responder a un criterio de
+razonabilidad y proporcionalidad en relación con el derecho al libre desarrollo
+de la personalidad. Por eso reitera la Corte: *“**El
+margen de configuración le permite al Congreso elegir la política legis­lativa;
+los fines específicos que se quieran alcanzar y los medios adecuados parar
+ello, sin desconocer los mínimos de protección ni adoptar medidas irrazonables
+o desproporcionadas”**[16]***.
+
+**7.2. Finalidad constitucional de la medida
+legislativa -exigencia de dos años de separación de cuerpos para ser invocada
+como causal de divorcio-.**
+
+7.2.1. La
+Constitución Política (art. 42.1) señala el matrimonio como una institución
+principal que da origen a la familia. La familia, a su vez, *“es el núcleo
+fundamental de la sociedad”* (CP, art. 42.1) y el Constituyente de 1991
+responsabiliza al Estado y a la sociedad de garantizar *“la protección
+integral”* de la misma (CP, art. 42.2), en cumplimiento de lo cual la
+regulación de las relaciones matrimoniales deben apuntar a la preservación *“de
+su armonía y unidad”*, la *“igualdad de derechos y deberes de la pareja”*
+y *“el respeto recíproco”* entre sus miembros (CP, art. 42.3). Así, la
+familia, su integridad, unidad y esencialidad, son valores y principios
+constitucionales a los que apunta el matrimonio como modo de constitución de
+ella.
+
+7.2.2. Definido el específicamente el matrimonio como *“un
+contrato solemne por el cual un hombre y una mujer se unen con el fin de vivir
+juntos, de procrear y auxiliarse mutuamente”* (C.C., art. 113), se destaca
+como un acuerdo de voluntades encaminado a: (i) la unión o comunidad de vida de
+los contrayentes, que incluye la satisfacción de sus recíprocas necesidades
+sexuales y afectivas; (ii) la procreación, crianza y educación de la prole; y
+la ayuda y auxilio recíproco en las contingencias materiales y sociales de la
+vida en común. La comunidad de vida en que se basa el matrimonio es expresión
+de la *“unidad”* familiar a que alude el artículo 42.3 superior como valor
+constitucional; y la procreación y crianza de los hijos tiene fundamento
+constitucional en la regulación constitucional sobre el derecho de la pareja a *“decidir
+libre y responsablemente el número de sus hijos”* y a *“sostenerlos y
+educarlos mientras sean menores o impedidos”* (CP, 42.5). De este modo, la
+protección constitucional a la familia guarda una relación necesaria con el matrimonio,
+no solo como forma solemne de constituirla, sino como la institución que, al
+comprometer relaciones maritales y filiales, concurre a la realización del
+mandato constitucional de *“protección integral de la familia”*.
+
+7.2.3.
+La naturaleza de los efectos personalísimos derivados del matrimonio y de su
+carácter constitutivo de familia, explica la doble condición del matrimonio
+como contrato y como institución. En cuanto lo primero, la ley civil basa su
+existencia en la voluntad libre de contraerlo; respecto de los segundo, como
+institución o estado, el matrimonio se configura con una serie de normas de
+orden público, inmodificables por las partes, relativas principalmente a la
+regulación de sus efectos. En ese marco de cláusulas imperativas limitantes de
+la autonomía de la voluntad de los contrayentes, se destaca la improcedencia de
+disposiciones que apunten a la fijación de términos o condiciones resolutorias
+del vínculo conyugal, en la medida en que los fines del mismo, como el proyecto
+de vida en común de los contrayentes y la formación y cuidado de los hijos que
+puedan existir, demandan una vocación de estabilidad del matrimonio, sin
+perjuicio de su eventual disolución en los términos de ley. Así, de las
+comunidades de vida -solemnes o de hecho- llamadas a constituir una familia
+-entre parejas heterosexuales u homosexuales[17]-, y específicamente del
+matrimonio, se predica una vocación hacia la permanencia de la unión, expresada
+en normas imperativas que escapan a la voluntad de las personas, que en modo
+alguno entrañan su indisolubilidad.
+
+7.2.4.
+En suma, el matrimonio no es un fin en sí mismo, sino una forma de constitución
+de familia, a la que la Constitución califica de núcleo social fundamental y
+sujeto de la protección especial el Estado. La disposición demandada -la
+prolongación por más de dos años de la separación de cuerpos para erigirse en
+causal de divorcio- apunta a la defensa del matrimonio de las crisis
+coyunturales que naturalmente lo rodean, disponiendo que la separación de
+cuerpos sea una oportunidad de reflexión de la decisión definitiva de
+disolución del vínculo y, a la vez, un tiempo de preparación de los efectos que
+apareja un virtual divorcio respecto de los hijos, de los bienes sociales, de
+terceros y de los propios cónyuges, esto es, de la institución familiar que la
+Constitución privilegia como *“núcleo fundamental de la sociedad”*,
+constituyendo una forma de “protección integral” de la misma. Desde esta
+perspectiva, encuentra la Corte que la disposición constitucional persigue un
+fin constitucionalmente válido y declarado por el propio Constituyente.
+
+**7.3. Proporcionalidad y razonabilidad de
+la limitación del derecho.**
+
+7.3.1. Si bien la protección de la unidad
+familiar y de la estabilidad del matrimonio pueden lograrse a través de la
+educación, la promoción de una cultura de tolerancia y respeto, el
+asesoramiento y acompañamiento a la familia, entre otros. Con todo, considera la
+Corte que la regla establecida en la causal acusada es un mecanismo que, a más
+de ser idóneo para el logro de fines constitucionalmente válidos, es
+determinante para estructuración de una decisión responsable de
+restablecimiento o disolución del vínculo conyugal. El paso del tiempo permite
+la evaluación ponderada por los cónyuges de los conflictos surgidos en la
+convivencia y, en todo caso, la mejor previsión y preparación de las
+consecuencias que el mismo tiene frente a las relaciones familiares, los hijos,
+los bienes, los proyectos de vida. De allí, la razonabilidad de la medida restrictiva.
+
+7.3.2. Frente a la proporcionalidad en sentido
+estricto de la medida, es pertinente una mirada a las consideraciones que el
+Congreso de la Republica tuvo en cuenta en la expedición de la
+Ley 25 de 1992 y en cuya ponencia para primer debate de Senado, se dijo: *“Somos
+conscientes desde luego que ese avance legislativo tiene que hacerse teniendo
+en cuenta la realidad cultural del país, donde juegan papel preponderante las
+creencias religiosas de las mayorías colombianas. De allí que en lo atinente a
+las causales de divorcio proponemos introducir algunas modificaciones que no
+pueden considerarse, en manera alguna, revolucionarias; se trata, simplemente,
+de atemperar la realidad colombiana (sic) las causales que en la gran mayoría
+los países del mundo están hoy vigentes, cabalmente porque la civilización así
+lo ha considerado*”[18].
+Aquí se destaca que la disposición vigente demandada representó un avance
+significativo respecto del régimen anterior de causales de divorcio establecido
+en la Ley 1 de 1976: la norma posterior acusada, permitió que,
+sin alegaciones de culpabilidad, cualquiera de los cónyuges pueda tramitar su
+divorcio a partir de la cesación de convivencia con su pareja, sujeto en todo
+caso a su prolongación por más de dos años. En seste caso, el Legislador permitió
+la expansión del derecho a la libre disolución del vínculo matrimonial en el
+marco de las regulaciones imperativas que protegen el matrimonio y
+la familia, con respeto por la dignidad de la pareja que en algún momento
+acordó su entrega incondicional y permanente en matrimonio.
+
+7.3.3. La restricción establecida en la causal acusada
+busca compatibilizar valores y principios constitucionales dirigidos a la
+protección de la familia con el derecho de libre desarrollo de la
+personalidad: de una parte, despliega la obligación constitucional de la
+sociedad y del Estado de garantizar la protección integral de la familia a
+través de una unión matrimonial relativamente estable; de otra parte, consagra
+la posibilidad reconocida a cualquiera de los cónyuges de obtener el divorcio a
+través de la separación de cuerpos, luego de transcurrido el término legal.
+
+En efecto, de negarse la posibilidad de la separación
+de hecho por la decisión personal de cualquiera de los cónyuges, o de haberse
+extendido la exigencia temporaria de la separación de cuerpos, sin disolución
+de vínculo, a un lapso tan dilatado que imposibilitara o dificultara
+drásticamente la posibilidad real y existencial de establecer nuevas relaciones
+sentimentales y organizar una vida de pareja, se estaría realizando la
+finalidad constitucional de protección de la familia y la unidad conyugal con
+detrimento del derecho de elección del estado civil, arrojando sobre el derecho
+de autodeterminación una carga desproporcionada que reduciría drásticamente su
+ámbito de realización: en ambos casos, la restricción hubiera sido desmesurada
+y contraria a la regla de proporcionalidad de la medida. Del mismo modo, la
+consagración del divorcio unilateral e inmediato por la mera decisión de
+separación de cuerpos a cargo de alguno de los cónyuges -efecto que
+sobrevendría a una decisión de inexequibilidad del término de dos años-, podría
+introducir niveles significativos de desprotección de la institución
+matrimonial y de la familia como núcleo de la sociedad.
+
+7.4.4. Ha sido el propio Legislador quien, en
+ejercicio de su potestad de configuración, realizó con la expedición de la
+Ley 25/92 un ejercicio de ponderación para conciliar la finalidad
+constitucional y el derecho fundamental, visto el contenido del derecho en
+cuestión. Es importante insistir en que el sacrificio del derecho contemplado
+en la disposición, ¡es temporal! No se suprime la posibilidad de que, por la
+decisión libre de uno de los cónyuges -o de ambos- proceda el divorcio. Al
+contrario, difiere esa facultad en el tiempo, abriendo un compás de espera para
+su concreción definitiva y pudiendo acudir a ella una vez culminen los dos años
+de separación. Como lo ha planteado esta Corporación, [19] no se
+puede obligar a los cónyuges a mantener un vínculo matrimonial a perpetuidad en
+contra de su voluntad e interés, puesto que estaríamos frente a la vulneración
+a la dignidad humana y del principio al libre desarrollo de la personalidad; la
+normatividad impugnada, lejos de atar a los cónyuges definitivamente, la ley
+les abre un camino para la realización, a breve plazo, de su decisión de
+reconstruir su convivencia u optar por la asunción de un destino de vida
+diferente. Por ello, esta Corte estima conducente la restricción temporal,
+adoptada por la ley, tendiente a la protección de la unidad familiar y a
+procurar razonablemente la estabilidad del matrimonio, sin negación ni
+menoscabo fundamental de su derecho de autodeterminación conyugal y familiar.
+
+7.4.5. En conclusión, la limitación transitoria o
+temporal impuesta por la disposición acusada al derecho al libre desarrollo de
+la personalidad, no es una medida que vacíe o anule la dignidad o el derecho
+del cónyuge a optar por un nuevo estado civil como proyecto de vida, ni representa
+una restricción desproporcionada de su autonomía para elegir libre y
+responsablemente el estado civil que le plazca u optar por la conformación de
+una nueva relación sentimental y una nueva familia.
+
+**8. Razón de la decisión de
+constitucionalidad.**
+
+8.1. La disposición demandada, al fijar un término de
+dos años de separación de cuerpos para la invocación del divorcio, restringe en
+algún grado la potestad subjetiva de autodeterminación de los cónyuges que han
+optado por la separación definitiva de cuerpos con miras a la disolución del
+vínculo a través del divorcio.
+
+8.2. Tal limitación legal se basó en disposiciones
+superiores regulatorias de las materias del divorcio y la separación. De una
+parte, la
+Constitución Política confía al Legislador la regulación de la disolución del
+vínculo y la separación de cuerpos, y con ello, de las condiciones -por ejemplo
+de tiempo- para que esta separación pueda erigirse en causal de divorcio; de
+otra parte, la Constitución admite la restricción del libre desarrollo de la
+personalidad, impuesta en consideración al derechos de los demás, por el
+orden jurídico.
+
+8.3. La disposición
+demandada -la prolongación por más de dos años de la separación de cuerpos para
+erigirse en causal de divorcio- apunta a la realización de principios y valores
+declarados y privilegiados por la
+Constitución Política: la protección integral de la familia como núcleo
+esencial de la sociedad, de su unidad, y del matrimonio como forma de
+constitución de aquella, y la protección de los hijos, de los intereses de
+los propios cónyuges y de terceros. Son fines constitucionalmente válidos y
+justificatorios de la restricción transitoria al derecho de los cónyuges.
+
+8.4.
+La exigencia de los dos años de separación corporal de los cónyuges para su
+invocación como causal de divorcio, es una limitación temporaria y no una
+medida que vacíe o anule la dignidad o el derecho del cónyuge separado, ni
+representa una restricción desproporcionada de su autonomía para elegir libre y
+responsablemente el estado civil que le plazca u optar por la conformación de
+una nueva relación sentimental o de familia.
+
+Por
+lo anterior, se declarará la constitucionalidad de la disposición normativa
+demandada.
+
+**III.
+DECISIÓN.**
+
+En mérito de lo expuesto,
+la Corte Constitucional de la
+República de Colombia, administrando justicia en nombre del pueblo y por
+mandato de la Constitución,
+
+**RESUELVE:**
+
+**Primero:** Declarar **EXEQUIBLE**
+el aparte acusado del numeral 8 del artículo 154 del Código Civil, por el cargo
+analizado.
+
+Cópiese, notifíquese, comuníquese, insértese en la
+Gaceta de la Corte Constitucional, cúmplase y archívese el expediente.
+
+JUAN
+CARLOS HENAO PÉREZ
+
+Presidente
+
+MARIA
+VICTORIA CALLE CORREA
+
+Magistrada
+
+MAURICIO
+GONZALEZ CUERVO
+
+Magistrado
+
+GABRIEL
+EDUARDO MENDOZA MARTELO
+
+Magistrado
+
+JORGE
+IVAN PALACIO PALACIO
+
+Magistrado
+
+NILSON
+PINILLA PINILLA
+
+Magistrado
+
+JORGE
+IGNACIO PRETELT CHALJUB
+
+Magistrado
+
+HUMBERTO
+ANTONIO SIERRA PORTO
+
+Magistrado
+
+LUIS
+ERNESTO VARGAS SILVA
+
+Magistrado
+
+MARTHA
+VICTORIA SACHICA MENDEZ
+
+Secretaria
+General
+
+---
+
+[1]
+Folio 47 cuaderno ppal.
+
+[2]
+En los folios 67 a 72 cuaderno principal, se encuentran las intervenciones de
+los ciudadanos Verónica Muriel Carrioni y Laura Jiménez Cortes.
+
+[3]
+Concepto No 5156, recibido en la
+Corte Constitucional el 24 de mayo de 2011. Folios. 98
+a 107 cuaderno ppal.
+
+[4]
+“Las relaciones sexuales
+extramatrimoniales de uno de los cónyuges.”
+
+[5]
+“El grave e injustificado incumplimiento por parte de alguno
+de los cónyuges de los deberes que la ley les impone como tales y como padres.”
+
+[6]
+“Los ultrajes, el trato cruel y los maltratamientos de obra.”
+
+[7]
+“La embriaguez habitual de uno de los cónyuges.”
+
+[8]
+“El uso habitual de sustancias alucinógenas o
+estupefacientes, salvo prescripción médica.”
+
+[9] “Toda conducta de uno de los cónyuges tendientes a
+corromper o pervertir al otro, a un descendiente, o a personas que estén a su
+cuidado y convivan bajo el mismo techo.”
+
+[10]
+“Toda enfermedad o
+anormalidad grave e incurable, física o síquica, de uno de los cónyuges, que
+ponga en peligro la salud mental o física del otro cónyuge e imposibilite la
+comunidad matrimonial.”
+
+[11]
+“La separación de cuerpos, judicial o de hecho, que haya
+perdurado por más de dos años.”
+
+[12]. “El consentimiento de
+ambos cónyuges manifestado ante juez competente y reconocido por éste mediante
+sentencia.”
+
+[13]
+Sentencia T- 429 de 1994.
+
+[14]
+Sentencia T- 429 de 1994.
+
+[15]
+Sentencia C-309 de 1997.
+
+[16]
+Sentencia C- 507 de 2004.
+
+[17]
+Ver sentencia C-577 del 26 de julio de 2011.
+
+[18]
+Historia de las Leyes. Senado de la
+República, legislatura 1992. Tomo VI. pág. 42.
+
+[19]
+Sentencia C- 985 de 2010.

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1692_2013",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1692_2013.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1692_2013.html",
+      "sha256": "7447da2704486f43c1280a09b5c189a176f797ab4bd86d63c8ddad0431321e96",
+      "bytes": 139620,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:16-05:00"
+    }
+  ]
+}

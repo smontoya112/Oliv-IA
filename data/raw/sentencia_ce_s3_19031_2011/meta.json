@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_ce_s3_19031_2011",
+  "url": "https://www.consejodeestado.gov.co/documentos/boletines/PDF/05001-23-25-000-1994-00020-01(19031).pdf",
+  "tipo": "pdf",
+  "partes": [
+    {
+      "archivo": "parte_000.pdf",
+      "url": "https://www.consejodeestado.gov.co/documentos/boletines/PDF/05001-23-25-000-1994-00020-01(19031).pdf",
+      "sha256": "ae1b8f2f09a446ff1442faead1555ecce2014c539772ca0f605a3e9277eb18a9",
+      "bytes": 390749,
+      "content_type": "application/pdf",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:29:09-05:00"
+    }
+  ]
+}

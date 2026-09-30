@@ -1,0 +1,25 @@
+{
+  "doc_id": "ley_640_2001",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0640_2001.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0640_2001.html",
+      "sha256": "2f6b93e408799ecf992f469d990a1508473d1810a763a7662d47f959de0f01cb",
+      "bytes": 82689,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:26:06-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0640_2001_pr001.html",
+      "sha256": "07c2c091f9238cc347f577496b5f31d61ff454892b0e316c070fc510e0721972",
+      "bytes": 34006,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:26:07-05:00"
+    }
+  ]
+}

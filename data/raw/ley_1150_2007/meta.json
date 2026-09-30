@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1150_2007",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1150_2007.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1150_2007.html",
+      "sha256": "0677dc1bd9b07fc3e77c80db7e4c76a4d1b6903289fb653f48530f238193fe62",
+      "bytes": 132716,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:08-05:00"
+    }
+  ]
+}

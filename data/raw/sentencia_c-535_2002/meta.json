@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-535_2002",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2002/C-535-02.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2002/C-535-02.htm",
+      "sha256": "58d5553496cca9108a8c2bfc2604865132207a12f6ba22a71bd402ba8c80de27",
+      "bytes": 95244,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:22-05:00"
+    }
+  ]
+}

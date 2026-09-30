@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-134_2019",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-134-19.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-134-19.htm",
+      "sha256": "dd518e04dc3d6ef48c223b1efe75fb047192aeb71052ff6701ca8401c54b3ec1",
+      "bytes": 152882,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:24-05:00"
+    }
+  ]
+}

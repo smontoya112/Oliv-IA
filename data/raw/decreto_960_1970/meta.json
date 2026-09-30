@@ -1,0 +1,61 @@
+{
+  "doc_id": "decreto_960_1970",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970.html",
+      "sha256": "1f3d6e795aace628e5c7c196182fe72f08047b300d2798a9fd5aba88075bb491",
+      "bytes": 68989,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:28-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970_pr001.html",
+      "sha256": "0afbb4f89af41583b47bf684a0e569f32af56cbf8d299fdf4b832eb34ac2a877",
+      "bytes": 68558,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:30-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970_pr002.html",
+      "sha256": "32c80f5fec0de5a5c8b4771ac36c219c0c47700175db514cf86f1dca9b33494b",
+      "bytes": 62109,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:31-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970_pr003.html",
+      "sha256": "b9149c93507d1e11c42ff090ccd2d72319db85cba87b147963cedb25b45e5dc2",
+      "bytes": 71771,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:33-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970_pr004.html",
+      "sha256": "deb698fb4af00519df9de79d967410abac4f890c2963857733b4bb08663d1603",
+      "bytes": 67291,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:34-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970_pr005.html",
+      "sha256": "9c5267f1e7c93bb5075db7b9b229dc58414598f1ced3b8492e4877507f865ceb",
+      "bytes": 41889,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:36-05:00"
+    }
+  ]
+}

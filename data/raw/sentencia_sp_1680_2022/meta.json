@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_sp_1680_2022",
+  "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1680-2022(60875).pdf",
+  "tipo": "pdf",
+  "partes": [
+    {
+      "archivo": "parte_000.pdf",
+      "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1680-2022(60875).pdf",
+      "sha256": "cfd220418dcd5f5a208f8d01b56f9235db55f291c71bf4716ae81fcad5cc6d88",
+      "bytes": 439879,
+      "content_type": "application/pdf",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:55-05:00"
+    }
+  ]
+}

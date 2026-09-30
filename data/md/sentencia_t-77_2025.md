@@ -1,0 +1,1805 @@
+---
+{
+  "doc_id": "sentencia_t-77_2025",
+  "titulo": "Sentencia T-077 de 2025",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/T-077-25.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "familia"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "T-077",
+  "anio": 2025,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "T-77",
+    "2025"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2025/T-077-25.htm"
+  ],
+  "sha256_partes": [
+    "4ff50c5021f40cbf8e7c1e3fba39390dd4f3dfb45e736f2462c5e82cf26bc155"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 121224,
+  "n_articulos_detectados": 3,
+  "archivo_md": "md/sentencia_t-77_2025.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2025/T-077-25.htm -->
+T-077-25
+
+---
+
+**TEMAS-SUBTEMAS**
+
+**Sentencia T-077/25**
+
+**DERECHO A TENER
+UNA FAMILIA Y A NO SER SEPARADO DE ELLA**-Procede amparo constitucional con el fin
+de establecer una relación materno filial digna entre el menor y su madre
+
+**DERECHO A TENER
+UNA FAMILIA Y A NO SER SEPARADO DE ELLA**-Vulneración por traslado internacional de
+menor sin autorización de la madre
+
+*(El padre
+accionado) vulneró el derecho de Juana, madre del niño y ciudadana vietnamita,
+a tener una familia y a no ser separada de ella, al trasladar al menor de edad
+desde Vietnam a Colombia sin su autorización. Este acto rompió el vínculo
+directo entre la madre y el hijo, desconociendo la corresponsabilidad parental
+que les asiste a ambos. Además, resulta probable que la separación del niño de
+su madre haya generado en ella un perjuicio en su salud psicológica, lo que
+podría constituir un acto de violencia psicológica.*
+
+**DESISTIMIENTO DE
+TUTELA**-Improcedencia
+en sede de revisión
+
+**CARENCIA ACTUAL DE
+OBJETO POR HECHO SUPERADO**-Se dio contestación a derecho de petición
+
+**INTERÉS SUPERIOR
+DE LOS NIÑOS, NIÑAS Y ADOLESCENTES**-Contenido y alcance
+
+**INTERES SUPERIOR
+DEL NIÑO**-Triple
+dimensión
+
+**INTERÉS SUPERIOR
+DE LOS NIÑOS, NIÑAS Y ADOLESCENTES**-Garantía del desarrollo integral
+
+**DEBERES DE LOS
+PADRES DE FAMILIA**-Derechos
+y obligaciones para con los hijos
+
+**DERECHOS DE LOS
+NIÑOS, NIÑAS Y ADOLESCENTES A TENER UNA FAMILIA Y A NO SER SEPARADOS DE ELLA**-Prevalencia como
+expresión del principio del interés superior
+
+**DERECHO
+FUNDAMENTAL AL AMOR DEL NIÑO**-Jurisprudencia constitucional
+
+*(...) el derecho
+al amor de los niños implica (i) un deber de recepción de los padres en la
+relación con sus hijos en su calidad de maestros de la vida, (ii) el respeto de
+los niños, como seres humanos, quienes deben ser escuchados y tenidos en cuenta
+en las decisiones que los afecten y con el ideal de potencializar su
+conciencia, la inmensa fuerza de la naturaleza en su formación y su identidad,
+(iii) el desamor e incluso la animadversión que siente un padre o una madre por
+su hijo no lo libera de sus obligaciones de protección y cuidado y (iv) no es
+posible que las autoridades administrativas adopten decisiones que den lugar a
+situaciones anormales de tristeza. Se trata de un derecho con el poder de
+transformar ciertas relaciones jurídicas.*
+
+**DERECHO AL DEBIDO
+PROCESO E INTERÉS SUPERIOR DE LOS NIÑOS, NIÑAS Y ADOLESCENTES**-Deber de
+diligencia en el trámite de verificación de derechos por posible violencia
+intrafamiliar
+
+**CUSTODIA Y CUIDADO
+PERSONAL DE HIJO MENOR**-Ejercicio desde un enfoque constitucional que atiende
+el interés superior de los niños, niñas y adolescentes
+
+*(...) importancia
+de considerar el principio del interés superior de los niños y las niñas en las
+decisiones de custodia y cuidado personal... reglas aplicables a estos
+procesos: (i) No opera de manera automática y mecánica, sino que se debe
+valorar objetivamente la situación para confiar ese deber a quienes estén en
+condiciones de proporcionar el bienestar y desarrollo integral del niño, niña y
+adolescente; (ii) en cada caso se deben analizar las circunstancias y
+situaciones favorables en las condiciones en que se encuentre el menor de edad
+en un momento dado y valorar si el otorgamiento del cuidado y custodia puede
+implicar eventualmente una modificación desventajosa de dicho estado; (iii) la opinión
+del menor de edad, en cuanto sea libre y espontánea y esté exenta de vicios en
+su consentimiento, constituye un instrumento apropiado e invaluable en la
+adopción de la respectiva decisión; y (iv) las aspiraciones y pretensiones de
+quienes abogan por la custodia del menor de edad, deben ceder ante el interés
+superior de los niños, niñas y adolescentes y el derecho que les asiste a tener
+una familia y no ser separados de ella.*
+
+**PROTECCION A
+MUJERES VICTIMAS DE VIOLENCIA Y LA PERSPECTIVA DE GENERO**-Protección
+constitucional e internacional
+
+**VIOLENCIA
+PSICOLOGICA**-Características
+
+**VIOLENCIA
+ECONOMICA**-Características
+
+**ADMINISTRACIÓN DE
+JUSTICIA CON PERSPECTIVA DE GÉNERO**-Debe orientar siempre las actuaciones de
+los operadores de justicia, armonizando los principios constitucionales y la
+especial protección otorgada a la mujer
+
+**PERSPECTIVA DE
+GÉNERO Y PREVALENCIA DEL INTERÉS SUPERIOR DE LOS NIÑOS, NIÑAS Y ADOLESCENTES**-Deber de las
+autoridades administrativas y judiciales en asuntos de familia
+
+**ADMINISTRACIÓN DE
+JUSTICIA CON PERSPECTIVA DE GÉNERO**-Forma de combatir la violencia contra la
+mujer
+
+*(...) la
+jurisprudencia constitucional ha reconocido la importancia de la perspectiva de
+género como una herramienta de análisis indispensable para administrar
+justicia, especialmente en casos que involucran situaciones de violencia contra
+las mujeres. Este enfoque también se aplica a los procesos de custodia, cuidado
+y visitas en los que se evidencie algún tipo de violencia para asegurar la
+igualdad y la protección de los derechos de las mujeres, tal como lo exige el
+ordenamiento jurídico colombiano y los estándares internacionales. Es
+fundamental reconocer las múltiples formas de violencia que afectan a las
+mujeres, incluyendo la violencia económica y psicológica, las cuales perpetúan
+dinámicas de control y dependencia que limitan su autonomía. Por ello, es
+necesario enfrentar estas prácticas para avanzar hacia una sociedad más equitativa.*
+
+**TRAMITE DE
+RESTITUCION INTERNACIONAL DE MENORES**-Marco normativo
+
+**CUSTODIA Y CUIDADO
+PERSONAL DEL MENOR**-Procedencia
+de la acción de tutela
+
+**DERECHO DE LOS
+NIÑOS A TENER UNA FAMILIA Y DESARROLLO INTEGRAL DE LOS MENORES**-Procedibilidad de
+la acción de tutela
+
+---
+
+**REPÚBLICA
+DE COLOMBIA**
+
+**CORTE
+CONSTITUCIONAL**
+
+**SENTENCIA
+T-077 DE 2025**
+
+**Referencia:** expediente T-10.523.164
+
+**Asunto:**
+Acción de tutela instaurada por *Juana*
+a nombre propio y en representación de su hijo, en contra de *Daniel*, el
+Ministerio de Relaciones Exteriores y otros.
+
+**Tema:** El
+ejercicio de la custodia y el cuidado personal de los hijos desde un enfoque
+constitucional.
+
+**Magistrado ponente:**
+
+José Fernando Reyes Cuartas.
+
+Bogotá, D.C, seis
+(6) de marzo de dos mil veinticinco (2025).
+
+La Sala Novena de Revisión de tutelas de la Corte
+Constitucional, integrada por la magistrada Natalia Ángel Cabo y los
+magistrados Juan Carlos Cortés González y José Fernando Reyes Cuartas, quien la
+preside, en ejercicio de sus competencias constitucionales y legales, profiere
+la siguiente
+
+**SENTENCIA**
+
+*Aclaración previa.* Debido a que este
+asunto se relaciona con la posible vulneración de los derechos fundamentales de
+un niño, el magistrado sustanciador emitirá dos versiones de esta providencia.
+Una, en la que se anonimizará el nombre del niño y de sus padres y será la versión
+que se dispondrá para el público. Otra, que contendrá los datos reales, la cual
+formará parte del expediente para conocimiento exclusivo de las partes[1].
+
+## **Síntesis de la decisión**
+
+1. A la Sala Novena de Revisión de
+Tutelas de la Corte Constitucional le correspondió examinar la acción de tutela
+promovida por la señora *Juana* en contra de *Daniel*, el Ministerio
+de Relaciones Exteriores, la Unidad Administrativa Especial Migración Colombia (en
+adelante Migración Colombia) y la Registraduría Nacional del Estado Civil al
+considerar vulnerado su derecho de petición y los derechos “a la familia, a la
+identidad, a la niñez y los enunciados en el artículo 44 de la C.N”[2] de su hijo.
+Tal violación habría ocurrido debido a que: (i) en enero de 2024 el particular
+accionado viajó de Vietnam a Colombia y se quedó residiendo en el país sin la
+autorización de la accionante. Situación que dio lugar a que la actora alegara
+una sustracción ilegal de su hijo, y (ii) las entidades accionadas no habían
+dado respuesta a las peticiones que presentó.
+
+2.
+Como cuestión
+previa se abordó la improcedencia del desistimiento de la acción de tutela
+cuando el expediente ya ha sido seleccionado por la Corte Constitucional y la configuración
+de la carencia actual de objeto por hecho superado frente al derecho de
+petición de la accionante.
+
+3. La Corte determinó que la solicitud
+de amparo superó los requisitos generales de procedencia. Para analizar el
+fondo de la controversia se refirió: i) al alcance del interés superior
+de las niñas y los niños en Colombia, al derecho a tener una familia y a no ser
+separado de ella; ii) el proceso de custodia y visitas de los
+hijos desde un enfoque constitucional que atiende el principio del interés
+superior de los niños, niñas y adolescentes; y iii) el enfoque de género en los
+procesos de custodia y visitas ante la posible configuración de violencia
+psicológica y violencia económica en contra de la mujer.
+
+4. La Sala Novena de
+Revisión concluyó que el señor *Daniel* vulneró el derecho fundamental del
+niño *Manuel* y la accionante a tener una familia y no ser separado de
+ella. Lo anterior porque este no obtuvo la autorización de la madre del menor
+de edad para viajar a Colombia y quedarse residiendo allí.
+
+5. Con el fin de proteger el
+derecho trasgredido, la Sala Novena de Revisión adoptó las siguientes
+decisiones:
+
+(i)
+Revocó
+parcialmente las sentencias de primera y segunda instancia proferidas por el
+Juzgado 38 Penal del Circuito de Conocimiento y la Sala de Decisión Penal del
+Tribunal Superior del Distrito Judicial, en las que se declaró improcedente el
+amparo solicitado. Y, en su lugar, amparóel derecho del niño *Manuel*
+y de la señora *Juana* a tener una familia y a no ser separado de ella.
+
+(ii)
+Ordenóal señor *Daniel*
+que, en el curso del proceso de custodia y visitas: (i) garantice una
+comunicación regular y adecuada entre el niño *Manuel* y su madre. Para
+ello, deberá coordinar con la accionante los horarios de comunicación, teniendo
+en cuenta la diferencia horaria entre Colombia y Vietnam, y asegurando que
+dicha comunicación sea efectiva y se desarrolle en un ambiente libre de
+cualquier tipo de violencia. Ambos
+deberán acordar las condiciones de las comunicaciones, priorizando el bienestar
+emocional del niño durante las mismas; (ii) junto a la accionante explore
+alternativas a las videollamadas que contribuyan al adecuado desarrollo del
+vínculo maternofilial, considerando la corta edad del niño y su capacidad para
+comprender las interacciones a través de una pantalla; (iii) garantice a la
+actora el acceso a información relevante sobre el bienestar del niño,
+incluyendo aspectos relacionados con su salud y educación; y (iv) explore la posibilidad
+de coordinar una visita conjunta entre él y el niño a Vietnam o una visita de
+la madre a Colombia, mientras se adelanta el proceso de custodia. Esto, con el
+fin de contribuir al fortalecimiento del vínculo con la madre, la cultura y el
+idioma de su lugar de nacimiento.
+
+(iii)
+Ordenó
+al Instituto Colombiano de Bienestar Familiar que: (i) en el marco de sus competencias realice un
+acompañamiento integral a la accionante durante el desarrollo del proceso de
+custodia y visitas ante el Juzgado 15 de Familia de Oralidad; (ii) forme parte
+activa del proceso, verificando en todo momento el respeto y garantía de los
+derechos del niño; para ello (iii) deberá remitir al juzgado informes
+periódicos sobre las condiciones del niño y cualquier situación que pueda
+afectar su bienestar físico, emocional o social. Teniendo en cuenta las
+declaraciones de la actora sobre las dificultades para mantener una
+comunicación adecuada con su hijo debido a los obstáculos interpuestos por el
+accionado, la entidad deberá (iv) facilitar y acompañar las videollamadas y
+encuentros entre *Juana* y *Manuel*.
+
+(iv)
+La
+Sala también le ordenó al
+Ministerio de Relaciones Exteriores que, en el ejercicio de sus competencias: (i) coordine con el Instituto
+Colombiano de Bienestar Familiar las acciones necesarias para asistir a la
+señora *Juana* en el proceso de custodia y visitas que se encuentra en
+curso en Colombia; (ii) facilite la cooperación judicial internacional en el
+caso incluyendo el enlace con las autoridades de Vietnam y la traducción de
+documentos; y (iii) brinde
+acompañamiento a la accionante para la comprensión de esta providencia, con el
+fin de garantizar su derecho de acceso a la justicia.
+
+(v)
+Instó
+al Juzgado 15 de Familia de Oralidad para que (i) adopte una decisión con perspectiva
+de género considerando las declaraciones de la accionante sobre las presuntas
+violencias que habría sufrido por parte del accionado; (ii) garantice que el
+interés superior del niño sea el criterio orientador de su decisión; (iii)
+valore de manera integral el informe de verificación de derechos remitido por
+el ICBF, que detalla las condiciones actuales del niño y la relación de este
+con su padre, así como las demás pruebas y declaraciones presentadas por *Daniel*;
+e (iv) imprima
+celeridad en el proceso de custodia y visitas teniendo en cuenta que la
+separación de la madre se ha prolongado durante más de un año.
+
+(vi)
+Advirtió
+al Juzgado 38 Penal del Circuito de Conocimiento y a la Sala de Decisión Penal
+del Tribunal Superior del Distrito Judicial para que, en lo sucesivo, se abstengan de
+incurrir en conductas que desconozcan los derechos de las mujeres y para que
+incluyan el enfoque de género en sus providencias siempre que corresponda.
+
+6. Finalmente, se
+confirmó parcialmente las sentencias de primera y segunda instancia en el
+sentido de declarar la configuración de la carencia actual de objeto por hecho
+superado frente al derecho de petición de la accionante porque las entidades
+accionadas dieron respuesta de fondo durante el trámite de la acción
+constitucional.
+
+# **I.****ANTECEDENTES**
+
+## **1.****Hechos**
+
+7. El 29 de mayo de 2024,
+la señora *Juana*,
+a nombre propio y en representación de su hijo, presentó acción de tutela en
+contra de *Daniel*, el Ministerio de Relaciones Exteriores, Migración
+Colombia y la Registraduría Nacional del Estado Civil. Consideró vulnerado su
+derecho de petición y los derechos “a la familia, a la identidad, a la niñez y
+los enunciados en el artículo 44 de la C.N” [3]
+de su hijo.
+
+8. El 14 de septiembre de
+2022 nació el hijo de la accionante y el accionado en la ciudad de Ho Chi Minh
+ubicada en Vietnam. La actora indicó que las autoridades vietnamitas le
+asignaron un registro civil de nacimiento en el que figura únicamente ella
+como madre del niño.
+
+9. La
+accionante señaló que durante 18 meses su hijo recibió todos los cuidados por
+parte de ella y de su familia. Manifestó que le brindó una alimentación
+equilibrada complementada con la lactancia materna e indicó que en Vietnam su
+hijo vivía en un espacio limpio y adecuado para su desarrollo y aprendizaje.
+
+10. Según
+los dichos de la actora, el 2 de enero de 2024, el señor *Daniel*, padre
+del niño de nacionalidad colombiana, lo sustrajo de Vietnam de manera ilegal y
+sin su consentimiento. Señaló que tuvo conocimiento de que el señor *Daniel*
+se encontraba en un viaje internacional con su hijo cuando la contactó la
+policía de Dubái para informarle que el menor de edad se encontraba en el
+aeropuerto de dicha ciudad.
+
+11. El 1 de febrero de
+2024, el señor *Daniel* convocó a la accionante a una audiencia de
+conciliación ante la Cámara Colombiana de Conciliación para acordar la
+custodia, las visitas y los alimentos de su hijo. El 22 de febrero siguiente se
+realizó la audiencia y allí el padre compartió un registro civil de nacimiento
+colombiano de su hijo del cual ella no tenía conocimiento[4].
+La accionante indicó que en ese documento se registró al menor de edad con el
+nombre de *Manuel* e indicó que con esta situación se vulneró el derecho a
+la identidad de su hijo. En la misma audiencia se buscó un acuerdo para el
+régimen de custodia y alimentación sin tener en cuenta que el accionado “lo
+sustrajo internacionalmente de forma presuntamente ilegal, sin mi
+consentimiento como su madre, modificando todo el contexto y la estabilidad
+familiar”[5].
+Sin embargo, en dicha diligencia no se llegó a ningún acuerdo.
+
+12. La actora agregó que
+desconoce cuál fue el procedimiento que adelantó el señor *Daniel* para
+ingresar a Colombia y para que el Ministerio de Relaciones Exteriores, a través
+del Consulado de Colombia en Hanói, Vietnam, expidiera el registro civil de
+nacimiento colombiano de su hijo. Por esta razón, el 27 de febrero de 2024, por
+medio de apoderado, presentó una petición ante dicha entidad en la que
+solicitó: (i) copia de la documentación aportada por el señor *Daniel*
+ante el Consulado, (ii) información sobre el procedimiento para registrar
+colombianos en el exterior y (iii) que le indicaran si era posible que
+únicamente el padre del niño se acercara a un consulado para registrarlo como
+su hijo.
+
+13. De
+otro lado, el 27 de febrero de 2024, por medio de apoderado, la actora presentó
+una petición ante la Registraduría Nacional del Estado Civil en la que solicitó:
+(i) la copia de la documentación que recibió la entidad por parte de la
+Cancillería y el Consulado de Hanói en Vietnam para expedir el registro civil
+de nacimiento de su hijo y (ii) los detalles sobre el procedimiento para que
+los registros de colombianos tramitados ante consulados de Colombia en el
+exterior surtan efectos.
+
+14. Asimismo, en esa misma
+fecha, a través de apoderado, la señora *Juana* presentó una petición ante
+Migración Colombia en la que solicitó: (i) copia de la documentación presentada
+ante la entidad el 2 de enero de 2024 por el señor *Daniel* para efectuar
+el ingreso de su hijo a Colombia y (ii) detalles sobre el procedimiento vigente
+para permitir el ingreso al país de un menor de edad que no va acompañado de
+sus dos padres.
+
+15. El 4 de marzo de 2024,
+Migración Colombia emitió respuesta en la que indicó que el apoderado de la
+actora no contaba con poder para solicitar dicha información.
+
+16. En respuesta del 11 de
+marzo de 2024, la Registraduría Nacional del Estado Civil le indicó a la actora
+que la entidad no tenía competencia para autorizar inscripciones en el registro
+civil. Igualmente, le explicó que el Decreto 356 de 2017 establece un
+procedimiento para la inscripción extemporánea de los nacimientos ocurridos en
+el extranjero.
+
+17. El 15 de marzo de
+2024, el Ministerio de Relaciones Exteriores respondió la petición de la actora
+y le informó que la documentación aportada por el señor *Daniel*
+únicamente se le podía suministrar a las personas previstas en el artículo 13
+de la Ley 1581 de 2012[6].
+En lo referente al procedimiento del registro civil le indicó que este se
+realiza de conformidad con la Ley 43 de 1993[7].
+
+18. A
+raíz de las respuestas emitidas por Migración Colombia y el Ministerio de
+Relaciones Exteriores, la accionante presentó nuevamente las peticiones a
+nombre propio ante estas dos entidades. Manifestó que el 19 de abril de 2024,
+el ministerio respondió nuevamente con una evasiva y la requirió para enviar
+una carta firmada por ella debidamente legalizada ante las autoridades
+vietnamitas y acompañada de copia de documento de identidad y pasaporte
+vigente. Señaló que esta situación representa
+una violación al debido proceso, pero no explicó los motivos por los que no
+atendió el requerimiento de la entidad.
+
+19. Por
+su parte, Migración Colombia le respondió que el niño *Manuel* fue
+registrado en el sistema y que por ser menor de edad colombiano al momento de
+ingresar al país no se le solicitaron más documentos.
+
+20. La
+accionante indicó que las entidades ante las cuales presentó las peticiones
+impusieron obstáculos que le impiden conocer los hechos del caso y recuperar a
+su hijo, lo que considera una violación del derecho a la libertad. Además,
+señaló que *Daniel* continúa sin suministrarle información sobre la
+ubicación geográfica del niño y ha limitado su contacto con ella. Finalmente, indicó que en las
+videollamadas que ha realizado con su hijo y el señor *Daniel*, ha podido observar que cambian de
+residencia con frecuencia, lo cual afecta la estabilidad del niño.
+
+21. En consecuencia,
+solicitó que: (i) se ordene al Ministerio de Relaciones Exteriores, la
+Registraduría Nacional del Estado Civil y Migración Colombia dar respuesta de
+fondo a las peticiones presentadas y (ii) se ordene al señor *Daniel*
+restituir al menor de edad a su país de origen de manera inmediata[8].
+
+## **2.****Trámite procesal**
+
+22. El 30 de mayo de 2024,
+el Juzgado 38 Penal del Circuito de Conocimiento avocó el conocimiento de la
+acción de tutela y le corrió traslado al Ministerio de Relaciones Exteriores, a
+Migración Colombia y a la Registraduría Nacional del Estado Civil. Además,
+vinculó al señor *Daniel* y ordenó “enterar” al Instituto Colombiano de
+Bienestar Familiar – ICBF- para lo de su competencia.
+
+23. Las entidades y el
+particular accionado dieron las siguientes respuestas:
+
+| | |
+| --- | --- |
+| ***Tabla 1. Respuesta de las accionadas y vinculadas*** | |
+| **Interviniente** | **Contenido de la intervención** |
+| *Registraduría Nacional del Estado Civil* | Informó que el registro civil del niño se encuentra inscrito en el Consulado de Colombia en Hanoi, Vietnam con el nombre de *Manuel*. Señaló que el 31 de mayo de 2024 respondió la petición de la actora en la que le envió la documentación del expediente que la entidad recibió por parte del Consulado de Hanói para el registro del menor de edad. Además, le indicó que el asunto se encuentra regulado por los Decretos 126 de 1960 y 356 de 2017. Finalmente, le informó que, de conformidad con la normatividad vigente, el padre del niño se puede acercar a un consulado de Colombia en el exterior para registrarlo como su hijo. Por estas razones, solicitó que se nieguen las pretensiones de la acción de tutela. |
+| *La Unidad Administrativa Especial Migración Colombia* | Indicó que el 31 de mayo de 2024 respondió la petición de la actora. En esta le informó que el niño fue registrado en el sistema y que por ser menor de edad colombiano acompañado por uno de sus padres, no se solicitaron más documentos al momento de ingresar al país. Resaltó que el requisito de obtener previamente el permiso de la madre o el padre que no viaja con el menor de edad solo aplica para las salidas de Colombia. Señaló que en la respuesta adjuntó la copia de los pasaportes colombianos presentados por el señor *Daniel* y copia del procedimiento vigente en Migración Colombia para el ingreso de un menor de edad. De esta manera, indicó que se brindó respuesta de fondo a la accionante y solicitó declarar la carencia actual de objeto por hecho superado. |
+| *Daniel* | Manifestó que es el padre del niño y que fue el encargado de cubrir todos los gastos médicos durante el parto. Sostuvo que la actora obtuvo el registro civil de nacimiento de Vietnam a través de una serie de irregularidades en el proceso. Manifestó que esto dio lugar a que la actora “pudiera usar a *Manuel* con el presunto propósito de extorsionar”[9] ya que había privado arbitraria y expresamente al niño de su nacionalidad colombiana. Indicó que cuando la actora vivía en su casa él suplía las necesidades del niño como la salud, la alimentación y el servicio doméstico. Agregó que el registro civil de nacimiento colombiano reconoce a la accionante como la madre y se expidió a través de un proceso riguroso ante la entidad competente. De otro lado, señaló que en Vietnam la madre fue negligente con el niño y que iniciaría el proceso ordinario de custodia en Colombia. Manifestó que su hijo tuvo lactancia materna hasta los 9 meses y después de esto se comenzó a comprar leche de fórmula y alimentación complementaria. Detalló que el hogar en Vietnam se acercaba más a la cultura occidental dado que fue él quien diseñó en mayor medida la rutina del niño. Sobre la presunta sustracción ilegal del menor de edad, el señor *Daniel* informó que no era cierto porque el desplazamiento se realizó bajo la normatividad vigente en Vietnam y en Colombia. Señaló que en varias ocasiones le manifestó a la accionante la importancia de que su familia conociera al niño y le indicó fechas aproximadas para llevarlo a Colombia. Anotó que la señora *Juana* ejercía manipulación y amenazas de muerte en su contra. Por ello, en un momento que le correspondía estar con su hijo decidió desplazarse a Colombia y se lo informó a la actora por medio de un correo electrónico. Indicó que una vez se encontró en el país, su familia y su psicólogo le indicaron que no podía permitir que el niño regresara al ambiente donde vivía con su madre. Agregó que el 7 de noviembre de 2023, formuló denuncia en contra de la accionante por diferentes delitos de carácter nacional e internacional. Esto, toda vez que cuando le comunicó a la actora que debía salir de su casa en Vietnam, ella “desató una serie de calumnias e injurias en Vietnam y algunas redes sociales conectadas a Colombia, haciendo falta la verdad hasta el día de hoy”[10]. Señaló que actualmente el niño tiene una rutina saludable y que *Juana* debe ajustarse a ella. Aseguró que la actora no llama al niño en el horario en que él le indicó que podía hacerlo. Manifestó que la falta de información sobre la ubicación geográfica obedece única y exclusivamente a que teme por su vida debido a las reiteradas amenazas que la actora ha realizado en su contra. Finalmente, solicitó declarar improcedente la acción de tutela por no cumplir con el requisito de subsidiariedad, dado que en Colombia se prevé el mecanismo judicial ordinario para establecer la custodia, visitas y alimentos de un menor de edad. |
+| *Instituto Colombiano de Bienestar Familiar-ICBF-* | Indicó que le solicitó a la Oficina de Gestión de Servicios el registro de la petición en el Sistema de Información Misional “trámite de atención extraprocesal – Restitución Internacional” y el direccionamiento de la solicitud a la Subdirección de Adopciones de la entidad para su atención y trámite. |
+| *Juana* | Allegó escrito posterior en el que señaló que con la contestación del señor *Daniel* se evidencia que este ejerce y ejerció violencia económica sobre ella. Pues manipuló los hechos y la puso en situaciones difíciles en las que, por tener más poder adquisitivo que ella, tuvo un mejor control de las situaciones. Señaló que por esto y por la supervivencia de su hijo, se vio obligada a vivir bajo sus reglas y condiciones. Indicó que el niño fue registrado en el barrio del señor *Daniel* porque él dispuso su apartamento para que vivieran los tres. Sin embargo, señaló que ella se encargaba de comprar pañales, ropa, comida, productos de cuidado personal y juguetes. Indicó que, si bien el ritmo de la lactancia materna disminuye después de los seis meses, esto no significa que no se pueda complementar con alimentos como la leche de fórmula. Agregó que el actor realizó una serie de afirmaciones machistas ya que se “jacta de ser el único proveedor de alimentos, dejando de lado y desconociendo el proceso complejo y altamente valioso de la lactancia materna”[11]. Adicionalmente, señaló que el accionado mintió al decir que se encontraba en una situación de vulnerabilidad en Vietnam porque él vivía desde hace más de diez años en ese país y tenía un buen estatus económico. Añadió que las manifestaciones hechas sobre el registro civil de nacimiento de Vietnam son temerarias porque se limita a decirlas sin probarlas. La actora agregó que el accionado utilizó el registro civil de nacimiento como medio coercitivo ya que ella no quería cambiar su residencia a Bangkok, sino permanecer en Ho Chi Minh y fue en ese momento en que él le pidió registrar al niño solo bajo su nombre. Manifestó que en ese momento el accionado le indicó que “un hijo suyo de ninguna manera debería crecer en un ambiente como Vietnam, que lo condenaría al fracaso”[12]. Indicó que el accionado pretende desviar el problema jurídico planteado que es la sustracción ilegal del niño. Anotó que el hecho de que el señor *Daniel* le haya advertido sobre el viaje temporal a Colombia para conocer a su familia no equivale a la posibilidad de sustraer al niño, no regresarlo por meses y manifestar que se quedaría viviendo en dicho país. Por ello, indicó que un correo electrónico que informó el viaje cuando este ya ocurrió no se puede entender como equivalente a un acuerdo para sacar al menor de edad de Vietnam. De esta manera, considera que la sustracción fue abusiva e ilegal. Finalmente, respecto de la subsidiariedad señaló que al hacer la solicitud en la página web del ICBF para iniciar el procedimiento previsto para la sustracción ilegal internacional de menores de edad, dicha entidad no cuenta con la opción de solicitar un menor de edad desde Vietnam y por esta razón presentó la acción de tutela[13]. Adujo que ella se encuentra en situación de debilidad manifiesta porque no maneja el idioma español en que se adelanta el trámite y no tiene conocimiento sobre el ordenamiento jurídico colombiano[14]. |
+| *Ministerio de Relaciones Exteriores* | Guardó silencio. |
+
+## **3.****Sentencias objeto de revisión**
+
+24. *Sentencia de primera
+instancia*.
+En sentencia del 14 de junio de 2024, el Juzgado 38 Penal del Circuito de
+Conocimiento declaró la carencia actual de objeto por hecho superado frente al
+derecho de petición de la actora. De otro lado, declaró improcedente el amparo
+por no cumplir con el requisito de subsidiariedad frente a los derechos del
+niño. Consideró que las entidades accionadas respondieron de fondo el
+requerimiento de la accionante. En relación con el trámite de reintegro del
+menor de edad indicó que actualmente este se encuentra custodiado y protegido
+por su padre y que el niño no ingresó a Colombia bajo circunstancias de
+ilegalidad. Lo anterior porque en el registro civil de nacimiento colombiano se
+puede observar que el niño tiene los apellidos de sus dos progenitores y fue
+inscrito en el consulado de Colombia en Hanoi, Vietnam. Señaló que en caso de
+que la demandante quiera controvertir esta situación deberá aportar las pruebas
+ante la Fiscalía General de la Nación. Agregó que no se puede invadir la
+competencia de otras jurisdicciones y que este caso se trata de un asunto de
+familia y que, por estas razones, ofició al ICBF para que intervenga en los
+trámites del bienestar y el cuidado del niño.
+
+25. *Impugnación.* La accionante señaló
+que las tres entidades accionadas brindaron una respuesta de fondo y, por tanto
+“se comparte el argumento del despacho de que respecto de esas pretensiones se
+está ante un hecho superado”[15]. Frente a la pretensión
+dirigida en contra del señor *Daniel*, la
+accionante indicó que se debe flexibilizar el requisito de subsidiariedad
+porque se trata de los derechos de un menor de edad. Además, adujo que resulta
+desproporcionado permitir que ella y su hijo continúen separados mientras se
+adelantan los procesos administrativos o judiciales. Agregó que el ICBF no
+cuenta con una vía expedita mediante la cual una madre vietnamita pueda
+realizar la solicitud de reintegro de su hijo. De otro lado, señaló que la
+justicia ordinaria colombiana presenta dificultades y la duración de los
+procesos de custodia pueden durar hasta dos años. Considera que esto resultaría
+desproporcionado para que un niño de 24 meses de edad permanezca separado de su
+madre. Situación que ya se ha prolongado por siete meses. Por estas razones
+considera que se cumple con el requisito de subsidiariedad.
+
+26. *Sentencia de segunda
+instancia.*
+Mediante sentencia del 16 de agosto de 2024, la Sala de Decisión Penal del
+Tribunal Superior del Distrito Judicial confirmó el fallo de primera instancia.
+Señaló que *Juana* y *Daniel* son los padres del menor de edad y que
+la actora adjuntó únicamente el registro civil de nacimiento de Vietnam donde
+solo figura ella como madre y con la omisión de informar que el señor *Daniel*
+era el padre. Considera que con esto se resta credibilidad a su narrativa y se
+tiene como más posible la hipótesis del accionado. De otro lado, indicó que las
+entidades accionadas dieron respuesta de los procedimientos que realizaron para
+expedir el registro civil de nacimiento colombiano y para la entrada del niño
+al país. Por esta razón, no advirtió situaciones de urgencia que ameritaran la
+intervención del juez constitucional. En ese sentido, indicó que corresponde a
+las jurisdicciones de familia, penal y al ICBF adelantar los trámites de ley y
+solucionar el conflicto.
+
+## **4.****Pruebas que obran en el expediente**
+
+| | | |
+| --- | --- | --- |
+| ***Tabla 2*****: *Pruebas que obran en el expediente de tutela T-10.523.164*** | | |
+| **Oficio** | | **Archivo digital** |
+| 1 | Oficio del 15 de marzo de 2024- respuesta a derecho de petición Ministerio de Relaciones Exteriores | Expediente digital, archivo “*1234*”. |
+| 2 | Oficio del 31 de mayo de 2024- respuesta a derecho de petición de Migración Colombia | Expediente digital, archivo “*1234*”. |
+| 3 | Diferentes fotografías del niño, su padre y el lugar de residencia | Expediente digital, archivo “*1234*”; Expediente digital, archivo “*1234*”; Expediente digital, archivo “*1234*”. |
+| 4 | Factura de servicio médico | Expediente digital, archivo “*1234*”. |
+| 5 | Carné de salud de Vietnam | Expediente digital, archivo “*1234*”. |
+| 6 | Historia clínica de Vietnam del niño | Expediente digital, archivo “*1234*”. |
+| 7 | Certificado de bautismo del 5 de febrero de 2023 | Expediente digital, archivo “*1234*”. |
+
+## **5.****Trámite ante la Corte Constitucional**
+
+27. Mediante auto del 30 de septiembre de 2024, la
+Sala de Selección de Tutelas Número Nueve[16] seleccionó el expediente
+para su revisión. Según el sorteo realizado, el asunto se repartió a este
+despacho para su trámite y fallo.
+
+28. Mediante autos del 25
+de octubre y 19 de noviembre de 2024[17],
+el magistrado ponente decretó pruebas tendientes a obtener información
+relacionada, entre otras cosas, con: (i)
+las condiciones actuales en las que se encuentra el niño, (ii) los acuerdos de
+los padres con relación a la custodia del menor de edad y (iii) los trámites que
+ha adelantado la actora con el fin de atender la situación que expone en el
+escrito de tutela.
+
+29. En virtud de este
+decreto probatorio se recibieron las siguientes intervenciones de los sujetos
+procesales:
+
+| | |
+| --- | --- |
+| ***Tabla 3. Respuestas en sede de revisión*** | |
+| **Interviniente** | **Contenido de la intervención** |
+| *Juana **[18]*** | (i) Indicó que actualmente reside en la ciudad de Ho Chi Minh, Vietnam, donde tiene una vivienda a largo plazo y donde cuenta con una red de apoyo estable. (ii) Señaló que antes del nacimiento del niño acordó de forma verbal con *Daniel* la división de las responsabilidades financieras. Él se encargaría de cubrir los gastos de salud y educación y ella asumiría los gastos relacionados con el cuidado de su hijo. (iii) Frente a los trámites que ha adelantado ante las autoridades de Vietnam y Colombia se resaltan las siguientes: (a) inicialmente acudió ante la policía del distrito de Vietnam donde le informaron que el señor *Daniel* como padre del niño no había actuado de forma ilegal al salir del país y la remitieron a la policía de la ciudad. Por esto, acudió ante la policía de la ciudad, pero dicha autoridad la dirigió de nuevo a la policía del distrito por considerarlo un problema civil menor; (b) se contactó con el departamento de inmigración de Vietnam y allí le informaron que no le podían dar detalles sobre la salida de *Daniel* del país; (c) buscó asistencia ante la Embajada de Colombia en Vietnam donde le indicaron que Vietnam no ha firmado el Convenio de la Haya de 1980 y actualmente no existe ningún acuerdo bilateral relacionado con asuntos de niños y familia. Por esta razón, le indicaron que como ciudadana vietnamita debía trabajar con las autoridades judiciales de ese país para presentar una solicitud oficial a través de canales diplomáticos al Instituto Colombiano de Bienestar Familiar; (d) cuando la citaron a la audiencia de conciliación contrató a un abogado en Colombia; (e) presentó una denuncia ante la Fiscalía General de la Nación de Colombia por el ejercicio arbitrario de la custodia. (iv) Manifestó que trabaja en la industria creativa en temas de dirección y diseño. Indicó que participa en proyectos como creadora de contenido y modelo de catálogo, lo cual le permite tener un ingreso estable. A su vez, señaló que su trabajo le permite tener flexibilidad en el horario. (v) Finalmente, la actora consideró importante poner en conocimiento de esta Corporación los desafíos que ha enfrentado en sus interacciones con *Daniel*. Indicó que durante el tiempo que estuvieron juntos él tenía actitudes violentas. Además, indicó que ha sido víctima de abuso verbal por parte del accionado en las videollamadas de WhatsApp. Explicó que estas experiencias han sido desafiantes, pero es el único medio a través del cual se puede comunicar con su hijo. Considera que esto ha afectado su capacidad para interactuar libre y seguramente mientras se mantiene conectada con su hijo. |
+| *Daniel **[19]*** | (i) Afirmó que vive con el niño en Medellín y esto se lo informó a la accionante a finales de agosto de 2024. (ii) El 14 de agosto de 2024 el ICBF realizó visita a su residencia para verificar las condiciones del niño frente a la educación, la vivienda, la alimentación, la salud, la recreación y la cultura, la familia e integridad física y emocional. Indicó que el niño acude a un centro infantil de lunes a viernes de 9 am a 5 pm desde febrero de 2024 y que él siempre se ha sido el encargado de atender su educación. Agregó que tiene una niñera 30 horas a la semana. Indicó que el niño se encuentra en buen estado de salud y continúa su alimentación con leche de fórmula. También expuso que su hijo se encuentra afiliado a Salud Total EPS y asiste a clases de equitación los sábados. Sostuvo que le inculca al niño aspectos de la cultura vietnamita porque este tiene derecho a beneficiarse de ambas culturas. (iii) Señaló que no existe acuerdo verbal o escrito con la señora *Juana* y que acudió al ICBF cuando llegó a Colombia para exponer el caso y solicitar la conciliación. Explicó que no se llegó a un acuerdo en la audiencia de conciliación y que el proceso de adaptación del niño no ha sido fácil. (iv) Agregó que en Vietnam los procesos son más lentos que en Colombia y que él allá se encontraba en la misma situación en la que ella se encuentra ahora porque no conocía el idioma. Manifestó que la señora *Juana* registró al niño únicamente bajo su nombre por intereses económicos y de allí se derivó la denuncia que él presentó ante la Fiscalía por extorsión. Expuso que él le compró a la actora un teléfono y un iPad con el fin de que desarrollara su carrera, pero que ella “prefiere su adicción a las redes sociales y dormir y no mejorar sus prospectos de vida”[20]. (v) Indicó que en septiembre de 2023 inició un proceso civil en Vietnam y que en este se presentaron varias irregularidades. Manifestó que la corte del pueblo de Ho Chi Minh admitió la demanda de paternidad y custodia en octubre del 2023 y que en este la actora se presentó con una declaración “llena de faltas a la verdad”[21] ya que mencionó que tenía un trabajo con ingresos estables. Sin embargo, manifestó que eso no era cierto. (vi) Señaló que inició el proceso de regulación de custodia, visitas y alimentos en Colombia y que este ya fue asignado a un juez. Agregó que la madre del niño nunca lo llama en los horarios acordados. (vii) Acerca de la autorización por parte de la actora para viajar a Colombia y quedarse residiendo en el país señaló que él sí le informó a esta sobre la importancia de que el niño conociera a su familia paterna. Adujo que le informó a la actora sobre su viaje a Colombia de manera verbal y que oficialmente en el transcurso del viaje le envió un correo electrónico a través del personal de vuelo. Señaló que el proceso ante la Fiscalía General de la Nación sigue activo. (viii) Manifestó que “sobre los ingresos de la señora *Juana* no pretendo comentar. Aunque no parecen ni suficientes ni estables para la manutención del niño en una ciudad como ho chi Minh”[22]. (xi) En los correos que envió el señor *Daniel* los días 22 de noviembre y 16 de diciembre de 2024 a la Secretaría General de esta Corporación, adjuntó material probatorio audiovisual (10 videos) en el que se observa a la accionante con el niño *Manuel* en algunos espacios de la casa donde vivían en Vietnam. El accionado adujo que en estos se evidenciaba el descuido por parte de la actora con el niño. |
+
+30. Adicionalmente, se
+remitieron las siguientes respuestas al auto de pruebas:
+
+| | |
+| --- | --- |
+| ***Tabla 4. Respuestas en sede de revisión*** | |
+| **Interviniente** | **Contenido de la intervención** |
+| *Unidad Administrativa Especial Migración Colombia****[23]*** | Mediante escrito del 7 de noviembre de 2024, el jefe de la Oficina Asesora Jurídica brindó las siguientes respuestas: (i) indicó que los jueces de familia tienen la competencia para informar los procedimientos que tiene la accionante para solicitar el reintegro de su hijo a Vietnam, (ii) agregó que la entidad tiene funciones de control migratorio de nacionales y extranjeros en el territorio nacional y que en el caso de los menores de edad se tiene el artículo 110 de la Ley 1098 de 2006. Finalmente (iii) señaló que la guía de control migratorio a niños y niñas de la entidad establece que cuando estos viajan solos o acompañados deben contar con un permiso de salida expedido por el juez de familia o defensor de familia y que este se presenta ante la autoridad migratoria. |
+| *Ministerio de Relaciones Exteriores**[24]*** | En escrito del 7 de noviembre de 2024, el grupo interno de trabajo de asuntos consulares y cooperación judicial del Ministerio de Relaciones Exteriores explicó que: (i) la entidad no tiene competencia para adelantar el procedimiento de restitución internacional de menores de edad ya que esta funge únicamente como canal oficial de traslado de solicitudes de asistencia judicial internacional con destino a las autoridades en el extranjero, (ii) según la Convención Interamericana sobre Restitución Internacional de Menores y la Convención sobre Aspectos Civiles de la Sustracción Internacional de Menores, el ICBF es la autoridad competente para adelantar los trámites respectivos en esta materia, y (iii) Vietnam no hace parte de los Estados firmantes de las mencionadas convenciones, pero la actora puede acudir al ICBF que es la autoridad competente para adelantar este tipo de procesos. |
+| *Echeverry abogados**[25]*** | Por medio de escrito del 7 de noviembre de 2024, el abogado coadyuvó la respuesta de la accionante y adjuntó las pruebas de los trámites que ha realizado la actora ante las diferentes autoridades. Igualmente, anexó capturas de pantalla en las que se evidencian los ingresos de la señora *Juana* de los meses de julio, agosto, septiembre y octubre de 2024. Por otra parte, informó que la actora le solicitó apoyo para completar la información sobre el proceso adelantado en Colombia en aras de contribuir a la verdad. Posteriormente, a través de escrito del 19 de noviembre de 2024, el abogado informó a esta Corporación que la actora deseaba poner de presente los siguientes puntos: (i) Ni ella ni su familia han sido beneficiarios económicos de *Daniel*; (ii) No se puede comprobar que las condiciones en las que vive el niño sean como las expone *Daniel* en su contestación porque el ICBF no ha enviado la información sobre esto; (iii) En Vietnam el bebé no pasaba el tiempo solo ya que ella se dedicaba a su hijo mientras el accionado trabajaba; (iv) No es cierto que ella tenga una adicción a las redes sociales y una acusación tan grave merece la presentación de un diagnóstico psiquiátrico que así lo avale. Señaló que esto es una prueba del maltrato verbal que el accionado ejerce sobre ella; (v) Cuando registró a *Manuel* en Vietnam tenía la intención de evitar el cambio de residencia a Bangkok a la cual, presuntamente, pretendía forzarla el accionado como si él fuera el único que podía tomar las decisiones de la familia; (vi) El accionado sustrajo al niño sin su permiso porque no quiere vivir en Vietnam lo que desestima arbitrariamente su opinión; (vii) El accionado se ha aprovechado de su desconocimiento frente a la legislación colombiana; (viii) Ella tiene interés en las llamadas que “escasamente el accionado le permite tener”[26]. Es el accionado quien ha instrumentalizado al niño y la maltrata a ella psicológicamente decidiendo unilateralmente los horarios para las llamadas, la duración de estas y finalizándolas cuando así lo quiere, sin tomar en consideración que hay doce (12) horas de diferencia entre Colombia y Vietnam, lo cual dificulta cualquier tipo de comunicación; y que (ix) no es cierto que el accionado le haya informado sobre el viaje ya que el aviso que dio durante el viaje sobre traslado de su hijo no fue oportuno. Finalmente, el abogado indicó que no le consta el estado actual del proceso que adelanta el accionado en contra de la señora *Juana* en la Fiscalía, en la medida que a la fecha ella no ha sido notificada de proceso penal alguno en su contra. |
+
+31. Por medio de auto
+del 5 de diciembre de 2024 se decretó la suspensión de los términos por un mes
+dado que no se había allegado la respuesta por parte del ICBF. Asimismo, se
+vinculó al Juzgado 15 de Familia de Oralidad para que remitiera el expediente
+del proceso de custodia y, de considerarlo pertinente se pronunciara. Como
+respuesta a esto, se allegó lo siguiente:
+
+| | |
+| --- | --- |
+| ***Tabla 5. Respuestas en sede de revisión*** | |
+| **Interviniente** | **Contenido de la intervención** |
+| *Instituto Colombiano de Bienestar Familiar**[27]*** | Por medio de escrito del 29 de noviembre de 2024, el ICBF dio respuesta a los autos de pruebas y de requerimiento en los siguientes términos: (i) Informó que una petición se encuentra cerrada porque la solicitud no reunía los requisitos para su admisibilidad. Además, indicó que como Vietnam es el país de residencia habitual del niño y este no hace parte del Convenio de la Haya de 1980, no es procedente adelantar la solicitud de restitución internacional. (ii) Una vez se enteraron de la acción de tutela, se informó al juez de primera instancia que se había registrado la otra petición y que el 17 de enero de 2024, registraron la petición SIM - Trámite de Atención Extraprocesal - Fijación de Custodia, la cual se encontraba en trámite ante el Defensor de Familia. (iii) Realizaron la verificación de derechos de *Manuel* en el trámite de atención extraprocesal y se determinó que: (a) El niño reside en la ciudad de Medellín, su nacimiento se encuentra debidamente inscrito en registro civil colombiano y cuenta con afiliación al Sistema General de Seguridad Social en Salud como beneficiario del señor *Daniel* a través de la EPS Salud Total. (b) **Valoración nutricional:** se pudo establecer que el niño goza de seguridad alimentaria, lleva una dieta de calidad, equilibrada, suficiente y adecuada a sus necesidades nutricionales, aspecto que favorece su adecuado crecimiento y desarrollo. (c) **Valoración psicológica:** *Manuel* es un niño tranquilo que se muestra alegre y seguro, y no se evidencia algún tipo de maltrato o afectación psicológica en él. Disfruta de los juegos, comparte con su papá y ya pronuncia palabras en español. Es un niño muy activo y demuestra sentirse cómodo durante la entrevista al lado de su padre. (d) **Valoración sociofamiliar:** en la actualidad *Manuel* pertenece a una familia monoparental con jefatura masculina. La relación del niño con su progenitor se percibe con reconocimiento del rol paterno y con presencia de muestras de afecto que permiten el fortalecimiento del vínculo, en donde el señor *Daniel* ha asumido el rol de cuidador. Por su parte, la relación de *Manuel* con su progenitora se percibe como fracturada y distante debido al traslado de *Manuel* a temprana edad desde su país de origen por decisión de su progenitor. Esto generó afectación en el vínculo maternofilial, el cual, aunque en la actualidad se trata de mantener a través de videollamadas, por la edad de *Manuel* se dificulta debido a que no logra focalizar su atención en medios de comunicación virtuales. Sobre esto, diferentes expertos han señalado que la relación madre e hijo durante los primeros años permite el desarrollo saludable de los niños, dado que dicha interacción repercute en su área emocional, social y cognitiva. Respecto a la dinámica familiar, se evidencia que el señor *Daniel* es quien asume el cuidado de *Manuel*, estableciendo hábitos y rutinas. (e) Se concluye que *Manuel* cuenta con garantía en la mayoría de sus derechos fundamentales y el espacio habitacional en el que reside es adecuado y permite la satisfacción de sus necesidades básicas. Sin embargo, la separación con su madre de manera arbitraria por parte de su progenitor afecta a *Manuel* en su derecho a tener una familia y a no ser separada de ella e incide en su vínculo maternofilial, su área emocional y social y en general en el derecho a la protección contra el abandono físico, emocional y psicoafectivo de sus padres y representantes legales. Por esto, se evidencia la necesidad de establecer estrategias que permitan el mantenimiento del vínculo maternofilial y su cultura, idioma y costumbres propias de su lugar de nacimiento. |
+
+# **II.** **CONSIDERACIONES**
+
+**1.** **Competencia**
+
+32. Esta Sala es competente para
+revisar el fallo en materia de revisión, de conformidad con lo establecido en
+los artículos 86 y 241-9 de la Constitución Política y 31 a 36 del Decreto Ley
+2591 de 1991.
+
+## **2.****Cuestión previa**
+
+## **2.1.****El desistimiento de la acción de tutela en sede de revisión**
+
+33. El artículo 26 del Decreto 2591 de
+1991 dispone la posibilidad de desistir de la acción de tutela[28]. Sin
+embargo, la jurisprudencia constitucional ha precisado que el desistimiento es
+improcedente una vez que la acción ha sido seleccionada para su eventual
+revisión por parte de la Corte Constitucional[29].
+Ello, en atención al interés general que está comprometido, toda vez que el
+caso concreto es un instrumento pedagógico para la interpretación de la
+normativa constitucional aplicable[30]. En
+esos términos, la Corte ha indicado que, en sede de revisión, no se dispone de
+un interés particular, concreto y específico, sino que está comprometido un
+interés público[31].
+Pues “la
+revisión de la Corte no opera por la voluntad de ninguno de los intervinientes
+en el trámite adelantado ante los jueces de instancia, ni por virtud de recurso
+alguno, sino por ministerio de la norma constitucional”[32].
+
+34. En el asunto bajo estudio, por medio
+de correo electrónico del 16 de diciembre de 2024, la señora *Juana*
+remitió a la Secretaría General de la Corte Constitucional un escrito en el que
+manifestó desistir de la acción de tutela porque las demandas emocionales y
+financieras del proceso han alcanzado un punto en el que continuar podría
+afectar su capacidad de concentrarse en el bienestar de su hijo. Señaló que su
+prioridad es fomentar una relación positiva y amorosa con el niño y que su
+decisión no refleja falta de amor, sino que busca minimizar las disputas
+innecesarias. Finalmente, manifestó que pretende seguir siendo parte de la vida
+de su hijo en cualquier forma que permitan las circunstancias actuales[33].
+
+35. De acuerdo con los fundamentos
+expuestos, la solicitud de desistimiento resulta improcedente porque se formuló
+durante el trámite de revisión. Es decir, después de que el expediente fue
+seleccionado por la Corte Constitucional y repartido para su estudio a la Sala
+Novena de Revisión. En efecto, el expediente de tutela de la referencia fue
+seleccionado por la Sala de Selección de Tutelas Número Nueve, mediante Auto
+del 30 de septiembre de 2024, y la señora *Juana* desistió de la acción de
+tutela el día 16 de diciembre de 2024.
+
+## **3.** **Delimitación del problema jurídico y metodología de la decisión**
+
+36. La señora *Juana*, a
+nombre propio y en representación de su hijo *Manuel*, presentó una acción
+de tutela en contra del Ministerio de Relaciones Exteriores, Migración
+Colombia, la Registraduría Nacional del Estado Civil y el señor *Daniel*.
+En esta solicitó la protección de su derecho fundamental de petición y los derechos de su hijo a tener una
+familia y no ser separada de ella, “a la identidad, a la niñez y a los
+enunciados en el artículo 44 de la C.N”[34].
+
+37. La violación tuvo
+lugar, a su juicio, debido a que las entidades accionadas no dieron respuesta
+de fondo a las peticiones por medio de las cuales solicitó información sobre el
+trámite que había realizado *Daniel* para expedir el registro civil de
+nacimiento colombiano de *Manuel* y los requisitos que existían para que
+el menor de edad ingresara a Colombia. A su vez, indicó que el señor *Daniel*
+sustrajo a su hijo de Vietnam y lo retuvo en Colombia de manera ilegal ya que
+no obtuvo su autorización como madre de este.
+
+38. En
+su solicitud de amparo la accionante pretende que: (i) se ordene a las
+entidades dar respuesta de fondo a las peticiones presentadas y (ii) se ordene
+a *Daniel* a restituir al menor de edad a su país de origen de manera
+inmediata.
+
+39. El juez de primera
+instancia declaró la carencia actual de objeto por hecho superado frente al
+derecho de petición de la actora y declaró improcedente el mecanismo de amparo
+frente al derecho del menor de edad a tener una familia y no ser separado de
+ella. A su juicio, no se acreditó el cumplimiento del requisito de
+subsidiariedad. Indicó que la actora debe controvertir la situación ante la
+Fiscalía General de la Nación y ante las autoridades competentes para resolver
+asuntos de familia. En segunda instancia, el juez constitucional confirmó el
+fallo de primera instancia. En concreto, no advirtió situaciones de urgencia
+que ameritaran la intervención del juez constitucional e indicó que corresponde
+a las jurisdicciones de familia y penal y al ICBF adelantar los trámites y
+solucionar el conflicto.
+
+40. A
+partir de los antecedentes descritos, la Corte evaluará la procedencia de la
+solicitud de amparo. En
+caso de que se cumplan los requisitos para ello establecerá, en primer lugar,
+si se
+configuró una carencia actual de objeto por hecho superado frente al derecho de
+petición. En caso contrario, se establecerá si las entidades accionadas
+vulneraron el derecho de petición de la señora *Juana*. En segundo lugar,
+establecerá si el señor *Daniel* vulneró
+los derechos de la accionante y del niño *Manuel* a tener una familia y a no ser separado de ella al haber
+viajado desde enero de 2024 a Colombia sin haber obtenido la autorización de la
+actora y sin que a la fecha hubiese regresado a Vietnam; y (ii) al no haber
+garantizado una comunicación adecuada entre madre e hijo durante este tiempo,
+generando una afectación al vínculo materno filial y a la unidad familiar;
+Finalmente, determinará si el señor *Daniel* vulneró el derecho a una vida libre de violencia de la
+actora, a raíz de los señalamientos realizados por ella sobre posibles actos de
+violencia económica, psicológica y verbal ejercidos en su contra.
+
+41. Con
+ese propósito la Corte: (i) analizará la existencia de una carencia actual
+de objeto por hecho superado frente al derecho de petición; (ii) precisará el
+alcance del
+interés superior de las niñas y los niños en Colombia y el derecho a tener una
+familia y a no ser separado de ella; (iii) desarrollará el
+ejercicio de la custodia y el cuidado personal de los hijos desde un enfoque
+constitucional que atiende el principio del interés superior de los niños,
+niñas y adolescentes; (iv) expondrá el enfoque de género en el proceso de
+custodia y cuidado personal de niños, niñas y adolescentes – la violencia
+psicológica y la violencia económica-. Finalmente, (v) abordará el caso
+concreto.
+
+## **3.1.****Existencia de una carencia actual de objeto por hecho superado frente al derecho de petición**
+
+42. El artículo 23 constitucional prevé la posibilidad de presentar
+peticiones respetuosas a las autoridades por motivos de interés general o
+particular y a obtener pronta resolución. Mediante
+la Ley 1755 de 2015[35] se reglamentó este
+derecho y se consignaron, entre otros, los términos en los que se debe plantear
+la petición y los criterios para que esta se entienda resuelta.
+
+43. En
+la Sentencia C-007 de 2017, este Tribunal
+estableció el contenido de los tres elementos que conforman el núcleo esencial
+del derecho de petición: (i) la pronta resolución[36]; (ii) la respuesta de
+fondo[37]; y (iii) la notificación de la decisión[38]. En ese sentido, existe
+vulneración al derecho de petición cuando no se ha otorgado respuesta dentro
+del término establecido por la ley o en aquellos casos en los que, aunque se
+haya emitido respuesta, esta no es de fondo o conforme con lo solicitado[39].
+
+44. Ahora
+bien, la carencia actual de objeto es el fenómeno procesal que se presenta
+cuando la acción de tutela pierde su razón de ser, debido a la “alteración o el
+desaparecimiento de las circunstancias que dieron origen a la presunta
+vulneración de los derechos”[40].
+Ello implica que cualquier orden del juez caería en el vacío[41].
+Esta Corporación ha precisado que el hecho superado se configura cuando durante
+el trámite de tutela la parte accionada atiende satisfactoriamente las
+pretensiones que motivaron la solicitud de amparo. En estos casos le
+corresponde al juez de tutela constatar que: (i) efectivamente se ha
+satisfecho por completo lo que se pretendía mediante la acción de tutela y (ii)
+que la entidad demandada haya actuado (o cesado en su accionar),
+voluntariamente[42].
+
+45. En
+el caso objeto de análisis, el 27 de febrero de 2024 la accionante presentó una
+petición ante Migración Colombia en la que solicitó copia de la documentación
+presentada ante la entidad por el señor *Daniel* para efectuar el ingreso
+de su hijo menor de edad a Colombia y detalles sobre el procedimiento vigente
+para permitir el ingreso al país de un menor de edad que no va acompañado de sus
+dos padres. También presentó una
+petición ante la Registraduría Nacional del Estado Civil en la
+que solicitó copia
+de la documentación que recibió la entidad para expedir el registro civil de
+nacimiento de su hijo y detalles sobre el procedimiento para que los registros
+de colombianos adelantados ante consulados de Colombia en el exterior surtan
+efectos.
+
+46. Las dos entidades
+dieron respuesta a las peticiones de la actora, pero esta consideró que no
+fueron resueltas de fondo. Por esta razón, el 29 de mayo de 2024 presentó la
+acción de tutela en la que solicitó que se ordenara a las entidades dar
+respuesta de fondo a las peticiones.
+
+47. El 31 de mayo de 2024,
+durante el trámite de la acción de tutela, las dos entidades mencionadas brindaron
+respuesta a la actora. De un lado, Migración Colombia le indicó que el niño fue
+registrado en el sistema y que, por ser menor de edad colombiano acompañado por
+uno de sus padres, no le solicitaron más documentos al momento de ingresar al
+país. Resaltó que el requisito de obtener previamente el permiso de la madre o
+el padre que no viaja con el menor de edad solo aplica para las salidas de
+Colombia. En la respuesta adjuntó la copia de los pasaportes colombianos
+presentados por el señor *Daniel* y copia del procedimiento vigente para
+el ingreso de un menor de edad.
+
+48. De otro lado, la
+Registraduría Nacional del Estado Civil le informó que el registro civil de su
+hijo se encuentra inscrito en el Consulado de Colombia en Hanói, Vietnam con el
+nombre de *Manuel*. Además, le envió la documentación del expediente que
+la entidad recibió por parte del Consulado de Hanói para el registro del menor
+de edad. También le indicó que el tema se encuentra regulado por los Decretos
+126 de 1960 y 356 de 2017. Finalmente, le explicó que, de conformidad con la
+normatividad vigente, el padre del niño se puede acercar a un consulado de
+Colombia en el exterior para registrarlo como su hijo.
+
+49. Así las cosas, aun
+cuando las respuestas que efectivamente resolvieron de fondo las peticiones de
+la actora fueron remitidas durante el trámite de la acción constitucional, en
+estas las entidades contestaron de fondo y de forma clara, precisa y congruente
+la solicitud presentada. En consecuencia, como Migración Colombia y la
+Registraduría Nacional del Estado Civil subsanaron su incumplimiento durante el
+trámite de la acción de tutela, se configuró una carencia actual de objeto por
+hecho superado. Esta situación fue corroborada por la accionante en el escrito
+de impugnación al manifestar que compartía la decisión del juzgado de primera
+instancia respecto de esas pretensiones.
+
+50. De
+otro lado, el Ministerio de Relaciones Exteriores guardó silencio durante el
+trámite de la acción de tutela. Sin embargo, se analizará si la respuesta que
+brindó a la accionante el 15 de marzo de 2024 cumple con los presupuestos
+jurisprudenciales para que se entienda garantizado el derecho de petición. La
+actora solicitó ante esta entidad copia de la
+documentación aportada por *Daniel* ante el Consulado, información sobre
+el procedimiento para registrar colombianos en el exterior y que le indicaran
+si era posible que únicamente el padre del niño se acercara a un consulado para
+registrarlo como su hijo y como colombiano.
+
+51. La entidad dio
+respuesta en la que le informó que la documentación aportada por el señor *Daniel*
+únicamente se le podía suministrar a las personas previstas en el artículo 13
+de la Ley 1581 de 2012[43]. Igualmente, le
+explicó que el procedimiento del registro civil se realiza de conformidad con
+la Ley 43 de 1993 y los requisitos previstos para este[44].
+
+52. A raíz de esa respuesta, el
+8 de abril de 2024 la accionante presentó a nombre propio la petición ante el
+Ministerio de Relaciones Exteriores y el 19 de abril de 2024 dicha entidad la
+requirió para enviar una carta firmada por ella debidamente legalizada ante las
+autoridades vietnamitas y acompañada de copia de documento de identidad y
+pasaporte vigente. La accionante no se pronunció sobre este requerimiento. Sin embargo, en el
+escrito de impugnación que presentó en contra de la sentencia del 14 de junio
+de 2024, señaló
+que las tres entidades accionadas brindaron una respuesta de fondo y que, por
+tanto “se comparte el argumento del despacho de que respecto de esas
+pretensiones se está ante un hecho superado”[45].
+
+53. De esta manera, no se
+evidencia una vulneración al derecho de petición de la actora por parte del
+Ministerio de Relaciones Exteriores porque la entidad dio respuesta a sus
+solicitudes dentro de los términos legales y le indicó cuál era el
+procedimiento para registrar colombianos en el exterior. Además, la actora no
+atendió el requerimiento que hizo la entidad para acceder a la documentación
+que había solicitado y durante el trámite de la acción de tutela la accionante
+afirmó haber obtenido respuesta de fondo por parte de las accionadas, entre las
+cuales también menciona al ministerio.
+
+## **3.2.****El interés superior de las niñas y los niños en Colombia y el derecho a tener una familia y a no ser separado de ella**
+
+54. De conformidad con el artículo 44
+constitucional, los derechos de las niñas y los niños prevalecen sobre las
+garantías constitucionales de los demás ciudadanos. Esto significa que deben
+ser especialmente protegidos dada su particular vulnerabilidad al ser sujetos
+que empiezan la vida, se encuentran en situación de indefensión y “requieren de
+especial atención por parte de la familia, la sociedad y el Estado y sin cuya
+asistencia no podrían alcanzar el pleno y armonioso desarrollo de su
+personalidad”[46].
+
+55. El Comité de los Derechos del Niño ha
+determinado que el interés superior de los niños y las niñas comprende tres
+dimensiones: (i) es un derecho sustantivo porque se debe tener en cuenta para
+sopesar distintos intereses al momento de tomar decisiones, (ii) es un
+principio jurídico interpretativo fundamental, puesto que cuando exista más de
+una interpretación frente a disposiciones jurídicas se debe seleccionar la que
+más proteja los derechos de la niña o el niño, y (iii) es una norma de
+procedimiento porque se deben evaluar las decisiones que los afectan y las posibles
+repercusiones sobre sus derechos[47].
+
+56. Este principio se refleja, entre
+otros, en el derecho a tener una familia y a no ser separado de ella, el cual
+se relaciona directamente con su derecho a recibir amor y cuidado para poder
+desarrollarse en forma plena y armónica[48].
+
+57. Asimismo, la jurisprudencia
+constitucional ha referido que el vínculo familiar es una garantía que implica,
+de un lado, el derecho a las relaciones personales entre padres e hijos lo que
+supone deberes, especialmente frente a los menores de edad[49]. De
+otro lado, el deber correlativo y mutuo que tienen ambos padres en el sentido
+de no obstaculizar el uno al otro el ejercicio de su correspondiente derecho[50].
+
+58. Sin perjuicio de lo anterior, el
+derecho a tener una familia y a no ser separado de ella no es absoluto. Esta
+prerrogativa implica la integración real del menor de edad en un medio propicio
+para su desarrollo integral, que presupone la presencia de vínculos de afecto y
+confianza y que exige relaciones equilibradas entre los padres y el pedagógico
+comportamiento de éstos respecto de sus hijos[51].
+Durante la etapa de la primera infancia (la cual comprende a los niños y las
+niñas que van de los cero a los seis años de edad) resulta fundamental
+garantizar el desarrollo integral porque es durante este periodo que se
+establecen las bases para el desarrollo cognitivo, emocional y social del ser
+humano[52].
+
+59. Esta Corporación ha reconocido que
+el derecho al amor de los niños[53]
+implica (i) un deber de recepción de los padres en la relación con sus hijos en
+su calidad de maestros de la vida, (ii) el respeto de los niños, como seres
+humanos, quienes deben ser escuchados y tenidos en cuenta en las decisiones que
+los afecten y con el ideal de potencializar su conciencia, la inmensa fuerza de
+la naturaleza en su formación y su identidad, (iii) el desamor e incluso la
+animadversión que siente un padre o una madre por su hijo no lo libera de sus
+obligaciones de protección y cuidado y (iv) no es posible que las autoridades
+administrativas adopten decisiones que den lugar a situaciones anormales de
+tristeza. Se trata de un derecho con el poder de transformar ciertas
+relaciones jurídicas[54].
+
+60. De otro lado, el artículo 52 de la Ley 1098 de
+2006 dispone el
+trámite de verificación de derechos por sospechas de vulneración o amenaza
+cuando se ponga en conocimiento de la autoridad administrativa competente tales
+situaciones. En estos casos se debe iniciar un trámite de verificación que
+contendrá: (a) valoración psicológica y emocional; (b) valoración de nutrición
+y esquema de vacunación; (c) valoración inicial del entorno familiar e
+identificación de elementos protectores y de riesgo; (d) inscripción del
+registro civil de nacimiento; (e) verificación de afiliación al sistema de
+salud y seguridad social; y (f) vinculación al sistema educativo. Lo anterior,
+de acuerdo con la jurisprudencia constitucional, representa una primera
+aproximación a la situación del menor de edad[55].
+
+61. De acuerdo con ello, esta verificación se debe llevar
+a cabo de manera urgente, seria, integral y diligente por parte de la autoridad
+competente, para que prevalezcan los aspectos sustanciales sobre los formales y
+se respete el interés superior de la niñez y el debido proceso[56].
+
+62. En conclusión, los derechos de las niñas y los niños
+prevalecen sobre las garantías de los demás ciudadanos debido a su especial
+vulnerabilidad y a la necesidad de un entorno adecuado para su pleno
+desarrollo. Esto se refleja en su derecho a tener una familia y a no ser separados
+de ella asegurando vínculos y relaciones equilibradas que favorezcan su
+desarrollo integral, especialmente en la primera infancia, etapa crucial en la
+que se construyen las bases de su desarrollo cognitivo, emocional y social.
+
+63. Una vez determinado el alcance del principio del
+interés superior de las niñas y los niños, es necesario analizar su importancia
+en las decisiones sobre su custodia y cuidado personal.
+
+## **3.3.****El ejercicio de la custodia y el cuidado personal de los hijos desde un enfoque constitucional que atiende el principio del interés superior de los niños, niñas y adolescentes**[57]****
+
+64. Esta Corporación ha sostenido
+que la progenitura responsable tiene una relación directa con el deber de
+crianza y cuidados personales que los padres deben asumir frente a los hijos, y
+que a partir de ella se garantiza el bienestar de los niños, niñas y
+adolescentes, a la vez que se hace efectivo su interés superior y el derecho
+que les asiste a tener una familia y a no ser separados de ella[58].
+
+65. Puntualmente, el artículo 253 del
+Código Civil señala que “toca de consuno a los padres, o al padre o madre
+sobreviviente, el cuidado personal de la crianza y educación de sus hijos”. De
+otro lado, solo de manera excepcional el cuidado estará bajo uno de los padres.
+Lo importante, en todo caso, es “rodear a los niños, las niñas y los
+adolescentes de las mejores condiciones para que su crecimiento, desarrollo y
+crianza sean armónicos e integrales”[59].
+
+66. Por lo anterior, los procedimientos
+judiciales en materia de familia deben tener en cuenta que los menores de edad
+se pueden ver afectados por el juicio, como sería el caso de los procesos de
+adopción, de decisiones relativas a la custodia, la residencia del niño, entre
+otras[60].
+
+67. Desde sus primeros pronunciamientos,
+esta Corporación ha resaltado la importancia de considerar el principio del
+interés superior de los niños y las niñas en las decisiones de custodia y
+cuidado personal. Así, en la sentencia T-442 de 1994[61], enunció
+algunas reglas aplicables a estos procesos:
+
+(i)No opera de manera
+automática y mecánica, sino que se debe valorar objetivamente la situación para
+confiar ese deber a quienes estén en condiciones de proporcionar el bienestar y
+desarrollo integral del niño, niña y adolescente; (ii) en cada caso se
+deben analizar las circunstancias y situaciones favorables en las condiciones
+en que se encuentre el menor de edad en un momento dado y valorar si el
+otorgamiento del cuidado y custodia puede implicar eventualmente una
+modificación desventajosa de dicho estado; (iii)la opinión del
+menor de edad, en cuanto sea libre y espontánea y esté exenta de vicios en su
+consentimiento, constituye un instrumento apropiado e invaluable en la adopción
+de la respectiva decisión;y (iv)las aspiraciones y
+pretensiones de quienes abogan por la custodia del menor de edad, deben ceder
+ante el interés superior de los niños, niñas y adolescentes y el derecho que
+les asiste a tener una familia y no ser separados de ella[62].
+
+68. De esta manera, el principio del
+interés superior de los niños y las niñas se debe analizar desde el caso
+concreto y para ello se deben evaluar los hechos que lo rodean. En el marco de
+los procesos de custodia y cuidado personal, las autoridades administrativas y
+judiciales deben aplicar este principio como criterio orientador al momento de
+tomar decisiones, pues de ello dependerá el desarrollo y crianza de los niños
+en condiciones adecuadas.
+
+69. Una vez establecida la relevancia de este principio en
+los procesos de custodia y visitas, se analizará la importancia de incorporar
+la perspectiva de género en aquellos casos donde se evidencie un posible
+componente de violencia contra la mujer.
+
+## **3.4.****El enfoque de género en los procesos de custodia y visitas ante la posible configuración de violencia psicológica y económica en contra de la mujer**
+
+70. La Constitución Política de 1991
+otorga una protección reforzada a los derechos de las mujeres al garantizar la
+igualdad ante la ley sin discriminación por razones de género[63].
+
+71. A nivel internacional, la
+Convención sobre la Eliminación de todas las Formas de Discriminación contra la
+Mujer[64]
+establece las principales obligaciones de los Estados miembros para prevenir la
+discriminación. Esta Convención ha servido como base para desarrollar
+estándares de protección en el ámbito público y privado, establecidos por
+organizaciones y tribunales internacionales.
+
+72. Por su parte, el artículo 2 de la
+Ley 1257 de 2008 define la violencia contra la mujer como cualquier acción u
+omisión que le cause muerte, daño o sufrimiento físico, sexual, psicológico,
+económico o patrimonial por su condición de ser mujer. También establece que la
+violencia económica incluye cualquier acción u omisión dirigida al abuso
+económico o la imposición de castigos monetarios a las mujeres debido a su
+condición social, económica o política. Esta Corporación ha señalado que la
+violencia económica es difícil de percibir, ya que suele ocurrir en escenarios
+donde el hombre ha ejercido históricamente un mayor control sobre la mujer[65].
+
+73. Asimismo, el inciso a) del artículo
+3 de la Ley 1257 de 2008 define el daño psicológico como el resultado de una
+acción u omisión destinada a degradar o controlar las acciones, comportamientos, creencias y
+decisiones, a través de intimidación, manipulación, amenazas (directas o
+indirectas), humillación, aislamiento o cualquier otra conducta que implique un
+perjuicio en la salud psicológica, la autodeterminación o el desarrollo
+personal.
+
+74. La jurisprudencia constitucional ha
+reconocido que la perspectiva
+de género es una herramienta analítica y comprensiva que “deben emplear todos
+los operadores de justicia en aquellos casos en los que se tenga sospecha de
+situaciones asimétricas de poder entre las partes o de actos constitutivos de
+violencia de género”[66].
+Así, las autoridades judiciales deben abordar la controversia con un enfoque
+diferencial que involucre el aspecto sociológico o de contexto que subyace al
+problema en torno a la violencia y a la discriminación contra la mujer[67].
+
+75. Analizar con perspectiva de género los casos concretos
+donde son parte mujeres afectadas o víctimas no implica una actuación
+parcializada del juez en su favor, sino que reclama su independencia e
+imparcialidad. En tal sentido, la actuación del juez exige un abordaje
+multinivel, pues el conjunto de documentos internacionales que han visibilizado
+la temática en cuestión son referentes necesarios al construir una
+interpretación a favor de la mujer. Se trata entonces de utilizar las fuentes
+del derecho internacional de los derechos humanos junto con el derecho interno,
+para buscar la interpretación más favorable a la mujer víctima[68].
+
+76. Esta obligación se
+extiende a los procesos de custodia, cuidado y determinación del régimen y
+visitas de los niños y las niñas en los que se evidencia un
+componente de violencia en contra de la mujer[69].
+
+77. Recientemente, en la Sentencia T -
+459 de 2024, esta Corporación
+recopiló los parámetros o deberes que los jueces deben atender para garantizar
+una adecuada aplicación del enfoque de género: (i) desplegar toda la actividad
+judicial – en el marco de sus competencias – para garantizar los derechos y la
+dignidad de las mujeres; (ii) analizar los hechos, las pruebas y las normas con
+base en interpretaciones sistemáticas de la realidad, de manera que en ese
+ejercicio hermenéutico se reconozca que las mujeres han sido un grupo
+tradicionalmente discriminado y, como tal, se justifica un trato diferencial;
+(iii) no tomar decisiones con base en estereotipos de género; (iv) evitar la revictimización
+de la mujer; (v) reconocer las diferencias entre hombres y mujeres; (vi)
+ajustar la carga probatoria en casos de violencia o discriminación
+privilegiando los indicios sobre las pruebas directas, cuando estas últimas
+resulten insuficientes; (vii) considerar el rol transformador o perpetuador de
+las decisiones judiciales; y (viii) efectuar un análisis rígido sobre las
+actuaciones de quien presuntamente comete violencia[70].
+
+78. Adicionalmente, esta Corporación ha
+determinado que la violencia económica también se puede materializar cuando:
+(i) el hombre decide asumir el rol principal de proveedor en la familia,
+con el fin de impedir que la mujer participe en las decisiones económicas del
+hogar y la sitúa en la obligación de rendir cuentas; y, (ii) se le
+impide a la mujer estudiar o trabajar para evitar que logre su independencia
+económica, haciéndole creer que sin él, ella no podría sobrevivir[71].
+
+79. En conclusión, la jurisprudencia constitucional ha
+reconocido la importancia de la perspectiva de género como una herramienta de
+análisis indispensable para administrar justicia, especialmente en casos que
+involucran situaciones de violencia contra las mujeres. Este enfoque también se
+aplica a los procesos de custodia, cuidado y visitas en los que se evidencie algún
+tipo de violencia para asegurar la igualdad y la protección de los derechos de
+las mujeres, tal como lo exige el ordenamiento jurídico colombiano y los
+estándares internacionales. Es fundamental reconocer las múltiples formas de
+violencia que afectan a las mujeres, incluyendo la violencia económica y
+psicológica, las cuales perpetúan dinámicas de control y dependencia que
+limitan su autonomía. Por ello, es necesario enfrentar estas prácticas para
+avanzar hacia una sociedad más equitativa.
+
+# **4.****Solución del caso concreto**
+
+## **4.1.****La acción de tutela satisface los requisitos generales de procedencia**
+
+80. La acción de tutela
+cumple con los presupuestos de procedencia tal y como se expone a continuación:
+
+| | |
+| --- | --- |
+| ***Tabla 6. Requisitos de procedencia*** | |
+| **Requisito** | **Acreditación en el caso concreto** |
+| *Legitimación por activa* | **Se cumple**. El artículo 86 de la Constitución Política establece que la acción de tutela es un mecanismo de defensa al que puede acudir cualquier persona para reclamar la protección inmediata de sus derechos fundamentales. En igual sentido, la jurisprudencia constitucional ha establecido que este requisito se acredita con su ejercicio: (i) directo por parte de la persona titular de los derechos invocados; (ii) por medio de los representantes legales; y (iii) a través de apoderado judicial. Igualmente es posible (iv) demostrando las condiciones que hacen procedente la agencia oficiosa. En la Sentencia T-250 de 2017 la Corte dispuso que la legitimación en la causa por activa radica en el titular de los derechos fundamentales que se consideren vulnerados o amenazados sin distinción alguna por razones como, por ejemplo, la nacionalidad o la ciudadanía, lo que indica que un extranjero puede hacer uso de ella. Sobre el particular, la jurisprudencia constitucional ha reiterado que todo ser humano que se halle en territorio colombiano puede ejercer la acción de tutela y en el evento en que no se encuentre allí, puede hacer uso de esta cuando la autoridad o particular con cuya acción u omisión se vulnera el derecho fundamental se halle en Colombia[72]. En consideración de lo anterior, la Sala encuentra que la accionante actúa en nombre propio para solicitar la salvaguarda de su derecho de petición presuntamente vulnerado por diferentes entidades que se hallan en el territorio colombiano. Todo esto da lugar a que se entienda superado el requisito de legitimación en la causa por activa. De igual manera, la señora *Juana*tiene la calidad de madre del niño *Manuel*[73], respecto de quien se invoca la protección de sus garantías fundamentales, lo que la legitima para actuar en condición de representante legal del mismo. |
+| *Legitimación por pasiva* | **Se cumple.** El artículo 5 del Decreto 2591 de 1991 señala que la acción de tutela procede de manera excepcional en contra de particulares si: (i) están encargados de la prestación de un servicio público; (ii) su conducta afecta grave y directamente el interés colectivo; o (iii) el accionante se encuentra en una situación de indefensión o de subordinación respecto a este. En concordancia, el numeral 9 del artículo 42 de la misma normativa hace alusión a la situación de subordinación e indefensión. En este caso, uno de los accionados es *Daniel*, padre del niño *Manuel*, un particular respecto del cual el menor de edad está en estado de subordinación. Esta se entiende como la condición que permite a una persona una relación de dependencia con otra persona producto de situaciones derivadas de una relación jurídica cuya fuente es la ley, por ejemplo, en el caso de los padres con los hijos[74]. En consecuencia, cuando la acción de tutela ejercida en contra de un particular tiene por objeto la protección de los derechos fundamentales de un niño, niña o adolescente, el juez constitucional debe partir de la premisa de su procedencia y corresponderá al particular accionado desvirtuar esta presunción, mediante los medios probatorios adecuados[75]. Igualmente, *Juana* se encuentra en estado de indefensión frente al señor *Daniel*. Esta figura hace referencia a una situación relacional que implica la dependencia de una persona respecto de otra, por causa de una decisión o actuación desarrollada en el ejercicio irrazonable, irracional o desproporcionada de un derecho del que el particular es titular. De este modo, la situación de indefensión debe ser evaluada por el juez atendiendo las circunstancias del caso concreto, las personas involucradas, los hechos relevantes y las condiciones de desprotección, que pueden ser económicas, sociales, culturales y personales, en orden a establecer la procedencia de la acción de tutela[76]. Por lo anterior, la Sala encuentra que *Daniel* tiene legitimación en la causa por pasiva en la presente actuación dado que la eventual afectación de los derechos fundamentales de la señora *Juana* y su hijo menor de edad se estaría configurando por la presunta retención ilegal del niño en Colombia. Esto, toda vez que el particular accionado habría tomado la decisión de quedarse residiendo en Colombia sin contar con la debida autorización de la madre del menor de edad. Además, se debe atender a las condiciones en las que se encuentra la actora quien es nacional vietnamita con residencia en dicho país, no habla el idioma español y es posible que haya existido violencia económica y/o psicológica en su contra, lo que conlleva a que esta decisión se adopte con enfoque de género. De otro lado, el Instituto Colombiano de Bienestar Familiar (ICBF), – vinculado en sede de revisión – tiene como objetivos la prevención y protección integral de la primera infancia, infancia y adolescencia en Colombia[77]. Por esta razón, la Sala considera que se encuentra satisfecho el requisito de legitimación en la causa por pasiva frente a esta entidad. Finalmente, el Ministerio de Relaciones Exteriores es la entidad encargada de articular las acciones de las distintas entidades del Estado y de los particulares cuando sea del caso, en lo que concierne a las relaciones internacionales en los ámbitos de, entre otros, la cooperación internacional. Por lo tanto, esta entidad también se encuentra legitimada en la causa por pasiva. |
+| *Inmediatez* | **Se cumple.** La fecha en que Migración Colombia, la Registraduría Nacional del Estado Civil y el Ministerio de Relaciones Exteriores dieron respuestas, presuntamente de manera incompleta, a las peticiones de la actora, fueron los días 4 de marzo, 11 de marzo y 19 de abril de 2024, respectivamente. La presentación de la acción de tutela fue el 29 de mayo de 2024, es decir, transcurrieron 40 días desde la última respuesta que recibió por parte de una de las entidades accionadas. Asimismo, entre la fecha en que *Daniel* viajó a Colombia con su hijo menor de edad y la presentación del amparo transcurrieron 4 meses y 27 días. Estos términos se consideran razonables dado que la actora reside en otro país y el 27 de febrero de 2024 fue la primera fecha en la que presentó las peticiones ante las entidades accionadas con el fin de solicitar ayuda relacionada con su situación y la de su hijo. |
+| *Subsidiariedad* | **Se cumple.** Según el artículo 86 constitucional cualquier persona puede acudir a la acción de tutela para solicitar el amparo de sus derechos fundamentales. Lo anterior siempre que: (i) no se cuente con otro mecanismo de defensa judicial o ante su existencia, (ii) este no resulte idóneo ni eficaz y (iii) se promueva como mecanismo transitorio para evitar la ocurrencia de un perjuicio irremediable. El artículo 4 de la Convención de La Haya del 25 de octubre de 1980 sobre Aspectos Civiles del Secuestro Internacional de Menores[78] y el artículo 1° de la Convención Interamericana sobre Restitución Internacional de Menores[79] explican los requisitos y las etapas del procedimiento de restitución internacional de menores de edad e indican que estos son aplicables a los Estados firmantes. El derecho internacional privado se ocupa de las actividades y relaciones entre personas de derecho privado que producen efectos en el ámbito internacional, sin distinción de ninguna naturaleza en cuanto a su nacionalidad, domicilio, lengua, etnia, religión, etc. Este busca establecer a qué campo del derecho pertenece una determinada situación jurídica y según cuál ordenamiento jurídico se puede resolver, teniendo en cuenta su carácter vinculante con dos o más Estados[80]. Los tratados y los acuerdos entre países, tanto bilaterales como multilaterales, son unas de las herramientas más importantes en la diplomacia internacional y la resolución de conflictos. Ambos permiten que los estados se unan y superen desafíos a través de principios jurídicos[81]. De otro lado, el numeral 3 del artículo 21 del Código General del Proceso establece que los jueces de familia conocen en única instancia los procesos relativos a la custodia, cuidado personal y visitas de los niños, niñas y adolescentes. Previo a esto es necesario acudir a la conciliación extrajudicial a la que se refiere el artículo 69 de la Ley 2022 de 2022[82]. Finalmente, cuando el juez constitucional advierte que el niño, niña o adolescente se encuentra en una situación de riesgo que impide la protección adecuada de sus derechos fundamentales mediante el proceso ante la jurisdicción ordinaria, o que existe la posibilidad de que el niño sufra un daño grave e inminente debido a sus condiciones actuales, el juez de tutela deberá intervenir de manera inmediata para resolver el asunto transitoriamente[83]. En el caso bajo estudio se cumple el requisito de subsidiariedad porque: (i) Vietnam no hace parte del grupo de Estados firmantes de los instrumentos internacionales mencionados. En consecuencia, la actora no puede iniciar el procedimiento de restitución bajo los presupuestos dispuestos en dichos mecanismos. (ii) No existe ningún acuerdo bilateral entre Colombia y Vietnam en asuntos de familia. (iii) La accionante desplegó una serie de actuaciones ante las autoridades vietnamitas y colombianas con el fin de obtener una solución a su situación. Como lo indicó en la respuesta al auto de pruebas: (a) acudió ante la policía del distrito y ante la policía de la ciudad de Vietnam, (b) presentó peticiones ante el Ministerio de Relaciones Exteriores, Migración Colombia y la Registraduría Nacional del Estado Civil, (c) solicitó asesoría ante la embajada de Colombia en Vietnam, la cual le informó que actualmente no existe ningún acuerdo bilateral entre ambos países relacionado con asuntos de familia, (d) presentó una denuncia ante la Fiscalía General de la Nación y, finalmente (e) intentó realizar la solicitud de restitución internacional de menores de edad en la página del ICBF, pero en esta no encontró la opción para iniciar el trámite desde Vietnam. (iv) Aunque actualmente se encuentra en curso el proceso de custodia, cuidado personal y visitas ante el Juzgado 15 de Familia de Oralidad, es fundamental recordar que con la presente acción de tutela se busca proteger los derechos fundamentales a tener una familia y no ser separado de ella y a la identidad de un niño de 2 años, los cuales prevalecen sobre los derechos de los demás sujetos de la sociedad. La separación prolongada de la madre y su hijo, que ya lleva 12 meses, puede afectar profundamente el bienestar emocional y psicológico del menor de edad, quien se encuentra en una etapa crucial para su desarrollo. En consecuencia, se debe flexibilizar el requisito de subsidiariedad. |
+
+## **4.2.*****Daniel*** **vulneró el derecho fundamental de su hijo *Manuel* y de la señora *Juana* a tener una familia y a no ser separado de ella**
+
+81. La Sala Novena de
+Revisión encuentra que *Daniel* vulneró el derecho de su hijo *Manuel*
+y de la accionante *Juana* a tener una familia y a no ser separado de
+ella. Ello es así dado que trasladó al niño de Vietnam a Colombia sin la
+autorización de su madre, a pesar de que ella desempeñó un rol esencial en su
+cuidado durante los primeros 14 meses de vida.
+
+82. Es de anotar que, incluso si durante el
+trámite del proceso de custodia y visitas se determina que en Colombia el niño cuenta con
+un entorno adecuado para su desarrollo, el hecho de que *Daniel* no haya
+obtenido la autorización de la accionante conlleva al desconocimiento del
+derecho del menor de edad a mantener una relación cercana y en condiciones de
+igualdad con la madre y el padre.
+
+83. De los hechos expuestos por ambas partes se desprende
+que en ningún momento el particular accionado informó a la actora sobre sus
+planes de viajar a Colombia y establecerse en el país de manera permanente. En
+su respuesta al auto de pruebas, el accionado señaló que: (i) comunicó
+verbalmente a la actora la importancia de que el niño conociera a su familia
+paterna y (ii) ya estando en el avión, el personal de vuelo envió un correo
+electrónico a la actora informándole sobre el viaje. Sin embargo, esta
+situación no demuestra que el accionado haya obtenido la autorización de la madre
+del niño para residir con él en un país distinto a Vietnam, donde el menor
+nació y vivió durante sus primeros 14 meses. Cabe destacar que la accionante,
+además de ser ciudadana vietnamita, reside en dicho país y el accionado también
+vivió allí durante aproximadamente diez años.
+
+84. El actuar del accionado también vulneró el derecho de *Juana*,
+madre del niño y ciudadana vietnamita, a tener una familia y a no ser separada
+de ella, al trasladar al menor de edad desde Vietnam a Colombia sin su
+autorización. Este acto rompió el vínculo directo entre la madre y el hijo,
+desconociendo la corresponsabilidad parental que les asiste a ambos. Además,
+resulta probable que la separación del niño de su madre haya generado en ella
+un perjuicio en su salud psicológica, lo que podría constituir un acto de
+violencia psicológica. Esta situación exige que la decisión que adopte esta
+Corporación incorpore un enfoque de género.
+
+85. Igualmente, en el informe que
+rindió el ICBF sobre la verificación de derechos de *Manuel* señaló que
+este se encuentra en condiciones adecuadas de salud y educación y su padre
+asume su cuidado, estableciendo hábitos y rutinas. Sin embargo, explicó que la
+relación del niño con su madre se percibe “fracturada y distante debido al
+traslado de *Manuel* a temprana edad desde su país de origen por decisión
+de su progenitor”[84].
+Agregó que en la actualidad se intenta mantener la relación con la madre a
+través de videollamadas, pero por la edad del niño se dificulta dado que no
+logra focalizar su atención en medios de comunicación virtuales.
+
+86. La Corte reconoce la importancia
+del vínculo entre madre e hijo como algo que trasciende el tiempo y las
+circunstancias. Este vínculo no solo implica derechos y deberes, sino que
+también representa una conexión emocional que influye en el desarrollo de las
+personas. De esta manera, la Corte Constitucional debe garantizar su protección
+y repudiar aquellos actos que atenten contra la familia y el vínculo
+maternofilial. En especial cuando se trate de menores de edad.
+
+87. De esta manera, la decisión
+arbitraria del accionado: (i) desconoció el derecho de la actora a participar
+activamente en las decisiones sobre la vida de su hijo y (ii) desconoció el ordenamiento
+jurídico colombiano y las disposiciones internacionales orientadas a la
+protección de los derechos fundamentales de los niños, particularmente el
+derecho a tener una familia y a no ser separado de ella. Finalmente, (iii) se
+adelanta investigación por parte de la Fiscalía 253 Seccional[85] en
+contra del accionado por el delito
+de ejercicio
+arbitrario de custodia[86].
+
+## **4.3.****Se instará al Juzgado 15 de familia de Oralidad para que adopte como criterio orientador de su decisión el principio del interés superior del niño y aplique una perspectiva de género**
+
+88. Esta Sala identifica algunas
+declaraciones que permiten sospechar que la señora *Juana* probablemente
+ha sido víctima de violencia psicológica y económica por parte del señor *Daniel*.
+
+89. En primer lugar, como respuesta al auto de pruebas, la
+accionante remitió dos escritos en los que manifestó lo siguiente: (i) las
+videollamadas realizadas por WhatsApp son su única forma de comunicación con su
+hijo, y en estas ha sido “víctima de abuso verbal por parte del accionado”[87], lo cual ha
+“afectado su capacidad para interactuar libre y seguramente mientras se
+mantiene conectada con su hijo”[88];
+(ii) la afirmación realizada por el señor *Daniel* sobre su supuesta adicción a las
+redes sociales constituye una forma de maltrato verbal, dado que se trata de
+una acusación seria que requiere un diagnóstico que la respalde; y (iii) el
+accionado ha instrumentalizado al niño y la ha maltratado psicológicamente al
+decidir unilateralmente los horarios y la duración de las llamadas, sin tener
+en cuenta las 12 horas de diferencia horaria entre Colombia y Vietnam.
+
+90. Segundo, en sede de revisión el
+accionado manifestó que, en un proceso civil llevado a cabo en Vietnam en
+septiembre de 2023, la actora presentó una declaración que, según él, estaba
+“llena de faltas a la verdad”[89], afirmando que tenía un
+trabajo con ingresos estables, lo cual, en su opinión, no era cierto, ya que
+“para el mes de noviembre, *Juana* no tenía suficiente ni para comprar la
+leche de fórmula de *Manuel*”[90]. Asimismo manifestó que “sobre los ingresos de la señora *Juana*
+no pretendo comentar. Aunque no parecen ni suficientes ni estables para la
+manutención del niño en una ciudad como ho chi Minh”[91].
+Además, durante el trámite de la acción de tutela, la señora *Juana*
+afirmó que el accionado ejerció violencia económica sobre ella, argumentando
+que, al tener mayor poder adquisitivo, tuvo un mejor control de las situaciones
+y por ello se vio obligada a vivir bajo sus reglas y condiciones.
+
+91. En este sentido, el argumento del señor *Daniel* de que la actora no dispone de los
+recursos suficientes para pagar la leche de fórmula del niño *Manuel* no
+constituye un argumento válido para haber interrumpido el vínculo maternofilial
+entre la accionante y el niño sin su debida autorización. Esto resulta
+especialmente relevante si se considera que el ICBF, como entidad encargada de
+la prevención y protección integral de la primera infancia en Colombia, explicó que “la
+relación madre e hijo durante los primeros años permite el desarrollo saludable
+de los niños, dado que dicha interacción repercute en su área emocional, social
+y cognitiva”[92].
+
+92. Por estas razones, y en atención al enfoque de género
+que debe aplicar este Tribunal en las decisiones donde se evidencie un posible
+componente de violencia, se instará al Juzgado 15 de Familia de Oralidad para
+que adopte una decisión con perspectiva de género considerando las
+declaraciones de la accionante sobre las presuntas violencias que habría
+sufrido por parte del accionado. En todo caso, para que garantice que el interés
+superior del niño sea el criterio orientador de su decisión y valore de manera
+integral el informe de verificación de derechos remitido por el ICBF, que
+detalla las condiciones actuales del niño y la relación de este con su padre,
+así como las demás pruebas y declaraciones presentadas por *Daniel*.
+Finalmente se instará a la autoridad judicial con el fin de que imprima celeridad en el
+proceso de custodia y visitas teniendo en cuenta que la separación de la madre
+se ha prolongado durante más de un año.
+
+## **4.4.****Remedios judiciales**
+
+93. En atención a las
+consideraciones precedentes, la Sala estima que *Daniel* vulneró el
+derecho del niño *Manuel* y de la accionante a tener una familia y a no
+ser separado de ella dado que no contó con su autorización para quedarse residiendo
+en Colombia con el menor de edad.
+
+94. A partir de lo anterior, es
+probable que el accionado haya ejercido violencia económica y psicológica en
+contra de la accionante, toda vez que, según sus declaraciones, el señor *Daniel* ha actuado de manera arbitraria al
+restringir la comunicación entre ella y su hijo. Además, se ha valido de su rol
+de proveedor para separarla de su hijo sin la debida autorización[93].
+
+95. Dado que actualmente
+se encuentra en curso el proceso de custodia y visitas ante el Juzgado 15 de
+Familia de Oralidad, será dicha autoridad judicial la que deberá adoptar una
+decisión sobre el lugar de residencia del niño. Esto, teniendo en cuenta que el informe remitido por
+el ICBF, entidad encargada de verificar los derechos del niño, determinó que la
+mayoría de sus derechos fundamentales están garantizados y que cuenta con
+condiciones adecuadas de salud y educación, así como una buena relación con su
+padre.
+
+96. Ahora bien, es necesario recordar
+que la facultad del juez constitucional para emitir fallos *extra* y *ultra
+petita*, le permite a la Corte decidir sin ceñirse estricta y forzosamente a
+las situaciones de hecho relatadas en la demanda, a las pretensiones de la
+actorani a los derechos invocados por esta[94]. Esta
+facultad tiene fundamento en el carácter informal de la acción de tutela, en su
+objetivo de materializar efectivamente los derechos fundamentales y en el rol
+del juez constitucional de guardar la integridad y la supremacía de la
+Constitución[95].
+En esa medida, en
+uso de estas facultades, se proferirán los siguientes remedios judiciales.
+
+97. Se revocarán las sentencias de
+primera y segunda instancia de tutela, proferidas por el Juzgado 38 Penal del
+Circuito de Conocimiento y la Sala de Decisión Penal del Tribunal Superior del
+Distrito Judicial en las que se declaró improcedente el amparo solicitado. Y,
+en su lugar, se amparará el derecho del niño *Manuel* y de la accionante *Juana*
+a tener una familia y a no ser separado de ella.
+
+98. Se ordenará al señor *Daniel*
+que, en el curso de proceso del custodia y visitas: (i) garantice una
+comunicación regular y adecuada entre el niño *Manuel* y su madre, la
+señora *Juana*. Para ello, deberá coordinar con la accionante los horarios
+de comunicación, teniendo en cuenta la diferencia horaria entre Colombia y
+Vietnam, y asegurando que dicha comunicación sea efectiva y se desarrolle en un
+ambiente libre de cualquier tipo de violencia. Ambos deberán acordar las condiciones de las
+comunicaciones, priorizando el bienestar emocional del niño durante las mismas;
+(ii) junto a la accionante deberá explorar alternativas a las videollamadas que
+contribuyan al adecuado desarrollo del vínculo maternofilial, considerando la
+corta edad del niño y su capacidad para comprender las interacciones a través
+de una pantalla; (iii) garantice a la accionante el acceso a información
+relevante sobre el bienestar del niño, incluyendo aspectos relacionados con su
+salud y educación; y (iv) explore la posibilidad de coordinar una visita
+conjunta entre él y el niño a Vietnam o una visita de la madre a Colombia,
+mientras se adelanta el proceso de custodia. Esto, con el fin de contribuir al
+fortalecimiento del vínculo con la madre, la cultura y el idioma de su lugar de
+nacimiento.
+
+99. Dado que actualmente se encuentra
+en curso el proceso de custodia y visitas ante el Juzgado 15 de Familia de
+Oralidad, se instará
+para que para
+que (i) adopte una
+decisión con perspectiva de género considerando las declaraciones de la
+accionante sobre las presuntas violencias que habría sufrido por parte del
+accionado; (ii) garantice que el interés superior del niño sea el criterio
+orientador de su decisión, (iii) valore de manera integral el informe de
+verificación de derechos remitido por el ICBF, que detalla las condiciones
+actuales del niño y la relación de este con su padre, así como las demás
+pruebas y declaraciones presentadas por *Daniel*, e (iv) imprima celeridad en el
+proceso de custodia y visitas teniendo en cuenta que la separación de la madre
+se ha prolongado durante más de un año.
+
+100. Teniendo en cuenta que
+el ICBF es la autoridad encargada de la protección integral de la primera
+infancia en Colombia, se ordenará
+que (i) en el marco de sus competencias realice un acompañamiento integral a la
+accionante durante el desarrollo del proceso de custodia y visitas ante el
+Juzgado 15 de Familia de Oralidad; (ii) forme parte activa del proceso,
+verificando en todo momento el respeto y garantía de los derechos del niño;
+para ello (iii) deberá remitir al juzgado informes periódicos sobre las
+condiciones del niño y cualquier situación que pueda afectar su bienestar
+físico, emocional o social. Finalmente, teniendo en cuenta las declaraciones de
+la actora sobre las dificultades para mantener una comunicación adecuada con su
+hijo debido a los obstáculos interpuestos por el accionado, la entidad deberá
+(iv) facilitar y acompañar las videollamadas y encuentros entre *Juana* y *Manuel*.
+
+101. De otro lado, el Ministerio de Relaciones
+Exteriores es la entidad encargada de articular las acciones de las distintas
+entidades del Estado y de los particulares cuando sea del caso, en lo que con
+cierne a las relaciones internacionales en los ámbitos de, entre otros, la
+cooperación internacional[96].
+Igualmente, se encarga de coordinar con
+la Dirección de Asuntos Jurídicos Internacionales el trámite de exhortos,
+cartas rogatorias y diligencias judiciales que deban cumplirse en el exterior[97]. Por esta
+razón, se ordenará a esta entidad que (i) coordine con el ICBF las acciones
+necesarias para asistir a la señora *Juana* en el proceso de custodia y
+visitas que se encuentra en curso en Colombia; (ii) facilite la cooperación
+judicial internacional en el caso incluyendo el enlace con las autoridades de
+Vietnam y la traducción de los documentos; y (iii) brinde acompañamiento a la
+accionante para la comprensión de esta providencia, con el fin de garantizar su
+derecho de acceso a la justicia.
+
+102. Finalmente, se
+advertirá al Juzgado
+38 Penal del Circuito de Conocimiento y a la Sala de Decisión Penal del
+Tribunal Superior del Distrito Judicial para que, en lo sucesivo, se abstengan de
+incurrir en conductas que desconozcan los derechos de las mujeres y para que
+incluyan el enfoque de género en sus providencias siempre que corresponda.
+
+# **III.****DECISIÓN**
+
+En
+mérito de lo expuesto, la Sala Novena de Revisión de la Corte Constitucional,
+administrando justicia en nombre del pueblo y por mandato de la Constitución,
+
+**RESUELVE:**
+
+**Primero: REVOCAR
+PARCIALMENTE** las
+sentencias de primera y segunda instancia de tutela, proferidas por el Juzgado
+38 Penal del Circuito de Conocimiento y la Sala de Decisión Penal del Tribunal
+Superior del Distrito Judicial, en las que se declaró improcedente el amparo
+solicitado. Y, en su lugar, **AMPARAR** el derecho del niño *Manuel* y
+de la señora *Juana* a tener una familia y a no ser separado de ella.
+
+**Segundo: ORDENAR** al señor *Daniel*
+que, en el curso de proceso de custodia y visitas, (i) garantice una
+comunicación regular y adecuada entre el niño *Manuel* y su madre, la
+señora *Juana*. Para ello, deberá coordinar con la accionante los horarios
+de comunicación, teniendo en cuenta la diferencia horaria entre Colombia y
+Vietnam, y asegurando que dicha comunicación sea efectiva y se desarrolle en un
+ambiente libre de cualquier tipo de violencia. Ambos deberán acordar las condiciones de las
+comunicaciones, priorizando el bienestar emocional del niño durante las mismas;
+(ii) junto a la accionante explore alternativas a las videollamadas que
+contribuyan al adecuado desarrollo del vínculo maternofilial, considerando la
+corta edad del niño y su capacidad para comprender las interacciones a través
+de una pantalla; (iii) garantice a la actora el acceso a información relevante
+sobre el bienestar del niño, incluyendo aspectos relacionados con su salud y
+educación; y (iv) explore la posibilidad de coordinar una visita conjunta entre
+él y el niño a Vietnam o una visita de la madre a Colombia, mientras se
+adelanta el proceso de custodia. Esto, con el fin de contribuir al
+fortalecimiento del vínculo con la madre, la cultura y el idioma de su lugar de
+nacimiento.
+
+**Tercero: ORDENAR** al Instituto
+Colombiano de Bienestar Familiar que
+(i) en el marco de sus competencias realice un acompañamiento integral a la
+accionante durante el desarrollo del proceso de custodia y visitas ante el
+Juzgado 15 de Familia de Oralidad; (ii) forme parte activa del proceso,
+verificando en todo momento el respeto y garantía de los derechos del niño;
+para ello (iii) deberá remitir al juzgado informes periódicos sobre las
+condiciones del niño y cualquier situación que pueda afectar su bienestar
+físico, emocional o social y; (iv) facilitar y acompañar las videollamadas y
+encuentros entre *Juana* y *Manuel*.
+
+**Cuarto****: ORDENAR** al Ministerio de Relaciones
+Exteriores que (i)
+coordine con el Instituto Colombiano de Bienestar Familiar las acciones
+necesarias para asistir a la señora *Juana* en el proceso de custodia y
+visitas que se encuentra en curso en Colombia; (ii) facilite la cooperación
+judicial internacional en el caso incluyendo el enlace con las autoridades de
+Vietnam y la traducción de documentos; y (iii) brinde acompañamiento a la
+accionante para la comprensión de esta providencia, con el fin de garantizar su
+derecho de acceso a la justicia.
+
+**Quinto:**
+**INSTAR**al
+Juzgado 15 de Familia de Oralidad para que (i) adopte una decisión con perspectiva de género
+considerando las declaraciones de la accionante sobre las presuntas violencias
+que habría sufrido por parte del accionado; (ii) garantice que el interés
+superior del niño sea el criterio orientador de su decisión, (iii) valore de
+manera integral el informe de verificación de derechos remitido por el ICBF,
+que detalla las condiciones actuales del niño y la relación de este con su
+padre, así como las demás pruebas y declaraciones presentadas por *Daniel*,
+e (iv) imprima
+celeridad en el proceso de custodia y visitas teniendo en cuenta que la
+separación de la madre se ha prolongado durante más de un año.
+
+**Sexto:** **AVERTIR** al Juzgado 38 Penal del
+Circuito de Conocimiento y a la Sala de Decisión Penal del Tribunal Superior
+del Distrito Judicial para que, en
+lo sucesivo, se abstengan de incurrir en conductas que desconozcan los derechos
+de las mujeres y para que incluyan el enfoque de género en sus providencias
+siempre que corresponda.
+
+**Séptimo: CONFIRMAR PARCIALMENTE** las sentencias de primera y
+segunda instancia de tutela, proferidas por el Juzgado 38 Penal del Circuito de
+Conocimiento y la Sala de Decisión Penal del Tribunal Superior del Distrito
+Judicial, en las que se declaró la carencia actual de objeto por hecho superado
+frente al derecho de petición de la señora *Juana*.
+
+**Octavo:** **LÍBRESE**por la Secretaría General de la
+Corte Constitucional la comunicación de que trata el artículo 36 del Decreto
+Estatutario 2591 de 1991.
+
+Notifíquese,
+comuníquese y cúmplase.
+
+JOSE
+FERNANDO REYES CUARTAS
+
+Magistrado
+
+NATALIA
+ÁNGEL CABO
+
+Magistrada
+
+JUAN
+CARLOS CORTÉS GONZÁLEZ
+
+Magistrado
+
+ANDREA
+LILIANA ROMERO LOPEZ
+
+Secretaria
+General
+
+---
+
+[1] Conforme a lo dispuesto por la Circular Interna 10 de 2022 de la Corte
+Constitucional.
+
+[2] Expediente digital. Archivo *1234*.pdf Pág.
+10.
+
+[3] Expediente digital. Archivo *1234*.pdf Pág. 10.
+
+[4] En el registro civil de nacimiento de Vietnam aportado por la
+accionante el niño fue registrado con el nombre “*Manuel*”.
+
+[5] Ibidem. Pág. 3.
+
+[6] Congreso de la República. Ley Estatutaria 1581 de 2012 “por la cual se
+dictan disposiciones generales para la protección de datos personales”.
+Artículo 13. “a) A los titulares, sus causahabientes o sus representantes
+legales; b) A las entidades públicas o administrativas en ejercicio de sus
+funciones legales o por orden judicial; c) A los terceros autorizados por el
+Titular o por la ley”.
+
+[7] Congreso de la República. Ley 43 de 1993 “por medio de la cual se
+establecen las normas relativas a la adquisición, renuncia, pérdida y
+recuperación de la nacionalidad colombiana; se desarrolla el numeral 7 del
+artículo 40 de la Constitución Política y se dictan otras disposiciones”.
+
+[8] Expediente digital. Archivo *1234*.pdf Pág. 10.
+
+[9] Expediente digital. Archivo *1234*.pdf Pág. 2.
+
+[10] Expediente digital. Archivo *1234*.pdf Pág. 8.
+
+[11] Expediente digital. *1234*.pdf Pág. 2.
+
+[12] Ibidem. Pág. 3
+
+[13]https://sim.icbf.gov.co/SEACOnline/Page/SEACOnline/SolicitudRestitucionRegulacion/List.aspx
+
+[14] Se deja constancia de que la accionante tuvo acompañamiento judicial
+en los trámites de las peticiones que presentó ante las entidades accionadas,
+pero la acción de tutela la presentó a nombre propio. No obstante, las
+comunicaciones que allegó durante el proceso se encuentran en español porque un
+abogado de Echeverry abogados
+coadyuvó las respuestas de la actora. De esta manera, en cada respuesta que se
+remitió durante el trámite de revisión se anexaron dos documentos, uno en
+inglés y otro en español.
+
+[15] Expediente digital. Archivo *1234*.pdf Pág. 1.
+
+[16] Integrada por las magistradas las magistradas Paola Andrea Meneses
+Mosquera y Cristina Pardo Schlesinger.
+
+[17] Expediente digital. Archivos 04Auto de pruebas_T-10.523.164 y 05Auto
+Requiere Pruebas_T-10.523.164.
+
+[18] Expediente digital. Archivo Anexo 2 – Declaración *Juana*
+traducción al español.
+
+[19] Expediente digital. Archivo Oficio N. OPTC-475/24_*Daniel* y Archivo Pronunciamiento, Defensa y Contradicción Oficio N.
+OPTC-475_24_nombres reales.pdf.
+
+[20] Expediente digital. Archivo Oficio N.
+OPTC-475/24_ *Daniel*. Pág. 14.
+
+[21] Ibidem. Pág. 11.
+
+[22] Expediente digital. Archivo Pronunciamiento,
+Defensa y Contradicción Oficio N. OPTC-475_24_nombres reales.pdf. Pág.
+3.
+
+[23] Expediente digital. Archivo Respuesta Tutela Requerimiento Corte Permiso
+No.T-10.523.1641.pdf
+
+[24] Expediente digital. Archivo S-GACCJ-EXO-24-007418.pdf.
+
+[25] Expediente digital. Archivo 20241107Respuesta requerimiento original.pdf
+y Archivo 20241118 Descorre respuestas.pdf
+
+[26] Expediente digital. Archivo 20241118 Descorre respuestas.pdf. Pág. 5.
+
+[27] Expediente digital. Archivo “FORMATO INFORME DE VALORACIÓN
+SOCIOFAMILIAR DE VERIFICACIÓN DE DERECHOS *MANUEL*.pdf”; “VALORACIÓN *MANUEL*.pdf”;
+y “1234.pdf”.
+
+[28]Decreto 2591 de 1991. Artículo 26 – Cesación de la actuación impugnada
+“si estando en curso la tutela, se dictare resolución, administrativa o
+judicial, que revoque, detenga o suspenda la actuación impugnada, se declarará
+fundada la solicitud únicamente para efectos de indemnización y de costas, si
+fueren procedentes. El recurrente podrá desistir de la tutela, en cuyo caso se
+archivará el expediente. Cuando el desistimiento hubiere tenido origen en una
+satisfacción extraprocesal de los derechos reclamados por el interesado, el
+expediente podrá reabrirse en cualquier tiempo, si se demuestra que la
+satisfacción acordada ha resultado incumplida o tardía”.
+
+[29] Sentencia T-227 de 2022.
+
+[30] Sentencia T-260 de 1995.
+
+[31] Ibidem.
+
+[32] Ibidem.
+
+[33] Expediente digital. Archivo 20241226Traducción Carta.pdf y Respuesta
+requerimiento original.pdf y Archivo 20241216 Letter Constitutional Court.pdf.
+
+[34] Expediente digital. Archivo *1234*.pdf Pág.
+10.
+
+[35] Ley 1755 de 2015 “Por medio de la cual se regula el Derecho
+Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo
+y de lo Contencioso Administrativo”.
+
+[36] En
+virtud de la cual las autoridades tienen el deber de otorgar una respuesta en
+el menor plazo posible, sin que se exceda del máximo legal establecido, esto
+es, por regla general, 15 días hábiles.
+
+[37] Hace
+referencia al deber de las autoridades de resolver la petición de forma clara (esto es, que la misma sea inteligible y
+contenga argumentos de fácil comprensión. ), precisa (que la respuesta atienda a lo solicitado y se excluya toda
+información impertinente y que conlleve a respuestas evasivas o elusivas.), congruente (la respuesta debe ser conforme con lo
+solicitado.) y
+consecuencial (Si la petición
+es presentada dentro de un trámite procedimental del cual conoce la respectiva
+autoridad, ésta deberá dar cuenta del trámite que se ha surtido y de las
+razones por las cuales la petición resulta o no procedente).
+
+[38]
+Atiende a la necesidad de poner al ciudadano en conocimiento de la decisión
+proferida por las autoridades y se traduce en la posibilidad de impugnar la
+respuesta correspondiente. Frente a este elemento, esta Corte ha explicado que
+es la administración o el particular quien tiene la carga probatoria de
+demostrar que notificó al solicitante su decisión, pues el conocimiento de ésta
+hace parte del intangible de ese derecho que no puede ser afectado.
+
+[39] Sentencia T-058 de 2018.
+
+[40] Sentencias SU-655 de 2017, SU-255 de 2013, SU-540 de 2007 y SU-522
+de 2019.
+
+[41] Sentencias
+SU-522 de 2019, SU-655 de 2017 y SU-225 de 2013. Esto ha sido reconocido desde
+la jurisprudencia temprana en las sentencias T-519 de 1992, T-535 de 1992,
+T-570 de 1992 y T-033 de 1994. De manera más reciente ha sido reiterado en las
+sentencias T-002 de 2022, T-009 de 2022, T-014 de 2022, T-043 de 2022, T-053 de
+2022, T-070 de 2022, T-107 de 2022, T-120 de 2022 y T-143 de 2022.
+
+[42] Ibidem.
+
+[43] Congreso de la República. Ley Estatutaria 1581 de 2012 “por la cual se
+dictan disposiciones generales para la protección de datos personales”.
+Artículo 13. “a) A los titulares, sus causahabientes o sus representantes
+legales; b) A las entidades públicas o administrativas en ejercicio de sus
+funciones legales o por orden judicial; c) A los terceros autorizados por el
+Titular o por la ley”.
+
+[44]Los requisitos son: (i) la
+presencia de la persona a registrar, acompañado del declarante (padre o madre o
+pariente cercano ascendente o el mismo interesado cuando sea mayor de 18 años),
+(ii) Registro Civil Extranjero de la persona a inscribir y/o Acta de nacido
+vivo y este documento debe ser del lugar de la ocurrencia del nacimiento, (iii)
+identificación de los padres: fotocopia de la cédula de ciudadanía o del
+pasaporte, (iv) presentar un documento en el que se evidencie el RH y Grupo
+Sanguíneo de la persona a registrar, y (v) los documentos que hayan sido
+expedidos por autoridades extranjeras tendrán que ser apostillados y/o
+legalizados según el caso, y traducidos si se encuentran en idioma diferente al
+castellano.
+
+[45] Expediente digital. Archivo *1234*.pdf Pág. 1.
+
+[46] Ley 1098 de 2006 (artículo 2).
+
+[47] Observación No. 14 del Comité de los Derechos del Niño del 29 de mayo
+de 2013, citada por las sentencias T-384 de 2018;
+T-033 de 2020; y T-051 de 2022.
+
+[48] Sentencias T-510 de 2003 y T-033 de 2020.
+
+[49] Sentencia T-181 de 2023.
+
+[50] Sentencias T-181 de 2023 y T-121 de 2024.
+
+[51] Sentencias C-997 de 2004, T-336 de 2019 y T-181 de 2023.
+
+[52] Artículo 29 de la Ley 1098 de 2006.
+
+[53] Constitución Política de 1991 (artículo 44).
+
+[54] Sentencia T-311 de 2017.
+
+[55] Sentencia T-516 de 2024.
+
+[56] Ibidem.
+
+[57] Sentencia T-384 de 2018. Esto ha sido reiterado por las
+diferentes salas de revisión en las Sentencias T-033 de 2020 (Sala Octava de
+Revisión); T-051 de 2022 (Sala Octava de Revisión); T-102 de 2023 (Sala Segunda
+de Revisión); T-028 de 2023 (Sala Novena de Revisión); T-291 de 2024 (Sala
+Quinta de Revisión), entre otras.
+
+[58] Sentencia T-384 de 2018.
+
+[59] Ibidem.
+
+[60] Observación General No.
+14, el Comité de los derechos del Niño.
+
+[61] En esa oportunidad, estudió una
+acción de tutela que presentó el abuelo materno de un menor de edad en contra
+de un juzgado de familia que concedió la custodia del niño a los padres,
+quienes jamás habían asumido la progenitura responsable y generaban desbalance
+emocional en el hijo, según reportaban las pruebas recaudadas. Señaló que el
+interés superior de los niños y la opinión de éstos deben ser tenidos en cuenta
+en los eventos en que se presenten disputas entre quienes pretenden su custodia
+y cuidados personales. *Cfr.* Sentencia T-384 de 2018.
+
+[62] Sentencia T-384 de 2018.
+
+[63] Artículo 13 de la Constitución Política “todas las personas
+nacen libres e iguales ante la ley, recibirán la misma protección y trato de
+las autoridades y gozarán de los mismos derechos, libertades y oportunidades
+sin ninguna discriminación por razones de sexo, raza, origen nacional o
+familiar, lengua, religión, opinión política o filosófica.
+
+[64] Ratificada por Colombia mediante la Ley 51 de 1981.
+
+[65] Sentencia T-130 de 2024.
+
+[66] Sentencia T-344 de 2020.
+
+[67] Ibidem.
+
+[68] Sentencia SU-080 de 2020.
+
+[69] Sentencia T-121 de 2024.
+
+[70] Sentencias T-012 de 2016, SU-080 de 2020, T-028 de 2023, T-230 de 2024, T-459 de
+2024, entre otras.
+
+[71] Sentencia SU- 201 de
+2021.
+
+[72] Sentencias T-1020 de 2003, T-493 de 2007, T-250 de 2017 y T-143
+de 2019.
+
+[73] Así consta en el registro civil de nacimiento colombiano y vietnamita.
+
+[74] Sentencias T-188 de 2017, T-102 de 2023.
+
+[75] Ibidem.
+
+[76] Sentencia T-454 de 2018.
+
+[77] De acuerdo con la Ley 75
+de 1968, por medio de la cual se crea el ICBF.
+
+[78] Artículo 4 de la Convención de La Haya de 1980. El Convenio se
+aplicará a todo niño que residía habitualmente en un Estado Contratante
+inmediatamente antes de la violación de cualquier derecho de visita. La
+aplicación del Convenio cesará cuando el niño llegue a los 16 años de edad.
+
+[79] Artículo 1 de la Convención Interamericana sobre Restitución
+Internacional de Menores. La presente Convención tiene por objeto
+asegurar la pronta restitución de menores que tengan residencia habitual en uno
+de los Estados Parte y hayan sido trasladados ilegalmente desde cualquier
+Estado a un Estado Parte o que habiendo sido trasladados legalmente hubieren
+sido retenidos ilegalmente. Es también objeto de esta Convención hacer
+respetar el ejercicio del derecho de visita y el de custodia o guarda por parte
+de sus titulares.
+
+[80] Mojica, Liseth A. Derecho Internacional privado 1.ª ed. Bogotá:
+Editorial Universidad del Rosario, 2003.
+https://editorial.urosario.edu.co/gpd-derecho-internacional-privado.html
+
+[81] Organización de los Estados Americanos, OAS :: Tratados y Acuerdos.
+
+[82] *“Por medio de la cual se expide el Estatuto de Conciliación y se
+dictan otras disposiciones”*.
+
+[83] Sentencia T-341 de 2023.
+
+[84] Expediente digital. Archivo “FORMATO INFORME DE VALORACIÓN
+SOCIOFAMILIAR DE VERIFICACIÓN DE DERECHOS *MANUEL*.pdf”; “VALORACIÓN *MANUEL*.pdf”;
+y “*1234*.Respuesta
+CN. Firmado.pdf”.
+
+[85] Proceso en estado activo.
+
+[86] Ley 599 del 2000. Artículo 230-A-. Ejercicio arbitrario de la custodia
+de hijo menor de edad: el padre que arrebate, sustraiga, retenga u oculte uno
+de sus hijos menores sobre quienes ejerce la patria potestad con el fin de privar
+al otro padre del derecho de custodia y cuidado personal, incurrirá, por ese
+solo hecho, en prisión de uno (1) a tres (3) años y en multa de uno (1) a
+dieciséis (16) salarios mínimos legales mensuales vigentes.
+
+[87] Expediente digital. Archivo Anexo 2 – Declaración
+*Juana* traducción al español.
+
+[88] Ibidem.
+
+[89] Expediente digital. Archivo Oficio N.
+OPTC-475/24_*Daniel*.
+
+[90] Ibidem.
+
+[91] Expediente digital. Archivo Pronunciamiento,
+Defensa y Contradicción Oficio N. OPTC-475_24_nombres reales.pdf. Pág.
+3.
+
+[92] Expediente digital. Archivo “FORMATO INFORME DE VALORACIÓN
+SOCIOFAMILIAR DE VERIFICACIÓN DE DERECHOS *MANUEL*.pdf”; “VALORACIÓN *MANUEL*.pdf”;
+y “*1234*.Respuesta
+CN. Firmado.pdf”.
+
+[93] Esta afirmación se sustenta en lo dicho por la actora y en
+las múltiples respuestas presentadas por el accionado en sede de revisión. El
+señor *Daniel* señaló que la actora no tenía los recursos suficientes para
+comprar leche de fórmula y que él asumía los costos de salud, educación,
+vivienda y alimentación en Vietnam. Así, a partir de sus propias declaraciones,
+es posible concluir que una de las razones con las que justificó su viaje a
+Colombia fue el rol de proveedor que desempeñaba en Vietnam.
+
+[94] En la Sentencia T-028 de 2023, esta Corporación analizó la
+vulneración del debido proceso de la accionante derivada de una providencia
+emitida dentro de un proceso de custodia y cuidado personal. Asimismo, en
+ejercicio de sus facultades *extra y ultra petita*, determinó que el
+análisis no podía limitarse únicamente a la existencia de dicha vulneración,
+sino que también era necesario examinar los hechos de maltrato alegados, las
+acciones emprendidas por las autoridades competentes y, de ser preciso, adoptar
+las medidas pertinentes para proteger su integridad personal.
+
+[95] Sentencias T-001 de 2021, T-330 de 2022 y T-028 de 2023.
+
+[96] Numeral 8 del Artículo 4 del Decreto 869 de 2016 “por medio del
+cual se modifica la estructura del Ministerio de Relaciones Exteriores y se
+dictan otras disposiciones”.
+
+[97] Numeral 16 del artículo 4 del Decreto 869 de 2016.

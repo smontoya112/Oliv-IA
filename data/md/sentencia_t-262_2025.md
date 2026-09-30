@@ -1,0 +1,2978 @@
+---
+{
+  "doc_id": "sentencia_t-262_2025",
+  "titulo": "Sentencia T-262 de 2025",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2025/T-262-25.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "constitucional"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "T-262",
+  "anio": 2025,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "T-262",
+    "2025"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2025/T-262-25.htm"
+  ],
+  "sha256_partes": [
+    "0d943ccc4f905d573c9810ee499290d967d3abc9607f0ad619328ecc6d39c306"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 167459,
+  "n_articulos_detectados": 14,
+  "archivo_md": "md/sentencia_t-262_2025.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2025/T-262-25.htm -->
+T-262-25
+
+---
+
+**TEMAS-SUBTEMAS**
+
+**Sentencia T-262/25**
+
+**DERECHO AL DEBIDO
+PROCESO EN QUEJA DE ACOSO LABORAL**-Vulneración
+
+*(...) existen
+suficientes elementos de juicio para amparar el derecho al debido proceso de la
+accionante. Esto porque, en primer lugar, el Comité archivó la queja de la
+actora valorando de manera inadecuada las pruebas que conoció. Y, en segundo
+lugar, el Comité omitió citar una reunión de conciliación entre las partes, tal
+y como lo exige el procedimiento preventivo y correctivo establecido en la normatividad
+que regula el tema.*
+
+**PROTECCIÓN A
+VÍCTIMAS DE ACOSO LABORAL**-Medidas preventivas y correctivas establecidas en la
+Ley 1010 de 2006
+
+**CARENCIA ACTUAL DE
+OBJETO POR SITUACIÓN SOBREVINIENTE**-Cumplimiento de orden judicial
+
+**ACCIÓN DE TUTELA
+ANTE CONDUCTAS DE ACOSO LABORAL**-Procedencia excepcional cuando no aplican
+las medidas preventivas y correctivas establecidas en la Ley 1010 de 2006
+
+*(...) el proceso
+especial previsto en el artículo 13 de la Ley 1010 de 2006 no es idóneo para
+resolver las pretensiones de la actora. Esto porque ese proceso está destinado,
+únicamente, a imponer sanciones. Por ello, se presenta una discusión sobre la
+posible vulneración del derecho al debido proceso en el marco de las medidas
+preventivas y correctivas de acoso laboral, que no son materia del proceso
+sancionatorio y disciplinario de la Ley 1010 de 2006, de suerte que los
+mecanismos ordinarios de defensa no tienen la aptitud de brindar una protección
+integral ante la presunta vulneración de derechos.*
+
+**DERECHO AL TRABAJO
+EN CONDICIONES DIGNAS Y JUSTAS**-Alcance
+
+**ACOSO LABORAL**-Vulnera el
+derecho al trabajo en condiciones dignas y justas
+
+**ACOSO LABORAL**-Concepto
+
+*El acoso laboral
+es un ataque sistemático, que algunos miembros de una organización empresarial
+-bien sea pública o privada- ejercen en contra de una persona. Este ataque, que
+puede implicar actos de violencia física o psicológica, resulta contrario al
+principio de la dignidad humana.*
+
+**ACOSO LABORAL**-Contexto legal y
+jurisprudencial
+
+**ACOSO LABORAL**-Modalidades
+
+**ACOSO LABORAL**-Alcance de la
+protección
+
+**ACOSO LABORAL**-Normatividad
+internacional
+
+**DERECHO AL DEBIDO
+PROCESO EN QUEJA DE ACOSO LABORAL**-Garantías
+
+*En los
+procedimientos preventivo, correctivo y sancionatorio, donde se conozcan quejas
+por acoso laboral, debe respetarse el derecho al debido proceso. Esto implica
+reconocer a las partes la posibilidad de allegar todo el material probatorio
+con que cuenten, reconocer al acusado la posibilidad de defenderse frente a las
+imputaciones hechas y resolver con celeridad.*
+
+**DERECHO AL TRABAJO
+EN CONDICIONES DIGNAS Y JUSTAS**-Erradicación de cualquier forma de
+violencia y acoso contra la mujer por razones de género
+
+**DERECHO AL DEBIDO
+PROCESO EN QUEJA DE ACOSO LABORAL**-Aplicación del enfoque de género
+
+*El enfoque de
+género, por su parte, impone a la autoridad que analiza una queja estudiar de
+una manera determinada las pruebas que se aportan. Así, respetando la
+imparcialidad y la independencia, los miembros de los comités de convivencia
+laboral deberán tener en consideración que, normalmente, una mujer que dice
+haber sido acosada, bajo cualquiera de las modalidades previstas en la Ley 1010
+de 2006, no siempre se encuentra en igualdad de armas con la persona (o
+personas) que han podido, eventualmente, incurrir en alguna de esas prácticas
+de acoso. Los miembros del comité de convivencia laboral deben, en
+consecuencia, aproximarse al caso teniendo en cuenta esta desigualdad. Para
+ello, los miembros del comité deben (i) analizar, de manera conjunta, todas las
+pruebas que les hayan sido entregadas; (ii) dar valor a las pruebas indiciarias
+cuando es evidente que aportar pruebas directas resulta sumamente complejo para
+la víctima; y (iii) reclamar del presunto acosador una actitud más proactiva,
+requiriéndolo para que explique la situación y señale por qué sus conductas no
+constituyen acoso laboral. Sobre esto último, debe recordarse que, en la
+mayoría de los casos, la persona que es acusada está en una mejor posición para
+demostrar que ha actuado conforme a la ley, y que no ha agredido a quien
+formula la queja.*
+
+**RELACIONES
+LABORALES ENTRE PARTICULARES CON PERSPECTIVA DE GÉNERO**-Prohibición al
+empleador de promover conductas de indiferencia, neutralidad o tolerancia de
+actos de violencia y discriminación en contra de la mujer
+
+**ACOSO LABORAL**-Medidas
+preventivas y correctivas establecidas en la ley 1010/06
+
+---
+
+**REPÚBLICA DE****COLOMBIA**
+
+**CORTE CONSTITUCIONAL**
+
+**Sala Quinta de Revisión**
+
+**SENTENCIA T-262 DE 2025**
+
+**Expediente:** T-10.302.817
+
+Acción de
+tutela instaurada por *Julia* contra *la empresa*.
+
+**Magistrado ponente:** Jorge
+Enrique Ibáñez Najar
+
+Bogotá, D.C., diecisiete (17) de junio de
+dos mil veinticinco (2025)
+
+**Anotación previa**
+
+El presente caso involucra un proceso de acoso laboral
+cuya naturaleza es confidencial y contiene información reservada. Por este
+motivo, la Sala advierte que como medida de protección de su intimidad, se
+ordenará suprimir de esta providencia y de toda futura publicación los nombres
+de las partes, datos e información que permitan su identificación y su lugar de
+trabajo. En consecuencia, para efectos de identificar a las personas se
+utilizarán nombres ficticios, la Sala Quinta de Revisión emitirá dos copias de
+esta providencia, con la diferencia de que en el fallo que se publique se
+omitirán los nombres de las partes.[1]
+
+La Sala Quinta de Revisión de la Corte
+Constitucional, integrada por los Magistrados Miguel Polo Rosero, Paola Andrea
+Meneses Mosquera y Jorge Enrique Ibáñez Najar, quien la preside,en
+ejercicio de sus competencias constitucionales (arts. 86 y 241.9 de la C.P.) y
+legales (arts. 33, 34 y 35 del Decreto 2591 de 1991), ha proferido la
+siguiente:
+
+**SENTENCIA**
+
+En el trámite de revisión de
+los fallos proferidos, en primera instancia, por el Juzgado Dieciocho Penal del
+Circuito con Función de Conocimiento de Bogotá D.C. y, en segunda instancia,
+por el Tribunal Superior del Distrito Judicial de Bogotá -Sala Penal-, respecto
+de la acción de tutela presentada por *Julia* contra *la empresa*.
+
+**Síntesis de la decisión**
+
+La Corte conoció el caso de
+una ciudadana que, el 17 de agosto de 2023 y en su calidad de trabajadora de *la
+empresa*, formuló una queja por acoso ante el Comité de Convivencia Laboral
+de esa entidad. El Comité archivó la queja el 18 de diciembre de 2023, tras
+sostener que no estaban demostradas las conductas objeto de reproche. La actora
+sostuvo, en su demanda de tutela, que esta decisión había vulnerado su derecho
+al debido proceso. Además, dado que *la empresa*, el 11 de enero de 2024,
+terminó de manera unilateral su contrato de trabajo, pidió al juez
+constitucional declarar que se desconoció el fuero previsto en el artículo 11
+de la Ley 1010 de 2006.
+
+El Juzgado Sesenta y Cinco
+Penal Municipal con Función de Control de Garantías de Bogotá amparó los
+derechos fundamentales de la actora y dispuso su reintegro y el nuevo estudio
+de su queja. Con todo, el Juzgado Veintidós Penal del Circuito con Funciones de
+Conocimiento de Bogotá declaró la nulidad del fallo antedicho, argumentando que
+quien lo profirió no tenía competencia para ello. Así entonces, el asunto fue
+nuevamente repartido. Por sorteo, le correspondió al Juzgado Dieciocho Penal
+del Circuito con Función de Conocimiento de Bogotá, que concluyó que la acción
+no superaba el presupuesto de la subsidiariedad. Decisión que fue acompañada
+por el juez de segunda instancia.
+
+A partir de las pruebas
+recaudadas, la Corte Constitucional encontró que *Julia* contra *la
+empresa* reintegró a la accionante a su cargo, desde el 5 de febrero de
+2024, luego de que ello hubiere sido ordenado, en el fallo que se declaró nulo,
+por el Juzgado Sesenta y Cinco Penal Municipal con Función de Control de
+Garantías de Bogotá. En consecuencia, la Corporación declaró la existencia de
+una carencia actual de objeto por *situación sobreviniente* respecto de
+esta pretensión.
+
+Acto seguido, luego de
+advertir que la acción de tutela era procedente, por cumplir los requisitos de
+legitimación en la causa, inmediatez y subsidiariedad, la Sala Quinta de
+Revisión se propuso identificar si la vulneración del derecho al debido proceso
+de la actora se había presentado, por el hecho de que el Comité de Convivencia
+Laboral archivó su queja. Para esto, recordó el precedente jurisprudencial
+sobre el acoso laboral, el derecho al debido proceso en el trámite de las
+quejas, y el enfoque de género.
+
+Al resolver el caso concreto,
+la Sala identificó que, en esta oportunidad, se había trasgredido el derecho al
+debido proceso de la señora *Julia* porque, además de que el Comité no valoró de forma adecuada los hechos y las pruebas
+que conoció y en consecuencia, archivó su queja, no tenía competencia
+para hacerlo teniendo en cuenta que estaba pendiente la reunión de conciliación
+prevista en las Resoluciones 652 de 2012 y *ABC* de 2022.
+
+Como consecuencia, la Sala
+revocó las sentencias proferidas por los jueces de instancia, amparó el derecho
+al debido proceso de la accionante, y ordenó a *la empresa* que, por
+conducto de su Comité de Convivencia Laboral, continue con el trámite de la
+queja presentada por la actora y lleve a cabo la reunión de conciliación de que
+tratan las resoluciones señaladas.
+
+**I. ANTECEDENTES**
+
+**Hechos relevantes**
+
+**1.**La señora *Julia* se
+vinculó a *la Empresa*, desde el 4 de marzo de 2021, mediante “*contrato
+individual de trabajo de dirección, confianza o manejo”*.[2] Allí se desempeñó como jefe de la Oficina -en
+adelante, ORC-, ejerciendo la función de “*[d]efinir,
+proponer, asesorar y ejecutar las políticas, programas, planes, proyectos,
+estrategias y procesos para el relacionamiento con los diferentes grupos de
+interés de [la empresa], y para el manejo de la comunicación interna y externa,
+de acuerdo con los lineamientos impartidos por la Presidencia de la Empresa y
+el Gobierno Nacional*”.[3]
+
+**2.**La actora informó que,
+desde el momento en que *Humberto* se posesionó como presidente de la
+entidad, se presentaron en su contra varios actos de acoso laboral que -según
+señaló- habrían sido perpetrados tanto por el propio presidente, como por dos
+de sus colaboradoras: *Fabiola* y *Constanza*. Todo esto sin
+tener en consideración que, para la época en que ocurrió el acoso, se
+encontraba en embarazo. En el siguiente cuadro se resumen los actos que
+presuntamente tuvieron lugar:
+
+| |
+| --- |
+| **Presuntos actos de acoso cometidos en contra de la accionante**[4] |
+| La actora indicó que, desde el 30 de noviembre de 2022, trató de conversar con el presidente de *la empresa*, con el ánimo de que le diera alguna directriz en su trabajo. Esto porque él sería su jefe directo. Sin embargo, nunca le contestó. |
+| Señaló que el 12 de diciembre de 2022 supo, por otras fuentes, que al día siguiente el presidente de *la empresa* rendiría una entrevista ante periodistas del Sistema de Medios Públicos -RTVC-. Así, a pesar de no haber sido informada de ese hecho por parte del señor *Humberto*, asistió a la entrevista y observó que él invitaba a los periodistas de esa cadena a trabajar en la entidad, y a ejercer las funciones que a ella le correspondían contractualmente. Señaló que, con este actuar, el presidente invisibilizó por completo su trabajo. |
+| Señaló que el 13 de diciembre de 2022, el presidente de *la empresa* tuvo otra entrevista en el segmento *Pregunta Yamid*. Y que allí el señor *Humberto* asistió con el periodista *Roberto*. Indicó que, como jefe de la ORC, asistió a la entrevista. En ese espacio, sin embargo, el presidente nunca le presentó al mencionado periodista *Roberto*, ni le ordenó coordinar con él nuevas interacciones con los medios. Señaló que este era un acto de entorpecimiento laboral, que le impedía cumplir sus funciones. |
+| La accionante indicó que el 22 de diciembre de 2022, el presidente de *la empresa* coordinó una reunión con todos los directivos de la entidad. A esa reunión asistió, pero se percató de que *(i)* en ella estaba presente el periodista *Roberto*; y *(ii)* se iban a realizar, ese mismo día, nuevas entrevistas al presidente. Señaló que el presidente de *la empresa* estaba coordinando entrevistas con personas ajenas a la entidad, sin tener en consideración que esa era una sus funciones, como jefe de la ORC. Asumió, también, que este era un acto de entorpecimiento y de persecución laboral. |
+| Señaló que el 22 de diciembre de 2022, la jefe de la Oficina de Control Disciplinario Interno le informó que el presidente de *la empresa* quería que ella, como jefe de la ORC, coordinara una rueda de prensa, para el día siguiente, en Neiva. Indicó que, aunque inició las gestiones pertinentes para llevar a cabo dicha diligencia, y que le informó de ello al presidente, este nunca le envió comentario ni retroalimentación alguna. |
+| Señaló que, en enero de 2023, le pidió al presidente de *la empresa* coordinar una reunión para informarle sobre sus estrategias en materia de comunicaciones, pero que él nunca la “*recibió como la Jefe de la Oficina*”. |
+| Expuso que el 24 de enero de 2023, en una reunión con el equipo de liderazgo, el señor *Humberto* se sentó a su lado y que, frente a todos los asistentes, preguntó si en la empresa “*no existían renuncias*”. Resaltó que, a partir del estrés que le produjo esta situación, tuvo que asistir a un centro de salud donde le diagnosticaron un cuadro de hipertensión, y le dieron 3 días de incapacidad. |
+| Señaló que el 27 de enero de 2023, la *W* publicó un reportaje en el que se denunciaba la presunta contratación, en la presidencia de *Humberto*, de una importante cantidad de colaboradores. Expuso que, posiblemente, el presidente de *la empresa* interpretó que quien había filtrado esa información a los medios de comunicación había sido ella. A partir de esta situación -señaló- el acoso se hizo más evidente. Por ejemplo, indicó que la secretaria privada del presidente impartía órdenes directamente a su equipo, desconociendo que ella era la jefe de este. |
+| Expuso que, en los primeros meses del año 2023, el presidente de *la empresa* seguía convocando reuniones con el equipo directivo de la entidad, sin avisarle ni invitarla. Señaló que, para esa época, quien coordinaba las actuaciones del área de comunicaciones era la ciudadana *Constanza*, y que ella se entendía directamente con la secretaria privada del presidente, *Fabiola*. Todo esto sin reconocer que la jefe de la ORC era la accionante. Así, por ejemplo, indicó que el 2 de febrero de 2023 se enteró de que las funcionarias mencionadas estaban realizando gestiones para un viaje que el presidente realizaría a Cali y Popayán, con el ánimo de socializar un programa y sus beneficios. Toda vez que estas gestiones no se le comunicaron, la actora le expresó su molestia a la señora *Constanza*. |
+| La actora sostuvo que el 3 de febrero de 2023, luego de haber manifestado su inconformidad con el hecho de que se coordinaran actuaciones de su área sin consultarle, la señora *Fabiola* le informó que “*siguiendo instrucciones del presidente, la interlocución y coordinaciones con el Despacho del Presidente, debían surtirse a través de ella como asesora-contratista*”. Además, le indicó que quien iba a acompañar al presidente en el evento en Cali, sería la señora *Constanza* y que esa decisión estaba tomada. |
+| Resaltó que el 1 de marzo de 2023, el presidente de *la empresa* informó a cada uno de los miembros del equipo de la ORC, que él era su único jefe. Para la accionante, esto constituyó una ruptura del organigrama de la entidad, y un desconocimiento de sus funciones como jefe de la oficina referida. Indicó la actora que esta directriz afectó el trabajo de la ORC, porque los productos de esta no se podían entregar hasta que el presidente *Humberto* los avalara directamente, y ello a veces no sucedía. |
+| Explicó que el 17 de marzo de 2023, durante una reunión donde las áreas estaban presentando su informe de gestión (y a la que ella no asistió, pero sí otra funcionaria de la ORC), el presidente de *la empresa* se refirió a dicha oficina como la “*más mala de [la empresa]*”. |
+| Relató que el 30 de marzo de 2023 se realizó una reunión en la que tuvo un altercado con quien era, en ese entonces, la presidenta encargada de la entidad, dado que el señor *Humberto* se encontraba en comisión de servicios. El altercado surgió porque la ORC no había entregado un producto que el presidente *Humberto* no había autorizado. Allí, en medio de la discusión, indicó la actora que manifestó a sus compañeros estar cansada por el trato que venía recibiendo, y por el menosprecio constante de su trabajo. Señaló que el suceso le produjo nuevas afectaciones a su salud, de allí que nuevamente hubiere sido incapacitada por un día. |
+| Señaló que el 20 de marzo de 2023 trató de entablar una conversación con el presidente de *la empresa*, pero que este decidió no recibirla en su oficina. |
+| Resaltó que el 22 de marzo de 2023, en el Congreso de la República y en el marco de la radicación del proyecto de reforma pensional, el vicepresidente de Operaciones y Tecnología le comentó que el señor *Humberto* siempre acudía a expresiones despectivas cuando hablaba de la ORC, y que a ella se refería como “*la embarazada*”. También señaló que, en ausencia de la actora y en más o menos tres oportunidades, el presidente se acercó a los empleados de la oficina para preguntarles sobre la fecha en que renunciarían. |
+| Resaltó que el 10 de mayo de 2023 nació su hija. Indicó que el parto se adelantó 13 días, producto del estrés ocasionado por los tratos humillantes del presidente de la entidad. Además, señaló que cuando regresó de su licencia de maternidad, se le retiraron los beneficios del servicio de transporte a que tenía derecho como jefe de la ORC. |
+
+**3.**Por todo ello, la actora
+radicó, el 17 de agosto de 2023, una queja ante el Comité de Convivencia
+Laboral de *la empresa*.[5] No obstante, y a pesar de haber recibido la
+queja con éxito, el Comité le pidió a la accionante, el 1 de septiembre de
+2023, ajustar la misma a un formato Excel. Este ajuste fue realizado por la
+actora y, en consecuencia, la queja fue admitida formalmente el 5 de septiembre
+de 2023.[6] Para demostrar la ocurrencia de los hechos
+enlistados en el cuadro que antecede, la actora adjuntó varios pantallazos de
+la aplicación de mensajería *WhatsApp,* y pidió la citación de once
+testigos.[7]
+
+**4.**La señora *Julia* se
+reincorporó a la empresa el 13 de septiembre de 2023, luego de haber disfrutado
+su licencia de maternidad. Una vez regresó a su lugar de trabajo, se enteró de
+que su oficina había cambiado. El nuevo espacio de trabajo que le asignaron
+-señaló- era más pequeño y no tenía baño privado. La accionante interpretó que
+esto constituía una desmejora en sus condiciones laborales y, por ello, decidió
+ampliar la queja.[8]
+
+**5.**El 26 de septiembre de
+2023, el Comité escuchó en entrevista a la actora. En esa oportunidad, se le
+pidió ampliar el material probatorio que sustentaría sus dichos.[9] Ese material, que consistió en algunos correos
+donde se advierte que el presidente de *la empresa* no daba respuesta a
+sus comunicaciones, se envió al Comité el 6 de octubre de 2023.[10]
+
+**6.**El 31 de octubre de 2023,
+la accionante presentó una nueva ampliación de su queja. Según sostuvo, seguía
+siendo excluida de las reuniones del equipo directivo de la entidad, aún a
+pesar de hacer parte de él. En esa misma oportunidad, la actora preguntó por el
+trámite que se estaba dando a la queja, pues no veía avances sustanciales.[11] Frente a esto último, el 8 de noviembre de 2023,
+el Comité le informó que su intención había sido la de escuchar a todas las
+partes, pero que solo se había logrado entrevistar a la señora *Constanza*. En consecuencia, le
+informó que *Humberto* y *Fabiola* habían sido citados para finales
+de noviembre de ese año.[12]
+
+**7.**En efecto, el 8 de
+noviembre de 2023, el Comité escuchó a *Constanza*;[13] el 21 de noviembre de 2023,
+escuchó a *Fabiola*[14] y a *Humberto*;[15] el 23 de noviembre de 2023, escuchó dos testimonios que fueron
+solicitados por la accionante;[16] y el 4 de diciembre de 2023, escuchó dos testimonios que fueron
+solicitados por el señor *Humberto*.[17] Los acusados
+negaron cualquier acto de acoso laboral. De otra parte, al tiempo que los
+testigos llamados por la actora prefirieron guardar silencio, los testigos
+llamados por el presidente expresaron que él no había incurrido en acoso
+alguno.
+
+**8.**De otra parte, el Comité preguntó a la Dirección de Gestión de Talento Humano la fecha en
+que la señora *Fabiola* habría iniciado sus labores en la entidad. Esto a
+efectos de determinar si el Comité tendría la competencia de vincularla al
+trámite iniciado por la accionante. La dirección contestó, el 27 de noviembre
+de 2023, que la funcionaria “*se vinculó como trabajadora oficial en el cargo
+Asesora 200-02 adscrita al Despacho de la Presidencia a partir del día 16 de
+marzo de 2023*”.[18] También añadió que ella “*suscribió cláusula adicional al
+contrato de trabajo, para el ejercicio del cargo Gerente de Talento Humano y
+Relaciones Laborales a partir de 19 de septiembre de 2023*”.[19] Finalmente,
+la dirección contractual de la entidad informó que la ciudadana *Fabiola* fue
+contratista en el periodo comprendido entre el 12 de diciembre de 2022 y el 11
+de marzo de 2023.[20]
+
+**9.**De cualquier modo,
+mediante escritos del 15 y del 28 de noviembre de 2023, la actora solicitó al
+Comité agilizar el trámite de la queja. Sin embargo, al no haber recibido
+respuesta, solicitó a la Procuraduría General de la Nación, el 29 de noviembre
+de 2023, ejercer el poder disciplinario preferente y asumir el conocimiento del
+asunto en el marco de sus competencias constitucionales y legales.[21]
+
+**10.**En respuesta, el 5 de
+diciembre de 2023, la Procuraduría Delegada
+Disciplinaria de Instrucción Cuarta para la Vigilancia Administrativa -en
+adelante, Procuraduría Delegada Cuarta- emitió un auto en el que ordenó
+realizar una visita a la entidad.[22] En esa visita, que tuvo lugar el 12 de diciembre de 2023, el
+Comité le explicó al funcionario de la Procuraduría el trámite de la queja a la
+luz de la Resolución *ABC* de 2022, y le expuso los avances que aquella
+había tenido.[23] Una vez se revisó lo anterior, la Procuraduría Delegada Cuarta
+profirió un nuevo auto el 15 de diciembre de 2023, en el que decidió declarar
+la improcedencia del ejercicio del poder preferente. En síntesis, la razón para
+ello se fundamentó en que no se había programado la audiencia de conciliación,
+sin la cual esa entidad no podría asumir la competencia de la queja y, precisó
+que si en el curso de esa conciliación no había ánimo conciliatorio, el comité
+debería remitir la queja a la Procuraduría General de la Nación.[24]
+
+**11.**En la misma decisión antedicha, la
+Procuraduría Delegada Cuarta remitió el asunto al Viceprocurador General de la
+Nación, para que asumiera el seguimiento de que trata el artículo 11 -inciso 3-
+de la Resolución 456 de 2017.[25]
+
+**12.**El viceprocurador General de la Nación, el
+18 de diciembre de 2023, remitió un comunicado a los miembros del Comité de
+Convivencia Laboral de la entidad, indicándoles que, si el procedimiento
+preventivo no resultaba efectivo, la Procuraduría General de la Nación debía
+asumir el estudio del caso. En ese sentido, el viceprocurador indicó que “*Se considera del caso precisar que esta clase de asuntos
+deben resolverse con diligencia y una vez se agote el procedimiento a cargo del
+Comité de Convivencia, la respectiva actuación, si fuere ello lo procedente,
+siempre deberá remitirse a la Procuraduría General de la Nación*.[26]
+
+**13.**A pesar de lo anterior, el
+mismo 18 de diciembre de 2023 el Comité de Convivencia Laboral de *la empresa*
+decidió archivar la queja, tras interpretar que no existían elementos de juicio
+suficientes que acreditaran la existencia del presunto acoso laboral al que se
+refirió la actora. Esta decisión se comunicó a la accionante por medio de
+oficio del 21 de diciembre de 2023. Allí se declaró la falta de competencia en
+relación con *Fabiola*, debido a que no tenía la calidad de trabajadora
+oficial para el momento de los presuntos hechos de acoso laboral y frente a los
+demás accionantes, se consignó que el archivo se motivó en la falta de
+elementos probatorios que demostraran por lo menos sumariamente, la ocurrencia
+de presuntas conductas de acoso laboral.***[27]***
+
+**14.**En comunicación del 2 de
+enero de 2024, el viceprocurador General de la Nación reiteró al Comité que, si
+no se lograba una conciliación entre las partes en el marco del procedimiento
+preventivo previsto en la Ley 1010 de 2006, se debía remitir el caso a la
+Procuraduría General de la Nación para que allí se resolviera lo pertinente.
+Para esto citó la Circular 20 de 2007, la Circular *123* de 2007 y la
+Resolución 3094 de 2023 -artículo 13, numeral 8-. Luego, con base en estas
+normas, reprochó al Comité el haber archivado la queja. Así se pronunció el
+funcionario:
+
+*“Siguiendo
+estas líneas normativas, el artículo 35 de la citada Resolución 3094 del 1 de
+septiembre de 2023, expedida por el Ministerio del Trabajo (…) revela la
+carencia de facultades de archivo por parte del Comité de Convivencia Laboral
+aduciendo como razones que no hubo acoso laboral.*
+
+*“Lo mandado y
+reglamentado en las normas legales anteriormente en cita permiten concluir a la
+Procuraduría General de la Nación que el Comité de Convivencia Laboral -Nivel
+Central- de [la empresa], en principio, no ha seguido con rigurosidad tanto lo
+sustantivo como lo procedimental para conocer y tramitar la queja de acoso
+laboral de la señora [Julia] así como tampoco para ordenar el archivo de la
+misma y no ha fundamentado jurídicamente en forma concreta su competencia.*
+
+*“Por lo
+tanto, se requiere al Comité de Convivencia Laboral de [la empresa] en el
+ámbito preventivo dar aplicación a lo normado principalmente en la Ley 1010 de
+2006, las Circulares 20 y 42 de 2007, dictadas por la Procuraduría General de
+la Nación, y la Resolución 652 de 2012 del Ministerio del Trabajo, cumpliendo
+estrictamente el procedimiento de conciliación y si hay conciliación cumplir lo
+acordado, y si esto no se logra obligatoriamente remitir la referenciada queja
+a la Procuraduría General de la Nación, para el ejercicio de sus funciones
+disciplinarias”.****[28]***
+
+**15.**De otro lado, el 22 de diciembre de 2023,
+el apoderado de la actora formuló acción disciplinaria contra los miembros el
+comité por haber archivado la queja. Así las cosas, en Auto del 25 de enero de
+2024, la Procuraduría Delegada Cuarta decidió iniciar una indagación previa por
+estos hechos. En su solicitud, el apoderado de la accionante informó que el
+comité, cuando decidió archivar el caso, incurrió en una serie de irregularidades.
+Por ejemplo, *(i)* no escuchó los 11 testimonios que habían sido
+solicitados por la accionante; *(ii)* escuchó -en calidad de testigos- a
+dos funcionarias del despacho del presidente que, además, no estaban vinculadas
+a la entidad para el momento en que se presentó el acoso laboral; y *(iii)*
+omitió citar a una reunión de conciliación a las partes, o remitir el caso a la
+Procuraduría General de la Nación para que esta continuara con su estudio.[29]
+
+**16.**Con todo, teniendo en
+cuenta que la queja se archivó por parte del Comité, el presidente de *la
+empresa* ordenó la desvinculación de la actora, a partir del 11 de enero de
+2024.[30] La terminación del contrato se efectuó el 11 de
+enero de 2024, no tuvo justa causa y fue unilateral, con el pago de la
+correspondiente indemnización. Para la accionante, este actuar desconoció lo
+previsto en el artículo 11 de la Ley 1010 de 2006, según el cual, una persona
+que haya instaurado una queja por acoso laboral no puede ser desvinculada de la
+entidad en los seis meses siguientes.
+
+**17.**A partir de los hechos
+relatados hasta este punto, la accionante formuló acción de tutela mediante
+apoderado judicial en contra de *la empresa* el 13 de enero de 2024.[31] En concreto, pidió al juez constitucional
+amparar sus “(…) *derechos fundamentales al
+trabajo, estabilidad laboral reforzada y el debido proceso consagrados en los
+artículos 25, 26, 29 y 53 de la Constitución Política de 1991*”.[32] Como consecuencia de lo anterior, solicitó *(i)*
+ordenar a *la empresa* reintegrarla al mismo cargo que desempeñaba; y *(ii)*
+ordenarle al Comité de Convivencia Laboral que trámite nuevamente su queja, de
+conformidad con las reglas establecidas en la Ley
+1010 de 2006 y en la Resolución *ABC* de 2022. Para este propósito, pidió
+ordenar que se respete su derecho al debido proceso y que, en el evento en que
+no se llegue a una conciliación entre las partes, se remita el asunto a la
+Procuraduría General de la Nación para lo de su competencia.[33]
+
+**Trámite
+procesal**
+
+**18.**El Juzgado
+Sesenta y Cinco Penal Municipal con Función de Control de Garantías de Bogotá.
+D.C., admitió la acción de tutela el 13 de
+enero de 2024, y dio traslado a las entidades accionadas y vinculadas para que
+remitieran su versión de los hechos.[34]
+
+**19.**Luego de haber
+recibido los informes de las entidades involucradas, profirió sentencia el 26
+de enero de 2024.[35] Allí decidió amparar los derechos
+fundamentales de la accionante. En primer lugar, citó el artículo 13 de la
+Resolución 3094 de 2003, proferida por el Ministerio del Trabajo, para sostener
+que “(…) *la citación de las partes implicadas a la reunión de
+conciliación no es discrecional del Comité de Convivencia Laboral sino que es
+este uno de los presupuestos que debe cumplirse una vez se tiene conocimiento
+de queja por acoso laboral”*.[36] Añadió que el Comité, de acuerdo con lo establecido en el
+artículo 25 de la misma resolución y en caso de considerar que no tenía pruebas
+contundentes sobre la ocurrencia de los hechos, debió solicitarlas y no
+archivar la solicitud. Así, dado que el Comité no propició un espacio de
+conciliación, desconoció el derecho al debido proceso de la actora. En
+consecuencia, ordenó al Comité retrotraer las diligencias con el objeto de
+citar la mencionada reunión de conciliación.
+
+**20.**En segundo lugar, en
+cuanto a la pretensión de reintegro, el juzgado señaló que, si el archivo de la
+queja había sido contrario a la ley, entonces no había surtido efectos
+jurídicos. Acto seguido, recordó el alcance del fuero establecido en el
+artículo 11 de la Ley 1010 de 2006 y resaltó que el despido, en este caso,
+ocurrió el 11 de enero de 2024 (esto es, 12 días después de que el Comité
+archivó la queja). El juzgado resaltó que, a partir de lo anterior, era posible
+inferir que la desvinculación constituía una retaliación por parte del
+empleador en contra de una servidora pública que presentó una queja. En
+consecuencia, y teniendo en cuenta que la entidad accionada no demostró que la
+causa del despido hubiere sido objetiva, ordenó el reintegro de la señora *Julia*.
+
+**Nulidad de la decisión**
+
+**21.**Contra la anterior
+providencia, la parte accionada presentó la respectiva impugnación. En ese
+escrito, resaltó que la acción de tutela no cumplía con el requisito de
+subsidiariedad porque la actora contaba con otras vías judiciales para debatir
+la legalidad del despido. Además, resaltó que de conformidad con lo expuesto en
+el artículo 11 de la Ley 1010 de 2006, la sola instauración de una queja de
+acoso laboral no activa el fuero, pues para ello es necesario que una autoridad
+judicial o administrativa verifique la ocurrencia de los hechos.[37]
+
+**22.**La impugnación debía
+ser resuelta por el Juzgado Veintidós Penal del
+Circuito con Funciones de Conocimiento de Bogotá D.C. Con todo, esa autoridad judicial, en providencia del 28 de febrero de
+2024,[38] declaró la nulidad del proceso. Esto
+obedeció a que, de conformidad con lo dispuesto en el artículo 2.2.3.1.2.1 del Decreto 1069 de 2015, “*[l]as
+acciones de tutela que se interpongan contra cualquier autoridad, organismo o
+entidad pública del orden nacional serán repartidas, para su conocimiento en
+primera instancia, a los Jueces del Circuito o con igual categoría*”. El
+juzgado explicó que *la empresa* era una “*entidad descentralizada por servicios del orden nacional*”.[39] Por ello -señaló- “*la competencia en primera instancia para conocer de esta acción
+constitucional es de los Juzgados del Circuito*”.[40] En consecuencia, consideró que el Juzgado Sesenta y Cinco Penal
+Municipal con Función de Control de Garantías de Bogotá. D.C. no era competente
+para resolver la acción de tutela formulada por la señora *Julia*. Por ello,
+además de declarar la nulidad del fallo proferido por esa autoridad judicial,
+ordenó el envío del expediente a la oficina de apoyo judicial, para que se
+repartiera entre los jueces del circuito de Bogotá.
+
+**Nuevo
+reparto de la tutela**
+
+**23.**Luego de que se
+declarara la nulidad de todo lo actuado, la acción de tutela se repartió al Juzgado Dieciocho Penal del Circuito con Función de Conocimiento
+de Bogotá. Mediante auto del 1 de marzo de 2024, ese despacho corrió traslado a
+*la empresa*, y dispuso la vinculación de la Procuraduría General de la
+Nación y del Ministerio del Trabajo. Con posterioridad, en Auto del 12 de marzo
+de 2024, vinculó al Comité de Convivencia Laboral de *la empresa* y a la
+Agencia Nacional de Defensa Jurídica del Estado.[41]
+
+**Contestación de las accionadas**
+
+**24.***La empresa*.[42] El jefe de la Oficina Asesora de
+Asuntos Legales de esa entidad, resaltó que en este caso no se cumplía el
+requisito de subsidiariedad. Sostuvo que el juez ordinario laboral es el
+competente para definir si se presentaron actos de acoso laboral en contra de la
+señora *Julia*, si se vulneró algún
+derecho con su desvinculación o si resulta procedente el reintegro solicitado.
+Todo ello teniendo en cuenta que la actora no se encontraba en un escenario de
+vulnerabilidad evidente para el momento en que instauró la acción.
+
+**25.**Además, resaltó que la accionante no
+gozaba de fuero alguno cuando fue desvinculada. Señaló que, en virtud de lo
+establecido en el artículo 11 de la Ley 1010 de 2006, para que el fuero opere,
+se requiere que la autoridad administrativa o judicial verifique las conductas
+catalogadas como acoso. Y en este caso esa verificación no se dio. Además,
+resaltó que el despido tuvo lugar en el marco de la discrecionalidad con que
+cuenta el empleador y que, precisamente por ello, se le reconoció una
+indemnización a la actora.
+
+**26.***Comité de Convivencia Laboral
+de la empresa**.*[43]El presidente del Comité de Convivencia Laboral de la entidad,
+señaló que el trámite de la queja instaurada por la actora respetó lo
+establecido en la Resolución *ABC* de 2022.[44] Explicó que
+en dicho procedimiento se escuchó a la accionante, a los acusados y a algunos
+testigos llamados por las partes. Indicó que la queja no se remitió al
+Ministerio Público porque ello solo debe ocurrir cuando *(i)* los
+elementos probatorios permiten concluir, al menos sumariamente, que el acto
+acoso sí ocurrió, y *(ii)* fracasa la conciliación entre las partes. En
+este caso -resaltó- con las pruebas aportadas por la señora *Julia* no pudo determinarse si las conductas
+constitutivas de acoso tuvieron lugar.
+
+**27.***Ministerio del Trabajo*.[45] Ese Ministerio resaltó que, respecto de la acción de tutela,
+carece de legitimación en la causa. Ello porque no ha vulnerado, ni por acción
+ni por omisión, los derechos fundamentales de la señora *Julia*. De otra
+parte, añadió que, en este caso, corresponde a la jurisdicción ordinaria
+laboral determinar si con el despido se desconoció alguna prerrogativa a la
+servidora pública. Además, añadió que la Ley 1010 de 2006 contempla diversos
+mecanismos dirigidos a lograr que se sancionen las presuntas conductas de
+acoso. Resaltó que la accionante puede acudir a dichos mecanismos.
+
+**28.***Procuraduría General de la
+Nación*.[46] Lina María Moreno Galindo, en su calidad de apoderada, solicitó
+que la Procuraduría sea desvinculada del proceso por falta de legitimación en
+la causa, dado que dicha autoridad no había desconocido ningún derecho a la
+accionante. Hizo énfasis en que cuando el apoderado de la actora solicitó el
+poder disciplinario preferente, se investigó el caso y se dio respuesta
+oportuna.
+
+**29.***Agencia Nacional de Defensa
+Jurídica del Estado*.[47] Jennyfer
+Jully Diaz Ramírez, en su calidad de apoderada, pidió a la autoridad judicial
+tener en cuenta el documento que envió al Juzgado Sesenta y Cinco Penal
+Municipal con Función de Control de Garantías de Bogotá, en el que impugnaba la
+decisión adoptada por la referida autoridad judicial. Con todo, el Juzgado
+Dieciocho Penal del Circuito con Función de Conocimiento de Bogotá decidió no
+tener en cuenta ese escrito, dado que aquel fue aportado en el marco de un
+proceso que, a la postre, se declaró nulo.
+
+**30.****Sentencia de primera instancia.** En Sentencia del 14 de marzo de 2024, el Juzgado Dieciocho Penal
+del Circuito con Función de Conocimiento de Bogotá declaró la improcedencia de
+la acción de tutela.[48] Al respecto, esa autoridad judicial señaló que, para solicitar su
+reintegro laboral o la protección de su derecho al debido proceso, la actora
+debió acudir a la jurisdicción ordinaria laboral. Máxime cuando no se advierte
+la existencia de un perjuicio irremediable que la afecte. En sus palabras, el
+juzgado estableció que ese mecanismo judicial:
+
+*“(…) materialmente es apto
+para producir el efecto pretendido por la accionante de protección de sus
+derechos al trabajo y la estabilidad laboral reforzada, e incluso el debido
+proceso, cristalizado en su pretensión de reintegro, teniendo en cuenta que
+dicha jurisdicción esta especialmente instituida para decidir los conflictos
+jurídicos que se originen directa o indirectamente del contrato de trabajo
+(artículo 2 del Código Procesal del Trabajo), incluyendo los referentes a los
+trabajadores oficiales, como fue el caso de la accionante”*.[49]
+
+**31.****Impugnación presentada
+por la accionante.** El apoderado
+de la accionante formuló impugnación contra la
+decisión antedicha.[50] Indicó que el *a quo* malinterpretó el alcance de la acción
+de tutela, pues el objeto de la misma no es que se defina si en este caso
+concreto pudo existir, o no, una práctica de acoso laboral. Al contrario, lo
+que se reprocha en el recurso de amparo es que el Comité de Convivencia Laboral
+pudo desconocer el derecho al debido proceso de la actora, por la forma en que
+tramitó y archivó su queja de acoso laboral. Además, consideró que la sentencia
+de primera instancia se profirió sin aplicar una perspectiva de género y sin tener
+en cuenta la calidad de víctima de acoso laboral. También -señaló- se reprocha
+el desconocimiento del fuero establecido en el artículo 11 de la Ley 1010 de
+2006. Para resolver estas materias -dijo- el juez constitucional es competente.
+Por último, consideró que el proceso ordinario laboral es ineficaz por el
+tiempo que se requiere para su decisión y en el cual no se contempla la
+protección de otros bienes jurídicos.
+
+**32.****Sentencia de segunda instancia.** En Sentencia
+del 7 de mayo de 2024, el Tribunal Superior del Distrito Judicial de Bogotá
+-Sala Penal- confirmó la decisión del *a quo*.[51] Señaló que el
+juez ordinario laboral es el competente para definir “*la naturaleza jurídica
+y la legalidad de la terminación [del] vínculo laboral con [la empresa]*”.[52] Además, resaltó
+el tribunal que “*lo que se cuestiona por medio de esta acción de tutela es
+la legalidad de un acto administrativo de carácter particular y concreto, que
+goza de presunción de acierto y legalidad, que no puede ser desconocido por el
+juez constitucional*”.[53] Por ello, concluyó, la acción de tutela no es el mecanismo
+adecuado para dirimir el conflicto.
+
+**Actuaciones en sede de
+revisión**
+
+**33.**El expediente de tutela se envió a esta
+Corte y, por medio de Auto del 30 de septiembre de 2024, se escogió para
+revisión. Antes de que la Corporación profiriera un auto de pruebas, *la
+empresa* remitió un escrito el 25 de noviembre de 2024.[54] Por conducto
+del Jefe de Oficina Asesora de Asuntos Legales de *la empresa*,
+resaltó el hecho de que, en la actualidad, la accionante ha sido reintegrada a
+su cargo y se encuentra trabajando con normalidad. Por esta razón, pidió al
+juez constitucional declarar la carencia actual de objeto, dado que se ha
+presentado un hecho superado. Resaltó que luego de que el Juzgado Sesenta y
+Cinco Penal Municipal con Función de Control de Garantías de Bogotá ordenó el
+reintegro relacionado, el mismo se materializó el 5 de febrero de 2024.
+
+**34.**De cualquier manera, reiteró que la
+desvinculación inicial de la accionante (que tuvo lugar el 11 de enero de 2024)
+nunca fue arbitraria, dado que se fundó en la facultad que otorga la ley a los
+empleadores para terminar una relación contractual, sin justa causa, previo
+pago de la indemnización correspondiente. Esta posibilidad -señaló- está
+contemplada “(…) *en el artículo 11 de la Ley 6
+de 1945, el artículo 51 del Decreto Reglamentario 2127 de 1945 y en el artículo
+6 del Reglamento Interno de Trabajo de [la empresa]”.****[55]***
+
+**35.**De otro lado, la entidad también sostuvo
+que, para el momento en que la actora fue desvinculada, no podía beneficiarse
+de estabilidad laboral alguna. Esto porque, aunque ella informó que en su favor
+operaba la protección especial de que trata el artículo 11 de la Ley 1010 de
+2006, lo cierto era que:
+
+“(…) *a la luz de la Jurisprudencia de la Sala de Casación Laboral de la
+Corte Suprema de Justicia a efectos que pueda señalarse la existencia del fuero
+de que trata el artículo 11 de la Ley 1010 de 2006, es “imprescindible que se
+verifiquen los hechos que constituyen acoso laboral por parte de la autoridad
+competente, es decir, no basta con indicar de manera simple que se es víctima
+de acoso laboral, sino que hay que señalar expresamente las conductas de
+tiempo, modo, lugar para que se pueda hacer la verificación respectiva”.*
+
+*Esta línea de
+pensamiento, ha sido reiterada y consolidada en el tiempo por el precedente de
+la jurisprudencia laboral, que para dar aplicación a las prerrogativas por retaliación,
+entre ellas, la de dejar sin efecto la ruptura del nexo laboral, ha enfatizado
+en que es requisito ineludible la constatación de la ocurrencia de los hechos
+puestos a conocimiento de la autoridad competente, en este caso, del Comité de
+Convivencia, es decir, en que cualquier trámite judicial bien sea de naturaleza
+constitucional como el presente o de carácter ordinario, la decisión de
+ineficacia del despido debe estar respaldada probatoriamente de la acreditación
+fehaciente en el plenario de los medios de prueba que den certeza sobre los
+hechos constitutivos de acoso”*.[56]
+
+**36.**La entidad pidió acudir al precedente
+contenido en las Sentencias T-433 de 2022 y T-141 de
+2024, de donde se extrae que la sola presentación de la queja no es suficiente
+para que se active la garantía prevista en el artículo 11 de la Ley 1010 de
+2006.
+
+**37.**Finalmente, *la empresa* indicó que
+no había desconocido el derecho al debido proceso de la accionante, en tanto y
+en cuanto solo la desvinculó luego de advertir que la queja presentada por ella
+no tenía fundamento. Resaltó que la decisión antedicha obedeció a que no se aportaron pruebas que acreditaran las
+presuntas actuaciones de acoso. La empresa recordó que los testigos llamados
+por la accionante decidieron ejercer su derecho a guardar silencio, al tiempo
+que los testigos llamados por el señor *Humberto* expresaron que él no
+había incurrido en prácticas de acoso.
+
+***Auto de pruebas del 9 de
+diciembre de 2024***
+
+**38.**Revisado el expediente, con el ánimo de
+contar con mayores elementos de juicio, el Magistrado sustanciador estimó
+necesario recaudar algunas pruebas.[57] Al mismo tiempo, vinculó a los ciudadanos *Humberto*, *Fabiola* y *Constanza*.
+
+**39.**En cuanto a la práctica de pruebas,
+solicitó: *(i)* a los Juzgados Sesenta y Cinco Penal Municipal con Función de Control de
+Garantías y Veintidós Penal
+del Circuito con Funciones de Conocimiento de Bogotá, copia de las actuaciones
+que tuvieron lugar en el trámite de la acción de tutela; *(ii)* al Comité de Convivencia
+Laboral de la entidad accionada, la documentación relativa al proceso que
+surtió la queja presentada por la actora, información sobre la independencia
+que el Comité tenía en relación con los sujetos contra quienes se formuló la
+queja, e información sobre la posible existencia de nuevas quejas contra ellos
+por presuntas prácticas de acoso laboral; *(iii)* a *la empresa*,
+copia de los contratos de trabajo que suscribió con la actora, información
+sobre las razones de su desvinculación, e información sobre el trato que le dio
+mientras ella estuvo vinculada a la empresa; *(iv)* a la Procuraduría
+General de la Nación, información sobre el trámite que había dado a la
+petición, presentada por la actora, relativa a ejercer el poder disciplinario
+preferente; y *(v)* a la accionante, información sobre las circunstancias de tiempo,
+modo y lugar en que pudo ocurrir el acoso que denunció, así como sobre sus
+condiciones materiales actuales y su relación laboral con la accionada.
+
+**40.**En respuesta, el 11 y el 12 de diciembre de
+2024, los Juzgados Veintidós Penal
+del Circuito con Funciones de Conocimiento[58] y Sesenta y Cinco Penal Municipal con Función de Control de
+Garantías de Bogotá[59] remitieron
+copia de las actuaciones llevadas a cabo en esas instancias. El Juzgado Sesenta y Cinco Penal
+Municipal con Función de Control de Garantías de Bogotá también reiteró que, aunque profirió decisión de
+primera instancia en el caso, “*[e]l 28 de febrero de 2024, el Juzgado 22
+Penal del Circuito con Funciones de Conocimiento de Bogotá D.C resolvió
+declarar la nulidad de todo lo actuado en la acción constitucional sin
+perjuicio de la validez y eficacia de las pruebas aportadas en los términos del
+inciso 2° del artículo 138 del Código General del Proceso, así como remitir las
+diligencias a la oficina de apoyo judicial, para que se efectuara de manera
+inmediata el reparto ante los Juzgados del Circuito de Bogotá para que se
+asumiera el trámite de la acción constitucional”*.[60]
+
+**41.**El 18 de diciembre de 2024, el Comité
+de Convivencia Laboral[61] dio respuesta al auto de pruebas. Además de remitir a esta Corte
+copia de cada una de las actuaciones que se siguieron en el trámite de la queja
+presentada por la actora, informó que en ese proceso se había respetado, de
+manera estricta, lo dispuesto en la Resolución *ABC* de 2022. Señaló que,
+con base en esa norma, y al adelantar el procedimiento preventivo “(…) *se escuchó a las partes [Julia], [Fabiola],
+[Constanza] y [Humberto], de las cuales solo [Julia] y [Humberto]solicitaron
+escucha de testigos para complementar su versión de los hechos, motivo por el
+cual este comité citó a las señoras* *[…]**,
+por parte de la señora [Julia], y a las señoras […], por parte del señor
+[Humberto]*”.[62]
+
+**42.**Resaltó que los testigos de la accionante
+decidieron guardar silencio, y que los testigos del señor *Humberto* informaron
+que él no había incurrido en práctica de acoso alguna. A lo anterior se sumó el
+hecho de que, en la diligencia donde se escuchó a la actora, ella manifestó no
+haber tenido inconvenientes con los acusados desde su regreso de la licencia de
+maternidad. Del mismo modo, resaltó el Comité que el señor *Humberto* informó
+que tampoco había tenido problemas recientes con la actora. En tal sentido,
+señaló que, en tanto no se encontró mérito para continuar la investigación, se
+ordenó su archivo.
+
+**43.**Sobre la composición del Comité, se
+citaron los artículos 4, 5, 12 y 14 de la Resolución *ABC* de 2022, para
+decir que en su conformación “*(…) intervienen la Gerencia de Talento Humano
+y el despacho de la Presidencia*”. Al respecto, el Comité añadió que “(…) *la
+Gerencia de Talento Humano y Relaciones Laborales es la responsable del
+aseguramiento del cumplimiento de las políticas y programas dirigidos a la
+prevención de las conductas de acoso laboral, dentro de las cuales se encuentra
+el Comité de Convivencia Laboral*”.[63]
+
+**44.**Sobre la presunta presión que pudiera
+ejercer el presidente de *la empresa* en las decisiones del Comité, se
+expuso que “(…) *ni [él] ni el equipo directivo tienen injerencia alguna en
+las decisiones adoptadas por el Comité de Convivencia Laboral, toda vez que
+como se advirtió en incisos anteriores, las actuaciones gozan de reserva y
+confidencialidad, y sólo son conocidas por los integrantes del comité y las
+partes intervinientes. Asimismo, las decisiones adoptadas se basan solamente en
+los hechos y pruebas aportadas en el procedimiento preventivo”*.[64] Con todo, el
+Comité reconoció que se compone de cuatro miembros. De ellos, el empleador
+escoge dos, y los trabajadores escogen otros dos (se citó, al respecto, el
+artículo 13 de la Resolución *ABC* de 2022).
+
+**45.**El Comité señaló que la accionante, para
+probar sus dichos en el procedimiento preventivo, allegó copia de algunos
+mensajes de *WhatsApp*, de algunos correos corporativos y de algunas incapacidades
+médicas. Estas pruebas fueron aportadas como anexo a la respuesta remitida.
+
+**46.**De otra parte, el Comité detalló los
+cargos que ostentaban *Fabiola* y *Constanza* para el momento en que
+ocurrieron los hechos, e indicó que contra esas ciudadanas no existían procesos
+abiertos por acoso laboral en la actualidad. De otro
+lado, señaló que contra el señor *Humberto* tampoco existían otras quejas
+por acoso laboral.
+
+**47.**Finalmente, informó que luego de que el
+Juzgado Sesenta y Cinco Penal Municipal con Función de Control de Garantías de
+Bogotá ordenó el reintegro de la accionante, y el reinicio del trámite de la
+queja, el abogado recusó a los miembros del comité. Esto tras considerar que
+quienes habían archivado la queja el 18 de diciembre de 2023 no podían
+resolverla de nuevo. El Comité señaló que estas recusaciones se declararon
+fundadas y que, por tanto, el nuevo trámite fue enviado a los miembros
+suplentes. Empero, luego de ello, los suplentes se declararon impedidos, el 7
+de febrero de 2024, para conocer el asunto. Esto porque, como suplentes,
+también intervinieron en la decisión que se tomó en diciembre de 2023,
+relacionada con el archivo de la queja. Esas manifestaciones de impedimento
+fueron enviadas al Ministerio del Trabajo para que se resolvieran. No obstante,
+el comité no informó el estado actual de dicho trámite, no indicó si los
+impedimentos se declararon fundados, y no detalló si el trámite de la queja se
+reinició con posterioridad en *la empresa*.
+
+**48.**De otra parte, el 16 de diciembre de 2024,
+*la empresa*[65] informó que la actora inició labores el 4 de marzo de 2021.
+Añadió que, aunque fue desvinculada el 11 de enero de 2024, fue
+reintegrada a sus funciones el 5 de febrero de ese mismo año, en cumplimiento
+de la decisión adoptada por el Juzgado Sesenta y Cinco Penal Municipal con
+Función de Control de Garantías de Bogotá. Informó que el vínculo laboral se
+mantiene, actualmente, vigente.
+
+**49.**Señaló que “(…) *la [ORC] es una
+dependencia adscrita al Despacho del Presidente de la empresa, que tiene entre
+otras funciones* ‘*Definir, proponer, asesorar y ejecutar las políticas,
+programas, planes, proyectos, estrategias y procesos para el relacionamiento
+con los diferentes grupos de interés de [la empresa], y para el manejo de la
+comunicación interna y externa, de acuerdo con los lineamientos impartidos por
+la Presidencia de la Empresa y el Gobierno Nacional*’.[66]Del mismo modo, reconoció que el cargo que ostenta la actora es
+del nivel directivo, y que su función es la de *“[p]roponer al presidente,
+dirigir y liderar la formulación de políticas y la adopción de planes,
+programas y proyectos dirigidos a mejorar los macro procesos de
+direccionamiento empresarial y de gestión de control y evaluación. En el marco
+de las normas, políticas y lineamientos institucionales*”.[67]
+
+**50.**Indicó que la decisión de dar por
+terminado el contrato de trabajo con la actora, “(…) *correspondió a la
+aplicación de la cláusula sexta del contrato de trabajo, así como del
+Reglamento Interno de Trabajo de la empresa, en los cuales se señala que:* ‘*Fuera
+de los casos a que se refieren los artículos 16, 48, 49 y 50 del Decreto 2127
+de 1945 y, frente a la terminación unilateral del contrato de trabajo sin justa
+causa por parte de [la empresa], las partes que conforman el presente contrato
+de trabajo, acuerdan en desarrollo del principio de bilateralidad y
+consensualidad, que la entidad empleadora liquidará y pagará al trabajador
+oficial una indemnización*’”.[68]
+
+**51.**Finalmente, resaltó que protegió a la
+accionante durante su embarazo, en tanto su hija nació el 10 de mayo de 2023 y
+no la desvinculó sino hasta el 11 de enero de 2024. A su turno, explicó que
+durante el periodo de lactancia *(i)* le aseguró a la servidora pública
+trabajar de manera remota en ciertos periodos, por indicaciones médicas; y *(ii)*
+la retroalimentó sobre el alcance de la Ley 2306 de 2023, relacionada con el
+uso de salas de lactancia. También hizo énfasis en que no se habían presentado
+prácticas de exclusión en contra de la trabajadora, e informó que su cambio de
+oficina obedeció a una necesidad de la entidad, y no a un acto de desmejora en
+sus condiciones de trabajo.
+
+**52.**El 16 de diciembre de 2024, el jefe de la Oficina Jurídica de la Procuraduría General de la
+Nación,[69] Jorge Humberto Serna Botero, allegó una
+copia del trámite surtido ante el Ministerio Público. Entre la documentación
+aportada, se encuentra un informe rendido por el funcionario Felipe Soto Gómez,
+quien fungía como operador disciplinario de la Procuraduría Delegada Cuarta. En
+ese informe, se indica que *(i)* el apoderado de la accionante solicito a
+esa instancia adelantar el poder disciplinario preferente, dado que el Comité
+de Convivencia Laboral de *la empresa* no había dado trámite, de manera
+diligente, a la queja instaurada por la accionante; *(ii)* el 5 de
+diciembre de 2023, se ordenó una visita especial al comité; *(iii)* esa
+visita se llevó a cabo el 12 de diciembre de 2023 y allí el comité dijo a la
+Procuraduría General de la Nación que estaba escuchando a las partes y que
+procedería, luego de ello, a citar una reunión de conciliación. En
+consecuencia, el operador disciplinario indicó que no existía irregularidad
+alguna en ese procedimiento y, por tanto, en Auto del 15 de diciembre de 2023,
+declaró “*la improcedencia del ejercicio de poder disciplinario preferente*.”De cualquier manera, señaló que el viceprocurador General de la Nación
+conminó al comité, el 18 de diciembre de 2023 y el 2 de enero de 2024, a
+realizar la mencionada reunión de conciliación.
+
+**53.**El 16 de diciembre de 2024, la señora *Julia*[70] remitió respuesta al auto de pruebas. En su comunicación, informó
+que se encontraba “*vinculada a [la empresa] mediante contrato de trabajo,
+desde el 4 de marzo de 2021, desempeñándose en el cargo de Jefe de la Oficina
+[…]”.****[71]***Reiteró, por otra parte, cada
+uno de los hechos que, en su sentir, constituían acoso laboral y que fueron
+señalados en los antecedentes de esta providencia. También reiteró sus
+funciones, e indicó que su jefe directo es el presidente *Humberto*.
+
+**54.**Respecto de los actos que pudieron constituir
+acoso laboral, añadió algunos a su relato: *(i)* señaló que, el 2 de octubre de 2023, el presidente de *la
+empresa* le dijo que ella no tenía dignidad, como sí la tenían otras
+personas que habían renunciado a sus cargos directivos en la entidad; *(ii)* resaltó que el 13 de
+diciembre de 2023, el presidente expresó que “*[l]a Oficina de Comunicaciones
+no [servía] para nada*”;[72] e *(iii)*
+indicó que, aunque en la actualidad continúa en su cargo, no la volvieron a
+invitar a las reuniones de gabinete, que son programadas por el presidente y a
+las que asisten los miembros del equipo directivo de la empresa. En ese
+sentido, reiteró que el señor *Humberto* continúa ignorándola, sin darle
+órdenes de manera directa aun a pesar de ser su superior jerárquico. Indicó que
+el presidente, solo de manera esporádica, le envía razones con su secretaria
+privada y por medio de correos electrónicos.
+
+**55.**De otro lado, la accionante confirmó que,
+a la fecha, ha iniciado dos acciones relacionadas con el acoso laboral que, en
+su sentir, ha experimentado. Al respecto, señaló lo siguiente:
+
+“[e]*n relación con acciones
+adelantadas en sede administrativa o judicial, actualmente se adelantan dos
+actuaciones ante la Procuraduría General de la Nación:*
+
+*1. Expediente IUS E-2024
+[…]*
+
+*Queja disciplinaria por
+acoso laboral en contra de [Humberto], [Fabiola] y [Constanza].*
+
+*2. Expediente IUS-E-2023
+[…]*
+
+*Queja disciplinaria en
+contra de los miembros del Comité de Convivencia Laboral de* *[la empresa]* *por el
+archivo injustificado y sin competencia de la queja por acoso laboral*”.[73]
+
+**56.**El 18 de diciembre de 2024, *Constanza*[74] intervino para solicitar, de manera explícita, su desvinculación
+de la causa. Al respecto, señaló que en ningún momento ha acosado laboralmente
+a la actora y que, en tanto ella es su jefe, no tiene poder alguno para decidir
+sobre su vinculación laboral a la entidad. Sobre esto último, informó lo
+siguiente:
+
+*“Soy trabajadora oficial de
+[la empresa], subalterna de la accionante, no tengo la capacidad jurídica ni
+administrativa para vulnerar los derechos fundamentales que invoca la
+accionante como el TRABAJO, ESTABILIDAD LABORAL REFORZADA y el DEBIDO PROCESO.
+No está dentro de mis funciones contratar a la accionante, terminarle su
+contrato de trabajo, reintegrarla, o cualquier situación laboral administrativa
+con relación a ella. No hago parte del comité de convivencia de [la empresa]”.****[75]***
+
+**57.**Además, resaltó la ciudadana que
+actualmente se adelanta una investigación disciplinaria en su contra por el
+hecho de haber, presuntamente, acosado a la accionante. Señaló que está a la
+espera de lo que allí se resuelva.
+
+**Traslado de pruebas**
+
+**58.**El 14 de enero de 2025, la Secretaría
+General de esta Corporación dio traslado, por tres días, de las pruebas
+recaudadas. En ese lapso, la señora *Julia*[76] reiteró que:
+*(i)* su cargo era del nivel
+directivo; *(ii)* el
+acoso en su contra persiste en la actualidad; *(iii)* el 11 de enero de 2024 fue despedida sin que se respetara el
+fuero previsto en el artículo 11 de la Ley 1010 de 2006; *(iv)* la oficina que le asignaron
+cuando regresó de su licencia de maternidad es notoriamente más pequeña que la
+que tenía antes; *(v)* ya no cuenta con el servicio de transporte en la entidad, ni le
+han asignado conductor; *(vi)* en el trámite de su queja, el Comité escuchó dos testimonios
+solicitados por el presidente, a pesar de que las personas que los rindieron se
+vincularon a la empresa con posterioridad a la ocurrencia de los hechos; *(vii)* aunque sí afirmó, en la
+entrevista que rindió, que la relación con los presuntos victimarios era
+cordial, ello no significa que el acoso no hubiere existido; y *(viii)* aunque *Constanza* es su
+subalterna, eso no impide que pueda ser un sujeto activo del acoso.
+
+**59.**Por su parte, *Constanza*[77] indicó que: *(i)*
+en la actualidad, no está demostrado que hubiere acosado a la accionante, ni
+tiene el poder para hacerlo; *(ii)* en la sesión donde el Comité escuchó a
+la señora *Julia*, ella sostuvo que
+entre las dos existía una buena relación; *(iii)* no existe una íntima amistad
+entre ella, *Humberto* y *Fabiola*; y *(iv)* nunca se han
+presentado otras quejas de acoso laboral en su contra.
+
+**60.**Por su parte, de manera extemporánea, *la
+empresa*[78] remitió un nuevo escrito a esta Corte. En él volvió a explicar la
+naturaleza del cargo que ostenta la actora, y añadió que la desvinculó en enero
+de 2024, luego de reconocerle una indemnización y sin que operara el fuero del
+artículo 11 de la Ley 1010 de 2006. Sin embargo, reiteró que ella está
+trabajando actualmente en la entidad y que, por eso, debía declararse un *hecho superado*.
+
+**II. CONSIDERACIONES**
+
+**A. Competencia**
+
+**61.**La Sala Quinta de Revisión de la Corte
+Constitucional es competente para revisar y decidir sobre la acción de tutela
+de la referencia, con arreglo a lo establecido en los artículos 86 y 241.9 de
+la Constitución Política, en concordancia con los artículos 33, 34 y 35 del
+Decreto 2591 de 1991, y en cumplimiento de lo resuelto por la Sala de Selección
+de Tutelas Número Nueve, en Auto del 30 de septiembre de 2024.
+
+**B. Cuestión
+previa. Carencia actual de objeto en lo relativo a la pretensión de reintegro**
+
+**62.**Como puede advertirse, en el caso concreto
+la actora formula dos pretensiones distintas. Una de ellas es obtener el
+reintegro a su puesto de trabajo, luego de que, el 11 de enero de 2024, fue
+desvinculada sin justa causa estando amparada por el fuero previsto en el
+artículo 11 de la Ley 1010 de 2006. En criterio de la accionante, el empleador no
+podía despedirla dado que no habían transcurrido más de seis meses, contados
+desde el momento en que formuló la queja ante el Comité de Convivencia Laboral.
+
+**63.**De cualquier manera, como ha podido
+advertirse en la narración de los hechos, la señora *Julia* fue reintegrada a la empresa accionada el 5 de febrero
+de 2024. Esto en cumplimiento de la providencia proferida, el 26 de enero de 2024, por el Juzgado Sesenta
+y Cinco Penal Municipal con Función de Control de Garantías de Bogotá. En efecto, en esa providencia, el juzgado ordenó
+“*(…) al representante legal y/o
+quien haga sus veces de [la empresa] que dentro de las cuarenta y ocho (48)
+horas siguientes al recibo de la presente proceda a realizar todas las
+actuaciones administrativas y presupuestales necesarias para que reintegre a la
+tutelante, señora* *[Julia]* *a un
+cargo de igual o mejor condición al que ocupaba al momento de su
+desvinculación”.*[79]
+
+**64.**El 28 de febrero de 2024, el fallo
+antedicho fue declarado nulo por parte del
+Juzgado Veintidós Penal del Circuito con Funciones de Conocimiento de
+Bogotá, bajo el argumento de que el
+juzgado que profirió la providencia en cuestión no tenía competencia para conocer del proceso, pues la accionada era una
+entidad del orden nacional. De
+cualquier manera, a pesar de esta decisión, *la empresa* mantuvo el
+vínculo contractual con la accionante. Al punto que, en la actualidad, ella
+continúa trabajando en la empresa, tal y como lo reconoció al dar respuesta al
+auto de pruebas del 9 de diciembre de 2024.
+
+**65.**Así las cosas, si una de las pretensiones
+de la señora *Julia* es obtener el
+reintegro al mismo cargo que venía desempeñando antes de haber sido
+desvinculada el 11 de enero de 2024, corresponde a la Corte definir si respeto
+de esta pretensión existe una carencia actual de objeto. En efecto, como se ha
+visto, *la empresa* solicitó, en su intervención del 25 de noviembre de
+2024, que se declare la existencia de un *hecho superado* en esta materia.
+Básicamente, *la empresa* sostuvo que si la accionante ya fue reintegrada,
+no existe, entonces, motivo alguno para continuar con el análisis de fondo
+respecto de ese asunto.
+
+**66.**En consecuencia, es necesario revisar si
+en este caso se está ante la figura del *hecho superado*, del *daño
+consumado*, o del *hecho sobreviniente*. La Corte Constitucional ha sostenido
+-siguiendo lo dispuesto en el artículo 86 de la Constitución- que la acción de
+tutela busca la protección inmediata de los derechos fundamentales de los
+ciudadanos. En esa medida, si entre el momento en que se instaura la acción de
+tutela y el momento en que esta se resuelve varían los hechos que presuntamente
+vulneran un derecho fundamental, el mecanismo de protección judicial podría
+perder su razón de ser.[80] En palabras de esta Corporación:
+
+*“(…)**la
+decisión del juez de tutela carece de objeto cuando, en el momento de
+proferirla, encuentra que la situación expuesta en la demanda, que había dado
+lugar a que el supuesto afectado intentara la acción, se han modificado
+sustancialmente, de tal manera que ha desaparecido toda posibilidad de amenaza
+o de daño a los derechos fundamentales. Siendo la defensa de éstos la
+justificación y el propósito de esta forma expedita de administrar justicia
+constitucional en el caso concreto, ningún sentido tiene que el fallador
+imparta órdenes de inmediato cumplimiento en relación con unas circunstancias
+que pudieron configurarse en el pasado pero que, al momento de cumplirse la
+sentencia, no existen o, cuando menos, presentan características totalmente
+diferentes a las iniciales”.****[81]***
+
+**67.**La jurisprudencia constitucional ha establecido
+que la carencia actual de objeto puede declararse cuando se presente un hecho
+superado, un daño consumado o una situación sobreviniente. El hecho superado, “*comprende
+el supuesto de hecho en el que, entre el momento en que se interpone la demanda
+de amparo y el fallo, se evidencia que, como producto del obrar de la
+entidad accionada, se eliminó la vulneración a los derechos fundamentales del
+actor*”.[82] Por su parte, el daño consumado “*consiste en que, a partir de
+la vulneración ius-fundamental que venía ejecutándose, se ha
+consumado el daño o afectación que con la acción de tutela se pretendía
+evitar, de forma que ante la imposibilidad de hacer cesar la vulneración o
+impedir que se concrete el peligro, no es factible que el juez de tutela dé una
+orden al respecto*”.[83] En este caso debe existir un nexo causal entre la acción (u
+omisión) y el daño acaecido.[84]
+
+**68.**Finalmente, la situación sobreviniente, ha
+sido catalogada como “*una categoría amplia y heterogénea que remite a
+cualquier «otra circunstancia que determine
+que, igualmente, la orden del juez de tutela relativa a lo solicitado en la
+demanda de amparo no surta ningún efecto y por lo tanto caiga en el vacío»”.*[85]Para declarar la existencia de una situación sobreviniente, corresponde
+al juez de tutela “(…) *analizar los siguientes
+elementos: (i) que exista una
+variación en los hechos que originaron la acción; (ii) que dicho
+cambio implique la pérdida de interés del accionante en que se acceda a sus
+pretensiones o (iii) que las mismas no se puedan satisfacer”.*[86]
+
+**69.**En el caso concreto, lo que puede
+advertirse es que, en tanto la accionante se encuentra trabajando en la
+actualidad, desempeñando el mismo cargo del que fue despedida inicialmente, se
+ha presentado una *situación sobreviniente*. En efecto, la actora describió
+en su acción de tutela un hecho que, desde su perspectiva, desconocía sus
+derechos al trabajo y a la estabilidad laboral reforzada. Ese hecho concreto
+tuvo lugar el 11 de enero de 2024, cuando el empleador decidió despedirla sin
+justa causa, reconociéndole previamente una indemnización. De cualquier manera
+-se reitera- *la empresa* vinculó nuevamente a la señora *Julia* desde el 5 de febrero de 2024 en
+adelante.
+
+**70.**Esta última circunstancia permite concluir
+que, contrario a lo sostenido por *la empresa*, en este caso no se
+acreditaron los requisitos para declarar la existencia de un *hecho superado*,
+pero sí los requisitos de la *situación sobreviniente*. En efecto, la
+vinculación del 5 de febrero de 2024 no ocurrió por la voluntad del accionado,
+sino por el hecho de un tercero -*la decisión del Juzgado Sesenta y Cinco
+Penal Municipal con Función de Control de Garantías de Bogotá que, a la postre,
+se declaró nula*-. Esto hace que cese el interés de la accionante en lo
+relativo, específicamente, a la pretensión del reintegro. Cualquier decisión
+que se adopte sobre este particular caería en el vacío. Por tanto, la Corte
+declarará la carencia actual de objeto en la parte resolutiva de esta
+providencia. En esa medida, el análisis de la problemática constitucional presentada
+por la señora *Julia* continuará con
+sus reproches restantes. Especialmente se estudiará si hubo un desconocimiento
+del debido proceso de la accionante, en el trámite que el Comité de Convivencia
+Laboral dio a su queja.
+
+**C. Análisis
+de procedencia de la acción de tutela**
+
+**71.**De acuerdo con lo señalado por esta Corte
+en amplia jurisprudencia, para que una tutela proceda, debe verificarse si
+cumple con la legitimación en la causa por activa y por pasiva, con la
+inmediatez y con la subsidiariedad.
+
+**72.*****Legitimación en la causa por
+activa****.* De acuerdo con este presupuesto, quien interpone la acción de
+tutela debe ser la persona que considera vulnerados o amenazados sus derechos,
+salvo que actúe por conducto de un tercero debidamente facultado para ello
+(representante legal, apoderado judicial o agente oficioso).[87] En este caso, se advierte que la señora *Julia* instauró la presente tutela
+por conducto de su apoderado judicial. En efecto, la acción se formuló por el
+abogado Julián Arturo Marín Méndez, quien recibió poder para ello.[88]En consecuencia, la legitimación en la causa por activa se
+acredita en esta oportunidad.
+
+**73.*****Legitimación*** ***en la causa por pasiva.*** De
+conformidad con lo dispuesto en el artículo 5 del Decreto 2591 de 1991 “[l]*a acción de tutela procede contra toda acción u omisión de
+las autoridades públicas, que haya violado, viole o amenace violar cualquiera
+de los derechos de que trata el artículo 2 de esta ley. También procede contra
+acciones u omisiones de particulares, de conformidad con lo establecido en el
+Capítulo III de este Decreto”.*[89]
+
+**74.**En este caso, la acción de tutela se
+dirigió contra *la empresa*. Esa entidad está legitimada en la causa por
+pasiva por dos razones: *primera*, porque se trata de una “*Empresa
+Industrial y Comercial del Estado organizada como entidad financiera de
+carácter especial*”,[90] que funge como la empleadora de la señora *Julia*. *Segunda*,
+porque en su calidad de empleadora, presuntamente, no atendió con diligencia la
+queja que por acoso laboral presentó la actora ante su Comité de Convivencia
+Laboral. En consecuencia, *la empresa* está llamada, *prima facie*, a
+responder en esta causa por la presunta trasgresión del derecho al debido
+proceso de la accionante.
+
+**75.*****Inmediatez.*** Con este requisito, “*se exige al tutelante haber ejercido la acción en un
+término razonable, proporcionado, prudencial y adecuado a partir del hecho que
+generó la presunta vulneración de los derechos constitucionales fundamentales*”.[91] En este caso concreto, la acción de tutela se
+formuló el 13 de enero de 2024, según el acta de reparto que se anexó al
+expediente.[92] De otro lado, el Comité de Convivencia Laboral
+de la entidad accionada decidió archivar la queja el 18 de diciembre de 2023,
+comunicándole a la actora dicha decisión mediante oficio del 21 de diciembre
+siguiente. En tal sentido y como puede verse, la accionante acudió al recurso
+de amparo poco menos de un mes después de haber recibido esa respuesta. Por
+ello, este requisito se acredita.
+
+**76.*****Subsidiariedad.*** Por regla general, esta Corte ha sostenido que la acción de tutela es
+subsidiaria. Sobre el particular cabe añadir que, según lo establecido en el artículo 86 de la Constitución Política,
+la tutela goza de un carácter residual. Lo que significa que solo procede para
+proteger derechos fundamentales, y siempre que *“el afectado no disponga de
+otro medio de defensa judicial”*.[93] Ahora, el artículo 86 Superior establece las siguientes dos
+excepciones a la regla general.
+
+**77.**La primera de ellas señala que, aun
+existiendo medios judiciales principales de defensa, la tutela procederá cuando
+“*se utilice como mecanismo transitorio para evitar un perjuicio irremediable*”.[94] Para que el
+perjuicio se entienda *irremediable*, debe ser inminente y grave, de modo
+tal que se deban tomar medidas urgentes e impostergables para superarlo.[95] Si todo esto
+está demostrado, el juez de tutela podrá amparar el derecho fundamental con
+efectos transitorios, mientras el actor hace uso del medio judicial principal
+de defensa.
+
+**78.**La segunda excepción consiste en que la
+acción de tutela será procedente si, a partir de lo dispuesto en el artículo 6
+-numeral 1- del Decreto 2591 de 1991, se encuentra acreditado que, por las
+condiciones particulares del accionante o la situación fáctica en que este se
+encuentra, los otros medios de defensa judicial no son idóneos ni eficaces para
+proteger el derecho fundamental. Si esto es así, procederá un amparo
+definitivo.
+
+**79.**La jurisprudencia
+constitucional ha sostenido que “[u]*n mecanismo judicial se considera que
+es idóneo cuando materialmente puede resolver el problema jurídico
+planteado y generar el restablecimiento de los derechos fundamentales. Por su
+parte, la eficacia del medio se predica de la posibilidad de brindar
+una protección oportuna de las garantías amenazadas o vulneradas”*.[96] Como se puede ver, ambos requisitos se deben
+analizar a la luz de las circunstancias que se presentan en cada caso concreto,
+y no de manera general o abstracta.[97]
+
+**80.**En este caso específico,
+está claro que el objeto del pronunciamiento que deberá adoptar la Corte
+Constitucional no gira alrededor de la pretensión del reintegro (en tanto sobre
+ello se presentó una *situación sobreviniente*), sino alrededor de las
+posibles fallas en que incurrió el Comité de Convivencia Laboral de *la
+empresa*, al momento de tramitar la queja que la actora presentó. Así las
+cosas, es necesario valorar el presupuesto de la subsidiariedad a la luz de
+esta circunstancia.
+
+**81.**La pregunta fundamental
+por resolver, entonces, es si la actora cuenta con otros mecanismos
+jurisdiccionales para, por un lado, cuestionar la actuación del Comité de
+Convivencia Laboral al momento de disponer el archivo de la solicitud y, por
+otro, solicitar que el trámite de su queja se reanude. Esta Corte entiende,
+contrario a lo indicado por las autoridades judiciales de primera y segunda
+instancia, que la única vía -idónea y eficaz- para lograr ese propósito es la
+acción de tutela. Esto obedece a dos razones en particular:
+
+**82.***Primera*. El artículo 13 de la Ley 1010 de 2006 establece
+un proceso especial que se ha de llevar ante la jurisdicción del trabajo o ante
+el Ministerio Público -dependiendo de la calidad del empleado-[98] dirigido a que, por conductas constitutivas de
+acoso laboral, se impongan sanciones a quienes incurran en ellas. Aunque la
+accionante ya acudió al Ministerio Público dado que es una servidora pública,[99] como puede advertirse, su objeto es imponer
+sanciones y ello no es lo que pretende la actora con su tutela. En el recurso
+de amparo, ella busca que el juez constitucional reconozca que el Comité de
+Convivencia Laboral no atendió su queja de manera oportuna, diligente y
+efectiva. En consecuencia, pidió ordenar que se
+respete su derecho al debido proceso y se
+trámite nuevamente su queja, de conformidad con las reglas establecidas en la
+Ley 1010 de 2006 y en la Resolución *ABC* de 2022 y, en el evento en que
+no se llegue a una conciliación entre las partes, se remita el asunto a la
+Procuraduría General de la Nación para lo de su competencia (*Supra* 17).
+
+**83.***Segunda*. Algo similar puede sostenerse en lo relativo a
+la acción disciplinaria que la señora *Julia* emprendió contra los
+miembros del Comité de Convivencia Laboral, por haber archivado la queja de
+manera injustificada. Además de que esta acción disciplinaria no es equivalente
+a un proceso judicial propiamente dicho, su único propósito es que se sancione,
+por su actuación, a los funcionarios que componen el comité. En contraste, al
+resolver la acción de tutela, el juez deberá analizar si el comité desconoció
+el derecho al debido proceso de la actora. En caso de que aquella vulneración
+se compruebe, el remedio judicial no consistirá en la imposición de una
+sanción. Al contrario, implicará un llamado de atención a la empresa para que
+aquella investigue este tipo de quejas de manera eficiente, y respetando el
+derecho al debido proceso de las partes.
+
+**84.**En efecto, no es la
+primera vez que la Corte acude a esta razón para sostener que la acción de
+tutela es el mecanismo principal a la hora de analizar pretensiones como la formulada
+por la actora. Tal fue el caso de la Sentencia T-168 de 2019, donde se recordó
+que: “(…) *respecto de los procedimientos
+sancionatorios que es posible desplegar, se destaca que éstos también se
+constituyen en mecanismos administrativos de protección y, en ese orden de
+ideas, no resultan idóneos para permitir el restablecimiento de los derechos
+de la víctima del acoso, en cuanto únicamente propenden por la sanción
+disciplinaria del denunciado*”.[100] (Subrayas
+fuera de texto).
+
+**85.**En igual medida, la
+Sentencia T-007 de 2019, en la que se analizó la vulneración del derecho de
+petición y debido proceso en el marco de una queja de acoso laboral, señaló que
+“… la Corte Constitucional ha indicado que (*i*) las medidas
+preventivas y correctivas no son mecanismos judiciales de protección de los
+derechos fundamentales del trabajador, siendo simplemente de instrumentos de
+carácter administrativo; y (*ii*) en lo que concierne al régimen
+sancionatorio, la Ley 1010 de 2006 dispone ciertas medidas contra quienes
+incurran en prácticas de acoso laboral, distinguiendo para ello entre los
+sectores público y privado, por lo que ‘*cuando el acoso laboral tiene lugar en el sector
+público, la víctima del mismo cuenta tan sólo con la vía disciplinaria para la
+protección de sus derechos, mecanismo que no sólo es de carácter administrativo
+y no judicial en los términos del artículo 86 Superior, sino que no resulta ser
+eficaz para el amparo del derecho fundamental a gozar de un trabajo en
+condiciones dignas y justas.*’”
+
+**86.**En consecuencia, el
+proceso especial previsto en el artículo 13 de la Ley 1010 de 2006 no es idóneo
+para resolver las pretensiones de la actora. Esto porque ese proceso está
+destinado, únicamente, a imponer sanciones. Por ello, se presenta una discusión
+sobre la posible vulneración del derecho al debido proceso en el marco de las
+medidas preventivas y correctivas de acoso laboral, que no son materia del
+proceso sancionatorio y disciplinario de la Ley 1010 de 2006, de suerte que los
+mecanismos ordinarios de defensa no tienen la aptitud de brindar una
+protección integralante la presunta vulneración de derechos.
+En tal sentido, se acredita el requisito de subsidiariedad en esta causa y, por
+tanto, la tutela es procedente.
+
+**C. Problema
+jurídico y esquema de resolución**
+
+**87.**Luego de estudiar la
+procedencia de la acción de tutela, la Sala Quinta de Revisión deberá indagar
+si *la empresa* desconoció el derecho al debido proceso de la accionante,
+cuando su Comité de Convivencia Laboral decidió archivar la queja por acoso que
+ella presentó en contra del presidente de la entidad y de dos colaboradoras
+más.
+
+**88.**Con el ánimo de resolver
+este planteamiento, la sala *(i)* se referirá a la figura del acoso
+laboral; y *(ii)* analizará el derecho al
+debido proceso en el trámite de una queja por acoso laboral, así como su
+relación con el enfoque de género. Acto seguido,
+con las reglas extraídas, *(iii)* resolverá el caso concreto.
+
+***(i)******Sobre la
+figura del acoso laboral***
+
+**89.***El derecho al
+trabajo en condiciones dignas y justas*. La Corte Constitucional ha reconocido el importante avance
+de la legislación colombiana en lo relativo al acoso laboral, una figura que en
+contextos académicos se ha denominado *mobbing*.[101] El acoso laboral es un ataque sistemático, que
+algunos miembros de una organización empresarial -bien sea pública o privada-[102] ejercen en contra de una persona. Este ataque,
+que puede implicar actos de violencia física o psicológica, resulta contrario
+al principio de la dignidad humana.[103]
+
+**90.**El artículo 25 de la Constitución dispone
+que el trabajo debe llevarse a cabo en condiciones dignas y justas. Por ello,
+están estrictamente prohibidos los tratos indignos, humillantes o degradantes
+que se ejerzan en contra del trabajador.[104] Para la
+Corte Constitucional, el empleado es “*un ser
+humano con autonomía, que dispone de bienes jurídicos tutelables, dentro del
+ordenamiento jurídico y en relación con el cual el Estado tiene deber de
+protección”*.[105] Los trabajadores son, entonces, un fin en sí
+mismo y no un simple instrumento del empleador. La protección de sus derechos
+mínimos fundamentales es imprescindible en un Estado Social y Democrático de
+Derecho. En consecuencia, las empresas deben ofrecer a sus empleados entornos
+seguros y adecuados, donde puedan llevar a cabo sus tareas sin ser afectados en
+su dignidad. La Corte, en la Sentencia C-171 de 2020, se pronunció así sobre este aspecto:
+
+“*La especial
+protección del derecho al trabajo comprende, a su vez, la garantía misma de
+realizarlo en condiciones dignas y justas, de manera que, permitan, a
+trabajadores y empleados, desempeñarse en un ambiente que refleje el debido
+respeto a su condición de ser humano, libre de amenazas de orden físico y
+moral, así como de circunstancias que perturben el normal desarrollo de las
+tareas asignadas; así las cosas, en forma correlativa y proporcional a ese
+derecho, aparece el deber de velar porque el trabajo en tales condiciones sea
+una realidad, de manera que se provean las instalaciones y espacios
+necesarios para cumplir con los cometidos asignados y el tratamiento respetuoso
+al empleado o trabajador en su condición humana*”.[106]
+
+**91.**En efecto, la dignidad humana es uno de
+los principios fundantes del Estado. La Corte ha asignado a este principio un
+valor absoluto, en tanto ha sostenido que aquel no puede ser limitado en
+ninguna circunstancia. No sería posible -por ejemplo- aceptar que en las
+relaciones laborales el empleador pudiere tratar al trabajador de una manera
+contraria a su dignidad, bajo el argumento de que ello supondría el logro de un
+objetivo mayor o más importante.[107] Recuérdese que, en nombre de la dignidad humana, como lo ha
+señalado la Corte Constitucional desde sus tempranos pronunciamientos, la
+persona debe gozar de una vida libre de humillaciones y preservar su integridad
+física y moral.[108]
+
+**92.**El acoso laboral trasgrede directamente el
+artículo 25 de la Constitución Política, porque engloba actos que humillan a la
+persona, que la reducen y que le hacen pensar que su valía es menor. En la
+sentencia T-317 de 2020, la Corte Constitucional pretendió clasificar las
+conductas que configuraban el acoso laboral. Al respecto, resaltó que aquellas
+consistían en *(i)* “[a]*tentados en las condiciones de trabajo*”,[109] entendidos
+como la imposición de obstáculos al trabajador, para que este no pueda
+desempeñar sus oficios en condiciones de normalidad; *(ii)* “[a]*tentados
+a la dignidad personal*”,[110] que incluyen prácticas dirigidas a ridiculizar al trabajador, o a
+difundir ideas sobre su presunta falta de profesionalismo; *(iii)* “*aislamiento*”,[111] donde se
+aparta al trabajador, o se lo relega, haciendo que pierda confianza en sus
+capacidades; y *(iv)* “*actos de violencia verbal o psicológica*”,[112] que pueden
+incluir diversos tipos de insultos o ultrajes.
+
+**93.**En la Sentencia T-317 de 2020, la Corte
+también reconoció que el acoso laboral se puede presentar en tres modalidades
+diferentes: *(i)* “*el acoso vertical descendente*”,[113] donde quien
+lo ejecuta es el superior jerárquico de la víctima; *(ii)* “*el acoso
+vertical ascendente*”,[114] donde el superior jerárquico resulta ser la víctima, y el
+victimario uno de sus subordinados; y *(iii)* el “*acoso horizontal*”,[115] donde
+víctima y victimario se encuentran en la misma posición.
+
+**94.**El acoso laboral se presenta, normalmente,
+de manera constante en el tiempo y se compone de varios actos que,
+concatenados, terminan por minar la autoestima de la víctima. En muchas
+ocasiones, el acoso laboral es el resultado de un plan meticulosamente
+fabricado que involucra -siguiendo lo dispuesto en la Ley 1010 de 2006-, “*ataques
+verbales, insultos, ridiculización, críticas injustificadas, desacreditación
+profesional, amenazas constantes de despido, sobrecarga de trabajo, aislamiento
+social, falsos rumores, acoso sexual, no tener en cuenta problemas físicos o de
+salud del trabajador y hasta agresiones físicas”.*[116]
+
+**95.**Actos como estos pueden provocar a los
+trabajadores un daño serio en su salud y en su bienestar psicológico.[117] Empero, las
+consecuencias del acoso no recaen únicamente sobre el trabajador. La
+Organización Internacional del Trabajo -en adelante, OIT- ha sostenido que el
+acoso puede tener como resultado “(…) *una alteración inmediata y a menudo
+duradera en las relaciones interpersonales, la organización del trabajo y el
+entorno laboral en su conjunto, con costos directos en el ámbito de la seguridad
+e indirectos que condicionan la eficiencia y la productividad”.*[118]
+
+**96.**Una empresa, pública o privada, que tolera
+el acoso laboral o que incluso acude a él, de manera deliberada, para lograr la
+renuncia de alguna de sus víctimas, suele enfrentar problemas de productividad.
+No es lo mismo, para un trabajador, prestar sus servicios en entornos seguros y
+respetuosos de su dignidad, que prestarlos en entornos que atentan contra su
+integridad. De hecho, es claro que las prácticas de acoso en las empresas
+desmotivan a tal grado a los empleados, que ellos terminan incumpliendo sus
+tareas (o desarrollándolas de manera ineficiente), precisamente por la presión
+que tienen. Por ello, la OIT ha considerado que la violencia y el acoso en el
+mundo del trabajo tiene un efecto negativo en el ambiente laboral, pone en
+peligro la productividad y repercute en la reputación de las empresas[119], lo cual se
+ratificó en el Preámbulo del Convenio 190 de 2019, en el que se consideró que
+la violencia y el acoso son incompatibles con las “*relaciones en el lugar de
+trabajo, el compromiso de los trabajadores, la reputación de las empresas y la
+productividad.*”
+
+**97.***El acoso laboral en la OIT*. La OIT ha emitido diversos instrumentos en los que ha condenado
+el acoso laboral, y ha conminado a los Estados para que regulen, de manera
+efectiva, la forma en que deberán hacer frente a esta práctica. Uno de esos
+instrumentos ha sido el Convenio 190 de 2019, “*[s]obre la Eliminación de la
+Violencia y el Acoso en el Mundo del Trabajo*”. La Corte Constitucional, en
+la Sentencia T-317 de 2020, reconoció que dicho instrumento -aunque no ha sido
+ratificado por el Estado- es de suma importancia, especialmente porque busca “*proteger
+a los trabajadores de la violencia y el acoso en el ámbito laboral, incluido el
+daño físico, psicológico o sexual, independientemente de su situación
+contractual*”.[120] Para ello, “*dispone que todo miembro del convenio deberá
+adoptar, de conformidad con su legislación nacional, medidas apropiadas para
+prevenir y eliminar la violencia y el acoso en el mundo del trabajo*”.[121] Entre las
+medidas contempladas, está la de crear “*procedimientos de fácil acceso en la
+presentación de quejas e investigaciones y, si procede, mecanismos de solución
+de conflictos en el lugar de trabajo, incluidas las vías de recurso y
+reparación*”.[122]
+
+**98.***El acoso laboral en la
+legislación colombiana*. En la Ley 1010 de 2006
+se establecieron diversas medidas tendientes a prevenir, corregir y sancionar
+el acoso laboral en el ámbito público y privado.[123] Esta ley
+aplica, específicamente, a las relaciones laborales en las que, por
+antonomasia, exista una subordinación. En otras palabras, la Ley no aplica
+cuando acosador y acosado, por ejemplo, estén vinculados por un contrato de
+prestación de servicios. Este último aspecto fue revisado por la Corte
+Constitucional en la Sentencia C-960 de 2007, y allí se declaró que la Ley 1010
+de 2006 es aplicable en los casos en que se compruebe que, en realidad y de
+fondo, existió una relación laboral entre las partes. Esto independientemente
+del contrato que hubieren suscrito.
+
+**99.**La Ley define el acoso laboral como *(i)*
+“*toda conducta persistente y demostrable*”; *(ii)* “*ejercida
+sobre un empleado*”; *(iii)* “*por parte de un empleador, un jefe o
+superior jerárquico inmediato o mediato, un compañero de trabajo o un
+subalterno*”; y *(iv)* “*encaminada a infundir miedo, intimidación,
+terror y angustia, a causar perjuicio laboral, generar desmotivación en el
+trabajo, o inducir la renuncia del mismo*”.[124] De cualquier
+manera, la Ley es cuidadosa al indicar que aquellas órdenes dadas al trabajador
+para el correcto desempeño de su oficio, no constituyen acoso laboral en sí
+mismas.[125]
+
+**100.**A su turno, la Ley también explica las
+modalidades del acoso laboral, estableciendo que aquellas son: *(i)* *el
+maltrato laboral*, entendido como los actos de violencia que socavan la
+integridad física o psicológica del trabajador; *(ii)* *la
+persecución laboral*, como todo acto reiterado y dirigido a lograr la
+renuncia de un empleado “*mediante la descalificación, la carga excesiva de
+trabajo y cambios permanentes de horario que puedan producir desmotivación
+laboral*”; *(iii)* *la discriminación laboral*, como los
+tratos diferenciados que recaen sobre ciertos trabajadores por cuenta de
+categorías sospechosas (*v. gr.* raza, género, creencias, etc.); *(iv)*
+*el entorpecimiento laboral*, como las prácticas dirigidas “*a
+obstaculizar el cumplimiento de la labor o hacerla más gravosa o retardarla con
+perjuicio para el trabajador*”; *(v)* *la inequidad laboral*,
+como la “[a]*signación de funciones a menosprecio del trabajador*”; y *(vi)*
+*la desprotección laboral*, como aquellas acciones dirigidas “*a
+poner en riesgo la integridad y la seguridad del trabajador*”.
+
+**101.**El artículo 6, por su parte, estipula
+quiénes son los sujetos destinatarios de la Ley. Como sujetos activos del acoso
+laboral, nombra a quienes tengan un rol de dirección o de mando en las
+empresas, a los superiores jerárquicos o a los propios trabajadores. Como
+sujetos pasivos, menciona a los trabajadores de empresas privadas, a los
+servidores públicos de las entidades del Estado, o a “[l]*os jefes inmediatos
+cuando el acoso provenga de sus subalternos*”. Y, como sujetos partícipes,
+señala a todos aquellos que promuevan o faciliten el acoso.
+
+**102.**El artículo 7, por su parte, crea una
+presunción. Señala que se asumirá la existencia del acoso laboral si se
+presentan, de manera “*repetida y pública*”, ciertas conductas tales como
+agresiones físicas; expresiones injuriosas sobre una persona; comentarios
+tendientes a descalificar profesionalmente a un trabajador; constantes amenazas
+de despido; denuncias disciplinarias temerarias -presentadas por un superior
+contra un trabajador-; “[l]*a imposición de deberes ostensiblemente extraños
+a las obligaciones laborales, las exigencias abiertamente desproporcionadas
+sobre el cumplimiento de la labor encomendada y el brusco cambio del lugar de
+trabajo o de la labor contratada sin ningún fundamento objetivo referente a la
+necesidad técnica de la empresa*”; o “[l]*a exigencia de laborar en
+horarios excesivos respecto a la jornada laboral contratada o legalmente
+establecida*”, entre otras. Si este tipo de conductas ocurren de modo *repetido*
+y *público*, se presume el acoso laboral. Si las mismas ocurren en
+privado, corresponderá al trabajador demostrar su existencia de acuerdo con las
+reglas probatorias del proceso civil.[126]
+
+**103.**De otra parte, la Ley también establece
+medidas preventivas y correctivas para superar las situaciones de acoso
+laboral. En ese orden, impone a las empresas crear, en sus reglamentos de
+trabajo, “*un procedimiento interno, confidencial, conciliatorio y efectivo
+para superar las* [conductas de acoso] *que ocurran en el lugar de trabajo*”.[127] Ese
+procedimiento interno, en el que se ha de buscar la corrección de conductas de
+acoso laboral por medio del diálogo entre las partes involucradas, se
+desarrolla por parte de un Comité de Convivencia Laboral.
+
+**104.**De manera más específica, la Resolución
+2646 de 2008[128] emitida por el Ministerio de la Protección Social, estableció, en
+su artículo 14, que, entre las medidas preventivas que debían adoptar las
+empresas, se encontraban las de: “*(…) conformar el Comité de
+Convivencia Laboral y establecer un procedimiento interno confidencial,
+conciliatorio y efectivo para prevenir las conductas de acoso laboral.* [Y]*establecer el procedimiento para formular la queja a través del cual se puedan
+denunciar los hechos constitutivos de acoso laboral, garantizando la
+confidencialidad y el respeto por el trabajador**.”*[129] Por su
+parte, el mismo artículo añadió que las medidas correctivas serían aquellas
+dirigidas a:
+
+“*2.1 Implementar
+acciones de intervención y control específicas de factores de riesgo
+psicosociales identificados como prioritarios, fomentando una cultura de no
+violencia. // 2.2 Promover la participación de los trabajadores en la
+definición de estrategias de intervención frente a los factores de riesgo que
+están generando violencia en el trabajo. // 2.3 Facilitar el traslado del
+trabajador a otra dependencia de la empresa, cuando el médico tratante o el
+Comité de Convivencia lo recomienden. // 2.4 Establecer un procedimiento
+interno confidencial, conciliatorio y efectivo para corregir las conductas de
+acoso laboral*”.[130]
+
+**105.**A su vez, en la Resolución 652 de 2012
+proferida por el Ministerio del Trabajo se reguló todo lo concerniente a la
+conformación y funcionamiento de los comités de convivencia laboral, en las
+empresas públicas y privadas. En el artículo 6 de la Resolución, se incluyeron
+las funciones de dichos comités. En ese orden se estableció que, cuando se
+reciba una queja por acoso laboral, el comité correspondiente debe, como
+mínimo:
+
+*“(…)
+3. Escuchar a las partes involucradas de manera individual sobre los
+hechos que dieron lugar a la queja. // 4. Adelantar reuniones con el fin
+de crear un espacio de diálogo entre las partes involucradas, promoviendo
+compromisos mutuos para llegar a una solución efectiva de las controversias. //
+5. Formular un plan de mejora concertado entre las partes, para construir,
+renovar y promover la convivencia laboral, garantizando en todos los casos el
+principio de la confidencialidad. // 6. Hacer seguimiento a los
+compromisos adquiridos por las partes involucradas en la queja, verificando su
+cumplimiento de acuerdo con lo pactado. // 7. En aquellos casos en que no
+se llegue a un acuerdo entre las partes, no se cumplan las recomendaciones
+formuladas o la conducta persista, el Comité de Convivencia Laboral, deberá
+remitir la queja a la Procuraduría General de la Nación, tratándose del sector
+público. En el sector privado, el Comité informará a la alta dirección de la
+empresa, cerrará el caso y el trabajador puede presentar la queja ante el
+inspector de trabajo o demandar ante el juez competente.”****[131]***
+
+**106.**De cualquier manera, el artículo 9
+-parágrafo segundo- de la Ley 1010 de 2006, señala que “[l]*a omisión en la
+adopción de medidas preventivas y correctivas de la situación de acoso laboral
+por parte del empleador o jefes superiores de la administración, se entenderá
+como tolerancia de la misma*”.[132]
+
+**107.**Ahora bien, como se ha dicho, las
+anteriores son las medidas preventivas y correctivas, pero otras son las medidas
+sancionatorias. Aquellas se establecen en el artículo 10 de la Ley 1010 de
+2006, y operan en todos aquellos casos en que la situación de acoso laboral ha
+sido debidamente demostrada. Las sanciones podrán ser impuestas por el juez
+laboral “*con jurisdicción en el lugar de los hechos*”,[133] si la
+víctima es un trabajador particular. O por el “*Ministerio Público o (…) las
+Salas Jurisdiccional Disciplinaria de los Consejos Superior y Seccionales de la
+Judicatura*”, si la víctima es un servidor público.[134] En ambos
+casos, cuando dichas autoridades deban decidir si imponen o no medidas
+sancionatorias, les corresponde seguir el procedimiento establecido en el
+artículo 13 -y siguientes- de la Ley 1010 de 2006. Los artículos 3 y 4 enlistan
+algunas de las conductas atenuantes[135] y agravantes[136] del acoso laboral, al tiempo que el artículo 5 establece que la
+graduación de las sanciones obedecerá a lo dispuesto en el Código Disciplinario
+Único.
+
+**108.**Finalmente, con el ánimo exclusivo de
+evitar actitudes de retaliación, la Ley prohíbe que se desvincule a la persona
+que, en calidad de víctima, acudió a los procedimientos preventivos,
+correctivos o sancionatorios. Este fuero opera dentro de los seis meses
+siguientes a la fecha en que la persona instauró la queja, “*siempre y cuando
+la autoridad administrativa, judicial o de control competente verifique la
+ocurrencia de los hechos puestos en conocimiento*”.[137]
+
+***(ii)******El debido proceso en el
+trámite de una queja por acoso laboral, y su relación con el enfoque de género***
+
+**109.***El debido proceso*. En los procedimientos preventivo, correctivo y sancionatorio,
+donde se conozcan quejas por acoso laboral, debe respetarse el derecho al
+debido proceso.[138] Esto implica reconocer a las partes la posibilidad de allegar
+todo el material probatorio con que cuenten, reconocer al acusado la
+posibilidad de defenderse frente a las imputaciones hechas y resolver con
+celeridad. El reconocer estas garantías mínimas -previstas en el artículo 29 de
+la Constitución y aplicables a todo tipo de proceso judicial o administrativo-
+permite, igualmente, limitar el poder de quien está llamado a resolver una
+queja. Esta persona no podrá zanjar la discusión que le es propuesta sobre la
+base de su propio y caprichoso criterio, sino atendiendo a una valoración
+probatoria adecuada y razonable.
+
+**110.***El debido proceso y el enfoque
+de género*. De otro lado, esta Corte ha
+reconocido que, a partir de lo dispuesto en los artículos 13, 43 y 53, las
+mujeres tienen derecho a trabajar en lugares libres de violencia.[139] Por ello,
+para esta Corporación, tanto los particulares como las entidades del Estado
+deben cumplir “*con la obligación de prevenir, investigar, juzgar y sancionar
+la violencia y/o discriminación por motivos de género*”.[140] Para lograr
+este propósito, deben aplicar “[…] *la perspectiva de género cuando tramiten
+casos o denuncias que involucren violencia contra ellas*”.[141]
+
+**111.**En los trámites internos que deben
+llevarse a cabo en las empresas, para dar respuesta a una queja por acoso, los
+comités de convivencia laboral no pueden hacer abstracción del enfoque de
+género. Este enfoque, ciertamente, les brindará importantes herramientas para
+identificar aquellas circunstancias de acoso laboral cometidas en contra de las
+mujeres, y a partir de allí establecer, por medio del mecanismo conciliatorio
+previsto en la Ley 1010 de 2006, medidas que permitan superar dichas
+situaciones.
+
+**112.**En enfoque de género reconoce que “*[l]as
+mujeres como grupo han sido tradicionalmente discriminadas en todas las esferas
+sociales, -económica, política, laboral y educativa-”.*[142] A partir de
+este reconocimiento, tanto el Estado como los particulares tienen el deber de
+actuar para que la discriminación contra la mujer se revierta. En la Sentencia
+T-239 de 2018, esta Corte reconoció que “(…) *la garantía de igualdad
+material para las mujeres, que se deriva del artículo 13 de la Constitución y
+del bloque de constitucionalidad, así como las obligaciones derivadas del deber
+de erradicación de la discriminación contra la mujer, imponen la debida
+diligencia en la prevención, investigación, sanción y erradicación de todas las
+formas de violencia contra la mujer. Este deber no se reputa exclusivamente
+de las actuaciones estatales, sino que se extiende a las actuaciones de
+particulares*”.[143] (Subrayas fuera de texto).
+
+**113.**El enfoque de género, por su parte, impone
+a la autoridad que analiza una queja estudiar de una manera determinada las
+pruebas que se aportan. Así, respetando la imparcialidad y la independencia,
+los miembros de los comités de convivencia laboral deberán tener en
+consideración que, normalmente, una mujer que dice haber sido acosada, bajo
+cualquiera de las modalidades previstas en la Ley 1010 de 2006, no siempre se
+encuentra en igualdad de armas con la persona (o personas) que han podido,
+eventualmente, incurrir en alguna de esas prácticas de acoso. Los miembros del
+comité de convivencia laboral deben, en consecuencia, aproximarse al caso
+teniendo en cuenta esta desigualdad.
+
+**114.**Para ello, los miembros del comité deben *(i)*
+analizar, de manera conjunta, todas las pruebas que les hayan sido entregadas; *(ii)*
+dar valor a las pruebas indiciarias cuando es evidente que aportar pruebas
+directas resulta sumamente complejo para la víctima; y *(iii)* reclamar
+del presunto acosador una actitud más proactiva, requiriéndolo para que
+explique la situación y señale por qué sus conductas no constituyen acoso
+laboral. Sobre esto último, debe recordarse que, en la mayoría de los casos, la
+persona que es acusada está en una mejor posición para demostrar que ha actuado
+conforme a la ley, y que no ha agredido a quien formula la queja.[144]
+
+**115.**En el trámite de estas quejas, los
+empleadores -y, por supuesto, los comités de convivencia laboral- tienen el
+deber de actuar con eficiencia, ofreciendo a sus empleadas presuntamente
+acosadas “(…) *una ruta clara, célere y confiable de atención y
+acompañamiento, con una respuesta efectiva a sus denuncias para no nutrir
+estigmas sociales ni redoblar la discriminación de violencia*”.[145] Esto con el
+objeto de “*frenar la reproducción de estereotipos machistas y patriarcales,
+equilibrar las asimetrías de poder existentes en la cosmovisión imperante,
+visibilizar los obstáculos que estaba llamada a superar la denunciante e
+impedir su revictimización*”.[146]
+
+**116.**La Corte ha indicado que el empleador
+desconoce el derecho de las mujeres a trabajar en un espacio libre de
+violencia, cuando actúa con indiferencia o neutralidad frente a sus quejas. En
+un pronunciamiento reciente, la Corte resaltó que:
+
+“(…) *existe
+el derecho de las mujeres a trabajar en entornos libres de violencia que debe
+ser garantizado por los empleadores, tanto privados como públicos. Una de sus
+obligaciones es contar con procedimientos internos que aseguren un mecanismo
+confidencial, conciliatorio y efectivo para tramitar aquellas denuncias o
+quejas de acoso laboral y sexual en el espacio laboral. Asimismo, los
+empleadores deben aplicar la perspectiva de género ya que si se muestra
+indiferente o neutral ante los actos de violencia contra la mujer vulnera
+gravemente sus derechos, porque se abstiene de cumplir con su obligación de
+asesorarla sobre las rutas de atención con las que cuenta*”.[147]
+
+**117.***El debido proceso y el enfoque
+de género en la jurisprudencia constitucional*. A manera de ejemplo, la Corte Constitucional ha condenado el
+hecho de que los empleadores no cuenten con protocolos que permitan corregir
+conductas de acoso por la vía preventiva y correctiva. Igualmente, les ha
+reprochado a las empresas el no haber dado trámite a las quejas instauradas por
+las personas afectadas. En ese sentido, pueden revisarse las Sentencias T-168
+de 2019, T-415 de 2023, T-141 de 2024 y T-266 de 2024.
+
+**118.**En la Sentencia T-168 de 2019, la
+Corporación estudió el caso de una mujer que informó al juez constitucional
+haber sido víctima de acoso laboral. Ella señaló que, aunque había comunicado a
+su empleador sobre este acoso, el mismo no había iniciado gestión alguna para
+investigar los hechos. La Corte analizó -entre otros asuntos- si omitir la
+investigación interna desconocía, en ese caso, el derecho al debido proceso de
+la trabajadora. En respuesta, la Corte afirmó que dicha vulneración sí ocurrió,
+porque “*a pesar del prolongado paso del tiempo, las denuncias por ella
+radicadas* [relacionadas con el presunto acoso laboral del que fue víctima]*aún no* [habían] *tenido una resolución definitiva*”.[148] Como
+consecuencia, la Corte ordenó al empleador accionado tramitar y resolver “(…) *de
+manera definitiva, las denuncias por acoso laboral presentadas por la
+accionante*”.[149]
+
+**119.**En la Sentencia T-415 de 2023, la Corte
+conoció el caso de una mujer que denunció ante su empleador prácticas de acoso
+sexual y laboral cometidas en su contra. En primer lugar, la Corte conminó “(…)
+*a todos los actores del mundo del trabajo, sea en el sector público o en el
+privado, a cumplir su obligación de garantizar un entorno de trabajo de cero
+tolerancia frente a la violencia de género –en todas y cada una de sus
+manifestaciones–, así como de implementar los mecanismos de prevención,
+atención, investigación y sanción de esta clase de comportamientos*”.[150] En segundo lugar, al resolver el caso concreto,
+la Corte concluyó que el empleador “*omitió el cumplimiento de su deber de
+prevenir, investigar, juzgar y sancionar* [las conductas constitutivas de
+acoso sexual y laboral]*”.****[151]***
+
+**120.**Al tiempo, encontró que
+la empresa también trasgredió los derechos fundamentales de la actora al no
+tener un protocolo para abordar este tipo de quejas. En consecuencia, entre
+otras órdenes, la Corte conminó al empleador para que, en adelante, revise las
+quejas similares con un enfoque de género. También le ordenó crear “*un protocolo en el que se prevean rutas claras y efectivas de
+prevención, atención y acompañamiento (…)”****[152]***frente a este tipo de
+denuncias.
+
+**121.**En la Sentencia T-141 de 2024, una
+ciudadana informó que fue desvinculada de una universidad, luego de haber
+presentado una queja por acoso laboral. En esa oportunidad, la Corte ordenó el
+reintegro de la actora, tras considerar que su despido sí constituyó un acto de
+retaliación. Empero, analizó otro aspecto: el presunto desconocimiento del
+derecho al debido proceso de la accionante, porque el empleador no actuó con
+diligencia al revisar y tramitar la queja que ella había presentado. Así se
+refirió la Corte, sobre el particular, en sus conclusiones:
+
+*“(…) el
+comité de convivencia laboral de la universidad accionada tuvo una conducta
+omisiva en relación con la queja de acoso laboral que interpuso la demandante.
+El comité de convivencia laboral tiene la responsabilidad explícita de
+investigar y abordar de manera adecuada las quejas de acoso laboral y esa
+omisión en su responsabilidad constituye un incumplimiento de sus deberes y una
+violación de la confianza que los empleados depositaban en dicho comité. Al no
+abordar adecuadamente la queja de acoso laboral, el comité contribuyó a la
+persistencia de un ambiente laboral hostil e inseguro. Esto puede tener
+consecuencias graves para la salud mental y el bienestar de los empleados
+afectados, así como para el clima laboral general”.****[153]***
+
+**122.**Finalmente, en la Sentencia T-266 de
+2024 también se analizó una cuestión similar. Una mujer informó que su
+contrato de prestación de servicios no se había renovado por cuenta de una
+queja por acoso laboral que había presentado. La Corte, primero, advirtió que
+la relación entre las partes había sido, en realidad, laboral. Por ello estimó
+que eran aplicables, en ese caso, las reglas de la Ley 1010 de 2006. Segundo,
+resaltó que el empleador había actuado con negligencia al tramitar la queja de
+acoso laboral. En concreto:
+
+“(…) *la
+Sala evidenció una actitud indiferente y neutral de la accionada, porque se
+abstuvo de asesorar a la accionante respecto de las rutas de atención con las
+que contaba generando, con ello, una violación a sus derechos. En este
+sentido, la ESE incumplió con sus deberes de prevenir, investigar y sancionar
+la violencia de la que, al parecer, fue víctima la accionante, privándola de
+contar con una ruta de atención y de acompañamiento claro, célere, confiable,
+con enfoque diferencial y de género e impidiéndole gozar de una ambiente
+laboral digno, sin revictimizaciones*”.[154]
+
+**123.**En consecuencia, le ordenó al empleador no
+solo crear un protocolo dirigido a tramitar, con diligencia, las denuncias de
+acoso laboral, sino también “*investigar los hechos denunciados por la señora
+Paola, respetando el debido proceso de ambas partes”.****[155]***La Corte añadió que esta
+última investigación *“deberá llevarla a cabo aplicando la perspectiva de
+género. Lo anterior, implica que deberá privilegiar los indicios sobre la
+prueba directa, analizar los hechos de manera sistemática e
+integral, detectar asimetrías de poder y generalizaciones
+con efectos discriminatorios*”.[156] (Subrayas
+fuera de texto).
+
+**124.***En conclusión*, el acoso laboral incluye actos humillantes contra los
+trabajadores, que son contrarios a la dignidad humana y, por tanto, al artículo
+25 de la Constitución Política. Precisamente por eso, la Ley 1010 de 2006 ha
+establecido medidas preventivas, correctivas y sancionatorias para hacer frente
+a este fenómeno. Entre las medidas preventivas y correctivas, se encuentra la
+obligación, impuesta a los empleadores, de crear “*un procedimiento interno,
+confidencial, conciliatorio y efectivo para superar las* [conductas de
+acoso] *que ocurran en el lugar de trabajo*”.[157] En el marco
+de ese procedimiento interno, los comités de convivencia laboral tienen el
+deber de escuchar a las partes, y propiciar acuerdos conciliatorios entre
+ellas. De cualquier manera, en el trámite de las quejas, los comités deben
+respetar las reglas del debido proceso y aplicar un enfoque de género cuando ello
+sea imperioso, especialmente en lo que se refiere a la valoración de las
+pruebas. Si las empresas no implementan estas rutas, o no dan trámite diligente
+y eficaz a las quejas de acoso laboral, pueden desconocer el derecho al debido
+proceso de las presuntas víctimas. Si la víctima es una mujer, el empleador
+puede vulnerar, también, su derecho a trabajar en un espacio libre de
+violencia.
+
+***(iii)******Análisis del caso concreto***
+
+**125.**La actora señaló que ha trabajado para *la
+empresa* desde el 4 de marzo de 2021. Expuso que, aunque fue desvinculada el
+11 de enero de 2024, se reintegró a sus funciones desde el 5 de febrero
+siguiente. Resaltó que desde el momento en que el señor *Humberto* asumió
+la presidencia de *la empresa*, ha sido acosada laboralmente.
+Específicamente, sostuvo que el presidente de la entidad, a pesar de ser su
+jefe directo, la ha ignorado constantemente, no le responde los mensajes en la
+aplicación *WhatsApp*, no le contesta los correos corporativos, y no la
+cita a las reuniones del equipo directivo de la entidad (equipo del que hace
+parte). A lo anterior añadió que las señoras *Fabiola* y *Constanza*
+también la han acosado, específicamente cuando han desconocido su calidad de
+jefe de la ORC.
+
+**126.**Por lo anterior, el 17 de
+agosto de 2023 formuló una queja ante el Comité de Convivencia Laboral de la
+entidad. Empero, dicho Comité decidió archivarla el 18 de diciembre de 2023.
+Esto luego de sostener que la actora no había aportado las pruebas suficientes
+que permitieran acreditar la existencia de las conductas objeto de reproche.
+Para la actora, el Comité omitió citar a una reunión de conciliación entre las
+partes, para llegar a un acuerdo que permitiera mejorar el ambiente de trabajo.
+
+**127.**Por su parte, el empleador se defendió en
+este proceso argumentando que, en el trámite de la queja presentada por la
+actora, se dio aplicación estricta a la Resolución *ABC* de 2022,[158] se escuchó a
+las partes y a los testigos citados, y se valoraron objetivamente las pruebas
+aportadas. Luego de lo cual, se concluyó que el material probatorio no era concluyente,
+dado que no demostraba la existencia de conductas de acoso y que, por tanto,
+resultaba imperioso archivar la queja. Los
+jueces de tutela (*luego de que se declaró la nulidad de la sentencia
+proferida por el Juzgado Sesenta y Cinco Penal Municipal con Función de Control
+de Garantías de Bogotá*) declararon la improcedencia de la acción indicando
+que la actora podía acudir a la jurisdicción ordinaria laboral, para que allí
+se revisaran sus pretensiones.
+
+**128.**La Corte Constitucional, en contraste con
+lo advertido por la empresa accionada, por su Comité de Convivencia Laboral y
+por los jueces de instancia, estima que existen suficientes elementos de juicio
+para amparar el derecho al debido proceso de la accionante. Esto porque, en
+primer lugar, el Comité archivó la queja de la actora valorando de manera
+inadecuada las pruebas que conoció. Y, en segundo lugar, el Comité omitió citar
+una reunión de conciliación entre las partes, tal y como lo exige el
+procedimiento preventivo y correctivo establecido en la normatividad que regula
+el tema. A esta conclusión se arriba por
+las siguientes razones, a saber:
+
+**129.***Primera
+razón: el Comité no valoró de forma adecuada los hechos y las pruebas que
+conoció y en consecuencia, decidió archivar la queja de acoso laboral*.
+
+El Comité recibió tres tipos de prueba en el trámite de la queja. En
+primer lugar, la actora le remitió una copia de los mensajes que, vía *WhatsApp*,
+le envió al presidente de *la empresa* y que este, en su inmensa mayoría,
+presuntamente no contestó. En segundo lugar, le remitió copia de algunos
+correos corporativos que le envió al señor *Humberto*, y copia de algunas
+incapacidades médicas. Finalmente, en tercer lugar, el Comité tuvo la
+posibilidad de valorar las entrevistas que se realizaron, de manera individual,
+a la accionante, a los implicados en la queja y a cuatro testigos más.
+
+**130.**Luego de valorar el
+material probatorio antedicho, el Comité decidió archivar la queja sobre la
+base de que, por una parte, no tenía competencia para revisar las actuaciones
+de *Fabiola*, pues ella era contratista para la época en que,
+presuntamente, se presentaron los hechos. Por otra parte, resaltó que las
+pruebas allegadas no eran concluyentes para sostener que, en este caso, había
+existido un acoso laboral. En relación con esto último, en el Acta Nro. *123* del 18 de diciembre de 2023, el Comité
+concluyó lo siguiente:
+
+*“Se analiza
+el caso y trámite surtido frente a la queja RD …* *[Julia]**, donde se
+evidencia que las pruebas no son concluyentes ni suficientes para dar
+continuidad con el trámite, teniendo en cuenta que por ejemplo, los pantallazos de chat presentados no muestran una
+conducta que pueda constituirse en acoso laboral, los
+testimonios allegados guardaron silencio frente a las conductas expuestas y
+de la incapacidad relacionada no puede inferirse que tuviera relación con los
+hechos denunciado, (sic) aunado a que la señora* *[Julia]**, manifestó
+que desde su retornó de licencia de maternidad, la relación frente a quienes se
+presentó la queja, es cordial”.****[159]***
+
+**131.**En criterio de esta Corte, la actuación
+del Comité en la valoración de las pruebas fue, cuando menos, deficiente. *En
+primer lugar*, los mensajes que, vía *WhatsApp,* la actora envió al
+presidente de *la empresa*, desde el 30 de noviembre de 2022 hasta marzo
+de 2023,[160] evidencian la intención que ella tenía de comunicarse con él a
+pesar de su constante silencio. En unas ocasiones le escribía para pedirle
+directrices en relación con su trabajo, otras para remitirle las noticias más
+importantes que guardaban relación con la entidad o con su gestión. Solo en
+contadas ocasiones, el presidente le contestó sus mensajes. La mayoría del
+tiempo no lo hizo, aun a pesar de que la actora fungía como la jefe de la ORC,
+su cargo era del nivel directivo y su jefe directo o inmediato era, precisamente,
+el señor *Humberto*.
+
+**132.**La conclusión del Comité, sobre esta
+prueba, se resumió en una línea: “*los pantallazos de chat presentados no
+muestran una conducta que pueda constituirse en acoso laboral”.****[161]***En otras palabras, no hubo una
+valoración al respecto. Simplemente el contenido probatorio de dichos mensajes
+se desechó, sobre la base de que a los miembros del Comité no les pareció que,
+de su lectura, se pudiere desentrañar que se presentó algún tipo de acoso
+laboral, sin una justificación suficiente y motivada para considerar que las
+conductas denunciadas no debían, por lo menos, ser investigadas a profundidad
+por el Comité y seguir el trámite establecido en la Resolución *ABC* de
+2022.
+
+**133.**Lo anterior se puede evidenciar porque, en
+*segundo lugar*, la queja presentada por la actora reprochaba,
+específicamente, el hecho de que el presidente de esa entidad, así como las
+señoras *Fabiola* y *Constanza*, hubieren incurrido en actos de acoso
+laboral por desconocer su cargo al interior de la entidad. De acuerdo con el
+artículo 23.2 de la Resolución *ABC* de 2022, para que el Comité admita la
+queja, esta solo debe describir la situación específica que puedan constituir
+acoso laboral, identificar a la persona que presuntamente incurrió en la misma,
+exponer brevemente los hechos y la fecha en que ocurrieron, junto con las
+pruebas que lo fundamentan. Sin embargo, a pesar de que se cumplió, por lo
+menos sumariamente con este requisito, el Comité desestimó la queja y no
+admitió la misma *“…por cuanto no se evidencia conducta constitutiva de acoso
+laboral, por cuanto hace parte de la órbita de la decisión del subdirector
+elegir sus líderes*.”[162] Sin analizar lo relatado por quien interpuso la queja y motivar
+el análisis de las pruebas aportadas.
+
+**134.***En tercer lugar*, esta Corte estima que el Comité pudo ser mucho más proactivo en
+la recaudación de pruebas, si le parecía que las allegadas por la actora, como
+se consignó en el Acta Nro. *123* del 18 de diciembre de 2023, no eran
+suficientes para establecer la ocurrencia de los hechos. Sobre esto, debe
+advertirse que, según la Resolución *ABC* de 2022 -artículo 23.3-, si la
+queja no cumple con los requisitos establecidos para su admisión (aquellos
+mencionados en el *fj* 134), es posible solicitar que presente las
+aclaraciones correspondientes dentro del término establecido por el Comité.
+Además de ello, el Comité no puede archivar una queja si tiene la posibilidad
+de reunir pruebas consultando en las dependencias de la entidad. En esa norma
+se sostiene lo siguiente:
+
+*“No será
+procedente el archivo* [de la queja] *cuando
+la información faltante sea las direcciones de notificación, ni cuando la
+información o documentación faltante repose en las dependencias de la entidad o
+pueda ser obtenida en forma directa por el Comité de Convivencia Laboral, ni
+cuando pueda ser solicitada por el Comité a otras entidades públicas, caso en
+el cual se procederá en la forma establecida en el Código de Procedimiento
+Administrativo y de lo Contencioso Administrativo.”****[163]***
+
+**135.**Finalmente, *en cuarto lugar*, aunque
+el Comité tuvo la posibilidad de ampliar la declaración de la actora en la
+entrevista que le realizó, pidiéndole que fuera más específica en sus
+reproches, ella no se refirió a la inmensa mayoría de los hechos que,
+presuntamente, constituyeron acoso laboral. Además, es cierto que al final de
+su declaración sostuvo que, para ese momento, la relación con los presuntos
+victimarios era cordial. A esa afirmación, el Comité le otorgó un valor
+absoluto. De hecho, en el Acta Nro. *123* del 18 de diciembre de 2023,
+puede leerse que esa manifestación fue importante en la decisión de archivar la
+queja. Al respecto, para esta Corte es claro que, aunque la relación se hubiere
+tornado cordial para el instante en que se escuchó a la señora *Julia*, de ello no se sigue que las
+conductas de acoso laboral que la actora puso de presente no hubieren ocurrido
+con anterioridad, no elimina las presuntas conductas y sobre todo, no es una
+razón suficiente para que el Comité decidiera archivar la queja, sin valorar de
+forma íntegra, todos los soportes probatorios, en especial, aquellos aportados
+por la actora.
+
+**136.**En consecuencia, con esta valoración
+probatoria deficiente y la decisión de archivo, el Comité olvidó respetar el
+debido proceso y aplicar un enfoque de género al entender que la persona que
+instauró la queja es una mujer y en el que están en peligro otros derechos
+fundamentales. De esa forma, desconoció que, en este tipo de escenarios,
+obtener pruebas directas es sumamente difícil; y evitó solucionar un problema a
+partir del diálogo entre las partes. El Comité, entonces, no hizo uso de las
+herramientas con que contaba para mejorar el ambiente laboral, y así evitar que
+un posible escenario de violencia contra una mujer se siguiera perpetuando.
+
+**137.**Por su parte, en relación con *Fabiola*,
+el Comité declaró que carece de competencia para el conocimiento de la queja,
+toda vez que para la fecha de ocurrencia de los presuntos hechos constitutivos
+de acoso laboral, la funcionaria todavía no ostentaba la calidad de trabajadora
+oficial de *la empresa*,[164] esta Sala considera relevante advertir que (i) para tomar esta
+decisión, no es suficiente la motivación expuesta por el Comité, al no advertir
+el fundamento normativo que respaldaba su decisión.
+
+**138.** Además, (ii) a pesar de que la Ley 1010
+de 2006 contempló que su ámbito de aplicación no cobija “*las relaciones
+civiles y/o comerciales derivadas de los contratos de prestación de servicios
+en los cuales no se presenta una relación de jerarquía o subordinación*.”[165] También es
+cierto que la Corte Constitucional ha señalado que la norma mencionada “ no
+excluye ninguna de las relaciones derivadas de una vinculación laboral
+contractual o reglamentaria del ámbito laboral formal; siempre y cuando se
+logre demostrar una relación de subordinación. Lo anterior, por cuanto la ley
+de acoso laboral ***no es taxativa***, sino enunciativa de las
+conductas constitutivas de acoso; razón por la cual, la autoridad competente
+debe realizar una valoración completa de la situación fáctica, las
+circunstancias del caso y la gravedad de las conductas denunciadas para
+determinar si se está en presencia de una conducta de acoso u hostigamiento que
+no pudo prever el legislador al momento de expedir la citada ley.”[166]
+
+**139.**En esa medida, la jurisprudencia de esta
+Corporación se compagina con lo dispuesto por la OIT, en tanto las normas sobre
+la violencia y el acoso laboral se aplican a todos los trabajadores, cualquiera
+que sea su situación contractual, independientemente del lugar de trabajo o
+especio donde desempeñen las funciones asignadas. Por lo que, este criterio
+debió ser tenido en cuenta por el Comité para el análisis de la procedencia del
+procedimiento interno de acoso laboral respecto de *Fabiola*, al analizar
+la posición de subordinación que tenía frente a la actora y en virtud de los
+hechos expuestos en la queja y las pruebas aportadas por la actora.
+
+**140.***Segunda razón: el Comité
+omitió citar una reunión de conciliación entre las partes*. Además de todo lo anterior, el Comité desconoció su deber de
+llevar a cabo una conciliación entre las partes. Para la Corte, la lógica de
+los procedimientos preventivo y correctivo, establecidos en la Ley 1010 de
+2006, es la de crear un espacio de diálogo, donde las partes en conflicto
+logren concertar una salida al mismo. Con ello se busca que, al interior de las
+entidades, se genere la posibilidad de corregir conductas de acoso, manteniendo
+un espacio de trabajo seguro, libre de violencias y respetuoso de la dignidad
+humana.
+
+**141.**No en vano la Ley 1010 de 2006 estableció
+que sería obligación de las empresas y de las entidades públicas crear un
+procedimiento “*interno, confidencial, conciliatorio y efectivo”,* dirigido
+a corregir prácticas de acoso. A su turno, y como se ha visto en la parte
+dogmática de esta providencia, la Resolución 652 de 2012 estableció, con total
+claridad, que los comités, además de escuchar de manera individual a las
+partes, debían “*[a]delantar reuniones con el fin de crear un espacio de
+diálogo entre* [ellas]*, promoviendo compromisos mutuos para llegar a una
+solución efectiva de las controversias”.*[167]Del mismo modo, -señaló la Resolución- los comités debían*“[f]ormular un plan de mejora concertado entre las partes, para construir,
+renovar y promover la convivencia laboral, garantizando en todos los casos el
+principio de la confidencialidad”.*[168]
+
+**142.**Estas obligaciones fueron desconocidas por
+el Comité de Convivencia Laboral de *la empresa* que -demostrado está- no
+propició dicha reunión entre las partes, pues consideró -sin fundamento
+suficiente- que la existencia de los actos constitutivos de acoso no se había
+acreditado.
+
+**143.**Pero el Comité no solo
+desconoció la Resolución 652 de 2012, también vulneró la Resolución *ABC*
+de 2022 que, en su artículo primero, dispone que él se encargará “(…) *de determinar las medidas preventivas y conciliatorias de posibles
+situaciones de acoso laboral y establecer un procedimiento interno para los
+efectos relacionados con la búsqueda de soluciones que promuevan un ambiente
+laboral libre de cualquier forma de violencia y discriminación*”.[169]
+
+**144.**En esa medida, la
+Resolución *ABC* de 2022, contempló en su artículo décimo sexto que el
+Comité de Convivencia Laboral de *la empresa*, tendrá, entre otras, la
+función de “*Adelantar reuniones con el fin de crear un espacio de diálogo
+entre las partes involucradas, promoviendo compromisos mutuos para llegar a una
+solución efectiva de las controversias.*”[170]
+
+**145.**La Resolución *ABC*
+de 2022 también señala, en su artículo vigésimo tercero el procedimiento
+interno para superar las conductas de acoso laboral, el cual indica que tiene una
+naturaleza conciliatoria. Este, dispone que las personas que se consideren
+afectados por situaciones que puedan constituir acoso laboral, podrán formular
+una denuncia escrita ante el Comité de Convivencia Laboral, en el que se
+establecen los requisitos para darle trámite a la queja, en este, se determina
+que si la queja no cumple con estos requisitos, se le solicitaran las
+aclaraciones correspondientes al quejoso, quien si no contesta en el término
+establecido, se entenderá que desiste de la queja y esta se archivará. Una vez
+es admitida la queja por el Comité, el presidente debe convocar a una
+sesión, para evaluar las posibles situaciones de acoso laboral y dar traslado a
+la contraparte para que en garantía del derecho al debido proceso y a la
+defensa conozca el contenido de la queja previo a la reunión de concertación.[171]
+
+**146.**En ese
+mismo trámite, la Resolución *ABC* de 2022 dispone en el artículo 23.5,
+que el Comité, luego de admitir una queja, deberá darle el siguiente trámite:
+
+“*Si la queja cumple con los hechos constitutivos como presunto
+acoso laboral, se convoca a los miembros principales del Comité a la respectiva
+sesión y se cita a las partes involucradas de manera individual con fecha y
+hora para escuchar los hechos a fin de que intervengan y ejerzan su derecho de
+defensa y contradicción y realizar lo siguiente:* // *a. Escuchar las partes involucradas de manera individual
+durante la sesión.* // *b. Una vez escuchadas las partes de manera
+individual, el Comité, sin los sujetos intervinientes, realizará el respectivo
+análisis y establecerá la nueva fecha para realizar la conciliación con ambas
+partes.* // *c. En la nueva sesión de conciliación el secretario hará una
+breve explicación de la queja presentada y de las partes intervinientes en el
+conflicto. El Sujeto que interpuso la queja expondrá nuevamente los motivos por
+los cuales considera que se ha cometido una posible conducta de acoso laboral o
+las diferencias que pretenden conciliar. El presunto autor del acoso expondrá
+también las razones de su comportamiento o actuación”.****[172]***
+
+**147.**De la lectura de este
+artículo no se desprende que la reunión de conciliación pueda ser opcional.
+Aquella debe darse siempre que la queja presente unos “*hechos constitutivos como presunto acoso laboral”*[173] (subrayas
+fuera de texto)*.* La palabra “*presunto*”, alude a la posibilidad de
+que el hecho exista o no. Así, contrario a lo que pareció entender el Comité de
+Convivencia Laboral de *la empresa* cuando archivó la queja de la señora *Julia*, para llevar a cabo la reunión de
+conciliación no es imprescindible que esté demostrado, más allá de toda duda,
+que el acto de acoso sí se presentó. De hecho, la reunión mencionada es un
+escenario idóneo para que las partes aclaren ese tipo de situaciones.
+Precisamente por tal razón, el artículo 23.5 de la Resolución *ABC* de 2022
+-citado en el párrafo inmediatamente anterior- señala que en la reunión de
+conciliación “*[e]l Sujeto que interpuso la queja expondrá nuevamente
+los motivos por los cuales considera que se ha cometido una posible conducta
+de acoso laboral”,****[174]***y que *“[e]l presunto
+autor del acoso expondrá también las razones de su comportamiento o
+actuación”.****[175]***(Subrayas fuera de texto).
+
+**148.**Además, al tener en cuenta que el artículo
+23.6 señala las pautas que se deben tener en caso de que el día de la reunión
+de conciliación no asiste alguno de los involucrados, por lo que se contempló
+la posibilidad de fijar una nueva fecha para la reunión, por lo que en caso de
+que el quejoso no asista en esta nueva oportunidad, también se entenderá
+desistida la queja, mientras que si el presunto autor del acoso, no asiste sin
+justificación alguna, se entenderá que no existe voluntad conciliatoria y se
+trasladará la queja a la Procuraduría General de la Nación. En ese sentido, si
+bien el Comité de Convivencia Laboral de la entidad accionada tiene la facultad
+de archivar las quejas, siempre que se adopte conforme con los supuestos
+previstos en el ordenamiento jurídico y en la Resolución *ABC* de 2022, la reunión de conciliación no
+es opcional y no depende de que se demuestre la conducta de acoso laboral, por
+lo que al archivar la queja presentada por la accionante sin antes acudir a la
+instancia de conciliación, se vulneró el debido proceso.
+
+**149.**Esta última conclusión ha sido acompañada
+por la Procuraduría General de la Nación. Cuando el apoderado de la actora
+pidió el ejercicio del poder disciplinario preferente, el Ministerio Público
+declaró la improcedencia del mismo, en Auto del 15 de diciembre de 2023,
+porque, para esa fecha, no se había citado la reunión de conciliación y, sin
+que ello hubiere ocurrido, la Procuraduría General de la Nación no podía asumir
+el conocimiento del asunto. Empero, la queja se archivó por parte del Comité
+sin que dicha reunión se hubiere realizado.
+
+**150.**A partir de esta circunstancia, en
+comunicación del 2 de enero de 2024, el viceprocurador General de la Nación
+conminó al comité para que “(…) *en el ámbito
+preventivo* [dé] *aplicación a lo
+normado principalmente en la Ley 1010 de 2006, las Circulares 20 y 42 de 2007,
+dictadas por la Procuraduría General de la Nación, y la Resolución 652 de 2012
+del Ministerio del Trabajo, cumpliendo estrictamente el procedimiento de
+conciliación y si hay conciliación cumplir lo acordado”.*[176] En resumen, para el viceprocurador, el comité no
+tenía la competencia de archivar la queja de la accionante, sin antes haber
+surtido el trámite conciliatorio antedicho.
+
+**151.***En
+consecuencia*, *la empresa* -por conducto de su
+Comité de Convivencia Laboral- vulneró el derecho al debido proceso de la
+accionante, cuando archivó su queja por
+acoso laboral, al no valorar de forma adecuada
+los hechos y las pruebas que conoció, y omitiendo la realización de la
+reunión de conciliación que las Resoluciones 652 de 2012 y *ABC* de 2022
+exigían en este tipo de procedimientos.
+
+**152.**Por todo lo expuesto, la Sala Quinta de
+Revisión revocará las sentencias proferidas,
+en primera instancia, por el Juzgado Dieciocho Penal del Circuito con Función
+de Conocimiento de Bogotá D.C. y, en segunda instancia, por el Tribunal
+Superior del Distrito Judicial de Bogotá -Sala Penal-, respecto de la acción de
+tutela formulada en esta causa. En consecuencia, amparará el derecho al debido
+proceso de *Julia*, y ordenará a *la empresa* que, por conducto de
+su Comité de Convivencia Laboral, continue con el trámite de la queja
+presentada por la actora y lleve a cabo la reunión de conciliación de que
+tratan las Resoluciones 652 de 2012 y *ABC* de 2022.
+
+**III. DECISIÓN**
+
+En mérito de lo expuesto, la Sala Quinta de Revisión de Tutelas de la Corte Constitucional,
+administrando justicia en nombre del pueblo y por mandato de la Constitución,
+
+**RESUELVE**
+
+**PRIMERO****. REVOCAR** la Sentencia del 14 de
+marzo de 2024, proferida por el Juzgado
+Dieciocho Penal del Circuito con Función de Conocimiento de Bogotá; y la Sentencia del 7 de mayo de 2024, proferida por el Tribunal Superior del
+Distrito Judicial de Bogotá -Sala Penal-. En su
+lugar, **AMPARAR** el derecho al debido proceso de *Julia*.
+
+**SEGUNDO.** **ORDENAR** a *la empresa* que, en el término de las 48 horas
+siguientes a la notificación de esta providencia, por conducto de su Comité de
+Convivencia Laboral, continue con el trámite de la queja presentada por la
+actora y lleve a cabo la reunión de conciliación de que tratan las Resoluciones
+652 de 2012 y *ABC* de 2022.
+
+**TERCERO**. Declarar la **CARENCIA
+ACTUAL DE OBJETO** por *situación
+sobreviniente,* exclusivamente
+en lo relativo a la pretensión de reintegro.
+
+**CUARTO.** Por Secretaría General de
+esta Corporación, **LÍBRENSE** las comunicaciones de que trata el artículo
+36 del Decreto 2591 de 1991.
+
+Notifíquese, comuníquese y cúmplase.
+
+JORGE ENRIQUE IBÁÑEZ NAJAR
+
+Magistrado
+
+PAOLA ANDREA MENESES MOSQUERA
+
+Magistrada
+
+MIGUEL POLO ROSERO
+
+Magistrado
+
+Aclaración de voto
+
+ANDREA LILIANA ROMERO LOPEZ
+
+Secretaria General
+
+**ACLARACIÓN
+DE VOTO DEL MAGISTRADO**
+
+**MIGUEL
+POLO ROSERO**
+
+**A
+LA SENTENCIA T-262/25**
+
+Referencia: expediente T-10.302.817
+
+Asunto: acción de tutela instaurada
+por la señora *Julia* contra la *Empresa*
+
+Con
+el acostumbrado respeto por las decisiones de la mayoría, aclaro mi voto,
+porque considero
+que se debieron tener en cuenta las siguientes consideraciones.
+
+1.
+En
+*primer lugar*, respecto de la pretensión de reintegro, en este caso se
+configuró la carencia actual de objeto por ***hecho superado*** y no
+por situación sobreviniente. En efecto, si bien la restitución de la accionante
+al cargo que venía desempeñando tuvo como antecedente una orden judicial
+proferida en el proceso de amparo, para declarar el hecho sobreviniente se
+debieron examinar los demás requisitos que se aplican frente a esta modalidad
+de carencia actual de objeto, cuando las pretensiones de la tutela son
+satisfechas por una sentencia adoptada por los jueces de instancia. Estos
+requisitos están previstos en la sentencia T-239 de 2023, y fueron reiterados
+en las sentencias T-418 y T-568 de 2023, a saber: (i) la satisfacción de la
+pretensión reclamada; (ii) la imposibilidad de retrotraer lo actuado o de
+brindar una solución distinta o alternativa frente a los derechos en litigio (*dado
+el papel que cumple la revisión de la Corte y el efecto devolutivo que tiene el
+fallo de amparo*); y (iii) que no se hubiese impugnado la decisión de
+instancia que ordenó el amparo, ni solicitado la revisión del caso (*según lo
+que corresponda*), es decir, que pese a haber tenido la oportunidad de
+cuestionar lo ordenado, la parte demandada se allanó a la pretensión sin
+disenso alguno.
+
+2.
+En
+este caso, se pasó por alto que la sentencia de tutela que cumplió la entidad
+accionada para satisfacer la pretensión de reintegro fue declarada ***nula***
+y, por ende, ya ***no era vinculante***, razón por la cual la entidad
+pudo haber ***retrotraído*** su actuación y dispuesto nuevamente la
+terminación del vínculo con la accionante, lo que impedía considerar que, a la
+luz de los requisitos mencionados en el párrafo anterior, en especial, del
+destacado en el numeral (ii), se estuviese en presencia de una situación
+sobreviniente. Así las cosas, al proceder la entidad en el sentido en que lo
+hizo, esto es, al tomar la decisión de dejar a salvo la vinculación de la
+demandante, pese a que ya no existía un título jurídico que la fundamentara, se
+demuestra que prevaleció de su parte una ***actuación voluntaria***,
+que se encuadra en el concepto de ***hecho superado***[177].
+Por lo demás, esta aproximación se refuerza en el hecho de que la entidad
+demandada no impugnó la sentencia de primera instancia que fue finalmente
+emitida, después de que se declarara nula la anterior, y en la que se declaró
+la improcedencia del amparo, ya que no tenía interés en que se modificara el
+reintegro que ya había garantizado de manera ***voluntaria***.
+
+3.
+En
+*segundo lugar*, el asunto que estudió la Sala Quinta de Revisión
+constituía una valiosa oportunidad para establecer criterios jurisprudenciales
+que sirvieran de guía para las actuaciones de los Comités de Convivencia
+Laboral, el cual no fue debidamente aprovechado. Por lo anterior, a pesar de
+que en el caso concreto se demostró una omisión en la valoración probatoria y
+que no se acudió a la instancia de conciliación, considero que la decisión
+debió precisar que la ***facultad de archivo de los Comités de Convivencia
+Laboral es legítima*** y que en el asunto concreto se puede ejercer con
+base en la Resolución 014 de 2012 de *la Empresa*, por la cual se
+establece la conformación y funcionamiento del Comité de Convivencia Laboral de
+la entidad.
+
+4.
+Para
+mayor ilustración, se debió explicar en la sentencia que, conforme con ese
+reglamento, se puede archivar una actuación de este tipo, en los siguientes
+eventos: (i) cuando el Comité no tiene competencia para estudiar la queja
+presentada, porque esta no describe una situación que pueda constituir acoso
+laboral dentro de la entidad (*artículo décimo sexto de la Resolución*);
+(ii) cuando se presenta una queja respecto de acciones que han caducado, por
+haber transcurrido el término fijado de tres años, sin formular ningún reparo (*artículo
+vigésimo cuarto*); (iii) cuando el quejoso no realiza las aclaraciones de su
+queja solicitadas por el Comité (*numeral 3 del artículo vigésimo tercero de
+la Resolución*); (iv) si el Comité concluye, después de admitida la queja y
+de hacer el traslado a la contraparte, que el reproche no contiene hechos
+constitutivos de acoso laboral, según los numerales 4 y 5 del artículo vigésimo
+tercero de la Resolución y de conformidad con las definiciones del artículo 2
+de la Ley 1010 de 2006; (v) si, después de realizar un acuerdo en la sesión de
+conciliación, el quejoso no da respuesta a la solicitud de seguimiento del
+cumplimiento de ese acuerdo enviada por el Comité, según el literal d), del
+numeral 5, del artículo vigésimo tercero de la Resolución; y (vi) si el quejoso
+no asiste a una nueva fecha de programación de la sesión de conciliación, según
+el numeral 6 del artículo vigésimo tercero de la Resolución, cuando previamente
+una sesión fue cancelada por inasistencia justifica de alguno de los
+convocados.
+
+5.
+Por
+su parte, según los artículos décimo sexto y vigésimo tercero, en el numeral 5,
+de la resolución antes citada, y como se deriva de lo previamente expuesto, el
+Comité de Convivencia Laboral también puede terminar el procedimiento de la
+queja celebrando un compromiso entre las partes, el cual debe ser objeto de
+seguimiento por ese organismo. El compromiso mutuo pretende llegar a una
+solución efectiva de la controversia generada en el espacio de trabajo. De
+igual manera, según el numeral 7 del artículo cuarto y el parágrafo 1° del
+artículo vigésimo tercero, el Comité puede terminar el análisis de las
+conductas puestas en su conocimiento con recomendaciones que promuevan el
+mejoramiento del ambiente laboral.
+
+6.
+Por
+lo anterior, estimo que la ponencia debió desarrollar *la facultad de archivo*
+con la que cuentan los Comités de Convivencia y las distintas alternativas que
+tienen para ser intermediadores en conflictos laborales. Así, a pesar de que en
+el caso concreto concuerdo con el amparo brindado a la accionante, considero
+que no puede sembrarse la idea de que el archivo de las quejas es en todos los
+casos una actuación reprochable. Debe analizarse cada circunstancia y
+considerar que esta facultad es *legítima*, sin perjuicio de otras
+acciones administrativas y judiciales que se activen.
+
+7.
+En
+*tercer lugar*, estimo impreciso indicar en la decisión (fj. 116), que la *“**neutralidad**”*
+del empleador, frente a las quejas de las mujeres trabajadoras víctimas de
+acoso, es sinónimo de indiferencia o es una conducta reprochable. Por supuesto,
+la indiferencia de cualquier persona, incluyendo al empleador, es totalmente
+reprochable frente a las quejas de acoso en el trabajo por parte de las
+mujeres. Sin embargo, considero que ese concepto no es sinónimo de neutralidad,
+la cual tiene relación con el debido proceso y debe guiar las actuaciones de
+todas las autoridades y de los empleadores, al usar las facultades
+disciplinarias y al cumplir con sus deberes de denuncia. Frente a las quejas de
+acoso presentadas por las mujeres en los espacios de trabajo debe existir plena
+diligencia, atención e interés. Lo anterior, empero, no es sinónimo de
+parcialidad o subjetividad.
+
+8.
+En
+*cuarto lugar*, las consideraciones que trae la decisión respecto del
+enfoque de género desarrollado en la jurisprudencia no eran necesarias y constituyen
+un *obiter dictum*, ya que no fueron usadas al estudiar el caso concreto,
+más allá de una mención general en el fundamento jurídico 136. Si bien comparto
+la línea jurisprudencial de la Corte en esta materia, considero que su
+aplicación debe ser rigurosa y conforme con cada caso concreto, a partir de una
+valoración que produzca consecuencias en derecho y no una simple enunciación
+simbólica, sin efecto alguno.
+
+9.
+En
+*quinto lugar*, pienso que la decisión no debió hacer un examen directo de
+las pruebas que obran en el expediente y cuya valoración está a cargo del
+Comité de Convivencia Laboral, porque no era necesaria para tomar la decisión y
+porque hacerlo presupone un prejuzgamiento. Por el contrario, lo adecuado era
+que la decisión hubiera hecho énfasis en la falta de motivación suficiente del
+Acta Nro. 42 del 18 de diciembre de 2023 para archivar el trámite, a partir del
+déficit probatorio en que se incurrió, sin que se procediera una valoración de
+las pruebas que obraban en el expediente de la queja por parte de la Corte,
+sobre todo cuando se debe seguir un trámite posterior en virtud de esta
+decisión, y que, precisamente, supone admitir la autonomía del Comité de
+Convivencia en el cumplimiento de sus funciones.
+
+10.
+En
+*sexto* y *último lugar*, la sentencia debió precisar que, aunque se
+logró demostrar que existió una omisión en la valoración de los elementos de
+juicios presentados al Comité de Convivencia, no es posible atribuir a este
+organismo un estándar de valoración probatoria igual al de una autoridad administrativa
+o judicial. La naturaleza de estos comités es ante todo de intermediación, con
+funciones de conciliador o amigable componedor, con miras a prevenir y atender
+los asuntos que menoscaban el ambiente laboral. Conforme a ello, se les exige
+cumplir las funciones establecidas en el artículo 9 de la Resolución 652 de
+2012 del Ministerio del Trabajo.
+
+En los términos anteriores dejo expresadas las razones
+de mi aclaración.
+
+Fecha ut supra,
+
+**MIGUEL
+POLO ROSERO**
+
+**Magistrado**
+
+---
+
+[1]
+Circular Interna No. 10 de 2022 de la Corte Constitucional.
+
+[2] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*7.3 Contrato individual de trabajo.pdf*”.
+
+[3] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*MEMORI~1.PDF”.* Obra respuesta de *la empresa* al Auto de pruebas del
+9 de diciembre de 2024.
+
+[4] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*CUMPLIMIENTO ORDEN CORTE CONSTITUCIONAL [Julia]
+DEF_signed.pdf*”. En este documento se
+describen, en detalle, los actos presuntamente constitutivos de acoso laboral
+que se resumen en el cuadro.
+
+[5] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*QUEJA ACOSO LABORAL [Julia] ANEXOS Y
+PRUEBAS.pdf*”.
+
+[6] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*Admision queja.pdf*”
+
+[7] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*QUEJA ACOSO LABORAL [Julia] ANEXOS Y
+PRUEBAS.pdf”.*
+
+[8] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*EVIDENCIA CUMPLIMIENTO AUTO CORTE
+CONSTITUCIONAL.pdf*”. Folio 59.
+
+[9] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*Acta N°30_ [Julia] .pdf*”.
+
+[10] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Respuesta
+del Comité de Convivencia Laboral al Auto de pruebas. Folio 28.
+
+[11] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*AMPLIACION QUEJA [Julia] OCTUBRE 2023.pdf”*
+
+[12] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*CUMPLIMIENTO ORDEN CORTE CONSTITUCIONAL [Julia]
+DEF_signed.pdf*”. Folio 13.
+
+[13] Expediente de tutela T-10.302.817,
+disponible en *SiiCor*. “*Acta N° 32_Escucha a [Constanza].pdf*”
+
+[14] Expediente de tutela T-10.302.817,
+disponible en *SiiCor*. “*Acta N° 34_Escucha a [Fabiola].pdf”.*
+
+[15] Expediente de tutela T-10.302.817,
+disponible en *SiiCor*. “*Acta N° 35_Escucha a [Humberto].pdf*”
+
+[16] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*ACD562~1.PDF*”.
+
+[17] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*AC275D~1.PDF*”
+
+[18] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*41ContestacionComiteConvivencia.pdf*”
+
+[19] *Ibidem*.
+
+[20] *Ibidem*.
+
+[21] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*EVIDENCIA CUMPLIMIENTO AUTO CORTE
+CONSTITUCIONAL.pdf*”. Folio 135.
+
+[22] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*INFORME Y ANEXOS CUARTA DELEGADA
+VIGILANCIA ADMINISTRATIVA.pdf*”. Folio 23.
+
+[23] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*ACTAN4~1.PDF*”.
+
+[24] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*INFORME Y ANEXOS CUARTA DELEGADA
+VIGILANCIA ADMINISTRATIVA.pdf*”. Folio 59.
+
+[25] *Ibidem*.
+
+[26] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*INFORME Y ANEXOS CUARTA DELEGADA
+VIGILANCIA ADMINISTRATIVA.pdf*”. Folio 91.
+
+[27] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*EVIDENCIA CUMPLIMIENTO AUTO CORTE
+CONSTITUCIONAL.pdf*”. Folio 152. Al respecto, la comunicación expresamente
+informó que: *“(…) se observa que frente a la queja interpuesta en contra de [Fabiola],
+el comité de convivencia laboral carece de competencia para el conocimiento de
+la misma, toda vez que para la fecha de ocurrencia de los presuntos hechos
+constitutivos de acoso laboral, la funcionaria en mención no ostentaba la
+calidad de trabajadora oficial de [la empresa], por cuanto su vinculación se
+efectúo el 16 de marzo de 2023, razón por la cual se declara el archivo por
+falta de competencia.*
+
+*Ahora bien, frente a la
+queja interpuesta en contra de la Señora [Constanza], y en contra el señor
+[Humberto], es dable informar que teniendo en cuenta lo expuesto en
+precedencia, y ante la falta de elementos materiales probatorios que
+permitieran demostrar, por lo menos sumariamente, la ocurrencia de los
+presuntos hechos constitutivos de acoso laboral expuestos, este Comité de
+Convivencia Laboral procederá a archivar la presente queja, sin perjuicio de lo
+contemplado en el parágrafo segundo del artículo 23 de la Resolución [ABC] de
+2022 expedida por [la empresa], a saber: “En todo caso, el procedimiento
+preventivo interno consagrado en este artículo, no impide o afecta el derecho
+de quien se considere víctima de acoso laboral para adelantar las acciones
+administrativas y judiciales establecidas para el efecto en la Ley 1010 de
+2006”.*
+
+[28] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*INFORME Y ANEXOS VICEPROCURADURIA.pdf*”. Folio 4.
+
+[29] Expediente de tutela T-10.302.817,
+disponible en *SiiCor*. “*Auto que ordena indagación
+preliminar.pdf*”.
+
+[30] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*2. terminación Unilateral.pdf*”.
+
+[31] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*1 acta reparto.pdf*”.
+
+[32] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*2 DEMANDA_12_1_2024 16_21_58.pdf*”
+
+[33] *Ibidem*.
+
+[34] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*4 auto avoca conocimiento 2024-014.pdf*”.
+
+[35] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*12 fallo 2024-014.pdf*”
+
+[36] *Ibidem*.
+
+[37] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*37 AutoNulidad.pdf*”.
+
+[38] *Ibidem*.
+
+[39] *Ibidem*.
+
+[40] *Ibidem*.
+
+[41] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*42Fallo de tutela de primera instancia
+2024-058 (1).pdf*”.
+
+[42] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*19RespuestaTutela[la
+empresa] _R. 2024-00058. VF (1).pdf”*
+
+[43]Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*41ContestacionComiteConvivencia.pdf”.*
+
+***[44]*** *“Por la cual se establece la conformación y funcionamiento
+del Comité de Convivencia Laboral, se adoptan los mecanismos de prevención y se
+establece un procedimiento interno para superar las conductas de acoso laboral
+en [la empresa]”.*
+
+[45] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*12 fallo 2024-014.pdf*”.
+
+[46] Expediente de tutela T-10.302.817,
+disponible en *SiiCor*. “*29RespuestaProcuraduria.pdf*”
+
+[47] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Respuesta de la Agencia de Defensa Jurídica del Estado.
+
+[48] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*42Fallo de tutela de primera instancia
+2024-058 (1).pdf”.*
+
+[49] *Ibidem*.
+
+[50] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*T2-045 DE 2024 -
+IMPUGNACION-ImpugnacionTutela[Julia].pdf”.*
+
+[51] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*11001 31 09018 2024 00058 01-FPJA-(T2-045
+24)-[la empresa]-DEB.PROCESO ADTVO.-Nego pretensión-Confirma (072).pdf”.*
+
+[52] *Ibidem.*
+
+[53] *Ibidem.*
+
+[54] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*Intervencion_T-10.302.817.pdf*”.
+
+[55] *Ibidem.*
+
+[56] *Ibidem*.
+
+[57] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*T-10.302.817_Auto_de_pruebas_y_vinculacion.pdf*”.
+
+[58] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*Correo[12-Dec-24-8-46-46].pdf*”.
+
+[59] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*Correo[12-Dec-24-4-4-38].pdf*”.
+
+[60] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*Respuesta tutela vinculación corte
+constitucional.pdf*”.
+
+[61] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Respuesta del Comité de Convivencia Laboral.
+
+[62] *Ibidem.*
+
+[63] *Ibidem.*
+
+[64] *Ibidem.*
+
+[65] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*MEMORI~1.PDF*”.
+
+[66] *Ibidem*.
+
+[67] *Ibidem.*
+
+[68] *Ibidem.*
+
+[69] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*MEMORIAL RESPUESTA A REQUERIMIENTO
+Expediente T-10.302.817.pdf*”.
+
+[70] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*CUMPLIMIENTO ORDEN CORTE CONSTITUCIONAL [Julia]
+DEF_signed.pdf*”.
+
+[71] *Ibidem.*
+
+[72] *Ibidem*.
+
+[73] *Ibidem.*
+
+[74] Expediente de tutela T-10.302.817, disponible en *SiiCor*. *“**Pronunciamiento [Constanza] Tutela
+T-10.302.817.pdf”*.
+
+[75] *Ibidem.*
+
+[76] Correo remitido el 17 de enero de 2025.
+
+[77] Correo remitido el 17 de enero de 2025.
+
+[78] Correo remitido el 23 de enero de 2025.
+
+[79] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*12 fallo 2024-014.pdf*”.
+
+[80] *Cfr.,* Corte Constitucional. Sentencia T-472 de 2017.
+
+[81] *Ibidem.* En esta providencia, se citan las
+Sentencias T-001 de 1996, T-411 de 1999, T-988
+de 2002, T-066 de 2007 y T-192 de 2008.
+
+[82] *Ibidem*.
+
+[83] *Ibidem*.
+
+[84] *Cfr.,* Corte
+Constitucional. Sentencia T-235 de 2020.
+
+[85] *Cfr.,* Corte
+Constitucional. Sentencia T-509 de 2024.
+
+[86] *Ibidem*.
+
+[87] *Cfr.,* Corte
+Constitucional. Sentencia T-531 de 2002. Esta Corte ha admitido
+que la legitimación en la causa por activa se acredita, siguiendo el artículo
+10° del Decreto 2591 de 1991, cuando la acción de tutela se ejerce (i) de manera
+directa, (ii) por medio de representantes legales (caso de los menores de edad,
+los incapaces absolutos, los interdictos y las personas jurídicas), (iii) a
+través de apoderado judicial (caso en el cual el apoderado debe ostentar la
+condición de abogado titulado y al escrito de acción se debe anexar el poder
+especial para el caso o en su defecto el poder general respectivo), y (iv) por
+medio de agente oficioso.
+
+[88] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*3 PRUEBA_12_1_2024 16_22_37.pdf*”. Al respecto, se verificó que el poder
+aportado (i) consta por escrito, (ii) es específico y particular para promover
+la acción de tutela, (iii) se otorgó para promover la acción de tutela en
+contra de *la empresa*; (iv) el apoderado judicial es un profesional del
+derecho habilitado con tarjeta profesional.
+
+[89] Decreto 2591 de 1991. Artículo 5.
+
+[90] Decreto 4121 de 2011. Artículo 1.
+
+[91] *Cfr.,* Corte Constitucional. Sentencia T-098 de 2023, entre muchas otras.
+
+[92] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*1 acta reparto.pdf*”.
+
+[93] Constitución Política. Artículo 86. Inciso 3
+
+[94] *Ibidem*.
+
+[95] *Cfr*., Corte
+Constitucional. Sentencias T-702 de
+2008, T-494 de 2010, T-1316 de 2011, T-232 de 2013 y T-527 de 2015, entre
+otras.
+
+[96] *Cfr.,* Corte
+Constitucional. Sentencia T-098 de 2023.
+
+[97] *Cfr*., Corte
+Constitucional. Sentencia T-499A de 2017. Allí se recordó lo siguiente: “(…) *la
+Corte ha establecido que el medio de defensa es idóneo, siempre y cuando sea
+materialmente apto para producir el efecto protector de los derechos
+fundamentales, es decir, esté diseñado para ese preciso fin y no para otro,
+pues no sería idóneo un recurso que una vez decidido, así sea resuelto
+favorablemente, no proteja los derechos del ciudadano. Por su parte, la eficacia
+del medio de defensa consiste en que este debe estar diseñado de forma tal que
+brinde oportunamente una protección al derecho, pues de nada sirve que el
+ciudadano cuente con otros medios de defensa, si una vez se deciden, sus
+derechos ya han sido lesionados*”.
+
+[98] Ley 1010 de 2006. Artículo 12.
+
+[99] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*CUMPLIMIENTO ORDEN CORTE CONSTITUCIONAL [Julia]
+DEF_signed.pdf*”.
+
+[100] *Cfr.,* Corte
+Constitucional. Sentencia T-168 de 2019.
+
+[101] *Cfr.,* Corte
+Constitucional. Sentencia T-007 de 2019.
+
+[102] *Ibidem*. En esa providencia, se sostiene
+lo siguiente: “*[e]s importante resaltar que el derecho al trabajo en
+condiciones dignas y justas no solo debe ser garantizado por las autoridades
+públicas (de acuerdo con el artículo 2 de la Constitución Política), sino que
+también debe ser respetado por todos los particulares que se encuentren
+inmersos en cualquier tipo de relación laboral, pues estos también están
+sujetos a la Constitución y obligados a realizar sus principios. Lo anterior,
+como una manifestación de la eficacia horizontal de los derechos
+fundamentales (Drittwirkung der Grundrechte) que, esencialmente, hace alusión a
+la aplicación de esos derechos en las relaciones entre particulares”.*
+
+[103] *Cfr.,* Corte
+Constitucional. Sentencia T-472 de 2017. En esta providencia, la
+Corte recordó que en la Sentencia T-882 de 2006, citando los estudios de
+Leymann, se estableció que el acoso laboral podía consistir en “*ataques
+verbales, insultos, ridiculización, críticas injustificadas, desacreditación
+profesional, amenazas constantes de despido, sobrecarga de trabajo, aislamiento
+social, falsos rumores, acoso sexual, no tener en cuenta problemas físicos o de
+salud del trabajador y hasta agresiones físicas. Las víctimas, a su vez, suelen
+sufrir, entre otros síntomas, los siguientes: trastornos de sueño, dolores,
+síntomas psicosomáticos del estrés, pérdida de memoria, crisis nerviosa,
+síndrome de fatiga crónica, depresión y afectación de las relaciones
+familiares.”*
+
+[104] *Cfr.,* Corte
+Constitucional. Sentencia T-099 de 2024. En esta providencia, la Corte resaltó que
+el trabajo debe prestarse “(…) *en un entorno sin características humillantes
+o degradantes o que desconozca los principios mínimos fundamentales
+establecidos por la Constitución, y además que permita su desarrollo en
+condiciones equitativas para el trabajador*.”
+
+[105] *Cfr.,* Corte
+Constitucional. Sentencia C-331 de 2023.
+
+[106] *Cfr.,* Corte
+Constitucional. Sentencia C-171 de 2020. Citando la Sentencia T-096
+de 1998.
+
+[107] *Cfr.,* Corte
+Constitucional. Sentencia T-007 de 2019.
+
+[108] *Ibidem*.
+
+[109] *Cfr.,* Corte
+Constitucional. Sentencia T-317 de 2020.
+
+[110] *Ibidem*.
+
+[111] *Ibidem*.
+
+[112] *Ibidem*.
+
+[113] *Ibidem*.
+
+[114] *Ibidem*.
+
+[115] *Ibidem*.
+
+[116] *Cfr.,* Corte
+Constitucional. Sentencia T-007 de 2019.
+
+[117] *Ibidem*. En esta providencia se citó el
+siguiente fragmento, que hace parte de la Sentencia T-372 de 2012: “*el
+estrés ocasiona serios perjuicios para la salud física y mental del trabajador,
+además de impedir el desempeño laboral en condiciones dignas y justas. El
+estrés laboral ha sido desarrollado en multiplicidad de artículos académicos en
+los cuales se lo ha relacionado con lo que en el área de la medicina se conoce
+como el “Síndrome de Burnout” o “síndrome del trabajador desgastado”. Este
+fenómeno fue explicado por los psicólogos estadounidenses Herbert Freudenberg y
+Geraldine Richelson en 1998 en su libro “Burnout: The high cost of high
+achievement” y consiste principalmente en que quien lo padece presenta síntomas
+como sentirse permanentemente cansado o que a pesar de cumplir con sus
+compromisos, su trabajo no es bien reconocido y nunca termina, pierde la
+capacidad de disfrutar las cosas que le gustan o los incentivos que lo
+motivaban a trabajar. En su tiempo libre se siente estresado y sufre de
+complicaciones físicas como insomnio, dolores de cabeza, mareos, dolencias
+musculares, infecciones, manchas en la piel, trastornos respiratorios,
+circulatorios y digestivos, etc.*”
+
+[118] *Cfr.,* Corte
+Constitucional. Sentencia T-317 de 2020.
+
+[119] OIT.
+Guía de prevención y trato del acoso sexual, laboral y violencia en el trabajo.
+Para personas y empresas. pp. 14. Consultado en: https://www.ilo.org/sites/default/files/2024-07/GUIA%20DE%20PREVENCIOI%CC%80%C2%81N%20Y%20TRATO%20DEL%20ACOSO%20SEXUAL%2C%20LABORAL%20Y%20VIOLENCIA%20EN%20EL%20TRABAJO.pdf
+
+[120] *Ibidem.*
+
+[121] *Ibidem.*
+
+[122] *Ibidem.*
+
+[123] Ley 1010 de 2006. Artículo
+1.
+
+[124] Ley 1010 de 2006. Artículo 2.
+
+[125] Ley 1010 de 2006.
+Artículo 8. “*No constituyen acoso laboral bajo ninguna de sus modalidades:
+// a) Las exigencias y órdenes, necesarias para mantener la disciplina en los
+cuerpos que componen las Fuerzas Pública conforme al principio constitucional
+de obediencia debida; // b) Los actos destinados a ejercer la potestad
+disciplinaria que legalmente corresponde a los superiores jerárquicos sobre sus
+subalternos; // c) La formulación de exigencias razonables de fidelidad laboral
+o lealtad empresarial e institucional; // d) La formulación de circulares o
+memorandos de servicio encaminados a solicitar exigencias técnicas o mejorar la
+eficiencia laboral y la evaluación laboral de subalternos conforme a
+indicadores objetivos y generales de rendimiento; // e) La solicitud de cumplir
+deberes extras de colaboración con la empresa o la institución, cuando sean
+necesarios para la continuidad del servicio o para solucionar situaciones
+difíciles en la operación de la empresa o la institución; // f) Las actuaciones
+administrativas o gestiones encaminadas a dar por terminado el contrato de
+trabajo, con base en una causa legal o una justa causa, prevista en el Código
+Sustantivo del Trabajo o en la legislación sobre la función pública. // g) La
+solicitud de cumplir los deberes de la persona y el ciudadano, de que trata el
+artículo 95 de la Constitución. // h) La exigencia de cumplir las
+obligaciones o deberes de que tratan los artículos 55 á 57 del
+C.S.T, así como de no incurrir en las prohibiciones de que tratan los
+artículos 59 y 60 del mismo Código. // i) Las exigencias de
+cumplir con las estipulaciones contenidas en los reglamentos y cláusulas de los
+contratos de trabajo. // j) La exigencia de cumplir con las obligaciones,
+deberes y prohibiciones de que trata la legislación disciplinaria aplicable a
+los servidores públicos*”.
+
+[126] Ley 1010 de 2006. Artículo 7. En la Sentencia C-780 de
+2007, la Corte declaró la exequibilidad del artículo referido.
+
+[127] Ley 1010 de 2006. Artículo 9.
+
+[128] “*Por la cual se
+establecen disposiciones y se definen responsabilidades para la identificación,
+evaluación, prevención, intervención y monitoreo permanente de la exposición a
+factores de riesgo psicosocial en el trabajo y para la determinación del origen
+de las patologías causadas por el estrés ocupacional”.*
+
+[129] Resolución 2646 de 2008. Artículo 14.
+
+[130] Resolución 2646 de 2008. Artículo 14.
+
+[131] Resolución 652 de 2012. Artículo 6.
+
+[132] Ley 1010 de 2006. Artículo 9.
+
+[133] Ley 1010 de 2006. Artículo 12.
+
+[134] *Ibidem*.
+
+[135] Ley 1010 de 2006.
+Artículo 3. “(…) *a) Haber observado buena conducta anterior. // b) Obrar en
+estado de emoción o pasión excusable, o temor intenso, o en estado de ira e
+intenso dolor. // c) Procurar voluntariamente, después de realizada la
+conducta, disminuir o anular sus consecuencias. // d) Reparar,
+discrecionalmente, el daño ocasionado, aunque no sea en forma total. // e) Las
+condiciones de inferioridad síquicas determinadas por la edad
+o por circunstancias orgánicas que hayan influido en la realización de la
+conducta. // g) Cuando existe manifiesta o velada provocación o desafío por
+parte del superior, compañero o subalterno. // h) Cualquier circunstancia de
+análoga significación a las anteriores*”.
+
+[136] Ley 1010 de 2006.
+Artículo 4. “*a) Reiteración de la conducta; // b) Cuando exista concurrencia
+de causales; // c) Realizar la conducta por motivo abyecto, fútil o mediante
+precio, recompensa o promesa remuneratoria, // d) Mediante ocultamiento, o
+aprovechando las condiciones de tiempo, modo y lugar, que dificulten la defensa
+del ofendido, o la identificación del autor partícipe; // e) Aumentar
+deliberada e inhumanamente el daño psíquico y biológico causado al sujeto
+pasivo; // f) La posición predominante que el autor ocupe en la sociedad, por
+su cargo, rango económico, ilustración, poder, oficio o dignidad; // g)
+Ejecutar la conducta valiéndose de un tercero o de un inimputable; // h) Cuando
+en la conducta desplegada por el sujeto activo se causa un daño en la salud física
+o psíquica al sujeto pasivo*”.
+
+[137] Ley 1010 de 2006. Artículo 11.
+
+[138] *Cfr.,* Corte
+Constitucional. Sentencia T-141 de 2024. En
+esta providencia se ha sostenido lo siguiente: “[e]*stas actuaciones
+administrativas están sometidas al cumplimiento del debido proceso y deben
+adelantarse de manera célere y sin dilaciones injustificadas.La
+Corte estima que, con base en el artículo 29 de la Constitución, los
+procedimientos administrativos de investigación mediante los cuales se tramitan
+quejas por acoso, discriminación y violencia, deben garantizar el debido
+proceso de todas las partes involucradas: las presuntas víctimas y las personas
+investigadas. En virtud del principio de celeridad se exige a las autoridades
+impulsar de manera oficiosa los procedimientos con el fin de que “se
+adelanten con diligencia, dentro de los términos legales y sin dilaciones
+injustificadas”. En ese sentido, es exigible que los responsables dentro
+de una institución conozcan el trámite previsto en el protocolo y la
+demás normativa aplicable para activar las rutas de protección. Así mismo, es
+deber de la institución orientar y reconducir estas peticiones a la autoridad
+competente y no justificar en ello la demora en el trámite”*.
+
+[139] Por violencia contra la mujer debe entenderse, siguiendo lo
+dispuesto en la Ley 1257 de 2008 -artículo 2-, “(…) *cualquier acción u
+omisión, que le cause muerte, daño o sufrimiento físico, sexual, psicológico,
+económico o patrimonial por su condición de mujer, así como las amenazas de
+tales actos, la coacción o la privación arbitraria de la libertad, bien sea que
+se presente en el ámbito público o en el privado*”.
+
+[140] *Cfr.,* Corte
+Constitucional. Sentencia T-266 de 2024.
+
+[141] *Ibidem.*
+
+[142] *Cfr.,* Corte
+Constitucional. Sentencia T-239 de 2018.
+
+[143] *Ibidem*.
+
+[144] *Cfr.,* Corte
+Constitucional. Sentencia T-198 de 2022. En esta sentencia se
+analiza la práctica probatoria judicial, con enfoque de género. El trámite de
+una queja ante el Comité de Convivencia Laboral no es, claramente, un proceso
+judicial. Empero, no existen razones para sostener que el trámite de una queja
+debe llevarse a cabo con abstracción del enfoque de género. Máxime cuando, como
+se ha reconocido en esta providencia, tanto las autoridades del Estado, como
+los particulares, tienen el deber constitucional de emprender acciones
+tendientes a eliminar la discriminación contra la mujer. Por su parte, en la
+Sentencia T-266 de 2024, la Corte se pronunció así: “*El artículo 7* [de
+la Ley 1010 de 2006] *definió conductas, o hechos indicadores, que, de
+desplegarse de manera reiterada y pública, se presume que existe acoso laboral,
+con la posibilidad de desvirtuarse si hay prueba en contrario. Como lo explicó
+la Sentencia T-198 de 2022, respecto de las conductas que ocurran en privado,
+no existe esta presunción. Por lo que, a través de los medios de prueba
+reconocidos en la ley procesal civil, la parte interesada debe convencer a la
+autoridad de que sí ocurrió el acoso laboral. Sin embargo, quien investiga
+estos hechos, especialmente cuando se trata de una mujer víctima de violencia,
+debe flexibilizar la carga de la prueba, sin desconocer las garantías mínimas
+de la otra parte. Así, debe privilegiar los indicios sobre la prueba directa
+porque permite hacer interpretaciones sistémicas de la realidad. Lo anterior,
+debido a que, en muchos escenarios, la declaración de la mujer víctima es con
+la única prueba con la que cuenta”*.
+
+[145] *Cfr.,* Corte
+Constitucional. Sentencia T-266 de 2024.
+
+[146] *Ibidem*.
+
+[147] *Ibidem*.
+
+[148] *Cfr.,* Corte
+Constitucional. Sentencia T-168 de 2019.
+
+[149] *Ibidem*.
+
+[150] *Cfr.,* Corte
+Constitucional. Sentencia T-415 de 2023.
+
+[151] *Ibidem*.
+
+[152] *Ibidem*.
+
+[153] *Cfr.,* Corte
+Constitucional. Sentencia T-141 de 2024.
+
+[154] *Cfr.,* Corte
+Constitucional. Sentencia T-266 de 2024.
+
+[155] *Ibidem*.
+
+[156] *Ibidem*.
+
+[157] Ley 1010 de 2006. Artículo 9.
+
+***[158]*** *“Por la cual se establece la conformación y funcionamiento
+del Comité de Convivencia Laboral, se adoptan los mecanismos de prevención y se
+establece un procedimiento interno para superar las conductas de acoso laboral
+en [la empresa]”.*
+
+[159] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Acta Nro. *123*
+del 18 de diciembre de 2023.
+
+[160] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*QUEJA ACOSO LABORAL [Julia] ANEXOS Y
+PRUEBAS.pdf*”.
+
+[161] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Acta Nro. *123*
+del 18 de diciembre de 2023.
+
+[162] *Ibidem*.
+
+[163] Resolución *ABC* de 2022. Artículo 23.3.
+
+[164]
+Expediente de tutela T-10.302.817, disponible en
+*SiiCor*. “EVIDENCIA CUMPLIMIENTO AUTO CORTE
+CONSTITUCIONAL.pdf” pp. 155
+
+[165] Ley
+1010 de 2006, artículo 1, parágrafo.
+
+[166] *Cfr*.
+Corte Constitucional, Sentencia T-317 de 2020.
+
+[167] Resolución 652 de 2012. Artículo 6.
+
+[168] *Ibidem*.
+
+[169] Resolución *ABC* de 2022. Artículo 1.
+
+[170] *Ibidem.*
+Artículo 16
+
+[171] *Ibidem*.
+Artículo 23, numerales 1 al 4.
+
+[172] Resolución *ABC* de 2022. Artículo 23.5.
+
+[173] *Ibidem*.
+
+[174] *Ibidem.*
+
+[175] *Ibidem.*
+
+[176] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*INFORME Y ANEXOS VICEPROCURADURIA.pdf*”. Folio 4.
+
+[177] Ver entre otras, sentencias T-403
+de 2018, SU-522 de 2019 y SU-109 de 2022.

@@ -1,0 +1,88 @@
+{
+  "doc_id": "ley_2452_2025",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html",
+      "sha256": "160a11eb3814b016dbff38382702de98b1b080dfd8fde2ff2205acfd048712ae",
+      "bytes": 107739,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:08-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr001.html",
+      "sha256": "e9ed78fcfca854c23df19595e668fd8ac1bed35918d864d328d3ffe0f7da2352",
+      "bytes": 104212,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:10-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr002.html",
+      "sha256": "4c49f8850ea84f23d3fdf6d1393cdf56db7fc11398e8014b6145736e65905672",
+      "bytes": 100032,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:11-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr003.html",
+      "sha256": "76d4b5a4e707538d5dffb3479c8b404276595d9ab0a6209faf471c2bebca1e33",
+      "bytes": 91759,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:13-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr004.html",
+      "sha256": "681c27968c57a929bfeb00e7038e2e45e1d52adfefba5ea7185aeb87dda58df0",
+      "bytes": 90561,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:14-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr005.html",
+      "sha256": "9351253f0b4e3f25dbd240c4680f8eea570a12881ac8eed01301aecedd787783",
+      "bytes": 104589,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:16-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr006.html",
+      "sha256": "5d7cc3ab5c0b0c800f9f36c5f4f9e429cb9d761d5f7e9b33320b3050745f4744",
+      "bytes": 97372,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:17-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr007.html",
+      "sha256": "d81e8c001cbb127340d847d06082139098d7448f641265f060548e5bbbc449ba",
+      "bytes": 103167,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:19-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025_pr008.html",
+      "sha256": "35f71310583c24cc672c2851dfe30ab01ea9388e0a2a78988b87b3b8777ae4bf",
+      "bytes": 70662,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:20-05:00"
+    }
+  ]
+}

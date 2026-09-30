@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_sl_3385_2022",
+  "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/bnov2022/SL3385-2022.pdf",
+  "tipo": "pdf",
+  "partes": [
+    {
+      "archivo": "parte_000.pdf",
+      "url": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/bnov2022/SL3385-2022.pdf",
+      "sha256": "b4b215f1263e28e87633b7d86097244606ee0f8a31c20274cfdae7c97f493854",
+      "bytes": 406868,
+      "content_type": "application/pdf",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:19:39-05:00"
+    }
+  ]
+}

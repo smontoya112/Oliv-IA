@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_t-429_2011",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2011/T-429-11.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2011/T-429-11.htm",
+      "sha256": "eb8c65396d9bc7f6577983af27ebf13ac8ac64dea50349f2933c4f83fcfbf47d",
+      "bytes": 150044,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:40-05:00"
+    }
+  ]
+}

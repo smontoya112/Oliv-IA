@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1755_2015",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html",
+      "sha256": "ecc1d95fab462d2dd6f02d4f9191e124c79a9e24bf3965a51a563da03b97dbbe",
+      "bytes": 50784,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:25:19-05:00"
+    }
+  ]
+}

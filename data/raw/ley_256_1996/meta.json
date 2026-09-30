@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_256_1996",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0256_1996.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0256_1996.html",
+      "sha256": "8c05e39870ab4ce278b2a10ef4a4e9096f092e75048d5a5f5b792b03d56b9ae5",
+      "bytes": 51221,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:23-05:00"
+    }
+  ]
+}

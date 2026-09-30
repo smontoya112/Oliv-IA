@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-240_2015",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU240-15.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU240-15.htm",
+      "sha256": "ef6f7fac16974ca189d2d1c5b04d226e376902f1d4c7dd481f50eb68f1344b1f",
+      "bytes": 314215,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:57-05:00"
+    }
+  ]
+}

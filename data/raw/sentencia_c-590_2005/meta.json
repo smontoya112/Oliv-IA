@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-590_2005",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/c-590-05.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2005/c-590-05.htm",
+      "sha256": "5acfaae053aa4505327f91cf8205c72c03417034c66e2b40332103f16b28d158",
+      "bytes": 213276,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:57-05:00"
+    }
+  ]
+}

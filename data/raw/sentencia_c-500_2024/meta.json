@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-500_2024",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2024/C-500-24.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2024/C-500-24.htm",
+      "sha256": "211dd6cbc4fe45ac6281323a6b84ee6936737457c63b90def3187c53b6caeae7",
+      "bytes": 362869,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:34-05:00"
+    }
+  ]
+}

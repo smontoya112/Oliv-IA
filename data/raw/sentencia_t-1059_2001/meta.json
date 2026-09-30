@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_t-1059_2001",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1059-01.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1059-01.htm",
+      "sha256": "4432b43fedf3152cebfe9a8488a58577309bd656fb7bb4534dc9b42e128e818a",
+      "bytes": 137904,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:21-05:00"
+    }
+  ]
+}

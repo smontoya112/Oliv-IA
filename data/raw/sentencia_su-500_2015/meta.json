@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-500_2015",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU500-15.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU500-15.htm",
+      "sha256": "e2151941545bfbbd0d61e8f6246c9855f49b58a2197d846322a11bf58203c91d",
+      "bytes": 705126,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:17-05:00"
+    }
+  ]
+}

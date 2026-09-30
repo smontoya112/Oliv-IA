@@ -1,0 +1,61 @@
+{
+  "doc_id": "ley_222_1995",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html",
+      "sha256": "9e8aada72d40ef88cb433d2b5438c9913e7abe43686715f51dd4c1d30fc01bf3",
+      "bytes": 85015,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:40-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995_pr001.html",
+      "sha256": "32dfa0c3b1618b3086ab81e185cd6ec7df318ad1ccb09ae76168c8471b269b37",
+      "bytes": 93260,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:42-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995_pr002.html",
+      "sha256": "6b6721c0205ba629781410fb430af1d94474cc204260560250d4eeb0df77cdc5",
+      "bytes": 106574,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:43-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995_pr003.html",
+      "sha256": "b3a6f2c8e08d8ab8b976ec3d4fa37873b340b320fed345bd2795d648b5b178fa",
+      "bytes": 102705,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:45-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995_pr004.html",
+      "sha256": "375831e9e4d63ebb32c07a20e3fc05b9c6ad691c301438012a1fc725daccc743",
+      "bytes": 82365,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:46-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995_pr005.html",
+      "sha256": "cb12ac84c89be4c9e439fe0572aaef88fdb3e85c9fda5ca77b68cea753426bdd",
+      "bytes": 36604,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:48-05:00"
+    }
+  ]
+}

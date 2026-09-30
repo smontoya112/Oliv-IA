@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_979_2005",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0979_2005.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0979_2005.html",
+      "sha256": "e88fdbbea84723c3254480d1cbf2c9215f685b92b95d238c8658e9652676f560",
+      "bytes": 25289,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:16-05:00"
+    }
+  ]
+}

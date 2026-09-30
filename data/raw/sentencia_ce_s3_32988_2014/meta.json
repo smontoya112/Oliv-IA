@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_ce_s3_32988_2014",
+  "url": "https://www.consejodeestado.gov.co/documentos/boletines/151/S3/05001-23-25-000-1999-01063-01(32988).pdf",
+  "tipo": "pdf",
+  "partes": [
+    {
+      "archivo": "parte_000.pdf",
+      "url": "https://www.consejodeestado.gov.co/documentos/boletines/151/S3/05001-23-25-000-1999-01063-01(32988).pdf",
+      "sha256": "45d9d9d7466db4508434cf15c87f31080a16bbfb249fe546cd5178137a28b351",
+      "bytes": 700428,
+      "content_type": "application/pdf",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:29:11-05:00"
+    }
+  ]
+}

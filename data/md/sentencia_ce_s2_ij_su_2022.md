@@ -1,0 +1,1362 @@
+---
+{
+  "doc_id": "sentencia_ce_s2_ij_su_2022",
+  "titulo": "Sentencia de Unificación CE-S2-IJ-SU de 2022",
+  "fuente": "Consejo de Estado",
+  "url": "https://www.consejodeestado.gov.co/documentos/boletines/258-a/11001-03-25-000-2017-00151-00(IJ-SU)%20SV%20WHG.pdf",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "administrativo",
+    "procesal",
+    "tributario"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": null,
+  "anio": 2022,
+  "organo_emisor": null,
+  "canonico": [
+    "jurisprudencia",
+    "CE-S2-IJ-SU",
+    "2022"
+  ],
+  "items_del_banco": 0,
+  "formato_origen": [
+    "pdf_texto"
+  ],
+  "codificacion": [],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.consejodeestado.gov.co/documentos/boletines/258-a/11001-03-25-000-2017-00151-00(IJ-SU)%20SV%20WHG.pdf"
+  ],
+  "sha256_partes": [
+    "3db3c26a57bda77d9e190644b8ab820cc55a3d19c3fd771ef08ca091e41e5ca5"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 167672,
+  "n_articulos_detectados": 0,
+  "archivo_md": "md/sentencia_ce_s2_ij_su_2022.md",
+  "metadata_autocompletada": [
+    "areas"
+  ]
+}
+---
+
+<!-- parte parte_000.pdf | https://www.consejodeestado.gov.co/documentos/boletines/258-a/11001-03-25-000-2017-00151-00(IJ-SU)%20SV%20WHG.pdf -->
+<!-- pagina 1 -->
+Recurso extraordinario de unificación
+Salvamento de voto
+
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+CONSEJO DE ESTADO
+SALA PLENA DE LO CONTENCIOSO ADMINISTRATIVO
+
+Bogotá, D.C, treinta (30) de agosto de dos mil veintidós (2022)
+
+Referencia:
+RECURSO
+EXTRAORDINARIO
+DE
+UNIFICACIÓN
+DE
+JURISPRUDENCIA
+Radicación:
+11001-03-25-000-2017-00151-00 (0892-2017)
+Demandante:
+SONIA YAMILE RONDÓN TASCO
+Demandado:
+MUNICIPIO DE SAN GIL
+
+Temas:
+Recurso extraordinario de unificación de jurisprudencia – Sentencia de unificación –Provisionales desvinculados ilegalmente del servicio –
+Límites al valor del restablecimiento, procedencia de descuentos.
+
+SALVAMENTO DE VOTO
+
+Con el debido respeto, salvo el voto respecto del fallo proferido por la Sala Plena de lo
+Contencioso Administrativo de esta Corporación el día 9 de agosto de esta anualidad dentro del proceso de la referencia que unificó jurisprudencia en la jurisdicción de lo contencioso administrativo, estableciendo que son procedentes los descuentos efectuados a la condena derivada del fallo que resuelve el litigio inmiscuido dentro del medio de control de nulidad y restablecimiento del derecho de carácter laboral, donde se obtenga la nulidad del acto que retiró del servicio a un empleado público nombrado en provisionalidad, a razón de las sumas de dinero recibidas por la parte demandante a título de salarios, prestaciones sociales percibidos de relaciones de trabajo en el sector público y, declaró infundado el recurso extraordinario de revisión presentado.
+
+Para el efecto, anexo el proyecto que en relación con el asunto presenté y, que no alcanzó las mayorías en su momento, el cual contiene la tesis que sostengo en relación con el tema objeto de debate, en 47 folios.
+
+Respetuosamente,
+
+WILLIAM HERNÁNDEZ GÓMEZ
+Magistrado
+
+<!-- pagina 2 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+CONSEJO DE ESTADO
+SALA PLENA DE LO CONTENCIOSO ADMINISTRATIVO
+Ponente: William Hernández Gómez
+Bogotá D.C.,
+
+Referencia:
+RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE
+JURISPRUDENCIA
+Radicación:
+11001-03-25-000-2017-00151-00 (0892-2017)
+Demandante:
+SONIA YAMILE RONDÓN TASCO
+Demandado:
+MUNICIPIO DE SAN GIL
+
+Temas:
+
+Recurso extraordinario de unificación de jurisprudencia –
+Sentencia de unificación –Provisionales desvinculados ilegalmente del servicio
+–
+Límites al valor del restablecimiento, procedencia de descuentos.
+
+SENTENCIA DE UNIFICACIÓN
+
+SU-…-IJ….
+
+ASUNTO
+
+1. De conformidad con la competencia asignada por el ordinal tercero del artículo 111 de la Ley 1437 de 2011, la Sala Plena de lo Contencioso Administrativo del Consejo de Estado, en ejercicio de sus atribuciones constitucionales como tribunal supremo de la jurisdicción de lo contencioso administrativo1, decide el recurso extraordinario de unificación de jurisprudencia interpuesto contra la sentencia de segunda instancia proferida el 13 de septiembre de 2016 por el Tribunal Administrativo de Santander, en el proceso radicado 68679-33-33-751-2012-00074-01.
+
+ANTECEDENTES
+
+EL ACTO ADMINISTRATIVO DE DESVINCULACIÓN Y TRÁMITE DEL PROCESO ORDINARIO
+
+2. El alcalde del municipio de San Gil, Santander, expidió la Resolución 0257 del 7 de octubre de 2009, por medio de la cual desvinculó a Sonia Yamile Rondón Tasco del cargo de Comisaria de Familia, código 202, grado 04 (ubicación planta global) que había ocupado en provisionalidad desde mediados del año 20062. El citado acto administrativo fue motivado en los siguientes términos: «[…] Que de conformidad con los reiterados pronunciamientos del Consejo de Estado los nombramientos en provisionalidad no generan fuero de estabilidad a la persona que ocupa el empleo público por lo que su desvinculación laboral no exige formalidad alguna. Que el
+Municipio de San Gil con el único interés de dar aplicación extensiva y especializada
+
+1 Ordinal 1.º del artículo 237 constitucional.
+2 Vinculada mediante Resolución 209 de julio 18 de 2006 y su posesión se llevó a cabo el día 19 de ese mismo mes. Folios 3 a 4.
+
+<!-- pagina 3 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co de conformidad con lo establecido en el Código del Menor requiere de los servicios de un profesional del derecho especializado en la rama de Familia o menores y con la experiencia necesaria […]»3.
+
+3. El 23 de julio de 20124, la señora Sonia Yamile Rondón Tasco presentó demanda de nulidad y restablecimiento del derecho, en la que solicitó: (i) La nulidad del acto administrativo que la desvinculó. (ii) El reintegro al cargo que venía ejerciendo o a uno de mayor categoría. (iii) La condena al pago, en forma indexada, de los salarios y las prestaciones sociales dejados de percibir desde la fecha de su desvinculación hasta cuando se produzca su reintegro al servicio.
+
+4. El 29 de mayo de 20155, el Juzgado Administrativo 751 de Descongestión Oral del
+Circuito Judicial de San Gil profirió sentencia de primera instancia, en la que declaró la nulidad del acto acusado porque consideró que fue expedido mediante «falsa motivación» y desconoció la norma en que debía fundarse (Ley 909 de 2004). En consecuencia, ordenó: (i) el reintegro de la señora Sonia Yamile Rondón Tasco al cargo que venía desempeñando; (ii) condenó al municipio de San Gil al pago de los salarios, prestaciones y cotizaciones al Sistema de Seguridad Social dejados de percibir desde el retiro del servicio y hasta la fecha en que se haga efectivo «el pago»;
+(iii) declaró que para todos los efectos legales no ha existido solución de continuidad en la prestación de los servicios por parte de la demandante.
+
+5. El municipio de San Gil interpuso recurso de apelación con el fin de que se revocara la sentencia condenatoria6. Igualmente, solicitó que, de confirmarse la nulidad del acto, se modificara la orden de restablecimiento del derecho, para ordenar el descuento de las sumas de dinero percibidas por la demandante con ocasión de otras vinculaciones del sector público. Ello por cuanto, en este caso, la demandante, después de ser retirada de la planta de personal de la Alcaldía Municipal de ese ente territorial, fue vinculada como defensora de familia en el ICBF.
+
+6. El 13 de septiembre de 2016, el Tribunal Administrativo de Santander7 profirió sentencia a través de la cual revocó parcialmente la providencia recurrida y ordenó realizar los descuentos indicados por las sentencias de la Corte Constitucional SU-691 de 2011 y SU-556 de 2014, en lo relativo con las vinculaciones con el sector público.
+
+RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA8
+
+RECURRENTE
+
+7. El apoderado de la parte demandante presentó y sustentó oportunamente recurso extraordinario de unificación de jurisprudencia contra la decisión de segunda instancia emitida el 13 de septiembre de 2016 por el Tribunal Administrativo de Santander, con el fin de que se anulara la orden de descontar las sumas que hubiere percibido la demandante por concepto de salarios y prestaciones sociales en otras vinculaciones
+
+3 Ver folio 2.
+4 Folio 15.
+5 Folios 207 a 223.
+6 Folios 229 a 231.
+7 Folios 269 a 276.
+8 Folios 282 a 286 (interposición) y folios 291 a 293 (sustentación).
+
+<!-- pagina 4 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co laborales que hubiese tenido con el Estado9. El recurso se fundamentó en los siguientes argumentos:
+
+8. La decisión del Tribunal Administrativo de Santander vulneró el principio de confianza legítima, toda vez que desconoció la regla prevista en la sentencia de unificación proferida el 29 de enero de 2008 por la Sala Plena de lo Contencioso
+Administrativo del Consejo de Estado, vigente para el momento de interponerse la presente demanda, en virtud de la cual se determinó que no era dable ordenar los descuentos de los salarios y prestaciones recibidos de otras entidades públicas durante el período comprendido entre el retiro del servicio y el reintegro.
+
+9. La regla contenida en la SU-556 de 2014 no puede ser considerada como precedente aplicable para la solución de este caso, toda vez que esta hace referencia a los provisionales que hayan sido retirados del servicio a través de actos administrativos sin motivación, y la Resolución 257 de 2009 por la cual se declaró insubsistente el nombramiento de la demandante sí fue motivada.
+
+10. La orden de descontar los salarios percibidos en otro cargo público afecta la congrua subsistencia de la persona afectada, como quiera que solo podrá obtener la reparación deprecada si permanece sin trabajo.
+
+11. Los salarios y prestaciones que se perciben con ocasión de la declaratoria de nulidad del acto de desvinculación no tienen por título la prestación del servicio, sino el daño causado por el retiro ilegal, es decir, el resarcimiento de los perjuicios generados por la pérdida del empleo.
+
+PRONUNCIAMIENTO DEL MUNICIPIO DE SAN GIL10
+
+12. El apoderado de la entidad territorial se opuso a la prosperidad del recurso extraordinario de unificación de jurisprudencia. Para el efecto, adujo que le asiste razón al Tribunal Administrativo de Santander porque en las pretensiones del medio de control instaurado por la demandante no hay ninguna relacionada con la «reparación del daño». En ese sentido, precisó que el pago de salarios y prestaciones sociales dejados de devengar se reconocieron como parte del restablecimiento del derecho y no como una indemnización o reparación del daño. Ello por cuanto por virtud de la ficción legal que el restablecimiento conlleva, la demandante vuelve al estado anterior a su desvinculación y, de conformidad con lo dispuesto en el artículo 128 de la
+Constitución Política, no le es dable percibir dos asignaciones del Tesoro. En el presente caso la demandante, después de ser retirada de la planta de personal de la
+Alcaldía Municipal, fue vinculada como defensora de familia en el ICBF.
+
+9 Contenida en el ordinal primero de la sentencia del 13 de septiembre de 2016 proferida por el Tribunal
+Administrativo de Santander, a través del cual se revocó parcialmente el ordinal tercero del fallo de primera instancia expedido el 29 de mayo de 2015 por el Juzgado Administrativo 751 de Descongestión Oral del Circuito Judicial de
+San Gil.
+10 Folios 306 y vuelto.
+
+<!-- pagina 5 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+AUDIENCIA DE QUE TRATA EL ARTÍCULO 266 DE LA LEY 143711
+
+13. El día 27 de septiembre de 2017 se llevó a cabo la audiencia de que trata el artículo
+266 del CPACA. A ella comparecieron las partes y el Ministerio Público, quienes se pronunciaron oralmente así:
+
+PARTE RECURRENTE – DEMANDANTE
+
+14. Reiteró los argumentos expuestos en el recurso extraordinario de unificación relativos a que la regla aplicable era la contenida en la sentencia de unificación proferida el 29 de enero de 2008 por la Sala Plena de esta Corporación, y no la SU-
+556 de 2014, toda vez que, en esta última, la Corte Constitucional analizó el caso de un servidor público nombrado en provisionalidad, el cual fue retirado a través de un acto administrativo sin motivación. Adicionalmente, en tal proveído la Corte se refirió a temas de sostenibilidad presupuestal y de desvinculaciones ocurridas durante los años
+2002 a 2003, que se tramitaron bajo la vigencia del Decreto 01 de 1984, las cuales demoraban entre 15 y 16 años, y generaban para el Estado unas sentencias condenatorias bastante altas, consideraciones que, en su sentir, no tienen relación con el caso sub examine.
+
+15. Igualmente, resaltó que la orden de descontar los salarios y prestaciones devengados en otra entidad del Estado conlleva un castigo para el servidor público que nuevamente se vincula a la administración porque «no se quedó de brazos cruzados». Ello limita el acceso a un empleo que le garantice un mínimo vital.
+
+PARTE OPOSITORA: MUNICIPIO DE SAN GIL, SANTANDER
+
+16. La entidad territorial, en resumen, presentó los siguientes argumentos: i) El
+Consejo de Estado debe observar los parámetros señalados en la sentencia C-634 de
+2011 en virtud de la cual, la Corte Constitucional declaró exequible el artículo 10 de la
+Ley 1437 de 2011, en el entendido que «las autoridades tendrán en cuenta, junto con las sentencias de unificación jurisprudencial proferidas por el Consejo de Estado y de manera preferente, las decisiones de la Corte Constitucional que interpreten las normas constitucionales aplicables a la resolución de los asuntos de su competencia». ii) La sentencia de unificación del 29 de enero de 2008 de la Sala Plena del Consejo de Estado se contrapone a los criterios señalados en la SU-691 de 2011 en relación con los descuentos de lo percibido en otros cargos públicos. iii) En virtud de la autonomía judicial no se puede imponer a los jueces el acatamiento obligatorio de las sentencias del Consejo de Estado. iv) De conformidad con el artículo 128 de la
+Constitución Política de 1991 nadie puede ocupar dos cargos públicos ni recibir más de una asignación que provenga del sector público. v) Es necesario limitar las indemnizaciones exorbitantes a fin de garantizar el principio de sostenibilidad fiscal.
+
+17. Por lo anterior, solicitó que, en el tema objeto de discusión, se unifique la jurisprudencia del Consejo de Estado en concordancia con las decisiones adoptadas por la Corte Constitucional.
+
+11 Ver acta de la audiencia obra a folios 380 a 382 del expediente y CD que contiene su grabación, el cual obra a folio 383 del expediente.
+
+<!-- pagina 6 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+AGENTE DEL MINISTERIO PÚBLICO12
+
+18. La procuradora segunda delegada ante el Consejo de Estado consideró que el recurso extraordinario de unificación de jurisprudencia debe prosperar y, en consecuencia, debe anularse el numeral 3 de la sentencia proferida por el Tribunal
+Administrativo de Santander. Ello por cuanto, tal decisión se apartó de la regla fijada por la Sala Plena de esta Corporación en la sentencia del 29 de enero de 2008, al disponer el descuento de las sumas que hubiere percibido la demandante, por concepto de salarios y prestaciones sociales, durante el tiempo que estuvo retirada del servicio.
+
+19. Igualmente, precisó que aunque la decisión del Tribunal estuvo fundamentada en las sentencias SU-691 de 2011 y SU-556 de 2014 proferidas por la Corte
+Constitucional, esa línea jurisprudencial no es la más acorde con el ordenamiento jurídico, toda vez que si bien prohíja algunos principios que regulan la reparación del daño frente a la nulidad de un acto de retiro, desconoce la realidad fáctica y jurídica de las vinculaciones de los empleados provisionales y de carrera y los efectos de tales decisiones, así como el hecho de que los pagos que se realizan provienen de causas jurídicas distintas.
+
+20. Para sustentar su argumentación, adujo que lo percibido por quien se vincula laboralmente a la administración, con posterioridad al retiro del servicio, no puede tener incidencia en el daño que causa el acto ilegal de declaratoria de insubsistencia ni en la forma como este debe resarcirse. Lo anterior, por cuanto los salarios y prestaciones que por tal causa se devengan provienen de la relación laboral, mientras que la indemnización se deriva de la ilegalidad del acto. De manera que no es plausible afirmar, como lo hizo la Corte, que proceden del mismo título.
+
+21. Pese a ello, consideró que no puede dejarse de lado el argumento de la Corte
+Constitucional referente a que la orden de pagar una indemnización equivalente a «la totalidad de los salarios y prestaciones sociales dejados de percibir entre el retiro ilegal y el efectivo reintegro, con su debida indexación», constituye una suma excesiva y, por ende, una carga fiscal muy alta para el Estado.
+
+22. En tal virtud, solicitó a esta Corporación que, la indemnización que se ordene por el daño antijurídico causado con ocasión del retiro ilegal del servicio de la demandante tenga como base las tablas de indemnización previstas en el artículo 64 del Código
+Sustantivo del Trabajo, con la modificación introducida por la Ley 789 de 2002.
+
+CONSIDERACIONES
+
+COMPETENCIA
+
+23. De conformidad con el artículo 259 del CPACA13, el Consejo de Estado es competente para resolver el recurso extraordinario de unificación de jurisprudencia interpuesto por la parte demandante.
+
+12 Folios 370 a 379 y CD que contiene la audiencia de alegatos que obra a folio 383 del expediente.
+13 «Artículo 259. Competencia. Del recurso extraordinario de unificación de jurisprudencia previsto en este capítulo conocerá, según el acuerdo correspondiente del Consejo de Estado y en atención a su especialidad, la respectiva sección de la Sala de lo Contencioso Administrativo de la misma Corporación».
+
+<!-- pagina 7 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+24. Ahora bien, aunque, prima facie, la Sección Segunda de la Corporación es la competente para decidir el presente recurso extraordinario, lo cierto es que mediante auto del 9 de agosto de 201714, la Sala Plena de lo Contencioso Administrativo, en ejercicio de las funciones conferidas por el artículo 111 ordinal tercero ejusdem15, decidió, a solicitud de la Sección Segunda16, ejercer su competencia para dictar sentencia de unificación en este tema, dada la importancia jurídica y la trascendencia económica que representa el asunto objeto de debate.
+
+25. En efecto, la Sala Plena consideró que era necesario tomar una posición en lo relativo al restablecimiento del derecho de los servidores públicos nombrados en provisionalidad que han sido desvinculados ilegalmente de sus cargos y a la procedencia de los descuentos de las sumas que hayan podido percibir del Erario, o del sector privado o como trabajadores independientes. Lo anterior, por cuanto no existe uniformidad en la jurisprudencia de la jurisdicción de lo contencioso administrativo en relación con la regla que debe aplicarse en tales casos, de manera que algunos despachos judiciales acogen la tesis contenida en la sentencia de unificación proferida el 29 de enero de 2008 por la Sala Plena del Consejo de Estado, tal como lo hizo en el sub examine el Juez Administrativo 751 de Descongestión Oral del Circuito Judicial de San Gil, mientras que otros, verbigracia, el Tribunal
+Administrativo de Santander, adoptan la postura de la Corte Constitucional, lo que genera gran inseguridad jurídica para los usuarios de la administración de justicia.
+
+26. Así mismo, la existencia de dos líneas jurisprudenciales en relación con la materia conlleva múltiples discusiones en el marco de recursos ordinarios y también ha dado lugar a la interposición de innumerables acciones de tutela contra las providencias judiciales en las que se ha optado por una u otra tesis, lo cual ha generado un variopinto de debates sobre cuál es el precedente aplicable, el de la Corte
+Constitucional o el del Consejo de Estado.
+
+27. Por otra parte, es necesario que esta Corporación emita una sentencia de unificación jurisprudencial frente al tema, como quiera que las decisiones de la Corte
+Constitucional sobre la materia son posteriores a la sentencia del 29 de enero de 2008 de la Sala Plena del Consejo de Estado, y en ellas se incorporaron elementos de juicio que no habían sido objeto de estudio en la providencia de Sala Plena ya referida, tales como la orden de descuentos de lo percibido por vinculaciones con el sector privado, o de manera independiente y, se agregó la procedencia de límites indemnizatorios.
+
+28. Por lo anterior, la Sala Plena de esta Corporación tiene la competencia para decidir el presente recurso extraordinario de unificación de jurisprudencia, con el fin de fijar las reglas jurisprudenciales aplicables en relación con los descuentos y los límites del restablecimiento del derecho o indemnización en aquellos casos de desvinculación ilegal de servidores públicos nombrados en provisionalidad, de conformidad con lo previsto en dicho auto.
+
+14 Folios 317 a 321.
+15 Según esta norma, modificada por la L. 2080 es función de la Sala de lo Contencioso Administrativo en pleno:
+«[…] 3. Dictar auto o sentencia de unificación en los asuntos indicados en el artículo 271 de este código […]».
+16 La Sección Segunda del Consejo de Estado, en sesión del 31 de julio de 2017, consideró procedente solicitar a la Sala Plena de la Corporación que asumiera la competencia para conocer del recurso extraordinario de unificación de jurisprudencia.
+
+<!-- pagina 8 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+29. Para tal efecto, la sentencia se dividirá en seis partes: I. Nombramientos en provisionalidad. II. La línea jurisprudencial de la Corte Constitucional. III. La línea jurisprudencial del Consejo de Estado. IV. La unificación jurisprudencial respecto de los desvinculados ilegalmente que han ocupado un cargo de carrera en la modalidad de provisionalidad. V. Las reglas de unificación y sus efectos en el tiempo. VI. El caso concreto.
+
+-
+PRIMERA PARTE –
+LOS NOMBRAMIENTOS EN PROVISIONALIDAD
+
+CARACTERÍSTICAS DE LOS NOMBRAMIENTOS EN PROVISIONALIDAD
+
+30. De conformidad con el artículo 25 de la Ley 909 de 2004, los nombramientos en provisionalidad tienen las siguientes características17:
+
+31. Son excepcionales, porque la regla general para el ingreso a la administración pública es el mérito de acuerdo con los postulados constitucionales y legales, los cuales se hacen efectivos en el sistema de carrera administrativa. En efecto, de conformidad con el artículo 2.2.5.3.1. del Decreto 1083 de 201518, modificado por el artículo 1 del Decreto 648 de 2017, las vacantes definitivas se deben proveer de la siguiente manera: (i) En los empleos de libre nombramiento y remoción serán provistas mediante nombramiento ordinario o mediante encargo, previo cumplimiento de los requisitos exigidos para el desempeño del cargo. (ii) Cuando se trate de las vacantes definitivas en empleos de carrera se proveerán en periodo de prueba o en ascenso, con las personas que hayan sido seleccionadas mediante el sistema de mérito, de conformidad con lo establecido en la Ley 909 de 2004 o en las disposiciones que regulen los sistemas específicos de carrera, según corresponda. (iii) Mientras se surte el proceso de selección, el empleo de carrera vacante de manera definitiva podrá proveerse transitoriamente a través de las figuras del encargo o del nombramiento provisional, en los términos señalados en la Ley 909 de 2004 y en el Decreto-ley
+760 de 2005 o en las disposiciones que regulen los sistemas específicos de carrera.
+En resumen, la ley regula de manera asertiva el carácter eminentemente excepcional de la vinculación en la modalidad de «provisional».
+
+32. Son residuales, porque cuando se trate de proveer las vacantes definitivas en empleos de carrera, prima facie, se debe optar por la modalidad del «encargo», el cual se surte con los empleados vinculados en propiedad. Solo, cuando no es posible proveer el «encargo», de manera residual, se recurre al nombramiento en provisionalidad19.
+
+17 Ley 909. Artículo 25. Provisión de los empleos por vacancia temporal. Los empleos de carrera cuyos titulares se encuentren en situaciones administrativas que impliquen separación temporal de los mismos serán provistos en forma provisional solo por el tiempo que duren aquellas situaciones, cuando no fuere posible proveerlos mediante encargo con servidores públicos de carrera.
+18 Reglamentario Único del Sector de la Función Pública.
+19 El carácter residual del nombramiento en provisionalidad es una regla general prevista en el artículo 25 de la Ley
+909 de 2004 y, por lo tanto, predicable de los empleos que se rigen por el sistema general de carrera administrativa y, en forma supletoria por mandato de los artículos 3 y 55 ibidem, de aquellos que hacen parte de los sistemas específicos de carrera o de creación legal. En tales condiciones, nada obsta para que en estos últimos o en las carreras especiales de origen constitucional se consagre de manera expresa una formula diferente, como en efecto ocurre en el régimen de la Procuraduría General de la Nación contemplado en el Decreto Ley 262 de 2000. Este,
+
+<!-- pagina 9 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+33. La vinculación es temporal, la cual se evidencia en que el nombramiento en provisionalidad está limitado en el tiempo, pues solamente puede existir válidamente hasta tanto el cargo sea provisto en propiedad en el sistema de carrera.
+
+34. La forma de vinculación con el Estado es de carácter precario, toda vez que con el nombramiento en provisionalidad se provee un cargo de carrera administrativa sin mediar un concurso de méritos y, por tanto, la persona que ha sido nombrada en tal condición tiene pleno conocimiento de la temporalidad que ello implica, incluso puede darse por terminado antes de cumplirse el término, tal y como lo regula el artículo 2.2.5.3.4. del Decreto 1083 de 2015, modificado por el artículo 1 del Decreto
+648 de 2017, el cual indica que «antes de cumplirse el término de duración del encargo, de la prórroga o del nombramiento provisional, el nominador, por resolución motivada, podrá darlos por terminados».
+
+35. No otorga derechos de carrera. Quien ocupa en provisionalidad un cargo de carrera no adquiere los derechos inherentes a ella, de los cuales se destaca, por ejemplo, la permanencia en el servicio, toda vez que estos solo se conceden a su titular. Es por ello por lo que la Corte Constitucional20 ha considerado que los provisionales ocupan una categoría intermedia entre quienes han sido nombrados en carrera administrativa y los empleados de libre nombramiento y remoción. Lo anterior, como quiera que frente a estos no puede predicarse ni la estabilidad laboral propia de los de carrera, ni la discrecionalidad relativa de los de libre nombramiento y remoción.
+
+36. Las diferencias entre quienes se vinculan al empleo público por carrera administrativa y quienes se vinculan a través de nombramientos en provisionalidad, pueden resumirse así:
+
+Carrera Administrativa
+Provisionalidad
+Regla general de ingreso al empleo público.
+Forma excepcional de ingreso al empleo público.
+Vocación de permanencia y estabilidad en el empleo.
+Temporalidad en el empleo
+La provisión de los cargos es eminentemente reglada.
+Los nombramientos en provisionalidad responden al ejercicio de la facultad discrecional, cuando no fuere posible proveerlo por encargo.
+Vinculación con el
+Estado con formalidades plenas
+Vinculación con el Estado de carácter precario.
+Gozan de los derechos plenos de la carrera administrativa, una vez superado el concurso de ingreso y el período de prueba.
+No gozan de los derechos de carrera, pese a ocupar un cargo de tal naturaleza.
+
+RETIRO DEL SERVICIO DE EMPLEADOS NOMBRADOS EN PROVISIONALIDAD
+
+en sus artículos 82, 185, 186, 187, 188 y 218, reconoce al nominador la facultad para escoger discrecionalmente entre la provisión temporal de la vacante mediante la figura del encargo o a través de un nombramiento provisional.
+En las sentencias C-077 de 2004 y C-503 de 2020, la Corte Constitucional decidió declarar la exequibilidad de dichas normas tras concluir que la potestad que consagran en cabeza del procurador General de la Nación no vulnera el principio de igualdad en el acceso a cargos públicos ni el de mérito y la carrera administrativa.
+20 Ver entre otras: Sentencias C-431 de 2010, SU-054 de 2015, T-373 de 2017.
+
+<!-- pagina 10 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+37. El artículo 41 de la Ley 909 de 2004 y el Decreto 1083 de 2015 (artículo 2.2.5.2.1, modificado por el artículo 1 del Decreto 648 de 2017) regulan las causales de desvinculación para quienes estén desempeñando empleos de libre nombramiento y remoción o de carrera administrativa. Estas mismas causales son aplicables a quienes ocupen cargos de carrera en la modalidad provisional. Para mejor comprensión se propone la siguiente clasificación de las referidas causales:
+
+38. Por decisión de la administración, en las siguientes modalidades: (i) Cuando se trate de empleados de libre nombramiento y remoción. (ii) Como consecuencia de la evaluación del desempeño laboral «no satisfactoria» de un empleado de carrera administrativa. (iii) Por destitución, como consecuencia de proceso disciplinario. (iv)
+Por declaratoria de vacancia del empleo en el caso de abandono del mismo21. (v) Por revocatoria del nombramiento en caso de no acreditar los requisitos para el desempeño del empleo, de conformidad con el artículo 5.° de la Ley 190 de 1995, y las normas que lo adicionen o modifiquen. (vi) Por supresión del empleo.
+
+39. Por hechos o circunstancias ajenas a la voluntad de la administración, en las siguientes modalidades: (a) Por orden o decisión judicial. (b) Por renuncia regularmente aceptada. (c) Por muerte.
+
+40. Porque se dan las circunstancias reguladas en la ley, en las siguientes modalidades: (a) Retiro por haber obtenido la pensión de jubilación o vejez22. (b) Por invalidez absoluta. (c) Por edad de retiro forzoso. (d) Por las demás que determinen la
+Constitución Política y las leyes. Acá estaría incluido el retiro para designar al titular del empleo que ha superado el concurso, causal que es exclusiva para las personas vinculadas a través de nombramientos en provisionalidad, pues no se presenta frente a los inscritos en carrera ni los de libre nombramiento y remoción.
+
+DEBER DE MOTIVACIÓN DEL ACTO QUE DESVINCULA A UNA PERSONA NOMBRADA EN
+PROVISIONALIDAD.
+
+41. El parágrafo 2.º del artículo 41 de la Ley 909 hace varias precisiones que son relevantes en esta sentencia. Veamos: La competencia cuando se trate del retiro de los «empleos de carrera» es una facultad reglada que se concreta en dos requisitos:
+(i) Solo puede fundamentarse en las causales previstas en la Constitución y la ley. (ii)
+El acto administrativo de desvinculación debe estar motivado.
+
+42. A su turno, el artículo 2.2.5.3.4. del Decreto 1083 de 2015 modificado por el artículo
+1 del 648 de 2017 precisó que «antes de cumplirse el término de duración del encargo, de la prórroga o del nombramiento provisional, el nominador, por resolución motivada, podrá darlos por terminados».
+
+43. En conclusión, quien desempeña un cargo de carrera, en la modalidad de provisionalidad, podrá ser desvinculado del servicio siempre y cuando se cumpla con el requisito de motivación
+
+21 Literal declarado exequible por la Corte Constitucional mediante sentencia C-1189 de 2005, en el entendido de que para aplicar esta causal, es requisito indispensable que se dé cumplimiento al procedimiento establecido en el inciso primero del artículo 35 del Código Contencioso Administrativo para la expedición de cualquier acto administrativo de carácter particular y concreto, esto es, que se permita al afectado el ejercicio de su derecho de defensa, previa la expedición del acto administrativo que declare el retiro del servicio.
+22 El cual fue declarado exequible por la Corte Constitucional mediante sentencia C-501 de 2005, en el entendido de que no se pueda dar por terminada la relación laboral sin que se le notifique debidamente su inclusión en la nómina de pensionados correspondiente.
+
+<!-- pagina 11 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co del acto y en general por las razones del buen servicio, con el cumplimiento del debido proceso. En consecuencia, si el juez de lo contencioso administrativo concluye que el acto administrativo de desvinculación está viciado por alguna de las causales de nulidad previstas en el artículo 137 del CPACA23, ello implica que el sujeto pasivo del acto anulado ha sido afectado en un derecho legítimo, que le debe ser restablecido.
+
+-SEGUNDA PARTE-
+
+LÍNEA JURISPRUDENCIAL DE LA CORTE CONSTITUCIONAL SOBRE MEDIDAS DE PROTECCIÓN
+RESPECTO DE PROVISIONALES DESVINCULADOS ILEGALMENTE DEL SERVICIO (EXPEDICIÓN DE
+ACTO ADMINISTRATIVO MOTIVADO, REINTEGRO, DESCUENTOS Y TOPES)
+
+44. En la sentencia SU-250 de 1998 la Corte Constitucional unificó por primera vez su jurisprudencia sobre el deber de motivación de los actos administrativos de retiro del servicio de los nombrados en provisionalidad24. No obstante, respecto del pago de salarios y demás prestaciones dejadas de devengar ha tenido varias tesis. Veamos:
+
+ORDEN DE MOTIVACIÓN Y EVENTUAL REINTEGRO.
+
+45. La Corte Constitucional en varias tutelas ha ordenado la motivación del acto desvinculatorio y si la entidad no tuviere argumentos, entonces debe reintegrar al servidor retirado al cargo que venía ocupando, o a uno de mejor o igual categoría. Esta línea se inició en la sentencia T-597 de 200425.
+
+ORDEN DE REINTEGRO SIN DEFINIR EL PAGO DE SALARIOS Y PRESTACIONES SOCIALES
+
+46. En otras tutelas la Corte Constitucional dispuso de manera directa e inmediata el reintegro de quien tuvo una vinculación provisional, sin consideración alguna en relación con el pago de los salarios y prestaciones dejados de devengar. Es el caso de la sentencia T-800 de 1998 en la cual ordenó el reintegro del empleado en provisionalidad, pero advirtió que la protección duraría mientras el concurso de méritos fuera convocado, en cuyo caso debe prevalecer el mérito26.
+
+23 Procederá la nulidad cuando hayan sido expedidos con infracción de las normas en que deberían fundarse, o sin competencia, o en forma irregular, o con desconocimiento del derecho de audiencia y defensa, o mediante falsa motivación, o con desviación de las atribuciones propias de quien los profirió.
+24 Consideró que la motivación preserva: i) la cláusula del Estado Social de Derecho; ii) el debido proceso; iii) el principio democrático; y iv) el principio de publicidad, cuando analizó el caso de una persona nombrada en provisionalidad -en una notaría-, a quien le declararon insubsistente el nombramiento con un acto administrativo sin motivación. Esta línea se ha mantenido inmutable hasta la fecha por parte de la Corte. Ver, entre otras: T-683 de 1998, T-800 de 1998, T-884 de 2002, T-752 de 2003, T-610 de 2003, T-597 de 2004, T-951 de 2004, T-1240 de
+2004, T-1206 de 2004, T-031 de 2005, T-123 de 2005, T-132 de 2005, T-161 de 2005, T-222 de 2005, T-267 de
+2005, T-374 de 2005, T-454 de 2005, T-648 de 2005, T-660 de 2005, T-696 de 2005, T-752 de 2005, T-804 de
+2005, T-1117 de 2005, T-1159 de 2005, T-1162 de 2005, T-1248 de 2005, T-1258 de 2005, T-1310 de 2005, T-
+1316 de 2005, T-1323 de 2005, T-024 de 2006, T-081 de 2006, T-156 de 2006, T-170 de 2006, T-254 de 2006, T-
+432 de 2006, T-634 de 2006, T-653 de 2006, T-873 de 2006, T-064 de 2007, T-857 de 2007, T-007 de 2008, T-308 de 2008, T-356 de 2008, T-1022 de 2008, T-011 de 2009, T-023 de 2009, T-048 de 2009, T-087 de 2009, T-104 de
+2009, T-108 de 2009, T-251 de 2009, SU-917 de 2010, T-656 de 2011, SU-691 de 2011, SU-556 de 2014, SU-054 de 2015.
+25 Ver, entre otros los siguientes fallos de tutela: T-951 de 2004, T-1240 de 2004, T-031 de 2005, T-132 de 2005,
+T-374 de 2005, T-454 de 2005, T-648 de 2005, T-696 de 2005, T-804 de 2005, T-1159 de 2005; T-1310 de 2005,
+T-1316 de 2005, T-1323 de 2005, T-024 de 2006, T-081 de 2006, T-873 de 2006, T-064 de 2007, T-857 de 2007,
+T-007 de 2008, T-011 de 2009, T-023 de 2009, T-087 de 2009.
+26 Ver fallo T-884 de 2002 que ordenó el reintegro de manera transitoria, pero no emitió orden alguna en relación con el pago de salarios y prestaciones dejados de devengar. En igual sentido, las sentencias T-752 de 2003, T-660
+
+<!-- pagina 12 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+Orden de reintegro al cargo sin solución de continuidad, más el pago de todos los salarios y prestaciones dejados de percibir
+
+47. La Corte Constitucional en la sentencia T-1117 de 2005, además del reintegro, ordenó el pago de todos los salarios y prestaciones a que tenía derecho la funcionaria desde la fecha de desvinculación hasta el momento en que fuese efectivamente incorporada a la entidad27. La anterior postura se precisó en el fallo de tutela SU-917 de 2010, en el que ordenó el reintegro del accionante sin solución de continuidad, así como el pago de salarios y prestaciones dejados de percibir, desde su retiro hasta la fecha del reintegro, con las actualizaciones pertinentes en atención a lo previsto en los artículos 176, 177 y 178 del CCA28.
+
+48. En la sentencia T-656 de 2011 incluyó otra regla en el sentido de precisar que el reintegro solo procede cuando el cargo desempeñado no haya sido provisto mediante el sistema de concurso de méritos, por ello advirtió que, de ser así, solo será procedente el pago de salarios y prestaciones sociales hasta el momento en que tuvo lugar la vinculación efectiva del servidor público mediante el sistema de concurso.
+
+ORDEN
+DE
+DESCUENTO
+DE
+LO
+DEVENGADO
+EN
+EL
+SECTOR
+PÚBLICO. CAMBIO
+JURISPRUDENCIAL.
+
+49. La Corte Constitucional cambió de manera sustancial las tesis que había sostenido varios años antes, al proferir el fallo de tutela SU-691 del 2011, en el cual, además de reiterar el contenido de la SU-917 de 2010, abordó el tema de los servidores públicos que durante el lapso de su desvinculación tuvieron algún vínculo con el Estado. En dicha oportunidad decidió acoger la posición de la Sección Segunda del Consejo de
+Estado del 16 de mayo de 2002 y, por tanto, desconocer la sentencia de unificación del 29 de enero de 2008 proferida por la Sala Plena de esta Corporación, al considerar que la orden de pagar al servidor público los emolumentos dejados de percibir durante todo el tiempo que estuvo desvinculado del servicio, debía acompañarse con una orden de descuento de lo que la persona hubiere percibido del Erario por concepto de desempeño de otros cargos públicos en ese período.
+
+50. En la aludida sentencia, la Corte advirtió, entre otras cosas, lo siguiente: (i) El descuento de lo percibido por el actor, por concepto de desempeño en otros cargos públicos, durante el intervalo en que estuvo desvinculado, resulta ajustado a derecho, puesto que de lo contrario no sólo se estaría generando un enriquecimiento sin causa, sino que además se vulneraría el artículo 128, superior. (ii) La «indemnización» a la que se tiene derecho fruto del restablecimiento de un derecho por nulidad del acto acusado debe ser tasada con base en parámetros objetivos que respondan a la justicia material. (iii) Mal puede tasarse la indemnización con base en salarios y prestaciones
+de 2005, T-752 de 2005, T-1248 de 2005, T-1258 de 2005, T-156 de 2006; T-634 de 2006; T-308 de 2008, T-356 de 2008, T-048 de 2009, T-104 de 2009, T-108 de 2009, T-251 de 2009.
+27 Ver en el mismo sentido el fallo T-108 de 2009 que ordenó el reintegro sin solución de continuidad, lo que implica el pago de los salarios y prestaciones dejados de percibir desde el momento de la desvinculación.
+28 En la sentencia T-656 de 2011 incluyó otra regla en el sentido de precisar que el reintegro solo procede cuando el cargo desempeñado no haya sido provisto mediante el sistema de concurso de méritos, señalándose que, de ser así, solo será procedente el pago de salarios y prestaciones sociales hasta el momento en que tuvo lugar la vinculación efectiva del servidor público mediante el sistema de concurso.
+
+<!-- pagina 13 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co dejados de percibir porque ello conduciría a aceptar que una persona recibiera dos montos salariales y prestaciones durante un mismo período.
+
+CONSOLIDACIÓN DE LA TESIS: REINTEGRO SIN SOLUCIÓN DE CONTINUIDAD, PAGO DE TODOS
+LOS SALARIOS Y PRESTACIONES, PERO CON LÍMITES EN LA INDEMNIZACIÓN Y DESCUENTOS DE
+LO DEVENGADO EN TODO TIPO DE VINCULACIÓN.
+
+51. En la sentencia SU-556 de 2014, la Corte Constitucional precisó los parámetros que debían tenerse en cuenta para los casos de las indemnizaciones de quienes hubiesen sido desvinculados ilegalmente de un cargo de carrera que ocupaban en provisionalidad. En efecto, en tal providencia la Corte amplió las reglas de decisión contenidas en la sentencia SU-691 de 2011 y dispuso que debían descontarse no solo los salarios y prestaciones sociales que la persona desvinculada hubiese percibido del
+Erario por concepto del desempeño de otros cargos públicos, durante el tiempo que estuvo desvinculada, sino que también debía extenderse a lo que hubiese devengado en el sector privado, ya sea como trabajador dependiente o independiente. Lo anterior, al considerar que, con ocasión de la congestión judicial, los reconocimientos patrimoniales de quienes fueron desvinculados de manera ilegal, exceden el ámbito de lo que pudiera considerarse como reparación o compensación por el efecto lesivo del acto de desvinculación.
+
+52. La Corte explicó que la orden de pagar los salarios y prestaciones dejados de percibir no puede tenerse como una consecuencia automática de la nulidad del acto de desvinculación, toda vez que si bien el efecto general de la nulidad es el de retrotraer las cosas hasta el momento en el que se produjo el acto invalidado, este efecto no es posible en este caso, porque aunque es dable disponer el pago retroactivo del salario, no es factible hacer lo propio con la prestación del servicio, resaltando que como el salario está ligado a la prestación del servicio, en ausencia de este, no habría causa para el pago de aquél. Así, concluyó que al no poderse concebir los salarios como un pago retroactivo del servicio dado que este no se prestó, solo es plausible interpretar que el pago se dispone como una modalidad de «indemnización de perjuicios», los cuales deben atender los principios de reparación integral y equidad.
+
+53. Así mismo, sostuvo que, como en este caso lo que se busca es proteger la expectativa de permanencia en el empleo del servidor público vinculado en provisionalidad, al menos hasta cuando este fuese provisto por concurso, lo que se debe indemnizar es el daño que se presentó cuando, de manera injusta se frustró esa expectativa de estabilidad. Indicó entonces, que la extensión del daño indemnizable está limitada por dos factores: i) el carácter precario de la estabilidad del vinculado en provisionalidad en un cargo de carrera y ii) la responsabilidad de auto sostenimiento predicable de todas las personas.
+
+54. Continuando con la línea de que la reparación debe ser proporcional al perjuicio realmente ocasionado, la Corte estableció que, en todo caso, la indemnización a ser reconocida no podrá ser inferior a los seis (6) meses que según la Ley 909 de 2004 es el término máximo de duración de la provisionalidad, ni superar los veinticuatro (24) meses, toda vez que en este caso aplica la ruptura del nexo causal entre la ausencia de ingresos o el nivel de estos y la desvinculación del servicio.
+
+55. Por su parte, en la sentencia SU-054 de 2015, la Corte reiteró las reglas de reintegro y montos de la indemnización aplicables en el caso de servidores públicos
+
+<!-- pagina 14 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co que fueron desvinculados de cargos de carrera que ocupaban en provisionalidad. En esta providencia, se indicó: «[…] no resulta apropiado asumir, para efectos de la indemnización, que la cuantificación de la misma (sic) deba hacerse a partir de la ficción de que el servidor público hubiera permanecido vinculado al cargo durante todo el lapso del proceso, prestando el servicio y recibiendo un salario. Ello no solo es contrario a la realidad, sino que implica un reconocimiento que excede, incluso, el término máximo que permite la ley para este tipo de nombramientos. Este primer punto, lleva a la conclusión de que restablecer el derecho a partir del pago de todos los salarios dejados de percibir entre la desvinculación y el reintegro, desconoce el principio de la reparación integral que exige la indemnización del daño, pero nada más que el daño; puesto que excede las expectativas legítimas para la protección del bien jurídico que fue lesionado por el acto. […]».
+
+56. Asimismo, señaló que la solución que fija como indemnización los salarios dejados de percibir desde el momento de la desvinculación hasta el reintegro efectivo, no solo resulta claramente incompatible con el conjunto de principios y derechos que orientan el Estado Social y Constitucional de Derecho, sino que es excesiva en los términos de los artículos 1 y 25 de la Constitución Política. Lo anterior, «[…] por cuanto, con base en los mismos, no es posible presumir que la persona permaneció cesante durante todo el tiempo que demoró la justicia en resolver el conflicto jurídico. Por el contrario, se debe asumir que, como parte activa de un Estado Social de Derecho, esa persona contribuyó al desarrollo de la sociedad, en la medida en que ese concepto parte de la consideración de que el individuo es, en principio, capaz de auto sostenerse, y como tal, tiene la carga de asumir su propio destino, siendo excesivo y contrario a la equidad, indemnizarle como si desde el día de su desvinculación hubiere cesado de cumplir la carga de su auto-sostenimiento, y ésta se hubiere trasladado al Estado, quien fungía como empleador. […]».
+
+57. La Corte resaltó que, si bien el trabajo es un derecho, también es una obligación social y, por tanto, la persona debe asumir la carga de su propia subsistencia. En consecuencia, la indemnización no debe comprender el pago de todos los salarios y prestaciones calculados desde la desvinculación hasta el reintegro efectivo, porque ello: «[…] contraviene los principios estructurales sobre los cuales se edifica el Estado
+Constitucional y Social de Derecho, y en particular, la dignidad humana, el principio general de la autodeterminación y el derecho al libre desarrollo de la personalidad. […]».
+
+EXTENSIÓN DE LAS REGLAS CON DESCUENTOS Y LÍMITES DE LA INDEMNIZACIÓN A LOS
+MIEMBROS DE LA FUERZA PÚBLICA, INDEPENDIENTEMENTE DEL TIPO DE VINCULACIÓN.
+
+58. Es de anotar que, posteriormente, la Corte Constitucional profirió la sentencia SU-
+288 de 2015 en la que reiteró la prevalencia de la interpretación constitucional plasmada en las sentencias SU-556 de 2014 y SU-053 de 2015. En esta oportunidad aplicó a los miembros de la Fuerza Pública las mismas reglas indemnizatorias fijadas a los nombrados en provisionalidad. Por lo anterior, ordenó pagar el equivalente a los salarios y prestaciones dejados de percibir hasta el momento de la sentencia, descontando de ese monto las sumas que, por cualquier concepto laboral, público o privado, dependiente o independiente, haya recibido el actor, sin que la suma a pagar por indemnización sea inferior a seis (6) meses ni exceda de veinticuatro (24) meses de salario.
+
+EXTENSIÓN DE LAS REGLAS CON DESCUENTO, PERO SIN LÍMITE DE LA INDEMNIZACIÓN EN EL
+CASO DE UN SERVIDOR PÚBLICO CON DERECHOS DE CARRERA.
+
+<!-- pagina 15 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+59. En el año 2017, la Corte Constitucional profirió la sentencia de tutela SU-354, en la cual abordó el caso de la desvinculación de un servidor público que aprobó un concurso de méritos llevado a cabo por la entidad. En dicha providencia, la Corte reiteró su posición en relación con los descuentos. Dispuso que al accionante debían cancelársele todos los salarios y prestaciones dejadas de percibir, descontando de ese monto las sumas que, por cualquier concepto laboral, público o privado, dependiente o independiente haya recibido, pero advirtió que no aplicaba la subregla, según la cual, la indemnización no podía ser inferior a 6 meses ni superior a 24, porque el cargo que desempeñaba era de carrera y había sido vinculado mediante concurso de méritos.
+
+-TERCERA PARTE-
+
+LÍNEA JURISPRUDENCIAL DEL CONSEJO DE ESTADO EN RELACIÓN CON EL RESTABLECIMIENTO
+DE DERECHO, REINTEGRO, DESCUENTOS Y TOPES.
+
+60. El Consejo de Estado ha ordenado de manera invariable el reintegro al cargo en el que se desempeñaba la persona que fue desvinculada ilegalmente. Pero, en relación con los descuentos se observan los siguientes ciclos: i) La Sala Plena del Consejo de
+Estado unifica criterios y considera improcedentes los descuentos (año 1996) ii) El apartamiento de la Sección Segunda del año 2002, en la que sostuvo la pertinencia de los descuentos. iii) La Sala Plena reitera la improcedencia de los descuentos (año
+2008). El resumen es el siguiente:
+
+SALA PLENA DEL CONSEJO DE ESTADO ORDENA EL REINTEGRO SIN DESCUENTOS.
+PRINCIPALES ARGUMENTOS. AÑO 1996.
+
+61. La Sala Plena del Consejo de Estado, en sentencia de unificación S-638 de 199629, consideró improcedentes los descuentos de los ingresos percibidos en el sector público de aquel que ha sido desvinculado ilegalmente. Explícitamente indicó que «[…] no son procedentes los descuentos por razón de cualquier relación legal y reglamentaria que hubiese tenido la demandante durante el lapso en que permanezca fuera de la entidad demandada, y que haya dado lugar al pago de salarios y prestaciones por su trabajo real y efectivo […]».
+
+Las principales razones se resumen a continuación:
+
+62. No se incurre en la prohibición del artículo 128 de la Constitución Política con la orden monetaria de pago, porque esta se fundamenta en la imposibilidad de desempeñar dos empleos públicos y percibir simultáneamente su remuneración, lo que no ocurre en el caso de quien siendo retirado de manera ilegal del servicio, percibió
+
+29 Sala Plena de lo Contencioso Administrativo, sentencia del 28 de agosto de 1996, radicación S-638. En esta sentencia se advierte que se rectifica el criterio de la Sección Segunda, pero no citan las providencias en las que se prohijaba esa posición. En dicha sentencia analizó la declaratoria de insubsistencia de una empleada de libre nombramiento y remoción que desempeñaba el cargo de abogada auxiliar para la vigilancia administrativa de la
+Personería municipal de Cúcuta, la cual fue desvinculada del servicio cuando se encontraba en estado de embarazo mediante acto no motivado y sin que mediara justa causa. En tal proveído se determinó que su desvinculación no se produjo en aras del logro del buen servicio, sino a causa de su estado de gravidez, conducta que configuró una evidente desviación de poder, por lo que se declaró la nulidad del acto de retiro del servicio y se ordenó su reintegro.
+
+<!-- pagina 16 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co otros ingresos con ocasión de una nueva vinculación laboral, toda vez que en esa hipótesis el pago de salarios en ejercicio de otro cargo tiene origen en la prestación personal del servicio, mientras que la condena se percibe a título indemnizatorio porque busca reparar el daño o perjuicio que irrogó el hecho ilegal de la administración.
+
+63. Si bien el pago de la indemnización se tasa con base en salarios y prestaciones dejados de percibir, ello es una ficción para efectos de su determinación o cuantificación. Esto significa que es solo una medida de tasación de la indemnización en virtud del daño sufrido, como cuando en otros casos se acude para ello a gramos oro o salarios mínimos30. Por tanto, este no se puede equiparar a la asignación que provenga del tesoro público ni al ejercicio de empleo público.
+
+64. Indicó la sentencia S-638 de 1996 que el propio legislador señala que estos pagos son a título indemnizatorio y no como una especie de salarios o asignaciones. En ese sentido, el artículo 235 del Decreto 1222 de 1986 (Código de Régimen Departamental) dispone que los departamentos «[…] repetirán contra las personas que hubieren efectuado […] remociones ilegales de los funcionarios, el valor de las indemnizaciones que se hubiere pagado por esta causa […]» e igual redacción tienen los artículos 102 y 297 del Decreto 1333 de 1986. (Resalta la Sala).
+
+65. No hay impedimento legal para recibir sueldo e indemnizaciones al mismo tiempo, por cuanto los pagos que se realizan por el ejercicio de un empleo están incluidos en el rubro presupuestal de salarios y prestaciones, de conformidad con el artículo 122 de la Constitución Política, en tanto que el pago de las condenas judiciales se hace con el rubro de créditos judiciales, previsto en el presupuesto de gastos por mandato del artículo 346 de la Constitución Política.
+
+66. No hay norma legal que ordene a la jurisdicción hacer esos descuentos y en estos casos no podría darse aplicación a la analogía. De manera que al ordenar dichos descuentos se estaría creando una disposición no prevista ni en la Constitución ni en la ley.
+
+67. No se presenta enriquecimiento sin causa porque no hay empobrecimiento estatal.
+En efecto, el artículo 78 del Código Contencioso Administrativo (Decreto 01 de 1984)31 y el artículo 90 de la Constitución Política,32 prevén que el funcionario responsable de la remoción es obligado al pago de la condena y que el Estado puede repetir contra este.
+
+30 Ver, Sala Plena de lo Contencioso Administrativo, sentencia del 29-01-08, Radicación: 76001-23-31-000-2000-
+02046-02(IJ), Actor: Amparo Mosquera Martínez, Demandado: Contraloría General de la República.
+31 Artículo 78. Jurisdicción competente para conocer de la responsabilidad conexa. Los perjudicados podrán demandar, ante la jurisdicción en lo contencioso administrativo según las reglas generales, a la entidad, al funcionario o a ambos. Si prospera la demanda contra la entidad o contra ambos y se considera que el funcionario debe responder, en todo o en parte, la sentencia dispondrá que satisfaga los perjuicios la entidad. En este caso la entidad repetirá contra el funcionario por lo que le correspondiere. (Apartes subrayados declarados EXEQUIBLES por la Corte Constitucional mediante Sentencia C-430 del 2000).
+32 Artículo 90. El Estado responderá patrimonialmente por los daños antijurídicos que le sean imputables, causados por la acción o la omisión de las autoridades.
+En el evento de ser condenado el Estado a la reparación patrimonial de uno de tales daños, que haya sido consecuencia de la conducta dolosa o gravemente culposa de un agente suyo, aquél deberá repetir contra éste.
+
+<!-- pagina 17 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+68. La declaración en la sentencia de la no ruptura de continuidad en el servicio es solo una ficción, que no se puede equiparar al desempeño de otro cargo en el mismo periodo.
+
+69. Es de anotar que, en esa oportunidad, el Consejo de Estado acogió los planteamientos expuestos por la Sala Plena de Casación Laboral de la Corte Suprema de Justicia en sentencia del 21 de mayo de 1991, en la cual se estudió el alcance de la prohibición constitucional prevista en el artículo 64 de la Constitución Política de
+1886, sobre la imposibilidad de recibir dos asignaciones del tesoro33, disposición que fue reproducida en forma similar en el artículo 128 de la Carta Política de 199134. En aquella decisión35, la Corte Suprema de Justicia rectificó su postura anterior sobre la norma, con fundamento en las consideraciones36 que a continuación se exponen:
+
+70. Para determinar el alcance que tuvo la reforma al artículo 64 de la Constitución
+Política entonces vigente37 es necesario analizar que esta hacía parte de un conjunto de preceptos que prevén un inmenso esfuerzo por evitar la concentración indebida de la autoridad, con el fin de mantener la separación de las ramas del poder público.
+
+71. La finalidad real que animó la prohibición contenida en el artículo 64 ibidem es impedir, por razones de decoro y moralidad administrativa, que una persona, valiéndose de su influencia, pueda obtener una doble remuneración del Estado sin importar el título que se le endilgue. Por ello se decidió modificar la expresión «sueldo» por la de «asignación» para hacer más comprensivo el rango de acción de la disposición.
+
+72. Sin embargo, no puede extenderse la prohibición constitucional a casos en los cuales no se transgrede esta norma, la cual tiene como finalidad mantener la moral en el servicio público.
+
+73. Si bien las consideraciones adoptadas por la Sala de Casación Laboral de la Corte
+Suprema de Justicia en la sentencia precitada partían de un supuesto fáctico diferente38, estas sirvieron de soporte conceptual en cuanto a la naturaleza de la
+
+33 Texto original del Artículo 64. «Nadie podrá recibir dos sueldos del Tesoro público, salvo lo que para casos especiales determinen las leyes». Texto reformado por el Acto Legislativo 1 de 1936. «Artículo 64. Nadie podrá recibir más de una asignación que provenga del Tesoro Público o de empresas o instituciones en que tenga parte principal el Estado, salvo lo que para casos especiales determinen las leyes. Entiéndase por Tesoro Público el de la Nación, los Departamentos y los Municipios».
+34 «Artículo 128. Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el
+Estado, salvo los casos expresamente determinados por la ley. Entiéndese por tesoro público el de la Nación, el de las entidades territoriales y el de las descentralizadas».
+35 Sala Plena de Casación Laboral de la Corte Suprema de Justicia, sentencia del 21 de mayo de 1991. Radicación
+4046. Acta 4.
+36 Resaltadas por la cita que hace el Consejo de Estado.
+37 Artículo 64. Nadie podrá recibir dos sueldos del Tesoro público, salvo lo que para casos especiales determinen las leyes. Modificado por el Artículo 23 del Acto Legislativo 01 de 1936. Nadie podrá recibir más de una asignación que provenga del Tesoro Público o de empresas o instituciones en que tenga parte principal el Estado, salvo lo que para casos especiales determinen las leyes. Entiéndese por Tesoro Público el de la Nación, los Departamentos y los Municipios.
+38Es de resaltar que en este caso la Corte Suprema examinaba la postura que tenía hasta ese momento sobre la imposibilidad de que una viuda acumulara a su propia pensión por servicios, la sustitución de la pensión del cónyuge fallecido, por cuanto esta hipótesis no encajaba en ninguna de las expresas «excepciones» consagradas por la prohibición general establecida en el artículo 64 de la Constitución Política de 1886.
+
+<!-- pagina 18 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co expresión doble asignación prevista en el artículo 128 de la Constitución Política de
+1991, y llevaron a la Sala Plena del Consejo de Estado a concluir:
+
+74. «[…] el favorecido con la sentencia no estaría desempeñando al mismo tiempo dos empleos, pues no podría llegarse al extremo de tener la declaración de que no existe solución de continuidad, que es una mera ficción, con el mismo alcance y contenido de la prestación real y efectiva del servicio en un cargo. La ficción no es más que una apariencia de realidad, aunque con efectos jurídicos, que se utiliza como se dijo atrás para poder aplicar una equivalencia en lo que hace con la determinación y tasación de los elementos que integran al restablecimiento del derecho. […]»
+
+EL APARTAMIENTO DE LA SECCIÓN SEGUNDA EN EL AÑO 2002.
+
+75. Aunque la Sala Plena del Consejo de Estado en la sentencia de unificación del año
+1996 indicó con máxima claridad que no eran procedentes los descuentos, la Sección
+Segunda sostuvo en sentencia del 16 de mayo de 2002, que los descuentos sí debían ordenarse39. Al respecto argumentó que «[…] el hecho de que no exista disposición legal alguna que ordene a la jurisdicción contenciosa disponer que se efectúen los descuentos, en el evento de que se incurra en la situación atrás descrita, resulta irrelevante porque el cumplimiento de la Norma Superior y de la ley que prohíben la doble percepción impone per se la aplicación de la medida con todo el rigor […]».
+
+76. La Sección Segunda precisó que los descuentos serían por los tiempos laborados en cargos públicos que coincidan con el lapso que abarca la condena y, como es lógico, no podrán exceder su monto. Recalcó: «[…] la percepción de los pagos ordenados conjuntamente con (sic) otros que tienen origen en el desempeño de un empleo público, dentro del mismo lapso, es claramente contraria a la Constitución y la ley […]».
+
+77. La posición divergente de la Sección Segunda fue reiterada en providencias de los años 2002, 2003 y 2006 proferidas por la Subsección B40, en las cuales se ordenaba el reintegro del servidor que había sido retirado ilegalmente del servicio.
+
+REITERACIÓN DE LA SALA PLENA SOBRE LA IMPROCEDENCIA DE LOS DESCUENTOS. AÑO
+2008.
+
+78. La Sala Plena del Consejo de Estado decidió reiterar la tesis de la improcedencia de los descuentos, ante el evidente apartamiento de la Sección Segunda (año 2002) de la unificación consignada en la sentencia del 28 de julio de 1996. Por tal razón
+
+39 En esta oportunidad la Sección Segunda conoció de un recurso de apelación interpuesto por la parte actora con el fin de que se revocara el numeral quinto de la sentencia proferida el 22 de diciembre de 2000 por el Tribunal
+Administrativo de Cauca, Sala de Descongestión, que ordenó el descuento de lo percibido por el desempeño de otros cargos oficiales a los que hubiere estado vinculado el actor durante el interregno entre el retiro del servicio y el reintegro.
+40 Esta posición se reiteró entre otras en: i) Sentencia del 03 de octubre de 2002, radicación: 76001-23-31-000-
+1997-4127-02(3446-01). En esta se analizó el caso de la declaratoria de insubsistencia del nombramiento de un empleado de carrera de la Rama Judicial; ii) Sentencia del 20 de febrero de 2003, radicación 23001-23-31-000-
+1998-9386-01(893-02). En esta providencia se estudió el caso de la insubsistencia del nombramiento de una empleada de libre nombramiento y remoción que había sido desvinculada en estado de embarazo. iii) Sentencia del 24 de julio de 2003, radicación: 08001-23-31-000-1996-01668-01(2395-02), referida a la declaratoria de insubsistencia de un empleado en carrera previamente incorporado; iv) Sentencia del 08 de agosto de 2003, radicación: 52001-23-31-000-2000-0209-01(1244-02), en la que se abordó el estudio de un empleado de carrera que fue incorporado en un cargo de libre nombramiento y remoción. v) sentencia del 29 de junio de 2006, radicación:
+25000-23-25-000-1999-2891-01 (3068-01).
+
+<!-- pagina 19 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co profirió la sentencia del 29 de enero de 200841 en la que se ordenó el reintegro y concluyó que no eran procedentes los descuentos de lo percibido por concepto de salarios recibidos de otras entidades públicas42. Las principales razones son similares a las expuestas en el año 1996. El resumen es el siguiente:
+
+79. No se vulnera el artículo 128 de la Constitución Política al ordenar que no se realicen descuentos sobre el pago de las sumas que por concepto de salarios y prestaciones percibió el empleado porque estas tienen un carácter de indemnizatorio y no se reciben a título de salario.
+
+80. Considera que el restablecimiento del derecho se traduce en la indemnización de los perjuicios irrogados con el acto ilegal, de manera que la remisión que se hace a los salarios dejados de percibir se utiliza solo como mecanismo indemnizatorio o medida o tasación de la indemnización, esto, por cuanto la indemnización debe corresponder al daño sufrido, y este se tasa con base en los salarios y prestaciones dejados de percibir con ocasión del acto de retiro.
+
+81. Descontar los salarios percibidos por el desempeño en otro empleo público, implica forzarlo a mantenerse sin empleo en el caso que pretenda la reparación de los perjuicios irrogados por el acto declarado nulo. Incluso, devolver los salarios devengados por cuenta de su trabajo elimina la remuneración que es uno de los elementos determinantes de la relación laboral. Además, tal descuento exige una adecuada y rigurosa valoración probatoria por parte del juez en cada caso particular.
+
+82. No existe un enriquecimiento sin causa, porque la indemnización del perjuicio causado por el acto ilegal tiene en cuenta situaciones laborales específicas, por ejemplo: a) La supresión posterior del empleo; b) si se trataba de un empleo de período fijo; c) el reintegro posterior al cargo; d) haber alcanzado el estatus de pensionado, etc.
+Es decir, no se indemniza más de lo que pudo haber devengado con el empleo.
+
+83. Es importante anotar que la sentencia de unificación del año 2008, que definió la regla de la improcedencia de los descuentos, en los años subsiguientes y hasta nuestros días, ha sido aplicada sin mayor análisis o cuestionamiento por parte de los jueces, tribunales y la propia Sección Segunda a casos con supuestos fácticos (incluso jurídicos) diferentes al analizado en dicha sentencia, en la cual se decidió un asunto relacionado con la supresión del cargo de un empleado de carrera administrativa43. Tal es el caso de los nombrados en provisionalidad44 que es evidentemente diferente; y
+
+41 Consejo de Estado, Sala Plena de lo Contencioso Administrativo, sentencia del 29 de enero de 2008, radicación:
+76001-23-31-000-2000-02046-02 (IJ).
+42 La Sala Plena en dicha sentencia ordenó el reintegro de la servidora de carrera administra de la Contraloría
+General de la República a la nueva planta derivada de la reestructuración de la entidad demandada, cuyo cargo había sido suprimido, porque consideró que se configuró la falsa motivación del acto desvinculatorio.
+43 Entre otras: Sección Segunda, Subsección A, sentencia del 26 de agosto de 2009, radicación: 68001-23-15-000-
+2000-01533-01(2176-08); ii) Sección Segunda, Subsección B, sentencia del 24 de marzo de 2011, radicación:
+05001-23-31-000-2002-02389-01(1691-10); iii) Sección Segunda, sentencia del 11 de marzo de 2010, radicación:
+05001-23-31-000-2002-01691-01(2595-07).
+44 Ver entre otras: i) Sección Segunda, Subsección B, sentencia del 03 de septiembre de 2009, radicación: 68001-
+23-15-000-2001-03173-01(1936-07); ii) Sección Segunda, Subsección B, sentencia del 25 de marzo de 2010, radicación: 25000-23-25-000-2002-00553-02 (0432-07); iii) Sección Segunda, Subsección B, sentencia del 30 de junio de 2011, radicación: 25000-23-25-000-2003-04222-01(0270-09); iv) Sección Segunda, Subsección A, sentencia del 7 de febrero de 2013; radicación: 05001-23-31-000-2004-00123-01 (1971-10); v) Sección Segunda,
+Subsección A, sentencia del 11 de julio de 2013, radicación: 05001-23-31-000-2000-00045-01(1088-12); vi)
+
+<!-- pagina 20 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co en otros ejemplos: supresión del cargo y protección especial a las mujeres embarazadas45; las declaratorias de insubsistencias de empleados de carrera administrativa46; los retiros del servicio activo de miembros de la Policía Nacional47; los pagos percibidos por los miembros de la Fuerza Pública por concepto de asignación de retiro y salarios y prestaciones a título de indemnización cuando se declara la ilegalidad del acto de retiro del servicio48; la protección especial conferida por el artículo
+12 de la Ley 790 de 2002 a empleados en condición de pre-pensionados49; a servidores destituidos del servicio con ocasión de sanciones disciplinarias50, entre otros.
+
+LA INESTABILIDAD DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A PARTIR DEL AÑO 2011.
+
+84. Las sentencias SU-691 de 2011, SU-556 de 2014, SU-053 y SU-054 de 2015 han provocado decisiones en la jurisdicción de lo contencioso administrativo contrarias a la sentencia de unificación del 29 de enero de 2008, porque algunos despachos han acogido en lo fundamental la línea jurisprudencial indicada por la Corte Constitucional.
+El resumen es el siguiente:
+
+AL DECIDIR EL RECURSO EXTRAORDINARIO DE SÚPLICA
+
+85. En sentencia del 6 de diciembre del 201651, la Sala 12 Especial de Decisión del
+Consejo de Estado resolvió un recurso extraordinario de súplica en el cual se solicitó la aclaración de la forma en que debía cumplirse la orden dada en la providencia de segunda instancia. En este caso, la referida Sala Especial entendió que tal cuestión escapaba a la finalidad del recurso extraordinario52, sin embargo, resaltó el valor del precedente constitucional y la obligatoriedad de su aplicación. Al respecto dicha providencia señaló lo siguiente: «[…] es del caso poner de presente que el Consejo de
+Estado ha aceptado, y así lo considera esta Sala, que las sentencias de unificación que profiere la Corte Constitucional, cuyo fundamento normativo se encuentra en el artículo 34 del
+Decreto 2591 de 1991, constituyen precedente, pues se trata de la Corporación de cierre en materia de derechos fundamentales y la que tiene a su cargo la eventual revisión de los fallos
+
+Sección Segunda, Subsección A, sentencia del 21 de noviembre de 2013; radicación: 23001-23-31-000-2006-
+00411-01(0556-10); Sección Segunda, Subsección B, sentencia del 18 de marzo de 2015; radicación: 25000-23-
+25-000-2006-02680-02 (2698-11); Sección Segunda, Subsección B, sentencia del 3 de septiembre de 2009, radicación: 68001-23-15-000-2001-03173-01(1936-07).
+45 Entre otras: i) Sección Segunda, Subsección B, sentencia del 07 de febrero de 2008, radicación: 50001-23-31-
+000-2001-04104-01(4104-05); ii) Sección Segunda, Subsección A, sentencia del 26 de junio de 2008, radicación:
+70001-23-31-000-2001-01573-01(2455-07).
+46 Ver entre otras: i) Sección Segunda, Subsección A, sentencia del 21 de noviembre de 2011; radicación: 19001-
+23-31-000-2002-00531-01(0487-09); ii) Sección Segunda, Subsección A, sentencia del 17 de mayo de 2012, radicación: 05001-23-31-000-1999-03276-01 (0002-10); iii) Sección Segunda, Subsección B, sentencia del 25 de octubre de 2012; radicación: 41001-23-31-000-1999-00433-01(1613-12).
+47 Sección Segunda, Subsección A, sentencia del 05 de junio de 2008, radicación: 76001-23-31-000-2001-04004-
+01(5091-05).
+48 Sección Segunda, Subsección B, sentencia del 30 de marzo de 2011, radicación: 13001-23-31-000-2003-02110-
+01(2295-08).
+49 Sección Segunda, Subsección B, sentencia del 30 de junio de 2011, radicación: 25000-23-25-000-2003-04222-
+01(0270-09).
+50 Ver entre otras: i) Sección Segunda, Subsección A, sentencia del 4 de marzo de 2016, radicación: 11001-03-25-
+000-2012-00098-00 (0438-12).
+51 Sala Doce Especial de Decisión, sentencia del 06 de diciembre de 2016, radicación: 11001-03-15-000-2000-
+06686-01(S).
+52 El cual tiene como propósito principal examinar los yerros en los que pudo incurrir el fallador sobre la existencia, validez o alcance de una disposición jurídica sustancial, por su inaplicación, aplicación indebida o indebida interpretación.
+
+<!-- pagina 21 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co de tutela proferidos por todos los jueces. […] lo que lleva a inferir que para los operadores jurídicos es menester tener en cuenta las consideraciones expuestas en la mencionada SU-
+556 de 2014, en los eventos en que se resuelvan situaciones similares a las allí tratadas […]».
+
+AL DECIDIR TUTELAS
+
+86. Las secciones y subsecciones del Consejo de Estado en las sentencias de tutela muestran las siguientes tendencias respecto de los descuentos y los topes:
+
+87. Primera tesis: Ante la diferencia de criterios entre la Corte Constitucional y el
+Consejo de Estado, los funcionarios judiciales pueden adoptar la que consideren apropiada, en virtud de la libertad de interpretación y autonomía del juez53. Lo anterior con mayor razón, si el máximo Tribunal de lo Contencioso Administrativo no ha emitido pronunciamiento alguno respecto a la aplicación de las sentencias SU-556 de 2014 y
+SU-054 de 2015. En consecuencia, no puede imponerse al juez el acatamiento de un precedente específico.
+
+88. Segunda tesis: Las tutelas tienen como principal fundamento la fuerza vinculante de las sentencias proferidas por la Corte Constitucional54, razón por la cual considera que el precedente consignado en las sentencias SU también son aplicables a los servidores protegidos con derechos de carrera, si han sido retirados ilegalmente55, pero con las siguientes precisiones: (a) No es aplicable la subregla de los topes indemnizatorios (SU-556 de 2014) porque ello sólo es pertinente cuando se trata de los que fueron vinculados en provisionalidad. (b) Sí es pertinente ordenar los descuentos de lo percibido por concepto de salarios devengados en otras entidades públicas o privadas, como dependiente o independiente, por cuanto dicha subregla se sustenta en que el daño que se debe resarcir ha de corresponder al efectivamente causado.
+
+89. Tercera tesis: En algunas tutelas se ha indicado que no hay variación jurisprudencial que desconozca el principio de confianza legítima, porque no se comprometen «derechos adquiridos»56.
+
+90. Cuarta tesis: La Subsección B de la Sección Segunda adoptó los lineamientos fijados por la Corte Constitucional y por ello ordenó los topes indemnizatorios fijados en las sentencias SU-556 de 2014 y SU-053 de 201557.
+
+53 Entre otras: i) Sección Segunda, Subsección B, sentencia del 20 de julio de 2016, radicación: 11001-03-15-000-
+2015-02231-01(Ac); ii) Sección Segunda, Subsección B, sentencia del 17 de abril de 2017, radicación: 11001-03-
+15-000-2017-00523-00(Ac); iii) c) Sección Cuarta, sentencia del 27 de abril de 2017, radicación: 11001-03-15-000-
+2016-03023-01(Ac), iv) Sección Segunda, Subsección B, sentencia del 23 de enero de 2017, radicación: 11001-
+03-15-000-2016-03558-00(AC), v) Sección Segunda, Subsección B, sentencia del 02 de marzo de 2017, radicación:
+11001-03-15-000-2017-00335-00(AC), vi) Sección Segunda, Subsección A, sentencia del 12 de julio de 2017, radicación: 11001-03-15-000-2017-00496-01(Ac); vii) Sección Segunda, Subsección A, sentencia del 31 de enero de 2017, radicación: 11001-03-15-000-2017-01545-00(AC).
+54 Ver: i) Sección Quinta, sentencia del 18 de mayo de 2017, radicación: 11001-03-15-000-2016-03548-01(AC), ii)
+Sección Quinta, sentencia del 10 de agosto de 2017, radicación: 11001-03-15-000-2017-01818-00(AC).
+55 Sección Quinta, sentencia del 4 de octubre de 2017, radicación: 11001-03-15-000-2017-02110-00(AC); Sección
+Quinta, sentencia del 14 de diciembre de 2017, radicación: 11001-03-15-000-2017-02416-01(AC).
+56 Sección Cuarta, sentencia del 13 de noviembre de 2017, radicación: 11001-03-15-000-2017-01148-01(AC).
+57 Es el caso de la sentencia proferida por la Sección Segunda, Subsección B el día 20 de abril de 2016, radicación:
+11001-03-15-000-2016-00661-00(AC), por medio de la que se dejó sin efectos la sentencia del Tribunal
+Administrativo del Quindío dentro del proceso de nulidad y restablecimiento del derecho 63001-33-31-001-2010-
+00007-01, para que se diera aplicación a las sentencias SU-556 de 2014 y SU-053 de 2015.
+
+<!-- pagina 22 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+91. Respecto de los miembros de la Fuerza Pública se han adoptado decisiones en sede ordinaria58 y de tutela59 en la misma línea de la Corte Constitucional. Por ejemplo, en sentencia proferida el día 10 de septiembre de 2015 por la Subsección B de la
+Sección Segunda, en la que se decidió la nulidad del acto administrativo de retiro del servicio de un patrullero por voluntad de la Dirección General de la Policía, en cumplimiento de la orden dada por el juez de tutela, se ordenó dar aplicación a la regla contenida en la sentencia SU-556 de 2014 reiterada para los miembros de la Fuerza
+Pública en sentencia SU-053 de 2015, en el sentido de limitar la indemnización a 24 meses de salario y ordenar el descuento de las sumas que por cualquier concepto laboral, público o privado, dependiente o independiente, hubiere percibido el demandante60.
+
+- CUARTA PARTE -
+
+LA UNIFICACIÓN DE LA SALA PLENA DE LO CONTENCIOSO ADMINISTRATIVO
+
+92. Con el fin de desatar el recurso extraordinario de unificación de jurisprudencia aquí formulado, corresponde a la Sala Plena de lo Contencioso Administrativo evaluar si la tesis sostenida en la sentencia de unificación del 29 de enero de 2008 continúa vigente o debe modificarse, en atención a los pronunciamientos de la Corte Constitucional.
+
+LAS DISCREPANCIAS ENTRE LA CORTE CONSTITUCIONAL Y EL CONSEJO DE ESTADO RESPECTO
+DEL RESTABLECIMIENTO CUANDO SE TRATA DE LA DESVINCULACIÓN DE QUIEN OCUPÓ EL
+CARGO EN PROVISIONALIDAD.
+
+93. Como se dijo en precedencia, a partir de las sentencias SU-691 de 2011 y SU-556 de 2014 es notoria la discrepancia entre las decisiones de la Corte Constitucional y las sentencias proferidas por el Consejo de Estado en lo que respecta al «restablecimiento del derecho», en aquellos casos en que se ha declarado la nulidad del acto administrativo que desvinculó a una persona que ocupó un cargo de carrera en la modalidad de provisional. Si bien ambas Cortes coinciden en que debe ordenarse el reintegro al servicio por tratarse de un derecho laboral (restablecimiento in natura), son evidentes las contradicciones en los siguientes temas:
+
+58 Al respecto: a) Sección Segunda, Subsección B, sentencia del 10 de septiembre de 2015, Expediente:
+050012331000199800554 01, (0917-2012), en esta oportunidad se estudió el caso de un retiro del servicio de un miembro de la Fuerza Pública por voluntad de la Dirección General; b) Sección Segunda, Subsección B, sentencia del 09 de marzo de 2017, radicación: 11001-03-25-000-2013-01217-00 (3065-13), en la que se analizó la destitución e inhabilidad de un miembro de la Policía Nacional, como consecuencia de un proceso disciplinario.
+Estas sentencias fueron proferidas en sede ordinaria para dar cumplimiento a órdenes de tutela.
+59 Ver entre otras: a) Sección Segunda, Subsección B, sentencia del 10 de septiembre de 2015, radicación: 11001-
+03-15-000-2015-01161-01(AC); b) Sección Segunda, Subsección B, sentencia del 20 de mayo de 2016,
+Radicación: 11001-03-15-000-2016-00661-00 (AC); c) Sección Segunda, Subsección B, sentencia del 27 de abril de 2016, radicación: 11001-03-15-000-2016-00779-00 (AC); d) Sección Cuarta, sentencia del 11 de mayo de 2017, radicación: 11001-03-15-000-2016-03509-01 AC), e) Sección Primera, sentencia del 25 de mayo de 2017, radicación: 11001-03-15-000-2017-00429-01(AC); f) Sección Quinta, sentencia de 23 de marzo de 2017, radicación: 11001-03-15-000-2017-00470-00(AC).
+60 Es importante destacar que la sentencia ordinaria fue proferida para dar cumplimiento a la sentencia SU-288 de
+2015 de la Corte Constitucional, en la tutela se ordenó a la Subsección B que adoptara un nuevo fallo en el que se tuvieran en cuenta las consideraciones referentes al estándar mínimo de motivación de los actos de retiro de los miembros de la Policía Nacional en uso de la facultad discrecional y no a la indemnización de los miembros de la
+Fuerza Pública.
+
+<!-- pagina 23 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+94. Los límites del pago de los salarios y prestaciones sociales dejados de devengar que se deben reconocer judicialmente (mínimo 6 y máximo 24 meses).
+
+95. Los descuentos durante el lapso comprendido entre la desvinculación y el reintegro, si se demuestra que el demandante tuvo ingresos recibidos en el sector público e incluso en la actividad privada o independiente.
+
+96. Estas discrepancias, pueden resumirse en el siguiente cuadro:
+
+Corporación
+Consejo de Estado
+Corte Constitucional
+Naturaleza
+Opera el restablecimiento del derecho
+No opera el restablecimiento del derecho sino la reparación
+Límites
+No hay límites en el restablecimiento del derecho. El restablecimiento del derecho abarca desde la fecha de la desvinculación hasta la fecha en que se ordene el reintegro al servicio.
+La reparación del daño está limitada a mínimo seis meses y máximo 24 meses.
+Descuentos
+No hay lugar a realizar descuentos de lo percibido por otras vinculaciones
+Hay lugar a realizar descuentos de lo percibido por vinculaciones públicas, privadas o de manera independiente.
+
+97. Por lo anterior, y a fin de unificar la posición del Consejo de Estado en relación con la materia, se harán unas breves consideraciones con respecto a (i) la competencia que ha otorgado el legislador al juez para definir la manera como ha de restablecerse el derecho; (ii) finalidad del medio de control de restablecimiento del derecho; (iii) el restablecimiento del derecho de quien ha sido desvinculado ilegalmente y las restricciones a ese restablecimiento; (iv) el restablecimiento en materia del pago de salarios y prestaciones sociales del provisional desvinculado ilegalmente del servicio: restablecimiento proporcional; (v) la cuantificación del restablecimiento proporcional cuando se trate de la desvinculación de un cargo ocupado en provisionalidad; (vi) lo relativo a los descuentos y (vii) reglas de unificación y sus efectos en el tiempo.
+
+DESDE LA LEY 80 DE 1935 EL LEGISLADOR HA OTORGADO AL JUEZ LA COMPETENCIA PARA
+DEFINIR LA MANERA COMO HA DE RESTABLECERSE EL DERECHO.
+
+98. A fin de analizar este tema, es interesante señalar que la primera mención legal de la expresión «restablecimiento del derecho» se encuentra contenida en el artículo 4 de la
+Ley 80 de 1935, en los siguientes términos:
+
+«Artículo 4. En los asuntos contencioso administrativos, cuando se ejercite la acción privada61, tanto los Tribunales Seccionales como el Consejo de Estado, al fallar las demandas determinarán, con la debida precisión, la manera como deba restablecerse el derecho violado, si fuere el caso y siempre que así se haya solicitado.» (Resaltado por la Sala)
+
+99. En la exposición de motivos de la referida ley62 se indicó el sentido del concepto
+«restablecimiento del derecho», en los siguientes términos:
+
+61 Según Piero Calamandrei, se trata de acción privada «cuando el poder de provocar el ejercicio de la jurisdicción está reservado de un modo exclusivo al titular del interés individual que la norma jurídica protege». Instituciones de
+Derecho Procesal Civil, Volumen I, Ediciones Jurídicas Europa-América, Buenos Aires, 1986, página 275.
+62 Anales del Senado, exposición de motivos proyecto de ley «sobre lo contencioso administrativo», página 316.
+
+<!-- pagina 24 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+«[…] La finalidad jurídica y social del recurso contencioso administrativo, se traiciona en la mayor parte de las veces por falta de un medio de coacción para que las autoridades cumplan la decisión jurisdiccional.
+El individuo que ha obtenido sentencia favorable, no puede constreñir al autor del acto invalidado al restablecimiento del equilibrio legal.
+Bien que a virtud del artículo 1 de la Ley 45 de 1931, que marca un gran avance en el derecho, ya que el Administrador no podrá repetir el acto y debe conformarse con la nulidad decretada.
+Pero la simple declaración de nulidad de un decreto ejecutivo, de una resolución ministerial, de una providencia cualquiera de las que están sometidas a este recurso, por sí sola no tiene virtualidad reparadora. Esa justicia retenida comporta efectos meramente especulativos, que en casos concretos de actuaciones gubernamentales, anuladas, tienen valor ilusorio.
+Para estos actos es indispensable lo contencioso de plena jurisdicción, en cuya virtud los Tribunales pueden determinar en el fallo el modo como deba quedar resuelto definitivamente el punto controvertido, sin dejar esta declaración al arbitrio del funcionario autor del acto recusado.[…] Si se capacita a los Tribunales para invalidar los actos de la administración que afecten situaciones concretas; si sus fallos tienen fuerza de sentencia obligatoria y no están sujetos a revisión por parte de la justicia ordinaria (artículo 93 de la Ley 130 de 1913), el pronunciamiento sobre la relación subjetiva, debe ser parte integrante de su eficaz labor. […]» (Resaltada por la Sala)
+
+100. Por su parte, en la exposición de motivos de la Ley 167 de 1941 se destacaron, entre otros, los siguientes criterios que son pertinentes rememorar en esta sentencia de unificación: (i) Se destacó el gran avance que representó la Ley 80 de 1935, al disponer que cuando se ejercitaba la acción privada, los fallos deberían determinar con la debida precisión la manera de restablecer el derecho violado. (ii) Precisó la necesidad de estructurar el contencioso de plena jurisdicción, para incluir además de los derechos civiles, los llamados derechos administrativos. (iii) En lo que respecta a la extensión y efecto de los fallos proferidos en ejercicio de la acción de plena jurisdicción, indicó que «[…] para obtener el restablecimiento del derecho violado, pueden decretarse condenaciones pecuniarias a cargo de la administración (devolución de lo cobrado en exceso por impuestos, pago de indemnizaciones por ocupación de la propiedad privada por causa de trabajos públicos, etc.) o bien estatuir disposiciones nuevas o modificar o reformar las que son objeto de la acusación […]».
+
+101. A su turno, en la exposición de motivos63 del Decreto ley 01 de 1984 se explicó que en los procesos de nulidad y de plena jurisdicción, «la causa para pedir es siempre de derecho –la violación de una norma jurídica- y la pretensión principal es siempre rescisoria: que se anule el acto acusado, con lo que termina el iudicium rescindens y sigue, en su caso, como en el de plena jurisdicción el iudicium rescisorium, tendiente a reemplazar el acto anulado o a proveer sobre el restablecimiento del derecho». (Resalta la Sala)
+
+102. El artículo 138 de la Ley 1437 de 2011 (que en esencia mantiene el mismo contenido normativo del artículo 85 del CCA) precisó que «Toda persona que se crea lesionada en un derecho subjetivo amparado en una norma jurídica, podrá pedir que se declare la nulidad del acto administrativo particular, expreso o presunto, y se le restablezca el derecho; también podrá solicitar que se le repare el daño».
+
+63 Exposición de motivos presentado en la sesión del 17 de octubre de 1983, de la Comisión Asesora, páginas 548-
+549 tomo I.
+
+<!-- pagina 25 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+103. Este artículo debe interpretarse de manera armónica con el artículo 187 ejusdem
+(170 del CCA), el cual prevé que «Para restablecer el derecho particular, la Jurisdicción de lo Contencioso Administrativo podrá estatuir disposiciones nuevas en reemplazo de las acusadas, y modificar o reformar estas». Es de advertir que esta atribución ha sido dada por el legislador al juez desde la Ley 160 de 1941, como se indicó en precedencia.
+
+104. Es de anotar que incluso, la exposición de motivos de la Ley 1437 de 2011 mencionó que uno de los ejes temáticos que inspiraba la reforma normativa era el
+«Fortalecimiento de los poderes del juez», esto con la finalidad de hacer real el reconocimiento de los derechos de los asociados y garantizar el derecho a la tutela judicial efectiva de los derechos. Es de resaltar que en dicho texto se indicó que los aludidos poderes se reflejan dentro del proceso contencioso administrativo, entre otros, en el momento de dictar sentencia. Para el efecto, se precisó lo siguiente: «[…] reiterando la normativa actual, se señala que con el fin de restablecer el derecho particular, el juez puede en la sentencia, adoptar disposiciones nuevas en reemplazo de las acusadas y modificar o reformar estas».
+
+105. Lo expuesto, permite concluir lo siguiente:
+
+(i) Desde la Ley 80 de 1935 el legislador le ha atribuido al juez o tribunal la competencia para definir los parámetros del restablecimiento del derecho, lo cual implica que el juzgador en la sentencia indicará «con la debida precisión, la manera como deba restablecerse el derecho violado»; (ii) El juez tiene amplias facultades en materia del restablecimiento del derecho, como quiera que al definir la forma de hacerlo, puede incluso estatuir disposiciones nuevas en reemplazo de las acusadas, y modificar o reformar estas; (iii) ninguna ley posterior ha indicado o precisado cómo debe realizarse el restablecimiento, por lo cual, es plausible señalar que es parte del criterio del juzgador, quien en todo caso, debe buscar la realización efectiva de los principios que orientan la Jurisdicción de lo Contencioso Administrativo.
+
+FINALIDAD DEL MEDIO DE CONTROL DE NULIDAD Y RESTABLECIMIENTO DEL
+DERECHO
+
+106. Prima facie, el juicio de legalidad tradicionalmente ha implicado el control de legalidad del acto administrativo y el restablecimiento del derecho. Sin embargo, la complejidad de las articulaciones entre el Estado empleador y los servidores públicos exige la evolución de un nuevo juez que trasciende la «legalidad y restablecimiento» hacia uno más cualificado, con mayor competencia para decidir los litigios64, en el que además de «restablecer el derecho», también pueda y deba, en algunos casos,
+«declarar la existencia de un derecho».
+
+64 Afirma Rafael Enrique Ostau De Lafont Pianeta lo siguiente: «[…] La concepción del Estado Social de Derecho entonces, trasciende sin abandonar el control de legalidad para inducir al juez en general y particularmente al juez contencioso como un juez garante de la tutela efectiva de los derechos ciudadanos. Le impone al juez no solamente entonces ocuparse de si el acto, la actuación, o la gestión de la administración debe verificarse en cuanto a su contexto de adecuación al ordenamiento jurídico. Sino que además de ello debe preocuparle al juez el que sus decisiones propendan por proteger y garantizar la protección de los derechos de los administrados. […]». Ostau De
+Lafont Pianeta, Rafael Enrique. Fundamentos del Código de Procedimiento Administrativo y de lo Contencioso
+Administrativo. En Colección Jurídica Disciplinaria. Obra Colectiva. Volumen IV. Instituto Colombiano de Derecho
+Disciplinario. Ediciones Nueva Jurídica. Bogotá. 2014, pág. 130
+
+<!-- pagina 26 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+107. Esta novedosa visión del juez de lo contencioso administrativo se observa, con máxima nitidez, en aquellos litigios relacionados con los concursos de mérito, en los que, a la pretensión de nulidad, se le añade la solicitud de reconocimiento del derecho a ocupar los primeros puestos en la lista. Es decir, no se pretende el «restablecimiento del derecho», sino la «declaración de un derecho», el derecho de ocupar un puesto en la lista del concurso con mayor opción de nombramiento.
+
+108. Por su parte, en algunos litigios relacionados con actos sancionatorios disciplinarios, se ha presentado una interesante mixtura en las pretensiones, cuando la persona afectada con el acto sancionatorio se desvinculó de la administración por razones diferentes a la sanción (v.g. renuncia aceptada, vencimiento del período, etc.).
+En dichos casos las pretensiones se han acumulado así: (i) la nulidad del acto sancionatorio; (ii) restitutoria de rehabilitación, consistente en que se cancele la anotación relacionada con los antecedentes disciplinarios; (iii) se ha impetrado el reconocimiento de la indemnización con fundamento en el daño ocasionado por
+«pérdida de oportunidad», puesto que evidentemente no es plausible «restablecer el derecho» con el reintegro al cargo, ni el pago de los salarios dejados de «percibir».
+Esto evidencia la opción eminentemente indemnizatoria por la «pérdida de oportunidad»65.
+
+109. Lo anterior explica, entre otras cosas, porqué el medio de control de nulidad y restablecimiento del derecho también puede estar acompañado con una pretensión de reparación del daño, pues en este caso si se está ante la lesión de un bien jurídico de quien no está obligado a soportarlo bajo un juicio de imputabilidad, la persona puede pedir no solo que se declare la nulidad del acto administrativo, sino también el restablecimiento del derecho, e incluso la reparación del daño, tal y como lo autoriza el artículo 138 del CPACA.
+
+110. Todo lo anterior, permite evidenciar la triple finalidad del medio de control de nulidad y restablecimiento del derecho: (i) La primera referida al control de legalidad, la cual culmina con el pronunciamiento judicial sobre la anulación del acto administrativo o no. (ii) La segunda, que está subordinada a la prosperidad de la primera e implica el pronunciamiento judicial sobre el restablecimiento del derecho, el cual deberá ser definido por el juez atendiendo las circunstancias del caso concreto y,
+(iii) La reparación del daño, el cual encuentra la causalidad en perjuicios ocasionados que se derivan del acto anulado, esto es, los perjuicios inmateriales o materiales.
+
+EL RESTABLECIMIENTO DEL DERECHO DE QUIEN HA SIDO DESVINCULADO ILEGALMENTE Y SUS
+RESTRICCIONES.
+
+111. El restablecimiento del derecho implica que se restaure la situación jurídica que tenía el sujeto afectado con el acto anulado. Por regla general, salvo que se modulen los efectos de la declaratoria de nulidad, estos se producen de manera retroactiva por lo que se entiende que, a partir de su anulación, el acto nunca ha existido.
+
+112. En materia laboral, por regla general, al anularse el acto que declaró la insubsistencia en el nombramiento de un servidor público por alguna de las causales legalmente establecidas deviene como consecuencia el restablecimiento del derecho
+
+65 Ver sentencia proferida por la Subsección A, el 27 de agosto de 2019, demandante Liliana Patricia García Forero contra la Procuraduría General de la Nación. Radicado: 11001-03-25-000-2012-00343-00 (1341-2012).
+
+<!-- pagina 27 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co que incluye la orden de reintegro al cargo y el pago de los salarios dejados de percibir
+(como unidad), lo que podríamos denominar un restablecimiento in natura en lugar de una reparación in natura.
+
+113. Sin embargo, en materia de provisionales se presentan algunas particularidades que se estudian a continuación: La primera, la relativa a la imposibilidad en algunos eventos del reintegro. La segunda, relacionada con el límite en el pago de los salarios y prestaciones dejados de percibir durante el tiempo en que estuvo desvinculado del servicio.
+
+RESTRICCIONES DEL RESTABLECIMIENTO EN MATERIA DEL REINTEGRO DE LOS PROVISIONALES
+DESVINCULADOS DEL SERVICIO
+
+114. Tradicionalmente se ha sostenido que, como consecuencia de ello, el titular del derecho conculcado debe regresar a la situación en la que se encontraba previo a la expedición del acto que resultó ilegal. Sin embargo, lo anterior no puede ser visto como un efecto obligado o atado a la esencia de la declaratoria judicial de nulidad del acto administrativo pues, no en pocos casos, se advierte una imposibilidad fáctica o jurídica de llevar a la realidad esa ficción consistente en retrotraer las cosas al estado anterior.
+
+115. En efecto, especialmente en materia de la desvinculación ilegal de los provisionales, y en atención a la precariedad del vínculo, hay varios escenarios en los cuales no es jurídicamente posible llevar a cabo el reintegro como parte del restablecimiento «in natura»66. Ello puede suceder porque resulte un imposible jurídico; o porque quien desempeña el cargo, al cual se habría de reintegrar el provisional desvinculado, tiene una protección jurídica reforzada; o por la existencia de inhabilidad que impida la nueva vinculación. Veamos los casos más relevantes:
+a) Cuando el empleo se ha provisto mediante concurso de carrera, dado que en dichas circunstancias prevalece el derecho de quien accedió mediante el sistema de mérito. b) Porque el juez debe amparar a otra persona que requiere protección constitucional reforzada, v.g. el retén social, etc. c) Porque al momento de cumplir la orden de reintegro, se acredita que: (i) la persona fue desvinculada por invalidez absoluta; ii) destituida como consecuencia de un proceso disciplinario; iii) su nombramiento fue revocado por no acreditar los requisitos para el desempeño del empleo (artículo 5 de la Ley
+190 de 1995); iv) el empleo fue suprimido; v) la persona falleció; o vi) cumplió la edad de retiro forzoso (ver literales f, g, h, j, k, l, m el artículo 41 de la Ley 909)
+
+116. Nótese, por ejemplo, que el orden regulado por la ley para la provisión definitiva de los empleos de carrera también impide el reintegro al cargo que se ocupaba en provisionalidad. Así, a las anteriores limitaciones se agrega lo indicado en el artículo 2.2.5.3.2. del Decreto 1083 de 2015, el cual es perentorio al señalar que la provisión definitiva de los empleos se efectuará teniendo en cuenta un orden determinado, lo cual afecta, en muchas ocasiones, el reintegro al cargo que se ocupaba en provisionalidad. El artículo en cita es del siguiente tenor:
+
+66 Tradicionalmente se ha entendido que la orden de reintegro al cargo que se ocupaba es inherente a la naturaleza del restablecimiento del derecho, si el juez de lo contencioso administrativo ha declarado la nulidad del acto administrativo desvinculatorio.
+
+<!-- pagina 28 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+«[…]
+1. Con la persona que al momento de su retiro ostentaba derechos de carrera y cuyo reintegro haya sido ordenado por autoridad judicial.
+2. Por traslado del empleado con derechos de carrera que demuestre su condición de desplazado por razones de violencia en los términos de la Ley 387 de 1997, una vez impartida la orden por la Comisión Nacional del Servicio Civil.
+3. Con la persona de carrera administrativa a la cual se le haya suprimido el cargo y que hubiere optado por el derecho preferencial a ser reincorporado a empleos iguales o equivalentes, conforme con las reglas establecidas en el presente decreto y de acuerdo con lo ordenado por la Comisión Nacional del Servicio Civil.
+4. Con la persona que al momento en que deba producirse el nombramiento ocupe el primer puesto en lista de elegibles para el empleo ofertado que fue objeto de convocatoria para la respectiva entidad.
+
+Si agotadas las anteriores opciones no fuere posible la provisión del empleo deberá adelantarse proceso de selección específico para la respectiva entidad.
+Parágrafo 1.°. Una vez provistos en período de prueba los empleos convocados a concurso con las listas de elegibles elaboradas como resultado de los procesos de selección, tales listas, durante su vigencia, solo podrán ser utilizadas para proveer de manera específica las vacancias definitivas que se generen en los mismos empleos inicialmente provistos, con ocasión de la configuración para su titular de alguna de las causales de retiro del servicio consagradas en el artículo 41 de la
+Ley 909 de 2004.
+Parágrafo 2.°. Cuando la lista de elegibles elaborada como resultado de un proceso de selección esté conformada por un número menor de aspirantes al de empleos ofertados a proveer, la administración, antes de efectuar los respectivos nombramientos en período de prueba y retirar del servicio a los provisionales, deberá tener en cuenta el siguiente orden de protección generado por:
+
+1. Enfermedad catastrófica o algún tipo de discapacidad.
+2. Acreditar la condición de padre o madre cabeza de familia en los términos señalados en las normas vigentes y la jurisprudencia sobre la materia.
+3. Ostentar la condición de pre pensionados en los términos señalados en las
+normas vigentes y la jurisprudencia sobre la materia.
+4. Tener la condición de empleado amparado con fuero sindical.
+[…]»
+
+117. En resumen, cuando el juez encuentre que, por las circunstancias particulares del caso, el reintegro al cargo que venía desempeñando el provisional resulta jurídicamente procedente, deberá ordenarlo a título de restablecimiento del derecho.
+Ahora, es factible que, a pesar de encontrar que al demandante le asiste derecho al reintegro, se advierta que en la práctica resulta imposible llevarlo a cabo. En este supuesto cobran especial relevancia las amplísimas facultades de las que se encuentra investido el juzgador de lo contencioso administrativo en aras de determinar, en cada caso, cuáles son las medidas más efectivas para reconducir la irregularidad generada por el retiro ilegal.
+
+118. Por ese motivo el legislador dispuso que en los casos en que, en la práctica, el reintegro resulte imposible por (i) desaparición de la entidad; o (ii) por supresión del cargo sin que exista uno de igual naturaleza y categoría que el que desempeñaba el demandante al momento de la desvinculación, la administración está obligada a implementar medidas de carácter resarcitorio. De esta forma, el artículo 189 de la Ley
+
+<!-- pagina 29 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+1437 de 2011, en los incisos 7 y 8, previó para estos eventos la procedencia de una
+«indemnización compensatoria», así:
+
+«[…] En los procesos de nulidad y restablecimiento del derecho, la entidad demandada, dentro de los veinte (20) días hábiles siguientes a la notificación de la sentencia que resuelva definitivamente el proceso, cuando resulte imposible cumplir la orden de reintegro del demandante al cargo del cual fue desvinculado porque la entidad desapareció o porque el cargo fue suprimido y no existe en la entidad un cargo de la misma naturaleza y categoría del que desempeñaba en el momento de la desvinculación, podrá solicitar al juez de primera instancia la fijación de una indemnización compensatoria.
+
+De la solicitud se correrá traslado al demandante por el término de diez (10) días, término durante el cual podrá oponerse y pedir pruebas o aceptar la suma estimada por la parte demandada al presentar la solicitud. En todo caso, la suma se fijará teniendo en cuenta los parámetros de la legislación laboral para el despido injusto y el auto que la señale solo será susceptible de recurso de reposición. […]» (resalta la Sala)
+
+119. Ahora, es importante señalar que esta disposición cobija a los provisionales pues la ley no restringió su aplicación a las órdenes judiciales de reintegro impartidas respecto de empleados con derechos de carrera. En tales condiciones, siguiendo el principio general de interpretación jurídica según el cual, donde la norma no distingue, no le corresponde hacerlo al intérprete, resulta improcedente deducir que el legislador quiso excluir del ámbito de aplicación de los incisos 7 y 8 del artículo 189 del CPACA los reintegros de empleados públicos que habían sido nombrados en provisionalidad o mediante cualquier otra forma de provisión del empleo diferente al nombramiento en periodo de prueba que deviene del concurso público de méritos. Aunado a lo anterior, tampoco podría entenderse que la finalidad de la precitada norma sea la de indemnizar al servidor de carrera por la supresión del cargo, lo cual se desprende del hecho de que esta indemnización no se calcula de la misma forma prevista en el artículo 44, inciso 2, de la Ley 909 de 2004, en estos eventos, sino que acude a un criterio objetivo, dado en función del tiempo durante el cual la persona desempeñó el cargo, sin atender la forma de vinculación.
+
+120. En efecto, al revisar los antecedentes legislativos de dicha norma se observa que el interés al que obedece este mecanismo resarcitorio consiste en que, con independencia de la forma de provisión del cargo del que se retiró ilegalmente al empleado público, exista una solución a la problemática generada en los casos en que hay derecho al reintegro, pero este resulta impracticable por una de las hipótesis ya anunciadas. Sobre el particular, se anotó lo siguiente en el trámite legislativo:
+
+[…] Se propone adicionar el artículo 13867 con el objeto de superar las dificultades que afrontan las entidades públicas cuando resulta imposible cumplir
+
+67 Es importante aclarar que el contenido de los incisos 7 y 8 del actual artículo 189 del CPACA fue incluido inicialmente en los incisos 3 y 4 del artículo 138 de la ponencia para primer debate en Cámara. En informe de ponencia para segundo debate en Cámara (Gaceta 951 del 23 de noviembre de 2010) se presentó un pliego de modificaciones de acuerdo con propuestas formuladas por la academia, el Consejo de Estado y los proponentes, entre ellas reubicar los incisos 3 y 4 del artículo 138 en el artículo 189 porque, como este último regula los efectos de la sentencia, se entendió que el contenido de dichos incisos «se refiere a asuntos propios de esta disposición».
+El cambio fue aprobado en sesión plenaria de la Cámara de Representantes celebrada los días 29 y 30 de noviembre de 2010 (Gaceta 1.068 del 9 de diciembre de 2010).
+
+<!-- pagina 30 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co la orden de reintegro de un servidor público, lo cual se presenta cuando la entidad desapareció, cuando se suprimió el cargo del cual fue desvinculado el funcionario o cuando no existen (sic) en la entidad un cargo de la misma naturaleza y categoría del que desempeñaba el demandante en el momento de la desvinculación […]68
+
+121. No sobra mencionar que, con anterioridad a la positivización de esta fórmula indemnizatoria se venían adoptando decisiones judiciales que consultaban esta filosofía tanto en la jurisdicción constitucional69, como en la ordinaria laboral - en lo de su competencia70- y en la de lo contencioso administrativo71.
+
+122. Los pronunciamientos de esta última fueron emitidos principalmente a través de los Tribunales Administrativos, mediante fallos de segunda instancia. Aunque, debido al vacío legal existente en la materia, dichas sentencias aplicaron un método resarcitorio distinto al que prevé el citado artículo 189, lo que interesa resaltar de aquellas es que establecen la procedencia de conceder un subrogado que compense los perjuicios causados por la imposibilidad de cumplir la orden de reintegro.
+
+123. Conviene señalar que, en varias oportunidades, esas sentencias fueron objeto de acciones de tutela de las que conoció esta Corporación a través de sus diferentes secciones y subsecciones, quienes concluyeron que la orden judicial de indemnizar la imposibilidad de reintegro, cuando esta se encuentra suficientemente acreditada, no constituye un defecto susceptible del amparo que ofrece este mecanismo constitucional72 y, en esa misma línea, que, en aquellos casos, omitir el reconocimiento de esa compensación, sí amerita que, por esa vía, se protejan los derechos constitucionales, ordenando ajustar la orden judicial en ese sentido73.
+
+124. El argumento central de estas decisiones podría unificarse bajo el entendido que, ante la imposibilidad de restablecer el derecho de quien fue retirado del cargo indebidamente por medio de una orden de reintegro, al juez le corresponde buscar otras alternativas para la satisfacción de los derechos del afectado, apareciendo ajustado concederle un equivalente pecuniario que compense la referida imposibilidad.
+Esto como una expresión del respeto al concepto de justicia material, y a los derechos de acceso a la administración de justicia y reparación integral, así como de las garantías mínimas laborales, en condiciones de igualdad y equidad para cada empleado.
+
+68 Gaceta 683 del 23 de septiembre de 2010; Informe de ponencia para primer debate, Cámara de
+Representantes.
+69 En esta, el principal referente se encuentra en la Sentencia T-216 de 2013.
+70 Sobre el particular, pueden consultarse las sentencias del 10 de junio de 2008 (32791), del 1 de marzo de 2008
+(27148) y del 18 de julio de 2003 (20578).
+71 Los primeros pronunciamientos que se expidieron en el sentido anotado los produjo la Sala de Consulta y Servicio
+Civil del Consejo de Estado mediante los Conceptos 1302 del 12 de octubre de 2000 y 1208 del 8 de octubre de
+1999.
+72 Sobre el particular, pueden consultarse los siguientes fallos de tutela proferidos por el Consejo de
+Estado, Sala de lo Contencioso Administrativo: (i) Sección Quinta, Sentencia del 19 de septiembre de
+2018, rdo. 11001-03-15-000-2018-02427-00; (ii) Sección Quinta, Sentencia del 14 de junio de 2018, rdo.
+11001-03-15-000-2018-00174-00; (iii) Sentencia de primera instancia del 4 de octubre de 2017 proferida por la Sección Segunda, Subsección A, y de segunda instancia del 8 de febrero de 2018, proferida por la Sección Cuarta, rdo. 11001-03-15-000-2017-02206-00; y (iv) Sección Segunda, Subsección A,
+Sentencia del 4 de septiembre de 2015, rdo. 70001-23-33-000-2015-00165-01.
+73 Consejo de Estado, Sala de lo Contencioso Administrativo, Sección Cuarta, Sentencias del 24 de septiembre de
+2015 (rdo. 68001-23-33-000-2015-00152-01) y del 28 de enero de 2016, (rdo. 11001-03-15-000-2015-01870-01).
+
+<!-- pagina 31 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+125. En conclusión, cuando por las circunstancias del caso concreto, resulte jurídicamente procedente el reintegro al cargo que venía desempeñando el provisional, el juez deberá ordenarlo a título de restablecimiento del derecho. Si encuentra que, a pesar del derecho al reintegro que le asiste al demandante, en la práctica no es posible llevarlo a cabo por (i) desaparición de la entidad; o (ii) por supresión del cargo sin que exista uno de igual naturaleza y categoría que el que desempeñaba el demandante al momento de la desvinculación, ordenará el reconocimiento de la indemnización compensatoria de que trata el artículo 189 del CPACA.
+
+RESTRICCIONES EN MATERIA DEL PAGO DE SALARIOS Y PRESTACIONES DEJADOS DE
+DEVENGAR CUANDO SE TRATE DE UN PROVISIONAL DESVINCULADO ILEGALMENTE DEL
+SERVICIO: «RESTABLECIMIENTO PROPORCIONAL»
+
+126. Otro de los temas que merece especial atención en materia de provisionales es el relacionado con el pago de los salarios y prestaciones dejados de percibir durante el tiempo en que estuvo desvinculado del servicio. Para analizar lo relativo a este punto, partimos de la premisa de que la regla general del restablecimiento del derecho es volver al estado jurídico de protección de las cosas, lo que implicaría, en consecuencia, el pago de todos los emolumentos que dejó de devengar desde la declaratoria de insubsistencia hasta su reintegro. A este restablecimiento podríamos denominar restablecimiento pleno.
+
+127. En atención a las características propias del tipo de vinculación y a la precariedad del derecho que tienen quienes ocupan un cargo de carrera bajo la modalidad de nombramiento provisional, esta Sala considera que no puede operar el restablecimiento pleno, sino que debe aplicarse una regla especial de restablecimiento. Esta regla especial resulta proporcional y razonable en atención a la precariedad que está inscrita en la materialidad del derecho y, que no confiere a sus titulares los atributos de que goza quien tiene un derecho pleno. De manera que, no podría restablecerse un derecho precario como un derecho pleno.
+
+128. No obstante lo anterior, sí sería plausible admitir que en el caso de los provisionales es dable un restablecimiento proporcional74, que pretende restablecer el derecho precario que tiene quien fue desvinculado ilegalmente de su cargo, lo que comprendería entender que el empleado no tenía la vocación de permanecer en el cargo por la totalidad del tiempo, sino por un tiempo determinado. Para ello es necesario restringir proporcionalmente el restablecimiento, en atención, como se indicó en precedencia, a las circunstancias propias de la provisionalidad.
+
+129. Es de resaltar que el restablecimiento del derecho que fue conculcado a las personas que ocupaban un cargo de carrera en la condición de provisionales y que fueron retirados ilegalmente del servicio, ha sido igualmente limitado por la Corte
+Constitucional al sostener que la interpretación concordante con el texto de la Carta
+Política es aquella, según la cual, debe analizarse la «indemnización que se da a título de restablecimiento desde la perspectiva de los principios de equidad y de reparación
+
+Proporcional:
+Del lat. proportionālis.
+1. adj. Perteneciente o relativo a la proporción.
+2. adj. Que tiene proporción o se ajusta a ella.
+3. adj. Dicho de una cantidad o de una magnitud: Que mantiene una proporción o razón constante
+con otra.
+
+<!-- pagina 32 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co integral»75. Por ello ha subrayado que no resulta apropiado asumir, para efectos de la aludida indemnización que «la cuantificación de la misma deba hacerse a partir de la ficción de que el servidor público hubiera permanecido vinculado al cargo durante todo el lapso del proceso, prestando el servicio y recibiendo un salario»76, pues esta conclusión, continúa la Corte: «desconoce el principio de la reparación integral que exige la indemnización del daño, pero nada más que el daño; puesto que excede las expectativas legítimas para la protección del bien jurídico que fue lesionado por el acto» y «resulta claramente incompatible con el conjunto de principios y derechos que orientan el Estado Social y Constitucional de Derecho»77. (negrillas fuera de texto)
+
+130. En dicha línea, la Corte Constitucional en sentencias SU-556 de 2014 y SU-054 de 2015 dispuso que el pago de los salarios y prestaciones sociales al que tienen derecho los provisionales, cuando se ha anulado el acto administrativo de declaratoria de insubsistencia de su nombramiento, no puede ser inferior a seis meses, que según la Ley 909 de 2004 es el término máximo de duración de la provisionalidad, pero tampoco puede ser superior a 24 meses, los cuales atribuyó a «la ruptura del nexo causal entre la ausencia de ingresos o el nivel de los mismos y la desvinculación del servicio»78.
+
+131. Este último término se fijó con el «propósito de evitar un pago excesivo y desproporcionado en relación con el verdadero daño sufrido a causa de la desvinculación, y su tope de 24 meses se determina teniendo en cuenta los estándares internacionales y nacionales recogidos en diversos estudios, que consideran como de larga duración el desempleo superior a un año». Para ello tomó como referencia dos análisis que permiten estimar el funcionamiento de dicha variable en el mundo y en el país.
+
+132. El primero de ellos fue realizado y publicado por la Organización Internacional del
+Trabajo (OIT), el 21 de enero de 2014, titulado Global Employment Trends 2014: Risk of a jobless recovery?, en el cual se reflejan diversos indicadores mundiales y regionales sobre el mercado laboral. En particular, sobre el indicador de la duración del desempleo en algunas economías79, advierte que, cuando se trata del desempleo de larga duración80, el promedio para conseguir trabajo es por lo menos de 12 meses, mientras que, frente al desempleo de corto o mediano plazo, el tiempo promedio para ubicarse laboralmente es de aproximadamente 4,5 meses.
+
+133. El segundo estudio evaluado fue la investigación adelantada por la Dirección de
+Estudios Económicos del Departamento Nacional de Planeación, titulada «Duración del desempleo y canales de búsqueda de empleo en Colombia, 2006»81, la cual, define
+
+75 Sentencia SU-556 de 2014.
+76 Ibidem.
+77 Ibidem.
+78 Es de anotar que esta regla de la Corte Constitucional de limitar la indemnización a 24 meses, fue acogida por la Corte Interamericana de Derechos Humanos en la sentencia proferida el día 6 de octubre de 2020 en el caso
+Martínez Esquivia vs Colombia. https://www.corteidh.or.cr/docs/casos/articulos/seriec_412_esp.pdf.
+79 De manera concreta el cuadro núm. 10 (página 25) compara cómo ha variado el promedio –en meses- de la duración del desempleo desde el año 2003 hasta el 2012 en los siguientes países: Canadá, Brasil, Estados Unidos,
+Reino Unido, Turquía, Japón, España, Sur África y Grecia.
+80De acuerdo con el estudio Global Employment Trends 2014: Risk of a jobless recovery?, se entiende por desempleo de larga duración, aquél que supera los 12 meses, mientras que el desempleo de corta y mediada duración es aquél que se extiende entre 3 y 6 meses, y en todo caso es menor de 12 meses.
+81 Este documento fue elaborado por profesores Carlos Augusto Viáfara L, y José Ignacio Uribe G. del
+Departamento de Economía de la Universidad del Valle, miembros del Grupo de Investigación en Economía Laboral y Sociología del Trabajo. Documento 340, 7 de marzo de 2008.
+
+<!-- pagina 33 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co también estándares sobre la duración del desempleo en el país, señalándose que en
+Colombia predomina el desempleo de larga duración, sobre la base de considerar que el 54% de la población se demora un período superior a 12 meses para conseguir empleo. De igual manera, con un enfoque de género, se explica que el 50% de los hombres consigue empleo a los 8 meses o menos de encontrarse desocupados, mientras que las mujeres necesitan por lo menos 18 meses para lograr dicho objetivo.
+En este mismo sentido, encuentra el estudio que el comportamiento de esos resultados puede variar significativamente cuando los desempleados utilizan canales formales o informales para la búsqueda de trabajo, de manera que el 75% de los que utilizan herramientas formales han salido del desempleo a los 12 meses, mientras que los que acuden a la informalidad ocupan un mayor tiempo para emplearse82.
+
+134. La Sala Plena del Consejo de Estado, en concordancia con la Corte
+Constitucional, y en consonancia con lo expuesto previamente en relación con que no puede restablecerse un derecho precario como si fuera uno pleno, considera que en el caso de los provisionales es necesario restringir el monto del restablecimiento del derecho hasta un tope máximo de 24 meses a partir de la desvinculación del servicio.
+Los principales argumentos son los siguientes:
+
+135. Quien ocupa un cargo en provisionalidad tiene una expectativa de permanencia limitada en el empleo, e igualmente un derecho precario que en modo alguno puede ser equiparable al de aquellos que ocupan el cargo en carrera administrativa, tal como se expuso in extenso en precedencia.
+
+136. Es atentatorio de la racionalidad y la razonabilidad, que lo percibido por un provisional desvinculado del servicio, respecto del cual se ordena su reintegro y el consecuente restablecimiento del derecho, sea superior al valor de las indemnizaciones que la misma ley ha fijado para cuando ocurre la desvinculación de los servidores públicos que se encuentran en carrera administrativa, como en el caso de supresión del cargo.
+
+137. En efecto, al revisar la legislación laboral del servidor público, se observa que el parágrafo 2 del artículo 44 de la Ley 909 de 2004 consagra una tabla indemnizatoria para los empleados de carrera administrativa, que no puedan ser incorporados a un empleo igual o equivalente de la nueva planta de personal y que no opten por la reincorporación83. Esta tabla en números se evidencia así:
+
+82 Véase página 17 del estudio Duración del desempleo y canales de búsqueda de empleo en Colombia, 2006.
+Departamento Nacional de Planeación de la República de Colombia, Dirección de Estudios Económicos.
+Documento 340, 7 de marzo de 2008.
+83 El Código Sustantivo del Trabajo también consagra una indemnización restringida en el artículo 64. […] Artículo
+64: Terminación unilateral del contrato de trabajo sin justa causa (modificado por el artículo 28 de la Ley 789 de
+2002). En todo contrato de trabajo va envuelta la condición resolutoria por incumplimiento de lo pactado, con indemnización de perjuicios a cargo de la parte responsable. Esta indemnización comprende el lucro cesante y el daño emergente. En caso de terminación unilateral del contrato de trabajo sin justa causa comprobada, por parte del empleador o si éste da lugar a la terminación unilateral por parte del trabajador por alguna de las justas causas contempladas en la ley, el primero deberá al segundo una indemnización en los términos que a continuación se señalan: En los contratos a término fijo, el valor de los salarios correspondientes al tiempo que faltare para cumplir el plazo estipulado del contrato; o el del lapso determinado por la duración de la obra o la labor contratada, caso en el cual la indemnización no será inferior a quince (15) días. En los contratos a término indefinido la indemnización se pagará así: a) Para trabajadores que devenguen un salario inferior a diez (10) salarios mínimos mensuales legales: 1. Treinta (30) días de salario cuando el trabajador tuviere un tiempo de servicio no mayor de un (1) año.
+2. Si el trabajador tuviere más de un (1) año de servicio continuo se le pagarán veinte (20) días adicionales de
+
+<!-- pagina 34 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+Tiempo de servicio
+Días de indemnización reconocidos
+Equivalente en meses
+Menos de 1 año
+45 días
+1 mes y 15 días
+1 año
+1 mes y 15 días
+2 años
+2 meses
+3 años
+2 meses y 15 días
+4 años
+3 meses
+5 años
+4 meses y 5 días
+6 años
+4 meses y 25 días
+7 años
+5 meses y 15 días
+8 años
+6 meses y 5 días
+9 años
+6 meses y 25 días
+10 años
+13 meses y 15 días
+11 años
+14 meses y 20 días
+12 años
+16 meses y 5 días
+13 años
+17 meses y 15 días
+14 años
+18 meses y 25 días
+15 años
+20 meses y 5 días
+16 años
+21 meses y 15 días
+17 años
+22 meses y 25 días
+18 años
+24 meses y 5 días
+19 años
+25 meses y 15 días
+20 años
+26 meses y 25 días
+
+138. De la tabla se deduce que el mínimo de indemnización que contempla la ley para un empleado de carrera al que le fue suprimido el cargo es de 45 días y que para que obtenga una indemnización que equivale a 24 meses, debió haber laborado al servicio de la entidad, al menos 18 años.
+
+139. La Sala Plena del Consejo de Estado considera que, si el legislador cuantificó y limitó en una estricta tabla el monto de la indemnización de los servidores públicos vinculados por méritos, en los casos de supresión del empleo, a fortiori, es razonable, proporcional y plausible que, en el caso de una desvinculación ilegal del nombrado en provisionalidad, el restablecimiento del derecho se liquide y restrinja desde la óptica de la precariedad y temporalidad de la vinculación y con un baremo similar.
+
+140. Ahora bien, la Corte Constitucional, en las sentencias SU-556 de 2014 y SU-054 de 2015 consideró que no era posible dar aplicación por analogía al artículo 44 de la
+Ley 909, porque «no existe previsión legal expresa que los cobije y, por las particularidades que identifican tal situación, no es posible dar aplicación a la analogía legis».
+
+141. Esta Sala considera que le asiste razón a la Corte Constitucional en descartar la analogía como método interpretativo porque la referida indemnización fue prevista legalmente para aquellas situaciones especiales en las que se suprime el cargo como consecuencia de la liquidación, reestructuración, supresión o fusión de entidades, organismos o dependencias, o del traslado de funciones de una entidad a otra, o por modificación de planta de personal (ver art. 44 de la Ley 909). De allí que dicho daño
+salario sobre los treinta (30) básicos del numeral 1, por cada uno de los años de servicio subsiguientes al primero y proporcionalmente por fracción; b) Para trabajadores que devenguen un salario igual o superior a diez (10), salarios mínimos legales mensuales. 1. Veinte (20) días de salario cuando el trabajador tuviere un tiempo de servicio no mayor de un (1) año. 2. Si el trabajador tuviere más de un (1) año de servicio continuo, se le pagarán quince
+(15) días adicionales de salario sobre los veinte (20) días básicos del numeral 1 anterior, por cada uno de los años de servicio subsiguientes al primero y proporcionalmente por fracción.
+
+<!-- pagina 35 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co tiene una causa jurídica diferente a la desvinculación por un acto administrativo ilegal, razón por la cual, la indemnización está notoriamente atenuada en la tarifa legal.
+Además, se entiende que es subsidiaria, esto es, solo es aplicable en caso de ser imposible el reintegro a un empleo igual o equivalente de la nueva planta de personal o en otra entidad pública. En el mismo sentido el artículo 2.2.12.1.1.1 del Decreto 648 de 2017, reglamenta la protección especial en caso de supresión del empleo como consecuencia de una reforma de planta de personal, en el que existe especial consideración para la madre o padre cabeza de familia, personas con limitación física, visual o auditiva; y servidores próximos a pensionarse.
+
+142. En la misma ilación, ha de concluirse que tampoco es posible darle aplicación analógica al artículo 64 del Código Sustantivo del Trabajo (modificado por la Ley 789 de 2002), petición que fue hecha por el agente del Ministerio Público en la intervención en la audiencia pública.
+
+EL RESTABLECIMIENTO DEL DERECHO PROPORCIONAL COMO GUÍA DEL JUEZ EN LOS CASOS
+DE DESVINCULACIÓN ILEGAL DE LAS PERSONAS QUE OCUPARON CARGOS DE CARRERA EN LA
+MODALIDAD DE PROVISIONAL. CUANTIFICACIÓN.
+
+143. En concordancia con lo indicado en el acápite anterior, como no es posible aplicar por analogía las tablas indemnizatorias previstas en el artículo 64 del CST, ni la indicada en el artículo 44 de la Ley 909, y ante la ausencia de una norma legal que específicamente regule lo relacionado con la indemnización de aquellas personas que han sido desvinculadas ilegalmente cuando ocupaban un cargo de carrera en la modalidad de provisional, es necesario que jurisprudencialmente y a fin de efectuar un restablecimiento proporcional se fije una tabla específica en la que se correlacione el tiempo de servicio y el quantum del restablecimiento, a partir de la precariedad del derecho.
+
+144. Así las cosas, en esta sentencia de unificación se acogen los argumentos expuestos por la Corte Constitucional en las multicitadas sentencias SU-691 de 2011,
+SU-556 de 2014 y SU-054 de 2015, en el sentido de que es necesario limitar el restablecimiento del derecho en atención a la precariedad del vínculo. En consecuencia, en la misma línea de la Corte Constitucional, el Consejo de Estado como Tribunal Supremo de lo Contencioso Administrativo84 considera que debe definirse una tabla específica que permita el restablecimiento proporcional para los casos en que una persona ha sido desvinculada ilegalmente cuando ocupaba un cargo de carrera en la modalidad provisional. Lo anterior, en tanto el legislador profiera una ley que regule este punto.
+
+145. Se considera entonces que dos aspectos a tener en cuenta para definir el quantum del restablecimiento proporcional en estos casos son: (i) el salario devengado por quien fue desvinculado del servicio y (ii) el tiempo de servicios prestados en la vinculación provisional.
+
+146. La Sala adoptará como criterio, para la proyección del baremo, el tiempo de servicio prestado por el provisional desvinculado y no el tiempo que la persona esté desempleada por dos razones esenciales: i) la primera por cuanto el tiempo laborado
+
+84 Artículo 237 de la Constitución Política. «Son atribuciones del Consejo de Estado: 1. Desempeñar las funciones de tribunal supremo de lo contencioso administrativo, conforme a las reglas que señale la ley.».
+
+<!-- pagina 36 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co es un criterio cierto y cuantificable, en cambio, el tiempo durante el cual dure desempleado es incierto; ii) la segunda, el tiempo laborado es un criterio utilizado por el legislador para definir otras indemnizaciones por desvinculaciones del servicio. En efecto, es el criterio usado tanto en el artículo 64 del CST85 como en el artículo 44 de la Ley 909 de 200486.
+
+147. Ahora, es preciso señalar que, si bien para efectos de definir el valor del restablecimiento proporcional, a que tienen derecho los provisionales desvinculados de manera ilegal, la Sala Plena está tomando como parámetro un criterio similar al señalado en las disposiciones precitadas, no se trata de una analogía normativa, como quiera que se está creando una nueva tabla teniendo en cuenta las particularidades de los nombramientos de los empleos provistos en provisionalidad, tales como son la precariedad del vínculo, la discrecionalidad en su nombramiento, la temporalidad de su vinculación y el que no gozan de los derechos de los empleados de carrera, pese a ocupar un cargo de tal naturaleza.
+
+148. Así las cosas, el restablecimiento podrá ser liquidado por el juez de manera proporcional al tiempo real de servicio que se demuestre en cada caso, teniendo en cuenta para el efecto el último salario devengado por el provisional desvinculado ilegalmente del servicio.
+
+149. Ahora bien, en aplicación del principio de integralidad, se estima que también debe hacer parte de ese restablecimiento proporcional, lo relativo al pago de la seguridad social integral en materia pensional. Los valores por reconocer o pagar por estos conceptos serán liquidados igualmente con base en el salario devengado en el cargo que ocupó en su condición de servidor vinculado en provisionalidad y por el mismo término. Para tal efecto, el demandante deberá aportar las pruebas de lo pagado o que debió pagar para ser beneficiario del sistema de la seguridad social. Las consignaciones deberán realizarse al ente previsional y en el régimen al cual se encuentre afiliado el demandante, en el porcentaje que corresponda al empleador y que, por su parte, el provisional desvinculado deberá asumir el porcentaje de cotización que está a su cargo, según la ley.
+
+150. La tabla es la siguiente:
+
+Tiempo de servicio en provisionalidad
+Restablecimiento proporcional
+Valor a reconocer, teniendo en cuenta el último salario devengado por el provisional desvinculado, el cual se podrá liquidar proporcionalmente al tiempo real de servicio
+Pagos de la seguridad social integral (pensión), liquidados con fundamento en el salario devengado al momento de la desvinculación, y en el porcentaje que corresponda pagar a la entidad pública, el cual se hará al fondo previsional y al régimen al cual se encuentre afiliado el demandante.
+Menos de 1 año
+Hasta 6 salarios devengados
+Hasta 6 meses de cotizaciones
+De 1 y 2 años
+Hasta 8 salarios devengados
+Hasta 8 meses de cotizaciones
+
+85 Que regula la indemnización por terminación unilateral del trabajo sin justa causa en el derecho privado.
+86 Indemnización para los empleados públicos de carrera administrativa que, como consecuencia de la liquidación, reestructuración, supresión o fusión de entidades, organismos o dependencias, o del traslado de funciones de una entidad a otra, o por modificación de planta de personal, se les supriman los cargos de los cuales sean titulares.
+
+<!-- pagina 37 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+De 2 a 3 años
+Hasta 10 salarios devengados
+Hasta meses de cotizaciones
+De 3 a 4 años
+Hasta 12 salarios devengados
+Hasta meses de cotizaciones
+De 5 a 10 años
+Hasta 18 salarios devengados
+Hasta meses de cotizaciones
+Más de 10 años
+Hasta 24 salarios devengados
+Hasta meses de cotizaciones
+
+151. En relación con las cotizaciones en materia pensional debe precisarse que estas se efectuarán igualmente en los intervalos definidos en la tabla anterior, es decir, por un mínimo de seis meses y un máximo de 24.
+
+EL RESTABLECIMIENTO DEL DERECHO MEDIANTE REINTEGRO, CUANDO ESTE SEA POSIBLE, Y
+EL RESTABLECIMIENTO DEL DERECHO PROPORCIONAL NO SON EXCLUYENTES
+
+152. El baremo que se formula en esta providencia constituye una tabla de referencia, que se aplicará sin perjuicio de la valoración que en cada caso debe hacer el juez para efectos del restablecimiento del derecho del provisional, lo cual podría implicar además del reintegro al cargo (si fuere legalmente posible), el restablecimiento proporcional y el reconocimiento de los demás perjuicios materiales e inmateriales que estén debidamente probados y a que haya lugar.
+
+153. En conclusión, la orden de reintegro del provisional al cargo que venía desempeñando, cuando ello resulte factible, será concurrente con el restablecimiento proporcional, el cual se efectuará a través del reconocimiento y pago de la suma que se cuantifique conforme a la mencionada tabla. Adicionalmente y, de resultar acreditados, con la indemnización de los perjuicios materiales e inmateriales a que haya lugar.
+
+154. En esa misma lógica, conviene anotar que, en los supuestos en que no sea posible el reintegro en los términos del artículo 189 del CPACA, la indemnización por compensación a que haya lugar tampoco será incompatible con la suma que corresponda reconocer por concepto del restablecimiento proporcional pues la causa de uno y otro pago será distinta. El primer emolumento resarce la imposibilidad de ejecutar la orden de reintegro, por lo que la obligación de hacer se compensa por una de dar a manera de indemnización sustitutiva; el restablecimiento proporcional, por su parte, retribuye el hecho de haber cesado en el empleo en forma irregular.
+
+CONSIDERACIONES EN RELACIÓN CON LOS DESCUENTOS
+
+155. En relación con el tema de los descuentos, es importante recordar que la Corte
+Constitucional en la sentencia SU-556 de 2014 consideró que debían descontarse los salarios y prestaciones sociales que la persona desvinculada hubiese percibido del tesoro público con ocasión del desempeño en otros cargos públicos, durante el tiempo en que estuvo desvinculada del servicio. Incluso indicó que también los que hubiese recibido del sector privado, ya sea como trabajador dependiente o independiente.
+
+156. Al respecto, considera la Sala Plena que en virtud de la independencia judicial y con base en la figura del apartamiento judicial, es dable que el Consejo de Estado se
+
+<!-- pagina 38 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co aparte de la regla definida por la Corte Constitucional, siempre y cuando cumpla los requisitos señalados para el efecto, esto es el reconocimiento del precedente, la suficiencia de la carga argumentativa y, por otra parte, que evidencie adecuadamente que el alcance e interpretación que se ofrece, desarrolla de mejor manera los derechos, principios y valores constitucionales. Las razones que sustentan el apartamiento se exponen a continuación:
+
+157. En primer lugar, debe resaltarse que los derechos que aquí se discuten son de naturaleza laboral, los cuales, como se ha dicho en precedencia, tienen especial protección constitucional y convencional.
+
+158. La protección reforzada del trabajo se evidencia no solo en el artículo 25 de la
+Carta Política, en la cual se consagró como un derecho y una obligación social, que goza en todas sus modalidades de la especial protección del Estado, sino también en las siguientes normas: i) libertad de escogencia de la profesión u oficio (artículo 26); ii) autorización expresa a los trabajadores y empleadores para constituir sindicatos
+(artículo 39); iii) el derecho al acceso a los cargos públicos como derecho fundamental
+(artículo 40 numeral 7); iv) derecho a la seguridad social (artículos 48 y 49); v) principios mínimos fundamentales de la relación laboral (artículo 53); vi) obligación del
+Estado de propiciar la ubicación laboral de las personas en edad de trabajar y de garantizar a los discapacitados el derecho al trabajo acorde con sus condiciones de salud (artículo 54); vii) derechos a la negociación colectiva y a la huelga (artículos 55 y 56); viii) derecho preferencial de los trabajadores para acceder a la propiedad accionaria (artículo 60); ix) deber del Estado de promover el acceso progresivo a la propiedad de la tierra y la efectividad de algunos derechos de trabajadores agrarios en forma individual y asociativa (artículo 64); x) determinación de un mínimo de condiciones laborales para quienes desempeñen un empleo público (artículos 122 a
+125); xi) prohibición de desmejorar los derechos sociales de los trabajadores mediante los decretos proferidos en Estados de excepción; y el xii) límite a la libertad de configuración del legislador en tratándose de monopolios, en lo relativo al respeto por los derechos adquiridos de los trabajadores87.
+
+159. Es importante enfatizar que la misma jurisprudencia constitucional88 ha considerado que la naturaleza jurídica del trabajo tiene una triple dimensión: i) valor fundante del Estado Social de Derecho; ii) principio rector del ordenamiento jurídico y ii) un derecho y un deber social.
+
+160. Teniendo en cuenta esta especialísima connotación del trabajo, la Corte
+Constitucional ha sostenido que «el marco de la protección estatal al trabajo no se agota con la protección al empleo dependiente sino también en la efectividad de su ejercicio independiente»89, precisándose incluso que «la fuerza laboral se considera como un instrumento para obtener los recursos necesarios para lograr una vida digna y como un mecanismo de realización personal y profesional»90, por lo que es «objeto de garantía superior tanto el empleo como todas las modalidades de trabajo lícito»91.
+
+87 Sentencia C-614 de 2009.
+88 Entre otras sentencias: C-177 de 2005, C-100 de 2005, C-019 de 2004, C-038 de 2004, C-425 de 2005 y C-580 de 1996.
+89 Sentencia C-593 de 2014.
+90 Sentencia C-614 de 2009.
+91 Ibidem.
+
+<!-- pagina 39 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+161. Ahora bien, debe resaltarse que los artículos 4892 y 5393 de la Carta Política suponen un mecanismo especial de amparo al empleo cuando se trate, entre otros principios, de la irrenunciabilidad de los beneficios laborales mínimos, incluyendo los asociados a la seguridad social. El amparo reforzado que le asiste a tales derechos es merecido en virtud de la íntima conexidad que tiene el trabajo con la dignidad humana y, a su vez, la estrecha relación de esta última con la realización de los valores y principios en que se funda el Estado Social y Democrático de Derecho, cuestión que es advertida desde la propia Declaración Universal de los Derechos Humanos.
+
+162. De esta forma, aquellos beneficios de naturaleza laboral que constituyen exigencias mínimas a satisfacer en cualquier caso, lo son por cuanto a través de ellos se garantiza la subsistencia de los miembros de la especie humana en condiciones que son inherentes a efectos de poder vivir como tal, pero también porque el empleo, además de proveer el sustento para la supervivencia, da lugar a la generación de recursos económicos y humanos para el disfrute de otras actividades que permiten la realización personal, entendida esta como uno de los fines esenciales del hombre, por el cual debe propender el Estado en virtud de lo previsto en el preámbulo, artículo 1.º y 2.º de la Constitución Política.
+
+163. Así, la caracterización que se le ha dado a los derechos en comento impacta de manera directa la forma en que deben ser protegidos, máxime cuando del trabajo depende también el mínimo vital y, por ende, la satisfacción de las necesidades básicas del trabajador y su familia.
+
+164. En materia laboral tiene especialísima relevancia el principio protector o protectorio y el principio pro homine o pro persona, pues en ellos se recogen las características propias del derecho al trabajo y del derecho a la dignidad humana. En virtud de este principio se protege a la parte más vulnerable de la relación laboral, que es el trabajador y, por ende, hay desigualdad o discriminación positiva en su favor a fin de equipararlo con la otra. Su trascendencia «radica en que diferencia el derecho laboral del derecho civil, en el cual se predica igualdad de las partes y no discriminación»94. Y su fundamento está ligado con la propia razón de ser del derecho del trabajo, en virtud de la cual «El legislador no pudo mantener más la ficción de una igualdad existente entre las partes del contrato de trabajo y tendió a compensar esa desigualdad económica desfavorable al trabajador con una protección jurídica
+
+92 Artículo 48. La Seguridad Social es un servicio público de carácter obligatorio que se prestará bajo la dirección, coordinación y control del Estado, en sujeción a los principios de eficiencia, universalidad y solidaridad, en los términos que establezca la Ley.
+Se garantiza a todos los habitantes el derecho irrenunciable a la Seguridad Social […]
+93 Artículo 53 de la Constitución Política: «El Congreso expedirá el estatuto del trabajo. La ley correspondiente tendrá en cuenta por lo menos los siguientes principios mínimos fundamentales:
+Igualdad de oportunidades para los trabajadores; remuneración mínima vital y móvil, proporcional a la cantidad y calidad de trabajo; estabilidad en el empleo; irrenunciabilidad a los beneficios mínimos establecidos en normas laborales; facultades para transigir y conciliar sobre derechos inciertos y discutibles; situación más favorable al trabajador en caso de duda en la aplicación e interpretación de las fuentes formales de derecho; primacía de la realidad sobre formalidades establecidas por los sujetos de las relaciones laborales; garantía a la seguridad social, la capacitación, el adiestramiento y el descanso necesario; protección especial a la mujer, a la maternidad y al trabajador menor de edad.
+El estado garantiza el derecho al pago oportuno y al reajuste periódico de las pensiones legales.
+Los convenios internacionales del trabajo debidamente ratificados, hacen parte de la legislación interna.
+La ley, los contratos, los acuerdos y convenios de trabajo, no pueden menoscabar la libertad, la dignidad humana ni los derechos de los trabajadores».
+94 Plá Rodríguez, Américo. Los principios del Derecho del Trabajo, ediciones De la Palma, Buenos Aires 1990, segunda edición, p. 23.
+
+<!-- pagina 40 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co favorable al trabajador»95. Dentro de las manifestaciones de este principio se encuentran el principio de favorabilidad, el «in dubio pro operario», «el de la condición más beneficiosa», «el de la irrenunciabilidad de los derechos» y el de «la primacía de la realidad sobre las formas».
+
+165. De ello se deriva que quien fue desvinculado de un empleo que ocupó en provisionalidad, en aras de su auto sostenibilidad, pueda y deba conseguir un trabajo para generar sus ingresos, tanto en el sector público, como en el privado, o de manera independiente, sin que ello deba tener incidencia en el valor a recibir con ocasión del restablecimiento del derecho que le fue ocasionado con el acto administrativo declarado ilegal.
+
+166. Es oportuno recordar que la Sala Plena del Consejo de Estado, desde la sentencia
+S-638 de 1996, ha sostenido que el cálculo o liquidación de esta última se hace con fundamento en salarios dejados de devengar, solo a título de un baremo para cuantificar el daño y, jamás, con el fin de hacer creer que la persona desvinculada desempeñó el cargo, puesto que, por obvias razones, ello es contra evidente o un imposible jurídico. De allí que no se incurre en ninguna vulneración del artículo 128, superior, que prohíbe desempeñar simultáneamente más de un empleo público, ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley.
+
+167. La Sala Plena desde 1996 ha argumentado que no existe ningún impedimento legal para recibir sueldo e indemnizaciones al mismo tiempo, por cuanto los pagos que se realizan por el ejercicio de un empleo están incluidos en el rubro presupuestal de salarios y prestaciones, de conformidad con el artículo 122 de la Constitución
+Política96, en tanto que el pago de las condenas judiciales se hace con el rubro de créditos judiciales, previsto en el presupuesto de gastos por mandato del artículo 346 de la Constitución Política97. Por tanto, se trata de dos causas jurídicas diferentes y de allí que no debe ordenarse descuento alguno, por una supuesta vulneración del artículo 128, superior.
+
+168. Adicionalmente, debe resaltarse que, con la tabla de restablecimiento prevista con anterioridad, se está regulando a partir de un baremo proporcional al tiempo laborado y al salario devengado. Por tanto, no tienen fundamento jurídico viable aplicar los descuentos, dado que no se trata de los salarios y prestaciones dejados de percibir.
+
+169. Así, cuando la Corte Constitucional determinó que, en la acción de nulidad y restablecimiento del derecho, el pago de los salarios y prestaciones sociales se realiza a título de indemnización por el daño causado, está desconociendo que se trata de la interrupción indebida de una relación laboral, legal y reglamentaria, que cuenta con cierta vocación de continuidad, pues se trata de empleos públicos de carrera, que se
+
+95 Ibidem p. 25.
+96 Constitución Política, artículo 122 que desarrolla los conceptos de empleo público, las funciones detalladas en ley o reglamento y que para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente.
+97 Constitución Política, artículo 346: (Inciso 1.º modificado por el artículo 3.º del Acto Legislativo 3 de 2011). […]
+En la Ley de Apropiaciones no podrá incluirse partida alguna que no corresponda a un crédito judicialmente reconocido, o a un gasto decretado conforme a ley anterior, o a uno propuesto por el Gobierno para atender debidamente el funcionamiento de las ramas del poder público, o al servicio de la deuda, o destinado a dar cumplimiento al Plan Nacional de Desarrollo. […]
+
+<!-- pagina 41 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co ocupan en provisionalidad. De esta manera, la vía adecuada para reparar ese daño es el restablecimiento del derecho, y ello ocurre con el reintegro al cargo en caso de ser posible, y el pago del valor que corresponda por salarios y prestaciones sociales, según lo indicado en la tabla multicitada.
+
+170. Por lo anterior, se considera que la Corte Constitucional sustituyó el mecanismo de reparación que ha sido previsto por el Consejo de Estado como intérprete natural y especializado en materia contenciosa administrativo, que de tiempo atrás tiene definido que el restablecimiento del derecho es el medio que procede en los casos en que se declara la nulidad de un acto administrativo de insubsistencia de un servidor público, entendiendo que si bien no es posible volver el tiempo atrás para que el servidor desempeñe el cargo y reciba los salarios y prestaciones sociales que por su trabajo corresponden, el subrogado económico que acompaña a la orden de reintegro, restablece el derecho que le fue lesionado al trabajador por la privación que tuvo de desempeñar el cargo de manera continua y recibir los emolumentos correspondientes con ocasión del mismo. Este subrogado económico corresponde en realidad a un restablecimiento del derecho proporcional y no a una indemnización patrimonial.
+
+171. Por otra parte, es del caso resaltar que en la sentencia SU-556 de 2014, la Corte
+Constitucional desconoció el carácter restringido que tiene la acción de tutela contra providencias judiciales, toda vez que ni en los procesos judiciales ni en la acción judicial se cuestionó el restablecimiento del derecho como mecanismo de reparación de los derechos fundamentales al debido proceso y a la igualdad que se declararon vulnerados, como tampoco se alegó en momento alguno la excepción de inconstitucionalidad de ese medio de control ni de la forma de reparación del daño que deviene del mismo. Ello implica que no existió debate constitucional sobre estas materias que hiciera pasible de pronunciamiento por parte del juez de tutela la forma de reparación del daño y su cuantía, por lo que la Corte tenía vedada la posibilidad de pronunciarse sobre tales aspectos, so pena de desconocer las reglas generales de procedibilidad de la acción de tutela contra providencias judiciales98, máxime cuando es el Consejo de Estado el juez natural competente de estas materias, en tanto la forma en que se repara el daño y su cuantía no hacen parte del núcleo esencial al debido proceso y a la igualdad que se declararon vulnerados, con lo cual, el requisito de relevancia constitucional no se cumplió en este caso.
+
+172. Ahora bien, la controversia no está relacionada con los descuentos de lo percibido en el sector público, ni mucho menos en lo privado. El quid del asunto está centrado en la necesidad inaplazable de limitar las indemnizaciones en este tipo de litigios, que han superado lo razonable, puesto que la tardanza en la decisión judicial (por obvias razones de congestión) ha obligado a cuantiosas condenas indemnizatorias que no son proporcionales a las expectativas propias del desempeño de un cargo en provisionalidad.
+
+98 En síntesis, los presupuestos generales (procesales) de la acción de tutela contra providencias judiciales son los siguientes, (i) el asunto debe tener relevancia constitucional; (ii) el demandante debe agotar los recursos judiciales ordinarios y extraordinarios; (iii) la acción debe interponerse de forma razonablemente inmediata a la vulneración –inmediatez-; (iv) en caso de tratarse de una irregularidad procesal, ésta debe tener incidencia directa en la decisión que resulta violatoria de los derechos fundamentales y; (v) el actor debe identificar de forma razonable los hechos que generan la violación, y debió alegarla al interior del proceso judicial impugnado, en caso de haber sido posible.
+
+<!-- pagina 42 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+173. Por todo lo anteriormente expuesto, la Sala Plena del Consejo de Estado considera que la interpretación que se ha consignado en esta sentencia de unificación efectiviza en mayor medida los derechos y principios constitucionales, por cuanto, destaca la dignidad humana y el derecho al trabajo de quien fue desvinculado y debe procurarse su mínimo vital, por un lado, y del otro, precisa unos límites al restablecimiento del derecho en estos tipos de litigios, que impide las condenas millonarias.
+
+RECAPITULACIÓN
+
+174. La Sala Plena del Consejo de Estado reitera los principales argumentos expuestos en la sentencia de unificación del 28 de julio de 1996 (S-638), los cuales fueron reproducidos en la sentencia de unificación del 29 de enero de 2008. Solo cambia la jurisprudencia en lo que respecta al baremo con el cual ha de liquidarse la condena que se llegare a ordenar a favor de quien ha sido desvinculado ilegalmente de la administración pública cuando ocupaba un cargo de carrera, en la modalidad provisional. Para tal efecto, se considera pertinente la creación jurisprudencial de la tabla guía de restablecimiento proporcional que se encuentra en párrafos precedentes, la cual sigue, en esencia, los parámetros señalados por la Corte Constitucional en las sentencias SU-556 de 2014 y SU- 054 de 2015, tal y como se indicó en párrafos precedentes.
+
+-QUINTA PARTE-
+REGLAS DE UNIFICACIÓN
+
+175. Las reglas de unificación son las siguientes:
+
+175.1
+Los provisionales desvinculados ilegalmente del servicio tendrán derecho a un restablecimiento económico proporcional, el cual podrá ser liquidado por el juez en atención al tiempo real de servicio que se demuestre en cada caso, teniendo en cuenta para el efecto el último salario devengado, de conformidad con la tabla prevista en el párrafo 150.
+
+La anterior tabla, no es óbice para que se reconozcan los demás perjuicios materiales e inmateriales que estén debidamente acreditados en cada proceso
+
+175.2
+Las cotizaciones en materia pensional se efectuarán igualmente en los intervalos definidos en las tablas, es decir, un mínimo de seis meses y un máximo de 24.
+Estas cotizaciones se pagarán al ente de previsión social y en el régimen al que esté afiliado el empleado en el porcentaje que le corresponde al empleador. Por su parte, el provisional desvinculado deberá asumir el porcentaje de cotización que está a su cargo según la ley.
+
+175.3 La orden de reintegro del provisional al cargo que venía desempeñando, cuando ello resulte factible, será concurrente con el restablecimiento
+
+<!-- pagina 43 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co proporcional, el cual se efectuará a través del reconocimiento y pago de la suma que se cuantifique conforme a la mencionada tabla.
+
+175.4 En los supuestos en que no sea posible el reintegro, por (i) desaparición de la entidad; o (ii) por supresión del cargo sin que exista uno de igual naturaleza y categoría que el que desempeñaba el demandante al momento de la desvinculación, se pagará la indemnización por compensación prevista en el artículo 189 del CPACA, en los términos señalados en el último inciso de dicha norma.
+
+175.5 No es procedente el descuento de lo devengado por el provisional por concepto de salarios y prestaciones sociales percibidos que provengan de vinculaciones públicas, privadas o ingresos independientes devengados durante el tiempo en que estuvo retirado del servicio.
+
+EFECTOS EN EL TIEMPO DE LAS REGLAS DE UNIFICACIÓN
+
+176. Ahora bien, en el sub examine, no se advierte la necesidad de dar efectos prospectivos a las reglas de unificación acá definidas, toda vez que, de una parte, estas no restringen el acceso a la administración de justicia ni afectan los derechos adquiridos o fundamentales de las partes. Así mismo, en el trámite del proceso se debatió la procedencia de los descuentos o no de lo devengado por la demandante en su cargo como defensora de familia del ICBF, es más, ello fue motivo de la apelación ante el Tribunal Administrativo de Santander por parte del ente territorial.
+
+177. Por lo anterior, se considera que las reglas de unificación contenidas en esta sentencia deben aplicarse de manera retroactiva a todos los casos pendientes de discusión tanto en vía administrativa como en vía judicial. De igual manera, debe precisarse que aquellos asuntos respecto de los cuales ya ha operado la cosa juzgada, en virtud del principio de seguridad jurídica, resultan inmodificables.
+
+-SEXTA PARTE-
+
+ANÁLISIS DEL CASO CONCRETO. SOLUCIÓN DEL RECURSO EXTRAORDINARIO DE UNIFICACIÓN
+JURISPRUDENCIAL
+
+178. De conformidad con el recurso extraordinario de unificación presentado por la parte demandante, la decisión de segunda instancia proferida por el Tribunal
+Administrativo de Santander desconoció la sentencia de unificación expedida el 29 de enero de 2008 por el Consejo de Estado, Sala Plena de lo Contencioso Administrativo, dentro del expediente radicado 76001-23-31-000-2000-02046-01(1153-04).
+
+179. Es de anotar que tal sentencia, si bien fue proferida con anterioridad a la expedición de la Ley 1437 de 2011, se encuentra dentro de las hipótesis previstas en el artículo 270 ejusdem, razón por la cual se ha considerado como sentencia de unificación. En efecto, al consultar su texto, se observa que la Sala Plena asumió el conocimiento de tal proceso, a fin de definir la contradicción o controversia que se
+
+<!-- pagina 44 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co presentaba entre la decisión proferida por la Sección Segunda el 16 de mayo de 200299 y la adoptada en 1996 por la Sala Plena de lo contencioso administrativo100.
+
+180. En el mismo sentido, se observa que la aludida sentencia de unificación fue debidamente publicada101 y notificada por edicto el 20 de febrero de 2008, cumpliéndose con ello el requisito de publicidad y que para la fecha en que se profirió la sentencia del Tribunal Administrativo de Santander (13 de septiembre de 2016)102, la posición del Consejo de Estado contenida en la sentencia del 29 de enero de 2008, atrás referida, no había sido modificada.
+
+181. Pese a ello, la sentencia del Tribunal Administrativo de Santander acogió la tesis prohijada por la Corte Constitucional en las sentencias SU-691 de 2011 y SU-556 de
+2014 en los casos de desvinculación ilegal de las personas nombradas en provisionalidad, en lo que respecta a los descuentos de los salarios y prestaciones percibidos por el desempeño de otro cargo público y, en tal virtud, ordenó el descuento de los salarios y prestaciones sociales que percibió la demandante con ocasión de la vinculación que tuvo con el ICBF, durante el tiempo que estuvo desvinculada en virtud de la declaratoria de insubsistencia del nombramiento en provisionalidad.
+
+182. Para la Sala Plena del Consejo de Estado, el Tribunal Administrativo de Santander sí se apartó de la sentencia proferida por la Sala Plena del día 29 de enero de 2008, razón por la cual prosperará el recurso extraordinario de unificación.
+
+183. Es importante advertir que el citado tribunal profirió la sentencia cumpliendo con los requisitos exigidos para el apartamiento judicial, como es el análisis del precedente vigente y la suficiencia argumentativa por la cual decidió disentir de la misma103.
+
+184. Ahora bien, pese a que no se trata de un desconocimiento grosero o contrario a derecho de la sentencia de unificación proferida por la Sala Plena de esta Corporación proferida el 29 de enero de 2008, lo anterior en armonía con el artículo 230 de la
+Constitución Política que consagra la autonomía judicial, se considera que las razones que se exponen no resultan suficientes para desvirtuar los argumentos señalados en esta providencia.
+
+DECISIÓN DEL RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA.
+
+185. Así las cosas, el recurso extraordinario de unificación de jurisprudencia interpuesto está llamado a prosperar en aplicación de la línea jurisprudencial que se reitera con las modificaciones indicadas en la parte motiva. Por lo anterior, se revocará la sentencia proferida el 13 de septiembre de 2016 por el Tribunal Administrativo de
+Santander104 en cuanto a la forma de restablecer el derecho de la demandante. En su lugar, se ordena aplicar el restablecimiento proporcional en relación con el derecho de
+
+99 Consejo de Estado. Sección Segunda. Sentencia de 16 de mayo de 2002, radicación: 19001-23-31-000-397-000-
+01(1659/01), actor: Parménides Mondragón Delgado.
+100 Consejo de Estado. Sala Plena de lo Contencioso Administrativo. Sentencia de 28 de julio de 1996, expediente núm. S-638, demandante: Gloria Marina Vanegas Castro.
+101 http://181.57.206.9:8080/WebRelatoria/Temp/reporte-20171031-501.html.
+102 Sentencia del 13 de septiembre de 2016.
+103 Ley 1437. Art. 258: Habrá lugar al recurso extraordinario de unificación de jurisprudencia cuando la sentencia impugnada contraríe o se oponga a una sentencia de unificación del Consejo de Estado.
+104 Folios 269 a 276.
+
+<!-- pagina 45 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co la demandante, para lo cual se dispone liquidar la condena que corresponde al caso concreto, teniendo en cuenta para ello el tiempo de vinculación en la condición de provisionalidad.
+
+186. Igualmente se revoca la sentencia en lo relativo a la orden de descontar lo percibido por la demandante por concepto de salarios y prestaciones sociales en otras vinculaciones laborales que hubiese tenido con el Estado. En su lugar, se ordena no realizar descuento alguno.
+
+LIQUIDACIÓN DEL CASO CONCRETO EN APLICACIÓN DE LA TABLA
+
+187. En el caso concreto y teniendo en cuenta que la demandante se desempeñó en provisionalidad en el cargo de comisaria de familia, código 202, grado 04 (ubicación planta global) del municipio de San Gil, desde el 19 de julio de 2006105 y fue desvinculada a través de la Resolución 0257 del 7 de octubre de 2009, esto es que estuvo vinculada 3 años, 2 meses y 19 días, el valor a reconocer por concepto de indemnización según los parámetros antes señalados, será la siguiente:
+
+188. Por 3 a 4 años de servicios, el valor a indemnizar será de hasta 12 salarios, los cuales se liquidarán proporcionalmente al tiempo de servicio.
+
+189. Como en este caso, trabajó 38,63 meses (equivalente a 3 años, 2 meses y 19 días de servicio), el valor a pagar corresponde a 10.73 salarios106, tiempo durante el cual también habría lugar a reconocer las correspondientes cotizaciones a pensión con fundamento en el salario devengado al momento de la desvinculación.
+
+En mérito de lo expuesto, el Consejo de Estado, Sala Plena de lo Contencioso
+Administrativo, administrando justicia en nombre de la República y por autoridad de la ley
+
+FALLA
+
+Primero: Unificar la jurisprudencia del Consejo de Estado, en el sentido de precisar lo siguiente:
+
+1. Los provisionales desvinculados ilegalmente del servicio tendrán derecho a un restablecimiento económico proporcional, el cual podrá ser liquidado por el juez en atención al tiempo real de servicio que se demuestre en cada caso, teniendo en cuenta para el efecto el último salario devengado, de conformidad con la siguiente tabla:
+
+Tiempo de servicio
+Restablecimiento proporcional
+Valor a reconocer calculado con el último salario devengado, el cual se podrá liquidar
+Pagos de la seguridad social integral (pensión), liquidados con fundamento en el salario devengado al momento de la
+
+105 Fue nombrada mediante Resolución 209 de Julio 18 de 2006 y su posesión se llevó a cabo el día 19 de ese mismo mes. Folios 3 a 4.
+106 Valor obtenido después de aplicar la siguiente fórmula: 36 meses (3 años). Igualmente, los salarios a pagar corresponderán al último salario devengado.
+
+<!-- pagina 46 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co proporcionalmente al tiempo real de servicio desvinculación, y en el porcentaje que corresponda pagar a la entidad pública, el cual se hará al fondo previsional y al régimen al cual se encuentre afiliado el demandante.
+Menos de 1 año
+Hasta 6 salarios
+Hasta 6 meses de cotizaciones
+De 1 y 2 años
+Hasta 8 salarios
+Hasta 8 meses de cotizaciones
+De 2 a 3 años
+Hasta 10 salarios
+Hasta 10 meses de cotizaciones
+De 3 a 4 años
+Hasta 12 salarios
+Hasta 12 meses de cotizaciones
+De 5 a 10 años
+Hasta 18 salarios
+Hasta 18 meses de cotizaciones
+Más de 10 años
+Hasta 24 salarios
+Hasta 24 meses de cotizaciones
+
+2. La anterior tabla, no es óbice para que se reconozcan los demás perjuicios materiales e inmateriales que estén debidamente acreditados en cada proceso.
+
+3. Las cotizaciones en materia pensional se efectuarán igualmente en los intervalos definidos en la tabla, es decir, un mínimo de seis meses y un máximo de 24. Estas cotizaciones se pagarán al ente de previsión social y en el régimen al que esté afiliado el empleado en el porcentaje que le corresponde al empleador. Por su parte, el provisional desvinculado deberá asumir el porcentaje de cotización que está a su cargo según la ley.
+
+4. La orden de reintegro del provisional al cargo que venía desempeñando, cuando ello resulte factible, será concurrente con el restablecimiento proporcional, el cual se efectuará a través del reconocimiento y pago de la suma que se cuantifique conforme a la mencionada tabla.
+5. En los supuestos en que no sea posible el reintegro, por (i) desaparición de la entidad; o (ii) por supresión del cargo sin que exista uno de igual naturaleza y categoría que el que desempeñaba el demandante al momento de la desvinculación, se pagará la indemnización por compensación prevista en el artículo 189 del CPACA, en los términos señalados en el último inciso de dicha norma.
+6. No es procedente el descuento de lo devengado por el provisional por concepto de salarios y prestaciones sociales percibidos que provengan de vinculaciones públicas, privadas o ingresos independientes devengados durante el tiempo en que estuvo retirado del servicio.
+
+Segundo: Declarar la prosperidad del recurso extraordinario de unificación presentado por la parte demandante.
+
+Tercero: Revocar la sentencia proferida el 13 de septiembre de 2016 por el Tribunal
+Administrativo de Santander107 en cuanto a la forma de restablecer el derecho de la demandante. En su lugar, se ordena pagar a título de restablecimiento proporcional el valor de 10,73 salarios tasados con base en el último salario devengado y el pago de las cotizaciones a pensión correspondientes al mismo período.
+
+107 Folios 269 a 276.
+
+<!-- pagina 47 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+
+Cuarto: Igualmente se revoca la sentencia en lo relativo a la orden de descontar lo percibido por la demandante por concepto de salarios y prestaciones sociales en otras vinculaciones laborales que hubiese tenido con el Estado. En su lugar, se ordena no realizar descuento alguno.
+
+Quinto: Advertir a la comunidad en general que las consideraciones expuestas en esta providencia en relación con los temas objeto de unificación, constituyen precedente en los términos de los artículos 10 y 102 de la Ley 1437 de 2011, para todos los casos en discusión tanto en vía administrativa como judicial, toda vez que los efectos de la presente sentencia de unificación son retroactivos, en atención a lo expuesto en la parte motiva de esta providencia.
+
+Sexto: Efectuar las anotaciones a que haya lugar en el programa informático correspondiente y ejecutoriada esta providencia devolver el expediente al despacho judicial de origen.
+
+NOTIFÍQUESE Y CÚMPLASE
+
+La anterior providencia fue discutida y aprobada por la Sala en la presente sesión.
+
+LUIS ALBERTO ÁLVAREZ PARRA ROCÍO ARAUJO OÑATE
+
+MARTÍN BERMÚDEZ MUÑOZ STELLA JEANNETTE CARVAJAL BASTO
+
+MILTON CHAVES GARCÍA OSWALDO GIRALDO LÓPEZ
+
+MYRIAM STELLA GUTIÉRREZ ARGÜELLO WILLIAM HERNÁNDEZ GÓMEZ
+
+FREDY IBARRA MARTÍNEZ SANDRA LISSETH IBARRA VÉLEZ
+
+MARÍA ADRIANA MARÍN ALBERTO MONTAÑA PLATA
+
+CARLOS ENRIQUE MORENO RUBIO CÉSAR PALOMINO CORTÉS
+
+<!-- pagina 48 -->
+Recurso extraordinario de unificación
+Calle 12 No. 7-65 – Tel: (57-1) 350-6700 – Bogotá D.C. – Colombia www.consejodeestado.gov.co
+NUBIA MARGOTH PEÑA GARZÓN CARMELO PERDOMO CUÉTER
+
+JULIO ROBERTO PIZA RODRÍGUEZ GUILLERMO SÁNCHEZ LUQUE
+
+JOSÉ ROBERTO SÁCHICA MÉNDEZ HERNANDO SÁNCHEZ SÁNCHEZ
+
+ROBERTO AUGUSTO SERRATO VALDÉS RAFAEL FRANCISCO SUÁREZ VARGAS
+
+GABRIEL VALBUENA HERNÁNDEZ PEDRO PABLO VANEGAS GIL
+
+MARTA NUBIA VELÁSQUEZ RICO NICOLÁS YEPES ARCILA

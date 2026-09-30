@@ -1,0 +1,205 @@
+{
+  "doc_id": "codigo_general_proceso",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html",
+      "sha256": "2ecd30efb8ad54139aa93b46b4c1ed452c0e1cb287f335aeac2d3dfdb09447f9",
+      "bytes": 118628,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:09-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr001.html",
+      "sha256": "4a88169996f57afc54457a3b6ecca946f2e93fa655901ef2b19ac656a7e6acc7",
+      "bytes": 109635,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:10-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr002.html",
+      "sha256": "53ec236c9d16d432bbcf9d9d8749e67513930bdd8cf88772f7c15d7310f9cd8b",
+      "bytes": 94044,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:12-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr003.html",
+      "sha256": "e5162c3eff77c004147d720e7da7e568fe23ecacdc54a7dd1f4d65a8e34cb246",
+      "bytes": 110437,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:13-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr004.html",
+      "sha256": "58f48ad449295427182851d8305975b290517adc0682dd6cce927cc870c27d24",
+      "bytes": 93931,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:15-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr005.html",
+      "sha256": "e3d7ad201b55f331d716203852a17e8dc6f2a5d566996c46dc62c11868989aea",
+      "bytes": 95819,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:16-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr006.html",
+      "sha256": "1e37544459dc554f3a4fe496e02eed41c5092d693e94d86c0e466bb1843d36d2",
+      "bytes": 88777,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:18-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr007.html",
+      "sha256": "33766d7cc5fa7acc4861fb8291be095f5234c86b981249d37b50279ad01fb454",
+      "bytes": 98709,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:19-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr008.html",
+      "sha256": "383803353d1a3e04b9aded34a37ebf092dabad75b9333d73eb0dfa39e0891122",
+      "bytes": 84247,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:21-05:00"
+    },
+    {
+      "archivo": "parte_009.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr009.html",
+      "sha256": "9756ed943df90898fcdc8044c8aae4e95c8a27d974927f8dd1311899add78446",
+      "bytes": 95659,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:22-05:00"
+    },
+    {
+      "archivo": "parte_010.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr010.html",
+      "sha256": "cb333bdc2372e9f781c1451432975d9df368344415d6476720d6c8dbe2da73ec",
+      "bytes": 105776,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:24-05:00"
+    },
+    {
+      "archivo": "parte_011.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr011.html",
+      "sha256": "36f44639e0c8724e6af2d468a7abdd9b68699abe4271f17d909d8b194610143c",
+      "bytes": 102482,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:25-05:00"
+    },
+    {
+      "archivo": "parte_012.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr012.html",
+      "sha256": "fb14bbdba2313b34bb228f9967b602a27f6252ecba1a147f7bf1c621e12c8207",
+      "bytes": 91335,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:27-05:00"
+    },
+    {
+      "archivo": "parte_013.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr013.html",
+      "sha256": "41c9340ca02a844c5ed6953b7946e2a818263de3929f91ad6d3fa004a472c2da",
+      "bytes": 146333,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:28-05:00"
+    },
+    {
+      "archivo": "parte_014.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr014.html",
+      "sha256": "dd849651de0a6bf4aeade69d3075d9ced4ee1e14b3caba1fe5f40e3f32492806",
+      "bytes": 101250,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:30-05:00"
+    },
+    {
+      "archivo": "parte_015.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr015.html",
+      "sha256": "a7a54941068cb75b4f81534478f017a0c84b527e5285f4d3cb46d59d61945808",
+      "bytes": 113497,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:31-05:00"
+    },
+    {
+      "archivo": "parte_016.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr016.html",
+      "sha256": "cf74eef3ff35f216f4dab4723487b8a2e8eb51fd07d50998be1fd378cf13fd2f",
+      "bytes": 116155,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:33-05:00"
+    },
+    {
+      "archivo": "parte_017.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr017.html",
+      "sha256": "8a9cddf88abb157284216b56e89597b1d3543ad225dff338293e6ee6a1cabaa9",
+      "bytes": 107018,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:34-05:00"
+    },
+    {
+      "archivo": "parte_018.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr018.html",
+      "sha256": "825ec911b1374151d01f73327bf786d1fc3db0d8b63582d48e383de4b4280787",
+      "bytes": 133956,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:36-05:00"
+    },
+    {
+      "archivo": "parte_019.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr019.html",
+      "sha256": "91d7056aacd43ee8a25c3725d7413cb3bd3c3dd556330c9f98e3b9d1e8a0d827",
+      "bytes": 185010,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:37-05:00"
+    },
+    {
+      "archivo": "parte_020.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr020.html",
+      "sha256": "0a449aad92a536d91d20c2f0b410b929b072906f6ff9ffa5aeb837fc70a120cf",
+      "bytes": 129141,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:39-05:00"
+    },
+    {
+      "archivo": "parte_021.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012_pr021.html",
+      "sha256": "0d914eaaecbeaabca5c5261b4f87a65b1333e6619e50b5a4c850ffaa6add37bb",
+      "bytes": 118563,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:17:40-05:00"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "doc_id": "ley_2294_2023",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023.html",
+      "sha256": "6870000acffe9a884f8cbeb1dbbf5d324f66b7e9bff7cba224931b3821db9c0d",
+      "bytes": 148128,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:07-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr001.html",
+      "sha256": "32b8195bcf655e9c67150e07f10edca2df6b6b0790e0f842637a6b36a8dc35c7",
+      "bytes": 155818,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:09-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr002.html",
+      "sha256": "173e1492a14e5a21264835d32e1caa1d639bf589a44d8a04e2f310f7b0617bbe",
+      "bytes": 135344,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:10-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr003.html",
+      "sha256": "8f5213ce75e0210032cabab724911e983244cd14667a2c744819de409ab87372",
+      "bytes": 135732,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:12-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr004.html",
+      "sha256": "888e41c13e30903dff4a1428eadeea06f300c5a18b31c459a6daea665b014723",
+      "bytes": 172269,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:13-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr005.html",
+      "sha256": "be349b90c61570aa8276c6c6587e1475219b1096d4c4f26f7d665e3816059f17",
+      "bytes": 148615,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:15-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr006.html",
+      "sha256": "dce3f07032a549a254be2986289780443d121590a17c1e38c83660f0854c9995",
+      "bytes": 122823,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:16-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr007.html",
+      "sha256": "a248834f993f1e263db3bff616c9bbf9ec0e24a24399f626051a1493410127b2",
+      "bytes": 140873,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:18-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr008.html",
+      "sha256": "79d8f0ffaf45f6846d31ba65258eb351eec02643667c946d2b4f8c197b5af108",
+      "bytes": 121545,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:19-05:00"
+    },
+    {
+      "archivo": "parte_009.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr009.html",
+      "sha256": "8199f33438eb14cd6766c3dff7b8bc7f42eb663ba5b70f29e7b2610f1fa142a5",
+      "bytes": 116994,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:21-05:00"
+    }
+  ]
+}

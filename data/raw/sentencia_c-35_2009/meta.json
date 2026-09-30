@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-35_2009",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2009/c-035-09.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2009/c-035-09.htm",
+      "sha256": "bae27d90b33946bbc5b113a181726205144e3808220a0358383541f38d7faeb0",
+      "bytes": 220182,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:31-05:00"
+    }
+  ]
+}

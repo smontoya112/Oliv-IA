@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-145_2018",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-145-18.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-145-18.htm",
+      "sha256": "2bbe08cc9c23f2df1b89610e4bf6782e718e0089a095d68e73e04e14409f0351",
+      "bytes": 319178,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:22:43-05:00"
+    }
+  ]
+}

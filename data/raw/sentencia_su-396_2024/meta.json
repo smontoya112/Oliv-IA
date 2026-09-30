@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-396_2024",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2024/SU396-24.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2024/SU396-24.htm",
+      "sha256": "20914fd055d5ee0b3e80c67b99ca533104c4ae71083e681b569260c057833c7a",
+      "bytes": 963812,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:24:04-05:00"
+    }
+  ]
+}

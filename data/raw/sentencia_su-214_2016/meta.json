@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-214_2016",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2016/SU214-16.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2016/SU214-16.htm",
+      "sha256": "1644d3af32b02571b2f8ba0305170c3282b6849def6197df16c2c8ad38b1a85b",
+      "bytes": 2557156,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:21:03-05:00"
+    }
+  ]
+}

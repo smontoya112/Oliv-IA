@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_su-149_2021",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/SU149-21.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2021/SU149-21.htm",
+      "sha256": "7ae08dd75f005f2b24840b46e1a1e2b9e47cc773dd59183cb921ce277b1eee56",
+      "bytes": 520097,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:54-05:00"
+    }
+  ]
+}

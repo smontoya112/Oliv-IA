@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_sc_18392_2017",
+  "url": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/ci/bnov2017/SC18392-2017%20(2011-00081-01).doc",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/ci/bnov2017/SC18392-2017%20(2011-00081-01).doc",
+      "sha256": "7e5f9e62ea37e2ebf75ff81a7379be0d00b0493c427d5f6e436cafa318969dd7",
+      "bytes": 381952,
+      "content_type": "application/msword",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:37-05:00"
+    }
+  ]
+}

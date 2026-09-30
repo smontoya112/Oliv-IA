@@ -1,0 +1,16 @@
+{
+  "doc_id": "sentencia_c-459_2023",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-459-23.htm",
+  "tipo": "html",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-459-23.htm",
+      "sha256": "2f09f2c6f6b57ac1890a6efcde57ebcb1f8d6d5a5fa9a125c3e2c276014d6f21",
+      "bytes": 377065,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:23:18-05:00"
+    }
+  ]
+}

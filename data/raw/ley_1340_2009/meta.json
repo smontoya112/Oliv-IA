@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1340_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1340_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1340_2009.html",
+      "sha256": "844dc68acdf6308e248a506dd4740fb83fcdbdaee450d09c097a4e4a7d9b2fee",
+      "bytes": 79883,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:20:10-05:00"
+    }
+  ]
+}

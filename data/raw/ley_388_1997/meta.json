@@ -1,0 +1,43 @@
+{
+  "doc_id": "ley_388_1997",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997.html",
+      "sha256": "9a792ba14bab5f5ce64a48026c83d25a80fe51351bb152d3afe68212fd91f73b",
+      "bytes": 145062,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:22-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997_pr001.html",
+      "sha256": "8b2954b5c02e840d8fac9e6e64e5a319ffe470523009d98d321fd3893021fc91",
+      "bytes": 126573,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:24-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997_pr002.html",
+      "sha256": "81ad63ba02f59880aeed3226b7af142fc4acf6eb8fac090c81dbce81270a5868",
+      "bytes": 109783,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:25-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997_pr003.html",
+      "sha256": "1ef9fc2b0c451603f0d7869200fc1edfafa8eaaeb48a67c471a989408790194f",
+      "bytes": 31188,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T21:28:27-05:00"
+    }
+  ]
+}

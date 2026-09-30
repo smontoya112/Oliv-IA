@@ -1,0 +1,3045 @@
+---
+{
+  "doc_id": "sentencia_c-459_2023",
+  "titulo": "Sentencia C-459 de 2023",
+  "fuente": "Relatoría de la Corte Constitucional",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-459-23.htm",
+  "fecha_consulta": "2026-09-29",
+  "areas": [
+    "constitucional"
+  ],
+  "tipo_norma": "sentencia",
+  "numero": "C-459",
+  "anio": 2023,
+  "organo_emisor": "Corte Constitucional",
+  "canonico": [
+    "jurisprudencia",
+    "C-459",
+    "2023"
+  ],
+  "items_del_banco": 1,
+  "formato_origen": [
+    "html"
+  ],
+  "codificacion": [
+    "cp1252"
+  ],
+  "ocr": false,
+  "n_partes": 1,
+  "urls_partes": [
+    "https://www.corteconstitucional.gov.co/relatoria/2023/C-459-23.htm"
+  ],
+  "sha256_partes": [
+    "2f09f2c6f6b57ac1890a6efcde57ebcb1f8d6d5a5fa9a125c3e2c276014d6f21"
+  ],
+  "fecha_actualizacion_fuente": null,
+  "n_caracteres": 145207,
+  "n_articulos_detectados": 8,
+  "archivo_md": "md/sentencia_c-459_2023.md",
+  "metadata_autocompletada": [
+    "numero"
+  ]
+}
+---
+
+<!-- parte parte_000.html | https://www.corteconstitucional.gov.co/relatoria/2023/C-459-23.htm -->
+C-459-23
+
+---
+
+**LEY
+APROBATORIA DEL CONVENIO MARCO DE COOPERACIÓN ENTRE COLOMBIA Y ESPAÑA-**Inexequibilidad
+por incumplimiento del análisis de impacto fiscal
+
+*(…)
+la Corte consideró necesario (i) declarar la inexequibilidad de la Ley 2274 de
+2022, aprobatoria del “Convenio Marco de Cooperación entre la República de
+Colombia y el Reino de España” y, (ii) exhortar al Gobierno nacional a radicar,
+lo más pronto posible, el proyecto de ley aprobatorio del Convenio ante el
+Congreso de la República, incorporando el respectivo análisis del impacto
+fiscal, en consideración a la importancia de la cooperación entre el Reino de
+España y la Republica de Colombia.* *Se evidenció que, ni al
+presentar el proyecto de ley que dio origen a la Ley 2274 de 2022 ni durante su
+trámite legislativo, el Gobierno nacional presentó un análisis relativo al
+impacto fiscal de los beneficios tributarios previstos en el Convenio; lo que
+impidió que el Congreso de la República conociera de manera suficiente los
+efectos de la aprobación de la ley.*
+
+**TRATADOS
+INTERNACIONALES-**Control tripartito en su incorporación
+
+**CONTROL
+DE CONSTITUCIONALIDAD DE LEY APROBATORIA DE TRATADO-**Características
+
+**CONTROL
+DE CONSTITUCIONALIDAD EN MATERIA DE TRATADOS Y LEYES APROBATORIAS DE TRATADOS-**Control
+formal y material
+
+**CONTROL
+FORMAL DE CONSTITUCIONALIDAD DE TRATADOS INTERNACIONALES Y LEYES APROBATORIAS
+DE TRATADOS-**Aspectos que comprende
+
+**CONTROL
+DE CONSTITUCIONALIDAD DE TRATADO INTERNACIONAL Y LEY APROBATORIA-**Negociación,
+celebración y aprobación ejecutiva
+
+**ANALISIS
+DE IMPACTO FISCAL DE LAS NORMAS-**Contenido y alcance
+
+**ANÁLISIS
+DE IMPACTO FISCAL EN TRÁMITE LEGISLATIVO-**Mandatos
+
+**REQUISITO
+DE ANÁLISIS DE IMPACTO FISCAL EN PROYECTO DE LEY APROBATORIA DE TRATADO
+INTERNACIONAL QUE ORDENE GASTOS O CONTENGA BENEFICIOS TRIBUTARIOS-**Exigibilidad
+
+*Acorde
+con lo considerado por la Corte en la Sentencia C-175 de 2023, la exigencia del
+análisis del impacto fiscal de las leyes aprobatorias de tratados
+internacionales depende de que se acrediten dos presupuestos; (i) el material,
+referido a que alguna de las disposiciones del tratado analizado contenga una
+orden de gasto o conceda un beneficio tributario y (ii) el temporal, consistente
+en que el proyecto de ley aprobatoria del tratado internacional haya sido
+radicado con posterioridad al 30 de julio de 2021, fecha en la cual la
+Sentencia C-170 de 2021 fue notificada.*
+
+**REQUISITO
+DE ANÁLISIS DE IMPACTO FISCAL EN PROYECTO DE LEY APROBATORIA DE TRATADO
+INTERNACIONAL QUE ORDENE GASTOS O CONTENGA BENEFICIOS TRIBUTARIOS-**Supuesto
+temporal
+
+**REQUISITO
+DE ANÁLISIS DE IMPACTO FISCAL EN PROYECTO DE LEY APROBATORIA DE TRATADO
+INTERNACIONAL QUE ORDENE GASTOS O CONTENGA BENEFICIOS TRIBUTARIOS-**Incumplimiento
+constituye vicio insubsanable
+
+**CONTROL
+DE CONSTITUCIONALIDAD DE TRATADO INTERNACIONAL Y LEY APROBATORIA-**Control
+integral
+
+*(...)
+teniendo en cuenta que, en el caso en el caso sub examine, el Congreso impartió
+una aprobación global e íntegra del acuerdo internacional, “no le es posible a
+la Corte desagregar esa decisión legislativa para resolver de manera parcial
+una decisión de inexequibilidad por vicio de forma.” En efecto, “los tratados
+deben concebirse, analizarse y discutirse en su integridad, como una unidad de
+sentido normativo. Su aprobación por el Congreso y la revisión previa de la
+Corte deben realizarse sobre la integralidad del tratado, y no escindirse en
+fragmentos aislados”;lo cual no obsta para que la Corte, en ejercicio de sus competencias,
+declare, como lo ha hecho, la inexequibilidad por vicios materiales de
+cláusulas o expresiones determinadas de los tratados, sin que la decisión
+repercuta en la totalidad del instrumento internacional en cuestión.*
+
+**EXHORTO-**Gobierno Nacional
+
+REPÚBLICA
+DE COLOMBIA
+
+CORTE
+CONSTITUCIONAL
+
+Sala
+Plena
+
+Sentencia
+C-459 de 2023
+
+Referencia:
+Expediente LAT-485
+
+Revisión oficiosa de la Ley
+2274 del 5 de noviembre de 2022, *“por medio de la cual se aprueba el
+‘Convenio Marco de Cooperación entre la República de Colombia y el Reino de
+España’, suscrito en Madrid, Reino de España, el 3 de marzo de 2015”*.
+
+**Magistrada
+ponente:**
+
+DIANA
+FAJARDO RIVERA
+
+Bogotá D.C., primero
+(1°) de noviembre de dos mil veintitrés (2023)
+
+La Sala Plena de
+la Corte Constitucional, en ejercicio de sus competencias constitucionales y de
+los requisitos y trámites establecidos en el Decreto 2067 de 1991, ha proferido
+la siguiente
+
+**SENTENCIA**
+
+Dentro
+del proceso de revisión de constitucionalidad de la Ley 2274 del 5 de noviembre de 2022, *“por medio de la cual
+se aprueba el ‘Convenio Marco de Cooperación entre la República de Colombia y
+el Reino de España’, suscrito en Madrid, Reino de España, el 3 de marzo de
+2015”*.
+
+**I. ANTECEDENTES**
+
+1.
+De
+acuerdo con lo previsto en el numeral 10 del artículo 241 de la Constitución
+Política, el 15 de noviembre de 2022, la Secretaría Jurídica de la Presidencia
+de la República remitió a esta Corporación una fotocopia autenticada de la Ley
+2274 del 5 de noviembre de 2022,[1]
+para su revisión constitucional.[2]
+
+2.
+La
+Magistrada sustanciadora, mediante Auto del 2 de diciembre de 2022,[3]
+avocó el conocimiento del proceso y dispuso la práctica de pruebas. En primer
+lugar, ofició a los secretarios generales del Senado de la República y de la
+Cámara de Representantes para que, dentro de los diez (10) días siguientes a la
+notificación del proveído, enviaran a la Corte copia del expediente legislativo
+correspondiente y la certificación expresa sobre: *(i)* las fechas de las
+publicaciones, las sesiones correspondientes, el quórum deliberatorio y
+decisorio, así como las mayorías y votaciones con las cuales se discutió y
+aprobó el proyecto de ley en las distintas etapas, en comisiones y en
+plenarias, haciendo referencia sobre la modalidad de votación utilizada en cada
+una de las etapas del trámite legislativo; *(ii)* el día en que se efectuó
+el anuncio de votación, el día que se realizó la votación, así como el número y
+fecha de las actas y las gacetas del Congreso donde consten dichas actuaciones;
+y *(iii)* el día en que se efectuó la publicación y los números y fechas
+de las actas y las gacetas del Congreso correspondientes. En segundo lugar,
+ofició al Ministerio de Relaciones Exteriores para que, dentro de los diez (10)
+días siguientes a la notificación del proveído, certificara quiénes
+suscribieron a nombre de Colombia el instrumento internacional materia de
+revisión, cuáles eran sus poderes y si sus actos fueron confirmados por el Presidente
+de la República.
+
+3.
+Además,
+ordenó *(i)* correr traslado por treinta (30) días a la Procuradora
+General de la Nación, una vez recibidas las pruebas; *(ii)* simultáneamente
+fijar en lista el proceso durante el término de diez (10) días, para que
+cualquier ciudadano la impugne o la defienda; y (iii) comunicar la iniciación
+del proceso al Presidente de la República y al Presidente del Congreso, para
+los fines del artículo 244 de la Constitución Política, así como al Ministro de
+Relaciones Exteriores, para los efectos señalados en el artículo 11 del Decreto
+Ley 2067 de 1991.
+
+4.
+Finalmente,
+resolvió, para los efectos previstos en el artículo 13 del Decreto Ley 2067 de
+1991, comunicar el proveído al Ministerio de Hacienda y Crédito Público, al
+Ministerio de Educación Nacional, al Departamento Nacional de Planeación, al
+Departamento de Prosperidad Social y a la Agencia Presidencial de Cooperación
+Internacional de Colombia, así como a las universidades Nacional de Colombia,
+de los Andes, Externado de Colombia, del Rosario, de la Sabana, Javeriana,
+Eafit, para invitarlos a rendir concepto sobre la constitucionalidad de la ley
+que aquí se estudia.
+
+5.
+A
+través de los autos del 1° de marzo[4]
+y 28 de abril de 2023,[5]
+respectivamente, la Magistrada sustanciadora insistió en algunos requerimientos
+probatorios realizados con anterioridad[6] y
+decretó la práctica de pruebas relacionadas con el análisis del impacto fiscal
+durante el trámite del proyecto legislativo, tras constatar la aplicabilidad de
+la regla de decisión fijada a partir de la Sentencia C-170 de 2021.[7]
+
+6.
+El
+29 de mayo de 2023, recibidas y calificadas las pruebas decretadas en el Auto
+del 2 de diciembre de 2022, la Magistrada sustanciadora remitió el expediente a
+la Secretaría General de la Corte para continuar con el trámite respectivo, de
+conformidad con lo previsto en el mencionado auto. Así, el 1° de junio de 2023,
+la Secretaría General de la Corte Constitucional fijó en lista el presente
+proceso por el término de diez (10) días.
+
+7.
+Cumplidos
+los trámites constitucionales y legales propios de esta clase de juicios, y
+previo concepto de la Procuradora General de la Nación, procede la Corte a
+realizar el estudio de constitucionalidad del instrumento internacional y de su
+ley aprobatoria.
+
+**II. TEXTO DE LA NORMA BAJO EXAMEN**
+
+8.
+La
+Ley 2274 del 5 de noviembre de 2022,
+*“por medio de la cual se aprueba el ‘Convenio Marco de Cooperación entre la
+República de Colombia y el Reino de España’, suscrito en Madrid, Reino de
+España, el 3 de marzo de 2015”* se encuentra integrada por tres artículos.
+Su contenido es el siguiente:
+
+“**ARTÍCULO
+PRIMERO:** Apruébese el *‘Convenio
+Marco de Cooperación entre la República de Colombia y el Reino de España’* suscrito en Madrid, Reino de España, el 3
+de marzo de 2015.
+
+**ARTÍCULO SEGUNDO:** De conformidad con lo dispuesto en el artículo 1° de la Ley
+7ª de 1944, el *‘Convenio Marco de Cooperación entre la República
+de Colombia y el Reino de España’*, suscrito en
+Madrid, Reino de España, el 3 de marzo de 2015, que por el artículo primero de
+esta Ley se aprueba, obligará a la República de Colombia a partir de la fecha
+en que se perfeccione el vínculo internacional respecto del mismo.
+
+**ARTÍCULO
+TERCERO:**
+La presente Ley rige a partir de la fecha de su publicación.”
+
+9.
+El
+Convenio que es objeto de aprobación se reproduce en su integridad como Anexo
+de esta sentencia.
+
+**III.
+INTERVENCIONES**
+
+10.
+Dentro del proceso se recibieron los conceptos e
+intervenciones que se sintetizan a continuación.
+
+11.
+***Departamento
+Nacional de Planeación - DNP***. El Coordinador[8]
+del Grupo de Asuntos Judiciales del DNP, actuando como delegado para
+representarlo judicialmente, rindió concepto solicitando la declaratoria de
+exequibilidad de la Ley 2274 de 2022, por las razones que se resumen a continuación.
+
+12.
+Precisa
+que el Plan Director de la Cooperación Española, de carácter cuatrienal, *“(…)
+constituye el elemento básico de planificación en el que se establecen los
+objetivos y prioridades sectoriales y geográficas para la Cooperación Española,
+así como los criterios de intervención a observar en la ejecución de la
+política de desarrollo.”**[9]***
+Por su parte, los Marcos de Asociación País (MAP) son documentos estratégicos
+orientados a planificar la cooperación española en los países de asociación. En
+el contexto colombiano, el MAP vigente comprende el periodo 2020-2024 y se
+centra en las siguientes líneas de acción: *(i)* fenómeno migratorio; *(ii)*
+desarrollo rural; *(iii)* equidad de género; *(iv)* empleabilidad; y *(v)*
+estabilización y democracia participativa local.
+
+13.
+Refiere
+que el DNPha venido participando en la Comisión de Planificación,
+Seguimiento y Evaluación del MAP y que, además, presta apoyo técnico
+relacionado con las prioridades establecidas en el Plan Nacional de Desarrollo
+- PND. Asimismo, indica que, en el marco de las competencias conferidas en el
+Decreto 603 de 2022,[10] ha
+venido apoyando técnicamente a la Cancillería en la negociación, seguimiento y
+evaluación de los MAP con España.
+
+14.
+Resalta
+que las funciones atribuidas al DNP, en el marco del Convenio objeto de
+revisión, se encuentran alineadas con el Decreto 1068 de 2015,[11]
+el cual establece el marco normativo sobre las operaciones de crédito y la
+emisión de autorizaciones, y con el Decreto 1989 de 2021,[12]
+conforme al cual al DNP le corresponde proponer las medidas necesarias para
+lograr el cumplimiento del Plan Nacional de Desarrollo, de acuerdo con la
+capacidad de endeudamiento de la Nación en coordinación con el Ministerio de
+Hacienda y Crédito Público.
+
+15.
+Teniendo
+en cuenta que el Convenio contempla la cooperación para el desarrollo, la
+acción humanitaria y de emergencia y la educación como las principales áreas de
+cooperación entre ambos países, manifiesta que el Programa de Cooperación
+Colombo-Hispano se puede estructurar conjuntamente con el plan nacional de
+desarrollo, toda vez que se relaciona con algunos componentes allí
+desarrollados.
+
+16.
+En
+ese orden de ideas, considera que podría *(i)* contemplarse una asistencia
+técnica o un intercambio de modelos y buenas prácticas en el manejo y atención
+de los altos flujos migratorios que han recibido ambos países durante los
+últimos años; *(ii)* buscarse un aumento en la cooperación financiera no
+reembolsable para la atención humanitaria de los migrantes venezolanos con
+vocación de permanencia en el país; y *(iii)* proponerse una cooperación
+para el desarrollo orientada hacia la modernización de la infraestructura del
+país, con especial énfasis en las regiones fronterizas.
+
+17.
+En
+esa misma línea y dadas las implicaciones de la paz total, considera factible
+ratificar y profundizar el apoyo político de España a los diversos procesos de
+negociación que pretende adelantar la actual administración con los grupos
+armados organizados, además de asegurar su contribución financiera no
+reembolsable a los proyectos y programas sociales que se deriven de la
+culminación de estos diálogos de paz, sea a través de AECID, el Fondo Europeo
+para la Paz y/o el Fondo Multidonante de Naciones Unidas. Además, se podría
+proponer que la colaboración interuniversitaria y la movilidad académica que se
+desprende de la paz total favoreciera áreas de estudio como: la resolución de
+conflictos, el desarrollo territorial, la cooperación internacional, los
+estudios de paz, los procesos de integración, entre otros.
+
+18.
+Concluye
+que por parte del DNP no se tiene objeción alguna respecto al articulado de la
+norma objeto de revisión de constitucionalidad.
+
+19.
+***Ministerio
+de Hacienda y Crédito Público***. El Asesor[13]
+del Despacho del Ministro de Hacienda y Crédito Público, actuando como su
+delegado, rindió concepto solicitando la declaratoria de exequibilidad de la Ley 2274 de
+2022, en los siguientes términos.
+
+20.
+Precisa
+que el Convenio viene antecedido del análisis y aprobación del Gobierno
+nacional en cuanto a su impacto fiscal y que es producto de trabajos de
+concertación previos que se ven reflejados en su articulado y en la solicitud
+de aprobación que se formuló ante el Legislador. Por consiguiente, el
+instrumento refleja la voluntad del Gobierno nacional de adoptar su contenido.
+
+21.
+Indica
+que, en el contexto de las relaciones internacionales, los instrumentos de
+cooperación bilateral son compatibles con el ordenamiento constitucional, de
+conformidad con los mandatos contenidos en los artículos 226 y 227 de la
+Constitución Política, en la medida en que materializan los siguientes deberes
+constitucionales en cabeza del Estado: *(i)* la internacionalización de
+las relaciones políticas, económicas, sociales y ecológicas sobre bases de
+equidad, reciprocidad y conveniencia nacional; y *(ii)* el impulso de la
+integración económica, social y política con las demás naciones.
+
+22.
+Refiere
+que los convenios de cooperación entre dos o más Estados, son tratados marco
+que se limitan a imponer a las partes la obligación de impulsar la cooperación
+en determinadas áreas y *“(…) a establecer parámetros generales conforme a
+los cuales se deberán proponer, acordar y ejecutar los proyectos o programas de
+cooperación específicos*”; lo que supone la inclusión de cláusulas en las
+que se faculta a las partes para celebrar, en el futuro, “*acuerdos o
+convenios complementarios en los cuales se vierten los programas o proyectos de
+cooperación concretos.”**[14]***
+
+23.
+Advierte
+que con el Convenio se promueven las relaciones internacionales, pues su objeto
+es establecer un marco jurídico y de entendimiento para la identificación,
+desarrollo, ejecución y evaluación de las políticas, programas y proyectos, en
+las siguientes áreas de cooperación: cooperación para el desarrollo, acción
+humanitaria y de emergencia desde gestión del riesgo, educación para el
+desarrollo y sensibilización, entre otras.
+
+24.
+Resalta
+que para contribuir al propósito del convenio y a la ejecución de los proyectos
+y programas de cooperación, se acordaron medidas relacionadas con: *(i)*
+exenciones de derechos aduaneros y tributos o gravámenes para los bienes y servicios
+que se adquieren para su puesta en marcha; y *(ii)* privilegios en cabeza
+del personal cooperante y del director coordinador de las Unidades de
+Cooperación en el Exterior de AECID, que remiten a la aplicación de la
+Convención de Viena sobre relaciones diplomáticas y suponen la exención de
+todos los impuestos y gravámenes personales o reales, nacionales, regionales o
+municipales, salvo las excepciones establecidas expresamente.
+
+25.
+Manifiesta
+que dichas inmunidades y privilegios son beneficios tributarios y aduaneros
+acordados por los Estados contratantes que normalmente suelen concederse en el
+marco de estos instrumentos internacionales de cooperación, para “*facilitar
+la ejecución de las políticas, programas y proyectos de cooperación entre los
+Estados parte del Convenio.*”[15]
+
+26.
+En
+punto de ello, identifica las siguientes disposiciones relacionadas con
+exoneraciones tributarias: *(i)* el artículo 11 establece que la Parte
+colombiana exonerará del pago de derechos aduaneros, impuestos de importación,
+IVA y aquellas otras tasas y gravámenes de índole nacional a las compras,
+adquisiciones y servicios realizados en los proyectos y programas financiados
+por la AEGID; y *(ii)* el artículo 12 le aplica al personal cooperante y
+al Director coordinador de las Unidades de Cooperación en el Exterior de AECID,
+los privilegios e inmunidades que prevé la Convención de Viena sobre Relaciones
+Diplomáticas de 1961 para el personal administrativo y técnico.
+
+27.
+Considera
+que dichas disposiciones no vulneran el artículo 294 superior,[16]
+en la medida en que no afectan impuestos territoriales y promueven la
+destinación eficiente de los recursos, al exonerar de impuestos y derechos
+aduaneros las compras, adquisiciones y servicios realizados en los proyectos y
+programas financiados por la AEGID, así como traen ventajas fiscales al
+personal cooperante. Añade que, en desarrollo de los artículos 150 y 338 de la
+Constitución Política, el Legislador puede adoptar regímenes tributarios
+especiales en el contexto de las relaciones internacionales, medida que ha sido
+considerada compatible con el ordenamiento constitucional por la Corte
+Constitucional. En particular, hace referencia a la Sentencia C-170 de 2021.[17]
+
+28.
+Precisa
+que, conforme a la práctica internacional, el Estado colombiano ha otorgado
+exenciones tributarias y aduaneras a bienes y servicios destinados a proyectos
+y programas, así como a miembros de misiones diplomáticas, organismos
+internacionales y misiones diplomáticas y consulares, en desarrollo del
+principio de reciprocidad en las relaciones internacionales consignado en la
+Convención de Viena sobre Relaciones Diplomáticas de 1961 y en la Convención de
+Viena sobre Relaciones Consulares de 1963.
+
+29.
+Advierte
+que los beneficios y exenciones tributarias consagrados en el Convenio, tienen
+origen en la ley o tratado internacional y son de carácter restrictivo, pues “*se
+aplican a la persona, acto, actividad o contrato, bien o servicio para la cual
+fueron establecidas.*”[18] En esa
+medida y teniendo en cuenta que se fundamentan en el principio de reciprocidad
+en el manejo de las relaciones internacionales, considera que se ajustan a la
+Constitución Política.
+
+30.
+Adicionalmente,
+manifiesta que el Congreso de la República “*pudo realizar el debate del
+proyecto con suficiente ilustración y, por tanto, no se obstaculizó su labor
+legislativa*” y que, en todo caso, la implementación del Convenio está
+supeditada a la disponibilidad presupuestal de recursos que puedan ser
+apropiados para tal fin, acorde con las restricciones que impone el Marco
+Fiscal de Mediano Plazo y con las proyecciones de gasto de mediano plazo de
+cada sector involucrado en su ejecución; con lo cual, se satisfacen las
+exigencias del artículo 7[19] de la
+Ley 819 de 2003.[20]
+
+31.
+En
+punto de ello, precisa que en la ley anual de presupuesto se asignan los
+recursos a las entidades que hacen parte del Presupuesto General de la Nación,
+en forma global, y que cada una de ellas los distribuyen de acuerdo con sus
+necesidades de gasto y priorización. Indica que, en efecto, al Gobierno
+nacional le compete incorporar las partidas autorizadas en el proyecto de
+presupuesto, con base en los anteproyectos que presentan los órganos que lo
+conforman, de acuerdo con las disponibilidades presupuestales y sus
+prioridades, así como con los objetivos del Plan Nacional de Desarrollo,
+repartiendo las competencias entre la Nación y las entidades territoriales. Por
+su parte, los ministerios de cada sector priorizan los recursos para atender
+los gastos y los techos indicativos para funcionamiento e inversión, según lo
+establecido en el Marco de Gasto de Mediano Plazo de cada Sector y las metas
+del PND.
+
+32.
+Además,
+refiere que, en el marco del Convenio de la referencia, a la Dirección General
+de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito
+Público le corresponde, a través de la Subdirección de Financiamiento con
+Organismos Multilaterales y Gobiernos, coordinar las autorizaciones de
+endeudamiento para la Nación y de las entidades que requieran su garantía, para
+el financiamiento de los proyectos que, de cualquier modo, deben ser
+priorizados por el Departamento Nacional de Planeación.
+
+33.
+Por
+último, advierte que *(i)* según el principio de instrumentalidad de las
+formas procesales, “*estas no tienen un valor en sí mismo y deben
+interpretarse teleológicamente al servicio de un fin sustantivo*”, lo cual
+cobra plena vigencia frente a la interpretación de las reglas que gobiernan la
+aprobación de las leyes; *(ii)* ni siquiera “*las normas
+constitucionales relativas al trámite legislativo pueden interpretarse en el
+sentido de que su función sea la de entorpecer e impedir la expedición de
+leyes, o dificultar la libre discusión democrática en el seno de las
+corporaciones representativas, pues ello equivaldría a desconocer la primacía
+de lo sustancial sobre lo procedimental*”; *(iii)* así existan vicios
+en el proceso de formación de la ley que no hayan sido convalidados en el
+trámite legislativo, estos pueden ser subsanados por la Corte Constitucional,
+al pronunciarse sobre la norma en cuestión; y (iv) “*la gravedad del vicio no
+tiene incidencia directa sobre las posibilidades de saneamiento o convalidación
+del mismo.*”[21]
+
+34.
+Concluye
+que en el caso *sub examine* se cumplió con el parámetro de racionalidad
+legislativa y la garantía de los principios constitucionales que subyacen a las
+exigencias del artículo 7 de la Ley 819 de 2003, en aras de valorar el
+aseguramiento del orden de las finanzas públicas, la estabilidad macroeconómica
+y la aplicación efectiva de la ley de cara al Convenio sometido a la aprobación
+del Congreso de la República. Además, reitera que la implementación del
+Convenio tendría que armonizarse con las restricciones del Marco Fiscal de
+Mediano Plazo y que cualquier eventual costo que pudiera ocasionar su
+implementación debe incluirse en las proyecciones de gastos de mediano plazo de
+cada sector involucrado en su ejecución.
+
+35.
+En
+ese sentido, resalta que una decisión de la Corte Constitucional que no se
+compadezca con las consideraciones precedentes implicaría frustrar el esfuerzo
+del Gobierno nacional y del Congreso de la República, “*mediante el cual se
+materializó el artículo 334 Superior, según el cual la sostenibilidad fiscal
+debe orientar a las ramas y órganos del poder público, dentro sus competencias,
+en un marco de colaboración armónica.*”
+
+36.
+***Agencia
+Presidencial de Cooperación Internacional de Colombia – APC - Colombia***. La Directora General[22]
+rindió concepto solicitando la declaratoria de exequibilidad de la Ley 2274 de
+2022, conforme se precisa enseguida.
+
+37.
+Indica
+que la cooperación internacional es un instrumento político de relacionamiento
+internacional que permite, en sus diferentes modalidades, profundizar la
+colaboración entre países a través de procesos del desarrollo, mediante la
+transferencia de recursos técnicos y financieros entre diversos actores del
+sistema internacional, con miras a contribuir en el desarrollo económico,
+social y medio ambiental de los asociados. En ese sentido, estima que la
+cooperación internacional contribuye al posicionamiento del país ante
+instancias globales, multilaterales y regionales, así como a la diversificación
+de la agenda de política exterior para atender las demandas de diferentes
+sectores en el desarrollo nacional.
+
+38.
+Precisa
+que la cooperación se puede gestionar a través de instrumentos como los
+Convenios Marco de Cooperación, cuya importancia ha sido reconocida por la
+Corte Constitucional, dado que “*obran como una plataforma para negociar
+asuntos específicos que serán objeto de tratados posteriores y permiten el
+cumplimiento efectivo de los esfuerzos de integración y desarrollo económico
+entre los Estados.*”[23]
+
+39.
+Frente
+al Convenio objeto de análisis, refiere que el mismo garantiza el principio de
+soberanía nacional y materializa los mandatos de internacionalización de las
+relaciones políticas, económicas, sociales y ecológicas sobre bases de equidad,
+reciprocidad, conveniencia nacional e integración. Además, teniendo en cuenta
+sus áreas de cooperación, este contribuye a los compromisos de la agenda
+internacional del Estado colombiano, así como a los compromisos de la Agenda
+2030 para el Desarrollo Sostenible y a las prioridades del Plan Nacional de
+Desarrollo “Colombia Potencia Mundial de la Vida”.
+
+40.
+Destaca
+el proceso de coordinación interna entre los distintos órganos y entidades
+contenido en el Convenio y resalta que, desde la creación del Sistema Nacional
+de Cooperación Internacional mediante el Decreto 603 de 2022, se ha beneficiado
+una estructurada coordinación y alineamiento de la cooperación con los objetivos
+y las políticas de desarrollo del país. En ese contexto, la APC-Colombia ha
+sido la encargada de coordinar, articular y promover la cooperación técnica y
+financiera no reembolsable que se reciba en el marco del Convenio, competencia
+que concuerda con el objetivo misional de la entidad.
+
+41.
+Por
+último, considera que el Convenio brinda las bases de trabajo articulado que
+debe existir entre la cooperación de ambos países, fortaleciendo los mecanismos
+a través de los cuales se afianza su relación.
+
+42.
+***Ministerio
+de Relaciones Exteriores.*** El Director[24]
+de Asuntos Jurídicos Internacionales de esta entidad presentó concepto
+solicitando la exequibilidad de la ley objeto de revisión, conforme a las
+siguientes consideraciones.
+
+43.
+En
+primer lugar, refiere que la cooperación internacional “*comprende todas las
+modalidades concesionales de ayuda y colaboración entre los países, que
+contribuyen a procesos de desarrollo, mediante la transferencia de recursos
+técnicos y financieros entre los diferentes actores del sistema internacional.*”[25]
+En ese sentido, esta es una política exterior que busca promover aquellas
+acciones que contribuyan al desarrollo sostenible de los Estados y a mejorar el
+nivel de vida de su población, a través del intercambio de información,
+conocimientos, tecnología, experiencias y recursos.
+
+44.
+Advierte
+que, históricamente, el Estado colombiano ha suscrito y ratificado diversos
+instrumentos internacionales en cooperación internacional. En relación con el
+Reino de España, destaca que la cooperación comenzó con la suscripción del
+Convenio Básico de Cooperación Científica y Técnica, suscrito el 27 de junio de
+1979; momento a partir del cual han sido visibles los esfuerzos por la
+configuración de una agenda de cooperación al desarrollo entre ambos países,
+que busca alinear sus intereses frente a retos que imponen los distintos
+escenarios de pobreza extrema, disparidad social, vulnerabilidad alimentaria y
+desastres medio ambientales.
+
+45.
+Resalta
+que debido al crecimiento sostenido del Producto Interno Bruto durante el año
+2010, Colombia fue catalogada por el Banco Mundial como país de renta media
+alta; lo cual supone que se ha alcanzado un nivel de desarrollo suficiente que
+le permite enfrentar sus desafíos sociales, económicos y ambientales, en el
+marco de una reducción en el acceso a flujos de asistencia oficial al
+desarrollo. No obstante, en el país subsisten dificultades y brechas
+estructurales que han dificultado alcanzar el desarrollo sostenible. En ese
+contexto, el Reino de España ha estado dispuesto a continuar otorgando recursos
+de cooperación al país.
+
+46.
+Tras
+reseñar el contenido del Convenio objeto de revisión y repasar el trámite
+legislativo que se surtió para su aprobación, advierte que el mismo atiende los
+principios de soberanía nacional, reciprocidad, igualdad soberana, contribuye a
+efectuar los fines esenciales del Estado y se encuentra alineado con los
+intereses de la política exterior. En efecto, el instrumento *(i)*
+establece expresamente el respeto y cumplimiento de ambas legislaciones
+nacionales; *(ii)* consagra deberes recíprocos, que permiten el beneficio
+mutuo; *(iii)* asegura el mutuo acuerdo entre las partes al establecer las
+modalidades de cooperación y las formas de canalización de los recursos; *(iv)*
+contribuye a garantizar la promoción de la prosperidad general y el
+aseguramiento de la paz, a través de un orden social y económico justo; *(v)*
+promueve los enfoques de “*Derechos Humanos, Género en Desarrollo, Derecho a
+la Diversidad Cultural y Desarrollo Sostenible.*”[26]
+
+47.
+Añade
+que España se ha establecido como un cooperante que ha aportado de manera
+certera y significativa al Estado colombiano, al ubicarse en el puesto número
+once, dentro del grupo de cooperantes bilaterales que trabajan en el país, y en
+el puesto número dos, dentro del número de proyectos aprobados durante este
+periodo; generando beneficios directos a más de 1.500.000 personas en los
+territorios priorizados.
+
+48.
+En
+relación con el análisis del impacto fiscal, de cara a la obligación contenida
+en el artículo 7º de la Ley 819 de 2003 y a su alcance a partir de la Sentencia
+C-170 de 2021, refiere que el Ministerio de Hacienda y Crédito Público,
+mediante oficio del 10 de mayo de 2023, presentó a la Corte el análisis de
+impacto fiscal del Convenio bajo revisión, en virtud del cual se manifestó que
+su adopción y ejecución está supeditada a la disponibilidad presupuestal de
+recursos que puedan ser apropiados para tal fin y que los costos que puedan
+ocasionarse mediante su implementación, tienen necesariamente que armonizarse con
+las restricciones del Marco Fiscal de Mediano Plazo y ser incluidos en las
+proyecciones de cada sector involucrado en su ejecución.
+
+49.
+En
+ese orden de ideas, considera que el instrumento no genera un tratamiento
+tributario privilegiado para un determinado sujeto o actividad, con un fin
+extrafiscal que no estuviera ya contemplado en la legislación nacional. Además,
+recuerda que los privilegios e inmunidades concedidos en virtud del Instrumento
+son únicamente aquellos previstos en la Convención de Viena sobre Relaciones
+Diplomáticas de 1961, suscrita y ratificada por el Estado colombiano; régimen
+que forma parte del ordenamiento nacional y que por lo tanto, no puede ser
+entendido como un tratamiento diferencial que genere un impacto frente al que
+se viene aplicando a otros Estados soberanos en el territorio nacional.
+
+50.
+Resalta
+que el Convenio representa beneficios económicos certeros y cuantificables para
+el Estado colombiano, pues, desde la presentación del proyecto de ley al
+Congreso de la República, el Estado español decidió asignar recursos de
+cooperación técnica para el periodo 2020-2024, por setenta millones de euros,
+para programas y proyectos en materia de estabilización, migración proveniente
+de Venezuela y desarrollo rural sostenible con enfoque de género. Además, éste
+puso a disposición de Colombia un monto de cincuenta millones de euros en
+créditos reembolsables.[27]
+
+51.
+Recuerda
+que la Corte Constitucional ha tenido la oportunidad de revisar y declarar la
+constitucionalidad de diversos instrumentos similares al que se estudia en esta
+oportunidad, como el “Acuerdo de Cooperación y Régimen de Privilegios e
+Inmunidades entre la Organización Internacional para las Migraciones y el
+Gobierno de la República de Colombia”, el “Tratado General de Cooperación entre
+la República de Colombia y la República de Italia”, el “Convenio de Cooperación
+Comercial entre el Gobierno de la República de Colombia y el Gobierno de la
+República de Turquía” y el “Acuerdo sobre Cooperación Financiera entre la
+República de Colombia y la República Francesa”, entre otros.
+
+52.
+Precisa
+que, de acuerdo con la jurisprudencia constitucional, la valoración del impacto
+fiscal puede tener grados de especificidad diferenciados, en función de la
+naturaleza de la regulación y de la mayor o menor fiabilidad de los supuestos
+económicos en los que se funda. En ese orden de ideas y teniendo en cuenta que
+el Convenio se propone señalar un marco general dentro del cual las partes
+impulsen los compromisos adquiridos, considera que un análisis detallado sobre
+órdenes de gasto y beneficios tributarios se torna “*virtualmente imposible”*,
+toda vez que únicamente se impone la obligación de impulsar la cooperación a
+través de diversas modalidades que serán aplicadas a futuro con la
+implementación del Convenio.
+
+53.
+Advierte
+que, entre la fecha en la que fue presentado el proyecto de ley y la
+promulgación de la Sentencia C-170 de 2021, existe una cercanía; por lo que
+resulta necesario armonizar los requisitos procedimentales con la consecución
+de los preceptos constitucionales sustanciales del Estado.
+
+54.
+Concluye
+que el Convenio no produce un tratamiento tributario privilegiado para un determinado
+sujeto o actividad, con un fin extrafiscal que no esté ya contemplado en la
+legislación colombiana. Por el contrario, éste representa beneficios que
+contribuyen al cumplimiento de los fines del Estado y de los principios
+constitucionales relativos a la internacionalización de las relaciones
+políticas, económicas, sociales y ecológicas, sobre bases de equidad,
+reciprocidad y conveniencia nacional.
+
+55.
+**Harold
+Eduardo Sua Montaña.** El
+ciudadano presentó escrito de intervención en el que expuso su desacuerdo
+frente a la aplicación del artículo 7 de la Ley 819 de 2003 al trámite
+legislativo que culminó con la ley aprobatoria del Convenio objeto de análisis,
+tras considerar que el requisito del análisis del impacto fiscal frente a las
+leyes aprobatorias de tratados internacionales surgió de un descuido de más de
+diez años y cuya percatación no debería implicar “*un trato distinto a los
+países con quien vaya a hacerse tratados bilaterales semejantes a los cuales su
+trámite de aprobación congregacional ocurrió el mencionado descuido o de lo
+contrario sobrevendría un trato desigual susceptible de alegarlo el otro país
+ante a la instancia judicial señalada en el numeral 1 del artículo 93 del
+tratado aprobado en la ley 13 de 1945 invocando la competencia de la misma allí
+acontecida conforme a la sección cuarta de la parte V de la Convención de Viena
+sobre el Derecho de los Tratados*.”[28]
+Concluyó que el Convenio no es incompatible con el ordenamiento constitucional
+y que éste surtió las etapas correspondientes en la ramas ejecutiva y
+legislativa.
+
+**IV.
+CONCEPTO DE LA PROCURADORA GENERAL DE LA NACIÓN**
+
+56.
+La
+Procuradora General de la Nación presentó concepto en el que le solicita a la
+Corte que declare la inexequibilidad de la Ley 2274 del
+5 de noviembre de 2022, *“por medio de la cual se aprueba el ‘Convenio Marco
+de Cooperación entre la República de Colombia y el Reino de España’, suscrito
+en Madrid, Reino de España, el 3 de marzo de 2015”*, pues en su trámite
+parlamentario se incumplieron las exigencias asociadas al análisis del impacto
+fiscal, como se precisa a continuación.
+
+57.
+Tras
+reseñar los tipos de controles que, en virtud del artículo 241.10 de la
+Constitución Política ejerce la Corte Constitucional frente a los tratados
+internacionales y de sus leyes aprobatorias, recuerda que el examen de esta
+clase de asuntos es eminentemente jurídico y que *“(…) no examina las
+ventajas u oportunidad práctica del acuerdo a nivel económico, social, ni su
+conveniencia política, o las razones de oportunidad, utilidad o eficiencia del
+instrumento, o las consecuencias prácticas de su celebración, por tratarse de
+reflexiones que le competen al Presidente de la República y al Congreso
+respectivamente.*”[29]
+
+58.
+En
+ese orden de ideas y en línea con las sentencias C-170 de 2021[30]
+y C-126 de 2023,[31]
+advierte que, a partir del 30 de julio de 2021, se configura un vicio de
+procedimiento legislativo cuando, en el trámite legislativo de un proyecto de
+ley aprobatorio de un tratado internacional que tenga incidencia fiscal (por
+ordenar gasto o establecer beneficios tributarios), no se cumplan los deberes
+establecidos en el artículo 7 de la Ley 819 de 2003. Es decir, cuando *(i)*
+el Gobierno nacional no señale en la exposición de motivos la *“fuente
+sustitutiva por disminución de gasto o aumentos de ingresos”*; *(ii)*
+los congresistas no incluyan en las ponencias de trámite *“los costos
+fiscales de la iniciativa y la fuente de ingreso adicional para su
+financiamiento”*; y/o *(iii)* el Ministerio de Hacienda y Crédito
+Público omita presentar el concepto de impacto fiscal.
+
+59.
+Precisa
+que, en consecuencia, en el trámite parlamentario de la iniciativa dirigida a
+aprobar el Convenio objeto de control constitucional, que finalizó con la
+expedición de la Ley 2274 de 2022, eran aplicables las exigencias contenidas en
+el artículo 7° de la Ley 819 de 2003, pues *(i)* dicho instrumento
+internacional fue presentado por el Gobierno nacional ante el Congreso de la
+República, el 12 de agosto de 2021. Es decir, con posterioridad al 30 de julio
+de 2021 (fecha en la que se notificó la Sentencia C-170 de 2021); y *(ii)*
+algunas cláusulas del Convenio establecen beneficios tributarios.
+
+60.
+Indica
+que, por ejemplo, en el artículo 11.4 del Convenio se estipulan exoneraciones
+de pago de derechos aduaneros, impuestos de importación, IVA y aquellas otras
+tasas y gravámenes de índole nacional a las compras, adquisiciones y servicios
+realizadas en los proyectos y programas financiados por la AECID. Asimismo, en
+su artículo 12 se señalan los tratamientos diferenciados en materia tributaria
+para el personal cooperante y para el director o coordinador de las unidades de
+cooperación en el exterior.
+
+61.
+Pone
+de presente que dichas cláusulas se consideran beneficios tributarios porque
+tienen “*el propósito de colocar al sujeto o actividad destinataria de la
+misma, en una situación preferencial o de privilegio, con fines esencialmente
+extrafiscales.*”[32] Resalta
+que, de acuerdo con la jurisprudencia constitucional, “*constituyen
+beneficios tributarios, por ejemplo, las exenciones, las deducciones de base,
+los regímenes contributivos sustitutivos, la suspensión temporal del recaudo,
+la concesión de incentivos tributarios y la devolución de impuestos.*”[33]
+
+62.
+Indica
+que, a partir de la revisión del expediente legislativo, se advierte que el
+Gobierno nacional no cumplió con los deberes establecidos en el artículo 7 de
+la Ley 819 de 2003, puesto que no allegó al trámite legislativo el concepto de
+impacto fiscal del proyecto de ley; lo cual consta en los informes rendidos en
+el proceso de la referencia por los secretarios de las células legislativas,
+así como por el Ministerio de Hacienda y Crédito Público. Además, no evidencia
+que en la exposición de motivos o en las ponencias para los debates
+parlamentarios se presentara un análisis detallado del impacto fiscal de la
+aprobación del tratado en el que se hiciera referencia a los menores ingresos
+por concepto de exoneraciones tributarias que generaría la aprobación del
+Convenio. En efecto, solo se identifican menciones tangenciales y genéricas
+sobre los beneficios que reporta el Convenio para el país, pero no se encuentra
+un examen concreto de los costos fiscales de la iniciativa y la fuente de
+ingreso adicional para su financiamiento.
+
+63.
+En
+atención a las anteriores consideraciones, la Procuradora advierte que se
+presentó un vicio en la aprobación de la iniciativa legislativa que finalizó
+con la expedición de la Ley 2274 de 2022. No obstante, aclara que lo anterior
+no impide que el Congreso de la República pueda volver a tramitar el proyecto
+de ley correspondiente para aprobar el Convenio Marco de Cooperación entre la
+República de Colombia y el Reino de España, ya que la inconstitucionalidad se
+origina en razones meramente procedimentales.
+
+**V.
+CONSIDERACIONES DE LA CORTE CONSTITUCIONAL**
+
+**1.
+Competencia**
+
+64.
+De
+conformidad con lo previsto en el artículo 241.10 de la Constitución Política,
+la Corte Constitucional es competente para ejercer el control integral de los
+tratados internacionales y de sus leyes aprobatorias.
+
+65.
+Acorde
+con la jurisprudencia constitucional, el control constitucional de los tratados
+internacionales y de sus leyes aprobatorias: (i)
+es previo a la ratificación del tratado, pero posterior a la aprobación del
+Congreso y a la sanción gubernamental; (ii) es automático, pues la ley
+correspondiente debe ser enviada directamente por el Presidente de la República
+a la Corte Constitucional dentro de los seis días siguientes a la sanción
+gubernamental; (iii) es integral, en la medida en que la Corte debe analizar
+tanto los aspectos formales como los materiales de la ley y el tratado,
+confrontándolos con todo el texto constitucional; (iv) tiene fuerza de cosa
+juzgada; (v) constituye una condición *sine qua non* para la ratificación
+del correspondiente acuerdo; y (vi) cumple una función preventiva, pues su
+finalidad es garantizar tanto la supremacía de la Constitución como el
+cumplimiento de los compromisos internacionales del Estado colombiano.[34]
+
+66. La
+adopción de tratados internacionales por el Estado colombiano es un acto
+complejo en el que intervienen las tres ramas del poder público a partir del
+respeto de la independencia y autonomía de cada una de ellas. Así, es
+competencia del Gobierno nacional llevar a cabo la negociación y celebración
+del tratado internacional. Por su parte, corresponde al Congreso aprobar o
+improbar los tratados internacionales celebrados por el gobierno *“sin que le
+sea posible al órgano legislativo modificar el texto del mismo.”*[35]
+Ahora bien, conforme lo ha señalado este tribunal, el límite del Congreso de la
+República en materia de aprobación o improbación de tratados se refiere a la
+imposibilidad de que dicho órgano modifique o altere el contenido del
+instrumento internacional acordado por el gobierno, pero sí está facultado para
+aprobar o improbar parcialmente los tratados, en atención a lo dispuesto bajo
+el artículo 217 de la Ley 5a de 1992:
+
+“Como
+lo ha advertido la Corte, el citado mandato previsto en el numeral 16 del
+artículo 150 de la Carta Política, no impone la obligación de tener que aprobar
+en su integridad el tratado, pues su rigor normativo no refiere al alcance de
+la anuencia congresional, sino a la posibilidad de alterar o no su contenido (…)
+En conclusión, una lectura armónica de la Carta y de las normas que desarrollan
+el trámite de incorporación de los tratados internacionales, permite inferir
+que si bien el Congreso no puede formular enmiendas, esto es, no puede variar
+lo acordado en el ámbito internacional por el Presidente de la República, ello
+no excluye su competencia para aplazar la entrada en vigencia del tratado,
+formular reservas e incluso, en general, aprobar parcialmente su contenido,
+cuyo efecto implica fiscalizar la manera en que se obliga internacionalmente al
+Estado, a partir del juicio político-jurídico que la Constitución le otorga,
+como ya se dijo, por razones de soberanía, seguridad e interés de la Nación. En
+este contexto, aun cuando se limita la competencia del Congreso para modificar
+el contenido del tratado, ello se equilibra con otras atribuciones que
+mantienen los espacios esenciales de deliberación y decisión que le son
+propios, incluso pudiendo llegara aprobar parcialmente un tratado o a
+formular reservas, invocando, para ello, razones de conveniencia o de constitucionalidad
+derivadas de un examen sometido a su propio arbitrio.”[36]
+
+67. Una vez finalizada
+esta etapa, el trámite debe volver al Gobierno para la sanción presidencial
+respectiva y remisión de la ley aprobatoria a este Tribunal para su estudio. El
+control constitucional que ejerce esta Corte consiste en un estudio
+eminentemente jurídico que no se ocupa de “*revisar las
+ventajas, beneficios u oportunidades prácticas del tratado a nivel económico o
+social, ni tampoco su conveniencia política,* *por
+tratarse de reflexiones que le competen al Presidente de la República y al
+Congreso, respectivamente*”,[37]
+sino que supone
+la valoración de exigencias formales y materiales.
+
+68.
+En
+virtud del *análisis formal*, se hace un escrutinio al proceso de
+formación del instrumento internacional, así como al trámite legislativo
+adelantado ante el Congreso de la República, a la luz de los requisitos
+procedimentales previstos en la Constitución Política y en la Ley 5 de 1992.[38]
+En ese sentido, se examinan aspectos como: “*(i) la validez de la
+representación del Estado colombiano en las fases de negociación, celebración y
+firma del tratado correspondiente; (ii) la verificación del análisis de impacto
+fiscal de la ley aprobatoria del tratado internacional, cuando las
+disposiciones de este último involucren una orden de gasto o concedan un
+beneficio tributario; (iii) el examen del cumplimiento del requisito de
+consulta previa, cuando el tratado internacional o las medidas que lo
+desarrollen impliquen una afectación directa a las comunidades implicadas; (iv)
+estudiar el trámite legislativo del proyecto de ley ante el Congreso de la
+República, de acuerdo con las reglas procedimentales para su publicación, deliberación
+y aprobación y el respeto por los principios de consecutividad e identidad
+flexible. Por último (v) la fase de sanción presidencial y envío a la Corte
+Constitucional.*”[39]
+
+69.
+Por
+su parte, el *análisis
+material*
+supone evaluar las disposiciones del tratado y de la
+ley con el marco constitucional colombiano y cotejarlas con la totalidad del
+texto constitucional, para
+de esta manera determinar si se ajustan o no al ordenamiento superior. Esta labor “*comprende
+la integridad del texto y sus finalidades, esto es, todas las definiciones,
+anexos y pies de página incluidos en las disposiciones del instrumento
+internacional, así como cualquier comunicación entre las partes para acordar
+los compromisos asumidos.*”[40]
+
+70.
+En
+consecuencia, corresponde a la Corte resolver los siguientes problemas
+jurídicos: *(i)* ¿el Convenio Marco de Cooperación entre la República de
+Colombia y el Reino de España, así como la Ley 2274 de 2022, mediante
+la cual se aprobó dicho instrumento internacional, satisfacen los requisitos
+formales previstos en la Constitución Política y en la Ley 5 de 1992?; en
+particular, *(ii)* ¿vulnera la Ley 2274 de 2022 los artículos 151 de la
+Constitución Política y 7° de la Ley Orgánica 819 de 2003, porque durante su
+procedimiento de formación no se evaluaron los costos fiscales de la iniciativa
+ni la fuente de ingreso adicional con la que esta se financiaría?
+
+71.
+Hechas
+las anteriores precisiones, pasa la Corte a examinar si la Ley 2274 del 5 de noviembre de 2022 y el
+Convenio Marco de Cooperación entre la República de Colombia y el Reino de
+España (en adelante, el Convenio), cumplen los requisitos de validez que, para el
+efecto, exigen la Constitución, la Ley 5 de 1992 y la Ley 819 de 2003.
+
+**3.
+Análisis formal**
+
+*3.1. Representación del Estado en la celebración y suscripción del
+tratado internacional*
+
+72.
+El
+primer aspecto por revisar es la competencia del funcionario que representó al
+Estado colombiano en la negociación del Convenio, conforme lo previsto en los
+artículos 7 a 10 de la Convención de Viena sobre el Derecho de los Tratados de
+1969[41]
+y en armonía con lo señalado en el artículo 189.2 de la Constitución.
+
+73.
+En
+el caso *sub examine*, se encuentra probado que el Convenio Marco de
+Cooperación entre la República de Colombia y el Reino de España, fue suscrito
+en Madrid, el 3 de marzo de 2015, por la entonces ministra de Relaciones
+Exteriores, María Ángela Holguín Cuellar, en concordancia con lo prescrito en
+el artículo
+7.2 de la Convención de Viena sobre el Derecho de los Tratados de 1969, según el cual, los
+ministros de relaciones exteriores tienen la capacidad para representar al
+Estado “sin tener que presentar plenos poderes”. De manera que la adopción del
+instrumento internacional satisface el requisito de forma, respecto a la
+calidad de la persona que debió suscribirlo, pues la
+representación del Estado colombiano fue ejercida por quién en ese momento la
+ostentaba.
+
+***3.2.******Aprobación
+por el Presidente de la República y sometimiento del acuerdo ante el Congreso
+de la República***
+
+74.
+El
+artículo 142.20 de la Ley 5a de 1992 señala que el
+Gobierno nacional tiene una iniciativa privativa respecto de las leyes
+aprobatorias de los tratados o convenios que el Gobierno celebre con otros
+Estados o con entidades de derecho internacional, por lo que solo podrán ser
+dictadas o reformadas por iniciativa del Gobierno. Por lo tanto, en
+el juicio formal, la Corte Constitucional ha indagado que la Presidencia de la
+República autorice someter el acuerdo internacional a consideración del
+Congreso de la República.
+
+75.
+En
+esta oportunidad, se constata que el día 4 de abril de 2021, el presidente Iván
+Duque Márquez impartió la aprobación ejecutiva del *Convenio Marco de
+Cooperación entre la República de Colombia y el Reino de España* y en el
+mismo acto ordenó someterlo a consideración del Congreso de la República.[42] Por
+lo tanto, el trámite previo gubernamental cumplió con los requisitos
+constitucionales.
+
+***3.3. Exigibilidad del análisis de impacto fiscal***
+
+***3.3.1. El análisis del impacto fiscal en los tratados
+internacionales***
+
+76.
+El
+artículo 7° de la Ley 819 de 2003,[43] consagra el deber general de analizar el
+impacto fiscal de todos los proyectos de ley que ordenen gasto o que otorguen
+beneficios tributarios, en concordancia con el Marco Fiscal de Mediano Plazo.
+Acorde con la Corte Constitucional, de la norma referida se desprenden los
+siguientes deberes de actuación:
+
+(i)
+“El deber a cargo del Congreso, consistente en incluir en la exposición de
+motivos y en las ponencias de trámite los costos fiscales de la iniciativa y la
+fuente de ingreso adicional para su financiamiento (C-110 de 2019). No se exige
+un análisis detallado o exhaustivo. Se requiere una mínima consideración al
+respecto, de modo que sea posible establecer los referentes básicos para
+analizar los efectos fiscales (C-110 de 2019).”
+
+(ii)
+“El deber a cargo del Ministerio de Hacienda y Crédito Público consistente en
+rendir -en cualquier tiempo durante el respectivo trámite en el Congreso de la
+República- su concepto sobre la consistencia del análisis de los costos
+fiscales, sin que resulte posible que dicho concepto se oponga al Marco Fiscal
+de Mediano Plazo (C-110 de 2019).”
+
+(iii)
+“El deber a cargo del Gobierno de establecer en los proyectos de ley
+cuya iniciativa le corresponda y que impliquen un gasto adicional o una
+reducción de ingresos, la correspondiente fuente sustitutiva por disminución de
+gasto o aumentos de ingresos, según análisis y aprobación del Ministerio de
+Hacienda y Crédito Público (C-110 de 2019).”[44]
+
+77.
+A
+partir de los mandatos señalados, la Corte consideró, en Sentencia C-170 de 2021,[45] que la
+interpretación del artículo 7 de la Ley 819 de 2003 requiere diferenciar dos
+supuestos que delimitan el escrutinio que debe adelantar la Corte:
+
+(i)
+“El primero corresponde a los proyectos de ley originados en la *iniciativa
+de los congresistas*. La jurisprudencia constitucional ha unificado la
+materia señalando lo siguiente: (i) el Congreso tiene la responsabilidad de
+valorar las incidencias fiscales del proyecto de ley; (ii) esa carga no exige
+un análisis detallado o exhaustivo del costo fiscal y de las fuentes de
+financiamiento, aunque sí demanda una mínima consideración al respecto, de modo
+que sea posible establecer los referentes básicos para analizar los efectos
+fiscales; (iii) la carga principal se encuentra radicada en el MHCP por sus conocimientos
+técnicos; y por su condición de principal ejecutor del gasto público; (iv) el
+incumplimiento del Gobierno no afecta la decisión del Congreso cuando este ha
+cumplido su deber. A su vez (v) si el Gobierno atiende la obligación de emitir
+su concepto, se radica en el Congreso el deber de estudiarlo y discutirlo. En
+adición a ello, debe precisarse (vi) que ni el silencio del Gobierno ni su
+oposición al proyecto impide que el Congreso lo apruebe, siempre y cuando
+cumpla los requerimientos antes señalados.”
+
+(ii)
+“El segundo supuesto se refiere a los casos en los que el proyecto de ley es de
+*iniciativa gubernamental*. La jurisprudencia ha establecido que en estos
+eventos el artículo 7º impone un deber especial al Gobierno y su incumplimiento
+afecta la constitucionalidad de la ley. Tal deber implica la obligación de
+presentar al Congreso de manera detallada y precisa el análisis de impacto
+fiscal y, cuando quiera que se produzca una reducción de ingresos, la
+correspondiente fuente sustitutiva.”[46]
+
+78.
+Por
+su parte, cuando el proyecto de ley es de *iniciativa mixta*, el
+cumplimiento del impacto fiscal debe ser valorado en el contexto de las cargas
+exigibles a cada autoridad. Así por ejemplo, en el caso del Congreso, “*su
+iniciativa admite una consideración más flexible y menos exhaustiva del costo
+fiscal, siempre que exista una consideración mínima al respecto, y que ella
+permita establecer los referentes básicos para analizar los efectos fiscales*”;
+mientras que en el caso del Gobierno, *“dicha flexibilidad es menor, por la
+importancia principal que este órgano cumple, pues goza de la capacidad
+institucional necesaria para brindar la suficiente ilustración sobre la
+materia. De ahí que, se ha insistido, esta autoridad tiene la obligación de
+presentar al Congreso de manera detallada y precisa el análisis del impacto
+fiscal.”*[47]
+
+79.
+Vale
+precisar que, por regla general, los proyectos de leyes aprobatorias de
+tratados son presentados al Congreso de la República por iniciativa
+gubernamental y, por consiguiente, la exigencia de presentar el estudio de
+análisis de impacto fiscal se acentúa para el Gobierno nacional.
+
+80.
+Se
+ha precisado que las anteriores exigencias del costo fiscal *“(…) constituyen
+un parámetro de racionalidad legislativa, que está encaminado a cumplir propósitos
+constitucionalmente valiosos, entre ellos, el orden de las finanzas públicas,
+la estabilidad macroeconómica y la aplicación efectiva de las leyes.*”[48] En
+efecto, *“(…) un estudio previo de la compatibilidad entre el contenido del
+proyecto de ley y las proyecciones de la política económica, disminuye el
+margen de incertidumbre respecto de la ejecución material de las previsiones
+legislativas*”[49] y su incumplimiento, cuando se trata de
+un proyecto de ley de iniciativa gubernamental, puede derivar en un vicio
+insubsanable, pues generaría una grave afectación al equilibrio de poderes y
+obstaculizaría la labor legislativa del Congreso.[50] Al
+respecto, se ha planteado que:
+
+“(…)
+los importantes poderes del Gobierno Nacional en materia de[sic] gasto público,
+(…) se verían reforzados en detrimento del Congreso si, a pesar de contar con
+la información relacionada con la consistencia del impacto fiscal y de la
+fuente de financiamiento de un proyecto de ley de su iniciativa, al igual que
+sobre la compatibilidad del mismo con el Marco Fiscal de Mediano Plazo, no
+estuviera obligado a proporcionarlos a los congresistas.”[51]
+
+81.
+Dada
+la importancia del referido mandato de actuación, desde la Sentencia C-091 de
+2021[52] la Corte advirtió
+que, en lo sucesivo y respecto de tratados aprobados con posterioridad a su
+notificación, el análisis del impacto fiscal sería objeto de examen
+constitucional en las leyes aprobatorias de tratados internacionales de doble
+tributación. La notificación de esa providencia tuvo lugar entre el 20 y 24 de
+mayo de 2021. No obstante, solo hasta la Sentencia C-170 de 2021[53] se
+consolidó dicha posición, con fundamento en que “*(…) garantizar que en el
+Congreso puedan realizarse debates debidamente informados, es un requerimiento
+propio del carácter democrático del Estado*”; de manera que, la exigencia
+del análisis del impacto fiscal es obligatoria frente a los proyectos de ley
+que, *“(i) tramitados con posterioridad a la notificación de esta sentencia,
+(ii) aprueben tratados que consagren beneficios tributarios a favor de sujetos
+de derecho internacional, así como del personal diplomático o cooperante que
+apoya la ejecución de sus actividades en Colombia.”****[54]***
+
+82.
+La
+aplicación hacia futuro o de manera prospectiva de dicha regla de decisión se
+justificó en que *(i)* la jurisprudencia previa, relativa a los tratados
+que confieren beneficios tributarios a sujetos de derecho internacional o al
+personal diplomático o cooperante, no había indicado que estos estuvieran
+sujetos a las exigencias derivadas del artículo 7° de la Ley 819 de 2003;[55]y *(ii)*
+su aplicación inmediata podía “*tener un efecto significativo en la
+financiación de proyectos de importancia para el Estado colombiano*.” En ese
+orden de ideas, la regla de decisión únicamente resulta exigible respecto de
+aquellos proyectos de ley que, habiendo consagrado ese tipo de beneficios,
+hayan sido tramitados a partir del 30 de julio de 2021, fecha en que se surtió
+la notificación de la Sentencia C-170 de 2021.[56]
+
+83.
+En punto de ello, es necesario advertir que
+frente a la contabilización del término para determinar la aplicabilidad de la
+regla de decisión referida, la expresión “*tramitados
+con posterioridad a la notificación de esta sentencia*” contenida en la Sentencia C-170 de 2021, dio lugar a
+distintas interpretaciones.[57] En consecuencia, recientemente la Sentencia C-126 de 2023[58] unificó la jurisprudencia en la materia, en el sentido que
+la obligación contenida en el artículo 7° de la Ley 819 de 2003 resulta
+aplicable a los proyectos de ley que, habiendo ordenado gasto o concedido
+beneficios tributarios, “*sean radicados en el
+Congreso de la República después*” de la
+notificación de la Sentencia C-170 de 2021. Lo cual, cobra sentido si se tiene
+en cuenta los deberes a cargo del Congreso, del Ministerio de Hacienda y
+Crédito Público y del Gobierno nacional en materia de análisis del impacto
+fiscal, a los que ya se hizo referencia, solo pueden hacerse efectivos a partir
+del inicio del trámite legislativo y no resultan exigibles antes de la
+radicación del proyecto de ley ni después de la expedición de la ley.
+
+84.
+En
+síntesis y acorde con lo considerado por la Corte en la Sentencia C-175 de
+2023, la exigencia del análisis del impacto fiscal de las leyes aprobatorias de
+tratados internacionales depende de que se acrediten dos presupuestos; *(i)*
+el material, referido a que alguna de las disposiciones del tratado analizado
+contenga una orden de gasto o conceda un beneficio tributario y *(ii)* el
+temporal, consistente en que el proyecto de ley aprobatoria del tratado
+internacional haya sido radicado con posterioridad al 30 de julio de 2021,
+fecha en la cual la Sentencia C-170 de 2021 fue notificada.[59]
+
+***3.3.2. Análisis del caso concreto***
+
+85. Teniendo en cuenta
+que el proyecto que dio origen a la Ley 2274 del
+2022 aprobatoria del Convenio Marco de Cooperación entre la República de
+Colombia y el Reino de España, fue radicado en la Secretaría General del Senado
+de la República el 12 de agosto de 2021,[60] esto es, con posterioridad a la notificación de la Sentencia
+C-170 de 2021 (presupuesto temporal) y,
+que consagra beneficios tributarios a favor del personal cooperante de la
+misión diplomática y del director/ coordinador de las Unidades de cooperación
+en el exterior de la AECID (presupuesto material), se considera que en su
+trámite resultaban exigibles los mandatos de actuación relacionados con el
+análisis del impacto fiscal. En efecto, el Convenio incorpora los beneficios
+tributarios que se relacionan a continuación:
+
+| | |
+| --- | --- |
+| **Normas** | **Contenido** |
+| Artículo 11: Compromisos de la Parte colombiana. | “La Parte colombiana: (…) 4) Exonerará del pago de derechos aduaneros, impuestos de importación, IVA y aquellas otras tasas y gravámenes de índole nacional a las compras, adquisiciones y servicios realizadas en los proyectos y programas financiados por la AECID. 5) Otorgar reconocimiento oficial a la Oficina Técnica de Cooperación en Bogotá y al Centro de Formación en Cartagena de Indias, como dependencias adscritas a la Embajada de España, y garantizando la aplicación de los artículos de la Convención de Viena sobre Relaciones Diplomáticas de 1961, relativos a los locales de misiones diplomáticas. Los beneficios que se conceden al personal de estas dependencias se rigen por las reglas establecidas en el artículo 12 del presente Convenio.” |
+| Artículo 12: Privilegios e inmunidades del Personal Cooperante y del Director/Coordinador de las Unidades de Cooperación en el Exterior de AECID | “Con la finalidad de facilitar y potenciar la cooperación entre España y Colombia, las Partes consideran al Personal Cooperante miembros de la Misión Diplomática, siempre que sean enviados por ambos Estados en el marco del presente Convenio, y que no sean nacionales del Estado al que sean enviados, ni extranjeros residentes en el mismo, aplicándoles los privilegios e inmunidades que prevé la Convención de Viena sobre Relaciones Diplomáticas de 1961 para el personal administrativo y técnico. Quedan por tanto excluidos de las ventajas fiscales incluidas en el presente Convenio a las personas con nacionalidad española y a las personas de otra nacionalidad que, en el momento de adscripción al organismo, sean residentes fiscales en España. Se entiende por personal cooperante al personal técnico contratado por la AECID debidamente acreditado en Colombia y los expertos financiados por la AECID debidamente acreditados como asistencias técnicas del Gobierno español. Dicho personal cooperante será acreedor de los siguientes privilegios e inmunidades: 1. La importación con franquicia, dentro de lo previsto en las normas jurídicas internas, la importación de sus efectos personales y su menaje, y la importación, por una sola vez, de un vehículo para uso personal de conformidad con las disposiciones legales vigentes de cada país. Los objetos importados con franquicia aduanera no podrán ser enajenados en el territorio de la otra Parte, salvo cuando las autoridades competentes de dicho territorio lo permitan y previo cumplimiento de los requisitos exigidos por el ordenamiento jurídico interno. (…) 4. El Director/Coordinador de las Unidades de Cooperación en el Exterior de AECID, gozarán de los privilegios e inmunidades que se otorgan al *personal diplomático* de las misiones extranjeras acreditadas en Colombia. Las exoneraciones y facilidades establecidas en el numeral 1 del presente artículo serán concedidas por las Partes a título de reciprocidad y de acuerdo con la legislación nacional vigente de los respectivos Estados.” |
+
+86. Como se habrá podido dilucidar, el numeral 4° del artículo 11
+del Convenio exonera a las compras, adquisiciones y servicios ejecutados en el
+marco de los programas financiados por la Agencia Española de Cooperación
+Internacional para el Desarrollo (AECID), del pago de algunas tasas y
+gravámenes de índole nacional, tales como: los derechos aduaneros y los
+impuestos de importación e IVA. Asimismo, el numeral 5° de dicha disposición,
+extiende a la Oficina Técnica de Cooperación en Bogotá y al Centro de Formación
+en Cartagena de Indias las normas de la Convención de Viena sobre Relaciones
+Diplomáticas de 1961 relativas a los locales de las misiones diplomáticas; en
+virtud de las cuales, el Estado acreditante y el jefe de la misión *“(…) están exentos de todos los impuestos y gravámenes
+nacionales, regionales o municipales, sobre los locales de la misión de que
+sean propietarios o inquilinos.*”***[61]***
+
+87. Por su parte, el artículo 12 del Convenio extiende: (i) al
+personal de estas dependencias los privilegios e inmunidades que prevé la
+Convención de Viena sobre Relaciones Diplomáticas de 1961 para el personal
+administrativo y técnico; y (ii) al Director o Coordinador de las Unidades de
+Cooperación en el Exterior de la AECID, aquellos que se otorgan al personal
+diplomático de las misiones extranjeras acreditadas en Colombia.
+
+88. En concreto, el artículo 37 de la Convención de Viena
+establece que los miembros del personal administrativo y técnico de la misión,
+así como los miembros de sus familias que formen parte de sus respectivas
+casas, gozarán de los privilegios e inmunidades mencionados en los artículos 29
+a 35. En esa medida y en los términos del artículo 34 de la Convención, estarán
+exentos de *“(…) todos los impuestos y gravámenes personales
+o reales, nacionales, regionales o municipales.*”***[62]***Respecto de los objetos importados al efectuar su
+primera instalación, la Convención establece que, también serán acreedores de
+los privilegios consagrados en el párrafo 1° del artículo 36, conforme al cual,
+el Estado receptor *“(…) permitirá la entrada, con exención de toda
+clase de derechos de aduana, impuestos y gravámenes conexos, salvo los costos
+de almacenaje, acarreo y servicio análogos: a. de los objetos destinados al uso
+oficial de la misión; b. de los objetos destinados al uso personal del agente
+diplomático o de los miembros de su familia que formen parte de su casa,
+incluidos los efectos destinados a su instalación.*”
+
+89. Sobre el particular, se advierte que, para que pueda
+considerarse que una disposición consagra un beneficio tributario, *“(…) debe
+tener esencialmente el propósito de colocar al sujeto o actividad destinataria
+de la misma, en una situación preferencial o de privilegio, con fines
+esencialmente extrafiscales.”****[63]*** Al respecto, conviene precisar que, acorde con la
+jurisprudencia constitucional, los beneficios tributarios *“(…) pueden manifestarse a través de exclusiones o exenciones
+a los tributos”*; categorías que, *“(…) aunque comparten propósitos similares, no pueden ser
+entendidas como iguales.”*
+
+90. Las exenciones tienen lugar cuando *“(…) una norma exonera del pago del tributo a determinados
+actos gravados, lo que significa que la ley estipula que no se producirán las
+consecuencias (en forma total o parcial) del hecho generador*”. Por su parte, las exclusiones “*(…) tienen que ver con aquellos casos donde no hay sujeción a
+un determinado gravamen; es decir, cuando los supuestos fácticos no se adecúan
+al hecho generador definido en la ley y por tanto no son objeto de tributación
+por la sencilla razón de que no se causa el impuesto.*”[64]
+
+91. En esa medida, y teniendo en cuenta que las normas referidas
+exoneran del pago de impuestos y gravámenes nacionales a algunos actos y
+sujetos pasivos que normalmente estarían gravados, se considera que estas
+consagran beneficios tributarios que debieron ser analizados durante el trámite
+legislativo del proyecto que dio lugar a la expedición de la Ley 2274 de 2022,
+a la luz de los deberes y mandatos de actuación que se derivan del artículo 7°
+de la Ley 819 de 2003.
+
+92. En consecuencia, le asistía al Congreso el deber de incluir
+en las ponencias de trámite los costos fiscales de la iniciativa y la fuente de
+ingreso adicional para su financiamiento. Sin embargo, en la exposición de
+motivos no se incorporó el análisis del impacto fiscal. Por su parte, el
+Ministerio de Hacienda y Crédito Público debió rendir, en cualquier tiempo
+durante el trámite legislativo, su concepto sobre la consistencia del análisis
+de los costos fiscales y su correspondencia con el Marco Fiscal de Mediano
+Plazo. Por último, el Gobierno debió establecer en el proyecto de ley (que fue
+de su iniciativa) la correspondiente fuente sustitutiva por disminución de
+gasto o aumentos de ingreso, según análisis y aprobación del Ministerio de
+Hacienda y Crédito Público; so pena de generar un vicio insubsanable de la ley
+correspondiente.
+
+93. No obstante,
+revisado el material probatorio disponible en el expediente, la Corte advierte
+que, ni al presentar el proyecto de ley que dio origen a la Ley 2274 de 2022 ni
+durante su trámite legislativo, el Gobierno presentó un análisis relativo al
+costo fiscal de los beneficios tributarios previstos en el Convenio. En efecto,
+en respuesta al Auto del 28 de abril de 2023, el Ministerio de Hacienda y
+Crédito Público informó que, durante el trámite legislativo del proyecto de ley
+que culminó con la sanción de la ley objeto de estudio, *“(…) no envió al
+Congreso documento alguno*” relacionado con el análisis del impacto fiscal.[65]
+
+94. En los mismos
+términos, el Secretario General de la Comisión Segunda Constitucional
+Permanente del Congreso de la República manifestó que *“(…) no se encontró
+evidencia de haberse recibido durante el trámite del primer debate,
+documentación relacionada con análisis sobre los costos fiscales y la fuente de
+ingreso adicional para su financiamiento del Proyecto de Ley No. 149 de 2021
+Senado.*”[66] Frente a los
+debates surtidos ante la Plenaria y la Comisión Segunda del Senado de la
+República y ante la Plenaria y la Comisión Segunda de la Cámara de
+Representantes, se advierte que no se recibió respuesta puntual en relación con
+el análisis del impacto fiscal; de manera que, la Corte constata que en el expediente
+no existe prueba alguna que acredite su cumplimiento.
+
+95. En efecto,
+revisadas las gacetas del Congreso Nos. 1101 del 27 de agosto de 2021
+(exposición de motivos), 1179 del 8 de septiembre de 2021 (ponencia para primer
+debate ante la Comisión Segunda del Senado), 1674 del 22 de noviembre de 2021
+(discusión y aprobación), 1421 del 7 de octubre de 2021 (ponencia para segundo
+debate ante la Plenaria del Senado), 194 del 22 de marzo de 2022 (discusión y
+aprobación), 321 del 20 de abril de 2022 (ponencia para primer debate ante la
+Comisión Segunda de la Cámara de Representantes), 829 del 11 de julio de 2022
+(discusión y aprobación), 720 del 14 de junio de 2022 (ponencia para segundo
+debate ante la Plenaria de la Cámara de Representantes), 1251 del 13 de octubre
+de 2022 (discusión y aprobación), se observa que no se realizó alguna mención,
+siquiera tangencial, a los costos fiscales de la iniciativa y la fuente
+de ingreso adicional para su financiamiento.
+
+96.
+Ahora bien, durante el trámite del control
+constitucional, el Ministerio de Hacienda y Crédito Público y el Ministerio de
+Relaciones Exteriores, presentaron algunas consideraciones en relación con la
+exigencia del análisis del impacto fiscal que deben ser confrontadas en esta
+oportunidad. En síntesis, aquellas carteras consideraron que:
+
+(i) El Convenio viene antecedido del análisis y aprobación del Gobierno
+nacional en cuanto a su impacto fiscal, producto de trabajos de concertación
+previos que se ven reflejados en su articulado y en la solicitud de aprobación
+que se formuló ante el Legislador, el cual, en todo caso no puede ser
+detallado, al tratarse de un instrumento marco de cooperación.
+
+(ii) El Convenio
+incorpora en sus artículos 11 y 12, inmunidades y privilegios acordados por los
+Estados contratantes que normalmente suelen concederse en el marco de estos
+instrumentos internacionales de cooperación y que se ajustan al ordenamiento
+constitucional porque no afectan impuestos territoriales, promueven la
+destinación eficiente de los recursos y son de carácter restrictivo.
+
+(iii)En cualquier caso,
+el instrumento no genera un tratamiento tributario privilegiado para un
+determinado sujeto o actividad, con un fin extrafiscal que no estuviera ya
+contemplado en la legislación nacional, pues incorpora privilegios e
+inmunidades contemplados en la Convención de Viena sobre Relaciones
+Diplomáticas de 1961, la cual fue suscrita y ratificada por el Estado
+colombiano.
+
+(iv) En virtud del principio de
+instrumentalidad de las formas procesales, aplicable también en el trámite
+legislativo, aunque existan vicios en el proceso de formación de la ley que no
+hayan sido convalidados, estos pueden ser subsanados por la Corte
+Constitucional, al pronunciarse sobre la norma en cuestión; máxime si se tiene
+en cuenta que la gravedad del vicio no tiene incidencia directa sobre la
+posibilidad de saneamiento del mismo y que entre la fecha en la que fue
+presentado el proyecto de ley y la promulgación de la Sentencia C-170 de 2021,
+existe una cercanía.
+
+(v) Al margen de lo
+anterior, la implementación del Convenio está supeditada a la disponibilidad
+presupuestal de recursos que puedan ser apropiados para tal fin, acorde con las
+restricciones que impone el Marco Fiscal de Mediano Plazo y con las
+proyecciones de gasto de mediano plazo de cada sector involucrado en su
+ejecución.
+
+97. En relación con
+las anteriores consideraciones, la Sala Plena de esta Corte considera que el
+hecho de que se haya realizado un análisis del impacto fiscal durante los
+trabajos de concertación previos a la radicación del proyecto ante el Congreso
+de la República y que éste haya sido remitido a esta Corporación durante el
+trámite del control de constitucionalidad, no implica el cumplimiento de lo
+previsto en el artículo 7 de la Ley 819 de 2003. En efecto y como se precisó en
+párrafos precedentes, lo cierto es que a partir de la exigencia del análisis
+del impacto fiscal se busca que, en los proyectos de iniciativa gubernamental,
+el Legislador cuente con la información suficiente para debatir el asunto y así
+garantizar el orden de las finanzas públicas, la estabilidad macroeconómica y
+la aplicación efectiva de las leyes; sin embargo, este vicio no puede ser
+subsanado en sede de revisión por parte de la Corte Constitucional.
+
+98. En punto de ello, se ha considerado que la omisión del
+análisis del impacto fiscal en los proyectos de ley aprobatoria de tratados
+internacionales constituye un vicio de inconstitucionalidad de carácter
+insubsanable porque: (i) estos son de iniciativa gubernamental y en esas
+circunstancias, el examen del cumplimiento de tales cargas y responsabilidades
+en cabeza del Gobierno nacional es estricto; (ii) la exigencia del análisis es
+transversal al procedimiento en el Congreso de la República y por consiguiente,
+su omisión se proyecta frente a la totalidad del trámite legislativo; y (iii)
+tiene incidencia en el principio de publicidad en el trámite ante el Congreso
+de la República.[67]
+
+99. Como la ha resaltado
+esta Sala en otras ocasiones, el costo fiscal de los beneficios tributarios “*(…)
+podría ser bajo, podría ser alto o incluso podría no presentarse debido a los
+beneficios derivados de la financiación ofrecida por el Gobierno francés.*”
+Ello, sin embargo, no le restaba fuerza al deber y *“(…) su incumplimiento,
+advierte la Corte, afecta el proceso democrático dado que impide al Congreso
+conocer de manera suficiente los efectos de la aprobación de la ley.*” Dicho
+de otro modo, *“(…) las condiciones requeridas para una deliberación adecuada
+no se encuentran satisfechas cuando la información que debe identificar y
+ordenar el Gobierno no es presentada oportunamente al Congreso.*” Se trata
+entonces de una actuación que *“(…) se opone a la racionalidad
+legislativa a la que se anudan las reglas del artículo 7º de la Ley 819 de
+2003 y que, como lo ha dicho, buscan realizar propósitos
+constitucionalmente valiosos, entre ellos el orden de las finanzas públicas, la
+estabilidad macroeconómica y la aplicación efectiva de las leyes.*”[68]
+
+100. Por otra parte, frente a la posibilidad de proferir un fallo
+con alcance parcial, en virtud del cual la declaratoria de inexequibilidad por
+incumplimiento del análisis del impacto fiscal se restrinja únicamente a los
+artículos sometidos a dicha exigencia, la Corte ya se ha pronunciado en los
+siguientes términos: si en la ley analizada, el Congreso de la República
+impartió una aprobación global e íntegra del Convenio, “*el vicio en el procedimiento afecta el proceso de
+formación de la voluntad del Legislador, que impartió una aprobación global al
+acuerdo, sin deliberar sobre las implicaciones fiscales de algunas de las
+disposiciones del tratado que consagran beneficios tributario*s.”[69]
+
+101. En ese sentido y teniendo en cuenta que, en el
+caso *sub examine*, el
+Congreso impartió una aprobación global e íntegra del acuerdo internacional,[70] “*no le
+es posible a la Corte desagregar esa decisión legislativa para resolver de
+manera parcial una decisión de inexequibilidad por vicio de forma.*”[71] En efecto, “*los tratados deben concebirse, analizarse y
+discutirse en su integridad, como una unidad de sentido normativo. Su
+aprobación por el Congreso y la revisión previa de la Corte deben realizarse
+sobre la integralidad del tratado, y no escindirse en fragmentos aislados*”;[72] lo
+cual no obsta para que la Corte, en ejercicio de sus competencias, declare,
+como lo ha hecho, la inexequibilidad por vicios materiales de cláusulas o
+expresiones determinadas de los tratados, sin que la decisión repercuta en la
+totalidad del instrumento internacional en cuestión.[73]
+
+102. Por último, se precisa que, si bien existió una cercanía
+entre la fecha en que se surtió la notificación de la Sentencia C-170 de 2021
+(30 de julio de 2021), a partir de la cual se hizo exigible el análisis del
+impacto fiscal frente a los tratados internacionales que consagran beneficios
+tributarios, y la fecha de presentación del proyecto de ley ante el Congreso de
+la República (12 de agosto de 2021), lo cierto es que dicho análisis pudo
+presentarse en cualquier etapa del trámite legislativo y, en este caso, el
+mismo culminó el 11 de octubre de 2022, con el informe de conciliación en el
+Senado de la República.[74] En ese sentido, existió un margen de tiempo suficiente para
+que el Gobierno nacional cumpliera con su obligación, pero no lo hizo.
+
+103.
+Debe resaltarse que el deber de realizar el
+análisis del impacto fiscal busca garantizar que el Legislador cuente con la
+información suficiente respecto de los efectos tributarios de las medidas
+legislativas; de manera que, cuando se trate de un proyecto de iniciativa
+gubernamental, como sucede en el presente caso, su cumplimiento puede tener
+lugar en cualquier tiempo durante el trámite legislativo, siempre que se
+garantice aquel parámetro de racionalidad fiscal dentro de la actividad
+legislativa. En efecto, la jurisprudencia reciente sugiere que es posible
+satisfacerlo en la exposición de motivos o después.[75] No obstante, se considera que exigirlo desde el inicio del
+debate puede contribuir a optimizar el desarrollo de la deliberación en el
+Congreso de la República, evitando que el informe correspondiente sea
+presentado de manera tardía, cuando ya una porción del proceso legislativo se
+encuentra agotada. Esto, además refuerza al carácter insubsanable que tiene el
+defecto por falta de análisis del impacto fiscal, pues conforme a la jurisprudencia
+constitucional un vicio tiende a ser insubsanable cuando su corrección puede
+llegar a implicar “*la repetición de todo un procedimiento*”.[76]
+
+104. En atención a las
+anteriores consideraciones, la Corte se abstendrá
+de continuar con el examen sobre el procedimiento legislativo y de adelantar el
+control material de la ley aprobatoria y el tratado. Por su parte, declarará la
+inexequibilidad de la Ley 2274 de 2022, aprobatoria del *“Convenio Marco de
+Cooperación entre la República de Colombia y el Reino de España”*, suscrito
+en Madrid, Reino de España, el 3 de marzo de 2015, pues en su trámite se incumplió
+el requisito de análisis de impacto fiscal, ordenado por el artículo 7° de la
+Ley 819 de 2003; no obstante que en los artículos 11 y 12 del Convenio se
+concedían beneficios tributarios.
+
+105. Lo anterior, no sin antes advertir que en la parte
+resolutiva de esta providencia también se exhortará al Gobierno nacional a que
+radique, lo más pronto posible, el proyecto de ley aprobatorio del “*Convenio Marco de Cooperación entre la República de Colombia
+y el Reino de España*” ante el Congreso de la República, incorporando
+el respectivo análisis de impacto fiscal, en cumplimiento del artículo 7 de la
+Ley 819 de 2003. Ello, teniendo en cuenta la relevancia que para el país
+significa la cooperación con el Reino de España y que el objeto del Convenio
+consiste precisamente en establecer
+un marco jurídico y de entendimiento para la identificación, desarrollo,
+ejecución y evaluación de las políticas, programas y proyectos, en las
+siguientes áreas de cooperación: cooperación para el desarrollo, acción
+humanitaria y de emergencia desde gestión del riesgo, educación para el
+desarrollo y sensibilización, entre otras.[77]
+
+**4. Síntesis de la decisión**
+
+106. La Corte Constitucional
+asumió la revisión del “Convenio Marco de Cooperación entre la República de
+Colombia y el Reino de España”, suscrito en Madrid, Reino de España, el 3 de
+marzo de 2015, y de la Ley 2274 del 5 de noviembre de 2022, aprobatoria de aquel.
+
+107. En la revisión formal, la Corte concluyó que el Estado
+colombiano fue representado válidamente durante la negociación, celebración y
+suscripción del Convenio y que el presidente de la República sometió el acuerdo
+ante el Congreso de la República, en cumplimiento de los requisitos
+constitucionales que se exigen en el trámite previo gubernamental. Sin embargo,
+al proceder con el análisis sobre el trámite legislativo de la ley aprobatoria
+del tratado, advirtió que a éste le era exigible el análisis de impacto
+fiscal, en consideración a que: (i) el trámite de aprobación en el Congreso
+inició con posterioridad al 30 de julio de 2021 (fecha en la que se notificó la
+Sentencia C-170 de 2021); y (ii) los artículos 11 y 12 del Convenio
+consagran beneficios tributarios. No obstante, se evidenció que, ni al
+presentar el proyecto de ley que dio origen a la Ley 2274 de 2022 ni durante su
+trámite legislativo, el Gobierno nacional presentó un análisis relativo al
+impacto fiscal de los beneficios tributarios previstos en el Convenio; lo que
+impidió que el Congreso de la República conociera de manera suficiente los
+efectos de la aprobación de la ley.
+
+108. La Corte estimó, en línea con la jurisprudencia
+constitucional, que este vicio es de carácter insubsanable cuando se trata de
+un proyecto de ley aprobatoria de un tratado internacional, en la medida en
+que: (i) estos son de iniciativa gubernamental y en esas circunstancias, el
+examen del cumplimiento de tales cargas y responsabilidades en cabeza del
+Gobierno nacional es estricto; (ii) la exigencia del análisis es transversal al
+procedimiento en el Congreso de la República y por consiguiente, su omisión se
+proyecta frente a la totalidad del trámite legislativo; y (iii) tiene
+incidencia en el principio de publicidad en el trámite ante el Congreso de la
+República.[78]
+
+109. Además, advirtió que el contenido de las cláusulas con
+alcance tributario fueron aprobadas por el Congreso de la República en forma
+global, sin que sea viable un alcance parcial de la decisión por vicios de
+procedimiento, pues con ella se impactaría la integralidad de aquel y se
+afectaría el marco competencial del propio Congreso y del Presidente de la
+República, especialmente en el ámbito del derecho internacional.
+
+110. En ese sentido, la Corte consideró necesario (i) declarar la inexequibilidad
+de la Ley 2274 de 2022, aprobatoria del *“Convenio Marco de Cooperación entre
+la República de Colombia y el Reino de España”* y, (ii) exhortar al Gobierno
+nacional a radicar, lo más pronto posible, el proyecto de
+ley aprobatorio del Convenio ante el Congreso de la República, incorporando el
+respectivo análisis del impacto fiscal, en consideración a la importancia de la
+cooperación entre el Reino de España y la Republica de Colombia.
+
+**VI. DECISIÓN**
+
+En mérito de lo expuesto, la Sala Plena de la Corte
+Constitucional de la República de Colombia, administrando justicia en nombre
+del pueblo y por mandato de la Constitución,
+
+**RESUELVE**
+
+**PRIMERO.** Declarar **INEXEQUIBLE** la Ley 2274 del 5 de noviembre de 2022, *“por
+medio de la cual se aprueba el ‘Convenio Marco de Cooperación entre la
+República de Colombia y el Reino de España’, suscrito en Madrid, Reino de
+España, el 3 de marzo de 2015”*, por
+vicio de trámite y conforme a las razones expuestas en esta providencia.
+
+**SEGUNDO.** **EXHORTAR** al Gobierno
+nacional a que radique, lo más pronto posible, el proyecto de ley
+aprobatorio del “*Convenio Marco de Cooperación entre la República de
+Colombia y el Reino de España*” ante el Congreso de la República,
+incorporando el respectivo análisis de impacto fiscal, en cumplimiento del
+artículo 7 de la Ley 819 de 2003, conforme a lo señalado en la parte motiva de
+esta providencia.
+
+Notifíquese, comuníquese y cúmplase.
+
+DIANA FAJARDO
+RIVERA
+
+Presidenta
+
+NATALIA ÁNGEL CABO
+
+Magistrada
+
+JUAN CARLOS CORTÉS
+GONZÁLEZ
+
+Magistrado
+
+JORGE ENRIQUE
+IBÁÑEZ NAJAR
+
+Magistrado
+
+ALEJANDRO LINARES
+CANTILLO
+
+Magistrado
+
+Con salvamento de
+voto
+
+ANTONIO JOSÉ
+LIZARAZO OCAMPO
+
+Magistrado
+
+Con salvamento de
+voto
+
+PAOLA ANDREA
+MENESES MOSQUERA
+
+Magistrada
+
+CRISTINA PARDO
+SCHLESINGER
+
+Magistrada
+
+JOSE FERNANDO
+REYES CUARTAS
+
+Magistrado
+
+ANDREA LILIANA
+ROMERO LOPEZ
+
+Secretaria General
+
+CONVENIO
+MARCO DE COOPERACIÓN
+
+ENTRE
+LA REPÚBLICA DE COLOMBIA
+
+Y
+
+EL
+REINO DE ESPAÑA
+
+La República de Colombia y
+el Reino de España, en adelante las Partes.
+
+CONSIDERANDO
+
+I. Que se encuentran unidas
+por profundos nexos históricos, culturales y sociales, y están animadas por el
+deseo de reforzar los tradicionales lazos de amistad y cooperación que unen a
+los dos países;
+
+II. Que aspiran a lograr un
+desarrollo global, participativo y sostenible, centrado en la persona;
+
+III. Que desean trabajar
+conjuntamente por el fomento de las capacidades institucionales, sociales,
+humanas, económicas y culturales, entre otras.
+
+IV. Que reconocen el
+compromiso con los Objetivos de Desarrollo del Milenio y su efectivo
+cumplimiento, así como con los principios de Apropiación, Alineamiento,
+Armonización, Gestión orientada por Resultados y Mutua Responsabilidad
+reconocidos en las conferencias de Monterrey, Paris, Accra y Busán, así como
+los que se reconozcan en futuros compromisos que sean suscritos por las Partes;
+
+V.
+
+VI. Sobre la base del
+respeto a los principios de Independencia, soberanía, no Injerencia en asuntos
+internos y de igualdad jurídica,
+
+Han convenido celebrar el
+presente convenio marco;
+
+**ARTÍCULO
+1.****OBJETO.**
+
+El Presente Convenio tiene
+por objeto establecer un marco jurídico y de entendimiento para la
+identificación, desarrollo, ejecución y evaluación de las políticas, programas,
+proyectos y cualquier Intervención de cooperación que acuerden las Partes, que
+serán ejecutados con arreglo a estas disposiciones, en ambos países o en países
+terceros.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+2. ÁREAS DE****LA COOPERACIÓN.**
+
+La cooperación entre las
+Partes se realizará en las áreas que éstas convengan de mutuo acuerdo. Entre
+dichas áreas se priorizarán:
+
+a) Cooperación para el
+Desarrollo
+
+b) Acción Humanitaria y de
+Emergencia, en particular desde el ámbito de la gestión del riesgo.
+
+c) Educación para el
+Desarrollo y Sensibilización
+
+d) Otras áreas acordadas
+entre las partes
+
+**ARTÍCULO 3.****ÓRGANOS
+COMPETENTES.**
+
+Corresponde a los órganos
+competentes definidos por las Partes la programación, coordinación y ejecución
+de las intervenciones que se desarrollen en el marco del presente Convenio.
+
+El Ministerio de Relaciones
+Exteriores de la República de Colombia y el Ministerio de Asuntos Exteriores y
+de Cooperación del Reino de España se configurarán como las instituciones que
+garanticen el marco jurídico internacional y de entendimiento de las
+intervenciones conjuntas y la coherencia de las actividades de cooperación
+frente a los ámbitos de relación política, social y económica.
+
+En lo que se refiere a la
+República de Colombia, el Ministerio de Relaciones Exteriores es el ente rector
+de la Política Exterior del país, al igual que formula la política de
+cooperación Internacional. La Agencia Presidencial de Cooperación Internacional
+de Colombia, APC-Colombia o la entidad que haga sus veces será la encargada de
+coordinar, articular y promover la cooperación técnica y financiera no
+reembolsable que se reciba y otorgue en el marco de este convenio,
+correspondiendo la ejecución a las diversas entidades colombianas públicas o
+privadas, de carácter nacional, regional o local, tal y como se definen en las
+diversas intervenciones de cooperación. Adicionalmente, se encargará de
+coordinar, cuando sea el caso, con las entidades de orden nacional,
+departamental y municipal en tanto receptoras y ejecutoras, de cooperación
+entre los dos países.
+
+El Departamento Nacional de
+Planeación y el Ministerio de Hacienda y Crédito Público de la República de
+Colombia, o quienes hagan sus veces, serán los encargados de coordinar la
+cooperación financiera rembolsable que se reciba y otorgue en el marco de este
+Acuerdo. El Departamento Nacional de Planeación realizará la programación y
+priorización de los proyectos sujetos de financiamiento. A su vez, el
+Ministerio de Hacienda y Crédito Público expedirá las autorizaciones de
+endeudamiento necesarias para otorgar el financiamiento a dichos proyectos. En
+los casos en que el prestatario no sea la Nación, el Ministerio efe Hacienda y
+Crédito Público podrá expedir las garantías y autorizaciones según corresponda.
+El Departamento Nacional de Planeación y el Ministerio de Hacienda y Crédito
+Público harán seguimiento a la ejecución de los recursos y tomarán las
+decisiones sobre cancelaciones, reprogramaciones y prórrogas que aseguren el
+equilibrio técnico y financiero de los proyectos.
+
+En lo que se refiere al
+Reino de España,
+
+El Ministerio de Asuntos
+Exteriores y de Cooperación, a través de la Secretaría de Estado de Cooperación
+Internacional y para Iberoamérica (SECIPI), será el responsable de la dirección
+de la política de cooperación internacional para el desarrollo y de la
+coordinación de los órganos de la Administración General del Estado. La Agencia
+Española de Cooperación Internacional para, el Desarrollo (AECID), será la
+institución encargada del fomento, gestión y ejecución de las políticas
+públicas de cooperación para e! desarrollo, sin perjuicio de las competencias
+asignadas a otros entes estatales y subestatales.
+
+Para la implementación de su
+mandato, la AECID dispone de tres tipos de Unidades de Cooperación en el
+Exterior: las Oficinas Técnicas de Cooperación, los Centros de Formación y los
+Centros Culturales, todas ellas Unidades adscritas orgánicamente a las
+Embajadas de España y dependientes funcionalmente de la AECID. La AECID cuenta
+en Colombia con una Oficina Técnica de Cooperación y un Centro de Formación de
+la Cooperación Española en Cartagena de indias. Las Unidades de Cooperación en
+el Exterior de la AECID que se creen en el futuro para funcionar en Colombia
+serán incorporadas al marco jurídico del presente convenio mediante intercambio
+de notas verbales.
+
+Por su parte, la cooperación
+para el desarrollo que se realice desde las Comunidades Autónomas y las
+Entidades Locales españolas se basa en los principios de Autonomía
+Presupuestaria y Autorresponsabilidad en su desarrollo y ejecución, debiendo
+respetar las líneas generales y directrices básicas establecidas en la Ley de Cooperación
+Internacional para el Desarrollo de España, así como el principio de
+colaboración entre las Administraciones Públicas en cuanto al acceso y la
+participación de la información y el máximo aprovechamiento de los recursos
+públicos.
+
+Las organizaciones no
+gubernamentales para el desarrollo (ONGDs), las universidades, organizaciones
+empresariales, fundaciones, y asociaciones y otros actores de cooperación
+internacional, se consideran como agentes sociales y de cooperación de carácter
+prioritario, constituyéndose como actores tanto para la puesta en marcha de
+Intervenciones de cooperación, como también para su diseño, planificación y
+evaluación.
+
+Con respecto al personal de
+las organizaciones no gubernamentales para el desarrollo: (ONGDs), las
+universidades, organizaciones empresariales, fundaciones, asociaciones y otros
+actores de cooperación internacional, es preciso señalar que no se les otorgará
+los beneficios, fiscales que se otorga a los funcionarios diplomáticos en el
+marco de la Convención de Viena sobre Relaciones Diplomáticas, de 1931.
+
+Las Partes facilitarán y
+promoverán la realización de proyectos de cooperación, en particular de
+cooperación para el desarrollo por parte de ONGD y de otros actores de
+cooperación originarios de uno u otro país, conforme a los términos del
+presente Convenio.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+4.****ALCANCE Y ÁMBITO DE APLICACIÓN.**
+
+Las actividades de
+cooperación bilateral que se concreten en Virtud del presente Convenio podrán
+integrarse en planes nacionales o regionales de cooperación.
+
+Las Partes podrán realizar
+actividades conjuntas de cooperación con y en terceros países, así como
+participar y articular esfuerzos a nivel multilateral.
+
+Las Partes podrán, siempre
+que lo consideren necesario, solicitar la participación de organismos
+internacionales, regionales u otros Estados para la financiación y ejecución
+total o parcial de las actividades a desarrollar según los diferentes
+instrumentos y modalidades de la cooperación mencionados en el artículo 5 del
+presente convenio.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+5.****INSTRUMENTOS Y MODALIDADES DE COOPERACIÓN.**
+
+La cooperación entre las
+Partes se materializará a través de cualquier instrumento y modalidades, de
+Ayuda Oficial al Desarrollo que las Partes pudieran convenir de mutuo acuerdo.
+Entre ellos se priorizarán:
+
+i. Programas y proyectos de
+cooperación para el desarrollo.
+
+ii. La ayuda programática,
+en especial los fondos canasta, que faciliten la coordinación y la armonización
+entre donantes.
+
+iii. La asistencia técnica y
+el intercambio de conocimiento técnico y científico, incluyendo la formación.
+
+iv. La cooperación en al
+ámbito académico, a través del intercambio de conocimiento y experiencias entre
+Universidades e instituciones de ambos países.
+
+v. La cooperación financiera
+reembolsable y no reembolsadle.
+
+vi. Instrumentos, de apoyo a
+la pequeña y mediana empresa
+
+vii. La financiación a
+través de Organizaciones No Gubernamentales de Desarrollo (ONGD)
+
+viii. La participación en
+iniciativas relacionadas con Fondos Globales
+
+ix. La financiación a través
+de organismos multilaterales
+
+x. La ayuda alimentaria
+
+xi. La Acción Humanitaria
+
+xii. La cooperación cultural
+
+xiii. La Cooperación
+triangular
+
+xiv. Cualquier otra
+modalidad de cooperación convenida entre las partes.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+6.****OPCIONES DE CANALIZACIÓN DE RECURSOS.**
+
+La cooperación entre las
+Partes se realizará mediante las opciones de canalización de recursos que la
+Partes pudieran convenir de mutuo acuerdo conforme a lo dispuesto en el
+artículo 18 del presente Convenio. Entre dichas opciones de priorizarán:
+
+i. Instituciones del Estado
+colombiano
+
+ii. ONGD, Fundaciones y
+organizaciones de la sociedad civil (españolas y colombianas).
+
+iii. Organismos
+multilaterales.
+
+iv. Otras Entidades
+españolas y colombianas de interés público y con valor agregado en materia de
+cooperación
+
+Los instrumentos, opciones y
+ámbitos antes descritos, así como cualquier otro que sea considerado por las
+Partes para su utilización en las intervenciones de cooperación, deberán ser
+coherentes y complementarios, de forma que contribuyan a la consecución de los
+objetivos de desarrollo que las Partes hayan definido de manera conjunta.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+7.****COHERENCIA Y ARTICULACIÓN DE LA COOPERACIÓN.**
+
+Las Partes buscarán la
+máxima coordinación y alineamiento de la cooperación con los objetivos de sus
+políticas de desarrollo, con el fin de fortalecer los esfuerzos nacionales,
+evitar la duplicación o la realización de acciones aisladas; así como con las
+actividades de cooperación de otros organismos internacionales, regionales o de
+terceros estados.
+
+Para efectos de garantizar
+el logro de los objetivos del presente Convenio, ambas Partes se comprometen a:
+
+**1)**Elaborar
+conjuntamente el Programa de Cooperación Hispano - Colombiano, haciendo
+converger sus respectivas prioridades y estrategias de desarrollo y participar
+activamente en los mecanismos establecidos en el presente Convenio.
+
+**2)**Impulsar
+las relaciones, intercambios y cooperación entre instituciones., organismos,
+entidades y organizaciones de cada Parte, así como entre profesionales,
+técnicos, especialistas, investigadores, científicos, intelectuales, entre
+otros, en todos los ámbitos de cooperación;
+
+**3)**Fomentar
+el fortalecimiento de las instituciones, organizaciones, centros o mecanismos,
+que se consideren pertinentes para el Impulso y/o complemento de las acciones
+de cooperación, según lo acuerden las Partes.
+
+**4)**Coordinar
+internamente con sus respectivas administraciones y/o entidades con
+competencias en la materia, las actuaciones a realizar en virtud del presente
+Convenio; a efectos de garantizar la unidad de acción y dé alcanzar la mayor
+eficacia de los esfuerzos dé cada Parte.
+
+**5)**Adoptar
+las medidas necesarias para que las acciones que se realicen y los recursos,
+bienes, técnicas y conocimientos que se adquieran como resultado de la
+cooperación bilateral contribuyan de manera eficiente y efectiva al desarrollo
+de sus respectivos países.
+
+**6)**Potenciar
+el conocimiento por parte de la opinión pública de ambos países de los logros
+de la cooperación, con el fin de contribuir a profundizar una cultura de
+cooperación en sus sociedades.
+
+**7)**Adoptar
+las medidas legales, administrativas y presupuestarias necesarias para el
+cumplimiento de los compromisos asumidos en virtud del presente Convenio.
+
+**8)**Promover
+la Cooperación Triangular cómo una alternativa de cooperación con el fin de
+fomentar el desarrollo y servir de factor de equilibrio y progreso para los
+países de su entorno, al tiempo que se contribuye de manera importante a la
+provisión de bienes públicos globales y se fortalece el papel de los Países de
+Renta Media, no sólo como receptores de cooperación sino como oferentes de
+ayuda.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+8.****LA COMISIÓN MIXTA.**
+
+Con la finalidad de
+facilitar el eficiente cumplimiento del presente Convenio, ambas Partes
+convienen en contar con una "Comisión Mixta Hispano- Colombiana de
+Cooperación” en adelante denominada "Comisión Mixta". La Comisión
+Mixta es la instancia de coordinación de más alto nivel a efectos de la
+programación plurianual de las acciones de cooperación bilateral comprendida en
+el presente Convenio.
+
+La "Comisión
+Mixta" estará presidida por el Ministerio de Relaciones Exteriores de la
+República de Colombia y por el Ministerio de Asuntos Exteriores y de
+Cooperación del Reino de España y compuesta por los representantes que éstos
+designen respectivamente. Se reunirá cada cuatro años con carácter ordinario,
+alternativamente en Colombia y en España. Las Partes podrán convocar, de común
+acuerdo y cuando lo consideren necesario, reuniones extraordinarias de la
+Comisión Mixta. Asimismo, podrán acordar variar la periodicidad de las reuniones
+ordinarias.
+
+La preparación de la
+Comisión Mixta se realizará en el tercer año de vigencia del presente Convenio,
+a fin de garantizar la adecuada preparación y la realización del balance
+correspondiente de los proyectos. De igual forma, anualmente se reunirá la
+Comisión dé Planificación, Seguimiento y Evaluación, de acuerdo a lo estipulado
+en el Artículo 9 del presente Convenio Marco.
+
+La Comisión Mixta se reunirá
+con el fin de definir los ámbitos sectoriales y geográficos prioritarios de la
+Cooperación Española en Colombia, así como para aprobar conjuntamente, evaluar
+y dar seguimiento a las actuaciones en dichos ámbitos prioritarios, que deberán
+estar. Alineadas con los documentos de planificación estratégica de las Partes.
+
+Las funciones de la Comisión
+Mixta son;
+
+1) Dar respaldo, mediante la
+firma de un acta de reunión, a los contenidos referentes a la planificación
+estratégica de la Cooperación Española en Colombia (Marco de Asociación País
+-MAP- o documento equivalente). Dichos contenidos, serán elaborados conjunta y
+participativamente entre ambos Estados, contendrán los objetivos de desarrollo
+a alcanzar, así como los ámbitos y prioridades sectoriales y las zonas
+prioritarias de actuación en que sea deseable la realización de Intervenciones
+de cooperación para el desarrollo.
+
+2) Proponer a los órganos
+competentes los planes y programas de cooperación, recogiéndolos en las
+correspondientes actas de las reuniones de la Comisión Mixta.
+
+3) Revisar periódicamente
+los planes y programas aprobados, evaluando los resultados obtenidos en la
+ejecución de las políticas, planes, programas o proyectos implementados y
+efectuando las recomendaciones que se consideren convenientes, para la mejoría
+de la calidad, eficacia, eficiencia y buen manejo de la cooperación.
+
+4) Presentar a los órganos
+competentes las memorias de la cooperación hispano - colombiana, que serán
+recogidas en las correspondientes actas de las reuniones de Comisión Mixta.
+
+5) Acordar el mecanismo de
+seguimiento y evaluación que será utilizado para los planes y programas
+aprobados en la Comisión Mixta.
+
+6) Las demás tareas que le
+sean asignadas por los órganos competentes de las Partes.
+
+Cada una de la Partes podrá,
+en cualquier momento, presentar a la otra, propuestas de cooperación utilizando
+al efecto los usuales canales diplomáticos.
+
+En el proceso de
+planificación, seguimiento y evaluación de la cooperación, las Partes
+promoverán la más amplia participación de todos los actores involucrados, sean
+públicos o privados, permitiendo su intervención activa en las sesiones de
+Comisión Mixta.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+9.****LA COMISIÓN DE PLANIFICACIÓN, SEGUIMIENTO Y EVALUACIÓN.**
+
+La Comisión Mixta contará
+con una Comisión de Planificación, Seguimiento y Evaluación, que será el
+mecanismo de coordinación, seguimiento, evaluación y elaboración de
+recomendaciones de las acciones comprendidas en el presente Convenio, en el
+marco de los acuerdos adoptados por la Comisión Mixta.
+
+La Comisión de
+Planificación, Seguimiento y Evaluación estará integrada por dos o más
+representantes de alto nivel de los respectivas órganos competentes en materia
+de cooperación de las Partes, y tendrá asignadas las siguientes funciones:
+
+1. Verificar que las
+Intervenciones de cooperación se orienten hacia las prioridades sectoriales y
+geográficas establecidas en el MAP vigente. Dichas prioridades deberán ser
+coherentes con los documentos programáticos de desarrollo y lucha contra la
+pobreza de Colombia y de España.
+
+2. Revisar periódicamente
+los planes y programas aprobados, evaluando los resultados obtenidos en la
+ejecución de las políticas, planes, programas a proyectos implementados y
+efectuando las recomendaciones que se consideren convenientes para la mejoría
+de la calidad, eficacia y eficiencia de la cooperación.
+
+a. Identificación de
+programas y/o proyectos que serán aprobados vía Comisión Mixta o notas
+verbales.
+
+b. Seguimiento de los
+programas y/o proyectos en marcha.
+
+c. Análisis de evaluaciones
+presentadas y si corresponde presentar recomendaciones para su cumplimiento por
+parte de la entidad ejecutora.
+
+d. Emisión de
+recomendaciones sobre los proyectos y programas bilaterales presentados para su
+financiamiento.
+
+e. Realización de visitas
+conjuntas a los programas y/o proyectos cuando se considere necesario, con la
+finalidad de monitorear y evaluar el avance y/o el cumplimiento de los
+objetivos y resultados establecidos.
+
+3. Apoyar la preparación de
+los documentos estratégicos de cooperación hispano-colombiana y de las
+siguientes Comisiones Mixtas hispano- colombianas de cooperación.
+
+4. Aprobar los Informes de
+seguimiento, revisión y actualización del Marco de Asociación País vigente.
+Participar en la evaluación final del MAP, y en aquellas otras evaluaciones de
+programas o sectores que se decidan.
+
+5. Elaborar el Marco de
+Asociación País y la Comisión Mixta, cuando corresponda.
+
+**ARTÍCULO 10.****COMPROMISOS
+DE LA PARTE ESPAÑOLA.**
+
+La Parte Española:
+
+1) Tomará las medidas
+oportunas para realizar el seguimiento de las actividades priorizadas en el
+marco de este Convenio desde las Unidades de Cooperación en el Exterior (UCEs)
+que la AECID determine al efecto.
+
+2) Tomará las medidas
+necesarias para proporcionar los recursos necesarios para el desarrollo de las
+actividades priorizadas por las Partes, en las cantidades y proporción
+definidas conjuntamente con la Parte colombiana. Estos recursos serán de
+carácter Financiero y no financiero (material, equipo y demás bienes y
+servicios necesarios).
+
+3) Tomará las medidas
+necesarias para facilitar el apoyo de expertos y/o voluntarios, así cómo de
+organizaciones o Instituciones públicas o privadas que desarrollen actividades
+en los programas y/o proyectos de cooperación acordados por las Partes.
+
+4) Tomará las medidas
+necesarias para promover el acceso a procesos de formación para colombianos en
+consecuencia con los objetivos que se fijen para la política española de
+cooperación, y en atención a los requerimientos y necesidades de capacitación
+técnica, científica y profesional de la sociedad colombiana,
+
+5) Tomará las medidas
+necesarias para facilitar, siempre que se cumplan los requisitos exigidos por
+la normativa vigente, para facilitar los trámites de visado para los ciudadanos
+colombianos implicados en los programas de cooperación entre los dos países, que
+necesiten viajar a España al amparo de lo establecido en el presente convenio.
+
+6) Tomará las medidas
+necesarias para aplicar al personal cooperante colombiano los privilegios,
+ventajas y exoneraciones señaladas en el artículo 12 del presente Convenio Marco.
+
+7) La Parte Española se hará
+cargo de los gastos que le correspondan en aplicación del Convenio hasta el
+límite establecido, para cada ejercicio anual, por los Presupuestos Generales
+del Estado.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+11****. COMPROMISOS DE LA PARTE COLOMBIANA.**
+
+La Parte colombiana:
+
+1) Tomará las, medidas
+necesarias para proporcionar los recursos de contrapartida necesarios para el
+desarrollo de las actividades priorizadas por las Partes, en las cantidades y
+proporción definidas conjuntamente con la Parte española. Estos recursos serán
+de carácter financiero y no financiero (material, equipo y demás bienes y
+servicios necesarios).
+
+2) Tomará las medidas
+necesarias para asignar personal de contraparte a los expertos y/o voluntarios
+proporcionados por la Parte española, así como para facilitar el desarrollo de
+sus funciones en el país.
+
+3) Tomará las medidas
+necesarias para articular la colaboración y/o participación de las entidades o
+instituciones públicas y/o privadas involucradas en los programas y lo
+proyectos de cooperación.
+
+4) Exonerará del pago de
+derechos aduaneros, impuestos de Importación, IVA y aquellas otras tasas y
+gravámenes de índole nacional a las compras, adquisiciones y servicios
+realizados en los proyectos y programas financiados por la AEGID.
+
+5) Otorgar reconocimiento
+oficial a la Oficina Técnica de Cooperación en Bogotá y al Centro de Formación
+en Cartagena de Indias, como dependencias adscritas a la Embajada de España, y
+garantizando la aplicación de los artículos de la Convención de Viena sobre
+Relaciones Diplomáticas de 1.961, relativos a los locales de misiones
+diplomáticas. Los beneficios que se conceden al personal de estas dependencias
+se rigen por las reglas establecidas en el artículo 12 del presente Convenio.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+12.** Privilegios e Inmunidades del Personal Cooperante y del
+Director coordinador de las Unidades de Cooperación en el Exterior de AECID
+
+Con la finalidad de
+facilitar y potenciar la cooperación entre España y Colombia, las Partes
+consideran al Personal Cooperante miembros de la Misión Diplomática, siempre
+que sean enviados por ambos Estados en el marco del presente Convenio, y que no
+sean nacionales del Estado al que sean enviados, ni extranjeros residentes en
+el mismo, aplicándoles los privilegios e inmunidades que prevé la Convención de
+Viena sobre Relaciones Diplomáticas de 1961 para el personal administrativo y
+técnico."
+
+Quedan por tanto excluidos
+de las ventajas fiscales incluidas en el presente Convenio a las personas con
+nacionalidad española y a las personas de otra nacionalidad que, en el momento
+adscripción al organismo, sean residentes fiscales en España.
+
+Se entiende por personal
+cooperante el personal técnica contratada por la AECID debidamente acreditado
+en Colombia y los expertos financiados por la AECID debidamente acreditados
+como asistencias técnicas del Gobierno español
+
+Dicho personal cooperante
+será acreedor de los siguientes privilegios e inmunidades;
+
+1. La importación con
+franquicia, dentro de lo previsto en las normas jurídicas Internas, la
+importación de sus efectos personales y su menaje, y la Importación, por una
+sola vez, de un vehículo para uso personal de conformidad con las disposiciones
+legales vigentes de cada país. Los objetos importados con franquicia aduanera
+no podrán ser enajenados en el territorio de la otra. Parte, salvo cuando las
+autoridades competentes de dicho territorio lo permitan y previo cumplimiento
+de los requisitos exigidos por el ordenamiento jurídico interno.
+
+2. El personal cooperante
+que en forma oficial intervenga en los proyectos de cooperación, se someterá a
+las disposiciones del presente Convenio y no podrá dedicarse a ninguna
+actividad ajena a sus funciones ni recibir remuneración alguna, fuera de las
+estipuladas por las Partes.
+
+3. Los privilegios e
+Inmunidades únicamente serán otorgados al personal cooperante de las Unidades
+de Cooperación de AECID en Colombia, de conformidad con lo dispuesto en los
+artículos 3 y 12, siempre y cuando las actividades a realizar en el marco del
+presente Convenio, sean superiores a un año.
+
+4. El Director/Coordinador
+de las Unidades de Cooperación en el Exterior de AECID, gozarán de los
+privilegios e inmunidades que se otorgan al personal diplomático de las
+misiones extranjeras acreditadas en Colombia.
+
+Las exoneraciones y
+facilidades establecidas en el numeral 1 del presente artículo serán concedidas
+por las Partes a título de reciprocidad y de acuerdo con la legislación
+nacional vigente de los respectivos Estados. Cualquier modificación en la
+normatividad Interna.al respecto será Incluida en este Convenio por vía de
+enmiendas, conforme a lo dispuesto en el artículo 19
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+13****. NÚMERO DEL PERSONAL COOPERANTE.**
+
+El aumento en el número del
+personal cooperante de las oficinas y dependencias adscritas a la Embajada de
+España, será consultado con el Gobierno mediante comunicación escrita al
+Ministerio de Relaciones Exteriores del Estado Anfitrión.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+14.****CUMPLIMIENTO DE LEGISLACIÓN.**
+
+Todos los actores de
+cooperación y el personal cooperante amparado en este Convenio respetarán y
+cumplirán las Legislaciones vigentes de ambas Partes.
+
+**ARTÍCULO
+15. ENTRADA EN VIGOR Y TERMINACIÓN.**
+
+El presente Convenio entrará
+en vigor a los treinta (30) días siguientes contados a partir de la fecha en la
+cual se acuse recibo de la última de las notificaciones por medio de las cuales
+las Partes se comuniquen por vía diplomática el cumplimiento de los requisitos
+internos a tal efecto.
+
+Cualquiera de las Partes
+podrá dar por terminado el presente Convenio Esta, decisión deberá notificarse
+por escrito a la otra parte, por vía diplomática, con una antelación de al
+menos noventa (90) días a la fecha en la que se pretende hacer efectiva la
+terminación.
+
+La terminación del presenté
+Convenio no afectará la conclusión de las acciones de Cooperación que hubieran
+sido formalizadas durante su vigencia o de los proyectos que se encuentren en
+ejecución.
+
+**ARTÍCULO
+16. DURACIÓN.**
+
+El presente Convenio tendrá
+una duración indefinida.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+17****. SOLUCIÓN DE CONTROVERSIAS.**
+
+Las Partes, por vía
+diplomática, se consultarán respecto a cualquier asunto que pueda originarse en
+relación con el presente Convenio Marco Cualquier controversia que surja o
+pueda surgir con respecto a la Interpretación o aplicación del presente
+Convenio, será resuelta mediante negociaciones directas entre las Partes. En
+caso de que estas negociaciones no sean exitosas, la controversia será,
+sometida a los restantes medios de solución pacifica reconocidos por el Derecho
+Internacional.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+18.****ACUERDOS COMPLEMENTARIOS.**
+
+Las partes podrán concertar
+acuerdos complementarios con miras a desarrollar y ejecutar los compromisos
+convenidos en el presente Convenio.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+19.****ENMIENDAS.**
+
+Cualquier parte podrá,
+proponer enmiendas al presente Convenio. Las propuestas de enmienda entrarán en
+vigor de conformidad con el procedimiento establecido en el artículo 15 del
+presente Convenio.
+
+http://www.secretariasenado.gov.co/senado/basedoc/ley_2274_2022.html
+- top
+
+**ARTÍCULO
+20.****VIGENCIA DE CONVENIOS ANTERIORES.**
+
+El presente Convenio deroga
+en su. totalidad el “Convenio Básico de cooperación científica y técnica entre
+el Gobierno de la República de Colombia, y el Gobierno de España",
+suscrito en Madrid el 27 de junio de 1979, y el “Acuerdo Complementario General
+de cooperación del Convenio Básico de cooperación técnica y científica”, suscrito
+en Madrid el 31 de mayo de 1988, a partir de la fecha de su entrada en Vigor.
+No obstante, no se verán afectadas las actividades que todavía se encuentran en
+ejecución del Convenio Básico de 1979 y de su Acuerdo Complementario de 1988.
+
+En FE DE LO CUAL, los
+Plenipotenciarios de los dos Gobiernos firman el presente Convenio, en Madrid
+el 3 de marzo de 2015, en dos ejemplares originales en español igualmente
+válidos y estampan en ellos sus respectivos sellos.
+
+Por
+el Gobierno de la República de Colombia
+
+**MARÍA ANGELA
+HOLGUIN CUÉLLAR**
+
+Ministra
+de Relaciones Exteriores
+
+Por
+el Gobierno del Reino de España
+
+**JOSE
+MANUEL GARCIA MARGALLO**
+
+Ministro
+de Asuntos Exteriores y de Cooperación del Reino de España
+
+**SALVAMENTO DE VOTO DEL MAGISTRADO**
+
+**ANTONIO JOSÉ LIZARAZO OCAMPO**
+
+**A LA SENTENCIA C-459/23**
+
+**REQUISITO
+DE ANÁLISIS DE IMPACTO FISCAL EN PROYECTO DE LEY APROBATORIA DE TRATADO
+INTERNACIONAL QUE ORDENE GASTOS O CONTENGA BENEFICIOS TRIBUTARIOS-**No es exigible
+(Salvamento de voto)
+
+Referencia:
+Expediente LAT-485
+
+Con el acostumbrado respeto por las decisiones de la mayoría, me aparto
+de la declaratoria de inexequibilidad declarada mediante la sentencia C-459 de
+2023, porque considero que no concurren las
+circunstancias ni los presupuestos jurídicos para exigir el cumplimiento del
+análisis de impacto fiscal en el trámite de la Ley 2274 de 2022, aprobatoria
+del ‘Convenio Marco de Cooperación entre la República de Colombia y el Reino de
+España’, suscrito en Madrid el 3 de marzo de 2015.
+
+Conforme a la
+jurisprudencia de la Corte, tal como se dijo en la sentencia C-459 de 2023, la
+exigencia del análisis del impacto fiscal de las leyes aprobatorias de tratados
+internacionales depende de que se acrediten dos presupuestos: (i) el temporal,
+consistente en que el proyecto de ley aprobatoria del tratado internacional
+haya sido radicado en el Congreso con posterioridad al 30 de julio de 2021
+-fecha en la cual la Sentencia C-170 de 2021 fue notificada-, y (ii) el
+material, referido a que alguna de las disposiciones del tratado analizado
+contenga una orden de gasto o conceda un beneficio tributario. Sin embargo,
+considero que la mayoría erró en este caso en la forma en que aplicó dichos
+criterios.
+
+***1.******Sobre aspecto temporal como
+presupuesto para exigir el análisis del impacto fiscal***
+
+En cuanto al aspecto temporal,
+la sentencia C-459 de 2023 sostuvo que en el presente caso era exigible el
+análisis de impacto fiscal porque el proyecto de ley que aprueba el convenio
+fue *radicado ante el Congreso* el 12 de agosto de 2021, es decir con
+posterioridad al 30 de julio de 2021, conforme a la regla de unificación
+adoptada en la C-126 de 2023.
+
+El artículo 7º de la Ley 819
+de 2002 dispone:
+
+“Artículo 7o. Análisis del impacto fiscal de las normas. En todo
+momento, el impacto fiscal de cualquier proyecto de ley, ordenanza o acuerdo,
+que ordene gasto o que otorgue beneficios tributarios, deberá hacerse explícito
+y deberá ser compatible con el Marco Fiscal de Mediano Plazo.
+
+Para estos propósitos, deberá incluirse expresamente en la
+exposición de motivos y en las ponencias de trámite respectivas los costos
+fiscales de la iniciativa y la fuente de ingreso adicional generada para el
+financiamiento de dicho costo.
+
+El Ministerio de Hacienda y Crédito Público, en cualquier tiempo
+durante el respectivo trámite en el Congreso de la República, deberá rendir su
+concepto frente a la consistencia de lo dispuesto en el inciso anterior. En
+ningún caso este concepto podrá ir en contravía del Marco Fiscal de Mediano
+Plazo. Este informe será publicado en la Gaceta del Congreso.
+
+Los proyectos de ley de iniciativa gubernamental, que planteen un
+gasto adicional o una reducción de ingresos, deberán contener la
+correspondiente fuente sustitutiva por disminución de gasto o aumentos de
+ingresos, lo cual deberá ser analizado y aprobado por el Ministerio de Hacienda
+y Crédito Público...”
+
+Conforme a esta disposición,
+tiene sentido que el momento determinante para establecer si es exigible el
+análisis del impacto fiscal, sea la fecha de la radicación del proyecto de ley
+ante el Congreso, pues expresamente dispone que el análisis del impacto fiscal
+de las normas debe incluirse en la “exposición de motivos (…)”, la cual forma
+parte del proyecto de ley que se radica.
+
+Ahora bien, a pesar de que la
+norma contiene un mandato claro e indiscutible, lo cierto es que entre el 30 de
+julio de 2021 -fecha de notificación de la sentencia C-170 de 2021- y el 29 de
+mayo de 2023 -fecha de notificación de la sentencia C-126 de 2023- la Corte
+Constitucional adoptó diversas interpretaciones respecto a la etapa a partir de
+la cual se entendería exigible el análisis de impacto fiscal, tomando como
+punto de partida la fecha de notificación de la sentencia C-170 de 2021. Así,
+mientras que las sentencias C-316 y C-448 de 2022 se precisó que dicha
+exigencia se aplicaría a los tratados *aprobados por el ejecutivo* luego
+de la notificación de la sentencia, las sentencias C-187 y C-447 de 2022
+determinaron que aplicaría a aquellos tratados *radicados en el Congreso*
+con posterioridad a la notificación de la sentencia. Es decir, durante el
+periodo en comento no había consenso o certeza del *criterio temporal* que
+permitiría definir si le era o no exigible el análisis del impacto fiscal.
+
+En efecto, esta situación
+repercutió en el asunto que ahora se revisa. El proyecto de Ley que dio origen
+a la Ley 2274 de 2022, por medio de la cual se aprueba el “Convenio Marco de
+Cooperación entre la República de Colombia y el Reino de España”, fue radicado
+en la Secretaría General del Senado de la República el 12 de agosto de 2021 y
+culminó el 11 de octubre de 2022, según refiere la sentencia. Esto es, todo su
+trámite legislativo tuvo lugar en un lapso durante el cual no era clara la
+postura de la Sala Plena de la Corte.
+
+En esa medida, considero que
+fue equivocada la aplicación retroactiva de la regla de unificación contenida
+en la C-126 de 2023, en tanto que se impuso una regla que fue fijada con
+posterioridad a la finalización de su trámite legislativo -11 de octubre de
+2022-. Además, porque durante el lapso del trámite de la ley era válido,
+conforme a una parte de la jurisprudencia de la Corte, afirmar que los
+proyectos de ley que aprobaran tratados no requerían de análisis de impacto
+fiscal cuando la *aprobación del tratado* por parte del presidente
+(decisión de remisión al Congreso) tuviera lugar antes del 30 de julio de 2021,
+tal como ocurrió en esta oportunidad en la que dicha aprobación presidencial
+fue impartida el 4 de abril de 2021.
+
+Tal interpretación de la Corte
+-en el sentido de no ser exigible el deber de presentar el análisis de impacto
+fiscal-, generaba confianza legitima de que esa era el alcance de la
+obligación, razón por la que no resulta ajustado afirmar que el Gobierno
+nacional tuvo tiempo suficiente, del 12 de agosto de 2021 -fecha de radicación
+del proyecto de ley en el Senado- al 11 de octubre de 2022 -fecha finalización
+del trámite legislativo-, para cumplir “con su obligación, pero no lo hizo”[79], olvidando que la obligación incluye
+el análisis de impacto fiscal en la exposición de motivos y no sólo en las
+respectivas ponencias para el debate.
+
+En definitiva, considero que
+este proyecto de ley se encontraba ajustado a una de las interpretaciones
+aceptadas por esta corporación en aquel momento y, por consiguiente, debió
+entenderse justificada la ausencia de análisis de impacto fiscal; así como
+superada dicha exigencia, para continuar con el control de constitucionalidad
+automático de la Ley 2274 de 2022.
+
+***2.******Sobre el aspecto material como
+presupuesto para exigir el análisis del impacto fiscal***
+
+En cuanto al aspecto material,
+la sentencia C-459 de 2023 explicó que los numerales 4 y
+5 del artículo 11 y el artículo 12 de la Ley 2274 de 2022 exoneran del pago de
+impuestos y gravámenes nacionales a algunos actos y sujetos pasivos que *normalmente
+estarían gravados*, y por ende, considera que estas consagran beneficios
+tributarios que debieron ser analizados durante el trámite legislativo del
+proyecto que dio lugar a la expedición de la Ley 2274 de 2022, a la luz de los
+deberes y mandatos de actuación que se derivan del artículo 7° de la Ley 819 de
+2003.
+
+Se equivoca nuevamente la
+mayoría porque, si bien el numeral 5 del artículo 11 y el artículo 12 tienen un
+impacto fiscal, no lo es así el numeral 4 del artículo 11, por la razón que
+planteo a continuación.
+
+El **numeral 4 del artículo
+11** indica: “La Parte colombiana: (…) 4) Exonerará del pago de derechos
+aduaneros, impuestos de importación, IVA y aquellas otras tasas y gravámenes de
+índole nacional a las compras, adquisiciones y servicios realizadas en los
+proyectos y programas financiados por la AECID” (AECID: Agencia Española de
+Cooperación Internacional para el Desarrollo).
+
+Téngase en cuenta que el
+artículo condiciona la exención a las compras, adquisiciones y servicios que
+tengan relación directa con los proyectos o programas que se lleguen a
+financiar por la AECID. Esto es, que dichas exenciones operarían respecto de
+fondos destinados a desarrollar programas de interés común, tal como lo prevé
+también de forma general el artículo 96 de la Ley 788 de 2022 para donaciones
+de gobiernos o entidades extranjeras *convenidos* con el Gobierno
+colombiano, que señala:
+
+“ARTÍCULO 96. EXENCIÓN PARA LAS DONACIONES DE GOBIERNOS O
+ENTIDADES EXTRANJERAS. {{Artículo modificado por el artículo 138 de la Ley 2010 de 2019. El nuevo texto es el siguiente:}} Se encuentran exentos de
+todo impuesto, tasa o contribución, los fondos provenientes de auxilios
+o donaciones de entidades o gobiernos extranjeros convenidos con el Gobierno
+colombiano, destinados a realizar programas de utilidad común y registrados
+en la Agencia Presidencial de la Cooperación Internacional. También gozarán
+de este beneficio tributario las compras o importaciones de bienes y la
+adquisición de servicios realizados con los fondos donados, siempre que se
+destinen exclusivamente al objeto de la donación. El Gobierno nacional
+reglamentará la aplicación de esta exención”.
+
+Así, habida cuenta de que la
+exención prevista en el numeral 4 del artículo 11 de la Ley 2274 se encuentra
+subsumida en el artículo 96 de la Ley 788 de 2022, aquella no estaría creando
+una nueva exención o beneficio tributario. En otras palabras, no exonera del
+pago de impuestos y gravámenes nacionales a actos y sujetos pasivos que *normalmente
+estarían gravados*. Porque como se dijo, los mismos ya se encontraban
+exentos o garantizados por el Estado colombiano con el artículo 96 de la Ley
+788 de 2022.
+
+Así las cosas, esta norma no
+hace más que reiterar lo previsto en la legislación colombiana, y así debió
+quedar consignado en la ponencia.
+
+En cambio, el **numeral 5 del
+artículo 11 y el artículo 12 de la Ley 2274 de 2022** sí extiende los
+Privilegios e Inmunidades previstos en la Convención de Viena al Personal
+Cooperante y al Director coordinador de las Unidades de Cooperación en el
+Exterior de AECID, incluyendo la exoneración de impuestos y gravámenes
+personales o reales, nacionales, regionales o municipales, y, la exención de
+toda clase de derechos de aduana, impuestos y gravámenes conexos, tanto de los
+objetos destinados al uso oficial de la misión, como de los objetos destinados
+al uso personal del agente diplomático o de los miembros de su familia que
+formen parte de su casa, incluidos los efectos destinados a su instalación,
+salvo los castos de almacenaje, acarreo y servicio análogos.
+
+Teniendo en cuenta que los
+Centros de Cooperación no son misiones diplomáticas -a quienes se aplica los
+beneficios de la Convención de Viena-, cuando el gobierno decide darles esa
+calidad les está concediendo a determinados sujetos pasivos unas exenciones que
+en condiciones normales no tendrían o que normalmente estarían gravados.
+
+Por
+tanto, con el numeral 5 del artículo 11 y el artículo 12 de la Ley 2274 de 2022
+se cumple el criterio material como presupuesto para exigir el análisis del
+impacto fiscal. No así respecto del numeral 4 del artículo 11.
+
+En
+todo caso, conforme al criterio temporal, la sentencia C-459 de 2023 debió entender justificada la ausencia de análisis
+de impacto fiscal, así como superada dicha exigencia respecto del numeral 5 del
+artículo 11 y del artículo 12 de la Ley 2274 de 2022, para continuar con el
+estudio constitucional formal y material del tratado y su ley aprobatoria.
+
+Por las razones expuestas, salvo el voto.
+
+**ANTONIO JOSÉ
+LIZARAZO OCAMPO**
+
+**Magistrado**
+
+**SALVAMENTO
+DE VOTO DEL MAGISTRADO**
+
+**ALEJANDRO
+LINARES CANTILLO**
+
+**A LA
+SENTENCIA C-****459/2****3**
+
+**REQUISITO
+DE ANÁLISIS DE IMPACTO FISCAL EN PROYECTO DE LEY APROBATORIA DE TRATADO
+INTERNACIONAL QUE ORDENE GASTOS O CONTENGA BENEFICIOS TRIBUTARIOS-**No
+es exigible (Salvamento de voto)
+
+Ref.: Expediente LAT-485
+
+Revisión oficiosa de la Ley 2274 del 5 de noviembre de 2022,
+“por medio de la cual se aprueba el ‘Convenio Marco de Cooperación entre la
+República de Colombia y el Reino de España’, suscrito en Madrid, Reino de
+España, el 3 de marzo de 2015”.
+
+Magistrado ponente:
+
+DIANA FAJARDO RIVERA
+
+En la sentencia C-459 de 2023, la mayoría de la Sala Plena
+declaró la inexequibilidad de la Ley 2274 de 2022, aprobatoria del “Convenio
+Marco de Cooperación entre la República de Colombia y el Reino de España’,
+suscrito en Madrid, Reino de España, el 3 de marzo de 2015”, por vicio de
+trámite en su formación. En concreto, la Sala Plena encontró que se incurrió en
+un vicio de carácter insubsanable durante el trámite legislativo al no haberse
+presentado un análisis relativo al impacto fiscal de los beneficios tributarios
+previstos en el Convenio, a la luz de los deberes y
+mandatos de actuación que se derivan del artículo 7° de la Ley 819 de 2003.
+
+Con el acostumbrado respeto por las decisiones mayoritarias, me
+permito salvar el voto respecto de la sentencia de la referencia – reiterando
+los argumentos que esgrimí en el salvamento a la sentencia C-175 de 2023 – toda
+vez que, en mi criterio, no mediaban las circunstancias fácticas ni jurídicas
+para hacer exigible el análisis de impacto fiscal en esta oportunidad. En
+efecto, no comparto la conclusión a la que arribó la mayoría de la Sala Plena
+relacionada con el cumplimiento del *presupuesto formal* para hacer
+exigible el análisis de impacto fiscal previsto en el artículo 7° de la Ley 819 de 2003, respecto de proyectos de ley que aprueben tratados internacionales que ordenen un gasto o
+consagren beneficios tributarios a favor de sujetos de derecho internacional o
+del personal diplomático o cooperante que apoya la ejecución de sus actividades
+en Colombia.
+
+Durante el trámite del proyecto de ley que dio origen a la Ley
+2274 de 2022, la Corte Constitucional adoptó posturas diferentes respecto de la
+etapa a partir de la cual se entendería exigible el análisis de impacto fiscal,
+tomando como punto de partida la fecha de notificación de la sentencia C-170 de
+2021, esto es, del 20 de julio de ese año. Por ejemplo, la sentencias las
+sentencias C-316 y C-448 de 2022 establecieron que dicha exigencia se aplicaría
+a los tratados ***aprobados por el ejecutivo*** después de la
+notificación de la sentencia C-170. En cambio, las sentencias C-187 y C-447 de
+2022 determinaron que el análisis de impacto fiscal sería exigible únicamente a
+aquellos proyectos de ley aprobatorios de tratados internacionales ***radicados
+en el Congreso de la República*** con posterioridad a la notificación de
+la sentencia C-170. Finalmente, en sentencia C-126 de 2023 se unificó la
+jurisprudencia en el sentido de que la obligación contenida en el artículo 7°
+de la Ley 819 de 2003 es aplicable a los tratados internacionales que ordenen
+gasto u otorguen beneficios tributarios, radicados en el Congreso de la
+República después de la notificación de la Sentencia C-170 de 2021; precedente
+que fue reiterado en la sentencia C-175 de 2023.
+
+En este caso, tal como lo señaló la decisión de la cual me
+aparté, la aprobación presidencial se efectuó el 4 de abril de 2021 (antes de
+la fecha de notificación de la sentencia C-170 de 2021), mientras que la
+radicación del proyecto de Ley en el Congreso se realizó el 12 de agosto de
+2021 (después de la notificación de la sentencia C-170 de 2021). Por tanto,
+resulta evidente que, para la época, no existía certeza sobre a partir de qué
+momento era exigible en análisis de impacto fiscal. De esta manera, al someter
+al proyecto de ley a una disparidad de reglas jurisprudenciales sobre la
+exigencia del análisis de impacto fiscal, la Corte ha debido preferir aquella
+que asegure en mayor medida la garantía del principio democrático y el respeto
+a la actuación legislativa.
+
+Como sostuve en el salvamento conjunto a la sentencia C-175 de
+2023, aplicar de modo irrestricto la regla de la sentencia C-170 de 2021 según
+la según se fijaron sus efectos en la sentencia C-126 de 2023, implica aplicar
+reglas posteriores (esto es, la sentencia C-126 de 2023) a un caso anterior
+(esto es, la revisión constitucional de la Ley 2274 de 2022), lo cual supone
+una aplicación retroactiva de las reglas jurisprudenciales fijadas por la Corte
+Constitucional.
+
+En los anteriores términos, dejo consignado mi desacuerdo con la
+decisión adoptada en la sentencia C-459 de 2023.
+
+Fecha *ut supra*,
+
+**ALEJANDRO LINARES CANTILLO**
+
+**Magistrado**
+
+---
+
+[1] Documento digital
+LAT0000485-Presentación Demanda-(2022-11-16 11-35-51).pdf.
+
+[2] Según el artículo 241 superior, a
+la Corte Constitucional se le confía la guarda de la integridad y supremacía de
+la Carta Política, en los estrictos y precisos términos de esa norma. En
+ejercicio de esa función, la Corporación debe decidir definitivamente acerca de
+la exequibilidad de los tratados internacionales y de las leyes que los
+aprueben, según lo prevé el numeral 10o. de la citada disposición. Con el fin
+de cumplir este objetivo, el Estatuto Superior obliga al Ejecutivo a remitirlos
+dentro de los seis días siguientes a su sanción.
+
+[3] Documento digital LAT0000485-Auto
+Mixto-(2022-12-06 08-10-27).pdf.
+
+[4] Documento digital LAT0000485-Auto
+Ordena Pruebas-(2023-03-03 07-35-35).pdf.
+
+[5] Documento digital LAT0000485-Auto
+Ordena Pruebas-(2023-05-03 08-21-43).pdf.
+
+[6] Particularmente, insistió en los
+requerimientos probatorios realizados en el Auto del 2 de diciembre de 2022,
+apremiando al Secretario General del Senado de la República para que remitiera
+certificación expresa sobre: (i) el cumplimiento del anuncio de votación para
+primer debate del proyecto de ley en el Senado de la República; (ii) las fechas
+de las publicaciones, las sesiones correspondientes, el quórum deliberatorio y
+decisorio, así como las mayorías y votaciones con las cuales se discutió y
+aprobó el proyecto de ley en primer debate en el Senado de la República.
+
+[7] M.P. José Fernando Reyes Cuartas.
+
+[8] Leonel Edgardo Riveros Díaz.
+
+[9] Archivo digital
+“LAT0000485-Conceptos e Intervenciones-(2023-06-07 07-05-17)”.
+
+[10] *“Por medio del cual se adiciona
+el Título 8 en la Parte 2 del Libro 2 del Decreto 1067 de 2015, Único
+Reglamentario del Sector Administrativo de Relaciones Exteriores, para crear el
+Sistema Nacional de Cooperación Internacional de Colombia y se dictan
+disposiciones relacionadas con el desarrollo del mismo*”.
+
+[11] “*Por medio del cual se expide
+el Decreto Único Reglamentario del Sector Hacienda y Crédito Público*”.
+
+[12] *“Por el cual se modifica la
+estructura del Departamento Nacional de Planeación”.*
+
+[13] Dr. Manuel Felipe Rodríguez
+Duarte.
+
+[14] Documento digital
+“LAT0000485-Peticiones y Otros-(2023-06-16 22-42-26)”.
+
+[15] *Ibidem*.
+
+[16] ***“****La ley no podrá
+conceder exenciones ni tratamientos preferenciales en relación con los tributos
+de propiedad de las entidades territoriales. Tampoco podrá imponer recargos
+sobre sus impuestos salvo lo dispuesto en el artículo 317.”*
+
+[17] M.P. José Fernando Reyes Cuartas.
+
+[18] *Ibidem*.
+
+[19] *“En todo momento, el impacto
+fiscal de cualquier proyecto de ley, ordenanza o acuerdo, que ordene gasto o
+que otorgue beneficios tributarios, deberá hacerse explícito y deberá ser
+compatible con el Marco Fiscal de Mediano Plazo. Para estos propósitos, deberá
+incluirse expresamente en la exposición de motivos y en las ponencias de
+trámite respectivas los costos fiscales de la iniciativa y la fuente de ingreso
+adicional generada para el financiamiento de dicho costo. El Ministerio de
+Hacienda y Crédito Público, en cualquier tiempo durante el respectivo trámite
+en el Congreso de la República, deberá rendir su concepto frente a la
+consistencia de lo dispuesto en el inciso anterior. En ningún caso este
+concepto podrá ir en contravía del Marco Fiscal de Mediano Plazo. Este informe
+será publicado en la Gaceta del Congreso. Los proyectos de ley de iniciativa
+gubernamental, que planteen un gasto adicional o una reducción de ingresos,
+deberá contener la correspondiente fuente sustitutiva por disminución de gasto
+o aumentos de ingresos, lo cual deberá ser analizado y aprobado por el
+Ministerio de Hacienda y Crédito Público. En las entidades territoriales, el
+trámite previsto en el inciso anterior será surtido ante la respectiva
+Secretaría de Hacienda o quien haga sus veces.”*
+
+[20] *“Por la cual se dictan normas
+orgánicas en materia de presupuesto, responsabilidad y transparencia fiscal y
+se dictan otras disposiciones”.*
+
+[21] Para ello el interviniente trae a
+colación la cita de la Sentencia C-737 de 2001. M.P. Eduardo Montealegre
+Lynett.
+
+[22] Eleonora Betancur González.
+
+[23] Sentencia C-170 de 2021. M.P. José
+Fernando Reyes Cuartas.
+
+[24] Juan Carlos Losada Perdomo.
+
+[25] Documento digital
+LAT0000485-Conceptos e Intervenciones-(2023-06-16 22-52-33).
+
+[26] *Ibidem*.
+
+[27] En punto de ello, refiere la
+exposición de motivos del proyecto de ley por medio del cual se aprobó el
+Convenio.
+
+[28] Archivo digital
+“LAT0000485-Peticiones y Otros-(2023-06-15 02-52-19)”.
+
+[29] Para ello cita la Sentencia C-098
+de 2020. M.P. Gloria Stella Ortiz Delgado.
+
+[30] M.P. José Fernando Reyes Cuartas.
+
+[31] M.P. Cristina Pardo Schlesinger.
+
+[32] Documento digital
+LAT0000485-Concepto del Procurador General de la Nación-(2023-07-31 16-19-54).
+
+[33] Para ello cita la Sentencia C-170
+de 2021. M.P. José Fernando Reyes Cuartas.
+
+[34] Sentencia C-048 de 2018. M.P.
+Cristina Pardo Schlesinger, citando, a su vez, las sentencias C-468 de 1997.
+M.P. Alejandro Martínez Caballero; C-378 de 1996. M.P. Hernando Herrera
+Vergara; C-682 de 1996. M.P. Fabio Morón Díaz; C-400 de 1998. M.P. Alejandro
+Martínez Caballero; C-924 de 2000. M.P. Carlos Gaviria Díaz; C-576 de 2006.
+M.P. Manuel José Cepeda Espinosa y C-332 de 2014. M.P Jorge Ignacio Pretelt
+Chaljub.
+
+[35] Auto 969 de 2021. M.P. Alejandro
+Linares Cantillo. Ver también, Sentencia C-098 de 2020. M.P. Gloria Stella
+Ortiz Delgado.
+
+[36] Sentencia C-332 de 2017. Sobre el
+particular, ver también, las sentencias C-110 de 2022. M.P. Diana Fajardo
+Rivera. AV Alejandro Linares Cantillo. AV Gloria Stella Ortiz Delgado. AV José
+Fernando Reyes Cuartas; C-781 de 2004. M.P. Manuel José Cepeda Espinosa;
+C-227 de 1993. M.P. Jorge Arango Mejía. En
+esta última la Corte precisó que *“La facultad de aprobar o improbar los
+tratados que el Gobierno celebre, permite al Congreso, por medio de leyes,
+aprobarlos o improbarlos parcialmente, es decir, hacer reservas, según los
+términos del artículo 217 de la ley 5a de 1992, lo mismo que aplazar la
+vigencia de tales tratados.”*
+
+[37] Sentencia C-494 de 2020. M.P.
+Diana Fajardo Rivera.
+
+[38] *“Por la cual se expide el
+Reglamento del Congreso; el Senado y la Cámara de Representantes”.*
+
+[39] Sentencia C-175 de 2023. M.P. Juan
+Carlos Cortés González. SV. Alejandro Linares Cantillo. SV. Antonio José
+Lizarazo Ocampo.
+
+[40] *Ibidem.*
+
+[41] Incorporada en el ordenamiento
+jurídico interno a través de la Ley 32 de 1985.
+
+[42] Documento digital
+LAT0000485-Pruebas del Expediente (Recepción y Paso al Despacho)-(2022-12-15
+16-00-20) (1).pdf.
+
+[43] *“Por la cual se dictan normas
+orgánicas en materia de presupuesto, responsabilidad y transparencia fiscal y
+se dictan otras disposiciones”.*
+
+[44] Sentencia C-170 de 2021. M.P. José
+Fernando Reyes Cuartas.
+
+[45] *Ibídem.*
+
+[46] *Ídem*.
+
+[47] Sentencia C-133 de 2022. M.P.
+Alejandro Linares Cantillo. SV. Jorge Enrique Ibáñez Najar. SV. Paola Andrea
+Meneses Mosquera. SV. Gloria Stella Ortiz Delgado.
+
+[48] Sentencia C-315 de 2008. M.P.
+Jaime Córdoba Triviño. SV. Jaime Araújo Rentería. AV. Manuel José Cepeda
+Espinosa.
+
+[49] *Ibidem*.
+
+[50] *“A diferencia de lo que ocurre
+en los proyectos que son de iniciativa de los congresistas y en los cuales el
+silencio del Gobierno no conduce a la invalidez constitucional de la ley (…) la
+omisión de tales exigencias cuando el proyecto es de iniciativa gubernamental
+configura un vicio de trámite insubsanable.”* Sentencia C-170 de 2021. M.P.
+José Fernando Reyes Cuartas.
+
+[51] *Ibídem*.
+
+[52] M.P. Cristina Pardo Schlesinger.
+
+[53] M.P. José Fernando Reyes Cuartas.
+
+[54] Sentencia C-170 de 2021. M.P. José
+Fernando Reyes Cuartas.
+
+[55] “*En efecto,
+pronunciamientos sobre tratados que han establecido privilegios en materia
+tributaria -entre ellos los contenidos en las sentencias C-1156 de 2008 (Corte
+Penal Internacional), C-267 de 2014 (OPAQ), C-812 de 2014 (Gobierno alemán) y
+C-098 de 2020 (OCDE)- no abordaron un examen relativo a su cumplimiento*.”
+Sentencia C-170 de 2021. M.P. José Fernando Reyes Cuartas.
+
+[56] La Sentencia C-170 de 2021 fue
+proferida el 2 de junio de 2021 y fue notificada por medio de edicto fijado
+entre los días 28 a 30 de julio de 2021, conforme se puede consultar en el siguiente enlace:
+https://www.corteconstitucional.gov.co/secretaria/edictos/EDICTO%20No.%20088%20-%2028%20DE%20JULIO%20DE%202021.pdf
+
+[57] Por ejemplo, en la Sentencia C-316 de 2022 (M.P.
+Cristina Pardo Schlesinger), se
+partió de la fecha de aprobación ejecutiva del tratado; por su parte, en las
+sentencias C-187 de 2022 (M.P. Paola Andrea Meneses Mosquera), C-447 de 2022 (M.P.
+Natalia Ángel Cabo) C-206 de 2022
+(M.P. Antonio José Lizarazo Ocampo), C-413 de 2022 (M.P. Hernán Correa
+Cardozo), se tomó como parámetro la fecha de radicación del proyecto de ley en
+el Congreso de la República; en la Sentencia C-110 de 2022 (M.P. Diana Fajardo
+Rivera) la fecha en que fue expedida la ley y en las sentencias C-181 de 2022 (M.P.
+Alejandro Linares Cantillo) y C-346
+de 2022 (M.P. Diana Fajardo Rivera), la fecha de la sanción presidencial.
+
+[58] M.P. Cristina Pardo Schlesinger.
+AV. Alejandro Linares Cantillo.
+
+[59] Sentencia C-175 de 2023. M.P. Juan
+Carlos Cortés González. SV. Alejandro Linares Cantillo. SV. Antonio José
+Lizarazo Ocampo.
+
+[60] Documento digital
+LAT0000485-Pruebas del Expediente (Recepción y Paso al Despacho)-(2023-03-27
+16-21-29).pdf, folio 28.
+
+[61] Artículo 23 de la Convención de Viena sobre Relaciones
+Diplomáticas de 1961.
+
+[62] *“(…) con excepción de a. de los
+impuestos indirectos de la índole de los normalmente incluidos en el precio de
+las mercaderías o servicios; b. de los impuestos y gravámenes sobre los bienes
+inmuebles privados que radiquen en el territorio del Estado receptor, a menos
+que el agente diplomático los posea por cuenta del Estado acreditante y para
+los fines de la misión; c. de los impuestos sobre las sucesiones que
+corresponda percibir al Estado receptor, salvo lo dispuesto en el párrafo 4 del
+artículo 39; d. de los impuestos y gravámenes sobre los ingresos privados que
+tengan su origen en el Estado receptor y de los impuestos sobre el capital que
+graven las inversiones efectuadas en empresas comerciales en el Estado
+receptor; e. de los impuestos y gravámenes correspondientes a servicios
+particulares prestados; f. salvo lo dispuesto en el artículo 23, de los
+derechos de registro, aranceles judiciales, hipoteca y timbre, cuando se trate
+de bienes inmuebles.”*
+
+[63] Sentencia C-170 de 2021. M.P. José
+Fernando Reyes Cuartas.
+
+[64] Sentencia C-119 de 2018. M.P.
+Alejandro Linares Cantillo. AV. Luis Guillermo Guerrero Pérez.
+
+[65] Documento digital
+LAT0000485-Conceptos e Intervenciones-(2023-05-11 00-34-59) (1).
+
+[66] Documento digital
+LAT0000485-Pruebas del Expediente (Recepción y Paso al Despacho)-(2023-05-11
+00-04-25).
+
+[67] Sentencia C-175 de 2023. M.P. Juan
+Carlos Cortés González. SV. Alejandro Linares Cantillo. SV. Antonio José
+Lizarazo Ocampo.
+
+[68] Sentencia C-170 de 2021. M.P. José
+Fernando Reyes Cuartas.
+
+[69] Sentencia C-175 de 2023. M.P. Juan
+Carlos Cortés González. SV. Alejandro Linares Cantillo. SV. Antonio José
+Lizarazo Ocampo.
+
+[70] *En el artículo 1° del Convenio
+se establece lo siguiente: “[a]pruébese el ‘Convenio Marco de Cooperación entre
+la República de Colombia y el Reino de España’ suscrito en Madrid, Reino de
+España, el 3 de marzo de 2015.”*
+
+[71] *Ibidem.*
+
+[72] Sentencia C-258 de 2014. M.P María
+Victoria Calle Correa.
+
+[73] Sentencia C-170 de 2021. M.P. José
+Fernando Reyes Cuartas.
+
+[74] Gaceta del Congreso 1237 del 11 de
+octubre de 2022.
+
+[75] Así por ejemplo, en la Sentencia
+C-175 de 2023 (M.P. Juan Carlos Cortés González. SV Alejandro Linares Cantillo.
+SV Antonio José Lizarazo Ocampo), en la que se realizó el control de
+constitucionalidad sobre el “Acuerdo entre el Gobierno de la República de
+Colombia y el Gobierno de los Emiratos Árabes Unidos en relación con servicios
+aéreos entre y más allá de sus respectivos territorios” y de su Ley aprobatoria
+2246 de 2022, se valoró el hecho de que “*ni la exposición de motivos del
+proyecto de ley ni las ponencias rendidas durante el procedimiento legislativo,
+incluyeron informes o análisis de los efectos fiscales de las medidas
+tributarias incluidas en el tratado.*”
+
+[76] Sentencia C-074 de 2021. M.P. José
+Fernando Reyes Cuartas. AV. Antonio José Lizarazo Ocampo. AV. Alberto Rojas
+Ríos.
+
+[77] Cfr. Artículos 1 y 2 del “*Convenio
+Marco de Cooperación entre la República de Colombia y el Reino de España*”.
+
+[78] Sentencia C-175 de 2023. M.P. Juan
+Carlos Cortés González. SV. Alejandro Linares Cantillo. SV. Antonio José
+Lizarazo Ocampo.
+
+[79] Párr.102
+de la sentencia C-459 de 2023.

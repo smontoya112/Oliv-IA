@@ -9,3 +9,272 @@
 {"doc_id": "ley_80_1993", "estado": "ok", "n_partes": 2}
 {"doc_id": "sentencia_c-355_2006", "estado": "ok", "n_partes": 1}
 {"doc_id": "decision_andina_486", "estado": "ok", "n_partes": 1}
+{"doc_id": "constitucion", "estado": "ok", "n_partes": 16}
+{"doc_id": "codigo_general_proceso", "estado": "ok", "n_partes": 22}
+{"doc_id": "codigo_sustantivo_trabajo", "estado": "ok", "n_partes": 17}
+{"doc_id": "estatuto_tributario", "estado": "ok", "n_partes": 37}
+{"doc_id": "decision_andina_486", "estado": "ok", "n_partes": 1}
+{"doc_id": "estatuto_consumidor", "estado": "ok", "n_partes": 3}
+{"doc_id": "ley_80_1993", "estado": "ok", "n_partes": 2}
+{"doc_id": "ley_2220_2022", "estado": "ok", "n_partes": 4}
+{"doc_id": "decreto_2153_1992", "estado": "ok", "n_partes": 2}
+{"doc_id": "sentencia_c-355_2006", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1116_2006", "estado": "ok", "n_partes": 3}
+{"doc_id": "ley_1581_2012", "estado": "ok", "n_partes": 1}
+{"doc_id": "codigo_infancia", "estado": "ok", "n_partes": 5}
+{"doc_id": "sentencia_c-207_2019", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sl_3385_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-323_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1258_2008", "estado": "ok", "n_partes": 2}
+{"doc_id": "sentencia_c-394_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-55_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-315_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-243_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-760_2008", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1010_2006", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1150_2007", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1340_2009", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_153_1887", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0153_1887.html"}
+{"doc_id": "ley_2437_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_54_1990", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html"}
+{"doc_id": "ley_979_2005", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1563_2012", "estado": "ok", "n_partes": 3}
+{"doc_id": "sentencia_c-117_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-127_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-134_2019", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-15_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-164_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-259_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-35_2009", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-431_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-500_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-507_2004", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-540_2023", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-582_1999", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-746_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-748_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-94_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-96_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sl_648_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sp_1680_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sp_1945_2019", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-111_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-214_2016", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-547_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1095_2006", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2141_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2452_2025", "estado": "ok", "n_partes": 9}
+{"doc_id": "ley_2466_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_256_1996", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_50_1990", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1990.html"}
+{"doc_id": "acuerdo_02_2015", "estado": "error", "error": "Agotados los reintentos para https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034638: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"}
+{"doc_id": "codigo_disciplinario", "estado": "ok", "n_partes": 7}
+{"doc_id": "codigo_nacional_policia", "estado": "ok", "n_partes": 6}
+{"doc_id": "decreto_46_2024", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0046_2024.html"}
+{"doc_id": "decreto_1082_2015", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1082_2015.html"}
+{"doc_id": "decreto_1742_2020", "estado": "ok", "n_partes": 2}
+{"doc_id": "decreto_175_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "decreto_2067_1991", "estado": "ok", "n_partes": 2}
+{"doc_id": "decreto_24_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0024_2016.html"}
+{"doc_id": "decreto_405_2025", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0405_2025.html"}
+{"doc_id": "decreto_4334_2008", "estado": "ok", "n_partes": 1}
+{"doc_id": "decreto_4436_2005", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4436_2005.html"}
+{"doc_id": "decreto_4886_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "decreto_663_1993", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0663_1993.html"}
+{"doc_id": "decreto_780_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0780_2016.html"}
+{"doc_id": "decreto_875_2008", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0875_2008.html"}
+{"doc_id": "decreto_960_1970", "estado": "ok", "n_partes": 6}
+{"doc_id": "sentencia_c-1033_2002", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-106_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-1189_2000", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-131_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-145_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-145_2020", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-149_1993", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-170_2004", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-183_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-201_2002", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-22_1996", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-225_1995", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-233_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-239_1997", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-276_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-332_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-335_2008", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-345_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-389_2023", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-39_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-4_1998", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-413_1996", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-459_2023", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-486_1993", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-533_2000", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-535_2002", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-537_1995", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-683_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-700_1999", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-80_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-891_2012", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-964_2003", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-985_2010", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sc_1121_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sc_18392_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sc_3085_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sc_3674_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sc_425_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sc_8453_2016", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sl_1050_2023", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sl_1730_2020", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sp_1167_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_sp_3218_2021", "estado": "error", "error": "HTTP 404 en https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1dic2021/SP3218-2021(47063).pdf"}
+{"doc_id": "sentencia_su-11_2020", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-138_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-149_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-207_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-240_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-27_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-296_2023", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-380_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-396_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-425_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-429_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-431_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-455_2020", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-488_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-500_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-566_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-1001_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-1059_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-1096_2008", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-145_2016", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-230_2023", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-232_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-248_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-26_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-262_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-325_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-350_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-4_2026", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-429_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-445_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-67_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-71_2016", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-77_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-925_2014", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-970_2014", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1151_2007", "estado": "ok", "n_partes": 4}
+{"doc_id": "ley_137_1994", "estado": "ok", "n_partes": 2}
+{"doc_id": "ley_1473_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_155_1959", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0155_1959.html"}
+{"doc_id": "ley_1562_2012", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_160_1994", "estado": "ok", "n_partes": 3}
+{"doc_id": "ley_1607_2012", "estado": "ok", "n_partes": 5}
+{"doc_id": "ley_1692_2013", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1700_2013", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1755_2015", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_1819_2016", "estado": "ok", "n_partes": 8}
+{"doc_id": "ley_1909_2018", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2114_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2157_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2160_2021", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2251_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "decreto_2737_1989", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2737_1989.html"}
+{"doc_id": "ley_29_1982", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html"}
+{"doc_id": "ley_527_1999", "estado": "ok", "n_partes": 2}
+{"doc_id": "ley_600_2000", "estado": "ok", "n_partes": 13}
+{"doc_id": "ley_640_2001", "estado": "ok", "n_partes": 2}
+{"doc_id": "ley_678_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_721_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_75_1968", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html"}
+{"doc_id": "ley_769_2002", "estado": "ok", "n_partes": 5}
+{"doc_id": "ley_820_2003", "estado": "ok", "n_partes": 2}
+{"doc_id": "ley_964_2005", "estado": "ok", "n_partes": 3}
+{"doc_id": "ley_84_1873", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1873.html"}
+{"doc_id": "ley_599_2000", "estado": "ok", "n_partes": 20}
+{"doc_id": "ley_906_2004", "estado": "ok", "n_partes": 14}
+{"doc_id": "ley_1437_2011", "estado": "ok", "n_partes": 8}
+{"doc_id": "decreto_410_1971", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0410_1971.html"}
+{"doc_id": "ley_472_1998", "estado": "ok", "n_partes": 3}
+{"doc_id": "ley_100_1993", "estado": "ok", "n_partes": 7}
+{"doc_id": "sentencia_c-468_2024", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-16_2020", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-277_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-256_2025", "estado": "ok", "n_partes": 1}
+{"doc_id": "consejo_estado_ce_suj_4_005_2020", "estado": "ok", "n_partes": 1}
+{"doc_id": "corte_suprema_sin_radicado_sc_2017_07_18_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "ley_2277_2022", "estado": "ok", "n_partes": 3}
+{"doc_id": "ley_2294_2023", "estado": "ok", "n_partes": 10}
+{"doc_id": "ley_388_1997", "estado": "ok", "n_partes": 4}
+{"doc_id": "decreto_2591_1991", "estado": "ok", "n_partes": 2}
+{"doc_id": "ley_270_1996", "estado": "ok", "n_partes": 8}
+{"doc_id": "ley_222_1995", "estado": "ok", "n_partes": 6}
+{"doc_id": "ley_1996_2019", "estado": "ok", "n_partes": 2}
+{"doc_id": "decreto_1625_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1625_2016.html"}
+{"doc_id": "decreto_2158_1948", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2158_1948.html"}
+{"doc_id": "sentencia_c-554_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-414_1992", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-1219_2001", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-228_2002", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-590_2005", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-228_2010", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-579_2013", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-32_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_ce_s3_19031_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_ce_s3_26251_2014", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_ce_s3_32988_2014", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_ce_s2_ij_su_2022", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-25_2004", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-370_2006", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-577_2011", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-591_2005", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_c-1011_2008", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-153_1998", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_t-622_2016", "estado": "ok", "n_partes": 1}
+{"doc_id": "sentencia_su-217_2017", "estado": "ok", "n_partes": 1}
+{"doc_id": "codigo_civil", "estado": "ok", "n_partes": 84}
+{"doc_id": "codigo_comercio", "estado": "ok", "n_partes": 64}
+{"doc_id": "codigo_penal", "estado": "ok", "n_partes": 20}
+{"doc_id": "codigo_procedimiento_penal", "estado": "ok", "n_partes": 14}
+{"doc_id": "cpaca", "estado": "ok", "n_partes": 8}
+{"doc_id": "ley_153_1887", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0153_1887.html"}
+{"doc_id": "ley_54_1990", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html"}
+{"doc_id": "ley_50_1990", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1990.html"}
+{"doc_id": "acuerdo_02_2015", "estado": "error", "error": "Agotados los reintentos para https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034638: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"}
+{"doc_id": "decreto_46_2024", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0046_2024.html"}
+{"doc_id": "decreto_1082_2015", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1082_2015.html"}
+{"doc_id": "decreto_24_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0024_2016.html"}
+{"doc_id": "decreto_405_2025", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0405_2025.html"}
+{"doc_id": "decreto_4436_2005", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4436_2005.html"}
+{"doc_id": "decreto_663_1993", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0663_1993.html"}
+{"doc_id": "decreto_780_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0780_2016.html"}
+{"doc_id": "decreto_875_2008", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0875_2008.html"}
+{"doc_id": "sentencia_sp_3218_2021", "estado": "error", "error": "HTTP 404 en https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1dic2021/SP3218-2021(47063).pdf"}
+{"doc_id": "ley_155_1959", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0155_1959.html"}
+{"doc_id": "decreto_2737_1989", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2737_1989.html"}
+{"doc_id": "ley_29_1982", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html"}
+{"doc_id": "ley_75_1968", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html"}
+{"doc_id": "ley_84_1873", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1873.html"}
+{"doc_id": "decreto_410_1971", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0410_1971.html"}
+{"doc_id": "decreto_1625_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1625_2016.html"}
+{"doc_id": "decreto_2158_1948", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2158_1948.html"}
+{"doc_id": "ley_153_1887", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0153_1887.html"}
+{"doc_id": "ley_54_1990", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html"}
+{"doc_id": "ley_50_1990", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1990.html"}
+{"doc_id": "acuerdo_02_2015", "estado": "error", "error": "Agotados los reintentos para https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034638: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"}
+{"doc_id": "decreto_46_2024", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0046_2024.html"}
+{"doc_id": "decreto_1082_2015", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1082_2015.html"}
+{"doc_id": "decreto_24_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0024_2016.html"}
+{"doc_id": "decreto_405_2025", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0405_2025.html"}
+{"doc_id": "decreto_4436_2005", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4436_2005.html"}
+{"doc_id": "decreto_663_1993", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0663_1993.html"}
+{"doc_id": "decreto_780_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0780_2016.html"}
+{"doc_id": "decreto_875_2008", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0875_2008.html"}
+{"doc_id": "sentencia_sp_3218_2021", "estado": "error", "error": "HTTP 404 en https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1dic2021/SP3218-2021(47063).pdf"}
+{"doc_id": "ley_155_1959", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0155_1959.html"}
+{"doc_id": "decreto_2737_1989", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2737_1989.html"}
+{"doc_id": "ley_29_1982", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html"}
+{"doc_id": "ley_75_1968", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html"}
+{"doc_id": "ley_84_1873", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1873.html"}
+{"doc_id": "decreto_410_1971", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0410_1971.html"}
+{"doc_id": "decreto_1625_2016", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1625_2016.html"}
+{"doc_id": "decreto_2158_1948", "estado": "error", "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2158_1948.html"}
