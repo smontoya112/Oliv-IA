@@ -1,33 +1,42 @@
 #!/usr/bin/env bash
 #SBATCH --job-name=scrapper
-#SBATCH --mem=32gb
-#SBATCH --time=04:00:00
-#SBATCH --output=logs/scrapper_%j.log
+#SBATCH --output=scrapper_%j.out
+#SBATCH --mail-type=ALL
 #SBATCH --mail-user=s.montoya112@uniandes.edu.co
-#SBATCH --mail-type=BEGIN,END,FAIL,TIME_LIMIT
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=32G
+#SBATCH --time=04:00:00
 #
 # Descarga el corpus COMPLETO: las ~220 normas y sentencias de data/seed_targets.json
 # + data/fuentes_propias.json + data/enlaces.txt. Se lanza con sbatch (no necesita tmux;
 # el job sigue aunque cierres la sesión), desde la raíz del repo:
 #
-#     mkdir -p logs && sbatch scrapper.sh
+#     sbatch scrapper.sh
 #     sbatch scrapper.sh --forzar                 # los argumentos van a `run` tal cual
 #     sbatch --mem=64gb --time=12:00:00 --gres=gpu:1 -p gpu scrapper.sh   # variante con GPU
 #     sbatch --mail-user=otro@uniandes.edu.co scrapper.sh                 # otro destinatario
 #
 #     squeue -u $USER                             # ver el job
-#     tail -f logs/scrapper_<jobid>.log           # seguir el log
+#     tail -f scrapper_<jobid>.out           # seguir el log
 #     scancel <jobid>                             # cancelarlo
 #
 # Correos: Slurm avisa al inicio, fin, fallo y límite de tiempo (líneas #SBATCH de arriba).
 # Además, al terminar se manda un resumen con mail/mailx/sendmail si existe en el nodo.
 #
+# El log queda en la carpeta desde la que lanzas (Slurm no crea carpetas: por eso no
+# usamos logs/). stdout y stderr van juntos en scrapper_<jobid>.out.
+#
 # Es reanudable: lo ya descargado queda en data/raw. Si se corta por tiempo, se relanza.
 set -uo pipefail
 cd "${SLURM_SUBMIT_DIR:-$(dirname "$0")}"
 MAIL_TO="${SLURM_JOB_MAIL_USER:-s.montoya112@uniandes.edu.co}"
-LOG="logs/scrapper_${SLURM_JOB_ID:-local}.log"
+LOG="scrapper_${SLURM_JOB_ID:-local}.out"
 EXTRA="$*"
+
+# Como en los demás jobs: entorno de python y uv en el PATH del nodo de cómputo.
+module load python 2>/dev/null || true
+export PATH="$HOME/.local/bin:$PATH"
 
 echo "Job ${SLURM_JOB_ID:-local} en $(hostname) · $(date '+%F %T')"
 ESTADO=0
