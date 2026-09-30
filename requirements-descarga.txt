@@ -1,0 +1,12 @@
+httpx>=0.27
+beautifulsoup4>=4.12
+lxml>=5.0
+markdownify>=0.13
+charset-normalizer>=3.3
+ftfy>=6.2
+pyyaml>=6.0
+pymupdf>=1.24
+pytest>=8.0
+# Opcionales:
+# playwright>=1.45     (fuentes con tipo html_js; luego: playwright install chromium)
+# ocrmypdf             (PDF escaneados; requiere tesseract-ocr y tesseract-ocr-spa del sistema)
