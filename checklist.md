@@ -20,15 +20,15 @@
 - [x] **Paso 2.4:** Extraer texto de archivos PDF (vía `PyMuPDF`/`pdfplumber` o OCR con `ocrmypdf`/`docling`) y registrar en `CORPUS.md`.
 
 ## Fase 3: Limpieza y segmentación (Miércoles 30 - Jueves 1)
-- [ ] **Paso 3.1:** Aplicar limpieza mínima (normalización Unicode NFC, remoción de menús/encabezados sin alterar caracteres jurídicos clave).
-- [ ] **Paso 3.2:** Implementar segmentación por artículo mediante expresiones regulares (cubriendo variantes y parágrafos).
-- [ ] **Paso 3.3:** Asociar la ruta jerárquica (Libro > Título > Capítulo) a cada artículo.
-- [ ] **Paso 3.4:** Extraer notas de vigencia (`vigente`, `modificado_por`, `notas`) a campos independientes.
-- [ ] **Paso 3.5:** Subdividir artículos extensos en bloques de 400–500 tokens manteniendo metadatos y numeración de partes.
-- [ ] **Paso 3.6:** Segmentar sentencias por secciones (antecedentes, consideraciones, resuelve) en ventanas de 400 tokens con solapamiento.
-- [ ] **Paso 3.7:** Anteponer encabezados contextualmente estructurados a cada fragmento de texto.
-- [ ] **Paso 3.8:** Guardar la estructura de fragmentos en `chunks.parquet`.
-- [ ] **Paso 3.9:** Correr validación automática de completitud (conteo de artículos, vacíos, duplicados con hash/`datasketch`).
+- [x] **Paso 3.1:** Aplicar limpieza mínima (normalización Unicode NFC, remoción de menús/encabezados sin alterar caracteres jurídicos clave).
+- [x] **Paso 3.2:** Implementar segmentación por artículo mediante expresiones regulares (cubriendo variantes y parágrafos).
+- [x] **Paso 3.3:** Asociar la ruta jerárquica (Libro > Título > Capítulo) a cada artículo.
+- [x] **Paso 3.4:** Extraer notas de vigencia (`vigente`, `modificado_por`, `notas`) a campos independientes.
+- [x] **Paso 3.5:** Subdividir artículos extensos en bloques de 400–500 tokens manteniendo metadatos y numeración de partes.
+- [x] **Paso 3.6:** Segmentar sentencias por secciones (antecedentes, consideraciones, resuelve) en ventanas de 400 tokens con solapamiento.
+- [x] **Paso 3.7:** Anteponer encabezados contextualmente estructurados a cada fragmento de texto.
+- [x] **Paso 3.8:** Guardar la estructura de fragmentos en `chunks.parquet`.
+- [x] **Paso 3.9:** Correr validación automática de completitud (conteo de artículos, vacíos, duplicados con hash/`datasketch`).
 
 ## Fase 4: Normalización canónica de citas (Miércoles 30)
 - [ ] **Paso 4.1:** Definir el estándar de identificadores canónicos (`ley_1564_2012#art_391`, `sentencia_C-355_2006`).
