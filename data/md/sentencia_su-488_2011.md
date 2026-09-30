@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_su-488_2011.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

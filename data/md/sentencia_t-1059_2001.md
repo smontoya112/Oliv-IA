@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-1059_2001.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

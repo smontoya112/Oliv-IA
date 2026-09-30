@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_su-566_2015.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

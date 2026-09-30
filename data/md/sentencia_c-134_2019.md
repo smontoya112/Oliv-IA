@@ -39,7 +39,8 @@
   "archivo_md": "md/sentencia_c-134_2019.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

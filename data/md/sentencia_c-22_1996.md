@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-22_1996.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -37,6 +37,9 @@
   "metadata_autocompletada": [
     "numero",
     "organo_emisor"
+  ],
+  "advertencias": [
+    "pdf_sin_texto"
   ]
 }
 ---

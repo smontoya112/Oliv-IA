@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-335_2008.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

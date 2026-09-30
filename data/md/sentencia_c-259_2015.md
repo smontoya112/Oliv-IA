@@ -39,7 +39,8 @@
   "archivo_md": "md/sentencia_c-259_2015.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-925_2014.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

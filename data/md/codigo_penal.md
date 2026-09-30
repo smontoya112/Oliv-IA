@@ -76,7 +76,8 @@
   "archivo_md": "md/codigo_penal.md",
   "metadata_autocompletada": [
     "organo_emisor"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

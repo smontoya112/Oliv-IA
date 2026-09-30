@@ -35,7 +35,8 @@
   "n_caracteres": 168530,
   "n_articulos_detectados": 281,
   "archivo_md": "md/decision_andina_486.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

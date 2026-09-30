@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-127_2011.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

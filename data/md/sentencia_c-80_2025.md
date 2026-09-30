@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-80_2025.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

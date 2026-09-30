@@ -34,12 +34,13 @@
     "bc476dda2fab8bb87f3a244f76fc65155ab5ddc6545521a072d8ff83e1eddcdd"
   ],
   "fecha_actualizacion_fuente": null,
-  "n_caracteres": 308785,
+  "n_caracteres": 305076,
   "n_articulos_detectados": 29,
   "archivo_md": "md/sentencia_c-394_2017.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 
@@ -5426,84 +5427,4 @@ autoridad competente, para que investigue los delitos que hayan podido
 cometerse por los cónyuges o por terceros al celebrarse el matrimonio, si antes
 no lo hubiere ordenado.”
 
-[137] El tenor de la norma es el siguiente: “**ARTÍCULO
-444.** Divorcio. En el proceso de divorcio se observarán las siguientes
-reglas:
-
-1. Simultáneamente con la admisión de la demanda o antes, si hubiere
-urgencia, el juez podrá decretar las siguientes medidas:
-
-a) Autorizar la residencia separada de los cónyuges, y si éstos fueren
-menores, disponer el depósito en casa de sus padres o de sus parientes más
-próximos o en la de un tercero, cuando el juez lo considere conveniente;
-
-b) Poner a los hijos al cuidado de uno de los cónyuges o de ambos, o de
-un tercero, según lo crea más conveniente para su protección;
-
-c) Señalar la cantidad con que cada cónyuge deba contribuir, según su
-capacidad económica, para gastos de habitación y sostenimiento del otro cónyuge
-y de los hijos comunes, y la educación de éstos;
-
-d) Decretar, en caso de que la mujer esté embarazada, las medidas
-previstas por la ley para evitar suposición de parto, si el marido las
-solicitare, y
-
-e) Decretar, a petición de parte, las medidas cautelares autorizadas en
-el ordinal primero del artículo 691 sobre los bienes sociales y los propios,
-con el fin de garantizar el pago de alimentos a que el cónyuge y los hijos
-tuvieren derecho, si fuere el caso.
-
-2. En lo pertinente, se aplicará lo dispuesto en el artículo 442, sin
-perjuicio de que el juez oiga a los hijos.
-
-3. El juez declarará terminado el proceso por desistimiento presentado
-por los cónyuges o sus apoderados. Si se hiciere durante la audiencia, bastará
-la manifestación verbal de ambos.
-
-4. El juez, en la sentencia que decrete el divorcio, decidirá:
-
-a) Si el cuidado de los hijos corresponde a uno de los cónyuges, o a
-ambos, o a otra persona, atendiendo a su edad, sexo y la causa probada del
-divorcio;
-
-b) A quién corresponde la patria potestad sobre los hijos no
-emancipados, en los casos en que la causa probada del divorcio determine
-suspensión o pérdida de la misma, o si los hijos deben quedar bajo guarda;
-
-c) La proporción en que los cónyuges deben contribuir a los gastos de
-crianza, educación y establecimiento de los hijos comunes, de acuerdo con lo
-dispuesto en los incisos segundo y tercero del artículo 257 del Código Civil, y
-
-d) El monto de la pensión alimentaria que uno de los cónyuges deba al
-otro, si fuere el caso.
-
-5. Copia de la sentencia que decrete el divorcio se enviará al
-respectivo funcionario del Estado Civil, para su inscripción en el folio de
-matrimonio y en el de nacimiento de cada uno de los cónyuges.
-
-**Parágrafo1º**A los procesos
-de separación de cuerpos de matrimonios civiles y canónicos se aplicarán, en lo
-pertinente, las normas del presente artículo.
-
-**Parágrafo**. **2º**Después
-de ejecutoriada la sentencia, si los cónyuges de común acuerdo solicitan que se
-ponga fin a la separación, el juez de plano dictará la sentencia respectiva.
-
-**Parágrafo. 3º** Si se trata de
-matrimonio católico, se aplicará lo dispuesto en el inciso segundo del artículo
-IX del Concordato. En este caso, el juez que conozca del proceso oficiará al
-ordinario respectivo para los fines previstos en aquél.
-
-**Parágrafo. 4º** El juez no podrá
-decretar el divorcio dentro de un proceso iniciado para obtener la separación
-de cuerpos, a menos que en oportunidad se haya reformado la demanda; pero podrá
-decretar la separación de cuerpos si ésta hubiere sido solicitada
-subsidiariamente, en un proceso iniciado para obtener el divorcio.
-
-**Parágrafo**. **5º** Adicionado. L. 25/92, Artículo9º, Derogado por el art. 167, Ley 446 de 1998.
-
-**Parágrafo. 6º**Adicionado. L. 25/92, Artículo9º, Derogado por el art. 167, Ley 446 de 1998”
-
-[138] “**Artículo 4°. *Igualdad de las partes*.** El
-juez debe hacer uso de los poderes que este código le otorga para lograr la
-igualdad real de las partes.”
+[137] El tenor de la norma es el siguiente: â€œ

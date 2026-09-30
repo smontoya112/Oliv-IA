@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-468_2024.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

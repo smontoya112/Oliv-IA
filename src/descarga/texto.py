@@ -2,10 +2,14 @@
 intacto (tildes, números, símbolos, mayúsculas)."""
 from __future__ import annotations
 
+import io
 import logging
 import re
 import shutil
+import struct
 import subprocess
+import zipfile
+import xml.etree.ElementTree as ET
 import unicodedata
 from collections import Counter
 from dataclasses import dataclass, field
@@ -180,11 +184,101 @@ def _normalizar_md(md: str) -> str:
     return md.strip() + "\n"
 
 
+# ------------------------------------------------------------ formato del archivo
+def detectar_formato(contenido: bytes, content_type: str | None = None) -> str:
+    """pdf | docx | doc | html, mirando los primeros bytes (el Content-Type y la extensión
+    mienten: la Corte Suprema sirve .doc y .docx desde enlaces que parecen páginas web)."""
+    if contenido[:5] == b"%PDF-" or ("pdf" in (content_type or "").lower() and b"%PDF-" in contenido[:1024]):
+        return "pdf"
+    if contenido[:4] == b"PK\x03\x04":
+        try:
+            with zipfile.ZipFile(io.BytesIO(contenido)) as z:
+                if "word/document.xml" in z.namelist():
+                    return "docx"
+        except zipfile.BadZipFile:
+            pass
+    if contenido[:8] == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":     # contenedor OLE2 (.doc)
+        return "doc"
+    return "html"
+
+
+# ------------------------------------------------------------ Word (.docx / .doc)
+_W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+
+
+def _parrafos_docx(xml: bytes) -> list[str]:
+    salida = []
+    for p in ET.fromstring(xml).iter(_W + "p"):
+        partes = []
+        for el in p.iter():
+            if el.tag == _W + "t":
+                partes.append(el.text or "")
+            elif el.tag == _W + "tab":
+                partes.append("\t")
+            elif el.tag in (_W + "br", _W + "cr"):
+                partes.append("\n")
+        salida.append("".join(partes))
+    return salida
+
+
+def docx_a_markdown(ruta: Path) -> "ResultadoPDF":
+    """Texto de un .docx leyendo el XML directamente (sin dependencias)."""
+    parrafos = []
+    with zipfile.ZipFile(ruta) as z:
+        for nombre in ("word/document.xml", "word/footnotes.xml", "word/endnotes.xml"):
+            if nombre in z.namelist():
+                parrafos += _parrafos_docx(z.read(nombre))
+    return ResultadoPDF(_normalizar_md("\n\n".join(p for p in parrafos if p.strip())), "docx", 1)
+
+
+def _texto_doc_olefile(ruta: Path) -> str:
+    """Extrae el texto de un .doc binario (Word 97-2003) recorriendo la tabla de piezas."""
+    import olefile
+    with olefile.OleFileIO(str(ruta)) as ole:
+        wd = ole.openstream("WordDocument").read()
+        tabla = ole.openstream("1Table" if struct.unpack_from("<H", wd, 0x0A)[0] & 0x0200
+                               else "0Table").read()
+    fc_clx, lcb_clx = struct.unpack_from("<II", wd, 0x01A2)
+    clx = tabla[fc_clx: fc_clx + lcb_clx]
+    i = 0
+    while clx[i] == 0x01:                                # bloques Prc: se saltan
+        i += 3 + struct.unpack_from("<H", clx, i + 1)[0]
+    if clx[i] != 0x02:
+        raise ValueError("estructura .doc no reconocida")
+    lcb = struct.unpack_from("<I", clx, i + 1)[0]
+    plc = clx[i + 5: i + 5 + lcb]
+    n = (lcb - 4) // 12
+    cps = struct.unpack_from(f"<{n + 1}I", plc, 0)
+    trozos = []
+    for k in range(n):
+        fc = struct.unpack_from("<I", plc, 4 * (n + 1) + 8 * k + 2)[0]
+        largo = cps[k + 1] - cps[k]
+        if fc & 0x40000000:                              # texto comprimido: cp1252
+            ini = (fc & ~0x40000000) // 2
+            trozos.append(wd[ini: ini + largo].decode("cp1252", "replace"))
+        else:                                            # UTF-16 LE
+            trozos.append(wd[fc: fc + 2 * largo].decode("utf-16-le", "replace"))
+    return "".join(trozos)
+
+
+def doc_a_markdown(ruta: Path) -> "ResultadoPDF":
+    """.doc: primero herramientas externas si existen (mejor fidelidad), si no, el lector propio."""
+    texto = None
+    if exe := shutil.which("antiword"):
+        r = subprocess.run([exe, "-m", "UTF-8.txt", str(ruta)], capture_output=True)
+        if r.returncode == 0 and r.stdout.strip():
+            texto = r.stdout.decode("utf-8", "replace")
+    if texto is None:
+        texto = _texto_doc_olefile(ruta)
+    texto = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", texto.replace("\r", "\n").replace("\x07", " "))
+    return ResultadoPDF(_normalizar_md(texto), "doc", 1)
+
+
 # -------------------------------------------------------------------- PDF → MD
 @dataclass
 class ResultadoPDF:
     markdown: str
-    metodo: str        # pdf_texto | pdf_ocr | pdf_sin_texto
+    metodo: str        # pdf_texto | pdf_ocr | pdf_sin_texto | pdf_texto_ilegible | docx | doc
     paginas: int
 
 
@@ -219,22 +313,34 @@ def _texto_pdf(ruta: Path) -> list[str]:
         return [p.get_text("text") for p in doc]
 
 
+def _capa_ilegible(paginas: list[str]) -> bool:
+    """Escaneos con un OCR malo incrustado: el texto existe pero está lleno de caracteres
+    que no son del español (ideogramas, anchos completos...). >2 % es basura."""
+    texto = "".join(paginas)
+    raros = sum(1 for c in texto if ord(c) > 0x24F and not 0x2000 <= ord(c) <= 0x206F)
+    return len(texto.strip()) > 0 and raros / len(texto) > 0.02
+
+
 def pdf_a_markdown(ruta: Path, idioma_ocr: str = "spa") -> ResultadoPDF:
     paginas = _texto_pdf(ruta)
     promedio = sum(len(p.strip()) for p in paginas) / max(len(paginas), 1)
     metodo = "pdf_texto"
-    if promedio < 100:                        # casi sin texto: PDF escaneado
+    sin_texto, ilegible = promedio < 100, _capa_ilegible(paginas)
+    if sin_texto or ilegible:                 # escaneado, o con una capa de texto inservible
         if shutil.which("ocrmypdf"):
             salida = ruta.with_suffix(".ocr.pdf")
             if not salida.exists():
                 log.info("OCR de %s (puede tardar varios minutos)", ruta.name)
-                subprocess.run(["ocrmypdf", "-l", idioma_ocr, "--skip-text", "--quiet",
+                # --force-ocr rehace también las páginas que ya traen (mala) capa de texto
+                subprocess.run(["ocrmypdf", "-l", idioma_ocr,
+                                "--force-ocr" if ilegible else "--skip-text", "--quiet",
                                 str(ruta), str(salida)], check=True)
             paginas = _texto_pdf(salida)
             metodo = "pdf_ocr"
         else:
-            log.warning("%s parece escaneado y no está instalado ocrmypdf", ruta.name)
-            metodo = "pdf_sin_texto"
+            log.warning("%s necesita OCR y no está instalado ocrmypdf (con tesseract-ocr-spa)",
+                        ruta.name)
+            metodo = "pdf_sin_texto" if sin_texto else "pdf_texto_ilegible"
 
     paginas = _quitar_encabezados(paginas)
     bloques = []

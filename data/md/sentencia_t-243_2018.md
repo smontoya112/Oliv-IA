@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-243_2018.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

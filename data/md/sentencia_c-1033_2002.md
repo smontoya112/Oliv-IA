@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-1033_2002.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

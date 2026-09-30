@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-533_2000.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

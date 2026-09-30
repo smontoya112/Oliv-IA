@@ -215,3 +215,29 @@ def test_enlace_invalido(tmp_path):
     with pytest.raises(ValueError):
         leer_enlaces(ruta)
 
+
+
+def test_docx_conserva_tildes_y_se_detecta_por_bytes(tmp_path):
+    import io
+    import zipfile
+    from src.descarga.texto import detectar_formato, docx_a_markdown
+    xml = ('<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>'
+           '<w:p><w:r><w:t>ARTÍCULO 1o. Señor magistrado: la acción de nulidad</w:t></w:r></w:p>'
+           '<w:p><w:r><w:t>Ñandú, corazón y jurisdicción</w:t></w:r></w:p></w:body></w:document>')
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w") as z:
+        z.writestr("word/document.xml", xml)
+    datos = buf.getvalue()
+    assert detectar_formato(datos, "text/html") == "docx"      # aunque diga text/html
+    assert detectar_formato(b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1" + b"0" * 10) == "doc"
+    assert detectar_formato(b"<html></html>") == "html"
+    ruta = tmp_path / "x.docx"
+    ruta.write_bytes(datos)
+    md = docx_a_markdown(ruta).markdown
+    assert "Señor magistrado" in md and "Ñandú, corazón y jurisdicción" in md and "\ufffd" not in md
+
+
+def test_detecta_capa_de_texto_ilegible():
+    from src.descarga.texto import _capa_ilegible
+    assert _capa_ilegible(["Decidela Corte 島nal prorerido C血nara Ⅳ珊 ！" * 20])
+    assert not _capa_ilegible(["ARTÍCULO 1o. Señor magistrado: ¿qué dice la ley? “Sí”." * 20])

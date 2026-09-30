@@ -207,7 +207,8 @@
   "metadata_autocompletada": [
     "numero",
     "organo_emisor"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -41,7 +41,8 @@
   "metadata_autocompletada": [
     "numero",
     "areas"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

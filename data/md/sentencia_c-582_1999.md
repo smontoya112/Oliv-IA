@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-582_1999.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

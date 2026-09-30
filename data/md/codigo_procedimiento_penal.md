@@ -65,7 +65,8 @@
   "archivo_md": "md/codigo_procedimiento_penal.md",
   "metadata_autocompletada": [
     "organo_emisor"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

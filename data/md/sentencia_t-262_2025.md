@@ -33,12 +33,13 @@
     "0d943ccc4f905d573c9810ee499290d967d3abc9607f0ad619328ecc6d39c306"
   ],
   "fecha_actualizacion_fuente": null,
-  "n_caracteres": 167459,
-  "n_articulos_detectados": 14,
+  "n_caracteres": 160108,
+  "n_articulos_detectados": 10,
   "archivo_md": "md/sentencia_t-262_2025.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 
@@ -2783,196 +2784,9 @@ contratos de trabajo. // j) La exigencia de cumplir con las obligaciones,
 deberes y prohibiciones de que trata la legislación disciplinaria aplicable a
 los servidores públicos*”.
 
-[126] Ley 1010 de 2006. Artículo 7. En la Sentencia C-780 de
-2007, la Corte declaró la exequibilidad del artículo referido.
+[126] Ley 1010 de 2006. ArtÃ­culo 7. En la Sentencia C-780 de
+2007, la Corte declarÃ³ la exequibilidad del artÃ­culo referido.
 
-[127] Ley 1010 de 2006. Artículo 9.
+[127] Ley 1010 de 2006. ArtÃ­culo 9.
 
-[128] “*Por la cual se
-establecen disposiciones y se definen responsabilidades para la identificación,
-evaluación, prevención, intervención y monitoreo permanente de la exposición a
-factores de riesgo psicosocial en el trabajo y para la determinación del origen
-de las patologías causadas por el estrés ocupacional”.*
-
-[129] Resolución 2646 de 2008. Artículo 14.
-
-[130] Resolución 2646 de 2008. Artículo 14.
-
-[131] Resolución 652 de 2012. Artículo 6.
-
-[132] Ley 1010 de 2006. Artículo 9.
-
-[133] Ley 1010 de 2006. Artículo 12.
-
-[134] *Ibidem*.
-
-[135] Ley 1010 de 2006.
-Artículo 3. “(…) *a) Haber observado buena conducta anterior. // b) Obrar en
-estado de emoción o pasión excusable, o temor intenso, o en estado de ira e
-intenso dolor. // c) Procurar voluntariamente, después de realizada la
-conducta, disminuir o anular sus consecuencias. // d) Reparar,
-discrecionalmente, el daño ocasionado, aunque no sea en forma total. // e) Las
-condiciones de inferioridad síquicas determinadas por la edad
-o por circunstancias orgánicas que hayan influido en la realización de la
-conducta. // g) Cuando existe manifiesta o velada provocación o desafío por
-parte del superior, compañero o subalterno. // h) Cualquier circunstancia de
-análoga significación a las anteriores*”.
-
-[136] Ley 1010 de 2006.
-Artículo 4. “*a) Reiteración de la conducta; // b) Cuando exista concurrencia
-de causales; // c) Realizar la conducta por motivo abyecto, fútil o mediante
-precio, recompensa o promesa remuneratoria, // d) Mediante ocultamiento, o
-aprovechando las condiciones de tiempo, modo y lugar, que dificulten la defensa
-del ofendido, o la identificación del autor partícipe; // e) Aumentar
-deliberada e inhumanamente el daño psíquico y biológico causado al sujeto
-pasivo; // f) La posición predominante que el autor ocupe en la sociedad, por
-su cargo, rango económico, ilustración, poder, oficio o dignidad; // g)
-Ejecutar la conducta valiéndose de un tercero o de un inimputable; // h) Cuando
-en la conducta desplegada por el sujeto activo se causa un daño en la salud física
-o psíquica al sujeto pasivo*”.
-
-[137] Ley 1010 de 2006. Artículo 11.
-
-[138] *Cfr.,* Corte
-Constitucional. Sentencia T-141 de 2024. En
-esta providencia se ha sostenido lo siguiente: “[e]*stas actuaciones
-administrativas están sometidas al cumplimiento del debido proceso y deben
-adelantarse de manera célere y sin dilaciones injustificadas.La
-Corte estima que, con base en el artículo 29 de la Constitución, los
-procedimientos administrativos de investigación mediante los cuales se tramitan
-quejas por acoso, discriminación y violencia, deben garantizar el debido
-proceso de todas las partes involucradas: las presuntas víctimas y las personas
-investigadas. En virtud del principio de celeridad se exige a las autoridades
-impulsar de manera oficiosa los procedimientos con el fin de que “se
-adelanten con diligencia, dentro de los términos legales y sin dilaciones
-injustificadas”. En ese sentido, es exigible que los responsables dentro
-de una institución conozcan el trámite previsto en el protocolo y la
-demás normativa aplicable para activar las rutas de protección. Así mismo, es
-deber de la institución orientar y reconducir estas peticiones a la autoridad
-competente y no justificar en ello la demora en el trámite”*.
-
-[139] Por violencia contra la mujer debe entenderse, siguiendo lo
-dispuesto en la Ley 1257 de 2008 -artículo 2-, “(…) *cualquier acción u
-omisión, que le cause muerte, daño o sufrimiento físico, sexual, psicológico,
-económico o patrimonial por su condición de mujer, así como las amenazas de
-tales actos, la coacción o la privación arbitraria de la libertad, bien sea que
-se presente en el ámbito público o en el privado*”.
-
-[140] *Cfr.,* Corte
-Constitucional. Sentencia T-266 de 2024.
-
-[141] *Ibidem.*
-
-[142] *Cfr.,* Corte
-Constitucional. Sentencia T-239 de 2018.
-
-[143] *Ibidem*.
-
-[144] *Cfr.,* Corte
-Constitucional. Sentencia T-198 de 2022. En esta sentencia se
-analiza la práctica probatoria judicial, con enfoque de género. El trámite de
-una queja ante el Comité de Convivencia Laboral no es, claramente, un proceso
-judicial. Empero, no existen razones para sostener que el trámite de una queja
-debe llevarse a cabo con abstracción del enfoque de género. Máxime cuando, como
-se ha reconocido en esta providencia, tanto las autoridades del Estado, como
-los particulares, tienen el deber constitucional de emprender acciones
-tendientes a eliminar la discriminación contra la mujer. Por su parte, en la
-Sentencia T-266 de 2024, la Corte se pronunció así: “*El artículo 7* [de
-la Ley 1010 de 2006] *definió conductas, o hechos indicadores, que, de
-desplegarse de manera reiterada y pública, se presume que existe acoso laboral,
-con la posibilidad de desvirtuarse si hay prueba en contrario. Como lo explicó
-la Sentencia T-198 de 2022, respecto de las conductas que ocurran en privado,
-no existe esta presunción. Por lo que, a través de los medios de prueba
-reconocidos en la ley procesal civil, la parte interesada debe convencer a la
-autoridad de que sí ocurrió el acoso laboral. Sin embargo, quien investiga
-estos hechos, especialmente cuando se trata de una mujer víctima de violencia,
-debe flexibilizar la carga de la prueba, sin desconocer las garantías mínimas
-de la otra parte. Así, debe privilegiar los indicios sobre la prueba directa
-porque permite hacer interpretaciones sistémicas de la realidad. Lo anterior,
-debido a que, en muchos escenarios, la declaración de la mujer víctima es con
-la única prueba con la que cuenta”*.
-
-[145] *Cfr.,* Corte
-Constitucional. Sentencia T-266 de 2024.
-
-[146] *Ibidem*.
-
-[147] *Ibidem*.
-
-[148] *Cfr.,* Corte
-Constitucional. Sentencia T-168 de 2019.
-
-[149] *Ibidem*.
-
-[150] *Cfr.,* Corte
-Constitucional. Sentencia T-415 de 2023.
-
-[151] *Ibidem*.
-
-[152] *Ibidem*.
-
-[153] *Cfr.,* Corte
-Constitucional. Sentencia T-141 de 2024.
-
-[154] *Cfr.,* Corte
-Constitucional. Sentencia T-266 de 2024.
-
-[155] *Ibidem*.
-
-[156] *Ibidem*.
-
-[157] Ley 1010 de 2006. Artículo 9.
-
-***[158]*** *“Por la cual se establece la conformación y funcionamiento
-del Comité de Convivencia Laboral, se adoptan los mecanismos de prevención y se
-establece un procedimiento interno para superar las conductas de acoso laboral
-en [la empresa]”.*
-
-[159] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Acta Nro. *123*
-del 18 de diciembre de 2023.
-
-[160] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*QUEJA ACOSO LABORAL [Julia] ANEXOS Y
-PRUEBAS.pdf*”.
-
-[161] Expediente de tutela T-10.302.817, disponible en *SiiCor*. Acta Nro. *123*
-del 18 de diciembre de 2023.
-
-[162] *Ibidem*.
-
-[163] Resolución *ABC* de 2022. Artículo 23.3.
-
-[164]
-Expediente de tutela T-10.302.817, disponible en
-*SiiCor*. “EVIDENCIA CUMPLIMIENTO AUTO CORTE
-CONSTITUCIONAL.pdf” pp. 155
-
-[165] Ley
-1010 de 2006, artículo 1, parágrafo.
-
-[166] *Cfr*.
-Corte Constitucional, Sentencia T-317 de 2020.
-
-[167] Resolución 652 de 2012. Artículo 6.
-
-[168] *Ibidem*.
-
-[169] Resolución *ABC* de 2022. Artículo 1.
-
-[170] *Ibidem.*
-Artículo 16
-
-[171] *Ibidem*.
-Artículo 23, numerales 1 al 4.
-
-[172] Resolución *ABC* de 2022. Artículo 23.5.
-
-[173] *Ibidem*.
-
-[174] *Ibidem.*
-
-[175] *Ibidem.*
-
-[176] Expediente de tutela T-10.302.817, disponible en *SiiCor*. “*INFORME Y ANEXOS VICEPROCURADURIA.pdf*”. Folio 4.
-
-[177] Ver entre otras, sentencias T-403
-de 2018, SU-522 de 2019 y SU-109 de 2022.
+[128] â€œ

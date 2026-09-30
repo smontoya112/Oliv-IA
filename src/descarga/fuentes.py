@@ -20,7 +20,8 @@ from urllib.parse import urlsplit
 from .config import Config
 from .http import Cliente, ErrorDescarga
 from .metadatos import completar
-from .texto import decodificar, html_a_markdown, pdf_a_markdown
+from .texto import (decodificar, detectar_formato, doc_a_markdown, docx_a_markdown,
+                    html_a_markdown, pdf_a_markdown)
 
 log = logging.getLogger(__name__)
 
@@ -123,15 +124,16 @@ def _descargar(obj: dict, tipo: str, cliente: Cliente, cfg: Config, dir_doc: Pat
             r = cliente.get(url, verify=verify)
             contenido, ctype, estado = r.content, r.headers.get("content-type", ""), r.status_code
 
-        es_pdf = tipo == "pdf" or "pdf" in ctype.lower() or contenido[:5] == b"%PDF-"
-        archivo = f"parte_{len(partes):03d}.{'pdf' if es_pdf else 'html'}"
+        formato = detectar_formato(contenido, ctype)
+        es_pdf = formato == "pdf"
+        archivo = f"parte_{len(partes):03d}.{formato}"
         (dir_doc / archivo).write_bytes(contenido)
         partes.append({"archivo": archivo, "url": url, "sha256": _sha256(contenido),
                        "bytes": len(contenido), "content_type": ctype,
                        "http_status": estado, "descargado": _ahora()})
         log.info("  %s  %s (%d KB)", archivo, url, len(contenido) // 1024)
 
-        if es_pdf or not seguir:
+        if formato != "html" or not seguir:
             break
         texto, _ = decodificar(contenido, ctype)
         siguiente = html_a_markdown(texto, url).siguiente
@@ -152,12 +154,25 @@ def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
     for p in meta["partes"]:
         ruta = dir_doc / p["archivo"]
         encabezado = f"<!-- parte {p['archivo']} | {p['url']} -->"
-        if ruta.suffix == ".pdf":
-            r = pdf_a_markdown(ruta, cfg.ocr_idioma)
+        bruto = ruta.read_bytes()
+        # El formato real se decide por los bytes, no por la extensión con que se guardó
+        # (descargas antiguas de Word quedaron como parte_000.html).
+        formato = detectar_formato(bruto, p.get("content_type"))
+        if formato != "html" and ruta.suffix != f".{formato}":
+            nueva = ruta.with_suffix(f".{formato}")
+            ruta.rename(nueva)
+            p["archivo"], ruta = nueva.name, nueva
+            (dir_doc / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2),
+                                               encoding="utf-8")
+            encabezado = f"<!-- parte {p['archivo']} | {p['url']} -->"
+        if formato in ("pdf", "docx", "doc"):
+            convertir_binario = {"pdf": lambda r: pdf_a_markdown(r, cfg.ocr_idioma),
+                                 "docx": docx_a_markdown, "doc": doc_a_markdown}[formato]
+            r = convertir_binario(ruta)
             metodos.add(r.metodo)
             bloques.append(f"{encabezado}\n{r.markdown}")
         else:
-            texto, enc = decodificar(ruta.read_bytes(), p.get("content_type"))
+            texto, enc = decodificar(bruto, p.get("content_type"))
             codificaciones.add(enc)
             r = html_a_markdown(texto, p["url"])
             metodos.add("html")
@@ -197,6 +212,7 @@ def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
         "n_articulos_detectados": n_articulos,
         "archivo_md": f"md/{obj['doc_id']}.md",
         "metadata_autocompletada": autocompletados,
+        "advertencias": [m for m in sorted(metodos) if m in ("pdf_sin_texto", "pdf_texto_ilegible")],
         "estado": "ok",
     }
 

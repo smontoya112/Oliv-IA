@@ -19,7 +19,7 @@
   ],
   "items_del_banco": 1,
   "formato_origen": [
-    "pdf_texto"
+    "pdf_texto_ilegible"
   ],
   "codificacion": [],
   "ocr": false,
@@ -37,6 +37,9 @@
   "metadata_autocompletada": [
     "numero",
     "organo_emisor"
+  ],
+  "advertencias": [
+    "pdf_texto_ilegible"
   ]
 }
 ---

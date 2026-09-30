@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_ce_s2_ij_su_2022.md",
   "metadata_autocompletada": [
     "areas"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

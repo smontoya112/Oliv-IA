@@ -68,7 +68,8 @@
   "n_caracteres": 345567,
   "n_articulos_detectados": 484,
   "archivo_md": "md/codigo_sustantivo_trabajo.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

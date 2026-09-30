@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-71_2016.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -41,7 +41,8 @@
   "n_caracteres": 122536,
   "n_articulos_detectados": 84,
   "archivo_md": "md/estatuto_consumidor.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

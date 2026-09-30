@@ -165,7 +165,8 @@
   "archivo_md": "md/codigo_comercio.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

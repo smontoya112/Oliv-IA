@@ -48,7 +48,8 @@
   "n_caracteres": 233191,
   "n_articulos_detectados": 281,
   "archivo_md": "md/codigo_disciplinario.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

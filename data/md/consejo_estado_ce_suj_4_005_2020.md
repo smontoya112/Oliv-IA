@@ -36,7 +36,8 @@
   "n_caracteres": 107924,
   "n_articulos_detectados": 0,
   "archivo_md": "md/consejo_estado_ce_suj_4_005_2020.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

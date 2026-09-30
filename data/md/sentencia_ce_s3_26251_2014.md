@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_ce_s3_26251_2014.md",
   "metadata_autocompletada": [
     "areas"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

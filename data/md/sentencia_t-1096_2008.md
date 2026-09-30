@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-1096_2008.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -39,7 +39,8 @@
   "archivo_md": "md/sentencia_c-15_2018.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

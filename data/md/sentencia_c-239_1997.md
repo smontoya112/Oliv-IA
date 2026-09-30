@@ -33,12 +33,13 @@
     "37603f2bd9a27638eceb81d53477edabbd7d55428e47d665c894f1b19f0dc9a1"
   ],
   "fecha_actualizacion_fuente": null,
-  "n_caracteres": 325691,
-  "n_articulos_detectados": 16,
+  "n_caracteres": 314400,
+  "n_articulos_detectados": 13,
   "archivo_md": "md/sentencia_c-239_1997.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 
@@ -5086,539 +5087,547 @@ enuncian.
 n La fijación en lista y el traslado del expediente al
 Procurador para emitir concepto, se realizaron el 28 de octubre de 1996.
 
-n El 11 de diciembre de 1996 ingresó el expediente al
+n El 11 de diciembre de 1996 ingresÃ³ el expediente al
 despacho del Magistrado Ponente para elaborar y registrar el correspondiente
-proyecto de fallo, cuyo término vencía el 17 de febrero de 1997, fecha en la
+proyecto de fallo, cuyo tÃ©rmino vencÃ­a el 17 de febrero de 1997, fecha en la
 que se produjo el citado registro.
 
 n El 20 de mayo de 1997 la Sala Plena de la Corte
-expidió la sentencia No. C-239/97 con la que concluyó el proceso, la cual fue
+expidiÃ³ la sentencia No. C-239/97 con la que concluyÃ³ el proceso, la cual fue
 notificada por edicto.
 
 Como se puede
-observar, los términos fijados en la Constitución y la ley fueron respetados, y
-los pasos o etapas estatuídos para esta clase de procesos se cumplieron a
+observar, los tÃ©rminos fijados en la ConstituciÃ³n y la ley fueron respetados, y
+los pasos o etapas estatuÃ­dos para esta clase de procesos se cumplieron a
 cabalidad.
 
 **II.6.3 El estudio
-del proceso en la Sala Plena**
+del proceso en la Sala PlenaÂ Â**
 
 El proceso D-1490
-fue estudiado por la Sala Plena en dos sesiones que se celebraron así :
+fue estudiado por la Sala Plena en dos sesiones que se celebraron asÃ­ :
 una, el jueves 15 de mayo y la otra el martes 20 de mayo de 1997, y a ellas
 asistieron todos los Magistrados que conforman la Corte Constitucional, tal
-como se lee en la certificación que aparece en el expediente a folio 33.
+como se lee en la certificaciÃ³n que aparece en el expediente a folio 33.
 
-En la primera sesión
-se presentó, por parte del ponente, el proyecto de fallo correspondiente, en
-cuya parte resolutiva proponía declarar exequible el artículo 326 del Código
+En la primera sesiÃ³n
+se presentÃ³, por parte del ponente, el proyecto de fallo correspondiente, en
+cuya parte resolutiva proponÃ­a declarar exequible el artÃ­culo 326 del CÃ³digo
 Penal, con la advertencia de que en el caso de que mediara el consentimiento
-del sujeto pasivo del acto, no podía derivarse responsabilidad para el autor
-del homicidio. El consentimiento, en consecuencia, traía consigo una causal de
-justificación del hecho.
+del sujeto pasivo del acto, no podÃ­a derivarse responsabilidad para el autor
+del homicidio. El consentimiento, en consecuencia, traÃ­a consigo una causal de
+justificaciÃ³n del hecho.
 
-Igualmente, proponía
-declarar exequible el artículo 327 del mismo Código Penal, en el entendido de
-que también en este caso el consentimiento implicaba la justificación de quien
+Â
+
+Igualmente, proponÃ­a
+declarar exequible el artÃ­culo 327 del mismo CÃ³digo Penal, en el entendido de
+que tambiÃ©n en este caso el consentimiento implicaba la justificaciÃ³n de quien
 "ayuda al suicidio".
 
-Después que el
+DespuÃ©s que el
 ponente expuso sus argumentaciones con respecto al caso sometido al juicio de
-la Corte, se inició el debate. El magistrado Vladimiro Naranjo Mesa intervino
-para pedir la "rotación" del proceso, pues, a su juicio, debido a la
-importancia y trascendencia del asunto -"se trata nada más ni nada menos
-que de legalizar la eutanasia"- y la decisión que se habría de adoptar,
-era necesaria una mayor reflexión y estudio sobre el tema. El presidente de la
-Corporación, concedió la rotación pedida, anunciando desde ya su voto
-afirmativo al proyecto presentado. En consecuencia, se procedió a suspender la
-discusión, tal como lo ordena el Reglamento Interno en su artículo 34-5, la que
-debía continuar en la Sala Plena del 20 de mayo de 1997.
+la Corte, se iniciÃ³ el debate. El magistrado Vladimiro Naranjo Mesa intervino
+para pedir la "rotaciÃ³n" del proceso, pues, a su juicio, debido a la
+importancia y trascendencia del asunto -"se trata nada mÃ¡s ni nada menos
+que de legalizar la eutanasia"- y la decisiÃ³n que se habrÃ­a de adoptar,
+era necesaria una mayor reflexiÃ³n y estudio sobre el tema. El presidente de la
+CorporaciÃ³n, concediÃ³ la rotaciÃ³n pedida, anunciando desde ya su voto
+afirmativo al proyecto presentado. En consecuencia, se procediÃ³ a suspender la
+discusiÃ³n, tal como lo ordena el Reglamento Interno en su artÃ­culo 34-5, la que
+debÃ­a continuar en la Sala Plena del 20 de mayo de 1997.
 
 En el curso del
-debate, y como resultado de éste, se modificó la propuesta hecha por el
-ponente, en los términos que más adelante se explican.
+debate, y como resultado de Ã©ste, se modificÃ³ la propuesta hecha por el
+ponente, en los tÃ©rminos que mÃ¡s adelante se explican.
 
-**II.6.4 Adopción
-de decisiones en Sala Plena (quórum, votación, mayoría).**
+**II.6.4 AdopciÃ³n
+de decisiones en Sala Plena (quÃ³rum, votaciÃ³n, mayorÃ­a).**
 
 Para efectos de la
-deliberación y decisión de los procesos constitucionales por parte de la Sala
-Plena de la Corte, la ley estatutaria de la Administración de Justicia en su
-artículo 54, exige la asistencia y voto de la mayoría de los miembros de la
-Corporación. Dice así dicha disposición : "*Todas las decisiones
+deliberaciÃ³n y decisiÃ³n de los procesos constitucionales por parte de la Sala
+Plena de la Corte, la ley estatutaria de la AdministraciÃ³n de Justicia en su
+artÃ­culo 54, exige la asistencia y voto de la mayorÃ­a de los miembros de la
+CorporaciÃ³n. Dice asÃ­ dicha disposiciÃ³n : "*Todas las decisiones
 que las Corporaciones judiciales en pleno o cualquiera de sus salas o secciones
-deban tomar, requerirán para su deliberación y decisión, de la asistencia y
-voto de la mayoría de los miembros de la* *Corporación, sala o sección*...".
+deban tomar, requerirÃ¡n para su deliberaciÃ³n y decisiÃ³n, de la asistencia y
+voto de la mayorÃ­a de los miembros de la* *CorporaciÃ³n, sala o secciÃ³n*...".
 
 Dado que el
-legislador no exigió una mayoría calificada, ha de entenderse que ésta es la
-mayoría simple, es decir, cualquier número entero de votos superior a la mitad
-del número de magistrados que integran la Corte.
+legislador no exigiÃ³ una mayorÃ­a calificada, ha de entenderse que Ã©sta es la
+mayorÃ­a simple, es decir, cualquier nÃºmero entero de votos superior a la mitad
+del nÃºmero de magistrados que integran la Corte.Â
 
 De acuerdo con la
-certificación expedida por la Secretaria General tantas veces citada, a las
-sesiones en las que se discutió y aprobó el proceso D-1490, asistieron todos
+certificaciÃ³n expedida por la Secretaria General tantas veces citada, a las
+sesiones en las que se discutiÃ³ y aprobÃ³ el proceso D-1490, asistieron todos
 los magistrados que integran la Corte Constitucional.
 
 Como el actor
-cifraba su argumento de inconstitucionalidad del artículo 326 del Código Penal,
-en la rebaja muy significativa de pena contemplada en él para el homicidio
-piadoso, se procedió a considerar las razones expuestas en el proyecto de fallo
+cifraba su argumento de inconstitucionalidad del artÃ­culo 326 del CÃ³digo Penal,
+en la rebaja muy significativa de pena contemplada en Ã©l para el homicidio
+piadoso, se procediÃ³ a considerar las razones expuestas en el proyecto de fallo
 para rechazar el cargo, las cuales fueron aprobadas por unanimidad.
 
-Luégo entró a
+LuÃ©go entrÃ³ a
 discutirse la propuesta sustentada en la ponencia, de declarar justificada la
-conducta del sujeto activo (en la hipótesis del homicidio piadoso) cuando
-mediara el consentimiento del sujeto pasivo. Como dicha propuesta incluía la
-extensión de la causal justificativa a la hipótesis de la ayuda al suicidio,
-contemplada en el artículo 327 del Código Penal, esta última fue rechazada por
-la mayoría de los magistrados, anunciando los magistrados Arango y Gaviria que,
-como consideraban más congruente la propuesta contenida en la ponencia, harían,
-en ese sentido, una aclaración de voto.
+conducta del sujeto activo (en la hipÃ³tesis del homicidio piadoso) cuando
+mediara el consentimiento del sujeto pasivo. Como dicha propuesta incluÃ­a la
+extensiÃ³n de la causal justificativa a la hipÃ³tesis de la ayuda al suicidio,
+contemplada en el artÃ­culo 327 del CÃ³digo Penal, esta Ãºltima fue rechazada por
+la mayorÃ­a de los magistrados, anunciando los magistrados Arango y Gaviria que,
+como consideraban mÃ¡s congruente la propuesta contenida en la ponencia, harÃ­an,
+en ese sentido, una aclaraciÃ³n de voto.
 
-Así mismo, el
+AsÃ­ mismo, el
 magistrado Cifuentes propuso restringir la causal justificativa al caso de los
-enfermos terminales (restricción que no hace el artículo 326 del Código penal,
+enfermos terminales (restricciÃ³n que no hace el artÃ­culo 326 del CÃ³digo penal,
 para la rebaja de pena), propuesta que, no obstante las objeciones hechas por
-el ponente, fue también acogida mayoritariamente.
+el ponente, fue tambiÃ©n acogida mayoritariamente.
 
 En consecuencia, el
-mismo magistrado Cifuentes presentó una propuesta sustitutiva a la del proyecto
-original, en el sentido de que la declaración de exequibilidad del artículo
-326, se hacía en los términos finalmente acordados mayoritariamente, propuesta que
+mismo magistrado Cifuentes presentÃ³ una propuesta sustitutiva a la del proyecto
+original, en el sentido de que la declaraciÃ³n de exequibilidad del artÃ­culo
+326, se hacÃ­a en los tÃ©rminos finalmente acordados mayoritariamente, propuesta que
 el propio magistrado ponente no tuvo inconveniente en acoger, conforme al
 sentir mayoritario.
 
 El resultado de la
-votación de la propuesta fue de seis votos a favor, por parte de los
-magistrados Jorge Arango Mejía, Antonio Barrera Carbonell, Carlos Gaviria Díaz,
-Alejandro Martínez Caballero, Fabio Morón Díaz y Eduardo Cifuentes Muñoz y
-tres votos en contra que corresponden a los magistrados José Gregorio Hernández
-Galindo, Hernando Herrera Vergara y Vladimirio Naranjo Mesa.
+votaciÃ³n de la propuesta fue de seis votos a favor, por parte de los
+magistrados Jorge Arango MejÃ­a, Antonio Barrera Carbonell, Carlos Gaviria DÃ­az,
+Alejandro MartÃ­nez Caballero, Fabio MorÃ³n DÃ­az yÂ Eduardo Cifuentes MuÃ±oz y
+tres votos en contra que corresponden a los magistrados JosÃ© Gregorio HernÃ¡ndez
+Galindo, Hernando Herrera Vergara y Vladimirio Naranjo Mesa.Â
 
 Sin embargo, como el
-texto de lo aprobado es objeto de impugnación por parte de los accionantes en
-este incidente, la Corte se referirá a él más adelante en el capítulo destinado
+texto de lo aprobado es objeto de impugnaciÃ³n por parte de los accionantes en
+este incidente, la Corte se referirÃ¡ a Ã©l mÃ¡s adelante en el capÃ­tulo destinado
 a analizar en detalle los cargos formulados.
 
 **II.6.5 Firma y
 fecha de las sentencias**
 
-El artículo 56 de la
-ley estatutaria de la Administración de Justicia autoriza a las Corporaciones
-Judiciales para que en el Reglamento Interno determinen la forma como serán
-expedidas y firmadas las providencias que dicten. También deberán señalar un
-término perentorio para que los Magistrados que disientan de las decisiones
-adoptadas por la mayoría, presenten las aclaraciones o los salvamentos de voto
-correspondientes, "*sin perjuicio de la publicación de la sentencia. La
-sentencia tendrá la fecha en que se adopte".*
+El artÃ­culo 56 de la
+ley estatutaria de la AdministraciÃ³n de Justicia autoriza a las Corporaciones
+Judiciales para que en el Reglamento Interno determinen la forma como serÃ¡n
+expedidas y firmadas las providencias que dicten. TambiÃ©n deberÃ¡n seÃ±alar un
+tÃ©rmino perentorio para que los Magistrados que disientan de las decisiones
+adoptadas por la mayorÃ­a, presenten las aclaraciones o los salvamentos de voto
+correspondientes, "*sin perjuicio de la publicaciÃ³n de la sentencia. La
+sentencia tendrÃ¡ la fecha en que se adopte".Â Â Â Â Â Â Â*
 
 El Reglamento
-Interno de la Corte consagra en su artículo 34-9 lo siguiente. "Cuando el
-proyecto o estudio obtenga la mayoría legal de los votos de los magistrados, a
-cada uno de los demás se concederá el plazo fijado en el decreto 2067 de 1991
+Interno de la Corte consagra en su artÃ­culo 34-9 lo siguiente. "Cuando el
+proyecto o estudio obtenga la mayorÃ­a legal de los votos de los magistrados, a
+cada uno de los demÃ¡s se concederÃ¡ el plazo fijado en el decreto 2067 de 1991
 para aclarar o salvar su voto....". El ordenamiento al que remite,
-establece en el artículo 14 inciso 2o. un plazo de cinco (5) días.
+establece en el artÃ­culo 14 inciso 2o. un plazo de cinco (5) dÃ­as.
 
 En lo que respecta a
-la firma de las sentencias aprobadas por la Sala Plena, no existe disposición
+la firma de las sentencias aprobadas por la Sala Plena, no existe disposiciÃ³n
 en el Reglamento Interno que se refiera al tema ; sin embargo, la
-Corporación lo ha venido realizando así : en primer lugar el ponente es
-quien debe estampar su firma luégo lo hace el Presidente de la Corte, y después
+CorporaciÃ³n lo ha venido realizando asÃ­ : en primer lugar el ponente es
+quien debe estampar su firma luÃ©go lo hace el Presidente de la Corte, y despuÃ©s
 cada uno de los magistrados. Cuando alguno de los magistrados disiente en todo
-o en parte de la decisión mayoritaria procede a firmarla junto con la expresión
-"con aclaración de voto", o "con salvamento de voto", según
-el caso.
+o en parte de la decisiÃ³n mayoritaria procede a firmarla junto con la expresiÃ³n
+"con aclaraciÃ³n de voto", o "con salvamento de voto", segÃºn
+el caso.Â Â Â Â Â
 
 La firma de las
 sentencias por parte de los magistrados es requisito indispensable para su
 validez, pues con ella dan fe de que su contenido corresponde a lo decidido y
 aprobado en Sala Plena. Tales providencias requieren de la firma de todos los
-magistrados que concurrieron a la sesión en la que se tomó la determinación
+magistrados que concurrieron a la sesiÃ³n en la que se tomÃ³ la determinaciÃ³n
 correspondiente, aun de aquellos que hayan disentido total o parcialmente. Los
-disidentes deben salvar o aclarar su voto dentro de los cinco (5) días
+disidentes deben salvar o aclarar su voto dentro de los cinco (5) dÃ­as
 siguientes a la fecha de la providencia, pero su retardo no impide la
-publicación de la misma, como lo ordena la norma estatutaria primeramente
-citada.
+publicaciÃ³n de la misma, como lo ordena la norma estatutaria primeramente
+citada.Â
 
 La sentencia
 C-239/97 fue suscrita por todos los Magistrados de la Corte, dejando los
-magistrados disidentes la anotación clara y expresa de su aclaración o
+magistrados disidentes la anotaciÃ³n clara y expresa de su aclaraciÃ³n o
 salvamento de voto.
 
 La fecha de la sentencia
-es la que corresponde a la Sala Plena en la que se votó el proyecto de fallo,
-hecho que tuvo ocurrencia el día 20 de mayo de 1997. (art. 56 ley estatutaria
-de la Administración de Justicia)
+es la que corresponde a la Sala Plena en la que se votÃ³ el proyecto de fallo,
+hecho que tuvo ocurrencia el dÃ­a 20 de mayo de 1997. (art. 56 ley estatutaria
+de la AdministraciÃ³n de Justicia)Â Â Â Â
 
 **II.6.6
-Divulgación de las decisiones de la Sala Plena y publicación de la sentencias**
+DivulgaciÃ³n de las decisiones de la Sala Plena y publicaciÃ³n de la sentencias**Â
 
 El Presidente de la
-Corte Constitucional es el vocero oficial de la entidad y, como tal, el único
+Corte Constitucional es el vocero oficial de la entidad y, como tal, el Ãºnico
 magistrado autorizado para informar oficialmente sobre los asuntos decididos
 por la Sala Plena (art. 9-c Reglamento Interno). Este precepto guarda perfecta
-armonía con el artículo 64 de la ley estatutaria de la Administración de
-Justicia, que en lo pertinente reza : "*Tratándose de Corporaciones
-Judiciales, las* *decisiones serán divulgadas por conducto de sus
-presidentes*."
+armonÃ­a con el artÃ­culo 64 de la ley estatutaria de la AdministraciÃ³n de
+Justicia, que en lo pertinente reza : "*TratÃ¡ndose de Corporaciones
+Judiciales, las* *decisiones serÃ¡n divulgadas por conducto de sus
+presidentes*."Â
 
-Así las cosas, la
-divulgación de lo resuelto por la Sala Plena de la Corte en su sesión del 20 de
-mayo de 1997, con relación al proceso D-1490 por parte de su Presidente
-constituye un ejercicio legítimo de la función que al respecto le ha sido
+AsÃ­ las cosas, la
+divulgaciÃ³n de lo resuelto por la Sala Plena de la Corte en su sesiÃ³n del 20 de
+mayo de 1997, con relaciÃ³n al proceso D-1490 por parte de su Presidente
+constituye un ejercicio legÃ­timo de la funciÃ³n que al respecto le ha sido
 asignada.
 
-Adviértase que el
-artículo 56 de la ley estatutaria de la Administración de Justicia, transcrito
-en el punto anterior, autoriza la publicación de la sentencia antes que los
+AdviÃ©rtase que el
+artÃ­culo 56 de la ley estatutaria de la AdministraciÃ³n de Justicia, transcrito
+en el punto anterior, autoriza la publicaciÃ³n de la sentencia antes que los
 magistrados disidentes hayan salvado o aclarado su voto.
 
-La publicación del
+Â
+
+La publicaciÃ³n del
 texto oficial del fallo, en la Gaceta de la Corte Constitucional, debe ser
-íntegra y contener los respectivos salvamentos y aclaraciones de voto que se
-hayan presentado.
+Ã­ntegra y contener los respectivos salvamentos y aclaraciones de voto que se
+hayan presentado.Â
 
 **II.6.7 Las actas
 de la sala plena**
 
-Según lo ordena el
+SegÃºn lo ordena el
 Reglamento Interno de la Corte (art. 36), las actas de las sesiones de Sala
 Plena deben contener un resumen de todo lo acontecido en ellas. "De las
-exposiciones de los magistrados se hará otro tanto, si éstos lo exigen y las
+exposiciones de los magistrados se harÃ¡ otro tanto, si Ã©stos lo exigen y las
 presentan por escrito".
 
 Las actas de la Sala
-Plena son de acceso público según lo consagra el artículo 57 de la ley
-estatutaria de Administración de Justicia cuyo texto es éste : "*También
-son de acceso público las actas de las* *sesiones de la Sala Plena de la
+Plena son de acceso pÃºblico segÃºn lo consagra el artÃ­culo 57 de la ley
+estatutaria de AdministraciÃ³n de Justicia cuyo texto es Ã©ste : "*TambiÃ©n
+son de acceso pÃºblico las actas de las* *sesiones de la Sala Plena de la
 Corte Constitucional*, *de las Salas y Secciones del Consejo de Estado y
 de los Tribunales Administrativos y de las Salas de la Corte Suprema de
 Justicia y de los Tribunales superiores de Distrito Judicial en las cuales
 consten los debates, actuaciones y decisiones judiciales adoptadas para
-propugnar por la integridad del orden jurídico,* *para hacer efectivo el
-cumplimiento de una ley o un acto administrativo de carácter general y para la
-protección de los derechos e intereses colectivos frente a la omisión o acción
-de las autoridades públicas".*
+propugnar por la integridad del orden jurÃ­dico,* *para hacer efectivo el
+cumplimiento de una ley o un acto administrativo de carÃ¡cter general y para la
+protecciÃ³n de los derechos e intereses colectivos frente a la omisiÃ³n o acciÃ³n
+de las autoridades pÃºblicas".*
 
 Al declarar
-exequible este precepto legal, advirtió la Corte que "el acceso público a
+exequible este precepto legal, advirtiÃ³ la Corte que "el acceso pÃºblico a
 las actas de las sesiones que se lleven a cabo en las corporaciones de que
-trata el artículo 57, deberá estar condicionado a su previa
-aprobación" . De esta manera los integrantes de cada corporación
+trata el artÃ­culo 57, deberÃ¡ estar condicionado a su previa
+aprobaciÃ³n" . De esta manera los integrantes de cada corporaciÃ³n
 tienen la oportunidad de revisar el contenido de tales documentos, "con el
-fin de verificar que en ellos se consigne adecuadamente su deliberación y la
-votación en cada debate." (sent. C-37/96 M.P. Vladimirio Naranjo Mesa). A
+fin de verificar que en ellos se consigne adecuadamente su deliberaciÃ³n y la
+votaciÃ³n en cada debate." (sent. C-37/96 M.P. Vladimirio Naranjo Mesa). A
 partir de ese momento se convierten en documentos oficiales de acceso libre al
-público.
+pÃºblico.Â Â Â
 
 **II.6.8
 Obligatoriedad de la sentencia expedida por la Sala Plena en juicios de
 constitucionalidad**
 
 Toda sentencia
-dictada por esta Corporación, dentro de los procesos de constitucionalidad,
+dictada por esta CorporaciÃ³n, dentro de los procesos de constitucionalidad,
 firmada por los Magistrados y debidamente ejecutoriada, es obligatoriay
-produce efectos *erga omnes*. Este carácter definitivo e inmodificable de
+produce efectos *erga omnes*. Este carÃ¡cter definitivoÂ e inmodificable de
 la sentencia se deriva de la cosa juzgada material que se produce de
-conformidad con lo dispuesto por el artículo 243 del Estatuto Supremo, salvo
-que la misma Corporación deje expresa constancia de la existencia de cosa
+conformidad con lo dispuesto por el artÃ­culoÂ 243 del Estatuto Supremo, salvo
+que la misma CorporaciÃ³n deje expresa constancia de la existencia de cosa
 juzgada relativa.
 
-**III.** **Los hechos que se aducen como irregulares**
+**III.** **Â Los hechos que se aducen como irregulares**
 
 En el mismo orden
-propuesto por los accionantes se pronunciará la Corte :
+propuesto por los accionantes se pronunciarÃ¡ la Corte :
 
-**III.1** Que la reunión de los Magistrados celebrada
-el 29 de mayo de 1997 para "verificar los términos de la sentencia",
-se celebró fuera del marco jurídico, contrariándolo, y se modificó la decisión
+**III.1** Que la reuniÃ³n de los Magistrados celebrada
+el 29 de mayo de 1997 para "verificar los tÃ©rminos de la sentencia",
+se celebrÃ³ fuera del marco jurÃ­dico, contrariÃ¡ndolo, y se modificÃ³ la decisiÃ³n
 tomada por la Sala Plena el 20 de mayo de 1997. Al respecto, debe considerar la
-Corporación lo que sigue :
+CorporaciÃ³n lo que sigue :
 
 Como bien lo afirman
-los accionantes, el Reglamento Interno de la Corte en su artículo 24, ordena
-que las sesiones de la Sala Plena se celebren previa convocación. Dichas
-sesiones pueden ser ordinarias o extraordinarias. Las primeras se efectúan
-generalmente los días jueves de cada semana a las nueve de la mañana o el día
+los accionantes, el Reglamento Interno de la Corte en su artÃ­culo 24, ordena
+que las sesiones de la Sala Plena se celebren previa convocaciÃ³n. Dichas
+sesiones pueden ser ordinarias o extraordinarias. Las primeras se efectÃºan
+generalmente los dÃ­as jueves de cada semana a las nueve de la maÃ±ana o el dÃ­a
 que para el efecto decida la Sala Plena. Las segundas se realizan a iniciativa
 del Presidente de la Corte o, en su ausencia, del Vicepresidente, o cuando lo
 soliciten por lo menos dos magistrados, siempre que se indique el objeto de la
-reunión.
+reuniÃ³n.
 
-La convocación se
+La convocaciÃ³n se
 hace generalmente por escrito en el que se indican el lugar, la hora y el
-objeto de la sesión. En caso de urgencia, se autoriza para citar a los
+objeto de la sesiÃ³n. En caso de urgencia, se autoriza para citar a los
 magistrados en forma verbal, de lo cual se debe dejar testimonio en el acta.
 
 Igualmente, se
-establece que "No serán válidas las determinaciones que se adopten en
-sesión para la que no hayan sido debidamente convocados los magistrados, salvo
-que, hallándose todos presentes, acuerden sesionar."
+establece queÂ "No serÃ¡n vÃ¡lidas las determinaciones que se adopten en
+sesiÃ³n para la que no hayan sido debidamente convocados los magistrados, salvo
+que, hallÃ¡ndose todos presentes, acuerden sesionar."
 
-La reunión que con
-posterioridad a la sala plena del 20 de mayo de 1997, se celebró por parte de
+La reuniÃ³n que con
+posterioridad a la sala plena del 20 de mayo de 1997, se celebrÃ³ por parte de
 los magistrados que votaron a favor de la exequibilidad condicionada del
-artículo 326 del Código Penal, en los términos expuestos atrás, (Jorge Arango
-Mejía, Antonio Barrera Carbonell, Eduardo Cifuentes Muñoz, Carlos Gaviria Díaz,
-Alejandro Martínez Caballero y Fabio Morón Díaz) no requería de convocación
-pues no se trataba de una sesión de la Sala Plena sino de una reunión informal
-que decidieron hacer los magistrados del grupo mayoritario, básicamente por dos
-razones : Primera, porque el magistrado Eduardo Cifuentes Muñoz había elaborado
-un escrito que, según él, debería incorporarse a la parte motiva de la
-sentencia, en el que planteaba una tesis antitética a la ya aprobada por la
-Sala Plena, pues aludía a que nunca el consentimiento del sujeto pasivo tenía
+artÃ­culo 326 del CÃ³digo Penal, en los tÃ©rminos expuestos atrÃ¡s, (Jorge Arango
+MejÃ­a, Antonio Barrera Carbonell, Eduardo Cifuentes MuÃ±oz, Carlos Gaviria DÃ­az,
+Alejandro MartÃ­nez Caballero y Fabio MorÃ³n DÃ­az) no requerÃ­a de convocaciÃ³n
+pues no se trataba de una sesiÃ³n de la Sala Plena sino de una reuniÃ³n informal
+que decidieron hacer los magistrados del grupo mayoritario, bÃ¡sicamente por dos
+razones : Primera, porque el magistrado Eduardo Cifuentes MuÃ±oz habÃ­a elaborado
+un escrito que, segÃºn Ã©l, deberÃ­a incorporarse a la parte motiva de la
+sentencia, en el que planteaba una tesis antitÃ©tica a la ya aprobada por la
+Sala Plena, pues aludÃ­a a que nunca el consentimiento del sujeto pasivo tenÃ­a
 relevancia, como justificativo de la conducta del sujeto activo ; y
 segunda, porque dadas las modificaciones hechas por la Sala Plena, era
-necesario verificar entre quienes aprobaron la ponencia, los términos en que
-ésta quedaría redactada, y si era necesario exponer con mayor claridad los
-argumentos de la parte motiva que condujeron a adoptarla. Actuación que no
-vulnera el artículo 29 del estatuto superior, pues además de que el proceso ya
-había concluído con la decisión adoptada en la Sala Plena del 20 de mayo de
-1997, la cual tiene el carácter de definitiva y, por ende, obligatoria y con
+necesario verificar entre quienes aprobaron la ponencia, los tÃ©rminos en que
+Ã©sta quedarÃ­a redactada, y si era necesario exponer con mayor claridad los
+argumentos de la parte motiva que condujeron a adoptarla. ActuaciÃ³n que no
+vulnera el artÃ­culo 29 del estatuto superior, pues ademÃ¡s de que el proceso ya
+habÃ­a concluÃ­do con la decisiÃ³n adoptada en la Sala Plena del 20 de mayo de
+1997, la cual tiene el carÃ¡cter de definitiva y, por ende, obligatoria y con
 efectos *erga omnes,* nada impide que los magistrados que comparten una
-decisión evalúen la redacción final, con el propósito de que ella quede
-plasmada de la manera más nítida y sea el fiel reflejo de lo que fue discutido
+decisiÃ³n evalÃºen la redacciÃ³n final, con el propÃ³sito de que ella quede
+plasmada de la manera mÃ¡s nÃ­tida y sea el fiel reflejo de lo que fue discutido
 y aprobado. Tal comportamiento en lugar de ser reprochable es saludable,
 especialmente cuando se trata de asuntos en los que la propuesta inicial ha
-sufrido variaciones durante el debate. Así lo atestigua una práctica frecuente
-dentro de la Corporación, que jamás ha sido cuestionada, pues sus objetivos,
+sufrido variaciones durante el debate. AsÃ­ lo atestigua una prÃ¡ctica frecuente
+dentro de la CorporaciÃ³n, que jamÃ¡s ha sido cuestionada, pues sus objetivos,
 tal como queda dicho, son saludables y plausibles y no contravienen regla
-jurídica alguna. La aludida reunión, entonces, no afecta en nada el debido
+jurÃ­dica alguna. La aludida reuniÃ³n, entonces, no afecta en nada el debido
 proceso.
 
-Como en dicha reunión
-informal no se alteró la decisión tomada por la sala plena sino que, al
-contrario, se verificó que ésta era incompatible con el texto presentado por el
-magistrado Cifuentes, no asiste razón al promotor del incidente ni a los
+Como en dicha reuniÃ³n
+informal no se alterÃ³ la decisiÃ³n tomada por la sala plena sino que, al
+contrario, se verificÃ³ que Ã©sta era incompatible con el texto presentado por el
+magistrado Cifuentes, no asiste razÃ³n al promotor del incidente ni a los
 coadyuvantes en el primer argumento esgrimido contra el fallo. Sin embargo,
-sobre este punto específico, nodal dentro de la argumentación de los actores,
-se hará mayor claridad en el aparte siguiente.
+sobre este punto especÃ­fico, nodal dentro de la argumentaciÃ³n de los actores,
+se harÃ¡ mayor claridad en el aparte siguiente.
 
 **III.2** En criterio de los accionantes, haydisconformidad
-entre la decisión que aparece consignada en la sentencia C-239/97 y la aprobada
-en la Sala Plena del 20 de mayo de 1997, como también grave contradicción entre
+entre la decisiÃ³n que aparece consignada en la sentencia C-239/97 y la aprobada
+en la Sala Plena del 20 de mayo de 1997, como tambiÃ©n grave contradicciÃ³n entre
 la parte motiva y la resolutiva del fallo. No comparte la Corte el punto de los
 incidentalistas por las siguientes razones:
 
-**III.2.1** En el proyecto de fallo que presentó el
+**III.2.1** En el proyecto de fallo que presentÃ³ el
 magistrado ponente a la Sala Plena para su estudio dentro del proceso D-1490
-que, como en párrafos anteriores se anotó, tuvo lugar en dos sesiones, se
-proponía declarar exequible el artículo 326 del Código Penal, con la
+que, como en pÃ¡rrafos anteriores se anotÃ³, tuvo lugar en dos sesiones, se
+proponÃ­a declarar exequible el artÃ­culo 326 del CÃ³digo Penal, con la
 advertencia de que en el caso de que mediara el consentimiento del sujeto
-pasivo del acto, no podría derivarse responsabilidad penal para el autor del
-homicidio. El consentimiento, en consecuencia, traía consigo una causal de
-justificación del hecho.
+pasivo del acto, no podrÃ­a derivarse responsabilidad penal para el autor del
+homicidio. El consentimiento, en consecuencia, traÃ­a consigo una causal de
+justificaciÃ³n del hecho.
 
-Igualmente, proponía
--como se expuso atrás- declarar exequible la ayuda al suicidio contemplada en
-el artículo 327 del mismo Código Penal, en el entendido de que también en este
-caso el consentimiento implicaba la justificación de la conducta del sujeto
+Â
+
+Igualmente, proponÃ­a
+-como se expuso atrÃ¡s- declarar exequible la ayuda al suicidio contemplada en
+el artÃ­culo 327 del mismo CÃ³digo Penal, en el entendido de que tambiÃ©n en este
+caso el consentimiento implicaba la justificaciÃ³n de la conducta del sujeto
 activo.
 
 En la Sala Plena del
-20 de mayo de 1997, después de concluído el debate, se decidió por la mayoría
+20 de mayo de 1997, despuÃ©s de concluÃ­do el debate, se decidiÃ³ por la mayorÃ­a
 (6 votos contra 3), modificar el proyecto en este sentido : declarar
-exequible el artículo 326 del decreto 100 de 1980 -Código Penal-, con la
+exequible el artÃ­culo 326 del decreto 100 de 1980 -CÃ³digo Penal-, con la
 advertencia de que en el caso de los enfermos **terminales** en que concurra
-la voluntad libre del sujeto pasivo del acto, no podía derivarse
+la voluntad libre del sujeto pasivo del acto, no podÃ­a derivarse
 responsabilidad para el sujeto activo, pues la conducta quedaba justificada. Y
-se negó la propuesta en relación con el artículo 327, pues se determinó no
-hacer pronunciamiento alguno sobre él.
+se negÃ³ la propuesta en relaciÃ³n con el artÃ­culo 327, pues se determinÃ³ no
+hacer pronunciamiento alguno sobre Ã©l.
 
 **III.2.2** Alegan los promotores del incidente que la
-parte resolutiva aprobada fue la que presentó, como proposición sustitutiva, el
-magistrado Eduardo Cifuentes y no la que finalmente apareció en el fallo, que
-diverge esencialmente de aquélla. Sobre este punto es necesario hacer claridad.
+parte resolutiva aprobada fue la que presentÃ³, como proposiciÃ³n sustitutiva, el
+magistrado Eduardo Cifuentes y no la que finalmente apareciÃ³ en el fallo, que
+diverge esencialmente de aquÃ©lla. Sobre este punto es necesario hacer claridad.
 
 La propuesta del
 magistrado Cifuentes aprobada como parte resolutiva ("declarar exequible
-el artículo 326 del decreto 100 de 1980 -Código Penal-, salvo en el caso del
+el artÃ­culo 326 del decreto 100 de 1980 -CÃ³digo Penal-, salvo en el caso del
 enfermo terminal cuando manifieste su consentimiento en los expresos
-términos y bajo las estrictas condiciones señaladas en la parte motiva
-de esta sentencia") -subraya la Corte- sólo tiene sentido si se
-vincula con las razones aprobadas en la parte considerativa, pues fue allí
-donde se indicaron "los expresos términos" y "las
+tÃ©rminos y bajo las estrictas condiciones seÃ±aladas en la parte motiva
+de esta sentencia") -subraya la Corte- sÃ³lo tiene sentido si se
+vincula con las razones aprobadas en la parte considerativa, pues fue allÃ­
+donde se indicaron "los expresos tÃ©rminos" y "las
 estrictas condiciones" bajo las cuales se justificaba el
 comportamiento del sujeto activo. Y es, justamente en ese punto, donde radica
 la discrepancia entre los magistrados Cifuentes y Naranjo, de una parte, y los
-magistrados restantes, de la otra, incluidos allí algunos de los que no
-compartieron la decisión final.
+magistrados restantes, de la otra, incluidos allÃ­ algunos de los que no
+compartieron la decisiÃ³n final.
 
-Habría sido
-esencialmente distinta la decisión plasmada en el documento contentivo del
-fallo, de la tomada en la sesión de mayo 20, si se hubieran incorporado a la
+Â Â
+
+HabrÃ­a sido
+esencialmente distinta la decisiÃ³n plasmada en el documento contentivo del
+fallo, de la tomada en la sesiÃ³n de mayo 20, si se hubieran incorporado a la
 parte considerativa los argumentos contenidos en el escrito repartido *a
 posteriori* por el magistrado Cifuentes (el lunes siguiente a la fecha de la
-sesión), que precisamente fueron rechazados por los cinco magistrados restantes
-de la mayoría, en la reunión informal que tuvo lugar en la presidencia de la
-Corte, con los propósitos que más atrás quedaron consignados.
+sesiÃ³n), que precisamente fueron rechazados por los cinco magistrados restantes
+de la mayorÃ­a, en la reuniÃ³n informal que tuvo lugar en la presidencia de la
+Corte, con los propÃ³sitos que mÃ¡s atrÃ¡s quedaron consignados.
 
-En efecto, allí, al
-examinar los términos en que debería plasmarse la decisión ya tomada, para que
-no hubiera lugar a equívocos, todos los magistrados distintos al doctor
-Cifuentes consideraron que aceptar las razones que éste había consignado en su
-escrito, equivaldría a contradecir de manera flagrante la decisión ya tomada.
-Porque, justamente, el punto central debatido en la sesión del 20 de mayo había
+En efecto, allÃ­, al
+examinar los tÃ©rminos en que deberÃ­a plasmarse la decisiÃ³n ya tomada, para que
+no hubiera lugar a equÃ­vocos, todos los magistrados distintos al doctor
+Cifuentes consideraron que aceptar las razones que Ã©ste habÃ­a consignado en su
+escrito, equivaldrÃ­a a contradecir de manera flagrante la decisiÃ³n ya tomada.
+Porque, justamente, el punto central debatido en la sesiÃ³n del 20 de mayo habÃ­a
 sido la relevancia del consentimiento del sujeto pasivo (para que se pusiera
-término a su vida, en la hipótesis ya referida) con la consiguiente justificación
-de la conducta del sujeto activo. Y era esto lo que la mayoría de la Corte,
-consciente de lo que hacía, había apoyado con su voto.
+tÃ©rmino a su vida, en la hipÃ³tesis ya referida) con la consiguiente justificaciÃ³n
+de la conducta del sujeto activo. Y era esto lo que la mayorÃ­a de la Corte,
+consciente de lo que hacÃ­a, habÃ­a apoyado con su voto.
 
 **III.2.3** En lo atinente a la incongruencia aducida
 por los incidentalistas, entre la parte motiva y la parte resolutiva del fallo,
-su argumento se desdobla en dos cargos, a saber: 1) Si lo que se aprobó fue la
-propuesta del magistrado Cifuentes, de ella no podía desprenderse el
+su argumento se desdobla en dos cargos, a saber: 1) Si lo que se aprobÃ³ fue la
+propuesta del magistrado Cifuentes, de ella no podÃ­a desprenderse el
 consentimiento del sujeto pasivo como factor excluyente de la responsabilidad
 penal del actor. 2) Si en la parte motiva se habla de "alguien" que
-actúa (es decir, cualquier persona) no puede contraerse, en la parte
+actÃºa (es decir, cualquier persona) no puede contraerse, en la parte
 resolutiva, la causal excluyente de responsabilidad penal a un sujeto
-específico: el médico. Pasa la Corte a referirse a ambos cargos, en el mismo
+especÃ­fico: el mÃ©dico. Pasa la Corte a referirse a ambos cargos, en el mismo
 orden en que se han expuesto.
 
 1)
-Parten los actores de una premisa equivocada al
-asumir que la Sala desechó el consentimiento del sujeto pasivo como causal
-justificativa del hecho. Porque lo que ocurrió fue justamente lo contrario:
-acogió explícitamente esa causal justificativa, "en los expresos términos
-y bajo las estrictas condiciones señaladas en la parte motiva de esta
+Â Â Parten los actores de una premisa equivocada al
+asumir que la Sala desechÃ³ el consentimiento del sujeto pasivo como causal
+justificativa del hecho. Porque lo que ocurriÃ³ fue justamente lo contrario:
+acogiÃ³ explÃ­citamente esa causal justificativa, "en los expresos tÃ©rminos
+y bajo las estrictas condiciones seÃ±aladas en la parte motiva de esta
 sentencia."
 
 Salvo los
-magistrados Cifuentes y Naranjo, todos los demás fueron conscientes de que era
+magistrados Cifuentes y Naranjo, todos los demÃ¡s fueron conscientes de que era
 eso, y no otra cosa, lo que se votaba. Por eso ratificaron con sus firmas el
-documento que materializa la decisión, y lo reiteraron en la Sala del 12 de
+documento que materializa la decisiÃ³n, y lo reiteraron en la Sala del 12 de
 junio.
 
 2)
-La restricción hecha en la parte resolutiva respecto
-del sujeto activo del homicidio piadoso, tiene también una clara explicación.
-Al exhortar al Congreso para que se ocupara de hacer una completa regulación de
-la muerte digna, era consciente la Corte de cuán importante y sensible era el
+Â Â La restricciÃ³n hecha en la parte resolutiva respecto
+del sujeto activo del homicidio piadoso, tiene tambiÃ©n una clara explicaciÃ³n.
+Al exhortar al Congreso para que se ocupara de hacer una completa regulaciÃ³n de
+la muerte digna, era consciente la Corte de cuÃ¡n importante y sensible era el
 asunto que estaba tratando y de que en ejercicio de las funciones que a ella incumben
-no podía sustituir al legislador. Sólo podía, ejerciendo su competencia del
-modo más responsable y cuidadoso, limitar el campo donde ha de actuar luégo el
+no podÃ­a sustituir al legislador. SÃ³lo podÃ­a, ejerciendo su competencia del
+modo mÃ¡s responsable y cuidadoso, limitar el campo donde ha de actuar luÃ©go el
 juez penal, en dos temas singularmente delicados, atinente uno al sujeto pasivo
 y otro al sujeto activo.
 
 En el primer caso, y
-justamente acogiendo una propuesta del magistrado Cifuentes, decidió que, entre
-las distintas categorías de personas sometidas a intensos padecimientos
-originados en una enfermedad incurable, sólo fuera legítima la acción, cuando
+justamente acogiendo una propuesta del magistrado Cifuentes, decidiÃ³ que, entre
+las distintas categorÃ­as de personas sometidas a intensos padecimientos
+originados en una enfermedad incurable, sÃ³lo fuera legÃ­tima la acciÃ³n, cuando
 recayera sobre enfermos terminales.
 
 En cuanto al
-segundo, juzgó adecuado cualificar al máximo a la persona que hiciera las veces
-del sujeto activo, y por eso contrajo la causal justificativa al médico. Por
-qué tal cualificación, que no aparece explícitamente en la proposición
-aprobada, se incorporó a la parte resolutiva del fallo, se explicará a
-continuación, a propósito del tercer cargo formulado por los intervinientes.
+segundo, juzgÃ³ adecuado cualificar al mÃ¡ximo a la persona que hiciera las veces
+del sujeto activo, y por eso contrajo la causal justificativa al mÃ©dico. Por
+quÃ© tal cualificaciÃ³n, que no aparece explÃ­citamente en la proposiciÃ³n
+aprobada, se incorporÃ³ a la parte resolutiva del fallo, se explicarÃ¡ a
+continuaciÃ³n, a propÃ³sito del tercer cargo formulado por los intervinientes.Â
 
-**III.2.4** La exhortación hecha al Congreso
-"para que en el tiempo más breve posible y conforme a los principios
+**III.2.4** La exhortaciÃ³n hecha al Congreso
+"para que en el tiempo mÃ¡s breve posible y conforme a los principios
 constitucionales y a elementales consideraciones de humanidad, regule el tema
 de la muerte digna", tiene dos objetivos:
 
-1. El que se
-desvanezca, mediante una regulación pormenorizada, en materia de tanta monta,
-todo asomo de inseguridad jurídica, pues mientras esta legislación se produce,
-inevitablemente quedará librada al buen juicio del juez penal la apreciación de
-muchas circunstancias particulares de las que sólo el legislador -y no la
+Â 1. El que se
+desvanezca, mediante una regulaciÃ³n pormenorizada, en materia de tanta monta,
+todo asomo de inseguridad jurÃ­dica, pues mientras esta legislaciÃ³n se produce,
+inevitablemente quedarÃ¡ librada al buen juicio del juez penal la apreciaciÃ³n de
+muchas circunstancias particulares de las que sÃ³lo el legislador -y no la
 Corte- puede ocuparse.
 
 2.
-Que el juez penal tome en consideración -sin que
-puedan asumirse como obligatorias- las indicaciones que, a título de ejemplo,
+Â Â Que el juez penal tome en consideraciÃ³n -sin que
+puedan asumirse como obligatorias- las indicaciones que, a tÃ­tulo de ejemplo,
 dirige la Corte al Congreso. Ahora bien: como una de tales directrices se
-refiere a la cualificación del sujeto activo, la mayoría de los magistrados del
-grupo mayoritario (cinco de seis), juzgó que dentro del espíritu de la decisión
-tomada, estaba incluída, sin duda, la restricción consistente en que sólo el
-sujeto calificado por excelencia -en este caso el médico- pudiera quedar
-comprendido por la justificación. Sobre el punto, fueron particularmente
-insistentes los magistrados Martínez y Morón, quienes manifestaron que, sin
-perjuicio de lo que el legislador pueda luego establecer, debía la Corte
-restringir la causal justificativa, obrando con la mayor cautela, al médico,
-como sujeto cualificado, en hipótesis como la examinada por la Corte, a
-propósito del homicidio piadoso. Al respecto, es oportuno traer a colación
+refiere a la cualificaciÃ³n del sujeto activo, la mayorÃ­a de los magistrados del
+grupo mayoritario (cinco de seis), juzgÃ³ que dentro del espÃ­ritu de la decisiÃ³n
+tomada, estaba incluÃ­da, sin duda, la restricciÃ³n consistente en que sÃ³lo el
+sujeto calificado por excelencia -en este caso el mÃ©dico- pudiera quedar
+comprendido por la justificaciÃ³n. Sobre el punto, fueron particularmente
+insistentes los magistrados MartÃ­nez y MorÃ³n, quienes manifestaron que, sin
+perjuicio de lo que el legislador pueda luego establecer, debÃ­a la Corte
+restringir la causal justificativa, obrando con la mayor cautela, al mÃ©dico,
+como sujeto cualificado, en hipÃ³tesis como la examinada por la Corte, a
+propÃ³sito del homicidio piadoso. Al respecto, es oportuno traer a colaciÃ³n
 algunos apartes de la parte considerativa del fallo que, justamente, recogen la
-preocupación expuesta por los citados magistrados. Así, al referirse a la
-regulación de la muerte digna, dijo la Corte:
+preocupaciÃ³n expuesta por los citados magistrados. AsÃ­, al referirse a la
+regulaciÃ³n de la muerte digna, dijo la Corte:Â Â
 
 "Como estas
-regulaciones sólo pueden ser establecidas por el legislador, la Corte considera
+regulaciones sÃ³lo pueden ser establecidas por el legislador, la Corte considera
 que mientras se regula el tema, en principio, todo homicidio por piedad de
-enfermos terminales debe dar lugar a la correspondiente investigación penal, a
-fin de que en ella, los funcionarios judiciales, tomando en consideración todos
-los aspectos relevantes para la determinación de la autenticidad y fiabilidad
-del consentimiento, establezcan si la conducta del médico ha sido o no
-antijurídica, en los términos señalados en esta sentencia." (subraya
+enfermos terminales debe dar lugar a la correspondiente investigaciÃ³n penal, a
+fin de que en ella, los funcionarios judiciales, tomando en consideraciÃ³n todos
+los aspectos relevantes para la determinaciÃ³n de la autenticidad y fiabilidad
+del consentimiento, establezcan si la conducta del mÃ©dico ha sido o no
+antijurÃ­dica, en los tÃ©rminos seÃ±alados en esta sentencia." (subraya
 la Sala)
 
 Es claro entonces
-que sí aludió la Corte en la parte motiva a un sujeto activo cualificado y, por
-ende, que su inclusión expresa en la parte resolutiva no comporta incongruencia
-alguna entre las dos partes de la sentencia, ni alteración de la decisión
+que sÃ­ aludiÃ³ la Corte en la parte motiva a un sujeto activo cualificado y, por
+ende, que su inclusiÃ³n expresa en la parte resolutiva no comporta incongruencia
+alguna entre las dos partes de la sentencia, ni alteraciÃ³n de la decisiÃ³n
 original.
 
-**III.3** El último cargo que formulan los
-accionantes consiste en señalar que hay error de hecho en cuanto a lo que fue
-sometido a votación en la sesión de la Sala Plena realizada el 20 de mayo de
-1997, en relación con el proceso D-1490, porque los magistrados no tuvieron
+**III.3**Â El Ãºltimo cargo que formulan los
+accionantes consiste en seÃ±alar que hay error de hecho en cuanto a lo que fue
+sometido a votaciÃ³n en la sesiÃ³n de la Sala Plena realizada el 20 de mayo de
+1997, en relaciÃ³n con el proceso D-1490, porque los magistrados no tuvieron
 conocimiento pleno sobre lo que votaban, lo cual no requiere de prueba por ser
 un hecho notorio. No comparte la Corte este punto de vista, por estas razones:
 
-Según la doctrina,
+SegÃºn la doctrina,
 el error de hecho tiene lugar cuando se da por cierto un hecho no probado o
-cuando se omite uno que sí lo está. Y para que tal error exista es
+cuando se omite uno que sÃ­ lo estÃ¡. Y para que tal error exista es
 indispensable que sea evidente, ostensible, protuberante y trascendente, es
-decir, que incida en la decisión finalmente tomada.
+decir, que incida en la decisiÃ³n finalmente tomada.
 
 Ugo Rocco define el
-hecho notorio como aquél "que por su general y pública divulgación, no
+hecho notorio como aquÃ©l "que por su general y pÃºblica divulgaciÃ³n, no
 puede ser ignorado por ninguno, o que debe ser conocido por todos". Para
-Eugenio Florián "es notorio un hecho que lo conoce la mayor parte de un
-pueblo, de una clase, de una categoría, de un cúmulo de personas."
+Eugenio FloriÃ¡n "es notorio un hecho que lo conoce la mayor parte de un
+pueblo, de una clase, de una categorÃ­a, de un cÃºmulo de personas."
 
 Conforme a esa
-doctrina generalizada, hecho notorio es, pues, aquél cuya existencia puede
+doctrina generalizada, hecho notorio es, pues, aquÃ©l cuya existencia puede
 invocarse sin necesidad de prueba alguna, por ser conocido directamente por
 cualquiera que se halle en capacidad de observarlo. No es este el caso de
-cuanto sucede en la Sala Plena de una Corporación, pues lo que allí ocurre sólo
+cuanto sucede en la Sala Plena de una CorporaciÃ³n, pues lo que allÃ­ ocurre sÃ³lo
 puede acreditarse mediante la correspondiente acta, debidamente aprobada, en la
-que se registre fielmente, la manera como ha transcurrido la sesión. Y ninguna
-prueba más concluyente de lo que los magistrados quisieron aprobar, y en efecto
+que se registre fielmente, la manera como ha transcurrido la sesiÃ³n. Y ninguna
+prueba mÃ¡s concluyente de lo que los magistrados quisieron aprobar, y en efecto
 aprobaron, que la firma, responsablemente estampada en la sentencia por cada
-uno de ellos, no retirada ni condicionada por ninguno, excepción hecha de los
+uno de ellos, no retirada ni condicionada por ninguno, excepciÃ³n hecha de los
 magistrados Cifuentes y Naranjo y, antes bien, ratificada expresamente por los
-magistrados Martínez y Morón desde Ginebra, en donde se encontraban en misión
-oficial, y por el resto de los magistrados, en la sesión del 12 de junio,
+magistrados MartÃ­nez y MorÃ³n desde Ginebra, en donde se encontraban en misiÃ³n
+oficial, y por el resto de los magistrados, en la sesiÃ³n del 12 de junio,
 convocada por el presidente, justamente para ocuparse del tema que se viene
-tratando, a solicitud de cuatro magistrados (Cifuentes, Hernández, Herrera y
-Naranjo).
+tratando, a solicitud de cuatro magistrados (Cifuentes, HernÃ¡ndez, Herrera y
+Naranjo).Â
 
 No existe entonces,
-el alegado error de hecho que aducen los actores.
+el alegado error de hecho que aducen los actores.Â
 
-Finalmente,
-encuentra la Corte que asiste la razón a los incidentalistas cuando afirman, *obiter
-dictum,* que los propiosmagistrados que deciden sobre la petición
-formulada tienen interés en la decisión. Tal afirmación es válida con respecto
-a cualquier decisión judicial, pues no es concebible que para un juez sea
+Â Finalmente,
+encuentra la Corte que asiste la razÃ³n a los incidentalistas cuando afirman, *obiter
+dictum,* que los propiosmagistrados que deciden sobre la peticiÃ³n
+formulada tienen interÃ©s en la decisiÃ³n. Tal afirmaciÃ³n es vÃ¡lida con respecto
+a cualquier decisiÃ³n judicial, pues no es concebible que para un juez sea
 indiferente el acierto o desacierto de su fallo. Pero en el caso *sub judice*,
-existe además, sin duda alguna, un interés específico: aclarar definitivamente
+existe ademÃ¡s, sin duda alguna, un interÃ©s especÃ­fico: aclarar definitivamente
 que la sentencia que suscribieron los magistrados, no es otra cosa que la
-materialización de lo que habían decidido en Sala. Tal interés es, desde luégo,
+materializaciÃ³n de lo que habÃ­an decidido en Sala. Tal interÃ©s es, desde luÃ©go,
 bien diferente al que toma en cuenta el legislador para configurar una causal
-de impedimento. Así se desprende de la doctrina y práctica reiteradas por la
-Corte[11].
+de impedimento. AsÃ­ se desprende de la doctrina yÂ prÃ¡ctica reiteradas por la
+Corte[11].Â
 
 No sobra aclarar a
 los actores que, por regla general, el mismo juez que conoce del proceso es
-quien decide los incidentes de nulidad que durante su tramitación se promuevan.
+quien decide los incidentes de nulidad que durante su tramitaciÃ³n se promuevan.
 Basta ver las normas correspondientes en materia civil y penal (arts.140 y ss.
 del C.P.C. y 304 y ss. del C.P.P.). Para los procesos de constitucionalidad que
-compete conocer a esta Corporación, existe norma expresa, -artículo 49 del
-decreto 2067 de 1991-, que atribuye a la Sala Plena tal función.
+compete conocer a esta CorporaciÃ³n, existe norma expresa, -artÃ­culo 49 del
+decreto 2067 de 1991-, que atribuye a la Sala Plena tal funciÃ³n.
 
 **IV.** **Conclusiones**
 
@@ -5626,55 +5635,55 @@ De lo que se deja
 expuesto, se desprenden, las siguientes conclusiones :
 
 1.
-La decisión tomada mayoritariamente por la sala plena
-de la Corte en la sesión del 20 de mayo, es esencialmente igual a la que está
+Â LaÂ decisiÃ³n tomada mayoritariamente por la sala plena
+de la Corte en la sesiÃ³n del 20 de mayo, es esencialmente igual a la que estÃ¡
 consignada en la sentencia C-239/97.
 
 2.
-Los magistrados que votaron afirmativamente tal
-decisión lo hicieron con plena conciencia de lo que votaron, así como la
-mayoría de los magistrados que salvaron su voto, sabían a cabalidad de qué
-decisión se apartaban.
+Â Los magistrados que votaron afirmativamente tal
+decisiÃ³n lo hicieron con plena conciencia de lo que votaron, asÃ­ como la
+mayorÃ­a de los magistrados que salvaron su voto, sabÃ­an a cabalidad de quÃ©
+decisiÃ³n se apartaban.
 
 3.
-Estamparon sus firmas en el fallo no en cumplimiento
-ciego de un rito, sino como ratificación (los unos) de lo que habían decidido y
-(unos y otros) de que esa era la decisión adoptada. Tal afirmación desvirtúa de
+Â Estamparon sus firmas en el fallo no en cumplimiento
+ciego de un rito, sino como ratificaciÃ³n (los unos) de lo que habÃ­an decidido y
+(unos y otros) de que esa era la decisiÃ³n adoptada. Tal afirmaciÃ³n desvirtÃºa de
 modo tajante el error de hecho alegado por los promotores del incidente y los
 coadyuvantes.
 
 4.
-Existe completa armonía entre la parte resolutiva del
+Â Existe completa armonÃ­a entre la parte resolutiva del
 fallo y las razones que le sirvieron de fundamento, expuestas en la parte motiva,
 como puede verificarlo cualquier lector competente.
 
-En razón de lo
-anotado, esta Corporación no encontrando violación alguna en el trámite del
-proceso materia de debate, no accede a decretar la nulidad impetrada.
+En razÃ³n de lo
+anotado, esta CorporaciÃ³n no encontrando violaciÃ³n alguna en el trÃ¡mite del
+proceso materia de debate, no accede a decretar la nulidad impetrada.Â Â Â Â Â
 
-En mérito de lo
+En mÃ©rito de lo
 expuesto, la Corte Constitucional administrando justicia en nombre del pueblo y
-por mandato de la Constitución,
+por mandato de la ConstituciÃ³n,
 
 **R E S U E L V E :**
 
 Primero :
 Rechazar las solicitudes de nulidad formuladas dentro de este proceso por el
 Presidente y la Secretaria General de "Cetrac" y por el ciudadano
-Juan Carlos Rodríguez Vall-Serra.
+Juan Carlos RodrÃ­guez Vall-Serra.
 
 Segundo : No
-acceder a decretar la nulidad pedida por el Arzobispo de Medellín Alberto
-Giraldo Jaramillo, coadyuvada por los ciudadanos Ilva Myriam Hoyos Castañeda y
-Andrés Bernardo Arango Martinez, dentro del proceso D-1490.
+acceder a decretar la nulidad pedida por el Arzobispo de MedellÃ­n Alberto
+Giraldo Jaramillo, coadyuvada por los ciudadanos Ilva Myriam Hoyos CastaÃ±eda y
+AndrÃ©s Bernardo Arango Martinez, dentro del proceso D-1490.
 
 Tercero :
-Notificar esta decisión a los peticionarios, informándoles que contra ella no
+Notificar esta decisiÃ³n a los peticionarios, informÃ¡ndoles que contra ella no
 procede recurso alguno.
 
-Cópiese,
-notifíquese, comuníquese a quien corresponda, publíquese, insértese en la
-Gaceta de la Corte Constitucional y archívese el expediente.
+CÃ³piese,
+notifÃ­quese, comunÃ­quese a quien corresponda, publÃ­quese, insÃ©rtese en la
+Gaceta de la Corte Constitucional y archÃ­vese el expediente.Â Â Â Â Â Â Â Â Â Â Â Â
 
 ANTONIO BARRERA
 CARBONELL
@@ -5685,7 +5694,7 @@ JORGE ARANGO MEJIA
 
 Magistrado
 
-EDUARDO CIFUENTES MUÑOZ
+EDUARDO CIFUENTES MUÃ‘OZ
 
 Magistrado
 
@@ -5702,7 +5711,7 @@ HERNANDEZ GALINDO
 
 Magistrado
 
-HERNANDO HERRERA
+Â HERNANDO HERRERA
 VERGARA
 
 Magistrado
@@ -5716,7 +5725,7 @@ FABIO MORON DIAZ
 
 Magistrado
 
-VLADIMIRO NARANJO MESA
+Â Â Â Â Â Â Â Â Â Â Â Â Â VLADIMIRO NARANJO MESA
 
 Magistrado
 
@@ -5728,19 +5737,21 @@ Secretaria General
 **SALVAMENTO DE VOTO AL AUTO 035/97**
 
 **INCIDENTE DE
-NULIDAD CONTRA SENTENCIA DE HOMICIDIO POR PIEDAD-**Recusados no pueden decidir sobre recusación
+NULIDAD CONTRA SENTENCIA DE HOMICIDIO POR PIEDAD-**Recusados no pueden decidir sobre recusaciÃ³n
 
-*Consecuente con la posición adoptada por el
-suscrito cuando se rechazó el incidente de recusación propuesto, considero y
+*Consecuente con la posiciÃ³n adoptada por el
+suscrito cuando se rechazÃ³ el incidente de recusaciÃ³n propuesto, considero y
 sigo considerando, por las razones esbozadas en dicha oportunidad, que se
 encuentran consignadas en las respectivas actas de la Sala Plena, que si esta
-estimó que la recusación planteada abarcaba a todos sus Magistrados, no
-correspondía a estos decidir sobre su propia recusación y por ende, acerca del
+estimÃ³ que la recusaciÃ³n planteada abarcaba a todos sus Magistrados, no
+correspondÃ­a a estos decidir sobre su propia recusaciÃ³n y por ende, acerca del
 incidente de nulidad presentado contra la misma sentencia, sino a los Conjueces
 de la Corte Constitucional por razones subjetivas y de acuerdo a la
-interpretación de las normas examinadas en dicha oportunidad, consignadas en la
-ley estatutaria de la administración de justicia y en el reglamento de la
-Corporación.*
+interpretaciÃ³n de las normas examinadas en dicha oportunidad, consignadas en la
+ley estatutaria de la administraciÃ³n de justicia y en el reglamento de la
+CorporaciÃ³n.*
+
+*Â*
 
 Referencia: Solicitud
 de Nulidad de la sentencia No. C-239 de 1997.
@@ -5748,44 +5759,44 @@ de Nulidad de la sentencia No. C-239 de 1997.
 Peticionario:
 Alberto Giraldo Jaramillo
 
-Santa Fé de Bogotá, D.C., veintidos (22) de
+Santa FÃ© de BogotÃ¡, D.C., veintidos (22) de
 octubre de mil novecientos noventa y siete (1997).
 
-El suscrito Magistrado formuló salvamento
-parcial de voto, en relación con la providencia de fecha 2 de octubre de 1997,
-por medio de la cual esta Corporación en decisión mayoritaria resolvió no
+El suscrito Magistrado formulÃ³ salvamento
+parcial de voto, en relaciÃ³n con la providencia de fecha 2 de octubre de 1997,
+por medio de la cual esta CorporaciÃ³n en decisiÃ³n mayoritaria resolviÃ³ no
 acceder a decretar la nulidad de la sentencia No. C-239 de 1997, dentro del
 proceso D-1490, por los siguientes motivos:
 
-**1o.-** Consecuente con la posición adoptada por el suscrito
-cuando se rechazó el incidente de recusación propuesto, considero y sigo
+**1o.-** Consecuente con la posiciÃ³n adoptada por el suscrito
+cuando se rechazÃ³ el incidente de recusaciÃ³n propuesto, considero y sigo
 considerando, por las razones esbozadas en dicha oportunidad, que se encuentran
-consignadas en las respectivas actas de la Sala Plena, que si esta estimó que
-la recusación planteada abarcaba a todos sus Magistrados, no correspondía a
-estos decidir sobre su propia recusación y por ende, acerca del incidente de
+consignadas en las respectivas actas de la Sala Plena, que si esta estimÃ³ que
+la recusaciÃ³n planteada abarcaba a todos sus Magistrados, no correspondÃ­a a
+estos decidir sobre su propia recusaciÃ³n y por ende, acerca del incidente de
 nulidad presentado contra la misma sentencia, sino a los Conjueces de la Corte
-Constitucional por razones subjetivas y de acuerdo a la interpretación de las
+Constitucional por razones subjetivas y de acuerdo a la interpretaciÃ³n de las
 normas examinadas en dicha oportunidad, consignadas en la ley estatutaria de la
-administración de justicia y en el reglamento de la Corporación.
+administraciÃ³n de justicia y en el reglamento de la CorporaciÃ³n.
 
 **2o.-** Como consta en el acta No. 20 correspondiente a la
-sesión del 20 de mayo de 1997, en la que se adoptó el fallo cuya nulidad se
-solicitó, aprobada por la Sala Plena de la Corporación, el Magistrado Doctor
-Eduardo Cifuentes Muñoz presentó una propuesta sustitutiva en la cual se disponía
-en su parte resolutiva que se declarara "exequible el artículo 326 del
-Código Penal, salvo en el caso del enfermo terminal cuando manifieste su
-consentimiento en los expresos términos y bajo las estrictas condiciones
-señaladas en la parte motiva de esta sentencia". A mi entender, y como lo
+sesiÃ³n del 20 de mayo de 1997, en la que se adoptÃ³ el fallo cuya nulidad se
+solicitÃ³, aprobada por la Sala Plena de la CorporaciÃ³n, el Magistrado Doctor
+Eduardo Cifuentes MuÃ±oz presentÃ³ una propuesta sustitutiva en la cual se disponÃ­a
+en su parte resolutiva que se declarara "exequible el artÃ­culo 326 del
+CÃ³digo Penal, salvo en el caso del enfermo terminal cuando manifieste su
+consentimiento en los expresos tÃ©rminos y bajo las estrictas condiciones
+seÃ±aladas en la parte motiva de esta sentencia". A mi entender, y como lo
 expuse en anterior oportunidad, fue esta la propuesta, es decir la presentada
-por el Magistrado Cifuentes, la sometida a la consideración de la Plenaria de
-la Corte, la cual fue aprobada por seis (6) votos, decisión de la cual nos
+por el Magistrado Cifuentes, la sometida a la consideraciÃ³n de la Plenaria de
+la Corte, la cual fue aprobada por seis (6) votos, decisiÃ³n de la cual nos
 apartamos los doctores JOSE GREGORIO HERNANDEZ GALINDO, VLADIMIRO NARANJO MESA
 y el suscrito, por las razones consignadas en nuestros salvamentos de voto
 formulados en forma separada.
 
 **3o.-** Lo anterior no obsta para que, frente a la discrepancia
-de pareceres, en relación con lo realmente aprobado, resalte que los
-Magistrados que adoptaron la decisión mayoritaria y le dieron la interpretación
+de pareceres, en relaciÃ³n con lo realmente aprobado, resalte que los
+Magistrados que adoptaron la decisiÃ³n mayoritaria y le dieron la interpretaciÃ³n
 que estimaron pertinente en conciencia, actuaron igualmente con absoluta buena
 fe con respecto a lo acontecido en lo concerniente al pronunciamiento adoptado,
 al cual me someto.
@@ -5803,15 +5814,15 @@ voto al auto 035/97**
 homicidio piadoso
 
 *La propuesta
-sustitutiva presentada, constituía la consecuencia lógica de las tesis que se
+sustitutiva presentada, constituÃ­a la consecuencia lÃ³gica de las tesis que se
 expuso en las deliberaciones. De conformidad con estos planteamientos, el
-consentimiento del enfermo terminal no podía autorizar o justificar el
-homicidio piadoso, puesto que los únicos casos en los que el consentimiento del
-enfermo terminal podía tener relevancia penal de tipo exculpatorio,
-justificativo o de pérdida de tipicidad, se circunscribían a dos hipótesis:
-aplicación de medicinas paliativas y supresión de medios extraordinarios de
-prolongación artificial de la vida del paciente terminal, siempre que tal
-consentimiento se manifestara en los precisos y expresos términos señalados en
+consentimiento del enfermo terminal no podÃ­a autorizar o justificar el
+homicidio piadoso, puesto que los Ãºnicos casos en los que el consentimiento del
+enfermo terminal podÃ­a tener relevancia penal de tipo exculpatorio,
+justificativo o de pÃ©rdida de tipicidad, se circunscribÃ­an a dos hipÃ³tesis:
+aplicaciÃ³n de medicinas paliativas y supresiÃ³n de medios extraordinarios de
+prolongaciÃ³n artificialÂ de la vida del paciente terminal, siempre que tal
+consentimiento se manifestara en los precisos y expresos tÃ©rminos seÃ±alados en
 la parte motiva de la sentencia.*
 
 Referencia:
@@ -5827,210 +5838,3 @@ Diaz
 
 Con todo respeto, nos permitimos presentar
 de manera sucinta los argumentos que sustentan nuestro salvamento de voto.
-
-1. Según el artículo 243 de la C.P., “Los
-fallos que la Corte dicte en ejercicio del control jurisdiccional hacen
-tránsito a cosa juzgada constitucional”. Consta en el acta No 20
-correspondiente a la sesión del 20 de mayo de 1997, en la que se adoptó el
-fallo, cuya nulidad se solicita, lo siguiente: “El magistrado EDUARDO CIFUENTES
-MUÑOZ presentó entonces una propuesta sustitutiva, según la cual se dispone en
-esa parte resolutiva, **declarar exequible el artículo 326 del Código Penal,
-salvo en el caso del enfermo terminal cuando manifieste su consentimiento en
-los expresos términos y bajo las estrictas condiciones señaladas en la parte
-motiva de esta sentencia**. El Presidente sometió a votación la propuesta
-sustitutiva presentada por el magistrado CIFUENTES MUÑOZ, la cual fue aprobada
-con seis (6) votos”.
-
-No obstante, el documento que recoge la
-sentencia contiene una parte resolutiva distinta, como puede advertirse con
-base en su simple lectura: **“Declarar EXEQUIBLE el artículo 326 del Decreto
-100 de 1980 (Código Penal), con la advertencia de que en el caso de los
-enfermos terminales en que concurra la voluntad libre del sujeto pasivo del
-acto, no podrá derivarse responsabilidad para el médico autor, pues la conducta
-está justificada”.**
-
-De otro lado, **“los expresos términos”**
-y las **“estrictas condiciones señaladas en la parte motiva de esta sentencia”**,
-a las que aludía la parte resolutiva aprobada por la Sala plena, se
-convirtieron en el “documento-sentencia”, en puntos esenciales de una futura y
-eventual regulación de la materia por parte del Congreso, cuando lo que se
-pretendía era condicionar la PRESENTE SENTENCIA y no la FUTURA LEY.
-
-2. La propuesta sustitutiva presentada por
-el magistrado Eduardo Cifuentes Muñoz, constituía la consecuencia lógica de las
-tesis que expuso en las deliberaciones. De conformidad con estos
-planteamientos, el consentimiento del enfermo terminal no podía autorizar o
-justificar el homicidio piadoso, puesto que los únicos casos en los que el
-consentimiento del enfermo terminal podía tener relevancia penal de tipo
-exculpatorio, justificativo o de pérdida de tipicidad, se circunscribían a dos
-hipótesis: aplicación de medicinas paliativas y supresión de medios
-extraordinarios de prolongación artificial de la vida del paciente terminal,
-siempre que tal consentimiento se manifestara en los precisos y expresos
-términos señalados en la parte motiva de la sentencia. En el acta 20 se ha
-transcrito una síntesis de esta intervención, de la cual se extraen los
-siguientes párrafos:
-
-**“La decisión
-personal de morir - anotó - es distinta de la petición que se formula a otro
-para que la ejecute. Afirmó que lo que existe es un derecho a la muerte digna.
-El Estado debería regular de manera objetiva la circunstancia especial del
-paciente terminal, diferente del suicidio y del homicidio consentido. En el
-caso de la enfermedad mortal - opinó - la ley debería permitir que por ejemplo,
-se administren al paciente medicamentos paliativos que alivien el dolor, que se
-quiten los apoyos técnicos, los medios extraordinarios que prolongan
-artificialmente la vida del enfermo terminal y que no afectan ni hacen daño a
-otro, eventos en los cuales puede sobrevenir la muerte del paciente, sin que
-por ello se configure un homicidio. La enfermedad - señaló - sería en últimas
-la causa del deceso.**
-
-**El derecho a la
-vida - continuó el magistrado CIFUENTES MUÑOZ - es un derecho fundamental y un
-bien que debe proteger el Estado con todas las acciones preventivas y punitivas
-a su alcance. Así lo establece la Constitución en el preámbulo, artículos 2º, 11,
-49, 95-2 y el conjunto de disposiciones que se dirigen a proteger la salud. Es
-la razón de ser del Estado - afirmó -. Si bien, el derecho a la vida implica
-una serie de opciones, éstas no pueden examinarse en el caso que nos ocupa,
-sólo desde el punto de vista de un sujeto, de su sólo ámbito personal, porque
-involucra a dos sujetos. Por eso, se diferencia de la situación del consumo de
-estupefacientes, en la cual la decisión incumbe sólo a la esfera íntima de un
-sujeto.**
-
-**En ese orden de
-ideas, señaló que en su concepto, el punto central por resolver en este caso,
-es la tensión que se presenta entre el derecho al libre desarrollo de la
-personalidad (autonomía personal) y la obligación del Estado (poder punitivo)
-de proteger la vida como un valor fundamental. Habría que decidir, si es
-posible excluir esas dos situaciones (aplicación de medicinas paliativas y
-supresión de medios extraordinarios de prolongación artificial de la vida del
-paciente terminal) de la sanción punitiva del Estado, con base en el respeto a
-la dignidad humana - vida digna - y la prohibición de tratos crueles, inhumanos
-o degradantes que consagra la Carta Política (arts. 1º y 12), puesto que para
-el Estado Social de Derecho no puede ser indiferente la calidad de vida de ese
-paciente.**
-
-**En seguida, se
-refirió a la ley vigente en el Estado de Oregon, cuyo texto obtuvo vía
-internet. Observó que se trata de una legislación avanzada (regulación estatal
-de la que ha hablado), que comienza por dar una serie de definiciones que
-precisan los términos técnicos empleados y delimitan su campo de aplicación.
-Anotó, que esta ley establece una serie de requisitos y condiciones rigurosos
-que permiten que en ciertas circunstancias cese para el Estado el deber de
-proteger la vida, pero que no autorizan la utilización de medios dirigidos a
-causar la muerte (por ejemplo una inyección letal). Para mayor ilustración de
-la Sala, procedió a dar lectura a apartes de esa ley.**
-
-**Manifestó que
-contrario a lo que se afirma en la ponencia, con base en la Constitución, no se
-puede prohibir al Estado proteger la vida de las personas, de forma que sólo
-por excepción, la ley podría llegar a autorizar una exclusión de
-responsabilidad penal, como lo es el caso de una persona para quien, en una
-situación de suma gravedad (paciente terminal) la vida puede llegar a carecer
-de valor (ya no es vida digna). En este caso, consideró que por tratarse de
-derechos fundamentales, es necesario que exista una regulación legal de orden
-estatutario que se restringiría a las dos hipótesis indicadas. En conclusión
-presentó una propuesta sustitutiva según la cual, se excluiría de la norma
-demandada, estas situaciones, además de señalarse en la parte motiva del fallo,
-los criterios y condiciones que debe tener en cuenta el legislador, para esa regulación”.**
-
-3. En lo que tiene que ver con la mayoría
-integrada por seis magistrados, es importante destacar que el magistrado
-ponente no replicó los argumentos señalados en el punto anterior. Por su parte,
-el Magistrado Antonio Barrera Carbonell destacó que las posiciones de los
-magistrados Gaviria y Cifuentes eran conciliables. Finalmente, los magistrados
-Fabio Morón Díaz y Alejandro Martínez Caballero, acogieron en lo esencial los
-planteamientos del magistrado Eduardo Cifuentes Muñoz, tal y como éste lo puso
-de presente en una sesión posterior de la que da cuenta el acta 23, que en la
-parte pertinente se transcribe:
-
-**“Tan claro fue en
-su exposición - afirmó - y tanto influyó en las exposiciones siguientes, que el
-magistrado FABIO MORON DIAZ recogió el alma de esa exposición en los siguientes
-términos: dijo que debía tratarse de casos verdaderamente graves, porque
-analizó las distintas hipótesis del artículo que se estaba examinando; señaló
-que debe ser el enfermo terminal; indicó que en Colombia está prohibida la pena
-de muerte y que por lo tanto no puede privatizarse y, ahí se estaba entrando en
-el centro de la cuestión; consideró igualmente que debían establecerse cautelas
-en la sentencia, entre ellas, las que él había referido tratándose de la ley del
-Estado de Oregon. En seguida, preguntó a la doctora Martha Sáchica si los
-apuntes que tiene sobre la exposición del doctor Fabio Morón, que no está aquí
-presente, que de estarlo confrontaría con él lo que estaba diciendo, si se
-refirió o no a la ley del Estado de Oregon que había leído. La Secretaria
-respondió afirmativamente. Luego - continuó el magistrado CIFUENTES MUÑOZ - el
-magistrado ALEJANDRO MARTINEZ CABALLERO también había expresado su acuerdo con
-ese planteamiento y con lo expuesto por el doctor MORON DIAZ, e inclusive había
-señalado que era partidario de una de las formas de eutanasia más débiles: la
-adistanasia, la cual se opone a la prolongación artificial, indefinida,
-innecesaria e inútil de la vida por tratamientos terapéuticos, que es lo que se
-llama el encarnizamiento terapéutico. Así mismo consideró, que es importante
-delimitar cierto tipo de casos que no están previstos de manera clara en la ley
-de ética médica, para hacer una unidad normativa y una interpretación de la
-norma demandada. Preguntó de nuevo a la secretaria general si esto había sido
-así, a lo que la secretaria respondió afirmativamente”.**
-
-4. Resulta en extremo doloroso para los
-magistrados que suscribimos este salvamento de voto abundar en más argumentos y
-recuerdos sobre lo que fue el fallo adoptado por la Sala Plena y cuya
-intangibilidad reclamamos en distintas oportunidades. Se ha llegado hasta el
-extremo impensable de señalar que “salvo los magistrados Cifuentes y Naranjo,
-todos los demás fueron conscientes de que era eso, y no otra cosa, lo que se
-votaba”. En este caso la mayoría, privada de todo argumento racional y
-empírico, ha incurrido en el extravío propio de los ciegos totalitarismos de
-decretar a sus opositores en estado de insania mental. Ocurre, sin embargo, que
-fue el primero de los magistrados nombrados el que con base en sus
-planteamientos presentó la parte resolutiva a consideración de la Sala plena,
-la que fue aprobada con una votación de seis de sus miembros.
-
-*Fecha ut supra,*
-
-EDUARDO CIFUENTES MUÑOZ VLADIMIRO
-NARANJO MESA
-
-Magistrado
-Magistrado
-
----
-
-[1] Francesco Carrara. "Programa de Derecho Criminal",
-parte general, volumen I, Ed. Temis, S.A., Bogotá, 1988, pág. 119.
-
-[2] Corte Constitucional. T-401 de 1992. Magistrado Ponente: Eduardo
-Cifuentes Muñoz.
-
-[3] Corte Constitucional. Sentencia T-090 de 1996. Magistrado
-Ponente: Eduardo Cifuentes Muñoz.
-
-[4] Richard Rorty. Contingencia Ironía y Solidaridad. Ediciones
-Paidos, Barcelona, 1991, Pg.154
-
-[5] Así lo ha expresado en varias oportunidades esta Corporación.
-Ver, entre otras, sentencias T-366 de 1993 y T-123 de 1994.
-
-[6] C-578 de 1995, M.P. Eduardo Cifuentes Muñoz. Sobre el carácter no
-absoluto de los derechos fundamentales, ver también, entre otras, C-405 de
-1993, C-454 de 1993, C-189 de 1994, C-355 de 1994, C-296 de 1995, C-522 de
-1995, C-045 de 1996 y C-093 de 1995.
-
-[7] La *muerte digna,* desde la perspectiva adoptada en el caso
-sub-examine, puede relacionarse con varios comportamientos, a saber: la
-asistencia al suicidio, en la cual el paciente se da muerte a sí mismo y la
-intervención del tercero se limita a suministrarle los medios para hacerlo; la
-eutanasia activa, en la cual el tercero es el causante de la muerte, y que
-puede ser voluntaria o involuntaria, según se cuente o no con el consentimiento
-del paciente, y la eutanasia pasiva, conocida en Colombia específicamente como *muerte
-digna*, que implica la abstención o interrupción de tratamientos
-artificiales o extremos cuando no hay esperanza de recuperación.
-
-[8] Cabe observar que el eje conceptual de la sentencia sigue siendo
-el mismo que traía la ponencia original, pese a que la Corte mayoritariamente
-se opuso a conformar unidad normativa entre el texto acusado y el artículo del
-Código Penal que tipifica el delito de ayuda o inducción al suicidio, como se
-proponía en la mencionada ponencia.
-
-[9] Auto 08/93 M.P. Jorge Arango Mejía reiterado en auto del 27 de
-junio de 1996 M.P. José Gregorio Hernández Galindo
-
-[10] Auto 33 de junio22/95 M.P. José Gregorio Hernández Galindo
-
-[11] Auto de sala plena de agosto 26/92 M.P. José Gregorio Hernández
-Galindo, que resuelve la nulidad promovida por el ciudadano César Valencia
-Parra contra la sentencia C-543/92, cuyo ponente fue el mismo magistrado.

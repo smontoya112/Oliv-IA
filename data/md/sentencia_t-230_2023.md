@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-230_2023.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

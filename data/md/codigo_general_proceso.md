@@ -84,7 +84,8 @@
   "n_caracteres": 810328,
   "n_articulos_detectados": 629,
   "archivo_md": "md/codigo_general_proceso.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-1189_2000.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

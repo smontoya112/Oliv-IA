@@ -74,7 +74,8 @@
   "n_caracteres": 474614,
   "n_articulos_detectados": 384,
   "archivo_md": "md/constitucion.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

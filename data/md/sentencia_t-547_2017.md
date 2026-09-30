@@ -39,7 +39,8 @@
   "archivo_md": "md/sentencia_t-547_2017.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

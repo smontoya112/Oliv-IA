@@ -46,7 +46,8 @@
   "n_caracteres": 366362,
   "n_articulos_detectados": 230,
   "archivo_md": "md/codigo_nacional_policia.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

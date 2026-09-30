@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-891_2012.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

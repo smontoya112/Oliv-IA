@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-170_2004.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

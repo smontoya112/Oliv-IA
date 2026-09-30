@@ -195,6 +195,10 @@ def main() -> None:
     if huerfanos:
         print("  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del "
               "manifest si no los quieren): " + ", ".join(huerfanos))
+    sin_texto = [r["doc_id"] for r in ok if r.get("advertencias")]
+    if sin_texto:
+        print("  ⚠ Sin texto legible: son PDF escaneados y falta OCR (ocrmypdf + tesseract-ocr-spa). "
+              "Instálenlo y corran con --solo-convertir --solo " + " ".join(sin_texto))
     sin_articulos = [r["doc_id"] for r in ok
                      if r["n_articulos_detectados"] == 0 and r.get("tipo_norma") != "sentencia"]
     if sin_articulos:

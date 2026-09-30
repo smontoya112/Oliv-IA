@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-486_1993.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

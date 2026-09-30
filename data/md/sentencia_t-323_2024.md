@@ -33,12 +33,13 @@
     "57f50252c71423895b97321d03012a5de145186b9cdb6032e590670335618310"
   ],
   "fecha_actualizacion_fuente": null,
-  "n_caracteres": 443418,
-  "n_articulos_detectados": 11,
+  "n_caracteres": 202826,
+  "n_articulos_detectados": 7,
   "archivo_md": "md/sentencia_t-323_2024.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 
@@ -2510,440 +2511,442 @@ los siguientes niveles:
 
 | **Riesgo** | **Descripción** |
 | --- | --- |
-| **Alto**[148]**** | El artículo 6 del Reglamento de IA acude a dos técnicas de identificación de sistemas de alto riesgo. La primera, se basa en una suerte de clasificación «en blanco» pues no consagra todos los elementos para categorizar una determinada IA como de riesgo alto, sino que fija dos condiciones concurrentes que deben llenarse de contenido a través de la remisión a otras normas de la Unión Europea. En este punto, se clasifica como IA de riesgo alto aquella que *(i)* esté destinada a ser un componente de seguridad de productos que entren en el ámbito de aplicación de los actos legislativos de armonización de la Unión enumerados en el anexo I de la Ley o que el propio sistema de IA sea uno de dichos productos y *(ii)* deba someterse a una evaluación para su introducción al mercado o puesta en servicio con arreglo a los referidos actos legislativos de armonización. La segunda técnica es enunciativa pues cataloga como IA de alto riesgo las incluidas en el listado del Anexo III de la Ley. Estas son: *(i)*Las relacionadas con usos permitidos de biometría. *(ii)*Las relacionadas con infraestructura crítica que puede poner en riesgo la vida y la salud de los ciudadanos (por ejemplo, las relacionadas con el suministro de agua, gas, calefacción o electricidad). *(iii)*Las relacionadas con entrenamiento educacional y vocacional que puedan determinar el acceso a la educación y a un cargo profesional. *(iv)*Las usadas en el empleo, gestión de los trabajadores y acceso al autoempleo. *(v)*Las relacionadas con acceso y disfrute de servicios y prestaciones públicas y privadas que sean esenciales. Por ejemplo, las usadas para medir el puntaje crediticio de los consumidores financieros. *(vi)* Las destinadas a la aplicación de la ley, cuando su uso sea permitido para evaluar el riesgo de que una persona sea víctima de infracciones penales; usar polígrafos o herramientas similares; evaluar la fiabilidad de pruebas durante una investigación o juicio penal; evaluar la probabilidad de que una persona física cometa una infracción o reincida, así como elaboración de perfiles de personas físicas o evaluación de rasgos y características de la personalidad o comportamientos delictivos pasados de personas físicas o grupos. *(vii)*Las usadas en los sectores de migración, asilo y gestión de control fronterizo. *(viii)* **Las** **relacionadas con la administración de justicia y procesos democráticos.** Las IA de alto riesgo relacionadas en el anterior listado pueden no ser consideradas de alto riesgo si se cumple alguna de las condiciones que prevé el artículo 6.º, numeral 3.º, del Reglamento de IA[149]. |
-| **Limitado** | Se refiere a los sistemas de IA con obligaciones específicas de transparencia. Al utilizar sistemas de IA como los *chatbots*, los usuarios deben ser conscientes de que están interactuando con una máquina para poder tomar una decisión informada de continuar o no. |
-| **Mínimo** | La propuesta permite el uso libre de herramientas de IA con un riesgo mínimo. Las aplicaciones incluidas en este nivel son, por ejemplo, las relacionadas con videojuegos o filtros de spam. |
+| **Alto**[148]**** | El artículo 6 del Reglamento de IA acude a dos técnicas de identificación de sistemas de alto riesgo. La primera, se basa en una suerte de clasificación «en blanco» pues no consagra todos los elementos para categorizar una determinada IA como de riesgo alto, sino que fija dos condiciones concurrentes que deben llenarse de contenido a través de la remisión a otras normas de la Unión Europea. En este punto, se clasifica como IA de riesgo alto aquella que *(i)* esté destinada a ser un componente de seguridad de productos que entren en el ámbito de aplicación de los actos legislativos de armonización de la Unión enumerados en el anexo I de la Ley o que el propio sistema de IA sea uno de dichos productos y *(ii)* deba someterse a una evaluación para su introducción al mercado o puesta en servicio con arreglo a los referidos actos legislativos de armonización. La segunda técnica es enunciativa pues cataloga como IA de alto riesgo las incluidas en el listado del Anexo III de la Ley. Estas son: *(i)*Las relacionadas con usos permitidos de biometría. *(ii)*Las relacionadas con infraestructura crÃ­tica que puede poner en riesgo la vida y la salud de los ciudadanos (por ejemplo, las relacionadas con el suministro de agua, gas, calefacciÃ³n o electricidad). *(iii)*Las relacionadas con entrenamiento educacional y vocacional que puedan determinar el acceso a la educaciÃ³n y a un cargo profesional. *(iv)*Las usadas en el empleo, gestiÃ³n de los trabajadores y acceso al autoempleo. *(v)*Las relacionadas con acceso y disfrute de servicios y prestaciones pÃºblicas y privadas que sean esenciales. Por ejemplo, las usadas para medir el puntaje crediticio de los consumidores financieros. *(vi)* Las destinadas a la aplicaciÃ³n de la ley, cuando su uso sea permitido para evaluar el riesgo de que una persona sea vÃ­ctima de infracciones penales; usar polÃ­grafos o herramientas similares; evaluar la fiabilidad de pruebas durante una investigaciÃ³n o juicio penal; evaluar la probabilidad de que una persona fÃ­sica cometa una infracciÃ³n o reincida, asÃ­ como elaboraciÃ³n de perfiles de personas fÃ­sicas o evaluaciÃ³n de rasgos y caracterÃ­sticas de la personalidad o comportamientos delictivos pasados de personas fÃ­sicas o grupos. *(vii)*Las usadas en los sectores de migraciÃ³n, asilo y gestiÃ³n de control fronterizo. *(viii)* **Las** **relacionadas con la administraciÃ³n de justicia y procesos democrÃ¡ticos.** Las IA de alto riesgo relacionadas en el anterior listado pueden no ser consideradas de alto riesgo si se cumple alguna de las condiciones que prevÃ© el artÃ­culo 6.Âº, numeral 3.Âº, del Reglamento de IA[149]. |
+| **Limitado** | Se refiere a los sistemas de IA con obligaciones especÃ­ficas de transparencia. Al utilizar sistemas de IA como los *chatbots*, los usuarios deben ser conscientes de que estÃ¡n interactuando con una mÃ¡quina para poder tomar una decisiÃ³n informada de continuar o no. |
+| **MÃ­nimo** | La propuesta permite el uso libre de herramientas de IA con un riesgo mÃ­nimo. Las aplicaciones incluidas en este nivel son, por ejemplo, las relacionadas con videojuegos o filtros de spam. |
 
 177.
 El Anexo III del Reglamento de IA ahonda
 en los sistemas de IA de alto riesgo para precisar su alcance. De manera
-particular, se refiere a aquellos relacionados con la administración de
-justicia y procesos democráticos en los siguientes términos:
+particular, se refiere a aquellos relacionados con la administraciÃ³n de
+justicia y procesos democrÃ¡ticos en los siguientes tÃ©rminos:
 
 a) Sistemas de IA
 destinados a ser utilizados por una autoridad judicial, o en su nombre, para
-ayudar a una autoridad judicial en la investigación e interpretación de hechos
-y de la ley, así como en la aplicación de la ley a un conjunto concreto de
-hechos, o a ser utilizados de forma similar en una resolución alternativa de
+ayudar a una autoridad judicial en la investigaciÃ³n e interpretaciÃ³n de hechos
+y de la ley, asÃ­ como en la aplicaciÃ³n de la ley a un conjunto concreto de
+hechos, o a ser utilizados de forma similar en una resoluciÃ³n alternativa de
 litigios
 
 b) Sistemas de IA
-destinados a ser utilizados para influir en el resultado de una elección o
-referéndum o en el comportamiento electoral de personas físicas que ejerzan su
+destinados a ser utilizados para influir en el resultado de una elecciÃ³n o
+referÃ©ndum o en el comportamiento electoral de personas fÃ­sicas que ejerzan su
 derecho de voto en elecciones o referendos. Quedan excluidos los sistemas de IA
-a cuya información de salida no estén directamente expuestas las personas
-físicas, como las herramientas utilizadas para organizar, optimizar o
-estructurar campañas políticas desde un punto de vista administrativo o
-logístico
+a cuya informaciÃ³n de salida no estÃ©n directamente expuestas las personas
+fÃ­sicas, como las herramientas utilizadas para organizar, optimizar o
+estructurar campaÃ±as polÃ­ticas desde un punto de vista administrativo o
+logÃ­stico
 
 178.
 Una vez identificados los sistemas de IA
 que se catalogan como de alto riesgo, el Reglamento de IA establece los
-siguientes requisitos específicos y condiciones para que pueda hacerse uso de
-ellos *(i)* la adopción de un sistema de gestión de riesgo (artículo 9.º)
-que permita hacer una adecuada evaluación de estos y adoptar medidas de
-prevención y mitigación; *(ii)* la implementación de altos estándares de
-calidad respecto de los conjuntos de datos de entrenamiento, validación y
-prueba, los cuales se deben someter a prácticas de gobernanza y gestión de
-datos adecuadas para la finalidad prevista del sistema de IA (artículo 10); *(iii)*
-la elaboración de documentación técnica que soporte el sistema de IA (artículo
-11); *(iv)* la conservación de registros automáticos de eventos a lo largo
-de todo el ciclo de vida del sistema (artículo 12); la transparencia y la
-comunicación de información a los responsables del despliegue (artículo 13); la
-vigilancia humana (artículo 14); la solidez, la precisión y la ciberseguridad del
+siguientes requisitos especÃ­ficos y condiciones para que pueda hacerse uso de
+ellos *(i)* la adopciÃ³n de un sistema de gestiÃ³n de riesgo (artÃ­culo 9.Âº)
+que permita hacer una adecuada evaluaciÃ³n de estos y adoptar medidas de
+prevenciÃ³n y mitigaciÃ³n; *(ii)* la implementaciÃ³n de altos estÃ¡ndares de
+calidad respecto de los conjuntos de datos de entrenamiento, validaciÃ³n y
+prueba, los cuales se deben someter a prÃ¡cticas de gobernanza y gestiÃ³n de
+datos adecuadas para la finalidad prevista del sistema de IA (artÃ­culo 10); *(iii)*
+la elaboraciÃ³n de documentaciÃ³n tÃ©cnica que soporte el sistema de IA (artÃ­culo
+11); *(iv)* la conservaciÃ³n de registros automÃ¡ticos de eventos a lo largo
+de todo el ciclo de vida del sistema (artÃ­culo 12); la transparencia y la
+comunicaciÃ³n de informaciÃ³n a los responsables del despliegue (artÃ­culo 13); la
+vigilancia humana (artÃ­culo 14); la solidez, la precisiÃ³n y la ciberseguridad del
 sistema. Acto seguido, el Reglamento de IA define las obligaciones a cargo de
 los proveedores y responsables del despliegue de sistemas de IA de alto riesgo
-(sección 3).
+(secciÃ³n 3).
 
 179.
-*Estados Unidos de América.*
-Algunos de los instrumentos normativos más relevantes han sido emitidos por el
+*Estados Unidos de AmÃ©rica.*
+Algunos de los instrumentos normativos mÃ¡s relevantes han sido emitidos por el
 poder ejecutivo federal, mientras que otros provienen de agencias federales.
-Aunque en dicho país no hay una norma del Gobierno Federal que regule
-integralmente la materia, el instrumento de política pública más importante es
-la «[o]rden
-ejecutiva sobre el desarrollo y la utilización segura y fiable de la
-inteligencia artificial»[150]
-dictada por el presidente Biden en 2023. Esta se basó en el denominado
-Anteproyecto para una Declaración de Derechos de la IA[151] que profirió la Casa
-Blanca en octubre de 2022, el cual contiene cinco principios y prácticas
-asociadas para ayudar a guiar el diseño, uso y despliegue de sistemas
-automatizados, con el fin de proteger los derechos del público estadounidense
-en la era de la IA. Los referidos principios están formulados en los siguientes
-términos *(i)* debes estar protegido/a
+Aunque en dicho paÃ­s no hay una norma del Gobierno Federal que regule
+integralmente la materia, el instrumento de polÃ­tica pÃºblica mÃ¡s importante es
+la Â«[o]rden
+ejecutiva sobre el desarrollo y la utilizaciÃ³n segura y fiable de la
+inteligencia artificialÂ»[150]
+dictada por el presidente Biden en 2023. Esta se basÃ³ en el denominado
+Anteproyecto para una DeclaraciÃ³n de Derechos de la IA[151] que profiriÃ³ la Casa
+Blanca en octubre de 2022, el cual contiene cinco principios y prÃ¡cticas
+asociadas para ayudar a guiar el diseÃ±o, uso y despliegue de sistemas
+automatizados, con el fin de proteger los derechos del pÃºblico estadounidense
+en la era de la IA. Los referidos principios estÃ¡n formulados en los siguientes
+tÃ©rminos *(i)* debes estar protegido/a
 de sistemas inseguros o ineficaces; *(ii)* no debes enfrentar
-discriminación por parte de algoritmos y los sistemas deben ser utilizados y
-diseñados de manera equitativa; *(iii)* debes estar protegido/a de
-prácticas abusivas de datos mediante protecciones incorporadas y deberías tener
-control sobre cómo se utiliza la información sobre quien usa la IA; *(iv)* debes
-saber que se está utilizando un sistema automatizado y comprender cómo y por qué
+discriminaciÃ³n por parte de algoritmos y los sistemas deben ser utilizados y
+diseÃ±ados de manera equitativa; *(iii)* debes estar protegido/a de
+prÃ¡cticas abusivas de datos mediante protecciones incorporadas y deberÃ­as tener
+control sobre cÃ³mo se utiliza la informaciÃ³n sobre quien usa la IA; *(iv)* debes
+saber que se estÃ¡ utilizando un sistema automatizado y comprender cÃ³mo y por quÃ©
 contribuye a los resultados que te afectan y *(v)* debes poder optar por
 salirte del sistema cuando sea apropiado y tener acceso a una persona que pueda
-considerar y resolver rápidamente los problemas que se encuentren[152].
+considerar y resolver rÃ¡pidamente los problemas que se encuentren[152].
 
 180.
 Otros
 proyectos de gobernanza relevantes en Estados Unidos son el Plan Nacional de
-Investigación y Desarrollo de Inteligencia Artificial, que identifica áreas
-prioritarias para la investigación financiada con fondos federales; el marco de
-gestión de riesgos de inteligencia artificial del NIST[153]
-y las pautas publicadas por la Oficina de Protección Financiera del Consumidor,
+InvestigaciÃ³n y Desarrollo de Inteligencia Artificial, que identifica Ã¡reas
+prioritarias para la investigaciÃ³n financiada con fondos federales; el marco de
+gestiÃ³n de riesgos de inteligencia artificial del NIST[153]
+y las pautas publicadas por la Oficina de ProtecciÃ³n Financiera del Consumidor,
 que exigen a los prestamistas proporcionar explicaciones claras para decisiones
-adversas, con el fin de proteger a los consumidores contra la discriminación[154].
+adversas, con el fin de proteger a los consumidores contra la discriminaciÃ³n[154].
 
 181.
 Finalmente,
-respecto del caso estadounidense cabe señalar que, en materia de proyectos de
+respecto del caso estadounidense cabe seÃ±alar que, en materia de proyectos de
 ley, se han presentado al Congreso aproximadamente 70 iniciativas[155] que abordan
 temas variados como restricciones a la IA; la
 exigencia a los proveedores de sistemas de IA que realicen evaluaciones de la
-tecnología y sus usos; requisitos de transparencia, notificación y etiquetado;
-la creación de una autoridad reguladora que supervise la IA; la defensa de los
-consumidores con medidas de responsabilidad y protección
-de datos; la capacitación del personal federal, entre otros.
+tecnologÃ­a y sus usos; requisitos de transparencia, notificaciÃ³n y etiquetado;
+la creaciÃ³n de una autoridad reguladora que supervise la IA; la defensa de los
+consumidores con medidas de responsabilidad y protecciÃ³n
+de datos; la capacitaciÃ³n del personal federal, entre otros.
 
 182.
-*América Latina.*
-El marco normativo de la IA está en proceso de gestación. En efecto, ninguno de
-los países «cuenta con una ley especial vigente que
-regule el uso y el desarrollo de esta tecnología, aunque todos han introducido
-propuestas de regulación en sus respectivos parlamentos u órganos legislativos»[156].
-Aunque en Perú se aprobó recientemente una ley[157]
+*AmÃ©rica Latina.*
+El marco normativo de la IA estÃ¡ en proceso de gestaciÃ³n. En efecto, ninguno de
+los paÃ­ses Â«cuenta con una ley especial vigente que
+regule el uso y el desarrollo de esta tecnologÃ­a, aunque todos han introducido
+propuestas de regulaciÃ³n en sus respectivos parlamentos u Ã³rganos legislativosÂ»[156].
+Aunque en PerÃº se aprobÃ³ recientemente una ley[157]
 sobre la materia, esta solo contiene lineamientos generales y objetivos de
-política pública que pasarían a ser desarrolladas con mayor profundidad desde
-el ejecutivo a través de normas reglamentarias.
+polÃ­tica pÃºblica que pasarÃ­an a ser desarrolladas con mayor profundidad desde
+el ejecutivo a travÃ©s de normas reglamentarias.
 
 183.
-En el presente trámite, varios expertos
-hicieron énfasis en que «[l]a mayoría de los
-países latinoamericanos propone regulaciones inspiradas o con similitudes
-importantes a la propuesta de Ley de Inteligencia Artificial de la Unión
-Europea (AI Act)» [158].
-Además, se identificaron dos tendencias. De un lado,
-la de países
-como Argentina o Brasil que «cuentan con iniciativas
-que proponen normativas enfocadas en regular la IA en relación con determinadas
-materias o contextos, además de aquellas que dan lugar a una regulación general
-de la disciplina»[159].
-De otro lado, la de países como Chile, Costa Rica y Colombia, que «comparten
-en sus iniciativas la creación de autoridades especializadas en la materia que
-fiscalicen y supervisen la implementación y el desarrollo de estas tecnologías»[160].
+En el presente trÃ¡mite, varios expertos
+hicieron Ã©nfasis en que Â«[l]a mayorÃ­a de los
+paÃ­ses latinoamericanos propone regulaciones inspiradas o con similitudes
+importantes a la propuesta de Ley de Inteligencia Artificial de la UniÃ³n
+Europea (AI Act)Â» [158].
+AdemÃ¡s, se identificaron dos tendencias. De un lado,
+la de paÃ­ses
+como Argentina o Brasil que Â«cuentan con iniciativas
+que proponen normativas enfocadas en regular la IA en relaciÃ³n con determinadas
+materias o contextos, ademÃ¡s de aquellas que dan lugar a una regulaciÃ³n general
+de la disciplinaÂ»[159].
+De otro lado, la de paÃ­ses como Chile, Costa Rica y Colombia, que Â«comparten
+en sus iniciativas la creaciÃ³n de autoridades especializadas en la materia que
+fiscalicen y supervisen la implementaciÃ³n y el desarrollo de estas tecnologÃ­asÂ»[160].
 
 184.
 Del caso peruano, llama particularmente la
-atención que, en la actualidad, se está tramitando una reforma constitucional a
-través del proyecto de Ley 5763-2023-CR del 25 de agosto de 2023, para
-adicionar el artículo 139 de la Constitución en el sentido de establecer el uso
-de la IA como uno de los principios de la administración de justicia, de manera
-que se pueda utilizar «para la resolución de
-casos judiciales y para las acciones de mero trámite»[161].
-La exposición de motivos anuncia muy concretamente que
-con ello se busca mayor agilidad en la prestación de este servicio público y
-así beneficiar a la ciudadanía en materia de derechos de acceso a la
-administración de justicia, tutela procesal efectiva, plazo razonable, entre
+atenciÃ³n que, en la actualidad, se estÃ¡ tramitando una reforma constitucional a
+travÃ©s del proyecto de Ley 5763-2023-CR del 25 de agosto de 2023, para
+adicionar el artÃ­culo 139 de la ConstituciÃ³n en el sentido de establecer el uso
+de la IA como uno de los principios de la administraciÃ³n de justicia, de manera
+que se pueda utilizar Â«para la resoluciÃ³n de
+casos judiciales y para las acciones de mero trÃ¡miteÂ»[161].
+La exposiciÃ³n de motivos anuncia muy concretamente que
+con ello se busca mayor agilidad en la prestaciÃ³n de este servicio pÃºblico y
+asÃ­ beneficiar a la ciudadanÃ­a en materia de derechos de acceso a la
+administraciÃ³n de justicia, tutela procesal efectiva, plazo razonable, entre
 otros.
 
 185. Visto
-lo anterior, previo a cerrar este acápite, la Sala de Revisión considera
-relevante llamar la atención sobre algunos aspectos. En primer lugar,
-tratándose de establecer un marco regulatorio en asuntos de IA se debe
+lo anterior, previo a cerrar este acÃ¡pite, la Sala de RevisiÃ³n considera
+relevante llamar la atenciÃ³n sobre algunos aspectos. En primer lugar,
+tratÃ¡ndose de establecer un marco regulatorio en asuntos de IA se debe
 reconocer la importancia tanto de instrumentos de derecho blando como de
-fuentes normativas plenamente vinculantes *(hard law)*. Estas últimas son
-la herramienta para aterrizar la aplicación de lineamientos generales
-dispuestos en instrumentos de *soft law* a través de reglas de obligatorio
-cumplimiento, que permitan efectivizar los mecanismos, controles, términos y
-demás condiciones en que debe operar la IA en todas las facetas que componen su
+fuentes normativas plenamente vinculantes *(hard law)*. Estas Ãºltimas son
+la herramienta para aterrizar la aplicaciÃ³n de lineamientos generales
+dispuestos en instrumentos de *soft law* a travÃ©s de reglas de obligatorio
+cumplimiento, que permitan efectivizar los mecanismos, controles, tÃ©rminos y
+demÃ¡s condiciones en que debe operar la IA en todas las facetas que componen su
 ciclo de vida. No obstante, la velocidad a la que evoluciona la IA supone un
-reto en términos de regulación a través de herramientas tradicionales de *hard
+reto en tÃ©rminos de regulaciÃ³n a travÃ©s de herramientas tradicionales de *hard
 law*.
 
 186.
-En efecto, estas tecnologías emergentes
-suelen avanzar a un ritmo que sobrepasa la capacidad de reacción de las
+En efecto, estas tecnologÃ­as emergentes
+suelen avanzar a un ritmo que sobrepasa la capacidad de reacciÃ³n de las
 autoridades regulatorias. Es a lo que se ha denominado *problema del ritmo.*
-Sobre este fenómeno, el referido informe de asesoramiento que emitió la ONU a
-través de su órgano consultivo en IA destacó que «los
-avances técnicos en IA y su uso siguen acelerándose, ampliando la brecha en la
-comprensión y la capacidad entre las empresas tecnológicas que desarrollan IA,
+Sobre este fenÃ³meno, el referido informe de asesoramiento que emitiÃ³ la ONU a
+travÃ©s de su Ã³rgano consultivo en IA destacÃ³ que Â«los
+avances tÃ©cnicos en IA y su uso siguen acelerÃ¡ndose, ampliando la brecha en la
+comprensiÃ³n y la capacidad entre las empresas tecnolÃ³gicas que desarrollan IA,
 las empresas y otras organizaciones que la utilizan en diversos sectores y
-espacios sociales, y aquellos que regularían su desarrollo, despliegue y uso»[162].
+espacios sociales, y aquellos que regularÃ­an su desarrollo, despliegue y usoÂ»[162].
 
 187.
 El profesor Gary Marchant[163]
 considera que los instrumentos de *soft law* son clave para hacer frente a
-dicha problemática. En su artículo *«Soft
-Law. Governance of Artificial Intelligence»*
+dicha problemÃ¡tica. En su artÃ­culo *Â«Soft
+Law. Governance of Artificial IntelligenceÂ»*
 concluye que, aunque el derecho blando brinda herramientas de gobernanza muy
-imperfectas debido a su falta de aplicabilidad, así como al lenguaje tan amplio
+imperfectas debido a su falta de aplicabilidad, asÃ­ como al lenguaje tan amplio
 y general en el que suele redactarse
 
-[E]n el caso de una tecnología en
-rápido desarrollo y expansión como la IA, no es factible una regulación
+[E]n el caso de una tecnologÃ­a en
+rÃ¡pido desarrollo y expansiÃ³n como la IA, no es factible una regulaciÃ³n
 exhaustiva por parte de los gobiernos, al menos a corto plazo. En consecuencia,
-el *soft law* será el enfoque por defecto para la mayor parte de la
-gobernanza de la IA en la actualidad. Por esta razón, es necesario explorar
-formas indirectas de aplicar y coordinar la proliferación de medidas de *soft
+el *soft law* serÃ¡ el enfoque por defecto para la mayor parte de la
+gobernanza de la IA en la actualidad. Por esta razÃ³n, es necesario explorar
+formas indirectas de aplicar y coordinar la proliferaciÃ³n de medidas de *soft
 law* que ya se han propuesto o promulgado para la IA[164]
 
 188.
 En segundo lugar, se debe tener en cuenta
-que el liderazgo de algunos países del llamado norte global[165]
-en el ámbito regulatorio de la IA ha dado paso a lo que se conoce como el *efecto
-Bruselas*, que se refiere a un proceso de globalización reguladora causado
-por la Unión Europea, cuyas leyes terminan proyectándose de *facto* fuera
+que el liderazgo de algunos paÃ­ses del llamado norte global[165]
+en el Ã¡mbito regulatorio de la IA ha dado paso a lo que se conoce como el *efecto
+Bruselas*, que se refiere a un proceso de globalizaciÃ³n reguladora causado
+por la UniÃ³n Europea, cuyas leyes terminan proyectÃ¡ndose de *facto* fuera
 de sus fronteras, debido a la marcada influencia que ejerce en otras latitudes.
-Aunque este tipo de regulaciones esté determinando pautas en materia de
-regulación de la IA, es importante tener en cuenta que el panorama
-internacional y, con ello, un análisis de derecho comparado, resultan útiles y
+Aunque este tipo de regulaciones estÃ© determinando pautas en materia de
+regulaciÃ³n de la IA, es importante tener en cuenta que el panorama
+internacional y, con ello, un anÃ¡lisis de derecho comparado, resultan Ãºtiles y
 pertinentes en tanto ofrecen un punto de partida para comprender los caminos
-posibles y los enfoques para tener en cuenta al momento de diseñar políticas
-públicas, instrumentos normativos de derecho interno, estrategias de auto
-restricción o estrategias de autocontrol, teniendo en cuenta que dicha
-construcción debe ser en todo caso colectiva. En el proceso de crear una
-normativa propia hay que ser cautelosos para no caer en prácticas de
+posibles y los enfoques para tener en cuenta al momento de diseÃ±ar polÃ­ticas
+pÃºblicas, instrumentos normativos de derecho interno, estrategias de auto
+restricciÃ³n o estrategias de autocontrol, teniendo en cuenta que dicha
+construcciÃ³n debe ser en todo caso colectiva. En el proceso de crear una
+normativa propia hay que ser cautelosos para no caer en prÃ¡cticas de
 importaciones normativas que puedan resultar impertinentes, ineficaces e
-incluso contraproducentes según el contexto social, económico, político y
-cultural de cada país.
+incluso contraproducentes segÃºn el contexto social, econÃ³mico, polÃ­tico y
+cultural de cada paÃ­s.
 
 189.
-Así pues, resulta de la mayor relevancia
+AsÃ­ pues, resulta de la mayor relevancia
 que cualquier iniciativa normativa o estrategia que se desarrolle, bien sea en
 el escenario legislativo o reglamentario en materia de IA, se ajuste a las
-particularidades del entorno en el que impactará, de manera que se evalúe la
+particularidades del entorno en el que impactarÃ¡, de manera que se evalÃºe la
 procedencia y, de ser el caso, la mejor forma de trasplantar ideas o figuras
 propias de regulaciones extranjeras, con el fin de neutralizar los riesgos y
-posibles desventajas de las prácticas de importación normativa. En todo caso,
+posibles desventajas de las prÃ¡cticas de importaciÃ³n normativa. En todo caso,
 este ejercicio debe realizarse sin perder de vista la importancia de mantener
 un enfoque centrado en el cumplimiento de los derechos fundamentales y del
 marco internacional, a partir del cual pueda desarrollarse un complejo
-normativo armónico en materia de IA, que cumpla con los más altos estándares,
-de esta forma se garantizará la salvaguarda de los derechos fundamentales.
+normativo armÃ³nico en materia de IA, que cumpla con los mÃ¡s altos estÃ¡ndares,
+de esta forma se garantizarÃ¡ la salvaguarda de los derechos fundamentales.
 
 190.
 Las anteriores preocupaciones son
-compartidas por organismos como la ONU, cuyo órgano consultivo en IA, al
-reflexionar sobre el panorama actual de regulación, ha concluido que:
+compartidas por organismos como la ONU, cuyo Ã³rgano consultivo en IA, al
+reflexionar sobre el panorama actual de regulaciÃ³n, ha concluido que:
 
 Los
 esfuerzos existentes en materia de gobernanza de la IA han dado lugar a
 similitudes en el lenguaje en asuntos como la importancia de la equidad, la
-responsabilidad y la transparencia. Sin embargo, no existe una alineación
-global en cuanto a la aplicación, ni en términos de interoperabilidad entre
-jurisdicciones ni en términos de incentivos de cumplimiento dentro de las
+responsabilidad y la transparencia. Sin embargo, no existe una alineaciÃ³n
+global en cuanto a la aplicaciÃ³n, ni en tÃ©rminos de interoperabilidad entre
+jurisdicciones ni en tÃ©rminos de incentivos de cumplimiento dentro de las
 jurisdicciones. Algunos son partidarios de normas vinculantes, mientras que
 otros prefieren incentivos no vinculantes. Se debaten *trade-offs**[166]***,
-como el equilibrio entre acceso y seguridad, o si la atención debe centrarse en
-los daños actuales o en los posibles daños futuros. Los distintos modelos
-también pueden requerir un énfasis diferente en la gobernanza. La falta de
+como el equilibrio entre acceso y seguridad, o si la atenciÃ³n debe centrarse en
+los daÃ±os actuales o en los posibles daÃ±os futuros. Los distintos modelos
+tambiÃ©n pueden requerir un Ã©nfasis diferente en la gobernanza. La falta de
 normas y puntos de referencia comunes entre los marcos nacionales y
-multinacionales de gestión de riesgos, así como las múltiples definiciones de
+multinacionales de gestiÃ³n de riesgos, asÃ­ como las mÃºltiples definiciones de
 IA utilizadas en dichos marcos han complicado el panorama de la gobernanza de
 la IA, a pesar de la necesidad de espacio para que coexistan diferentes
 enfoques reguladores que reflejen la diversidad social y cultural del mundo[167]
 
 191.
 Los aspectos anotados suponen un reto
-adicional para la ya difícil tarea de definir un marco regulatorio o
-estrategias en un asunto tan especializado y técnico como la IA. Igualmente,
+adicional para la ya difÃ­cil tarea de definir un marco regulatorio o
+estrategias en un asunto tan especializado y tÃ©cnico como la IA. Igualmente,
 llaman a que sin perjuicio de los esfuerzos normativos estatales, a niveles
-sectoriales se adopten dentro del ámbito propio de competencias, marcos
-regulatorios, a partir de códigos de conducta y protocolos de buenas prácticas,
-que estimulen la aplicación de estándares éticos específicos y que sean capaces
+sectoriales se adopten dentro del Ã¡mbito propio de competencias, marcos
+regulatorios, a partir de cÃ³digos de conducta y protocolos de buenas prÃ¡cticas,
+que estimulen la aplicaciÃ³n de estÃ¡ndares Ã©ticos especÃ­ficos y que sean capaces
 de recoger regulaciones comunes de conducta, que permitan afrontar
 razonablemente como posibilidad de mejoramiento las herramientas de
 inteligencia artificial generativa, especialmente del *ChatGPT,* y
 prevenir sus riesgos. Se trata de aprender de la historia de la humanidad y de
-los desarrollos tecnológicos, siempre en cambio, así como de afrontar el reto
+los desarrollos tecnolÃ³gicos, siempre en cambio, asÃ­ como de afrontar el reto
 de racionalizar sobre estos y de aprender sobre sus inusitados alcances, para
 que sin caer en la esclavitud ante ellos, el ser humano los apropie como
 herramientas para potenciar las mejores condiciones de vida individuales,
-sociales y globales. Ni la comunidad ni la administración de justicia podrán
-ser reemplazadas por las tecnologías ni por las máquinas, pues aquellas
+sociales y globales. Ni la comunidad ni la administraciÃ³n de justicia podrÃ¡n
+ser reemplazadas por las tecnologÃ­as ni por las mÃ¡quinas, pues aquellas
 comprenden en su esencia lo insustituible de la existencia cual es el
 componente humano de racionalidad, creatividad, emotividad, singularidad y
-solidaridad que habrá de acompañar las generaciones por siempre.
+solidaridad que habrÃ¡ de acompaÃ±ar las generaciones por siempre.
 
 *(vii)**Algunas experiencias concretas
-relacionadas con la IA en la práctica jurídica*
+relacionadas con la IA en la prÃ¡ctica jurÃ­dica*
 
 192.
 El
-interés por regular el uso de la IA en la práctica judicial no resulta extraño
-pues su utilización en este ámbito ha comenzado a marcar una tendencia desde
-hace algunos años, tanto para apoyar a los usuarios en la actividad litigiosa
+interÃ©s por regular el uso de la IA en la prÃ¡ctica judicial no resulta extraÃ±o
+pues su utilizaciÃ³n en este Ã¡mbito ha comenzado a marcar una tendencia desde
+hace algunos aÃ±os, tanto para apoyar a los usuarios en la actividad litigiosa
 como para respaldar, en mayor o menor grado, el sistema judicial mismo.
 
 193.
 En
-2016, en Reino Unido, se lanzó *DoNotPay*, una iniciativa privada que
-comenzó por utilizar la IA para apelar automáticamente multas de tránsito. Con
-el tiempo y debido al alto porcentaje de éxito, sus fundadores expandieron los
+2016, en Reino Unido, se lanzÃ³ *DoNotPay*, una iniciativa privada que
+comenzÃ³ por utilizar la IA para apelar automÃ¡ticamente multas de trÃ¡nsito. Con
+el tiempo y debido al alto porcentaje de Ã©xito, sus fundadores expandieron los
 servicios prestados por el *chatbot* para que, entre otros, ofreciera
-ayuda legal gratuita a personas que están enfrentando problemas de vivienda,
-como embargos y desalojos. Otro conocido ejemplo es el de la compañía AirHelp
+ayuda legal gratuita a personas que estÃ¡n enfrentando problemas de vivienda,
+como embargos y desalojos. Otro conocido ejemplo es el de la compaÃ±Ã­a AirHelp
 que, haciendo uso de sistemas de IA, asiste a pasajeros en reclamaciones a
-aerolíneas. La misma empresa explica que sus abogados digitales, capaces de
+aerolÃ­neas. La misma empresa explica que sus abogados digitales, capaces de
 comprobar los documentos de viaje, realizar evaluaciones legales y analizar la
-jurisdicción para una reclamación en cuestión de segundos, «se
+jurisdicciÃ³n para una reclamaciÃ³n en cuestiÃ³n de segundos, Â«se
 utilizan en el 100% de las reclamaciones entrantes en la fase legal, y las que
 se aprueban en esta fase se pasan a un segundo *bot* que
-comienza a analizar la reclamación […] Ya se ha utilizado con éxito en más de
-150.000 casos y el resultado fue exitoso en el 96 % de los casos, un 5% más que
-la tasa media de éxito humano»[168].
+comienza a analizar la reclamaciÃ³n [â€¦] Ya se ha utilizado con Ã©xito en mÃ¡s de
+150.000 casos y el resultado fue exitoso en el 96 % de los casos, un 5% mÃ¡s que
+la tasa media de Ã©xito humanoÂ»[168].
 Ejemplos como los anteriores allanaron el camino para que, aproximadamente
 desde 2019, en el mundo comenzaran a desarrollarse diferentes aplicaciones
-basadas en sistemas de IA que permiten la automatización de tareas de litigio
-para grandes firmas y compañías.
+basadas en sistemas de IA que permiten la automatizaciÃ³n de tareas de litigio
+para grandes firmas y compaÃ±Ã­as.
 
 194.
 En
 cuanto al uso de IA desde el poder judicial, estos sistemas se han comenzado a
-utilizar para asistir a los jueces en la realización de algunas tareas, con un
-mayor o menor grado de intensidad. En Estonia, por ejemplo, se desarrolló un
-programa piloto en 2019, a través del cual un juez robot conoce y resuelve
-casos de menos de 7.000 euros. «Las
-partes pueden cargar información sobre el caso a la plataforma la que es tomada
-por el Juez Robot para tomar la decisión, la que puede ser apelada ante un juez
-humano»[169].
+utilizar para asistir a los jueces en la realizaciÃ³n de algunas tareas, con un
+mayor o menor grado de intensidad. En Estonia, por ejemplo, se desarrollÃ³ un
+programa piloto en 2019, a travÃ©s del cual un juez robot conoce y resuelve
+casos de menos de 7.000 euros. Â«Las
+partes pueden cargar informaciÃ³n sobre el caso a la plataforma la que es tomada
+por el Juez Robot para tomar la decisiÃ³n, la que puede ser apelada ante un juez
+humanoÂ»[169].
 
 195.
 De
-otra parte, en China, un tribunal de la ciudad de Hangzhou «cuenta
-con un asistente de inteligencia artificial llamado Xiao Zhi 3.0 o «*Little
-Wisdom*» (Pequeño sabio), que tiene como objetivo la agilización de casos
-pequeños. Durante el piloto de prueba de la herramienta ayudó a resolver casos
-de préstamos becarios de 10 personas. La métrica que se tiene sobre el tema
+otra parte, en China, un tribunal de la ciudad de Hangzhou Â«cuenta
+con un asistente de inteligencia artificial llamado Xiao Zhi 3.0 o Â«*Little
+Wisdom*Â» (PequeÃ±o sabio), que tiene como objetivo la agilizaciÃ³n de casos
+pequeÃ±os. Durante el piloto de prueba de la herramienta ayudÃ³ a resolver casos
+de prÃ©stamos becarios de 10 personas. La mÃ©trica que se tiene sobre el tema
 arroja que resolver estos casos hubiera llevado unas cuantas semanas, Xiao Zhi
-emitió la decisión en más o menos treinta minutos. Esta herramienta está siendo
+emitiÃ³ la decisiÃ³n en mÃ¡s o menos treinta minutos. Esta herramienta estÃ¡ siendo
 utilizada para casos sencillos y que de ciertas formas son similares o
-repetitivos»[170].
+repetitivosÂ»[170].
 
 196.
 En Brasil, en 2019, el Tribunal Supremo de
-Justicia Federal lanzó un proyecto piloto llamado «Sócrates»,
-que permite identificar demandas por temática para acumularlas y así emitir una
-sola decisión.
+Justicia Federal lanzó un proyecto piloto llamado Â«SÃ³cratesÂ»,
+que permite identificar demandas por temÃ¡tica para acumularlas y asÃ­ emitir una
+sola decisiÃ³n.
 
 197.
 La
-Corte Constitucional colombiana también ha desarrollado un proyecto de IA
-llamado «Pretoria»[171],
-cuya finalidad es permitir la identificación de tutelas para su selección en
-sede de revisión, de acuerdo a los criterios establecidos por esta corporación.
+Corte Constitucional colombiana tambiÃ©n ha desarrollado un proyecto de IA
+llamado Â«PretoriaÂ»[171],
+cuya finalidad es permitir la identificaciÃ³n de tutelas para su selecciÃ³n en
+sede de revisiÃ³n, de acuerdo a los criterios establecidos por esta corporaciÃ³n.
 
 198.
 Finalmente,
 en lo que interesa a este caso, no puede perderse de vista que el
 *Juzgado del Circuito*
-hizo uso de la herramienta de IA *ChatGPT* 3.5y que, como se señaló en líneas anteriores, lo que se debe establecer es si
-con ello se vulneró o no el derecho fundamental del debido proceso.
+hizo uso de la herramienta de IA *ChatGPT* 3.5y que, como se seÃ±alÃ³ en lÃ­neas anteriores, lo que se debe establecer es si
+con ello se vulnerÃ³ o no el derecho fundamental del debido proceso.
 
-*(viii)* *La garantía del juez natural en un sistema jurisdiccional que
+*(viii)* *La garantÃ­a del juez natural en un sistema jurisdiccional que
 utilice IA*[172]
 
 199.
-El artículo 29 de la Constitución Política
-reconoce la garantía del juez natural, como uno de los componentes del debido
-proceso, al señalar que: «[n]adie podrá ser juzgado sino […] ante juez o tribunal competente».
+El artÃ­culo 29 de la ConstituciÃ³n PolÃ­tica
+reconoce la garantÃ­a del juez natural, como uno de los componentes del debido
+proceso, al seÃ±alar que: Â«[n]adie podrÃ¡ ser juzgado sino [â€¦] ante juez o tribunal competenteÂ».
+
+Â
 
 200.
-Por su parte, en el ámbito internacional, este derecho se consagra en el artículo
-10 de la Declaración Universal de Derechos Humanos, que establece que «toda
-persona tiene derecho, en condiciones de plena igualdad, a ser oída
-públicamente y con justicia por un tribunal independiente e imparcial, para la
-determinación de sus derechos y obligaciones o para el examen de cualquier
-actuación contra ella en materia penal» y en el Pacto Internacional de Derechos Civiles y
-Políticos, en el artículo 14, que dispone que«toda persona tendrá derecho a ser oída
-públicamente y con las debidas garantías por un tribunal competente,
-independiente e imparcial, establecido por la ley, en la sustanciación de
-cualquier acusación y de carácter penal formulada contra ella o para la
-determinación de sus derechos u obligaciones de carácter civil».
+Por su parte, en el Ã¡mbito internacional, este derecho se consagra en el artÃ­culo
+10 de la DeclaraciÃ³n Universal de Derechos Humanos, que establece que Â«toda
+persona tiene derecho, en condiciones de plena igualdad, a ser oÃ­da
+pÃºblicamente y con justicia por un tribunal independiente e imparcial, para la
+determinaciÃ³n de sus derechos y obligaciones o para el examen de cualquier
+actuaciÃ³n contra ella en materia penalÂ» y en el Pacto Internacional de Derechos Civiles y
+PolÃ­ticos, en el artÃ­culo 14, que dispone queÂ«toda persona tendrÃ¡ derecho a ser oÃ­da
+pÃºblicamente y con las debidas garantÃ­as por un tribunal competente,
+independiente e imparcial, establecido por la ley, en la sustanciaciÃ³n de
+cualquier acusaciÃ³n y de carÃ¡cter penal formulada contra ella o para la
+determinaciÃ³n de sus derechos u obligaciones de carÃ¡cter civilÂ».
 
 201.
 Finalmente,
-en el sistema interamericano, la Convención Americana sobre Derechos Humanos
-incluye, en el artículo 8.º, la garantía del juez natural como parte integral
-del derecho al debido proceso, al señalar que «toda persona tiene derecho a ser oída, con las
-debidas garantías y dentro de un plazo razonable, por un juez o un tribunal
+en el sistema interamericano, la ConvenciÃ³n Americana sobre Derechos Humanos
+incluye, en el artÃ­culo 8.Âº, la garantÃ­a del juez natural como parte integral
+del derecho al debido proceso, al seÃ±alar que Â«toda persona tiene derecho a ser oÃ­da, con las
+debidas garantÃ­as y dentro de un plazo razonable, por un juez o un tribunal
 competente, independiente e imparcial, establecido con anterioridad por la ley,
-en la sustanciación de cualquier acusación penal formulada contra ella, o para
-la determinación de sus derechos y obligaciones de orden civil, laboral o de
-cualquier otro carácter». A su turno, el artículo 25 de la misma convenciónconsagra el
-derecho de toda persona a un recurso efectivo «ante los jueces o tribunales competentes, que
+en la sustanciaciÃ³n de cualquier acusaciÃ³n penal formulada contra ella, o para
+la determinaciÃ³n de sus derechos y obligaciones de orden civil, laboral o de
+cualquier otro carÃ¡cterÂ». A su turno, el artÃ­culo 25 de la misma convenciÃ³nconsagra el
+derecho de toda persona a un recurso efectivo Â«ante los jueces o tribunales competentes, que
 la ampare contra actos que violen sus derechos fundamentales reconocidos por la
-Constitución, la ley o la presente Convención» y enfatiza en la importancia de que los Estados
-Parte garanticen «que la
-autoridad competente prevista por el sistema legal del Estado decidirá sobre
-los derechos de toda persona que interponga el recurso».
+ConstituciÃ³n, la ley o la presente ConvenciÃ³nÂ» y enfatiza en la importancia de que los Estados
+Parte garanticen Â«que la
+autoridad competente prevista por el sistema legal del Estado decidirÃ¡ sobre
+los derechos de toda persona que interponga el recursoÂ».
 
 202.
 La jurisprudencia
-constitucional colombiana ha concluido que «el respeto al debido proceso, concretado en el
-principio de juez natural, implica la garantía de que el juzgamiento sea
-efectuado por los funcionarios y órganos que, en atención a lo dispuesto en la
-Constitución, tengan la competencia para ello»[173]. En otras palabras, el juez natural es «aquel a
-quien la Constitución o la ley le ha atribuido el conocimiento de determinado
-asunto»[174].
+constitucional colombiana ha concluido que Â«el respeto al debido proceso, concretado en el
+principio de juez natural, implica la garantÃ­a de que el juzgamiento sea
+efectuado por los funcionarios y Ã³rganos que, en atenciÃ³n a lo dispuesto en la
+ConstituciÃ³n, tengan la competencia para elloÂ»[173]. En otras palabras, el juez natural es Â«aquel a
+quien la ConstituciÃ³n o la ley le ha atribuido el conocimiento de determinado
+asuntoÂ»[174].
 
 203.
 Cuando la
-asignación de competencia no ha sido establecida expresamente por el
-constituyente, al legislador se le reconoce un amplio margen de configuración
-en la materia, bajo la condición de que no altere el marco funcional definido
-en la Constitución Política. Sobre esa base, la
-obligación de determinar el juez competente de manera previa por el órgano legislativo es «un derecho absoluto que no puede ser objeto de
-excepción alguna»[175]. De esta forma se permite que
-las personas conozcan de antemano el órgano judicial, el tipo de juicio y el régimen procesal a
-los que estarán sometidos, con lo cual, se preserva la seguridad jurídica y la
-confianza legítima en la administración de justicia.
+asignaciÃ³n de competencia no ha sido establecida expresamente por el
+constituyente, al legislador se le reconoce un amplio margen de configuraciÃ³n
+en la materia, bajo la condiciÃ³n de que no altere el marco funcional definido
+en la ConstituciÃ³n PolÃ­tica. Sobre esa base, la
+obligaciÃ³n de determinar el juez competente de manera previa por el Ã³rgano legislativo es Â«un derecho absoluto que no puede ser objeto de
+excepciÃ³n algunaÂ»[175]. De esta forma se permite que
+las personas conozcan de antemano el Ã³rgano judicial, el tipo de juicio y el rÃ©gimen procesal a
+los que estarÃ¡n sometidos, con lo cual, se preserva la seguridad jurÃ­dica y la
+confianza legÃ­tima en la administraciÃ³n de justicia.
 
 204.
 Sobre la misma materia, la
 Corte Interamericana de Derechos Humanos se ha pronunciado para resaltar que la
-garantía del juez natural es un elemento constitutivo
+garantÃ­a del juez natural es un elemento constitutivo
 del derecho al debido proceso[176]. En el caso *Barreto Leiva vs.
-Venezuela,* recordó que «el juez natural deriva
-su existencia y competencia de la ley»[177], por tanto «en un Estado de derecho sólo el poder legislativo puede regular,
-a través de leyes, la competencia de los juzgadores»[178].
+Venezuela,* recordÃ³ que Â«el juez natural deriva
+su existencia y competencia de la leyÂ»[177], por tanto Â«en un Estado de derecho sÃ³lo el poder legislativo puede regular,
+a travÃ©s de leyes, la competencia de los juzgadoresÂ»[178].
 
 205.
 El derecho a un juez natural a su vez se
-conforma por las siguientes tres subgarantías *(i)* juez legal previamente establecido; *(ii)* independencia
-judicial, que implica que ningún poder, ya sea estatal, particular, o de
-cualquier otra índole, como por ejemplo una IA, pueda influir en la
-consideración del caso y *(iii)* la imparcialidad frente al caso.
+conforma por las siguientes tres subgarantÃ­as *(i)* juez legal previamente establecido; *(ii)* independencia
+judicial, que implica que ningÃºn poder, ya sea estatal, particular, o de
+cualquier otra Ã­ndole, como por ejemplo una IA, pueda influir en la
+consideraciÃ³n del caso y *(iii)* la imparcialidad frente al caso.
 
 206.
 Sobre el alcance del juez
-previamente establecido, la Corte Constitucional ha señalado que se concreta
-esencialmente en dos características, la *especialidad* y la *predeterminación*.
-La primera supone que «el legislador deberá consultar como principio de
-razón suficiente la naturaleza del órgano al que atribuye las funciones
-judiciales»[179]. Por su parte, la *predeterminación* legal
-del juez que conocerá de determinados asuntos implica «i) que el órgano judicial sea previamente creado
+previamente establecido, la Corte Constitucional ha seÃ±alado que se concreta
+esencialmente en dos caracterÃ­sticas, la *especialidad* y la *predeterminaciÃ³n*.
+La primera supone que Â«el legislador deberÃ¡ consultar como principio de
+razÃ³n suficiente la naturaleza del Ã³rgano al que atribuye las funciones
+judicialesÂ»[179]. Por su parte, la *predeterminaciÃ³n* legal
+del juez que conocerÃ¡ de determinados asuntos implica Â«i) que el Ã³rgano judicial sea previamente creado
 por la ley; ii) que la competencia le haya sido atribuida previamente al hecho
-sometido a su decisión; iii) que no se trate de un juez por fuera de alguna
-estructura jurisdiccional (ex post) o establecido únicamente para el
-conocimiento de algún asunto (ad hoc); y iv) que no se someta un asunto a una
-jurisdicción especial cuando corresponde a la ordinaria o se desconozca la
-competencia que por fuero ha sido asignada a determinada autoridad judicial». De esta
-definición también se desprende la prohibición de crear jueces, juzgados o
-tribunales de excepción[180].
+sometido a su decisiÃ³n; iii) que no se trate de un juez por fuera de alguna
+estructura jurisdiccional (ex post) o establecido Ãºnicamente para el
+conocimiento de algÃºn asunto (ad hoc); y iv) que no se someta un asunto a una
+jurisdicciÃ³n especial cuando corresponde a la ordinaria o se desconozca la
+competencia que por fuero ha sido asignada a determinada autoridad judicialÂ». De esta
+definiciÃ³n tambiÃ©n se desprende la prohibiciÃ³n de crear jueces, juzgados o
+tribunales de excepciÃ³n[180].
 
 207.
-La garantía del juez legal previamente
+La garantÃ­a del juez legal previamente
 establecido busca que con anterioridad a los hechos los ciudadanos sepan el
-funcionario que va a ser el competente para conocerlos. Esta subgarantía se
-refiere por tanto a la competencia y prohíbe la creación de jueces *ad hoc* para
+funcionario que va a ser el competente para conocerlos. Esta subgarantÃ­a se
+refiere por tanto a la competencia y prohÃ­be la creaciÃ³n de jueces *ad hoc* para
 conocer de un asunto en particular, ya por la relevancia de los hechos -sean
 estos de poca o mucha importancia- o por las personas a investigar.
 
 208.
 En cuanto a la independencia y la
-imparcialidad, la doctrina ha expuesto que con dichas garantías se «trata
-de controlar los móviles del juez frente a influencias extrañas al Derecho provenientes del sistema social, la imparcialidad trata de
-controlar los móviles del juez frente a influencias extrañas al Derecho
-provenientes del proceso»[181]-[182].
+imparcialidad, la doctrina ha expuesto que con dichas garantÃ­as se Â«trata
+de controlar los mÃ³viles del juez frente a influencias extraÃ±as al Derecho provenientes del sistema social, la imparcialidad trata de
+controlar los mÃ³viles del juez frente a influencias extraÃ±as al Derecho
+provenientes del procesoÂ»[181]-[182].
 
 209.
 Es posible, por tanto, que la
@@ -2951,136 +2954,136 @@ independencia del juez, cuando utiliza una herramienta de IA como *ChatGPT*,
 puede verse afectada por los sesgos que tenga dicha herramienta, producto de
 los datos con los que esta haya sido alimentada, o que, por las mismas razones,
 no sea posible verificar la imparcialidad de una IA, si es ella quien toma la
-decisión judicial.
+decisiÃ³n judicial.
 
 210.
 De acuerdo con lo expuesto,
-podría generarse la vulneración al debido proceso, en su garantía de juez
+podrÃ­a generarse la vulneraciÃ³n al debido proceso, en su garantÃ­a de juez
 natural, si la causa es decidida no por un juez sino por una IA o si ella afecta la independencia o imparcialidad
-del juez, temas sobre los cuales se ahondará a continuación.
+del juez, temas sobre los cuales se ahondarÃ¡ a continuaciÃ³n.
 
 211.
 Por las particularidades del
 caso sometido a estudio, uno de los principales cuestionamientos que emergen a
-raíz de la posibilidad de que, mediante el uso de modelos de IA generativa, en
-específico *ChatGPT 3.5*, se confíe a estos sistemas el ejercicio total o
+raÃ­z de la posibilidad de que, mediante el uso de modelos de IA generativa, en
+especÃ­fico *ChatGPT 3.5*, se confÃ­e a estos sistemas el ejercicio total o
 parcial de la actividad judicial, es si de esta forma se sustituye al juez
-competente para adoptar la decisión judicial y, con ello, se compromete la
-validez y legitimidad de la actuación.
+competente para adoptar la decisiÃ³n judicial y, con ello, se compromete la
+validez y legitimidad de la actuaciÃ³n.
 
 212.
-Para tales efectos, según lo
-señalado, se tiene como premisa que la garantía del juez natural es uno de los
+Para tales efectos, segÃºn lo
+seÃ±alado, se tiene como premisa que la garantÃ­a del juez natural es uno de los
 componentes primordiales del derecho al debido proceso y goza de un
-reconocimiento y desarrollo sólidos, tanto en la Constitución y en la
+reconocimiento y desarrollo sÃ³lidos, tanto en la ConstituciÃ³n y en la
 jurisprudencia nacional, como en los sistemas mundial e interamericano de
-derechos humanos, tal como se señaló en líneas anteriores.
+derechos humanos, tal como se seÃ±alÃ³ en lÃ­neas anteriores.
 
 *Juez humano
 previamente establecido*
 
 213.
-En el marco de las tecnologías
-de la IA y su implementación en los sistemas judiciales, parte del contenido
-esencial de la garantía del juez natural es la condición de ser humano que debe
-asistirle al juzgador. En efecto, el diseño institucional y normativo actual no
-prevé la posibilidad de un juez máquina y, se anticipa, que ello plantearía
-problemas irresolubles en cuanto a la aplicación de principios superiores y
-garantía de derechos; en todo caso, la apelación a la decisión humana es
-insustituible, tanto como deseable que las tecnologías respetuosas de la
-dignidad sirvan al servicio público.
+En el marco de las tecnologÃ­as
+de la IA y su implementaciÃ³n en los sistemas judiciales, parte del contenido
+esencial de la garantÃ­a del juez natural es la condiciÃ³n de ser humano que debe
+asistirle al juzgador. En efecto, el diseÃ±o institucional y normativo actual no
+prevÃ© la posibilidad de un juez mÃ¡quina y, se anticipa, que ello plantearÃ­a
+problemas irresolubles en cuanto a la aplicaciÃ³n de principios superiores y
+garantÃ­a de derechos; en todo caso, la apelaciÃ³n a la decisiÃ³n humana es
+insustituible, tanto como deseable que las tecnologÃ­as respetuosas de la
+dignidad sirvan al servicio pÃºblico.
 
 214.
 Esto surge de una lectura
-armónica del texto constitucional que, al referirse a la Rama Judicial en los
-artículos 228 y siguientes, alude a una función jurisdiccional ejercida por
+armÃ³nica del texto constitucional que, al referirse a la Rama Judicial en los
+artÃ­culos 228 y siguientes, alude a una funciÃ³n jurisdiccional ejercida por
 funcionarios humanos, como se desprende, por ejemplo, de requisitos generales
-como «[s]er colombiano de
-nacimiento y ciudadano en ejercicio» o «[s]er abogado», que son
-algunos de los exigidos en la Carta Política para ejercer como magistrado de
-alta Corte. Esta afirmación se ve reforzada por el régimen constitucional de la
-función pública, contenido esencial, aunque no exclusivamente, entre los
-artículos 122 y 131 de la Constitución.
+como Â«[s]er colombiano de
+nacimiento y ciudadano en ejercicioÂ» o Â«[s]er abogadoÂ», que son
+algunos de los exigidos en la Carta PolÃ­tica para ejercer como magistrado de
+alta Corte. Esta afirmaciÃ³n se ve reforzada por el rÃ©gimen constitucional de la
+funciÃ³n pÃºblica, contenido esencial, aunque no exclusivamente, entre los
+artÃ­culos 122 y 131 de la ConstituciÃ³n.
 
 215.
-En línea con lo anterior, se
-encuentra la Ley 270 de 1996, Estatutaria de Administración de Justicia, que en
-su artículo 12 prevé que «[l]a función
+En lÃ­nea con lo anterior, se
+encuentra la Ley 270 de 1996, Estatutaria de AdministraciÃ³n de Justicia, que en
+su artÃ­culo 12 prevÃ© que Â«[l]a funciÃ³n
 jurisdiccional se ejerce como propia y habitual y de manera permanente por las
-corporaciones y personas dotadas de investidura legal para hacerlo, según se
-precisa en la Constitución Política y en la presente Ley Estatutaria». Más adelante, la misma ley, en su artículo 125, al clasificar alos servidores de la Rama Judicial según la naturaleza de sus
-funciones, indica que «[t]ienen la
+corporaciones y personas dotadas de investidura legal para hacerlo, segÃºn se
+precisa en la ConstituciÃ³n PolÃ­tica y en la presente Ley EstatutariaÂ». MÃ¡s adelante, la misma ley, en su artÃ­culo 125, al clasificar alos servidores de la Rama Judicial segÃºn la naturaleza de sus
+funciones, indica que Â«[t]ienen la
 calidad de funcionarios los magistrados de las corporaciones judiciales, los
-jueces de la República y los fiscales. Son empleados las demás personas que
-ocupen cargos en las corporaciones y despachos judiciales y en los órganos y
-entidades administrativas de la Rama Judicial». El artículo 126 de la misma normatividadcontinúa señalando
-que «[s]olamente podrá desempeñar
+jueces de la RepÃºblica y los fiscales. Son empleados las demÃ¡s personas que
+ocupen cargos en las corporaciones y despachos judiciales y en los Ã³rganos y
+entidades administrativas de la Rama JudicialÂ». El artÃ­culo 126 de la misma normatividadcontinÃºa seÃ±alando
+que Â«[s]olamente podrÃ¡ desempeÃ±ar
 cargos en la Rama Judicial quien observe una conducta acorde con la dignidad de
-la función», mientras que el 127, al
-consagrar los requisitos generales para el desempeño de cargos de funcionarios
-de la Rama Judicial, exige que todo magistrado, juez o fiscal, acredite «1. Ser colombiano de nacimiento y ciudadano en ejercicio y estar
-en pleno goce de sus derechos civiles; 2. Tener título de abogado expedido o
+la funciÃ³nÂ», mientras que el 127, al
+consagrar los requisitos generales para el desempeÃ±o de cargos de funcionarios
+de la Rama Judicial, exige que todo magistrado, juez o fiscal, acredite Â«1. Ser colombiano de nacimiento y ciudadano en ejercicio y estar
+en pleno goce de sus derechos civiles; 2. Tener tÃ­tulo de abogado expedido o
 revalidado conforme a ley, salvo el caso de los Jueces de Paz; y, 3. No estar
-incurso en causal de inhabilidad o incompatibilidad».
+incurso en causal de inhabilidad o incompatibilidadÂ».
 
 216.
 Como puede advertirse, la
-garantía del juez natural es piedra angular del ordenamiento jurídico superior
-porque es parte integral del derecho al debido proceso, pero también porque
-busca realizar atributos básicos de la función jurisdiccional como la seguridad
-jurídica, la imparcialidad, la neutralidad y la independencia en la
-administración de justicia.
+garantÃ­a del juez natural es piedra angular del ordenamiento jurÃ­dico superior
+porque es parte integral del derecho al debido proceso, pero tambiÃ©n porque
+busca realizar atributos bÃ¡sicos de la funciÃ³n jurisdiccional como la seguridad
+jurÃ­dica, la imparcialidad, la neutralidad y la independencia en la
+administraciÃ³n de justicia.
 
 217.
 Visto lo anterior, de cara a
-la salvaguarda de la garantía del juez natural, es necesario establecer si la
-implementación de la IA en la actividad jurisdiccional puede aparejar una
-sustitución del operador judicial al que constitucional o legalmente le fue
+la salvaguarda de la garantÃ­a del juez natural, es necesario establecer si la
+implementaciÃ³n de la IA en la actividad jurisdiccional puede aparejar una
+sustituciÃ³n del operador judicial al que constitucional o legalmente le fue
 atribuida la competencia de conocer un determinado asunto. Esto, entendiendo
 que la
 competencia se refiere a la facultad que tiene el juez para ejercer, por
-autoridad de la ley, una determinada función y que, en la actualidad, no existe
-en el ordenamiento jurídico interno una norma legal que regule el uso de la IA
+autoridad de la ley, una determinada funciÃ³n y que, en la actualidad, no existe
+en el ordenamiento jurÃ­dico interno una norma legal que regule el uso de la IA
 en el sistema judicial.
 
 218.
-La Sala de Revisión advierte
+La Sala de RevisiÃ³n advierte
 que la respuesta a dicho cuestionamiento implica considerar los diferentes usos
-que se le puede dar a estas tecnologías en el escenario judicial y, con ello,
-el alcance y naturaleza de su intervención en el ejercicio jurisdiccional.
+que se le puede dar a estas tecnologÃ­as en el escenario judicial y, con ello,
+el alcance y naturaleza de su intervenciÃ³n en el ejercicio jurisdiccional.
 
 219.
 De acuerdo con nuestro
-ordenamiento jurídico, el juez natural tiene que ser un humano y no una
-máquina, por lo que la IA no puede suplantar al juez en la toma de decisiones
-judiciales, pues ello implicaría la violación de la garantía del
+ordenamiento jurÃ­dico, el juez natural tiene que ser un humano y no una
+mÃ¡quina, por lo que la IA no puede suplantar al juez en la toma de decisiones
+judiciales, pues ello implicarÃ­a la violaciÃ³n de la garantÃ­a del
 juez legal previamente establecido, sin importar la complejidad del asunto
-sometido a estudio de la jurisdicción. Si la decisión judicial es tomada por
-una IA, sin valoración y determinación por parte de un juez, será invalida y se
-quebrantará el derecho fundamental al debido proceso.
+sometido a estudio de la jurisdicciÃ³n. Si la decisiÃ³n judicial es tomada por
+una IA, sin valoraciÃ³n y determinaciÃ³n por parte de un juez, serÃ¡ invalida y se
+quebrantarÃ¡ el derecho fundamental al debido proceso.
 
 220.
 Visto lo anterior, la Sala de
-Revisión concluye que se genera una violación de la garantía del juez natural
+RevisiÃ³n concluye que se genera una violaciÃ³n de la garantÃ­a del juez natural
 cuando el funcionario judicial utiliza la IA para sustituir el razonamiento
-lógico y humano que le compete realizar a efectos de interpretar los hechos,
-las pruebas, motivar la decisión e incluso adoptarla. En tales eventos habrá
-una sustitución del poder jurisdiccional por cuenta de la IA y con ello, la
-configuración de una violación al debido proceso por violación de la garantía
+lÃ³gico y humano que le compete realizar a efectos de interpretar los hechos,
+las pruebas, motivar la decisiÃ³n e incluso adoptarla. En tales eventos habrÃ¡
+una sustituciÃ³n del poder jurisdiccional por cuenta de la IA y con ello, la
+configuraciÃ³n de una violaciÃ³n al debido proceso por violaciÃ³n de la garantÃ­a
 de un juez legal previamente establecido.
 
 221.
 Por el contrario, el uso de la
-IA en el sistema judicial para los ámbitos de *gestión
-administrativa y documental,* así como el de *apoyo
-a la gestión judicial y la corrección y síntesis de largos textos,* no
-comporta una transgresión a la garantía del juez natural pues, en tales
-eventos, la utilización de estas tecnologías no remplaza la labor esencial que
+IA en el sistema judicial para los Ã¡mbitos de *gestiÃ³n
+administrativa y documental,* asÃ­ como el de *apoyo
+a la gestiÃ³n judicial y la correcciÃ³n y sÃ­ntesis de largos textos,* no
+comporta una transgresiÃ³n a la garantÃ­a del juez natural pues, en tales
+eventos, la utilizaciÃ³n de estas tecnologÃ­as no remplaza la labor esencial que
 se le ha atribuido al funcionario judicial, consistente en conocer y resolver
 de fondo el asunto para el cual fue investido de competencia. Lo anterior se
-cumple, siempre y cuando no se involucre una labor de creación de contenido ni
-interpretación de hechos o pruebas y, mucho menos, la solución de casos, y
-siempre y cuando haya una supervisión posterior por parte de algún funcionario
+cumple, siempre y cuando no se involucre una labor de creaciÃ³n de contenido ni
+interpretaciÃ³n de hechos o pruebas y, mucho menos, la soluciÃ³n de casos, y
+siempre y cuando haya una supervisiÃ³n posterior por parte de algÃºn funcionario
 o empleado de la Rama Judicial.
 
 222.
@@ -3088,47 +3091,47 @@ De esta forma, es de especial importancia
 que cuando el juez natural haga uso de herramientas de IA, para las funciones
 anteriormente definidas, se cumpla con los criterios de *(i)*
 responsabilidad, *(ii)* guarda del principio de legalidad y *(iii)*
-idoneidad. Además, no sobra advertir que tratándose de una materia que se
+idoneidad. AdemÃ¡s, no sobra advertir que tratÃ¡ndose de una materia que se
 caracteriza por un desarrollo permanente y veloz, la
-pertinencia de estas consideraciones debe valorarse en el tiempo, según la
-evolución que se produzca en los ámbitos de regulación normativa y, por
-supuesto, en el tecnológico.
+pertinencia de estas consideraciones debe valorarse en el tiempo, segÃºn la
+evoluciÃ³n que se produzca en los Ã¡mbitos de regulaciÃ³n normativa y, por
+supuesto, en el tecnolÃ³gico.
 
 223.
-En efecto, tratándose del servicio de
-justicia, estas tecnologías eventualmente podrían utilizarse con fines de *(i)
-gestión administrativa y documental* (p. ej. reparto, agenda para la
-programación de diligencias, digitalización y clasificación de expedientes,
-sistemas de relatoría y motores de búsqueda de jurisprudencia); *(ii) apoyo a
-la función judicial,* en actividades que no suponen una labor de creación de
-contenido ni interpretación de hechos o textos, ni solución de casos, como en
+En efecto, tratÃ¡ndose del servicio de
+justicia, estas tecnologÃ­as eventualmente podrÃ­an utilizarse con fines de *(i)
+gestiÃ³n administrativa y documental* (p. ej. reparto, agenda para la
+programaciÃ³n de diligencias, digitalizaciÃ³n y clasificaciÃ³n de expedientes,
+sistemas de relatorÃ­a y motores de bÃºsqueda de jurisprudencia); *(ii) apoyo a
+la funciÃ³n judicial,* en actividades que no suponen una labor de creaciÃ³n de
+contenido ni interpretaciÃ³n de hechos o textos, ni soluciÃ³n de casos, como en
 el caso de la herramienta Pretoria aplicado por esta Corte Constitucional en
-materia de seguimiento a procesos por acción de tutela (p. ej. referenciación
-de jurisprudencia, seguimiento de líneas jurisprudenciales, análisis de datos
-estadísticos, identificación de temas repetitivos, interacción
+materia de seguimiento a procesos por acciÃ³n de tutela (p. ej. referenciaciÃ³n
+de jurisprudencia, seguimiento de lÃ­neas jurisprudenciales, anÃ¡lisis de datos
+estadÃ­sticos, identificaciÃ³n de temas repetitivos, interacciÃ³n
 con usuarios del Poder Judicial, contestando dudas de los usuarios mediante un
 banco de preguntas frecuentes preestablecidas)
-; y *(iii) corrección y síntesis de textos,* siempre y cuando, estos sean
-supervisados posteriormente por el operador jurídico para determinar su
-precisión, coherencia y correcta aplicación. El
+; y *(iii) correcciÃ³n y sÃ­ntesis de textos,* siempre y cuando, estos sean
+supervisados posteriormente por el operador jurÃ­dico para determinar su
+precisiÃ³n, coherencia y correcta aplicaciÃ³n. El
 uso de la IA para los anteriores fines tiene el potencial de mejorar el bienestar
-de los funcionarios públicos de la Rama Judicial y de los ciudadanos que hacen
-uso de este servicio, pues permite que la prestación del servicio judicial sea
-más eficiente y eficaz. Sin duda, progresivamente la justicia sin perder su
-majestad e independencia, habrá de caber en un terminal de comunicación
-personal, dentro de una red tecnológica que le sirva de sustento, a tiempo con
-el avance de una sociedad cada vez con mayor digitalización.
+de los funcionarios pÃºblicos de la Rama Judicial y de los ciudadanos que hacen
+uso de este servicio, pues permite que la prestaciÃ³n del servicio judicial sea
+mÃ¡s eficiente y eficaz. Sin duda, progresivamente la justicia sin perder su
+majestad e independencia, habrÃ¡ de caber en un terminal de comunicaciÃ³n
+personal, dentro de una red tecnolÃ³gica que le sirva de sustento, a tiempo con
+el avance de una sociedad cada vez con mayor digitalizaciÃ³n.
 
 224.
 En este punto, cabe reiterar que no puede
-pasarse por alto que la IA ha contribuido en la realización y armonización de
+pasarse por alto que la IA ha contribuido en la realizaciÃ³n y armonizaciÃ³n de
 diversas actividades en la sociedad. Dentro de los beneficios de este tipo de
 herramientas para el trabajo de los servidores judiciales se encuentra la
-eficiencia y agilidad en la resolución de conflictos, por cuanto los sistemas
-de IA generativa logran dar respuesta a búsquedas con mayor rapidez, pueden
-generar y discriminar información y permiten predicciones con mayor facilidad.
-Consecuentemente, esto puede ser benéfico en temas de productividad, ya que, al
-lograr recopilar, organizar y sintetizar información hay un mayor
+eficiencia y agilidad en la resoluciÃ³n de conflictos, por cuanto los sistemas
+de IA generativa logran dar respuesta a bÃºsquedas con mayor rapidez, pueden
+generar y discriminar informaciÃ³n y permiten predicciones con mayor facilidad.
+Consecuentemente, esto puede ser benÃ©fico en temas de productividad, ya que, al
+lograr recopilar, organizar y sintetizar informaciÃ³n hay un mayor
 aprovechamiento del tiempo.
 
 *Juez
@@ -3136,4594 +3139,142 @@ independiente e imparcial*
 
 225.
 Sin embargo, poder utilizar la
-IA como apoyo a la función judicial implica un alto riesgo, en específico a las
-garantías de un juez independiente e imparcial.
+IA como apoyo a la funciÃ³n judicial implica un alto riesgo, en especÃ­fico a las
+garantÃ­as de un juez independiente e imparcial.
 
 226.
 En cuanto al juez
-independiente, la Constitución Política prevé un amplio catálogo de preceptos que
-reconocen expresamente la independencia en el ejercicio de la función
+independiente, la ConstituciÃ³n PolÃ­tica prevÃ© un amplio catÃ¡logo de preceptos que
+reconocen expresamente la independencia en el ejercicio de la funciÃ³n
 jurisdiccional y consagran modelos procesales e institucionales que aseguran
-este principio. Según el artículo 2.º superior, dos de los fines del Estado son
-el de asegurar la convivencia pacífica y la vigencia de un orden justo. El
-artículo 228 establece que las decisiones de la administración de justicia son
-independientes y el 230 siguiente reza que «los jueces, en sus providencias, sólo están
-sometidos al imperio de la ley».
+este principio. SegÃºn el artÃ­culo 2.Âº superior, dos de los fines del Estado son
+el de asegurar la convivencia pacÃ­fica y la vigencia de un orden justo. El
+artÃ­culo 228 establece que las decisiones de la administraciÃ³n de justicia son
+independientes y el 230 siguiente reza que Â«los jueces, en sus providencias, sÃ³lo estÃ¡n
+sometidos al imperio de la leyÂ».
 
 227.
 En la Sentencia C-288 de 2012,
-la Corte Constitucional recordó que los principios de autonomía e independencia
-judicial constituyen una expresión directa e inmediata del principio de
-separación de poderes y un componente esencial del ordenamiento jurídico. Por
-lo demás, ambos principios son garantía de imparcialidad, que a su vez es el
-fundamento de la administración de justicia, por tanto, son componentes
+la Corte Constitucional recordÃ³ que los principios de autonomÃ­a e independencia
+judicial constituyen una expresiÃ³n directa e inmediata del principio de
+separaciÃ³n de poderes y un componente esencial del ordenamiento jurÃ­dico. Por
+lo demÃ¡s, ambos principios son garantÃ­a de imparcialidad, que a su vez es el
+fundamento de la administraciÃ³n de justicia, por tanto, son componentes
 esenciales del derecho a un juez natural.
 
 228.
 Por su parte, mediante
-Sentencia T-450 de 2018, la corporación también indicó que tales principios
-suponen la resolución de asuntos judiciales de forma motivada y bajo estricto
-cumplimiento de la ley. Particularmente, señaló:
+Sentencia T-450 de 2018, la corporaciÃ³n tambiÃ©n indicÃ³ que tales principios
+suponen la resoluciÃ³n de asuntos judiciales de forma motivada y bajo estricto
+cumplimiento de la ley. Particularmente, seÃ±alÃ³:
 
 [C]omo
-correlato necesario de la independencia y autonomía de los jueces, surge el
-deber de estos últimos de materializar el derecho al debido proceso de los
-administrados, mediante la motivación de sus decisiones y la garantía de que
-las mismas sean el resultado exclusivo de la aplicación de la ley al caso
+correlato necesario de la independencia y autonomÃ­a de los jueces, surge el
+deber de estos Ãºltimos de materializar el derecho al debido proceso de los
+administrados, mediante la motivaciÃ³n de sus decisiones y la garantÃ­a de que
+las mismas sean el resultado exclusivo de la aplicaciÃ³n de la ley al caso
 particular. Esto significa que la validez y la legitimidad de las providencias
-judiciales está mediada, entre otras cosas, por la garantía de que las mismas
-obedecen únicamente a la aplicación del derecho positivo al caso concreto que
-se somete a consideración del operador, y de que, por consiguiente, este será
-ajeno a cualquier interés de las partes involucradas en la controversia de que
-se trate, a las demás instancias internas dentro de la propia organización
+judiciales estÃ¡ mediada, entre otras cosas, por la garantÃ­a de que las mismas
+obedecen Ãºnicamente a la aplicaciÃ³n del derecho positivo al caso concreto que
+se somete a consideraciÃ³n del operador, y de que, por consiguiente, este serÃ¡
+ajeno a cualquier interÃ©s de las partes involucradas en la controversia de que
+se trate, a las demÃ¡s instancias internas dentro de la propia organizaciÃ³n
 judicial y, en general, frente a todo sistema de poderes. Ello, sin duda
-alguna, deviene en una garantía vital para la materialización de la
+alguna, deviene en una garantÃ­a vital para la materializaciÃ³n de la
 objetividad, neutralidad, imparcialidad y justicia material que debe revestir
 las decisiones judiciales
 
 229.
 Con base en
-lo anterior, concluyó que la autonomía e independencia judicial comportan tres
-atributos básicos en nuestro ordenamiento superior: «*i)* [u]n primer atributo, cuya connotación
+lo anterior, concluyÃ³ que la autonomÃ­a e independencia judicial comportan tres
+atributos bÃ¡sicos en nuestro ordenamiento superior: Â«*i)* [u]n primer atributo, cuya connotaciÃ³n
 es esencialmente negativa, entiende dicho principio como la posibilidad del juez
 de aplicar el derecho libre de interferencias tanto internas como externas; *ii)*
-un segundo atributo que lo erige en presupuesto y condición del principio de
-separación de poderes, del derecho al debido proceso y de la materialización
-del derecho de acceso, a la administración de justicia de la ciudadanía; y,
+un segundo atributo que lo erige en presupuesto y condiciÃ³n del principio de
+separaciÃ³n de poderes, del derecho al debido proceso y de la materializaciÃ³n
+del derecho de acceso, a la administraciÃ³n de justicia de la ciudadanÃ­a; y,
 finalmente, *iii)* un tercer atributo que lo instituye en un principio
-estructural de la Carta Política de 1991».
+estructural de la Carta PolÃ­tica de 1991Â».
 
 230.
 En suma, el derecho al juez
 natural independiente hace parte esencial del derecho fundamental al debido
 proceso. Estos postulados suponen el derecho de las personas a tener un juicio
 impartido por un juez independiente, imparcial y sin influencia de otros
-poderes. También, exigen que las decisiones judiciales no estén determinadas
+poderes. TambiÃ©n, exigen que las decisiones judiciales no estÃ©n determinadas
 por sesgos o prejuicios personales, ni mediadas por intereses particulares. De
-este modo, las decisiones judiciales serán el resultado exclusivo de la
-aplicación de la ley.
+este modo, las decisiones judiciales serÃ¡n el resultado exclusivo de la
+aplicaciÃ³n de la ley.
 
 231.
-Como se dijo en líneas anteriores, es posible que la independencia del juez, cuando utiliza una
+Como se dijo en lÃ­neas anteriores, es posible que la independencia del juez, cuando utiliza una
 herramienta de IA, se vea afectada por los sesgos que tenga dicha herramienta
 producto de los datos con los que esta haya sido alimentada.
 
 232.
-La evaluación sobre el respeto
-de la garantía del juez independiente e imparcial puede verse afectada por un
-mal uso de la IA en la práctica judicial. En efecto, este fue un factor
-determinante para que el Reglamento de Inteligencia Artificial de la Unión Europea definiera el
-alcance de las IA relacionadas con la administración de justicia, a las que
-catalogó de alto riesgo. Sobre el particular, en los considerandos del
-proyecto, se explicó que «[a]
+La evaluaciÃ³n sobre el respeto
+de la garantÃ­a del juez independiente e imparcial puede verse afectada por un
+mal uso de la IA en la prÃ¡ctica judicial. En efecto, este fue un factor
+determinante para que el Reglamento de Inteligencia Artificial de la UniÃ³n Europea definiera el
+alcance de las IA relacionadas con la administraciÃ³n de justicia, a las que
+catalogÃ³ de alto riesgo. Sobre el particular, en los considerandos del
+proyecto, se explicÃ³ que Â«[a]
 fin de hacer frente al riesgo de posibles sesgos, errores y opacidades, procede
 clasificar como de alto riesgo aquellos sistemas de IA destinados a ser
 utilizados por una autoridad judicial o en su nombre para ayudar a las
 autoridades judiciales a investigar e interpretar los hechos y el Derecho y a
-aplicar la ley a unos hechos concretos»[183].También incluyó como de alto riesgo el uso
-de la IA«por
-los organismos de resolución alternativa de litigios con esos fines, cuando los
-resultados de los procedimientos de resolución alternativa de litigios surtan
-efectos jurídicos para las partes»[184].
+aplicar la ley a unos hechos concretosÂ»[183].TambiÃ©n incluyÃ³ como de alto riesgo el uso
+de la IAÂ«por
+los organismos de resoluciÃ³n alternativa de litigios con esos fines, cuando los
+resultados de los procedimientos de resoluciÃ³n alternativa de litigios surtan
+efectos jurÃ­dicos para las partesÂ»[184].
 
 233.
-Al respecto, señaló que«[l]a utilización de herramientas de IA
-puede apoyar el poder de decisión de los jueces o la independencia judicial,
+Al respecto, seÃ±alÃ³ queÂ«[l]a utilizaciÃ³n de herramientas de IA
+puede apoyar el poder de decisiÃ³n de los jueces o la independencia judicial,
 pero no debe substituirlas: la toma de decisiones finales debe seguir siendo
-una actividad humana»[185].
+una actividad humanaÂ»[185].
 
 234.
-Téngase en cuenta que la motivación de las
+TÃ©ngase en cuenta que la motivaciÃ³n de las
 providencias es una consecuencia del deber de los servidores judiciales de
 explicar razonadamente sus determinaciones, en un sistema como el nuestro,
-fundamentado en decisiones jurídicas y no de conciencia, punto sobre el cual la
+fundamentado en decisiones jurÃ­dicas y no de conciencia, punto sobre el cual la
 Corte Constitucional ha precisado que:
 
-La motivación de los fallos judiciales es un deber de los
-jueces y un derecho fundamental de los ciudadanos, como posición jurídica
+La motivaciÃ³n de los fallos judiciales es un deber de los
+jueces y un derecho fundamental de los ciudadanos, como posiciÃ³n jurÃ­dica
 concreta derivada del debido proceso. Desde el punto de vista del operador
-judicial, la motivación consiste en un ejercicio argumentativo por medio del
-cual el juez establece la interpretación de las disposiciones normativas, de
-una parte, y determina cómo, a partir de los elementos de convicción aportados
-al proceso y la hipótesis de hecho que se construye con base en esos elementos,
+judicial, la motivaciÃ³n consiste en un ejercicio argumentativo por medio del
+cual el juez establece la interpretaciÃ³n de las disposiciones normativas, de
+una parte, y determina cÃ³mo, a partir de los elementos de convicciÃ³n aportados
+al proceso y la hipÃ³tesis de hecho que se construye con base en esos elementos,
 es posible subsumir el caso concreto en el supuesto de hecho de una regla
-jurídica aplicable al caso. En el estado constitucional de derecho, la
-motivación adquiere mayor importancia. La incidencia de los derechos
-fundamentales en todas las áreas del derecho y la obligación de los jueces y
-operadores jurídicos de aplicar las reglas legales y/o reglamentarias sólo en
-la medida en que sean conformes con la Carta Política (aspectos conocidos en la
-doctrina constitucional como efecto irradiación, interpretación conforme y
-carácter normativo de la Constitución) exigen del juez un ejercicio
-interpretativo calificado que dé cuenta del ajuste entre su interpretación y
+jurÃ­dica aplicable al caso. En el estado constitucional de derecho, la
+motivaciÃ³n adquiere mayor importancia. La incidencia de los derechos
+fundamentales en todas las Ã¡reas del derecho y la obligaciÃ³n de los jueces y
+operadores jurÃ­dicos de aplicar las reglas legales y/o reglamentarias sÃ³lo en
+la medida en que sean conformes con la Carta PolÃ­tica (aspectos conocidos en la
+doctrina constitucional como efecto irradiaciÃ³n, interpretaciÃ³n conforme y
+carÃ¡cter normativo de la ConstituciÃ³n) exigen del juez un ejercicio
+interpretativo calificado que dÃ© cuenta del ajuste entre su interpretaciÃ³n y
 los mandatos superiores, y que le permita, mediante el despliegue de una
-argumentación que tome en cuenta todos los factores relevantes, administrar el
+argumentaciÃ³n que tome en cuenta todos los factores relevantes, administrar el
 pluralismo de los principios constitucionales[186]
 
 235.
-La Sala de Casación Civil de la Corte
-Suprema de Justicia, sobre el deber de motivar las decisiones, señaló lo
+La Sala de CasaciÃ³n Civil de la Corte
+Suprema de Justicia, sobre el deber de motivar las decisiones, seÃ±alÃ³ lo
 siguiente:
 
-Memórese
-que, dentro de las distintas clases de vías de hecho estructuradas por la
+MemÃ³rese
+que, dentro de las distintas clases de vÃ­as de hecho estructuradas por la
 jurisprudencia constitucional, se encuentra aquella relacionada con la falta de
-motivación[187]
-de la decisión cuestionada. Pues bien, como bien se sabe, esta propende por la
+motivaciÃ³n[187]
+de la decisiÃ³n cuestionada. Pues bien, como bien se sabe, esta propende por la
 salvaguarda del derecho de los ciudadanos a obtener respuestas suficientes y
-razonadas de la administración de justicia, cuestión que, valga decirlo,
-permite ejercer debidamente su derecho de contradicción.
+razonadas de la administraciÃ³n de justicia, cuestiÃ³n que, valga decirlo,
+permite ejercer debidamente su derecho de contradicciÃ³n.
 
 Es
-por ello que la Sala ha señalado al respecto que *“[e]l deber de motivar toda
-providencia que no tenga por única finalidad impulsar el trámite, reclama, como
-presupuesto sine qua non, que la jurisdicción haga públicas las razones que ha
-tenido en cuenta al adoptar la respectiva resolución, de tal manera que tras
-conocerlas se tenga noticia de su contenido para que no aparezca arbitraria,
-caprichosa, antojadiza, sino producto del análisis objetivo, amén de reflexivo
-de los diferentes elementos de juicio incorporados al plenario y dentro del
-marco trazado por el objeto y la causa del proceso”**[188]***
-
-Así
-mismo, en reciente jurisprudencia apuntaló que: *“Varios principios y
-derechos en los regímenes democráticos imponen la obligatoriedad de motivar la
-sentencia judicial: el de publicidad porque asegura la contradicción del fallo
-y muestra la transparencia con que actúan los jueces, pues si hay silencio en
-las causas de la decisión no habrá motivos para impugnar; el de racionalidad
-para disuadir el autoritarismo y la arbitrariedad; el de legalidad porque el
-fallo debe estar afincado en las en las normas aplicables al caso y en las
-pruebas válidamente recaudadas; los de seguridad jurídica y confianza legítima
-y debido proceso, entre otros, para materializar el principio de igualdad y
-aquilatar el Estado Constitucional.*
-
-*“El
-deber de motivar toda providencia que no tenga por única finalidad impulsar el
-trámite, reclama, como presupuesto sine qua non, que la jurisdicción haga
-públicas las razones que ha tenido en cuenta al adoptar la respectiva
-resolución, de tal manera que tras conocérselas se tenga noticia de su
-contenido para que no aparezca arbitraria, caprichosa, antojadiza, sino
-producto del análisis objetivo, amén de reflexivo de los diferentes elementos
-de juicio incorporados al plenario y dentro del marco trazado por el objeto y
-la causa del proceso”*[189]-[190]
-
-236.
-Como puede observarse, la falta de
-motivación es una figura que ha sido ampliamente estudiada por la doctrina y
-por la jurisprudencia, la cual ha sostenido que se presenta cuando *(i)*
-la decisión carece totalmente de motivación; *(ii)* cuando siendo
-motivada, es dilógica o ambivalente; *(iii)* cuando su motivación es
-incompleta y *(iv)* cuando la
-motivación es aparente, falsa o sofística.
-
-237.
-La ausencia de motivación
-se configura cuando no se precisan las razones de orden probatorio y jurídico
-que soportan la decisión; la motivación es ambivalente cuando acoge posturas
-contradictorias que impiden conocer su verdadero sentido, o las consideraciones
-expuestas son contrarias a la determinación adoptada en la parte resolutiva; es
-precaria o incompleta la motivación, cuando se omite analizar algún aspecto
-sustancial o las razones argüidas no alcanzan a traslucir el fundamento de la
-decisión y es aparente, falsa o sofística, cuando se aparta abiertamente de la
-verdad probada, por suposición, supresión o tergiversación de pruebas que
-objetivamente conducen a una conclusión jurídica diversa.
-
-238.
-La falsedad de una
-motivación en una providencia judicial, en lo que tiene que ver con el uso de
-IA, se puede dar cuando esta produce alucinaciones que no son advertidas por el
-funcionario judicial, lo cual puede generar la violación al derecho fundamental
-del debido proceso.
-
-239.
-El anterior riesgo debe ser evaluado por
-los funcionarios judiciales al momento de decidir su uso como fuente de ayuda,
-consulta, ampliación de la información, etc. Si bien la congestión del sistema
-judicial en Colombia y las fallas estructurales que hay en el mismo son
-barreras para que se acceda de manera idónea a la administración de justicia,
-las soluciones a esta problemática no deben producir impactos negativos sobre
-la calidad de las decisiones judiciales, ni menos sobre la efectividad de los
-derechos fundamentales comprometidos en su adopción.
-
-240.
-No se puede perder de vista que la
-adopción de herramientas tecnológicas en la actividad judicial debe seguir
-plenamente el respeto por la Constitución, sus lineamientos y la salvaguarda de
-los derechos fundamentales, para que se garantice el acceso a la administración
-de justicia, el debido proceso, la igualdad y el derecho
-a la intimidad y la privacidad.
-
-241.
-Teniendo en cuenta todo lo anterior, los
-jueces o magistrados tendrán a la mano una herramienta que puede facilitar una
-primera etapa de búsqueda, análisis, recopilación y síntesis de información,
-dependiendo del caso de estudio y, posteriormente, una posible ayuda en
-redacción, síntesis y lenguaje respecto del texto. Sin embargo, aunque existe
-el potencial de apoyar en la identificación de patrones de decisión y mejorar
-la coherencia en los fallos, también se generan importantes riesgos sobre el
-particular.
-
-242.
-Como se señaló anteriormente, la IA puede
-producir contenido textual que no tiene sentido o que es gramaticalmente
-incorrecto. Estos resultados son causados por diferentes factores, tales como *(i)*
-que el modelo no está entrenado con suficientes datos, *(ii)* el modelo se
-ha entrenado con datos ruidosos o sucios[191],
-*(iii)* el modelo no tiene suficiente contexto y *(iv)* el modelo no
-tiene suficientes restricciones.
-
-243.
-En el caso de *ChatGPT 3.5*, esta
-plataforma utiliza una base de datos que ha sido alimentada de fuentes
-públicas, datos de terceros con licencia e información creada por revisores
-humanos, lo cual, en principio, no garantiza que la información esté
-actualizada o sea relevante para el contexto nacional en términos de idioma,
-contexto social, cultural y/o económico[192].
-Varios de los intervinientes[193]
-reiteran la necesidad de analizar la información arrojada por la IA de forma
-tal que no se llegue a caer en imprecisiones y en conceptos que tengan factores
-comunes y mayor recurrencia en internet, pero que desconocen el contexto y la
-especificidad de los asuntos por considerar.
-
-244.
-Además, es necesario tener en cuenta que *ChatGPT
-3.5* no es una herramienta licenciada para la administración de justicia
-estatal y que sus respuestas no corresponden a un ejercicio razonado y
-especializado de ponderación en derecho. Esto implica que no se tiene un
-control sobre su diseño, conocimiento sobre la información por la que fue
-entrenada y la forma en la que la procesa, ni el acceso a ella para conocer o
-modificar su algoritmo[194].
-
-245.
-Así, cuando se haga uso de este tipo de tecnologías
-el usuario debe asegurarse que el modelo adquirido esté entrenado con datos
-recientes, suficientes y relevantes para el caso nacional y el contexto
-correspondiente, lo cual no es el caso de *ChatGPT 3.5*. De lo contrario,
-si se hace una búsqueda de jurisprudencia o de revisión de literatura para
-sustanciar una decisión, pueden darse resultados erróneos, falsos o inexactos,
-con sesgos no controlados ni transparentes, que al final se pueden traducir en
-afectaciones a los derechos. Por tanto, el uso de un sistema sobre el que no se
-tiene ningún tipo de control y que además implica un conocimiento limitado,
-representa mayores riesgos para la identificación de alucinaciones[195]-[196]
-en las que puede incurrir la IA. De allí que se exija que el funcionario judicial
-que use estas herramientas y, por lo tanto se apoye en información generada por
-la IA, deba cumplir con un estándar alto de
-verificación para la veracidad en cuanto a las fuentes y datos suministrados
-por la máquina y, adicionalmente, se actualice respecto de la
-información consultada[197].
-
-246.
-Lo anterior cobra especial relevancia,
-bajo el entendido de que la administración de justicia requiere que se cumpla
-con una alta diligencia de verificación de la veracidad y fiabilidad de la
-información consultada por el juez y su personal de apoyo. No es admisible que,
-bajo la excusa de una aparente eficiencia y necesidad de descongestionar el
-aparato jurisdiccional, se admita la inclusión en las providencias judiciales
-de textos generados por la IA, sin ningún tipo de control. El juez que así
-proceda incumple con su responsabilidad en la motivación de su decisión, dado
-que estaría incorporando datos o argumentos que pueden ser contrarios a la
-realidad y producto de *alucinaciones* provenientes de una herramienta
-tecnológica.
-
-247.
-La anterior situación se evidencia en la
-diligencia de consulta en la plataforma *ChatGPT,* versión 3.5.[198]
-que se practicó en sede de revisión, en la que tres
-funcionarios del despacho sustanciador iniciaron sesión en dicha herramienta
-desde dispositivos y cuentas distintas para realizar las preguntas que formuló
-el *Juez del Circuito*, con tres enfoques diferenciados. Uno de los servidores planteó
-exactamente los mismos interrogantes, otro contextualizó al sistema antes de
-cada pregunta indicándole «soy un juez
-laboral de la República de Colombia», y
-un tercero, hizo lo propio identificándose como estudiante de derecho de una
-universidad en Colombia. A continuación, se
-transcribirán tanto las preguntas como las respuestas que le suministró *ChatGPT*
-al juez de tutela de segunda instancia, al funcionario del despacho
-sustanciador que realizó las mismas preguntas y a aquel que le manifestó ser un
-juez laboral en Colombia[199].
-
-| | | |
-| --- | --- | --- |
-| **Pregunta a *ChatGPT*** ¿**Menor autista esta exonerado de pagar cuotas moderadoras en sus terapias**? | | |
-| **Respuesta sentencia objeto de revisión** | **Respuesta Corte** **(pregunta idéntica)** | **Respuesta (pregunta contexto juez colombiano)** |
-| Sí, es correcto. De acuerdo con la normativa en Colombia, los menores con diagnóstico de autismo están exonerados de pagar cuotas moderadoras en sus terapias. Este beneficuento (sic) está regulado por la Ley 1753 de 2015 y se aplica a todas las instituciones prestadoras de servicios de salud públicas o privadas que reciban recursos del sistema general de seguridad social en salud. | La exoneración de pagar cuotas moderadoras en terapias para personas con autismo puede variar según el país y las políticas específicas de salud pública. En algunos lugares, las personas con discapacidad, incluidos aquellos con autismo, pueden estar exentas de pagar ciertas tarifas médicas o pueden tener acceso a subsidios especiales para cubrir los costos de tratamiento. Para obtener información precisa sobre este tema en un país específico, se recomienda consultar con el sistema de salud local o con organizaciones gubernamentales relacionadas con la discapacidad. Además, es importante tener en cuenta que las leyes y políticas pueden cambiar con el tiempo, por lo que es útil buscar información actualizada. | En Colombia, la normativa relacionada con la atención médica, incluyendo las cuotas moderadoras y copagos, está regulada por el Sistema General de Seguridad Social en Salud (SGSSS). Según la Ley 100 de 1993 y sus reformas posteriores, así como las normativas adicionales emitidas por el Ministerio de Salud y Protección Social, se establece que las personas con discapacidad tienen derecho a recibir atención médica integral sin discriminación. En este sentido, la exoneración de las cuotas moderadoras para personas con discapacidad, incluidos los menores autistas, puede depender de varios factores, como el tipo de discapacidad, la situación económica del paciente y su familia, entre otros. Es importante consultar con un abogado especializado en derecho de la salud o con las autoridades competentes del sistema de salud en Colombia para obtener una orientación precisa sobre este tema, ya que las regulaciones pueden variar y pueden existir disposiciones específicas en determinadas regiones o instituciones de salud. |
-
-| | | |
-| --- | --- | --- |
-| **Pregunta a *ChatGPT*** ¿**Las acciones de tutela en estos casos se deben conceder**? | | |
-| **Respuesta sentencia objeto de revisión** | **Respuesta Corte** **(pregunta idéntica)** | **Respuesta (pregunta contexto juez colombiano)** |
-| En caso de que una institución prestadora de servicios de salud no cumpla con la exoneración de cuotas moderadoras para un menor con diagnóstico de autismo, la persona o sus representantes legales pueden presentar una acción de tutela para proteger sus derechos. La tutela es un mecanismo judicial rápido y eficaz para proteger derechos fundamentales que se ven vulnerados. Si se demuestra que el derecho a la salud del menor con autismo está siendo afectado por la exigencia de pagar cuotas moderadoras, es probable que la acción de tutela sea concedida y se ordene a la institución prestadora de servicios de salud cumplir con la exoneración. Sin embargo, cada caso es único y la decisión final depende de los hechos y circunstancias específicas del caso. | Las acciones de tutela o recursos judiciales similares pueden ser una vía para buscar la protección de los derechos de las personas con autismo en relación con el acceso a la atención médica y los servicios terapéuticos. En muchos países, las personas con discapacidad tienen derechos legales protegidos que garantizan su acceso a servicios de salud y atención médica adecuada. Sin embargo, la concesión de una acción de tutela o recurso judicial específico dependerá de las leyes y regulaciones del país en cuestión, así como de las circunstancias individuales del caso. En general, las acciones de tutela pueden ser concedidas si se puede demostrar que los derechos de la persona con autismo están siendo violados y que existe una necesidad legítima de intervención judicial para proteger esos derechos. Es importante buscar asesoramiento legal específico o consultar con un abogado especializado en derechos de discapacidad en su país para obtener orientación sobre las opciones disponibles y los pasos a seguir en casos particulares de acceso a la atención médica y servicios terapéuticos para personas con autismo. | Como juez laboral en la República de Colombia, las acciones de tutela pueden ser un recurso válido en casos donde se considere que se está vulnerando el derecho a la salud de un menor autista al exigirle el pago de cuotas moderadoras en sus terapias. La tutela es un mecanismo legal que protege los derechos fundamentales de las personas cuando estos están siendo amenazados o vulnerados por parte de autoridades públicas o particulares. En el caso específico de un menor autista que requiere terapias para su desarrollo y bienestar, si se demuestra que la imposición de cuotas moderadoras obstaculiza el acceso a dichas terapias y, por lo tanto, vulnera su derecho a la salud, podría ser procedente presentar una acción de tutela. Sin embargo, cada caso debe evaluarse individualmente y es necesario considerar todos los elementos y circunstancias específicas antes de tomar una decisión. Como juez laboral, tu función será analizar detalladamente la situación presentada, evaluar si efectivamente se están vulnerando derechos fundamentales y, en caso afirmativo, tomar las medidas necesarias para restablecerlos. Siempre es recomendable buscar asesoramiento legal especializado para abordar correctamente estos casos y asegurar el debido proceso. |
-
-| | |
-| --- | --- |
-| **Pregunta a *ChatGPT* ¿Exigir en estos casos la cuota moderadora es una barrera de acceso al servicio de salud?**[200]**** | |
-| **Respuesta sentencia objeto de revisión** | **Respuesta (pregunta contexto juez colombiano)** |
-| Sí, en algunos casos, la exigencia de pagar cuotas moderadoras puede ser una barrera de acceso al servicio de salud para personas con diagnóstico de autismo, especialmente si tienen dificultades para obtener ingresos o si su situación económica esprecaria. La exigencia de pagar cuotas moderadoras puede impedir o dificultar el acceso a tratamientos y terapias esenciales para el bienestar y desarrollo de los niños con autismo. Por esta razón, la normativa en Colombia exime a los menores con diagnóstico de autismo de pagar cuotas moderadoras en sus terapias, con el objetivo de garantizar el acceso a estos servicios de salud esenciales sin obstáculos financieros*.* | Como juez laboral en la República de Colombia, determinar si exigir la cuota moderadora en casos de terapias para menores autistas constituye una barrera de acceso al servicio de salud dependerá de las circunstancias específicas de cada caso. La cuota moderadora es un mecanismo establecido por el Sistema General de Seguridad Social en Salud (SGSSS) para financiar parcialmente los servicios de salud y, en principio, no debería constituir una barrera para acceder a la atención médica. Sin embargo, en situaciones donde se evidencie que el pago de la cuota moderadora representa una carga financiera excesiva para la familia del menor autista, y que esta carga impide o dificulta significativamente su acceso a las terapias necesarias para su desarrollo y bienestar, podría considerarse como una barrera de acceso al servicio de salud. Es importante tener en cuenta que en casos donde se involucra a personas con discapacidad, como los menores autistas, se debe garantizar el principio de igualdad y no discriminación en el acceso a los servicios de salud. Por lo tanto, como juez laboral, deberás evaluar si la exigencia de la cuota moderadora en el caso específico representa una limitación injustificada para el acceso a las terapias necesarias para el menor autista, y en caso afirmativo, podrías considerar que constituye una barrera de acceso al servicio de salud. |
-
-| | | |
-| --- | --- | --- |
-| **Pregunta a *ChatGPT* ¿La jurisprudencia de la corte constitucional (sic) ha tomado decisiones favorables en casos similares?** | | |
-| **Respuesta sentencia objeto de revisión** | **Respuesta Corte** **(pregunta idéntica)** | **Respuesta (pregunta contexto juez colombiano)** |
-| Sí, es cierto. La Corte Constitucional de Colombia ha tomado decisiones favorables en casos similares relacionados con la exoneración de cuotas moderadoras para personas con diagnóstico de autismo. La jurisprudencia ha reconocido la importancia de garantizar el acceso a servicios de salud esenciales para las personas con autismo, y ha sostenido que la exigencia de pagar cuotas moderadoras puede ser una barrera de acceso a estos servicios. La jurisprudencia de la Corte Constitucional es una fuente importante para interpretar y aplicar la Constitución y las leyes en Colombia, y sus decisiones son vinculantes para todas las autoridades y entidades públicas del país. Por lo tanto, las decisiones favorables en casos similares pueden ser útiles como precedente para otros casos en los que se debata la exigencia de pagar cuotas moderadoras para personas con diagnóstico de autismo. | No tengo acceso en tiempo real a bases de datos o jurisprudencia específica de ningún país o corte. Sin embargo, en muchos países, las cortes constitucionales han tomado decisiones favorables en casos relacionados con los derechos de las personas con discapacidad, incluidas aquellas con autismo, en términos de acceso a servicios de salud y terapias. Es posible que la jurisprudencia de la corte constitucional de un país haya establecido precedentes favorables en casos similares, reconociendo el derecho de las personas con autismo a recibir atención médica adecuada y terapias necesarias sin discriminación. Estas decisiones pueden basarse en los principios constitucionales de igualdad, no discriminación y protección de los derechos de las personas con discapacidad. Para obtener información específica sobre decisiones judiciales en casos de este tipo, se recomienda consultar directamente las bases de datos de jurisprudencia del país en cuestión o buscar asesoramiento legal especializado en derechos de discapacidad. | Sí, la Corte Constitucional de Colombia ha emitido decisiones favorables en casos similares relacionados con el acceso a la salud de personas con discapacidad, incluidos menores autistas. La jurisprudencia de la Corte Constitucional ha establecido que el acceso a los servicios de salud es un derecho fundamental protegido por la Constitución colombiana, y que cualquier barrera que impida o dificulte injustificadamente el acceso a estos servicios puede ser considerada como una violación de los derechos fundamentales de las personas. En casos donde se ha demostrado que la imposición de cuotas moderadoras o copagos representa una carga excesiva para las personas con discapacidad, la Corte Constitucional ha ordenado a las entidades de salud exonerar o reducir dichos pagos, con el fin de garantizar el acceso efectivo a la atención médica necesaria. Es importante consultar la jurisprudencia más reciente de la Corte Constitucional para obtener orientación sobre cómo han sido resueltos casos similares en el pasado y cómo se han interpretado los derechos de acceso a la salud en contextos específicos, incluidos aquellos relacionados con menores autistas y personas con discapacidad en general. Esto proporcionará una base sólida para tomar decisiones como juez laboral en casos similares que se presenten ante ti. |
-
-248.
-Aunado a lo anterior, en la citada
-diligencia, se le preguntó a *ChatGPT* si podía dictar una decisión
-judicial, a lo que el sistema de IA respondió negativamente. Señaló que ese y
-otros modelos de lenguaje similares no están diseñados para dictar decisiones
-judiciales pues, aunque pueden generar texto coherente y contextualmente
-relevante, «carecen de la capacidad para ejercer el
-juicio legal y la interpretación de la ley que son necesarios para dictar una
-decisión judicial válida». Agregó que
-«la toma de decisiones judiciales implica una
-comprensión profunda de la ley, precedentes judiciales, argumentos legales y
-principios éticos, así como un análisis cuidadoso de las pruebas presentadas en
-un caso», en ese sentido
-«[s]i bien los modelos de lenguaje como ChatGPT
-3.5 pueden ser útiles como herramientas de apoyo para la investigación legal y
-la redacción de documentos legales, la responsabilidad de dictar decisiones
-judiciales recae en los jueces y profesionales del derecho con la capacitación
-y experiencia necesarias en el sistema legal correspondiente».
-
-249.
-Seguidamente, respondió de manera
-afirmativa a la pregunta acerca de si podía corregir un proyecto de sentencia,
-precisando que, para tales efectos, la utilidad de la herramienta radica en la
-identificación de errores gramaticales o la mejora de la redacción,
-«pero su uso debe ser complementario a la supervisión y
-revisión humana, especialmente en lo que respecta al contenido legal».
-Destacó que, en tales casos, es importante considerar
-aspectos como *(i)* las limitaciones del sistema en el conocimiento legal,
-*(ii)* la necesidad de supervisión humana y *(iii)* la
-confidencialidad y seguridad de los datos.
-
-250.
-Frente al primer aspecto, resaltó la falta
-de capacidad del sistema para proporcionar correcciones sustantivas en términos
-de contenido legal, debido a que no tiene conocimiento específico sobre leyes,
-jurisprudencia o procedimientos legales en un país particular. En cuanto a la
-supervisión humana, señaló que *ChatGPT* puede cometer errores o producir
-sugerencias que no son adecuadas para un proyecto de sentencia judicial, por lo
-que cualquier corrección sugerida por el modelo debe ser revisada y validada
-por un ser humano con experiencia en derecho. Finalmente, advirtió que, al usar
-un modelo de lenguaje en la corrección de un proyecto de sentencia judicial, se
-debe garantizar la confidencialidad y seguridad de los datos legales sensibles
-que puedan estar involucrados en el proceso.
-
-251.
-En efecto, de la diligencia de consulta
-que practicó el despacho sustanciador, se observa que al cabo de poco más de un
-año, las respuestas de la plataforma, pese a formular las mismas preguntas, no
-se mantienen iguales y que el contexto que se le otorgue también determina el
-tipo de resolución que aquella brinda. Además, es claro que la misma
-herramienta conoce sus limitaciones y establece no ser apta para emitir
-decisiones judiciales o aportar información completa en cuanto al fondo de un
-caso jurídico, pues no es su especialidad ni está diseñada para cumplir esta
-función, por lo que el juez o quien la use debe contrastar y confirmar lo
-comunicado.
-
-252.
-Aunque la IA generativa puede reproducir
-referencias y ejemplos correctos de sus datos de entrenamiento, no tiene una
-base factual sólida ni un método para hacer verificaciones de sus resultados,
-basadas en los hechos. Por tanto, pueden producirse resultados que parezcan
-reales, pero que de hecho son fabricados o «alucinados»[201].
-De acuerdo con *Center Statistics Office**[202]***,
-alrededor del 62% de la información que se encuentra en la red no es confiable,
-no está verificada o puede ser falsa[203].
-
-253.
-En el contexto de la administración de
-justicia, esto representa un alto riesgo al momento de acudir a una IA que no
-sea especializada y que no sea administrada por la Rama Judicial, debido a que
-se puede emplear información falsa o incoherente. En efecto, a nivel mundial se conocen algunos casos
-fallidos del uso de herramientas de IA a la práctica del derecho. Uno de los
-más sonados es el caso *Mata vs Avianca.* En él, un pasajero de la compañía
-aérea Avianca alegó haber sufrido lesiones al recibir un golpe en la rodilla
-con un carro metálico del servicio de comida durante un vuelo al aeropuerto
-internacional Kennedy de Nueva York. La aerolínea le pidió a un juez federal de
-Manhattan que desestimara el caso, a lo que los abogados del señor Mata se
-opusieron con un escrito en el que citaron una serie de decisiones judiciales
-en las que presuntamente se habría aplicado el criterio jurídico que apoyaba la
-procedencia de las súplicas de la demanda. El abogado y la firma fueron
-sancionados al constatar que la información presentada ante la corte era falsa
-y había sido resultado de la consulta que efectuó dicho profesional en *ChatGPT.*
-
-254.
-Ahora, estos eventos son problemáticos en
-la medida en que sólo pueden ser verificados y corregida la información por el
-propio usuario, si este realmente se toma el tiempo y es riguroso en la
-realización de su investigación. Situación que, si no se gestiona con cuidado,
-puede generar un aumento de la carga de trabajo y, en lugar de simplificarse
-los procesos y ahorrarse costos, puede generarse una necesidad de revisión y
-validación de los resultados generados por la IA, que termine sobrecargando la
-gestión del operador. Esta carga de trabajo adicional puede resultar en
-pérdidas financieras de las organizaciones debido al mayor tiempo y esfuerzo
-requerido y, además, existe la posibilidad de que aumenten los costos legales y
-laborales si surgen disputas o problemas relacionados con el contenido generado
-por la IA y aplicado por el operador.
-
-255.
-Adicionalmente, la información con la que
-las IAs son entrenadas y realizan sus predicciones no se renueva de forma
-automática, lo que implica que estos sistemas requieran de un proceso constante
-de actualización y revisión para que sus respuestas no se vuelvan anacrónicas.
-Sin embargo, la Fundación Karisma y El Veinte expusieron que, aunque existiera
-una herramienta que se actualice con esa agilidad, «los
-resultados del sistema de aprendizaje automático no dejan de basarse en datos
-históricos, lo que en últimas implica que no hay lugar a la innovación dentro
-del sistema»[204].
-*ChatGPT* puede ser una herramienta que genere respuestas ante situaciones
-novedosas, no obstante, lo hace a través de un proceso de generalización que le
-permite aplicar su conocimiento programado mediante «entradas
-nuevas», más no por medio de innovación[205].
-
-256.
-En conclusión, el uso de IA puede arrojar *output*
-incorrectos o falsos que de ser usados en la construcción de una decisión
-judicial pueden llevar a que su motivación sea incorrecta o falsa y, por tanto,
-inválida. De darse esta situación, la providencia incurriría en yerros que
-conducirían a la violación del debido proceso.
-
-257.
-Ahora bien, en cuanto a la independencia e
-imparcialidad del juez que utiliza IA, ella dependerá en gran medida de los
-datos con los que se entrena la herramienta, lo que genera marcadas
-inquietudes, ya no sobre las alucinaciones, sino sobre posibles sesgos que esta
-tenga. En efecto, las respuestas ofrecidas por el modelo de lenguaje pueden
-incorporar sesgos que el usuario final desconoce y aun cuando estos también
-pueden acaecer en la gestión humana, no cabe duda de su particular incidencia
-en el ámbito de la IA.
-
-258.
-Por ejemplo, la Fundación Karisma y El
-Veinte mencionaron, en su intervención, que «en
-la medida en que [la IA] está entrenad[a] con información de todo el mundo y el
-volumen de información disponible sobre el norte global es más amplio que la
-información del sur global[206],
-el sistema podría estar, por ejemplo, favoreciendo líneas jurisprudenciales
-norteamericanas o europeas por el simple hecho de que su volumen en las bases
-de datos es mayor. Estos sesgos implícitos son difíciles o imposibles de notar
-para el usuario final, pues no existe una manera de rastrear las fuentes
-específicas que el modelo usa para ofrecer cada una de sus respuestas»[207].
-
-259.
-Esta situación indudablemente puede
-afectar derechos fundamentales. Un caso que ilustra a la perfección el asunto
-tiene que ver con lo ocurrido en las revisiones del *Harm Assessment Risk
-Tool* (HART)[208],
-el cual reveló que el hecho de que los resultados se den teniendo en cuenta
-datos como el lugar en donde vive el sujeto, su género o la comunidad a la que
-pertenece incide en los pronósticos individuales y puede reflejarse en sesgos
-contra grupos históricamente discriminados. Asimismo, las herramientas de IA
-usan datos históricos para alimentar su sistema y potenciar su capacidad, estos
-incluyen sesgos que se han ido superando con el paso de los años, pero que
-muchas veces la IA no tiene la capacidad de discernir.
-
-260.
-Tales sesgos, que generan discriminación,
-también se encuentran presentes en *ChatGPT 3.5*. La propia plataforma ha
-establecido que sus resultados pueden resultar sesgados, toda vez que esta
-herramienta produce datos de salida a través de la generalización que le
-permite aplicar el conocimiento utilizado en su entrenamiento frente a entradas
-nuevas, lo que puede incidir en que se perpetúen los sesgos que están presentes
-en sus datos de entrenamiento, produciendo respuestas basadas en estereotipos o
-en el favorecimiento de ciertos grupos o ideas[209], lo
-cual entraña un peligro mayúsculo, por ejemplo, frente a poblaciones
-minoritarias o sujetos de especial protección constitucional.
-
-261.
-Sobre este punto, es importante recordar
-que *ChatGPT* fue desarrollado con múltiples fines, por un privado
-(OpenAI) y que no es clara la forma de entrenamiento que se usó para su
-configuración, por lo que no es posible precisar cuáles son los sesgos que
-puede contener o aplicar, lo que sumado a la falta de referenciación de las
-fuentes que utiliza para brindar respuestas, dificulta aún más la posibilidad
-de identificar aquellos. Estos no se predican sólo de los resultados o
-predicciones que puede dar una IA sino de todo su ciclo de vida, pues la
-creación, diseño e implementación de algoritmos implícitamente comprende
-juicios de valores esenciales[210].
-
-262.
-En los sistemas procesales tradicionales,
-la imparcialidad de los jueces se vincula a las causales de impedimento y
-recusación, las cuales se han clasificado en subjetivas
-u objetivas[211].
-La imparcialidad subjetiva busca que el funcionario no tenga impedimento con
-respecto a las partes en razón a sus relaciones con los sujetos procesales; por
-su parte la imparcialidad objetiva busca que el funcionario no tenga
-impedimento con respecto a la pretensión demandada al haber intervenido de
-alguna forma en la *litis* anteriormente.
-
-263.
-Al usarse IA generativas por parte de los
-jueces, la imparcialidad debería predicarse también de la herramienta pues,
-dependiendo de sus sesgos, podrían verse afectada algunas de las partes en la
-causa, con el agravante de que dicha parcialidad puede llegar a ser desconocida
-o no percibida y pone en entredicho la transparencia de la judicatura.
-
-264.
-Por tanto, la
-transparencia y la explicabilidad de las IA que se usen dentro de los sistemas
-judiciales son principios que se deben proteger con el fin de no afectar
-derechos fundamentales, puesto que su ausencia imposibilita que los ciudadanos
-se enteren, entiendan y evidencien la trazabilidad de las decisiones de los
-jueces y, de ser el caso, tomen las medidas necesarias para impugnarlas. Es
-esencial aclarar a todos a quienes afecta una decisión judicial cómo funciona
-la tecnología utilizada, los beneficios asociados y la descripción del
-contenido de datos necesarios para impulsar cualquier solución proporcionada o
-sugerida. Esto no sólo demuestra responsabilidad por parte del juez, sino que
-también genera confianza en las soluciones ofrecidas y se constituye en un
-imperativo mínimo de cara a la garantía de derechos procesales y materiales en
-juego.
-
-265.
-En razón de ello, la transparencia y
-explicabilidad de estas tecnologías debe implicar que cuando se usen, se den a
-conocer de manera irrestricta los datos utilizados, la
-forma en la que funcionan, los casos en los que se usan y el lugar que ocupan
-dentro de la decisión judicial. Así, es imperativo aclarar, por ejemplo, que
-estas herramientas se empleen únicamente para búsquedas de jurisprudencia,
-literatura, etc., pero que no pueden implicar que la decisión al final deje de
-ser tomada por el juez.
-
-266.
-Según el Instituto Nacional de Estándares
-y Tecnología (NIST por sus siglas en inglés), para que se cumpla con estos
-principios se debe[212]
-*(i)* proporcionar evidencia, apoyo o razonamiento relacionado con un
-resultado o un proceso de un sistema de IA, es decir, poner en conocimiento de
-la persona si se hizo uso de una IA; *(ii)* emitir una explicación
-comprensible para el receptor de la información. En otras palabras, se busca
-que la explicación sea inteligible para un determinado público; *(iii)*
-ofrecer una explicación precisa, rigurosa y completa, y *(iv)* identificar
-y declarar cuales son los límites del sistema utilizado, ya que este no es
-perfecto o infalible.
-
-267.
-Adicional, se ha planteado que, en estos
-casos, la explicación no sólo debe reflejar de manera precisa el razonamiento
-del sistema, sino que debe ser *(i)* comprensible y convincente para el
-usuario, *(ii)* completa y *(iii)* específica. Ello, en el sentido de
-que hay usuarios diferentes, en diferentes circunstancias y con diferentes resultados[213]. En
-cuanto a lo anterior, es destacable mencionar que el uso de la herramienta sólo
-ha salido a luz cuando es declarado por los jueces mismos, lo cual podría
-implicar que se haya utilizado en más casos de los que se conocen, sin que su
-uso haya sido puesto en conocimiento de las partes involucradas. En este
-sentido, la transparencia con respecto al uso es un pilar fundamental al
-considerar el empleo de estas herramientas en la gestión de procesos
-judiciales.
-
-268.
-Con el fin de promover la transparencia,
-un buen punto de discusión es la necesidad que existe de evitar el uso de
-algoritmos de *black box*[214],
-respecto de los cuales se conocen los datos de entrada y el resultado, pero no
-la forma en la que la información es procesada. Sobre ello debe tenerse en
-cuenta que, como hasta el momento no se ha generado una IA especializada para
-la Rama Judicial y que las IAs son mayormente desarrolladas por empresas
-privadas, es importante encontrar un balance entre la necesidad de
-transparencia y los derechos que se tienen sobre propiedad intelectual, pues el
-respeto de estos últimos puede suponer un obstáculo para comprender la manera
-en que fueron creadas y siguen siendo implementadas a lo largo del ciclo de
-vida. Por ello, en pro de los intereses generales, el uso de IA en el sistema
-judicial debería priorizar herramientas que permitan materializar el mandato de
-transparencia en la utilización de estas tecnologías, por sobre aquellas que no
-permitan conocer con certeza y claridad el origen de los datos de entrenamiento
-ni la forma en que funcionan.
-
-269.
-De otra parte, la política pública sobre
-IA debe contemplar mecanismos de transparencia y de acceso a la información a
-lo largo del proceso de implementación. Los usuarios y la sociedad civil deben
-poder entender en qué etapas de la administración de justicia, o de
-cualquier proceso público, se usa la tecnología, qué resultados ha
-producido, qué mecanismos se tienen para impugnarla y qué
-salvaguardas existen para proteger los derechos fundamentales.
-
-270.
-La carga que tiene el funcionario judicial
-de explicar el uso de IA en una decisión judicial, conforme al ejercicio del
-principio de transparencia, no se limita a que el juez *informe* que se
-hizo uso de tal herramienta, sino que le impone el estar también informado
-respecto de la tecnología que está utilizando. De lo contrario, si el juez o
-magistrado no comprende el alcance y funcionamiento del instrumento
-tecnológico, es imposible que se transmita este tipo de información en la
-decisión judicial y, por ende, que se cumpla con el deber de transparencia.
-
-271.
-Como se ha advertido a lo largo de esta
-providencia, algunos usos de la IA generan un alto riesgo de cara a los
-derechos fundamentales, por tanto, su empleo por parte del funcionario judicial
-debe ser informado, transparente, ético, respetuoso de la privacidad y
-responsable. Ello, por lo menos, implica que previo a su utilización, se tenga
-conocimiento de quién o qué empresa desarrolló la herramienta, cómo fue
-desarrollada, cómo funciona, qué funciones puede desempeñar, cuáles son sus
-términos de uso, qué hace la empresa con la información que recolecta del
-usuario y qué limitaciones y/o riesgos presenta para el usuario y/o para
-terceros. Además, es esencial que los funcionarios judiciales estén capacitados
-sobre cómo deben utilizarse estas herramientas, entendiendo el propósito
-específico de cada una y cómo se puede hacer un uso adecuado de ellas para
-obtener resultados confiables y apropiados en el contexto judicial. Si bien, la
-información de estos aspectos no elimina los riesgos, sí contribuye a
-prevenirlos.
-
-272.
-Adicionalmente, en virtud de cumplir con
-los principios de transparencia y responsabilidad, es necesario satisfacer la
-carga de verificación de los datos, la respectiva identificación de las fuentes
-y el reconocimiento de la autoría de las tesis incorporadas en su fallo. Como
-lo señalaron varios de los intervinientes, al no ser el *ChatGPT* una
-persona, no puede atribuírsele la coautoría de los textos que produce. Por tal
-motivo, con el fin de evitar la apropiación indebida de creaciones
-intelectuales por parte de los jueces o magistrados, los fallos que acudan a
-este tipo de herramientas deberán dar cuenta del *origen* y la *idoneidad*
-de la información utilizada, ya sean fuentes legales, jurisprudenciales, doctrinarias,
-entre otras.
-
-273.
-En conclusión, el
-uso de IA generativa en la administración de justicia, sin salvaguardas, puede
-afectar el deber de motivar las decisiones judiciales, las garantías del juez
-natural independiente e imparcial y el derecho a la defensa al producirse
-desconfianza sobre la fiabilidad de las decisiones y, por tanto, promoverse que
-fácticamente se dé un reemplazo del juez por parte de la herramienta y la
-adopción de los fallos dentro del sistema judicial. La
-protección de estos derechos, se encuentra basada en el cumplimiento del
-principio de transparencia y explicabilidad por parte de los jueces, ya que se
-hace imprescindible que las partes interesadas conozcan los fundamentos usados
-por estos para que en contraposición se puedan tomar las decisiones procesales
-adecuadas, en particular, frente al ejercicio del derecho de contradicción, de
-lo contrario, un mal uso de las IA puede conllevar a la vulneración del derecho
-fundamental al debido proceso.
-
-*(ix)**El debido proceso
-probatorio en un sistema jurisdiccional que utiliza IA**[215]***
-
-274.
-Otro de los derechos
-fundamentales que se puede ver afectado por un mal uso de la IA es el del
-debido proceso probatorio. Esta corporación ha explicado que este derecho
-fundamental supone un conjunto de garantías en cabeza de las partes en el marco
-de toda actuación judicial o administrativa[216]. De este modo, ha afirmado que
-estas tienen derecho *(i)* a presentar y solicitar pruebas; *(ii)* a
-controvertir las que se presenten en su contra; *(iii)* a la publicidad de
-las evidencias, en la medida en que de esta forma se asegura la posibilidad de
-contradecirlas, bien sea mediante la crítica directa a su capacidad
-demostrativa o con apoyo en otros elementos; *(iv)* a que las pruebas sean
-decretadas, recolectadas y practicadas con base en los estándares legales y
-constitucionales dispuestos para el efecto; *(v)* a que el funcionario que
-conduce la actuación decrete y practique de oficio los elementos probatorios
-necesarios para asegurar el principio de realización y efectividad de los
-derechos (arts. 2.º y 228 C.P.) y *(vi)* a que se evalúen por el juzgador
-las pruebas incorporadas al proceso[217].
-
-275.
-Conforme a nuestro
-ordenamiento jurídico, el decreto y la evaluación de las pruebas es una tarea
-que debe estar en cabeza del juez natural, cuyo ejercicio no puede dejarse a
-una IA, tal como se explicó en líneas anteriores. El decreto de pruebas
-comporta *(i)* el estudio de la licitud y legalidad de la prueba y *(ii)*el de pertinencia, conducencia y utilidad de esta.
-
-276.
-Conforme con lo anterior, le
-corresponde al juez determinar, al momento de ordenar
-una prueba, cuáles son sus requisitos legales esenciales y su incidencia en
-derechos fundamentales, para discernir su proyección y trascendencia sobre el
-debido proceso, toda vez que su incumplimiento conllevaría la exclusión del
-medio de prueba[218].
-Así, la Sentencia T-916 de 2008, reiterada entre otras en la Sentencia
-SU-371 de 2021, señala que existe:
-
-[U]na distinción entre la prueba ilegal, entendida como aquella
-que afecta el debido proceso desde el punto de vista procesal formal
-(incompatibilidad con las formas propias de cada juicio), y la prueba
-inconstitucional, que es aquella que transgrede igualmente el debido proceso,
-pero desde una perspectiva sustancial, en tanto es obtenida vulnerando derechos
-fundamentales[219]
-
-277.
-Ahora bien, si el funcionario
-judicial se apoya en una IA para establecer cuáles son los estándares
-constitucionales y legales dispuestos para ordenar y practicar un específico
-medio probatorio, debe tener en cuenta
-que la herramienta puede producir alucinaciones, señalándole formalidades que
-no hacen parte del ordenamiento jurídico o tergiversando el alcance de otras,
-lo cual puede conducir a que la evidencia se tenga como inexistente y no pueda
-ser aducida a la actuación o deba ser excluida, ante el desconocimiento de las
-formas propias establecidas para su orden y práctica.
-
-278.
-El uso de la herramienta, como
-apoyo a la actividad probatoria mencionada, requiere altos estándares de verificación de la información suministrada por
-la IA, lo que quiere decir que el juez o magistrado debe hacer una revisión juiciosa al finalizar la consulta de este tipo de
-tecnologías, con el fin de no verse vulnerado el derecho al debido proceso
-probatorio.
-
-279.
-De otra parte, en lo que se
-refiere a la licitud de la prueba, dicha tarea está ligada, en muchas
-ocasiones, a juicios de ponderación y proporcionalidad, propios de los sistemas
-conflictualistas de interpretación, en donde en cada caso, de acuerdo con sus
-particularidades, se debe establecer cuál es el derecho prevalente. También se
-podría acudir a la IA para valorar una particular prueba o los elementos
-probatorios en su conjunto.
-
-280.
-Realizar las anteriores tareas
-a través de una IA resulta problemático, en primer lugar, porque en nuestro
-ordenamiento jurídico la función de valorar la prueba es del juez natural, que
-debe ser un humano, como ya se explicó. En segundo lugar, porque si para tales
-fines, se usa la IA como apoyo a la labor judicial, como, por ejemplo, para
-saber cuántas pruebas testimoniales hay en una actuación, de quien, en qué
-fechas se rindieron, etc., ello podría suponer la entrega del medio de prueba
-para que sea introducido como dato (*input)* a la herramienta, con la
-finalidad de que esta entregue un resultado (*output)*. Con dicho proceder,
-si no se guardan las cautelas necesarias, se podría estar violando la reserva
-procesal, si el proceso la aplica, o afectar derechos fundamentales como el *habeas
-data* o la intimidad, como ocurre en el caso de los procesos por acciones de
-tutela. Así, si la IA es de propiedad de un particular, como lo es *ChatGPT,*
-a este, finalmente, es a quien se le estaría entregando la prueba o la
-información del proceso, lo cual podría originar responsabilidades
-disciplinarias o penales para el servidor judicial.
-
-281.
-Respecto al derecho a la intimidad y la
-privacidad de los datos que obran en la prueba judicial, es esencial que los
-jueces velen porque las personas conserven los derechos sobre ellos. En ese
-sentido, el marco de protección debe dirigirse a que se garantice la
-transparencia frente al usuario del sistema judicial, sobre el uso que el
-operador judicial de a sus datos y asegurar un tratamiento con salvaguardas
-para la data sensible. Especialmente, debe evitarse que el uso de algoritmos no
-licenciados permita que privados o terceros procesen datos personales y los
-reutilicen haciéndolos ampliamente accesibles.
-
-282.
-La Superintendencia de Industria y
-Comercio ha señalado que «la IA involucra la
-recolección, el almacenamiento, el análisis, procesamiento o in- terpretación
-de enormes cantidades de información (incluidos los datos personales) que son
-usados para generar diversos resultados, acciones o comportamientos por parte
-de las máquinas. En otras palabras, los datos personales son el alimento o el
-combustible de la IA y mediante la misma se realizan tratamientos de dicha
-información los cuales deben ser respetuosos de la Ley 1581 de 2012 y sus
-normas reglamentarias»[220].
-
-283.
-Como se ve, Colombia[221] cuenta
-con una legislación en materia de protección de datos personales, contenida
-principalmente por la Ley 1581 de 2012 y sus decretos reglamentarios. Esta ley
-establece las bases para el tratamiento adecuado de los datos personales,
-garantizando los derechos fundamentales de sus titulares. Aquella norma clasifica
-como datos sensibles:
-
-[A]quellos
-que afectan la intimidad del Titular o cuyo uso indebido puede generar su
-discriminación, tales como aquellos que revelen el origen racial o étnico, la
-orientación política, las convicciones religiosas o filosóficas, la pertenencia
-a sindicatos, organizaciones sociales, de derechos humanos o que promueva
-intereses de cualquier partido político o que garanticen los derechos y
-garantías de partidos políticos de oposición así como los datos relativos a la
-salud, a la vida sexual y los datos biométricos.
-
-284.
-En
-similar sentido, el artículo 18 de la Ley Estatutaria 1712 de 2014[222] excluye del
-acceso, la información pública cuya circulación pueda ocasionar daño a los
-derechos fundamentales de personas naturales o jurídicas, especialmente, la
-intimidad, la vida, la salud o la seguridad y los secretos comerciales,
-industriales y profesionales. En la misma línea, la Sentencia T-487 de 2017[223] estableció
-que:
-
-Dentro de esta perspectiva ha dicho la Corte de manera reiterada,
-que desde el punto de vista cualitativo y en función de su publicidad y de la
-posibilidad legal de obtener acceso a la misma, la información corresponde a
-cuatro grandes tipos[224]: la información pública o de
-dominio público, la información semi-privada, la información privada y la
-información reservada o secreta.
-
-La *información
-pública*, calificada como tal según los mandatos de la ley o de la
-Constitución, puede ser obtenida y ofrecida sin reserva alguna y sin importar
-si la misma sea información general, privada o personal. Por vía de ejemplo,
-pueden contarse los actos normativos de carácter general, los documentos públicos
-en los términos del artículo 74 de la Constitución, y las providencias
-judiciales debidamente ejecutoriadas; igualmente serán públicos, los datos
-sobre el estado civil de las personas o sobre la conformación de la familia.
-Información que puede solicitarse por cualquier persona de manera directa y sin
-el deber de satisfacer requisito alguno.
-
-En segundo término se encuentra la *información semi-privada*,
-siendo aquella que por versar sobre información personal o impersonal y no
-estar comprendida por la regla general anterior, presenta para su acceso y
-conocimiento un grado mínimo de limitación, de tal forma que la misma sólo
-puede ser obtenida y ofrecida por orden de autoridad administrativa en el
-cumplimiento de sus funciones o en el marco de los principios de la
-administración de datos personales. Es el caso de los datos relativos a las
-relaciones con las entidades de la seguridad social o de los datos relativos al
-comportamiento financiero de las personas.
-
-Luego se tiene la *información
-privada*, aquella que por versar sobre información personal o no, y que por
-encontrarse en un ámbito privado, sólo puede ser obtenida y ofrecida por orden
-de autoridad judicial en el cumplimiento de sus funciones. Es el caso de los
-libros de los comerciantes, de los documentos privados, de las historias
-clínicas o de la información extraída a partir de la inspección del domicilio.
-
-Finalmente se encuentra la *información
-reservada*, que por versar igualmente sobre información personal y sobre
-todo por su estrecha relación con los derechos fundamentales del titular -
-dignidad, intimidad y libertad- se encuentra reservada a su órbita exclusiva y
-no puede siquiera ser obtenida ni ofrecida por autoridad judicial en el
-cumplimiento de sus funciones. Cabría mencionar aquí la información genética, y
-los llamados "*datos sensibles*"[225]
-o relacionados con la ideología, la inclinación sexual, los hábitos de la
-persona, etc.
-
-285.
-En este contexto, el juez que decida usar
-sistemas de IA generativa debe ser especialmente consciente de su responsabilidad
-en el manejo de información legal sensible y que contenga datos personales. Lo
-aconsejable, según los desarrollos pertinentes, sería poder contar con una IA
-de propiedad y uso exclusivo de la Rama Judicial, frente a la que se sepa
-cuáles son sus algoritmos, cómo se procesa la información, para tener el
-control sobre las seguridades de la información.
-
-286.
-Según la Escuela de Gobierno
-de la Universidad de los Andes[226] uno de los aspectos clave en esta
-materia, para las organizaciones, es la realización de un análisis de impacto
-en cuanto a privacidad (PIA por sus siglas en inglés).
-Este análisis implica evaluar de manera integral cómo la implementación de
-sistemas de IA generativa afectará la privacidad de los titulares de datos. Por
-tanto, debe incluir la identificación de los datos que se recopilarán, el
-propósito de su recopilación, cómo se almacenarán y protegerán y las posibles
-implicaciones para los derechos de privacidad de los individuos. Este proceso
-es fundamental para asegurar que se cumplan con los principios de
-transparencia, consentimiento, finalidad y seguridad de datos, tal como lo
-establece la legislación colombiana[227].
-
-287.
-Del mismo modo, precisó dicha institución
-que, para garantizar la privacidad y seguridad de los datos en sistemas de IA, las
-organizaciones deberían implementar medidas sólidas de ciberseguridad. Esto
-incluye el cifrado de datos, el acceso restringido a información sensible, la
-formación adecuada del personal y la implementación de políticas de retención
-de datos. Finalmente, manifestó que es fundamental que la Rama Judicial pueda
-garantizar todos estos requerimientos como principal responsable de la
-información a pesar de que se delegue esta tarea a terceros.
-
-288.
-Sobre la preocupación que existe en cuanto
-a la seguridad y protección de datos en IA como *ChatGPT*, varias
-empresas, entre ellas Samsung, Apple y Goldman Sachs, han prohibido a sus
-empleados utilizar este tipo de servicios en su trabajo[228]. Dado
-que muchos de los casos de uso propuestos en el contexto de la
-administración de justicia implicarían la introducción de
-datos sensibles, no parece aconsejable asumir tal riesgo cuando las
-consecuencias de cualquier filtración o exposición de datos
-serían muy graves.
-
-289.
-Precisando el análisis en el sistema de *ChatGPT*
-es importante indicar que, según los términos y condiciones de uso, la
-información introducida por los usuarios en sus consultas podrá ser utilizada
-por la empresa para el desarrollo de sus herramientas y, recientemente, se han
-presentado incidentes por fallos en la seguridad de la protección de los datos
-personales de usuarios de *ChatGPT*[229].
-Sumado a lo anterior, se tiene que dicho sistema ha sido investigado por
-autoridades de protección de datos personales, incluyendo la colombiana[230] y la
-española[231].
-
-290.
-Dado que la información que se introduce a
-la plataforma puede ser apropiada y usada por la dueña del sistema, si la
-consulta contiene datos personales que involucre información del caso concreto
-podría verse afectada la seguridad y protección de la intimidad por divulgación
-de datos que no deberían quedar expuestos y a disposición de terceros. Ante
-tales circunstancias, no está permitido por el ordenamiento jurídico colombiano
-introducir datos del proceso que sean semiprivados, privados o reservados a una
-IA cuyo propietario sea un particular, pues ello conllevaría, se reitera, una
-transgresión a la reserva sumarial, al *habeas data* y al derecho a la
-intimidad, lo cual impide su uso.
-
-291.
-Además, al no conocerse los
-datos que alimentan a la IA, sus algoritmos o cómo se realiza su procesamiento
-de datos, ello les impediría a las partes de un proceso conocer los argumentos
-en los que se fundan los resultados de la IA, impidiéndoles ejercer debidamente
-el derecho de contradicción probatorio.
-
-292.
-En
-muchas de las IA, entre ellas *ChatGPT*, no hay certeza sobre el tipo de
-raciocinios que realizan; para esto sería necesario tener un control sobre
-ella, lo cual no se tiene frente a las IA privadas.
-
-293.
-Adicionalmente, debe considerarse que la
-IA se ha utilizado para otros fines en el sistema judicial. Así por ejemplo en
-elámbito de investigación penal se ha hecho uso de la IA especialmente
-con propósitos predictivos y para la localización de individuos.
-Particularmente en el escenario de la justicia penal se discute con gran énfasis
-la utilización de tecnologías de IA para identificar y ubicar presuntos
-delincuentes, así como en el perfilamiento de sujetos, con el propósito de
-establecer en términos estadísticos la posibilidad de que cometan conductas
-penales o reincidan en ellas. Dicho uso ha sido cuestionado al comprobarse que
-la información suministrada por la IA puede estar llena de sesgos, fundándose
-en discriminaciones y estigmatizaciones, y además con la posibilidad de
-incurrir en el desconocimiento del derecho fundamental a la presunción de
-inocencia.
-
-294.
-En Estados Unidos de América, uno de los
-usos centrales de la IA en los ámbitos judiciales ocurre en el sistema penal[232].
-Varias jurisdicciones en los Estados Unidos utilizan una herramienta llamada «COMPAS»
-basada en IA desarrollada por el sector privado para hacer evaluación de
-riesgos y predicción de conducta criminal. Al indagar sobre la exactitud de los
-resultados
-
-Se encontró que las predicciones de COMPAS
-eran precisas el 60% del tiempo en todos los tipos de delitos. Sin embargo, la
-tasa de precisión de la predicción para delitos violentos fue solo del 20%.
-Además, el estudio señaló disparidades raciales. El algoritmo identificó
-erróneamente a los acusados negros como futuros criminales el doble de veces que
-lo hizo con los acusados blancos. Este estudio atrajo la atención de los medios
-y sus resultados fueron cuestionados por errores estadísticos. COMPAS es un
-algoritmo de “caja negra”, lo que significa que nadie, incluidos sus
-operadores, tiene acceso al código fuente.
-
-El uso de COMPAS fue impugnado en los
-tribunales con opositores afirmando que su naturaleza propietaria viola el
-derecho de los acusados a un debido proceso legal. El Tribunal Supremo de
-Wisconsin aprobó el uso de COMPAS en la sentencia. Sin embargo, debe seguir
-siendo una herramienta de asistencia y el juez debe conservar plena discreción
-para determinar factores adicionales y ponderarlos en consecuencia. La Corte
-Suprema de los Estados Unidos denegó una petición para escuchar el caso[233]
-
-*(x)**Conclusiones*
-
-295.
-El juez,
-cuando encuentre necesario y pertinente recurrir a sistemas de IA, puede
-emplearlos razonada y ponderadamente. Esto supone un
-enfoque de protección de derechos fundamentales, que valore
-y considere las mejores prácticas, así como la aplicación
-de
-criterios éticos y de respeto a los mandatos superiores. De acuerdo con
-ello, so pena de comprometer eventualmente su responsabilidad a raíz del uso
-indiscriminado e imprudente de estas tecnologías, el funcionario judicial que
-las emplee deberá
-respetar, como presupuesto mínimo en la materia, el criterio
-de no sustitución de la racionalidad humana, así como atender las cargas de
-transparencia, responsabilidad y privacidad.
-
-296.
-En virtud de
-aquel criterio, es factible emplear inteligencia artificial en labores propias
-de la justicia siempre que el uso de dichas herramientas no remplace labores
-jurisdiccionales indelegables e irremplazables, como lo son aquellas que
-requieren del razonamiento lógico y humano a efectos de interpretar los hechos,
-las pruebas, motivar la decisión o adoptarla. La utilización de IA para tales
-fines implicaría una violación de las garantías del juez natural, autonomía e
-independencia judiciales y al debido proceso probatorio por sustitución del
-funcionario judicial. Por el
-contrario, se podría utilizar la IA en el sistema judicial para los ámbitos de *gestión
-administrativa y documental,* así como para el
-de *apoyo a la gestión judicial y la corrección y síntesis de textos*. En
-tales eventos, la utilización de estas tecnologías no remplaza la labor
-esencial e insustituible que se le ha atribuido al funcionario y servidor
-judicial humano.
-
-297.
-La carga de
-transparencia le impone el deber de exponer claramente cuál fue el uso, el
-alcance y la ubicación en las actuaciones o decisiones de los resultados
-obtenidos por la utilización de la IA. La de responsabilidad, por su parte,
-exige del servidor que haga uso de la herramienta estar capacitado en la
-materia, entender cabalmente sus riesgos, así como poder dar cuenta del origen,
-la idoneidad y la necesidad del uso de IA y, principalmente, verificar la
-información suministrada por ella. La carga de privacidad supone la protección
-de la reserva de datos personales y sensibles que se le dan a conocer al
-sistema judicial para posibilitar el adecuado cumplimiento de sus funciones.
-
-298.
-Consecuencia
-de lo anterior, el juez incumple sus
-deberes legales cuando, habiendo utilizado IA en una decisión judicial, *(i)*
-la emplea en el ejercicio de funciones de raciocinio que son indelegables e
-irremplazables; *(ii)* no es transparente con el usuario de la
-administración de justicia revelando el uso de IA y, con ello, compromete la
-garantía efectiva de su derecho de contradicción; *(iii)* no realiza de
-manera rigurosa la verificación de la fiabilidad de la información que soporta
-la motivación del fallo pudiendo comprometer la
-independencia o imparcialidad debido a los sesgos y alucinaciones de la IA; y/o *(iv)* no adopta las cautelas necesarias
-para evitar la transgresión de derechos como el *habeas data* o la
-intimidad.
-
-299.
-Para asumir los retos de los nuevos
-tiempos y controlar los riesgos asociados a estas prácticas, convendría que el
-uso razonado y ponderado de estas tecnologías en el sistema judicial colombiano
-se efectúe a través de una herramienta especializada, motivo por el cual se
-alienta a la Rama Judicial para desarrollar esfuerzos que conduzcan
-progresivamente a la implementación de una plataforma de IA propia que, diseñada
-exclusivamente para el ejercicio de la función pública de administración de
-justicia, permita contribuir a la eficiencia de los despachos judiciales y
-facilitar el acceso a la información, así como reducir a la par los riesgos en
-materia especialmente de transparencia, protección de datos, alucinaciones y
-sesgos.
-
-300.
-Por último, cabe advertir que los lineamientos que se imparten en esta providencia representan
-una aproximación inicial y general a un tema que, además de ser novedoso para
-la judicatura, está en constante construcción y sujeto a cambios vertiginosos.
-Por tal motivo, la pertinencia de estas
-consideraciones debe valorarse *(i)* en el tiempo, según la evolución que
-se produzca en los ámbitos de regulación normativa y, por supuesto, en el
-tecnológico, pero también *(ii)* atendiendo a las exigencias particulares
-que puedan desprenderse de la utilización de la IA en las diferentes
-jurisdicciones. En efecto, los innumerables usos que puedan dársele a estas
-tecnologías en el ámbito judicial ameritarán análisis especializados y
-soluciones particulares a los retos puntuales que emerjan en los distintos
-campos del derecho y en los diferentes frentes procesales y de actuación
-judicial.
-
-**La exoneración de** **cobros
-de copagos y cuotas moderadoras en el SGSSS para niños con funcionalidad
-diversa**
-
-*(i)**Los niños, niñas y adolescentes como
-sujetos de especial protección constitucional*
-
-301.
-En la actualidad existe un amplio acuerdo
-en los ámbitos nacional e internacional en cuanto a la necesidad de garantizar,
-proteger y respetar una serie de derechos a los niños, niñas y adolescentes (en
-adelante NNA). Este consenso ha conducido a que la incorporación del concepto
-del *interés
-superior de niños, niñas y adolescentes*sea
-uno de los ejes centrales del análisis constitucional. Desde esta perspectiva,
-los NNA se hacen acreedores de un trato preferente ligado a su caracterización
-jurídica como sujetos de especial protección.
-
-302.
-Por un lado, a nivel nacional, el artículo
-13 de la Constitución Política consagra la especial protección que debe brindar
-el Estadoa
-las personas que, por su condición económica, física o mental, se encuentren en
-circunstancia de debilidad manifiesta, como es el caso de los NNA en virtud de
-la vulnerabilidad que se deriva de su corta edad. Igualmente, el artículo 44
-superior establece que los derechos de los NNA prevalecen sobre los demás y, en
-línea con lo anterior, dispone que la «familia,
-la sociedad y el Estado tienen la obligación de asistir y proteger al niño para
-garantizar su desarrollo armónico e integral y el ejercicio pleno de sus
-derechos».
-Sumado a esto, los artículos 6, 8, y 9 de la Ley 1098 de 2006 protegen el
-interés superior de los NNA, al precisar que siempre *(i)* se aplicará la
-norma más favorable al interés superior del niño, niña o adolescente, *(ii)*
-se deben satisfacer todos sus derechos fundamentales y *(iii)* prevalecen
-sus derechos sobre los de cualquier otra persona.
-
-303.
-En varias oportunidades[234] esta
-corporación ha determinado que el interés superior del NNA es *(i)* un **derecho
-sustantivo**,pues
-debe ser una consideración primordial al momento de sopesar los distintos
-intereses en juego en la toma de una decisión en cualquier ámbito. La garantía
-de este derecho deberá ponerse en práctica siempre que deba adoptarse una decisión
-que afecte a un niño, niña o adolescente o a un grupo concreto de ellos; *(ii)*
-una **obligación intrínseca de los Estados**, de aplicabilidad inmediata y
-reclamable ante los jueces; *(iii)* un **principio
-jurídico interpretativo fundamental**,
-en la medida en que «sí
-una disposición jurídica admite más de una interpretación, se elegirá la
-interpretación que satisfaga de manera más efectiva el interés superior del
-[NNA]»; y *(iv)* **una
-norma de procedimiento**, pues la toma de decisiones que involucre un NNA
-debe tener una carga argumentativa que estime las repercusiones positivas y
-negativas en los derechos del menor de edad.
-
-304.
-Sobre este asunto, la Sentencia
-T-033 de 2020advirtió
-que se reconoce a su favor:
-
-[U]n
-trato preferente de parte de la familia, la sociedad y el Estado, procurando
-que se garantice siempre su desarrollo armónico e integral […] el interés
-superior del menor no constituye un ente abstracto, desprovisto de vínculos con
-la realidad concreta, sobre el cual se puedan formular reglas generales de
-aplicación mecánica. Al contrario: el contenido de dicho interés, que es de
-naturaleza real y relacional, sólo se puede establecer prestando la debida
-consideración a las circunstancias individuales, únicas e irrepetibles de cada
-menor de edad
-
-305.
-Por otro lado, la preocupación por la
-protección de los derechos de NNA también ha sido un asunto de especial interés
-en el ámbito del derecho internacional, al punto que existen diversos
-instrumentos que se encargan de desarrollar estos fundamentos jurídicos. Así,
-aunque unos son vinculantes y otros no, lo cierto es que todos contienen
-disposiciones específicas o principios dirigidos a informar el ámbito de
-protección de los derechos de los NNA. Estos son: la Convención sobre los
-Derechos de los Niños[235],
-el Pacto Internacional de Derechos Civiles y Políticos[236],
-el Pacto Internacional de Derechos Económicos, Sociales y Culturales[237]
-(PIDESC), la Convención Americana sobre Derechos Humanos[238],
-la Declaración de las Naciones Unidas sobre los Derechos del Niño[239]
-y la Declaración Universal de Derechos Humanos de 1948[240].
-
-*(ii)**Las personas* *en
-situación de discapacidad como sujetos de especial protección constitucional*
-
-306.
-La Carta Política de 1991, en su artículo
-13, definió como sujetos de especial protección constitucional a todas las
-personas que por su condición económica, física o mental se encuentren en
-circunstancia de debilidad manifiesta[241]
-y, de manera expresa, el mismo artículo señala que los abusos y maltratos que
-contra dichas personas se cometan serán objeto de sanción por parte del Estado.
-Asimismo, el Estado colombiano a través del artículo 93, introdujo dentro del
-ordenamiento jurídico la Convención sobre los Derechos de las Personas con
-Discapacidad de Naciones Unidas, la cual fue aprobada por el Congreso de la
-República a través de la Ley 1346 de 2009.
-
-307.
-Esta Corte también ha señalado que, en
-razón del artículo 13 de la Constitución, existe una obligación en cabeza del
-Estado colombiano de proteger de manera privilegiada a aquellas personas que,
-por su condición económica, física o mental, se encuentren en circunstancias de
-debilidad manifiesta. Por tanto, la jurisprudencia constitucional ha sostenido,
-respecto de las personas en situación de discapacidad, que:
-
-[E]l
-Estado tiene la obligación de brindar una protección cualificada a este grupo
-poblacional, en ese sentido debe “(i) procurar su igualdad de derechos y
-oportunidades frente a los demás miembros de la sociedad, (ii) adelantar las
-políticas pertinentes para lograr su rehabilitación e integración social de
-acuerdo a sus condiciones y (iii) otorgarles un trato especial, pues la no
-aplicación de la diferenciación positiva contribuye a perpetuar la marginación
-o la discriminación[242]
-
-308. En
-el mismo pronunciamiento, esta corporación sostuvo que «las
-acciones afirmativas van encaminadas a: (i) favorecer a determinadas personas o
-grupos de personas para lograr la eliminación o disminución de las
-desigualdades de tipo social, cultural o económico que los afectan; y (ii)
-lograr que los miembros de un grupo que usualmente ha sido discriminado tengan
-una mayor representación y participación social»[243].
-
-309. Partiendo
-del reconocimiento de las personas en situación de discapacidad como sujetos de
-especial protección del Estado, se incluye en el artículo 47 de la Constitución[244],
-la política de discapacidad, señalando que esta deberá adelantarse desde la
-previsión, rehabilitación e integración social.
-
-310. Sumado
-a lo anterior, es importante resaltar que el principio de rehabilitación
-funcional, reconocido en la Ley 1346 de 2009,
-es entendido como un «[p]roceso de acciones
-médicas y terapéuticas, encaminadas a lograr que las personas con discapacidad
-estén en condiciones de alcanzar y mantener un estado funcional óptimo desde el
-punto de vista físico, sensorial, intelectual, psíquico o social, de manera que
-les posibilite modificar su propia vida y ser más independientes»[245].
-
-*(iii)**El derecho a la salud*
-
-311.
-El derecho fundamental a la salud se
-encuentra consagrado en el artículo 49 de la Constitución Política, el cual
-dispone que la atención en salud es un servicio público a cargo del Estado que
-debe ser prestado conforme a los principios de eficiencia, universalidad y
-solidaridad. Asimismo, el derecho a la salud es desarrollado y protegido
-por diferentes instrumentos internacionales, los cuales se aplican a Colombia
-conforme el artículo 93 superior, entre los cuales se encuentran la Declaración
-Universal de los Derechos Humanos[246],
-el Protocolo Adicional a la Convención Americana sobre Derechos Humanos[247]
-y el PIDESC[248]. Igualmente, la Ley Estatutaria de Salud 1751 de 2015
-(LES) establece unos lineamientos esenciales para la comprensión del derecho a
-la salud en Colombia.
-
-312.
-La Corte Constitucional ha precisado en su
-jurisprudencia que la protección a la salud abarca una amplia gama de factores
-socioeconómicos, bienes y servicios, los cuales inciden en que una persona viva
-una vida bajo condiciones sanas y dignas:
-
-[E]l derecho a la salud abarca una amplia gama de
-factores socioeconómicos que promueven las condiciones merced a las cuales las
-personas pueden llevar una vida sana, y hace ese derecho extensivo a los
-factores determinantes básicos de la salud, como la alimentación y la
-nutrición, la vivienda, el acceso a agua limpia potable y a condiciones
-sanitarias adecuadas, condiciones de trabajo seguras y sanas y un medio
-ambiente sano[249]
-
-Este concepto, a su vez, comprende distintos
-escenarios constitucionales, entre los cuales se encuentra la prestación y el
-suministro de servicios y tecnologías en salud[250]
-
-313.
-Conforme con lo anterior, se ha
-manifestado por esta Corte en la Sentencia SU-475 de 2023 que el ámbito de
-protección de este derecho comprende tres puntos claves *(i)* cuatro
-componentes, *(ii)* múltiples derechos de los usuarios del SGSSS y *(iii)*
-obligaciones a cargo del Estado:
-
-*(i)* Componentes.
-El artículo 6º de la LES dispone que los componentes o “elementos esenciales e
-interrelacionados” del
-derecho fundamental a la salud son la: *(i)* disponibilidad[251], *(ii)* aceptabilidad[252], *(iii)* calidad[253] y *(iv)* accesibilidad[254] […]
-
-*(ii)* Derechos.
-El artículo 10 de la LES dispone que son derechos de los usuarios “relacionados
-con la prestación del servicio a la salud”, entre otros: *(a)* acceder
-a los servicios y tecnologías de salud que garanticen una atención
-integral; *(b)* recibir prestaciones de salud en las condiciones
-y términos consagrados en la ley; *(c)* la provisión y acceso
-oportuno a los servicios, tecnologías y medicamentos; *(d)*no
-ser sometido a tratos crueles o inhumanos que afecten su dignidad, ni a ser
-obligado a soportar sufrimiento evitable, ni a padecer enfermedades que pueden
-recibir tratamiento; *(e)* recibir los servicios de salud en
-condiciones de higiene, seguridad y respeto a su intimidad y *(f)*recibir
-un trato digno, que respete las creencias y costumbres del usuario, así como
-las opiniones personales que tengan sobre los procedimientos.
-
-*(iii)* Obligaciones
-del Estado. El artículo 5º de la LES prescribe que el Estado es el
-responsable de respetar, proteger y garantizar el goce efectivo del derecho
-fundamental a la salud. Para ello, el Estado deberá, entre otras, *(a)* formular
-y adoptar políticas de salud dirigidas a garantizar el goce efectivo del
-derecho para toda la población; *(b)* velar por el cumplimiento
-de los principios del derecho fundamental a la salud, según las necesidades de
-la población; *(c)* crear mecanismos para evitar la violación
-del derecho fundamental a la salud y su régimen sancionatorio; *(d)* llevar
-a cabo un seguimiento continuo de la evolución de las condiciones de salud de
-la población, así como *(e)* adoptar la regulación y las
-políticas para financiar de manera sostenible los servicios de salud y
-garantizar el flujo de los recursos para atender de manera oportuna y
-suficiente las necesidades en salud de la población. La Corte Constitucional ha
-señalado que el artículo 6º de la LES se integra a “un conjunto de obligaciones
-abierto”, por lo que “las obligaciones legales específicas, las obligaciones
-internacionales y las obligaciones básicas, incorporadas en [la Observación
-General 14 del Comité DESC de las Naciones Unidas] hacen parte de las
-obligaciones del Estado colombiano en materia de salud”
-
-*(iv)**Los niños, niñas y adolescentes con
-funcionalidad diversa y la protección de su derecho fundamental a la salud*
-
-314.
-La Ley Estatutaria de la Salud 1751 de
-2015[255] y
-la jurisprudencia[256] disponen
-que la salud es un derecho fundamental autónomo e irrenunciable. Este derecho
-comprende el *acceso* a los servicios de salud de manera completa,
-oportuna, eficaz y con calidad. En ese sentido, el artículo 8.º de la Ley 1751
-de 2015 que consagró el principio de la integralidad[257]
-ha sido utilizado como base por esta corporación para precisar que los usuarios
-del sistema de salud tienen derecho a recibir la atención y el tratamiento
-completo de sus enfermedades, de conformidad con lo prescrito por el médico
-tratante.
-
-315.
-En suma, el derecho a la salud de los NNA
-que se encuentran en situación de discapacidad ostenta una protección
-constitucional reforzada en atención a su especial condición de vulnerabilidad.
-Esta se deriva de los artículos 13.3, 44 y 47 de la Constitución Política, el
-principio constitucional de *interés superior del menor* e instrumentos
-internacionales como lo son, en particular, la Convención de los Derechos de
-las Personas con Discapacidad[258],
-la Convención sobre los Derechos del Niño[259],
-el PIDESC[260]
-y el Protocolo de San Salvador[261].
-
-316.
-Estas garantías nacen de la necesidad de
-asegurar el desarrollo armónico y vital de los NNA en situación de
-discapacidad, ya que «cualquier
-retraso o negación en la prestación del servicio puede llegar a afectar de
-manera irreversible su condición médica y proyectar sus procesos relacionales
-con su entorno, su familia y la sociedad en general, así como sus ciclos de
-formación académica y cognitiva»[262].
-
-317.
-Las garantías reforzadas incluyen, entre
-otras[263]:
-
-| | |
-| --- | --- |
-| **Garantías reforzadas del derecho a la salud los NNA en situación de discapacidad** | |
-| El derecho a recibir cuidados especiales y adecuados | De acuerdo con los diferentes ciclos vitales se debe garantizar la eliminación o disminución de las limitaciones en las actividades de la vida diaria de forma expedita. |
-| El mandato de protección a la salud prevalente y prioritaria | La atención en salud de los NNA en situación de discapacidad requiere que su prestación se garantice de forma inmediata sin obstáculos legales, administrativos, económicos o de ninguna otra índole. |
-| La garantía cualificada del principio de integralidad | Las entidades del SGGGS y el juez constitucional deben aplicar un enfoque diferencial y están llamados «a flexibilizar los requisitos para el otorgamiento de los servicios y las tecnologías en salud»[264]. |
-
-*(v)**La prohibición de anteponer barreras
-administrativas para la prestación del servicio de salud. Reiteración
-de jurisprudencia*
-
-318.
-Uno de los problemas más
-recurrentes que esta corporación ha detectado en cuanto a las fallas en el
-sistema de salud y la prestación del servicio es la imposición de barreras
-administrativas que impiden el acceso efectivo a los usuarios. Por tanto, se ha
-mencionado que «cuando se afecta la atención de un paciente con fundamento en
-situaciones extrañas a su propia decisión y correspondientes al normal
-ejercicio de las labores del asegurador, se conculca el derecho fundamental a
-la salud, en tanto se está obstaculizando por cuenta de cargas administrativas
-que no deben ser asumidas por el usuario»[265].
-
-319.
-Consecuentemente, los usuarios del
-servicio de la salud no pueden ver disminuido su derecho fundamental a la salud
-por imposición de cargas administrativas. «[L]a
-prestación efectiva y eficiente del servicio de salud no puede interrumpirse o fraccionarse
-con base en barreras administrativas que deban adelantar las entidades
-prestadoras de salud y/o conflictos entre los distintos organismos que componen
-el Sistema General de Seguridad Social en Salud»[266].
-
-320.
-Esto también implica la salvaguarda de los
-principios de *accesibilidad* e *integralidad* del
-SGGGS en Salud, por cuanto todos los usuarios tienen el derecho a recibir una
-atención y tratamiento completos, como se especificó anteriormente, sin que
-puedan ser fraccionados por razones administrativas y de falta de coordinación.
-
-321.
-Si bien existen trámites administrativos
-en el sistema de salud que son necesarios y deben cumplirse para mantenerse una
-organización y planeación del servicio, lo cierto es que muchos de ellos
-corresponden a diligencias propias de la EPS, como la contratación oportuna e
-ininterrumpida de los servicios médicos con las IPS. El relacionamiento entre
-EPS y entidad prestadora es una relación *exclusivamente* de las
-partes, motivo por el que no existe responsabilidad alguna del paciente en el
-cumplimiento de los trámites administrativos, coordinación o comunicación entre
-aquellas, ni se le pueden asignar tareas o imponer trabas y cargas en razón de
-tal relacionamiento interinstitucional.
-
-322.
-Es así, como la Sentencia T-405 de 2017
-indicó sobre este tema que:
-
-[L]a
-negligencia de las entidades encargadas de la prestación de un servicio de
-salud a causa de trámites administrativos, incluso los derivados de las
-controversias económicas entre aseguradores y prestadores, no puede ser
-trasladada a los usuarios por cuanto ello conculca gravemente sus derechos, al
-tiempo que puede agravar su condición física, psicológica e, incluso, poner en
-riesgo su propia vida. De ahí que la atención médica debe surtirse de manera
-oportuna, eficiente y con calidad, de conformidad con los principios de
-integralidad y continuidad, sin que sea constitucionalmente válido que los
-trámites internos entre EPS e IPS sean imputables para suspender el servicio[267]
-
-323.
-Adicional, la Corte ha identificado los
-siguientes efectos perjudiciales en los pacientes a quienes se les impone
-barreras administrativas injustificadas y desproporcionadas por las EPS:
-
-i) Prolongación
-del sufrimiento, debido a la angustia emocional que se genera en las personas
-soportar una espera prolongada para ser atendidas y recibir tratamiento;
-
-ii) Complicaciones
-médicas del estado de salud por la ausencia de atención oportuna y efectiva que
-genera el empeoramiento de la condición médica;
-
-iii) Daño
-permanente o de largo plazo o discapacidad permanente porque ha pasado
-demasiado tiempo entre el momento en que la persona acude al servicio de salud
-y el instante en que recibe la atención efectiva;
-
-iv) Muerte,
-que constituye la peor de las consecuencias y que ocurre por la falta de
-atención pronta y efectiva, puesto que la demora reduce las posibilidades de
-sobrevivir o su negación atenta contra la urgencia del cuidado requerido[268]
-
-324.
-Con base en ello, los
-desórdenes administrativos que afectan a los usuarios desconocen los principios
-que guían la prestación del servicio de salud, ya que:
-
-(i) no se puede gozar de la prestación del servicio en el
-momento que corresponde para la recuperación satisfactoria de su estado de
-salud (oportunidad), (ii) los trámites administrativos no están siendo razonables
-(eficiencia), (iii) no está recibiendo el tratamiento necesario para contribuir
-notoriamente a la mejora de sus condiciones de vida (calidad) y (iv) no está
-recibiendo un tratamiento integral que garantice la continuidad de sus
-tratamientos y recuperación (integralidad)[269]
-
-*(vi)**Marco legal, reglamentario y
-jurisprudencial de los copagos en el sistema de seguridad social en salud.
-Exoneración de copagos y cuotas moderadoras para personas con funcionalidad
-diversa física o cognitiva*
-
-325.
-El artículo 160 de la Ley 100 de 1993
-consagra como uno de los deberes de los afiliados y beneficiarios del SGSSS «[f]acilitar
-el pago, y pagar cuando le corresponda, las cotizaciones y pagos obligatorios a
-que haya lugar». El régimen de pagos compartidos y
-cuotas moderadoras propio de dicho sistema se encuentra regulado en el Acuerdo
-260 de 2004, expedido por el Consejo Nacional de Seguridad Social en Salud.
-
-326.
-La referida norma señala que las cuotas
-moderadoras en salud «tienen por objeto
-regular la utilización del servicio de salud y estimular su buen uso,
-promoviendo en los afiliados la inscripción en los programas de atención
-integral desarrollados por las EPS». Por su parte,
-los copagos «son los aportes en dinero que
-corresponden a una parte del valor del servicio demandado y tienen como
-finalidad ayudar a financiar el sistema».
-Mientras los primeros tienen como finalidad el financiamiento del sistema, las
-segundas tienen por objeto regular la utilización del servicio de salud y
-estimular su buen uso, promoviendo en los afiliados la inscripción en los
-programas de atención integral desarrollados por las EPS.
-
-327.
-El artículo 5.º del Acuerdo 260 de 2004
-establece que el cobro de los copagos y cuotas moderadoras debe consultar el *principio
-de equidad*, es decir, que este sistema no puede tornarse en una barrera
-para el acceso a los servicios de salud ni ser usado para discriminar a ciertos
-grupos poblacionales. En el mismo sentido se pronuncia el artículo 187 de la
-Ley 100 de 1993.
-
-328.
-Ahora bien, el artículo 6.º del Acuerdo
-260 de 2004 enlista los servicios a los que se aplican cuotas moderadoras.
-Estos son: consulta externa médica, odontológica, paramédica y de medicina
-alternativa aceptada; consulta externa por médico especialista; fórmula de
-medicamentos para tratamientos ambulatorios; exámenes de diagnóstico por
-laboratorio clínico, ordenados en forma ambulatoria y que no requieran
-autorización adicional a la del médico tratante, entre otras.
-
-329.
-Por su parte, el artículo 7.º establece
-que los copagos se aplican a todos los servicios de salud, excepto los
-servicios de promoción y prevención, enfermedades catastróficas o de alto
-costo, atención inicial de urgencias, así como programas de control en atención
-materno infantil y atención de enfermedades transmisibles.
-
-330.
-A su vez, el anterior listado de
-excepciones se le suman las establecidas en las resoluciones 3974 de 2009 y
-6468 de 2016 del Ministerio de Salud y Protección Social, esta última «[p]or
-la cual se modifica el Plan de Beneficios en Salud con cargo a la Unidad de
-Pago por Capitación (UPC)»[270],
-y en el Decreto 1652 del 2022 expedido por el Ministerio de Salud y Protección
-Social, que dispuso:
-
-Artículo
-2.10.4.9. Excepción del cobro de cuotas moderadoras y copagos para grupos o
-poblaciones especiales. Además de las excepciones señaladas en los artículos
-2.10.4.6 y 2. 10.4.8 del presente decreto, se exceptúa del cobro de cuotas
-moderadoras y copagos, según corresponda, a los siguientes grupos poblacionales
-especiales:
-
-En
-el Régimen Contributivo y Régimen Subsidiado, se exceptúa […]
-
-1.5.
-Los niños, niñas y adolescentes del Sisbén 1 y 2, con discapacidades físicas,
-sensoriales y cognitivas, enfermedades catastróficas y ruinosas que sean
-certificadas por el médico tratante, respecto a los servicios y medicamentos de
-la parte especial y diferenciada del Plan de Beneficios estarán exceptuados del
-cobro de cuotas moderadoras y copagos, conforme lo dispuesto en el artículo 18
-de la Ley 1438 de 2011 o las normas que los modifiquen o sustituyan […]
-
-1.9.
-Las personas en situación de discapacidad, en relación con su rehabilitación
-funcional cuando se haya establecido el procedimiento requerido, estarán
-exceptuadas del cobro de cuotas moderadoras y copagos, según lo dispuesto en el
-artículo 9, numeral 9 de la Ley 1618 de 2013[271]
-o las normas que los modifiquen o sustituyan […]
-
-331.
-Además, el artículo 18 de la Ley establece
-que «[l]os servicios y medicamentos de la
-parte especial y diferenciada del Plan de Beneficios para los niños, niñas y
-adolescentes con discapacidades físicas, sensoriales y cognitivas que sean
-certificadas por el médico tratante, serán gratuitos para los niños, niñas y
-adolescentes de Sisbén 1 y 2».
-
-332.
-Con todo, la jurisprudencia constitucional
-ha determinado que «además de la exoneración
-prevista en las normas pertinentes, hay lugar a la exención de dicho pago
-cuando se comprueba que el usuario del servicio de salud o su familia no
-cuentan con recursos económicos suficientes para asumir las cuotas moderadoras,
-copagos o cuotas de recuperación según al régimen que se encuentre afiliado»[272].
-En concreto, la exoneración procede cuando la persona que necesita con urgencia
-un servicio médico carece de la capacidad económica para asumir el valor de los
-pagos moderadores o, en caso de tener dicha capacidad, sí tiene problemas para
-hacer la erogación correspondiente antes de que este sea suministrado. En este
-último evento, la entidad prestadora deberá brindar oportunidades y formas de
-pago al afectado, para lo cual podrá exigir garantías adecuadas, sin que la
-falta de pago pueda convertirse en un obstáculo para acceder a la prestación
-del servicio.
-
-333.
-En suma, los copagos y las cuotas
-moderadoras en salud buscan obtener una contribución económica al sistema en
-razón a los servicios prestados. Sin embargo, no podrán exigirse en ciertos
-casos establecidos por la ley o cuando el paciente no tenga la capacidad
-económica para sufragar este gasto. Lo anterior, con el fin de no crear una
-barrera de acceso a los servicios de salud.
-
-334.
-Tratándose de una persona de especial
-protección constitucional, dada la situación de discapacidad y que es un menor
-de edad, esta Corte
-en Sentencia T-401A de 2022[273], amparó los derechos
-fundamentales de dos niños con autismo a los que su EPS les exigía cancelar
-copagos para el acceso a terapias de Análisis Conductual Aplicado (ABA por sus
-siglas en inglés). En esta oportunidad se concluyó que los NNA debían ser
-exonerados de la cancelación de esos copagos con base en la normatividad
-vigente.
-
-335.
-En particular, la
-decisión se fundamentó en el Acuerdo 260 de 2004del
-Ministerio de Salud y Protección Social y la Circular 016 de 2014 del mismo
-ministerio. Las terapias ABA son un conjunto de
-actividades tendientes a revertir condiciones de aislamiento en algunas
-personas con discapacidad y lograr cambios positivos en el comportamiento, las
-cuales implican un plan rutinario de
-actividades de control y son parte de un programa especial de atención
-integral. Así, la Corte reconoció en la Sentencia T-401A de 2022[274]
-que las terapias ABA deben exonerarse de copagos de
-acuerdo con la normatividad y jurisprudencia vigente.
-
-336.
-Para esta corporación el cobro de copagos
-o cuotas moderadoras no puede convertirse en una barrera de acceso al servicio
-de salud, sobre todo cuando quienes lo requieren son sujetos de especial
-protección constitucional y se acreditan los requisitos de la ley y la
-jurisprudencia. Lo anterior, ya que las causales de exoneración de cobro de
-copagos tienen una mayor relevancia para estas personas, frente a quienes se
-busca alcanzar y mantener un mejor estado de salud y el pleno goce de la vida
-en sociedad.
-
-337.
-En efecto, la Corte Constitucional ha
-señalado que «la exequibilidad del cobro de las
-cuotas moderadoras tendrá que sujetarse a la condición de que con éste nunca se
-impida a las personas el acceso a los servicios de salud; de tal forma que, si
-el usuario del servicio -afiliado cotizante o sus beneficiarios- al momento de
-requerirlo no dispone de los recursos económicos para cancelarlas o
-controvierte la validez de su exigencia, el Sistema y sus funcionarios no le
-pueden negar la prestación íntegra y adecuada»[275],
-regla que adquiere especial valor cuando se trata de personas de especial
-protección constitucional.
-
-*(vii)**Tratamiento integral**[276]***
-
-338.
-La Corte ha definido el tratamiento
-integral como una atención en salud de forma «ininterrumpida,
-completa, diligente, oportuna y con calidad»[277].
-En este mismo sentido, la prestación del servicio debe
-cumplir con todas las órdenes de los médicos tratantes en las condiciones
-estipuladas[278].
-
-339.
-De esta manera, para que el juez constitucional pueda ordenar el tratamiento
-integral debe comprobar que *(i)* la EPS fue negligente respecto a sus obligaciones con el
-paciente; *(ii)* la existencia de órdenes médicas con especificaciones
-tales como diagnósticos, insumos o servicios requeridos; y *(iii)* la
-calidad de sujeto de especial protección constitucional del accionante o su
-estado extremadamente grave de salud. Cabe destacar que el juez de tutela no
-puede emitir pronunciamiento sobre hechos futuros e inciertos, por lo que las
-prescripciones médicas deben ser claras[279].
-
-340.
-Así las cosas, para la materialización del
-derecho a la salud la prestación y el suministro de servicios y tecnologías
-deberá guiarse por el principio de integralidad, entendido como un principio
-esencial de la seguridad social en salud y que se refiere a la necesidad de
-garantizar el derecho, de tal manera que los afiliados al sistema puedan
-acceder a las prestaciones que requieran de manera efectiva, es decir, que se
-les otorgue una protección completa en relación con todo aquello que sea
-necesario para mantener su calidad de vida o adecuarla a los estándares
-regulares[280].
-
-341.
-Tal y como lo ha reiterado esta
-corporación, el tratamiento integral tiene la finalidad de «garantizar
-la continuidad en la prestación del servicio de salud y evitar la interposición
-de acciones de tutela por cada servicio prescrito por el médico tratante. Entre
-las circunstancias en las que procede su reconocimiento se encuentra cuando el
-peticionario es un sujeto de especial protección constitucional, como es el
-caso de las personas en situación de discapacidad física»[281],
-por lo que dicha integralidad pretende una garantía plena y confiable por parte
-del Estado y de los responsables del servicio, para que a futuro no se siga
-presentando la vulneración del derecho por la falta de prestación de este. Con
-ello se evita que la activación del aparato jurisdiccional a través de la
-acción de tutela se convierta en el mecanismo para que los usuarios del sistema
-de salud soliciten la cobertura y entrega material de cada servicio, con el
-agravante que la destinataria de este sea una persona de especial protección
-constitucional, como es el caso de aquellas en situación de discapacidad.
-
-*(viii)**Reconocimiento de los
-gastos de transporte para el paciente y un acompañante*
-
-342.
-El literal c) del artículo 6.°
-de la Ley Estatutaria de Salud 1751 de 2015 dispone: «(l)os servicios y tecnologías de salud deben ser
-accesibles a todos, en condiciones de igualdad, dentro del respeto a las
-especificidades de los diversos grupos vulnerables y al pluralismo cultural. La
-accesibilidad comprende la no discriminación, la accesibilidad física,la
-asequibilidad económica y el acceso a la información».
-
-343.
-En relación
-con lo anterior, aunque el transporte y los viáticos requeridos para asistir a
-los servicios de salud no constituyen servicios médicos, sí son elementos
-necesarios para el acceso en condiciones dignas. Entonces, su falta de
-suministro puede desconocer la faceta de accesibilidad al sistema de salud en
-los términos del literal c) del artículo 6.º de la Ley Estatutaria de Salud
-1751 de 2015.
-
-344.
-Respecto del transporte
-intramunicipal, por lo general, debe ser sufragado por el paciente y/o su
-núcleo familiar o red de apoyo[282]. Sin embargo, la jurisprudencia constitucional ha
-reconocido que la ausencia del servicio de transporte puede constituir, en
-ciertas circunstancias, una barrera de acceso a los servicios de salud. En estos casos, la Corte ha determinado que las EPS deben brindar
-dicho servicio de transporte no cubierto de manera expresa por el PBS, según la
-Resolución 2481 de 2020, específicamente, cuando «(i) ni el paciente ni sus familiares cercanos
-tienen los recursos económicos suficientes para pagar el valor del traslado y
-(ii) de no efectuarse la remisión se pone en riesgo la dignidad, la vida, la
-integridad física o el estado de salud del usuario»[283].
-
-345.
-Asimismo,
-esta corporación no solo ha previsto la necesidad de reconocer el servicio
-transporte para el usuario sino también para un acompañante, en la medida en
-que el PBS con cargo a la Unidad de Pago por Capacitación [UPC] no contempla
-esa posibilidad. Para tal fin, ha establecido que se debe corroborar que el
-paciente «(i) dependa
-totalmente de un tercero para su movilización, (ii) necesite de cuidado
-permanente para garantizar su integridad física y el ejercicio adecuado de sus
-labores cotidianas y, (iii) ni el paciente ni su familia cuenten con los
-recursos económicos para cubrir el transporte del tercero»[284].
-
-346.
-En conclusión, el transporte
-intramunicipal no está incluido en el PBS y, por lo tanto, *prima facie* debe
-ser cubierto por el paciente o su núcleo familiar. No obstante, cuando el
-paciente no tiene recursos económicos para sufragar este gasto, se constituye
-en una barrera de acceso a los servicios de salud. En esos casos, entonces, las
-EPS deben cubrir aquel y, si es necesario, también el de un acompañante.
-
-**Análisis del caso
-concreto**
-
-*(i)**En cuanto a la violación
-del debido proceso*
-
-347.
-Según se indicó en el acápite de
-antecedentes, en el trámite de segunda instancia de la acción de tutela, el *Juzgado
-del Circuito* utilizó el sistema de IA denominado *ChatGPT*
-3.5, para formular una serie de preguntas en materia de derecho a la salud y
-exoneración de cuotas moderadoras en sede de tutela, así como sobre las
-decisiones emitidas por la Corte Constitucional en torno al asunto, las cuales
-fueron incluidas, junto con las respectivas respuestas, en la sentencia de
-segunda instancia proferida por esa autoridad judicial el 30 de enero de 2023.
-
-348.
-En tales condiciones, la Sala de Revisión
-estima procedente realizar un estudio oficioso acerca de la validez del fallo
-en cuestión, a efectos de establecer si para la adopción de este se generó
-alguna irregularidad que implique la violación del derecho al debido proceso,
-específicamente por el eventual desconocimiento de la garantía del juez
-natural. Para ello, se analizarán los postulados del debido
-proceso y, consecuentemente, si se ocasionó o no una afectación al derecho
-subjetivo al debido proceso de la accionante y de su hijo.
-
-349.
-Cabe
-recordar que, en este caso, *Blanca*,
-actuando como madre y representante legal de su hijo menor de edad, interpuso
-una acción de tutela en contra de la EPSa
-efectos de que se reconociera el derecho del niño a *(i)* ser exonerado de
-copagos y cuotas moderadoras en salud respecto de las terapias que le fueron
-prescritas, *(ii)* al reconocimiento de los gastos de transporte para
-asistir a las mismas y *(iii)* a recibir un tratamiento integral.
-
-350.
-En sentencia de primera instancia
-proferida el 7 de diciembre de 2022, el *Juzgado
-Municipal* amparó los derechos a la salud y a
-la vida en condiciones dignas del niño. En consecuencia, le ordenó a la EPS,
-primero,autorizar el valor del transporte urbano o suministrar el
-servicio al menor de edad y a un acompañante con el fin de asegurar su
-desplazamiento a la institución que corresponda, para recibir las terapias
-integrales prescritas por médico tratante y, segundo,asumir la
-prestación de los servicios de salud que en adelante requiera el menor como
-consecuencia del diagnóstico «trastorno de espectro
-autista», sin exigencia de copagos o cuotas
-moderadoras mientras subsista la insuficiencia de recursos económicos de sus
-padres para asumirlas. Por lo demás, se abstuvo de ordenar el tratamiento
-integral al no hallar prueba dentro del expediente que hubiese sido prescrito
-por el médico tratante. La EPS, la cual en el trámite de la acción
-constitucional accedió a brindar el servicio de transporte, pero se negó a
-exonerar al menor del cobro de copagos y cuotas moderadoras, impugnó la
-decisión.
-
-351.
-El *Juzgado
-del Circuito*, autoridad a la que correspondió el
-conocimiento del asunto en segunda instancia, dictó sentencia el 30 de enero de
-2023 en la que confirmó integralmente el fallo del 7 de diciembre de 2022.
-La parte motiva de la decisión se dividió en once numerales, así: *(i)*pretensiones de la acción de tutela; *(ii)*situaciones fácticas; *(iii)*contestación de la acción de tutela; *(iv)*sentencia de primera instancia, orden
-judicial y consideraciones relevantes; *(v)*¿quién impugna y por qué motivos lo hace?;
-*(vi)* problemas
-constitucionales que resolverá el juez de tutela; *(vii)*¿es procedente la presente acción de
-tutela?; *(viii)* ¿cuál
-es la tesis que se tomará en el caso?; *(ix)*¿cuáles son las disposiciones jurídicas
-aplicables en el caso?; *(x)* la
-Corte Constitucional, sobre este asunto y/o similar ¿ha proferido alguna
-decisión que resulta aplicable como precedente?; y *(xi)*caso concreto ¿se vulneran los derechos
-fundamentales alegados?
-
-352.
-En este planteamiento metodológico, el
-fundamento jurídico de la decisión incluyó en los numerales nueve y diez, los
-que, en el mismo orden, contienen las normas constitucionales (preámbulo y
-artículos 1, 2, 3, 4, 48, 49, 50 y 86) y la jurisprudencia que el juez estimó
-aplicable al caso. En cuanto a esta última, el fallo se refirió a la Sentencia
-T-674 de 2016, de la que resaltó los hechos relevantes[285]
-a efectos de demostrar la innegable semejanza fáctica con el caso que estaba
-conociendo; transcribió la orden de amparo[286]
-que impartió dicha sentencia y aludió a las circunstancias en las que, según la
-providencia de la Corte, procedía la exoneración de cobro de copagos y cuotas
-moderadoras[287].
-
-353.
-Seguidamente, al estudiar el caso
-concreto, el *Juez del Circuito*
-sostuvo que la EPS accionada no desvirtuó la falta de recursos económicos que
-alegó la actora como impedimento para sufragar los gastos de copagos y cuotas
-moderadoras por la atención médica de su hijo. Concluyó entonces que el cobro
-de esos conceptos representaba una barrera de acceso a los servicios de salud
-del menor.
-
-354.
-Dicho lo anterior, «atendiendo
-que la Ley 2213 de 2022 tiene por objeto la incorporación de las TIC en los
-procesos judiciales», el juez advirtió que
-haría uso de herramientas de inteligencia artificial para «extender
-los argumentos de la decisión adoptada».
-La sentencia contiene las siguientes preguntas que realizó el juzgador en la
-interfaz de *ChatGPT*, cada una de ellas seguida de la respuesta que
-arrojó la herramienta de IA:
-
--
-¿Menor autista está exonerado de pagar
-cuotas moderadoras en sus terapias? […]
-
--
-¿Las acciones de tutela en estos casos se
-deben conceder? […]
-
--
-¿Exigir en estos casos la cuota moderadora
-es una barrera de acceso al servicio de salud? […]
-
--
-¿La jurisprudencia de la Corte
-Constitucional ha tomado decisiones favorables en casos similares? […]
-
-355.
-A continuación, explicó que su propósito
-con el uso de este tipo de sistemas no era reemplazar la decisión del juez,
-sino optimizar los tiempos empleados en la redacción de sentencias, previa
-corroboración de la información obtenida. Hecha esta aclaración, la sentencia
-procedió con la parte resolutiva.
-
-356.
-Ahora bien, en el trámite de revisión ante
-la Corte Constitucional, el despacho del magistrado sustanciador decretó como
-prueba la declaración del *Juez del
-Circuito*. En la diligencia, el funcionario informó
-que ha tenido una especial curiosidad por la implementación de herramientas
-tecnológicas al servicio de la justicia. En efecto, indicó que, con el cierre
-de los despachos judiciales por pandemia, lideró la creación de una «baranda
-virtual» para permitir el acceso de la ciudadanía
-a los servicios de su despacho, instrumento que fue ampliamente difundido y,
-tiempo después, adoptado por el Consejo Superior de la Judicatura. Además,
-afirmó que, como docente universitario en derecho constitucional y en procesal,
-siempre ha fomentado en sus estudiantes el uso ético de las tecnologías, pues
-estas democratizan en mayor medida el proceso de acceso a la administración de
-justicia.
-
-357.
-Al ser indagado por el uso de IA en la
-referida sentencia, el operador judicial sostuvo que acudió a la versión
-gratuita disponible en ese momento, esto es, *ChatGPT 3.5.*, y explicó
-que, en todo caso, la decisión la tomó él, no la IA, la que consultó
-simplemente como una herramienta más de trabajo. Sobre el particular señaló
-textualmente que:
-
-[L]a
-resolución del caso tiene dos metodologías, una tradicional y una que podemos
-denominar a través de uso de inteligencia artificial, parte de reconocer dos
-cosas. Uno, que el juez cumpla con el deber de transparencia y esta fue la
-primera idea que tuve en mi cabeza, yo tengo que mandarle un mensaje a la
-sociedad de que hay transparencia de dónde viene esta información. Dos, que
-exista corroboración y la sentencia dice que esta información ha sido
-corroborada por el juez. Y tres, que al final el juez le diga a la sociedad que
-el responsable de esta decisión sigo siendo yo y me he ayudado en la generación
-de texto porque considero que la generación de texto predictiva, producto de
-inteligencia artificial generativa va acorde con lo que yo reconozco intuitivamente
-como el vector de la jurisprudencia de la Corte Constitucional. Para concluir y
-cerrar la pregunta, o por lo menos de mi parte, dar la conclusión a la pregunta
-es: se utilizó la herramienta artificial como herramienta de trabajo.
-Exactamente en ese momento histórico en el que nos encontramos, que puede ser
-muy distinto al que sabemos hoy de la interacción de los datos y la interacción
-de la predicción de los textos y, sobre todo los generados por algoritmos de *transformers*
-o algoritmos generativos, en ese momento, bajo la gravedad de juramento,
-manifiesto a la Corte Constitucional que el uso de la herramienta se utilizó
-como mera herramienta de colaboración, como exactamente se podría utilizar la
-búsqueda de un documento en un fichero biblioteca que también se encuentra en
-internet[288]
-
-358.
-Más adelante, sobre la que denominó
-metodología tradicional, afirmó que los demás insumos que utilizó para la
-motivación del fallo fueron la búsqueda selectiva en base de datos de
-jurisprudencia, en internet. Además, enfatizó en que la sentencia fue clara al
-explicar que las respuestas que emitió *ChatGPT* eran solo un complemento
-de la decisión que ya había tomado con base en los mecanismos tradicionales. De
-acuerdo con ello, consideró que el uso de aquella herramienta no desplazó la
-decisión del juez. Al respecto explicó que:
-
-[L]a
-decisión está tomada bajo fundamentos clásicos de administración de justicia en
-razonamiento, tales como lo prevén los artículos 280 y subsiguientes del Código
-General del Proceso, y en la aplicación de estos, esta incorporación de las
-consideraciones adicionales no pasa de ser más que mera doctrina sin
-doctrinantes, porque esto es un nuevo concepto que se está generando a partir
-de la inteligencia artificial generativa […] yo he revisado esto, yo soy el
-responsable, por lo tanto, no hay ningún tipo de desplazamiento del juez y esa
-fue la firme convicción que se tuvo en ese día, es decir, hay que mandar un
-mensaje de que aquí no hay ningún desplazamiento porque yo he verificado, yo he
-corroborado y eso está expresamente en la sentencia, luego de haberse
-corroborado la información, entonces por esa razón considero […] que no hay
-ningún tipo de desplazamiento de la función de juez en la administración de
-justicia[289]
-
-359.
-Visto lo anterior, la Sala de Revisión
-encuentra que el principio constitucional de acceso a la administración de
-justicia y los postulados del derecho al debido proceso no
-se encuentran afectados, pues en lo que interesa al caso concreto la decisión
-del juez de segunda instancia se motivó bajo los parámetros «tradicionales» de la
-argumentación jurídica. En ese sentido, aunque se hizo uso de la herramienta de
-*ChatGPT* para complementar la parte motiva, en el fallo es evidente que
-el juez ya había realizado un análisis propio del asunto para el momento en que
-introdujo el razonamiento de la IA. Además, la
-sentencia objeto de revisión, proferida el 30 de enero de 2023 por el *Juez del Circuito* no incurrió en
-una violación de la garantía del juez natural, pues, en dicho evento, el uso de
-la IA no suplió al juez ni hizo sus veces.
-
-360.
-Por ello resulta insostenible afirmar que
-hubo un remplazo del ejercicio de la función jurisdiccional por parte de *ChatGPT.* No obstante reconocer el actuar innovador y leal del juez de segunda
-instancia, esta Sala debe llamar la atención respecto a su gestión, pues,
-aunque no se cuestiona la validez de la decisión por esta haber sido tomada con
-antelación del uso de la herramienta de *ChatGPT*, lo cierto es que en el
-caso concreto no se cumplen a cabalidad con los principios de transparencia y
-responsabilidad requeridos al momento de usarse herramientas de IA en la toma
-de decisiones judiciales. Lo anterior, conforme a lo expuesto en la parte
-considerativa de este fallo. Sin embargo, desde ahora se deja en claro que el
-principio de privacidad sí se cumplió, ya que en ningún momento se introdujeron
-datos sensibles y personales del niño o del caso concreto en el sistema
-consultado, como por ejemplo podría ser la historia clínica, ni tampoco se
-agregó información privada de las partes involucradas en la disputa.
-
-361.
-Respecto al principio de transparencia es
-importante mencionar que este no se agota con la simple manifestación de que se
-usó la herramienta y la transcripción de las preguntas y respuestas obtenidas.
-En este punto es clave considerar la prueba que adelantó el despacho
-sustanciador, pues con ella quedó claro que para que *ChatGPT* ofrezca
-matices en sus respuestas se deben incorporar datos de contexto y otras
-instrucciones, por eso las respuestas varían dependiendo de si se le informa
-que quien pregunta es un juez, un estudiante o si no se le brinda esa
-información a la herramienta. En el caso concreto, se evidencia que la
-exposición que hizo el juez respecto del uso de la herramienta es apenas
-parcial.
-
-362.
-En cuanto a la falta de diligencia sobre
-la carga que se genera por el principio de responsabilidad, se reitera que este
-último está estrechamente ligado con la trazabilidad de las fuentes, toda vez
-que es en este punto en el que las herramientas de IA alucinan y crean o
-inventan fuentes, como autores o sentencias que no existen. Sobre el
-particular, si bien resalta la necesidad de verificar toda la información
-referenciada por una IA no especializada, preocupa el posible aumento de la
-carga de trabajo por esta doble labor de búsqueda de información y posterior
-verificación, de manera que, en lugar de simplificarse los procesos y ahorrarse
-costos, pueda terminarse con una mayor sobrecarga en la gestión del operador.
-
-363.
-En el asunto en cuestión, el juez manifestó que haría uso de herramientas de IA generativas «atendiendo que la Ley 2213 de
-2022 tiene por objeto la incorporación de las TIC en los procesos judiciales». Sin embargo, el artículo 2.º
-de ese mismo cuerpo normativo prescribe que «[s]e podrán utilizar las tecnologías de la información y de las
-comunicaciones, *cuando se disponga de los mismos de manera idónea*, en *la
-gestión y trámite de los procesos judiciales* y asuntos en curso, con el fin
-de facilitar y agilizar el acceso a la justicia»[290].
-
-364.
-Bajo estos parámetros, el
-funcionario judicial corrió el riesgo de *faltar a la veracidad de la información*,
-dado que incluyó en su fallo datos suministrados por la aplicación de IA que no
-eran del todo precisos. En punto a la exoneración de copagos y cuotas
-moderadoras, como lo refiere esta providencia, el régimen jurídico aplicable se
-encuentra contenido en el Acuerdo 260 de 2004, expedido por el Consejo Nacional
-de Seguridad Social en Salud, la Resolución 6468 de 2016 del Ministerio de
-Salud y Protección Social y la Circular 016 de 2014 del Ministerio de Salud. No
-obstante, *ChatGPT* suministró una información diferente cuando el juez
-indagó sobre este asunto, pues le indicó que la exoneración de cuotas
-moderadoras para niños, niñas y adolescentes con diagnóstico del espectro
-autista está regulada por la Ley 1753 de 2015[291],
-pese a que ello no es así.
-
-365.
-Igualmente, la Sala hace un llamado sobre
-el debido manejo de los sistemas de IA, pues la forma en que se consultó por
-parte del juez de instancia a la plataforma *ChatGPT* no es acorde con la
-carga de responsabilidad y los principios de prevención de riesgos, pues al
-final las preguntas iban encaminadas a la posible resolución del caso y
-pareciera no haber un contexto inicial para consultarle a la IA, lo cual es
-fundamental, teniendo en cuenta que esta es una herramienta que no se
-especializa en aplicación del derecho colombiano. Así, el
-deber de los jueces de dictar decisiones claras y comprensibles para todas las
-personas, se contrapone con la exposición de argumentaciones innecesarias y
-superfluas. Lo anterior, sin desconocer el valor y utilidad que tienen las *obiter
-dicta* en la estructura de los fallos.
-
-366.
-En consecuencia, conviene recordar que las
-fuentes empleadas por los jueces son una parte esencial de la construcción de
-una decisión judicial, las cuales son, según una orientación
-de la argumentación jurídica, *(i)*
-las *razones de hecho* que describen la realidad, susceptibles de ser
-verdaderas o falsas, y *(ii)* las *razones de derecho*, que buscan
-influir en la realidad y se orientan hacia la validez más que a su veracidad.
-
-367.
-Existe una distinción entre *razones de
-autoridad*, cuya fuerza proviene de su origen, como la Constitución, la ley
-y el precedente, y *razones de principios*, cuya fuerza radica en su
-contenido y pueden derivar de consideraciones políticas, económicas o morales.
-Estas últimas son fundamentales en el discurso práctico y están directamente
-relacionadas con las fuentes del derecho.
-
-368.
-En cuanto a la aplicación judicial, hay *(i)*
-fuentes que deben citarse obligatoriamente para la validez de una sentencia,
-tal como la Constitución y la ley; *(ii)* fuentes cuya omisión podría
-debilitar, pero no invalidar una decisión, como los antecedentes legislativos y
-la doctrina autorizada; y *(iii)* fuentes cuya inclusión es opcional y no
-afecta la validez de la decisión, como ocurre con el derecho comparado y los
-textos históricos. La omisión de las primeras compromete la validez de la
-sentencia, mientras que las segundas y terceras categorías ofrecen un margen de
-flexibilidad en el sustento de las decisiones judiciales.
-
-369.
-En razón de ello, el uso de herramientas
-de IA no especializadas y autorizadas expresamente para la función jurídica
-colombiana solo deberían ofrecer información sobre el discurso descriptivo,
-pero no sobre el normativo. Por tanto, preguntas acerca de cómo resolver un
-caso no son admisibles y si se hacen preguntas descriptivas
-del tipo, ¿qué es el trastorno de espectro autista? o ¿qué fuentes debo
-consultar para conocer la jurisprudencia colombiana sobre el derecho a la salud
-de niños autistas?, entonces el juez debe tener en cuenta que es información
-riesgosa y, por ello, asumir las cargas de transparencia, responsabilidad y
-privacidad. También, el juez o magistrado debe tener en cuenta los sesgos y, en
-caso de que formule una pregunta que pueda verse afectada por los mismos, ha de
-asumir nuevas cargas, como lo puede ser el manejo del resultado de su búsqueda,
-lo cual solo se logra si hay una capacitación respecto al uso de estas
-tecnologías y si se comprende el funcionamiento mismo de la IA correspondiente.
-
-370.
-Por ello, a continuación, esta
-Sala expone cuándo se entienden cumplidos los principios de transparencia,
-responsabilidad y privacidad por los operadores jurídicos que hacen uso de las
-herramientas de IA.
-
-371.
-*Transparencia.* Se cumple cuando el funcionario judicial: *(i)* pone en conocimiento de las partes que hizo uso de una herramienta
-de IA en el transcurso del proceso; *(ii)* expone las razones por las
-cuales tiene conocimiento del debido uso de estas herramientas tecnológicas,
-por ejemplo, se ha capacitado, ha hecho estudios especializados en el tema, etc; *(iii)* precisa el funcionamiento del sistema de IA que se utilizó, entre lo que
-es de especial importancia resaltar las capacidades de la IA y sus
-limitaciones; *(iv)* expone toda
-fundamentación que se haga alrededor del uso de una IA de manera comprensible,
-convincente, completa y específica; *(v)* da a conocer de manera irrestricta los datos utilizados y el lugar
-que esta información ocupa dentro de la decisión judicial; y *(xi)*
-establece la razones por las que el sistema de IA se debe emplear, es decir, se
-hace un análisis de necesidad e idoneidad sobre el uso de IA.
-
-372.
-*Responsabilidad.* Teniendo en cuenta que las decisiones
-judiciales que acudan a este tipo de herramientas -IA- deberán dar cuenta del *origen*,
-*idoneidad y necesidad* de la información utilizada, la responsabilidad
-del juez se centra, especialmente, en *verificar* que la información sea
-real, apropiada para el asunto, respetuosa de los presupuestos fácticos y
-jurídicos, y comprensible para la administración de justicia y los
-administrados. Es responsabilidad del juez estar capacitado y comprender el
-buen manejo de estas tecnologías al interior de la administración de justicia y
-sus impactos. Por esta razón, se debe evitar el uso de algoritmos de *black
-box*, respecto de los cuales se conocen los datos de entrada y el resultado,
-pero no la forma en la que la información es procesada. Por lo demás, el juez o
-magistrado debe asegurarse que el sistema utilizado esté entrenado con datos
-recientes, suficientes y relevantes para el contexto colombiano o de aplicación
-y, de evidenciarse algún tipo de inconsistencia, manifestarlo expresamente en
-la decisión judicial.
-
-373. *Privacidad.* El funcionario judicial
-tiene el deber de custodiar y proteger la reserva de los datos personales y
-sensibles que se ponen en conocimiento de la administración de justicia para
-cumplir con los fines propios de la Rama Judicial. Consecuentemente, es
-necesario realizar una evaluación sobre los riesgos que implica suministrar
-este tipo de datos a sistemas de IA y evitar su filtración, más aún cuando las
-herramientas tecnológicas son externas al funcionamiento de la justicia en
-Colombia o no están expresamente autorizadas para la función judicial en el
-país.
-
-374.
-Teniendo en cuenta todo lo anterior, se
-reitera que, aunque el juzgador decidió integrar las respuestas de la IA como
-parte de la fundamentación de la sentencia, lo hizo luego de haber analizado
-las normas y precedente aplicables, de estudiar las circunstancias particulares
-del caso y de tomar una decisión al respecto. Así lo explicó el juez en la
-declaración que rindió ante esta Corte y así quedó consignado en la sentencia
-misma, toda vez en el orden metodológico que adoptó el fallo de tutela, el
-funcionario judicial primero identificó la tesis que sostendría, luego las
-normas constitucionales aplicables al caso, el referente jurisprudencial que se
-debía atender por guardar identidad fáctica con el asunto analizado, para
-posteriormente solucionar el caso concreto al indicar que el cobro de copagos y
-cuotas moderadoras constituía una barrera de acceso al servicio de salud del
-menor y, solo entonces, anunció y procedió a efectuar la consulta en el
-referido sistema de IA. Luego de transcribir las respuestas que arrojó la
-aplicación, «a título de iniciativa que permita dar
-celeridad a la resolución de los asuntos de tutela»,
-consideró procedente que estas se extendieran como fundamento de la
-providencia, no para efectos de «reemplazar la
-decisión del [j]uez [sino de] optimizar los tiempos empleados en redacción de
-sentencias, previa corroboración de la información suministrada por IA».
-
-375.
-El anterior contexto permite afirmar que, aunque
-hubo un uso indebido de la herramienta de IA, pues no se cumplió con los
-principios de transparencia y responsabilidad en su totalidad, la decisión del *Juez del Circuito* está dotada de
-completa validez. Ello, por cuanto la actividad de motivación, valoración de
-hechos, análisis de pruebas, aplicación normativa y toma de la decisión fue
-desarrollada directamente por el juez competente. La generación del texto por
-parte de *ChatGPT* que se integró al fallo de tutela no reemplazó el
-razonamiento lógico y humano que le correspondía al operador judicial para
-estudiar y solucionar la controversia y con él no se hizo una valoración
-probatoria de la actuación.
-
-376.
-En conclusión, no se observa en el
-presente trámite que se configure una violación del derecho al debido proceso,
-originada en el fallo de tutela de segunda instancia, pues el uso de *ChatGPT*
-en el caso sometido a estudio no comportó una usurpación de la función de
-administración de justicia a cargo de la autoridad judicial competente.
-
-*(ii)**En cuanto a la violación al derecho a la salud,
-relacionada con la exoneración de* *cobros de copagos
-y cuotas moderadoras en el SGSSS para niños con funcionalidad diversa*
-
-377.
-En cuanto a este aspecto tenemos que *Blanca* interpuso acción de tutela en representación de
-su hijo menor de edad *Emilio* contra la *EPS*, para la protección de sus derechos a la salud,
-la vida digna y la seguridad social. La Sala procederá a relacionar los hechos
-probados y determinará si han sido vulnerados los derechos fundamentales del
-niño.
-
-378.
-*Emilio* tiene 5 años[292], vive en la ciudad
-de Cartagena, Bolívar, y se encuentra afiliado a la *EPS*en el régimen
-contributivo, en calidad de beneficiario.
-
-379.
-El niño está
-diagnosticado con *trastorno de espectro autista*. A raíz de su condición
-de salud, recibe atención médica por diferentes especialidades como
-neuropediatría,
-otorrinolaringología, neuropsicología y genética. Además, como parte del tratamiento médico, debe asistir a
-terapias integrales de rehabilitación, con énfasis cognitivo conductual y de
-integración sensorial, en las áreas
-de psicología, terapia ocupacional y
-fonoaudiología.
-
-380.
-El 31 de agosto de 2022, *Blanca*,
-madre del niño, radicó una petición ante la EPS,
-en la que solicitó que fuera exonerada del «pago
-de cuotas moderadoras de salud y copagos»[293].
-
-381.
-Por solicitud de la EPS, la señora
-presentó un nuevo escrito en el que indicó la causal que hacía procedente la
-exoneración solicitada, sin embargo, la EPSno
-adelantó las gestiones necesarias para brindar el beneficio.
-
-382.
-De forma adicional, *Blanca*
-le solicitó a la empresa promotora de salud que corriera con los gastos de
-transporte para asistir a las terapias. Según informó, la EPSno emitió respuesta a esta solicitud.
-
-383.
-Por medio de tutela, la señora *Blanca*
-pretendió, en relación con la atención médico
-asistencial de su hijo, la exoneración de copagos y cuotas moderadoras, el
-reconocimiento de los gastos de transporte suyo y del niño para la asistencia a
-terapias y el tratamiento integral.
-
-384.
-La accionante
-adujo no tener los recursos suficientes a efectos de sufragar tales
-erogaciones. La Sala de Revisión encuentra que está clasificada en el grupo A4
-del SISBEN[294],
-es decir, en pobreza extrema y, aunque registra en el régimen contributivo de
-salud[295],
-lo está en calidad de beneficiaria.
-
-385.
-La sentencia bajo revisión
-confirmó la de primera instancia que amparó
-los derechos a la salud y a la vida en condiciones dignas del niño. En
-consecuencia, le ordenó a la *EPS* *(i)*autorizar el valor del transporte urbano o
-suministrar el servicio al menor de edad y a un acompañante con el fin de
-asegurar su desplazamiento a la institución que corresponda, para recibir las
-terapias integrales prescritas por el médico tratante y *(ii)* asumir la
-prestación de los servicios de salud que en adelante requiera el menor de edad
-como consecuencia del diagnóstico «trastorno de
-espectro autista», sin exigencia de copagos o cuotas
-moderadoras mientras subsista la insuficiencia de recursos económicos de sus
-padres para asumirlas. El
-tratamiento integral no fue ordenado pues el juez no encontró prueba de haber
-sido prescrito por el médico tratante del niño.
-
-386.
-La Sala confirmará
-parcialmente la sentencia por las razones que se exponen a continuación.
-
-*Copagos y cuotas
-moderadoras*
-
-387.
-Como
-lo señalaron las decisiones judiciales de instancia, en el presente caso se
-cumplen las condiciones para exonerar al niño *Emilio*
-del cobro de copagos y cuotas moderadoras con ocasión de los servicios y
-medicamentos que requiera. Esto con fundamento en las leyes 1438 de 2011 y 1618
-de 2013, así como el Decreto 1652 del 2022.
-
-388.
-En
-efecto, los artículos 18 de la mencionada Ley 1438 y 2.10.4.9
-(numeral 1.5.) del Decreto 1652 del 2022 consagran la gratuidad de la atención
-médica para los niños, niñas y adolescentes con discapacidades físicas,
-sensoriales y cognitivas, certificadas por el médico tratante, clasificados en
-el SISBÉN 1 y 2 (antigua metodología de clasificación Sisbén III). *Emilio*
-quedaría comprendido dentro del beneficio como quiera que está diagnosticado
-con *trastorno de espectro autista* y, su madre, con quien vive y de quien
-depende, se encuentra clasificada en el
-grupo A4 del Sisbén (metodología IV), correspondiente a situación de pobreza
-extrema.
-
-389.
-El «[p]rotocolo
-clínico para el diagnóstico, tratamiento y ruta de atención integral de niños y
-niñas con trastornos del espectro autista»[296],
-expedido en 2015 por el Ministerio de Salud y Protección Social, define los
-trastornos del espectro autista (TEA) como «un
-grupo de alteraciones o déficit del desarrollo de características crónicas y
-que afectan de manera distinta a cada paciente»[297].
-El documento sostiene que los TEA implican una «disfunción
-neurológica crónica con fuerte base genética que desde edades tempranas se manifiesta
-en una serie de síntomas basados en la tríada de Wing que incluye: la
-comunicación, flexibilidad e imaginación e interacción social»[298].
-
-390.
-Respecto del tratamiento de los TEA, el
-mencionado protocolo explica que no es curativo sino terapéutico. Sobre el
-particular, aduce que:
-
-Existen terapias farmacológicas dirigidas
-al tratamiento o manejo de síntomas asociados o comorbilidades como
-hiperactividad, depresión, convulsiones, entre otras. (16, 24) La terapia para
-las personas con diagnóstico de TEA debe estar orientada a la identificación e
-intervención de la conducta, la comunicación y la convivencia, a través de
-intervenciones comportamentales, intervenciones educativas e intervenciones
-psicosociales. Siempre será necesario realizar educación sobre los TEA y
-consejería después del diagnóstico, dado que puede ayudar a mejorar la
-interacción posterior con la persona y su entorno. (16) Estas intervenciones
-buscan enseñarle al niño destrezas específicas que le permitan aumentar su
-autonomía. Para lo anterior se han diseñado diferentes estrategias o programas
-de intervención, como los métodos conductuales y de comunicación, que son
-aquellas que proporcionan estructura, dirección y organización como complemento
-de la participación familia, dentro de ellos se encuentra el análisis
-conductual aplicado (ABA)
-
-391.
-La conclusión en cuanto a la procedencia
-del amparo que solicitó la madre del menor se ve reforzada por *(i)* el
-artículo 66 de la Ley 1438 de 2011, que ordena la atención integral de las
-personas en situación de discapacidad, así como una política nacional de salud
-con enfoque diferencial, *(ii)* el artículo 9.º de la Ley 1618 de 2013,
-que en desarrollo del anterior, dispone la rehabilitación funcional de las
-personas con discapacidad sin el pago de cuotas moderadoras o copagos, como
-parte de las garantías para asegurar su derecho a una
-habilitación y rehabilitación integral que les permita lograr y mantener la
-máxima autonomía e independencia, así como la inclusión y participación plena
-en todos los aspectos de la vida y *(iii)* el numeral 1.9 del artículo 2.10.4.9
-del Decreto 1652 del 2022 que exceptúa del cobro de cuotas moderadoras y
-copagos a las personas en situación de discapacidad, en relación con su
-rehabilitación.
-
-392.
-Visto lo anterior, resulta ajustada la
-decisión que tomaron los jueces de tutela de instancia consistente en exonerar
-del cobro de copagos y cuotas moderadoras al menor de edad agenciado. En
-efecto, según informó la EPS,
-con ocasión del fallo de tutela de primera instancia, procedió a autorizar
-dicha exoneración,
-circunstancia que fue confirmada por la accionante en el informe presentado
-ante esta corporación.
-
-393.
-Con todo, lo
-cierto es que *Blanca*
-también informó que, en muchas ocasiones, las IPS encargadas de la atención del
-niño no tienen conocimiento que deben exonerar al menor de edad los cobros de
-copagos y cuotas moderadoras, lo que la ha obligado a gestionar diferentes
-trámites administrativos para que la EPS comunique el beneficio a las entidades
-prestadoras y ellas puedan aplicarlo.
-
-394.
-En tales condiciones, aunque esta Sala de
-Revisión no cuestiona que la accionada haya autorizado la exoneración de tales
-conceptos, lo cierto es que no ha adelantado diligentemente todos los esfuerzos
-para que el amparo inherente a esa exoneración se haga completamente efectivo.
-La falta de comunicación e información a las IPS sobre la gratuidad de los
-servicios y medicamentos que se le ordenen al niño ha representado una barrera
-administrativa para la prestación oportuna de los servicios médicos, lo que va
-en detrimento de los principios
-de accesibilidad e integralidad del Sistema General de
-Seguridad Social en Salud. La jurisprudencia de esta Corte ha sido insistente
-en que el acceso a los servicios y tecnologías del sistema debe garantizarse a
-todos los usuarios de manera completa, sin que puedan ser fraccionados por
-razones administrativas y/o financieras.
-
-395.
-Si bien algunos trámites administrativos
-en el sistema de salud deben cumplirse por parte de los afiliados, muchos otros
-son del resorte de la entidad promotora de salud, como en este caso, la
-comunicación a las IPS acerca de la exoneración de cobros. Así pues, admitir
-que por ese motivo se dejen de ofrecer o se retarde la atención médica de *Emilio*,
-sitúa a la accionante, como representante del menor de edad, en una posición
-irregular de responsabilidad, que en modo alguno está obligada a soportar.
-
-396.
-Visto lo anterior, ante la improcedencia
-de oponer trámites o de admitir irregularidades administrativas que afecten a
-los usuarios de los servicios médicos, la Sala de Revisión considera procedente
-para la garantía efectiva del amparo concedido por los jueces de instancia,
-ordenar a la *EPS* que
-realice todas las gestiones y trámites administrativos necesarios para que las
-IPS encargadas de la atención del niño apliquen diligentemente y sin demoras la
-exoneración de cobros de copagos y cuotas moderadoras, sin trasladar al niño y
-a su representante las consecuencias negativas de las eventuales faltas de
-comunicación entre las entidades del sistema.
-
-*El servicio de transporte intermunicipal*
-
-397.
-La EPS
-accionada tiene el deber de reconocerle el servicio de transporte al niño *Emilio* y a su acompañante. En primer lugar, está acreditado que ni él ni su madre tienen los recursos económicos suficientes para pagar
-el valor del traslado pues ella se encuentra en situación de pobreza extrema.
-Además, por el diagnóstico que padece el menor de edad, la falta de
-autorización del transporte pondría en riesgo la dignidad y el estado de salud
-del niño. En relación con el transporte para el acompañante, no cabe duda de
-que se requiere pues, por su edad y diagnóstico clínico, *Emilio* depende totalmente de un tercero para garantizar
-su integridad física y el ejercicio adecuado de sus actividades cotidianas.
-
-398.
-Ahora
-bien, en la acción de tutela, *Blanca*
-solicitó se ordenara a la EPS accionada que cubriera «los
-gastos del transporte necesario para el desplazamiento de mi hijo desde el
-lugar de su residencia al lugar donde le deben practicar las terapias»[299].
-Al
-respecto, el fallo de tutela de primera instancia, confirmado por el superior,
-resolvió ordenarle a la EPSque «autorice el valor del transporte urbano o
-suministre ese servicio al menor […] y a un acompañante, con el fin de asegurar
-su desplazamiento a la institución que le corresponda, para recibir las
-terapias integrales prescritas por médico tratante en historia clínica de fecha
-19 de julio de 2022».
-
-399.
-La accionante
-manifestó ante esta corporación que la EPSautorizó el suministro del transporte para
-la asistencia a las terapias de rehabilitación de su hijo, mas no para los
-demás desplazamientos asociados a valoraciones y controles con especialistas y
-ayudas diagnósticas.
-
-400.
-Lo
-anterior evidencia que existe una protección incompleta por el amparo concedido
-por los jueces de instancia, pues la orden impartida no garantiza efectivamente
-la plena protección de los derechos fundamentales del niño a la salud y la vida
-digna, en la medida en que limita el reconocimiento del servicio de transporte
-a las terapias de rehabilitación, e incluso, lo hace de manera específica a
-aquellas que le fueron ordenadas en la valoración médica del 19 de julio de
-2022.
-
-401.
-Por
-ese motivo, corresponde a esta Corte, en sede de revisión, adoptar las medidas
-necesarias para conceder un amparo suficiente y acorde con los mandatos
-constitucionales, especialmente porque lo que está en discusión es el derecho
-fundamental a la salud de un niño que, por su diagnóstico de trastorno
-de espectro autista, se encuentra en una condición de mayor
-vulnerabilidad.
-
-402.
-Cabe recordar que el juez de tutela se encuentra facultado para emitir fallos *extra*y *ultra petita,* lo que significa que la Corte no tiene limitada su
-competencia a resolver forzosamente las acusaciones en los términos en que
-hayan sido formuladas por la parte accionante, ni tiene que ceñirse
-necesariamente a las pretensiones y a los derechos invocados[300]. De esta forma se puede otorgar una protección más efectiva,
-acorde con el rol que le corresponde ejercer al juez constitucional.
-Esta facultad del juez de tutela tiene sustento en el principio
-*iura novit curia*, que ha sido explicado por la corporación en los
-siguientes términos:
-
-[C]orresponde al juez la aplicación del
-derecho con prescindencia del invocado por las partes, constituyendo tal
-prerrogativa un deber para el juzgador, a quien incumbe la determinación
-correcta del derecho, debiendo discernir los conflictos litigiosos y dirimirlos
-según el derecho vigente, calificando autónomamente la realidad del hecho y
-subsumiéndolo en las normas jurídicas que lo rigen. En la medida que la tutela
-es un recurso judicial informal que puede ser interpuesto por personas que
-desconocen el derecho, es deber del juez de tutela, en principio, analizar el
-caso más allá de lo alegado por el accionante[301]
-
-403.
-Visto lo anterior, en ejercicio de sus
-facultades constitucionales, esta Sala de Revisión de la Corte Constitucional
-considera procedente modificar los términos en que los jueces de instancia
-ordenaron a la EPSautorizar
-el servicio de transporte intermunicipal para el menor de edad agenciado y su
-acompañante. Esto en el sentido de no limitar dicho reconocimiento al
-transporte requerido para asistir a las terapias prescritas en la valoración médica
-del 19 de julio de 2022. En su lugar, la EPS accionada debe suministrar el
-servicio de transporte, bien sea directamente o mediante el pago de tales
-expensas, para el traslado respecto de todo tipo de atención médica,
-asistencial o diagnóstica, las veces que requiera el niño según criterio médico, para el
-tratamiento de su diagnóstico de trastorno de espectro autista, mientras
-subsista la insuficiencia de recursos económicos de sus padres para asumirlas.
-
-*Sobre el tratamiento
-integral*
-
-404.
-No hay
-lugar a ordenar el tratamiento integral pues no existe prueba en el expediente de que la EPSse haya negado a autorizar alguna orden médica
-que prescribiera alguna valoración, tratamiento, servicio asistencial, ayuda
-diagnóstica, control o cualquier otro parecido para la atención médica del
-menor de edad. Así, de conceder hipotéticamente el tratamiento integral no se
-estaría ordenando nada adicional, pues de acuerdo con las subreglas
-jurisprudenciales, este cubre únicamente los servicios y tecnologías para los
-que exista una orden médica.
-
-405.
-Aunque la
-acción de tutela incorporó tal pretensión, lo cierto es que esta se formuló de
-manera genérica para solicitar que se le garantizara al niño la atención médica
-requerida, sin embargo, la accionante no reprochó ninguna actitud pasiva u
-omisiva con la que la EPS accionada estuviese negando el tratamiento integral
-de *Emilio*. En efecto, ni en dicho acto procesal ni en ningún otro a lo
-largo del proceso de tutela y del presente trámite de revisión, se alegó por la
-actora una negativa o insuficiencia en la autorización y prestación efectiva de
-la prestación del servicio de salud. Por el contrario, *Blanca* le manifestó expresamente a esta Corte que el
-menor de edad está recibiendo toda la atención médico asistencial prescrita por
-sus médicos tratantes.
-
-**Órdenes por proferir**
-
--
-***En cuanto a la protección
-del derecho al debido proceso por uso de IA***
-
-*Orden al Consejo Superior de
-la Judicatura*
-
-406.
-Aunque la Sala verificó que no existió una
-vulneración al debido proceso en la presente actuación, estima, sin embargo,
-que en el marco de la promoción y el respeto de los derechos fundamentales y de
-la salvaguarda de las garantías constitucionales para los usuarios del sistema
-de administración de justicia y dadas las posibilidades de alucinaciones,
-sesgos discriminatorios y demás riesgos asociados a la IA, resulta procedente
-adoptar una decisión que prevenga el inadecuado entendimiento frente al uso de
-herramientas o el ejercicio de prácticas inconstitucionales en cuanto a la IA. Por
-ello*,* considera necesario exhortar a los jueces de la República y
-ordenar al Consejo Superior de la Judicatura para que emita guías y
-lineamientos sobre el uso de IAs artificiales en los despachos judiciales y que
-desde la judicatura misma se adopten las mejores prácticas que, conforme a los
-principios y mandatos constitucionales, permitan hacer uso razonable y
-proporcionado de herramientas innovadoras y dinámicas como las referidas, sin
-permitir en modo alguno que se impacte el debido proceso o se restrinjan de
-cualquier forma la autonomía e independencia judiciales, teniendo en cuenta las
-consideraciones expuestas en esta providencia.
-
-407.
-Conforme con la relevancia del asunto
-novedoso que se revisa, la Sala estima pertinente poner de presente que todo
-juez de la República que utilice tecnologías de IA como apoyo para resolver
-acciones de tutela debe hacer un uso responsable y ético de ellas.
-
-408.
-Aunque en este caso, la Sala se encuentre
-ante la revisión de un fallo proferido en el trámite de una acción de tutela,
-las consideraciones acá expuestas podrán servir de referente para el análisis
-que proceda frente a procesos judiciales de diferente naturaleza pues si el
-debido proceso es un derecho fundamental que abarca cada tipo de procedimiento,
-resulta necesario velar por una utilización adecuada de la herramienta que
-salvaguarde las garantías propias de aquel derecho con independencia del
-trámite judicial que se trate. Ello llama a considerar otros escenarios,
-diferentes al de la revisión por esta corporación, en los que se puede analizar
-la validez de la decisión judicial por la implementación y el uso de IA *ChatGPT*
-como, por ejemplo, sucedería con el estudio que haga el mismo juez que conoce
-el proceso a través de un incidente de nulidad o en una etapa de saneamiento
-rogada u oficiosa, o en sede de instancia, o por el juez constitucional que
-conozca de una acción de tutela contra una providencia judicial dictada con la
-utilización de alguno de estos sistemas.
-
-409.
-Al respecto es importante
-mencionar que, la resolución judicial emitida por la Corte Constitucional en el
-marco de los fallos de tutela tiene efectos *inter partes**[302]***. Sin embargo, en algunas ocasiones, según las
-particularidades e importancia del caso es posible que este tribunal extienda
-los efectos subjetivos de sus decisiones en razón a la misión constitucional
-que cumple esta corporación en el ejercicio de su función de revisión[303],
-para, por ejemplo, «evitar
-proliferación de decisiones encontradas, o equivocadas»[304].
-
-410.
-Así, se han reconocido dos alternativas
-excepcionales para modular la regla contenida en las citadas normas, que son:
-los efectos *inter comunis* y los efectos *inter pares*, los cuales
-se denominan y aplican de la siguiente forma:
-
-| | |
-| --- | --- |
-| **Efector *inter comunis***[305]**** | **Efectos *inter pares***[306]**** |
-| Se presenta en aquellos eventos en los que la decisión de tutela debe hacerse extensiva a todos los sujetos que, junto con las partes del proceso específico, integran una misma comunidad que, debido a la identidad fáctica, conforman un grupo social que se verá directamente impactado por la determinación de la Corte Constitucional. | Son aplicados por la Corte Constitucional en aquellos eventos en los que esta resuelve un problema jurídico relacionado con la interpretación y/o aplicación de un marco normativo concreto, en un contexto fáctico específico. En estos eventos, se dispone que la resolución que ha dado al asunto debe ser asumida en los casos que, sin integrar necesariamente una misma comunidad, son o llegarán a ser semejantes. |
-
-411.
-Teniendo en cuenta que si bien al momento
-no hay una reglamentación o guía oficial expedida por el Consejo Superior de la
-Judicatura o una normativa dictada por el Congreso de la República, es esencial
-cumplir de forma rigurosa con los principios de transparencia y responsabilidad
-en la corroboración humana de la información, así como de confidencialidad y
-respeto de datos personales (privacidad), para que no se afecten o pongan en
-entredicho los derechos fundamentales de los involucrados cuando se haga uso de
-herramientas de IA en el trámite de procesos judiciales. Por ello, es
-importante que la sentencia cobre efectos *inter comunis*. Esto, en
-particular, para que no se llegue a vulnerar en tales casos el derecho al
-debido proceso, en su garantía de juez natural y en relación con la autonomía e
-independencia judicial.
-
-412.
-Como se ha señalado, para la Sala la
-utilización de IA en el sistema judicial puede generar un impacto en materia de
-derechos fundamentales, motivo por el cual no resulta pertinente admitir o fomentar
-en los operadores judiciales su uso libre e intuitivo. En otras palabras,
-aunque prohibir la IA en este ámbito sería ingenuo e impertinente, tampoco es
-acertado permitir que se utilice sin responsabilidad y sin una regulación ni
-acuerdos básicos que aseguren el cumplimiento de unas pautas mínimas para el
-uso ético y responsable de estas herramientas.
-
-413.
-La Sala de Revisión no es ajena a los
-ingentes esfuerzos que se están adelantando desde la administración de la Rama
-Judicial para avanzar en la adopción de un uso ético y responsable de la IA en
-este escenario. Así, dentro del marco de la política de justicia digital, la
-transformación digital, el desarrollo tecnológico y la innovación son
-prioridades estratégicas esenciales consignadas
-en el Plan Sectorial de Desarrollo Rama
-Judicial 2023-2026, «Hacia una justicia
-confiable, digital e incluyente»[307].
-El documento, al desarrollar los objetivos del sistema judicial, señala que «se
-avanzará en soluciones que apoyen la prestación del servicio de justicia con
-innovación y utilizando tecnologías de robotización de procesos, analítica de
-datos e inteligencia artificial. Estas soluciones partirán de una adecuada
-identificación y mitigación de los riesgos y del respeto por el criterio
-judicial y los principios y valores éticos que rigen la prestación del servicio
-de justicia». Este propósito se manifiesta
-actualmente de diversas formas que incluyen capacitación a funcionarios
-judiciales, eventos académicos, mesas de trabajo, entre otros, espacios en los
-que se fomenta un espacio dialógico y de construcción colectiva en torno a la
-materia.
-
-414.
-Dicho
-lo anterior, es importante señalar que, actualmente, existen
-dos escuelas diferentes de pensamiento que están moldeando el desarrollo de la
-regulación en torno a la IA:
-
-La primera solamente tiene en cuenta los
-riesgos, **centrándose principalmente en la autorregulación y en la
-autoevaluación por parte de los desarrolladores de IA.** En lugar de
-acogerse a normas detalladas, la regulación basada en los riesgos pone énfasis
-en identificar y mitigar los riesgos para poder lograr resultados […]
-
-El otro enfoque integra los derechos humanos en todo el ciclo de
-vida de la IA. **De principio a fin, los principios de derechos humanos se
-incorporan a la recopilación y selección de datos; así como al diseño,
-desarrollo, implantación y uso de los modelos, instrumentos y servicios
-resultantes**[308] (negrilla
-fuera del texto original)
-
-415.
-Aunque prevalece la regulación de la IA
-fundamentada en riesgos o en principios, tal como se señaló en el acápite
-anterior, los expertos en la materia también resaltan que la reglamentación del
-asunto puede adoptar un enfoque en valores, en estándares, en deberes de
-revelación (transparencia algorítmica), en derechos y en reglas de mando y
-control.
-
-416.
-Por
-otro lado, el esfuerzo por regular el uso de estas tecnologías no debe perder
-de vista la dificultad que surge de que estas se utilicen en distintas aristas
-de nuestra vida en comunidad y que se actualizan vertiginosa y progresivamente.
-Por esta razón, las normas que busquen abordar el fenómeno de forma
-generalizada probablemente incurran en definiciones inoperantes, dejen por
-fuera muchas consideraciones importantes para sus distintos usos y agrupen usos
-cuyos riesgos potenciales son muy diferentes. Por esto mismo, el debate
-respecto del uso de estas tecnologías en un ámbito de tal importancia como la
-administración de justicia debería ser específico, amplio y participativo,
-además de estar basado en un enfoque de protección de derechos fundamentales,
-que más allá de una regulación, exige a los magistrados, jueces y demás
-servidores de la Rama Judicial que en el uso de IA tengan auto regulaciones,
-restricciones propias y autocontroles.
-
-417.
-Bajo
-este sentir, la comisionada de Derechos Humanos del Consejo Europeo ha llamado
-la atención sobre la importancia de que las personas involucradas en el
-desarrollo y aplicación de IA sean educadas en el funcionamiento e impacto de
-derechos humanos por parte de tales tecnologías[309].
-
-418.
-Además,
-la Carta Iberoamericana de Inteligencia Artificial en la Administración Pública[310] asume la
-necesidad de promover una serie de principios orientadores en el desarrollo de
-la IA en la Administración Pública, que puedan ser compartidos por todos los
-países de la región. Los anteriores están sustentados en los derechos humanos
-como fundamento para una IA centrada en las personas, confiable, robusta y
-orientada a la innovación, incluyendo el respeto de la dignidad humana, la
-libertad individual, la igualdad y no discriminación, el respeto a la democracia
-y el Estado de derecho, la libertad de pensamiento, conciencia y opinión, el
-derecho a la educación, así como a tener buenos gobiernos y administraciones
-públicas. La Recomendación se centra en cuestiones de política que son
-específicas de la IA y se esfuerza por establecer un estándar que sea
-implementable y lo suficientemente flexible como para soportar la prueba del
-tiempo en un campo en rápida evolución.
-
-419.
-Los
-anteriores instrumentos precisan algunos principios para la administración
-responsable de la IA confiable, como lo son *(i)* el crecimiento
-inclusivo, desarrollo sostenible y bienestar; *(ii)* los valores y equidad
-centrados en el ser humano; *(iii)* la transparencia y explicabilidad; *(iv)*
-la robustez, seguridad y protección y *(v)* la rendición de cuentas.
-
-420.
-Los
-citados instrumentos también plantean algunas recomendaciones, tales como *(i)*
-invertir en la investigación y el desarrollo de la IA; *(ii)* fomentar un
-ecosistema digital para la IA; *(iii)* dar forma a un entorno político
-propicio para la IA; *(iv)* desarrollar la capacidad humana y prepararse
-para la transformación del mercado laboral; y *(v)* cooperación
-internacional para una IA confiable.
-
-421.
-La aplicación de la IA en la
-administración de justicia se debe introducir de manera sólida, técnica y con
-infraestructuras tecnológicas abiertas que hagan realidad las oportunidades
-disponibles, con el fin de que no se creen desigualdades en el sistema legal.
-Se deben desarrollar reglamentos y normativas flexibles para poder anticipar
-los riesgos, dotándose de la máxima seguridad posible para que sea realmente
-efectivo al momento de ser usado como herramienta de apoyo en la jurisdicción.
-Asimismo, la seguridad y la transparencia de los datos deben ser preocupaciones
-cruciales, ya que los errores o el uso indebido de estas tecnologías pueden
-generar consecuencias sobre los derechos de las personas que hacen uso del
-sistema jurídico nacional.
-
-422. Así,
-se exhorta a los jueces de la República para que evalúen el
-adecuado uso de la herramienta tecnológica *ChatGPT* y otras análogas o
-que se desarrollen en el ámbito de la IA, valoren y consideren las mejores
-prácticas y apliquen criterios éticos y de respeto a los mandatos superiores,
-en orden a garantizar los derechos fundamentales, en especial el debido
-proceso, cuando hagan uso de aquellas, y asegurar la independencia y autonomía
-judiciales, como garantías insustituibles para la vigencia del Estado Social de
-Derecho y la democracia.
-
-423. De
-manera particular, la Sala Segunda de Revisión considera esenciales la apropiación
-y aplicación de los siguientes criterios orientadores en cuanto al uso de
-herramientas de IA como *ChatGPT* por parte de los despachos judiciales en
-el país:
-
-a.
-**Transparencia**,
-entendida como la obligación de evidenciar con claridad y precisión el uso, alcances
-y ubicación en las actuaciones o decisiones de los resultados obtenidos por la
-utilización de tales herramientas, que permita a los usuarios e interesados su
-pleno conocimiento y la posibilidad efectiva de contradicción.
-
-b.
-**Responsabilidad,** comprendida
-como aquella obligación que existe de que el usuario de la herramienta de IA se
-encuentre capacitado y comprenda los impactos del uso de estas tecnologías,
-para a su vez dar cuenta del origen, idoneidad y necesidad del uso de la IA y
-la información suministrada por la misma, la cual debe ser verificada.
-
-c.
-**Privacidad,** es
-aquel deber de custodiar y proteger la reserva de los
-datos personales y sensibles que se ponen en conocimiento de la administración
-de justicia para cumplir con los fines propios de la Rama Judicial.
-
-d.
-**No sustitución de la racionalidad humana**,
-como expresión de la imposibilidad ética y jurídica de sustituir la acción y la
-responsabilidad del individuo de la especie humana en la gestión de las
-actuaciones y decisiones judiciales.
-
-e.
-**Seriedad y verificación**,
-que implica la obligación de realizar un estricto escrutinio sobre las fuentes,
-alcances, restricciones, posibilidades, falencias y riesgos que presente la
-herramienta de cara a la actuación en curso o a la solución del problema
-jurídico correspondiente.
-
-f.
-**Prevención de riesgos**,
-como mandato en cuanto aplicar los estándares adecuados de control sobre
-situaciones que generen riesgo por la aplicación de tecnologías tales, en
-aspectos como imprecisiones, desactualizaciones, alucinaciones, sesgos, inconsistencias
-y demás.
-
-g.
-**Igualdad y equidad**,
-en cuanto se erradiquen todas las formas de discriminación relacionadas con la
-aplicación de sesgos derivada del uso de tales tecnologías y su impacto
-negativo en la eficacia de los derechos humanos.
-
-h.
-**Control humano**,
-en tanto considerando los anteriores criterios, siempre se permita la
-realización efectiva de escrutinios sobre las actuaciones y decisiones en que
-se usen herramientas de IA, mediante el acceso a la debida información y el uso
-de recursos que deban ser resueltos por autoridades humanas.
-
-i.
-**Regulación ética**,
-que implica el desarrollo de estándares de comportamiento individual que se
-adecúen a los mandatos superiores y legales y a las pautas razonables para el
-uso de tales tecnologías por parte de los funcionarios y servidores de la Rama
-Judicial.
-
-j.
-**Adecuación a buenas prácticas y estándares
-colectivos**, en tanto se apliquen los esquemas
-razonables que se definan para el funcionamiento de la Rama Judicial, desde su
-autonomía e independencia, a partir de las definiciones que adopten sus
-autoridades, tanto en sede de administración como de orientación
-jurisprudencial.
-
-k.
-**Seguimiento continuo y adaptación,** a
-efecto que el uso de tales tecnologías consulte los avances jurídicos,
-sociológicos y tecnológicos que se vayan implementando, así como los esquemas
-de mejora y control que se construyan en forma progresiva.
-
-l.
-**Idoneidad.** El
-uso de las tecnologías de la información y de las comunicaciones en la gestión
-y trámite de los procesos judiciales y asuntos en curso debe ser adecuado para
-facilitar y agilizar el acceso a la justicia.
-
-424.
-También se ordenará al Consejo Superior de
-la Judicatura que fije unos lineamientos sobre el uso de IA en la Rama
-Judicial, en los que, como mínimo, tenga en cuenta los puntos que se exponen a
-continuación:
-
-*(i)*Las IA no pueden ser usada
-para sustituir el razonamiento lógico y humano que le compete realizar a cada
-juez a efectos de interpretar los hechos, valorar las pruebas, motivar y
-adoptar la decisión, pues ello conllevaría una violación de la garantía del
-juez natural y al debido proceso probatorio. En las instancias y en sede de revision de tutelas se deberán
-aplicar controles que eviten la violación del derecho al debido proceso por uso
-indebido de IA, entre los que se destaca la autrorregulación ética.
-
-*(ii)*La IA se podrá utilizar en el
-sistema judicial para los ámbitos de *gestión
-administrativa y documental,* así como el de *apoyo
-a la gestión judicial* y la *corrección y síntesis de textos*; en tales
-eventos, la utilización de estas tecnologías no remplaza la labor esencial que
-se le ha atribuido al funcionario judicial, sin embargo, en estos casos, se
-deberán tener las cautelas necesarias para evitar la transgresión de derechos,
-tales como el *habeas data* o la intimidad, o que el funcionario judicial
-pierda la independencia o imparcialidad debido a los sesgos y alucinaciones de
-la IA.
-
-*(iii)*Para efecto de lo anterior, se deberán
-garantizar los principios de transparencia, responsabilidad y privacidad
-respecto al uso de la IA, conforme a los parámetros ya establecidos con
-anterioridad.
-
-*(iv)*Identificar a un humano responsable, es
-decir, que haya una persona individualizable e identificable a quien se le
-pueda plantear las preocupaciones relacionadas con las decisiones tomadas y que
-pueda evaluar las intervenciones realizadas por la IA.
-
-*(v)*Materializarse un lenguaje claro y
-comprensible para los seres humanos, sobre las respuestas que genera la IA.
-
-*(vi)*Lo anterior implica que los jueces, magistrados y
-demás funcionarios y servidores de la Rama Judicial empleen la autorregulación ética y los autocontroles al
-momento de apoyarse en IA para la gestión judicial.
-
-*(vii)*En cualquier caso, es necesario resaltar
-que el proceso de digitalización de la justicia en Colombia, sean cuales sean
-los lineamientos que se adopten por el Consejo Superior de la Judicatura, debe
-hacerse dentro del marco de respeto por los derechos fundamentales y con las
-garantías para el acceso efectivo y la no vulneración de tales, especialmente
-el debido proceso, los cuales se sopesen con los riesgos potenciales de cada
-nueva tecnología en este ámbito y los nuevos usos que se les pueda dar a estas.
-
-*(viii)*Se adelanten las gestiones
-necesarias de coordinación con las diferentes autoridades concernidas con el
-tema de tecnología en el Estado, con el Congreso de la República, el Gobierno
-nacional, los funcionarios y empleados de la Rama Judicial y las diferentes
-autoridades públicas, así como agencias internacionales u organismos
-especializados en herramientas de IA como *ChatGPT*, para informar y
-coordinar sobre los requerimientos que demande específicamente la Rama
-Judicial.
-
-*(ix)*Se establezca un adecuado
-sistema de control, seguimiento, alerta, evaluación y mejora en cuanto a las
-prácticas que impliquen el uso de herramientas de IA como ChatGPT por los
-despachos judiciales del país y se divulguen sus resultados, como parte de las
-rendiciones de cuentas a cargo de la Rama Judicial. Se insta al Consejo
-Superior de la Judicatura para que adopte medidas que le permitan identificar
-los casos en los que funcionarios judiciales hayan hecho uso de IA en sus
-decisiones, para que tome las medidas judiciales y administrativas pertinentes.
-
-*(x)*Igualmente se ordena al Consejo Superior
-de la Judicatura que, como lo viene haciendo, a través de la Escuela Judicial
-Rodrigo Lara Bonilla, desarrolle habilidades digitales en los operadores
-jurídicos *(a)* desde un enfoque interseccional e interdisciplinario, a
-través de cursos que permitan comprender y discutir sobre las nuevas
-tecnologías, en especial sobre las IA; que los temarios *(b)* sean
-producto de una construcción colectiva en que se tenga en cuenta a todos los
-servidores de la Rama Judicial, y *(c)* que los de formación jurídica
-sobre IA sean incluidos en el curso concurso para ingresar en la Rama Judicial,
-así como *(d)* que se desarrollen proyectos de extensión de despliegue de
-sistemas de IA de acuerdo con los lineamientos propuestos.
-
-425.
-Hasta que se emitan dichos lineamientos,
-los funcionarios y empleados de la Rama Judicial deben aplicar los parámetros precisados anteriormente, en caso de que
-se utilicen las herramientas de IA para sus funciones y, en especial, para la
-emisión de providencias.
-
--
-***En cuanto a la violación al derecho a
-la salud, relacionada con la exoneración de*** ***cobros
-de copagos y cuotas moderadoras en el SGSSS para niños con funcionalidad
-diversa***
-
-426.
-En cuanto a este aspecto, esta Corte
-confirmará parcialmente el fallo de tutela de segunda instancia, proferido el
-30 de enero de 2023, que confirmó en su integridad el del 7 de diciembre de
-2022, emitido en primera instancia. Lo anterior con el fin de *(i)*
-modificar el numeral segundo de la sentencia del 7 de diciembre de 2022 en el
-sentido de ordenar a la EPSque
-autorice el servicio de transporte intermunicipal para *Emilio*
-y su acompañante, desde su residencia en la ciudad de
-Cartagena hasta la IPS en la que le corresponda recibir la atención médica,
-asistencial o diagnóstica, ida y vuelta, las veces que requiera para el tratamiento de su
-diagnóstico de trastorno de espectro autista, mientras
-subsista la insuficiencia de recursos económicos de sus padres para asumirlas;
-y *(ii)* complementar el numeral tercero del fallo de tutela del 7 de
-diciembre de 2022 con un párrafo adicional en el que se ordene a la EPSque realice todas las gestiones y trámites
-administrativos necesarios para que las IPS encargadas de la atención del niño
-apliquen diligentemente y sin demoras la exoneración de cobros de copagos y
-cuotas moderadoras, sin trasladar al menor de edad y a su representante las consecuencias
-negativas de las eventuales faltas de comunicación entre las entidades del
-sistema.
-
-**DECISIÓN**
-
-En mérito de lo
-expuesto, la Sala Segunda de
-Revisión de la Corte Constitucional, administrando justicia, en nombre del
-Pueblo y por mandato de la Constitución Política,
-
-**RESUELVE**
-
-**PRIMERO.** **CONFIRMAR
-PARCIALMENTE** la sentencia de
-segunda instancia proferida el 30 de enero de 2023 por el *Juzgado
-del Circuito*, que confirmó la decisión de primera
-instancia del 7 de diciembre de 2022, que dictó el *Juzgado
-Municipal*, dentro de la acción de tutela formulada por *Blanca*
-en contra de la*EPS*.
-
-**SEGUNDO.****MODIFICAR** el
-numeral segundo de la sentencia del 7 de diciembre de
-2022, que dictó el *Juzgado Municipal*,
-la cual quedará así:
-
-**ORDENAR**
-a la *EPS* que, dentro del
-término de cuarenta y ocho (48) horas contadas a partir del momento de la
-notificación de esta providencia, autorice el valor del transporte urbano o
-suministre ese servicio al menor *Emilio*
-y a un acompañante, desde su residencia en la ciudad de
-Cartagena hasta la IPS en la que le corresponda recibir la atención médica,
-asistencial o diagnóstica, ida y vuelta, las veces que requiera para el tratamiento de su
-diagnóstico trastorno de espectro autista, mientras subsista la insuficiencia de
-recursos económicos de sus padres para asumirlas.
-
-**TERCERO. ADICIONAR**
-un segundo inciso al numeral tercero de la sentencia del
-7 de diciembre de 2022, proferida por el *Juzgado
-Municipal*, en los siguientes términos:
-
-**ORDENAR**
-a la *EPS* que,
-dentro del término de cuarenta y ocho (48) horas contadas a partir del momento
-de la notificación de esta providencia, realice todas las
-gestiones y trámites administrativos necesarios para que las IPS encargadas de
-la atención del niño apliquen diligentemente y sin demoras la exoneración de
-cobros de copagos y cuotas moderadoras, sin trasladar al niño y a su
-representante las consecuencias negativas de las eventuales faltas de
-comunicación entre las entidades del sistema.
-
-**CUARTO.****EXHORTAR** a los jueces de la República
-para que evalúen el adecuado uso de la herramienta tecnológica *ChatGPT* y
-otras análogas o que se desarrollen en el ámbito de la inteligencia artificial
-IA, valoren y consideren las mejores prácticas, y apliquen criterios éticos y
-de respeto a los mandatos superiores, en orden a garantizar los derechos
-fundamentales, en especial el debido proceso, cuando encuentren necesario y
-pertinente hacer uso de aquellas, y asegurar la independencia y autonomía
-judiciales, como garantías insustituibles para la vigencia del Estado Social de
-Derecho y la democracia.
-
-En consecuencia, los funcionarios y empleados de la Rama Judicial aplicarán
-los principios de *(i)* transparencia, *(ii)* responsabilidad, *(iii)*
-privacidad, *(iv)* no sustitución de la racionalidad humana, *(v)*
-seriedad y verificación, *(vi)* prevención de riesgos, *(vii)*
-igualdad y equidad, *(viii)* control humano, *(ix)* regulación ética,
-*(x)* adecuación a buenas prácticas y estándares colectivos, *(xi)* seguimiento
-continuo y adaptación y *(xii)* idoneidad.
-
-**QUINTO. ORDENAR** al Consejo Superior de la
-Judicatura que, en el término de cuatro (4) meses, contados a partir de la
-notificación de esta providencia, divulgue una guía, manual o lineamiento en
-relación con la implementación de la IA generativa en la Rama Judicial,
-especialmente en cuanto al uso de la herramienta *ChatGPT*, regulación que
-deberá ser acorde con los aspectos establecidos en esta providencia y, en
-particular, con lo dispuesto en su fundamento jurídico 423.
-
-**SEXTO.
-ORDENAR** al Consejo Superior de la Judicatura que, a través de
-la Escuela Judicial Rodrigo Lara Bonilla, divulgue esta providencia a todos los
-despachos judiciales del país y continúe generando espacios de capacitación que
-fomenten el aprendizaje de conocimientos básicos sobre el uso de la
-inteligencia artificial IA en el contexto judicial, junto con sus riesgos y
-beneficios, con un enfoque de derechos.
-
-**SÉPTIMO.**Por
-la Secretaría General de la Corte Constitucional, **LÍBRESE** la
-comunicación prevista en el artículo 36 del Decreto 2591 de 1991.
-
-Notifíquese, comuníquese y cúmplase.
-
-JUAN CARLOS CORTÉS GONZÁLEZ
-
-Magistrado
-
-DIANA FAJARDO RIVERA
-
-Magistrada
-
-VLADIMIR FERNÁNDEZ ANDRADE
-
-Magistrado
-
-ANDREA LILIANA ROMERO LOPEZ
-
-Secretaria General
-
----
-
-[1] «Artículo 62.
-Publicación de providencias. En la publicación de sus providencias, las Salas
-de la Corte o el magistrado sustanciador, en su caso, podrán disponer que se
-omitan nombres o circunstancias que identifiquen a las partes».
-
-[2] «Por medio del cual se unifica y actualiza el Reglamento de la
-Corte Constitucional».
-
-[3] Sobre anonimización de
-nombres en las providencias disponibles al público en la página web de la Corte
-Constitucional.
-
-[4] Expediente T-9.301.656.
-Escrito de tutela, pág.1.
-
-[5] «Prevención sanitaria:
-Las personas con discapacidad mental tienen derecho a los servicios de salud,
-incluidos los relacionados con la salud sexual y reproductiva, de manera
-gratuita, a menos que la fuerza de su propio patrimonio, directo o derivado de
-la prestación alimentaría, le permitan asumir tales gastos. La atención
-sanitaria y el aseguramiento de los riesgos de vida, salud, laborales o
-profesionales para quienes sufran discapacidad mental se prestará en las mismas
-condiciones de calidad y alcance que a los demás miembros de la sociedad. Las
-exclusiones que en esta materia se hagan, por parte de los servicios de salud o
-de las aseguradoras, tendrán que ser autorizadas por vía general o particular,
-por el Comité Consultivo Nacional de las Personas con Limitación. Los
-encargados de velar por el bienestar de las personas con discapacidad mental
-tomarán las medidas necesarias para impedir o limitar la incidencia de agentes
-nocivos externos en la salud psíquica o de comportamiento del sujeto y para
-evitar que se les discrimine en la atención de su salud o aseguramiento de sus
-riesgos personales por razón de su situación de discapacidad. Los individuos
-con discapacidad mental quedan relevados de cumplir los deberes cívicos,
-políticos, militares o religiosos cuando quiera que ellos puedan afectar su
-salud o agravar su situación».
-
-[6] Esta circular exceptúa
-del pago de cuotas moderadoras y copagos a «[l]as personas con discapacidad
-mental que tienen derecho a los servicios de salud de manera gratuita, a menos
-que su patrimonio directo o derivado de la prestación alimentaria, le permita
-asumir tales gastos».
-
-[7] Esta información fue
-consultada en: https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html URL 18/03/2024.
-
-[8] Expediente T-9.301.656.
-Archivo «01DEMANDA.pdf».
-
-[9] *Ibidem*. Archivo
-«03AutoAdmite.pdf».
-
-[10] *Ibidem*. Archivo
-«05CONTESTACION.pdf».
-
-[11] Expediente T-9.301.656.
-Archivo «09SENTENCIA.pdf».
-
-[12] *Ibidem*. Sentencia de
-primera instancia proferida por el *Juzgado Municipal*, pág.16.
-
-[13] *Ibidem,* pág.15.
-
-[14] Expediente T-9.301.656.
-Archivo «11SOLICITUDIMPUGNACION.pdf».
-
-[15] Expediente T-9.301.656.
-Archivo «04SENTENCIASEGUNDAINSTANCIA.pdf».
-
-[16] Expediente digital.
-Archivo « 04SENTENCIASEGUNDAINSTANCIA.pdf». Negrilla y cursiva propia del texto
-original.
-
-[17] Expediente digital.
-Archivo «Anexo secretaria Corte T-9301656 Toma
-de Declaracion Juez.pdf».
-
-[18] Expediente T-9.301.656. Archivo «Anexo
-secretaria Corte T9301656 MAGISTRADA PAOLA ANDREA MENESES MOSQUERA.pdf».
-
-[19] Expediente T-9.301.656. Archivo «Anexo
-secretaria Corte T9301656 MAGISTRADO JOSE FERNANDO REYES CUARTAS.pdf».
-
-[20] Expediente T-9.301.656. Archivo «Anexo
-secretaria Corte T9301656 DEFENSORIA DEL PUEBLO.pdf».
-
-[21] Expediente T-9.301.656. Archivo «Anexo
-secretaria Corte T-9301656 Auto de Pruebas 22-Ago-2023.pdf».
-
-[22] Expediente T-9.301.656. Archivo «Anexo
-secretaria Corte T-9301656 Diligencia Consulta Chat GPT Juez.pdf»
-
-[23] «Artículo 86. Toda
-persona tendrá acción de tutela para reclamar ante los jueces, en todo momento
-y lugar, mediante un procedimiento preferente y sumario, por sí misma o por
-quien actúe a su nombre, la protección inmediata de sus derechos constitucionales
-fundamentales, cuando quiera que éstos resulten vulnerados o amenazados por la
-acción o la omisión de cualquier autoridad pública».
-
-[24] «Artículo 10. La
-acción de tutela podrá ser ejercida, en todo momento y lugar, por cualquiera
-persona vulnerada o amenazada en uno de sus derechos fundamentales, quien
-actuará por sí misma o a través de representante. Los poderes se presumirán
-auténticos. También se pueden agenciar derechos ajenos cuando el titular de los
-mismos no esté en condiciones de promover su propia defensa. Cuando tal
-circunstancia ocurra, deberá manifestarse en la solicitud. También podrá
-ejercerla el defensor del pueblo y los personeros municipales».
-
-[25] Sentencia T-531 de
-2002, M.P. Eduardo Montealegre Lynett.
-
-[26] Sentencias T-1015 de
-2006, Álvaro Tafur Galvis; T-780 de 2011, M.P. Jorge Ignacio Pretelt Chaljub;
-y T- 262 de 2022, M.P. José Fernando Reyes Cuartas.
-
-[27] «La acción de tutela
-procederá contra acciones u omisiones de particulares en los siguientes casos
-[…] 2. Cuando aquél contra quien se hubiere hecho la solicitud esté encargado
-de la prestación del servicio público de salud».
-
-[28] Sentencias T-148 de 2019, T-608 de 2019 y T-117 de
-2020, M.P. Gloria Stella Ortiz Delgado.
-
-[29] Sentencias T-606 de
-2004, M.P. Rodrigo Uprimny Yepes, y T-679 de 2017, M.P. Alejandro Cantillo.
-
-[30] Sentencia SU-016 de
-2021, M.P. Gloria Stella Ortiz Delgado.
-
-[31] Con el escrito de
-tutela, la tutelante allega una respuesta del 30 de junio de 2022. Sin embargo,
-no adjunta la contestación a la solicitud del 31 de agosto de 2022 que también
-anexó a la acción de tutela.
-
-[32] Según el
-acta de reparto que se encuentra en el expediente digital.
-
-[33] Sentencia T-310 de
-2023, M.P. Juan Carlos Cortés González.
-
-[34] Sentencia T-364 de
-2023, M.P. Juan Carlos Cortés González.
-
-[35] Sentencias T-1015 de
-2006, M.P. Álvaro Tafur Galvis; T-896 de 2007, M.P. Manuel José Cepeda
-Espinosa; y T-780 de 2011, M.P. Jorge Ignacio Pretelt Chaljub.
-
-[36] Sentencia T-258 de
-2022, M.P. José Fernando Reyes Cuartas.
-
-[37] Sentencias T-200 de 2016, M.P. Jorge Iván Palacio Palacio; T-171
-de 2018, M.P. Cristina Pardo Schlesinger; y SU-508 de 2020, M.P. José
-Fernando Reyes Cuartas. En particular, la
-Sentencia T-235 de 2018, M.P. Gloria Stella Ortiz Delgado, señala que, en los
-casos de salud y sobre todo cuando se trata de un sujeto de especial protección
-constitucional, se deben analizar las circunstancias de cada caso y no es
-necesario agotar *per se* el mecanismo ante la Superintendencia
-Nacional de Salud. Esto cuando se ha advertido en el caso concreto la urgencia
-de la protección y el riesgo que se cierne sobre los derechos, de modo que el
-mecanismo ordinario no resultaría idóneo y la tutela procedería como medio
-principal de protección.
-
-[38] Esta información fue
-consultada en: https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html URL 18/03/2024.
-
-[39] Esta información fue
-consultada en: https://servicios.adres.gov.co/BDUA/Consulta-Afiliados-BDUA URL
-18/03/2024.
-
-[40] Sentencia T-419 de 2018, M.P. Diana Fajardo
-Rivera.
-
-[41] Sentencia SU-522 de
-2019, M.P. Diana Fajardo Rivera.
-
-[42] *Ibidem.*
-
-[43] *Ibidem*.
-
-[44] *Ibidem.*
-
-[45] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. *Blanca*.pdf».
-
-[46] *Ibidem.*
-
-[47] *Ibidem.*
-
-[48] Al respecto, se pueden
-consultar los autos 11 de 1998, M.P. Eduardo
-Cifuentes Muñoz; 50 de 2000, M.P. José Gregorio Hernández Galindo; 32 de 2002,
-M.P. Clara Inés Vargas Hernández; 15 de 2007, M.P. Humberto Antonio Sierra
-Porto; 82 de 2010, M.P. Nilson Pinilla Pinilla; y 177 de 2021, M.P. Jorge
-Enrique Ibáñez Najar.
-
-[49] Auto 177 de 2021, M.P.
-Jorge Enrique Ibáñez Najar.
-
-[50] Sentencia C-341 de
-2014, M.P. Mauricio
-González Cuervo.
-
-[51] Sentencia T-039/96,
-M.P. Antonio Barrera Carbonell.
-
-[52] Sentencia C-341 de
-2014, M.P. Mauricio
-González Cuervo.
-
-[53] Sentencias C-957 de 2011, M.P. Gabriel Eduardo Mendoza
-Martelo; C-248 de 2013, M.P. Mauricio
-González Cuervo; y C-341 de 2014, M.P. Mauricio González Cuervo.
-
-[54] Como parte de esta
-garantía se encuentran el derecho *(i)* a la independencia y *(ii)* a
-la imparcialidad del juez. La primera implica que los servidores públicos a los
-cuales confía la Constitución la tarea de administrar justicia ejerzan sus
-funciones separadas de aquellas atribuidas al ejecutivo y al legislativo. La imparcialidad, por su parte, supone que
-decisiones que se tomen en un proceso jurídico o administrativo deben ser
-tomadas con fundamento en los hechos, conforme a los imperativos del orden
-jurídico, sin designios anticipados ni prevenciones, presiones o influencias
-ilícitas.
-
-[55] El origen de
-lo que hoy se conoce como IA data de 1950, cuando Alan Turing, quien es
-considerado uno de los padres de la ciencia de la computación y
-precursor de la informática moderna,
-planteó por primera vez el interrogante acerca de si las máquinas pueden
-pensar. El término se acuñó en 1956, desde entonces la IA ha evolucionado de
-una IA simbólica, en la que los humanos construían sistemas basados en la
-lógica, a una IA basada en técnicas de aprendizaje automático, que les permite
-a las máquinas aprender de datos históricos para hacer
-predicciones en situaciones nuevas. Esta información fue consultada en el texto
-*«Artificiall Intelligence in Society»*,Organización para la
-Cooperación y el Desarrollo Económicos (OCDE). Disponible en la biblioteca
-digital de la OCDE en
-https://www.oecd-ilibrary.org/science-and-technology/artificial-intelligence-in-society/summary/spanish_603ce8a2-es?parentId=http%3A%2F%2Finstance.metastore.ingenta.com%2Fcontent%2Fpublication%2Feedfee77-en
-
-[56] Rusell,
-Stuart. y Norvig, Peter. (2008). Inteligencia Artificial. Un enfoque moderno. Pearson
-Educación, S.A. Segunda Edición.
-
-[57] *Ibidem.*
-
-[58] Universidad Autónoma
-de Occidente. ¿Cómo razona una inteligencia artificial?. Disponible en:
-https://virtual.uao.edu.co/blog/como-razona-una-ia#%C2%BFQue_es_el_razonamiento_en_la_inteligencia_artificial.
-
-[59] «En la
-inteligencia artificial, los actuadores son los componentes encargados de
-convertir la energía en movimiento. Estos mecanismos son responsables de
-ejecutar las acciones físicas en el entorno del agente inteligente». Disponible
-en https://iccsi.com.ar/la-componen-mecanismos-actuadores-inteligentes-y-sensores/#:~:text=de%20AS%2DInterface-,%C2%BFQu%C3%A9%20son%20los%20actuadores%20y%20sensores%20en%20la%20inteligencia%20artificial,el%20entorno%20del%20agente%20inteligente.
-
-[60] Esta explicación se
-basa en el documento «*A definition of Artificial Intelligence: main
-capabilities and scientific discipline»* realizado en 2019 por elGrupo
-de Expertos de Alto Nivel en Inteligencia Artificialque conformó la *Comisión
-Europea*. Disponible en:
-https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines.
-
-[61] Lavrentyeva, Nadya. «*The
-Alignment Problem: Machine Learning and Human Values»*. Y, Rusell, Stuart. y
-Norvig, Peter. (2008). Inteligencia Artificial. Un enfoque moderno. Pearson
-Educación, S.A. Segunda Edición.
-
-[62] Danaher, John. «The
-Ethics of Artificial Intelligence*».*
-
-[63] La Comisión Europea es
-el órgano ejecutivo, políticamente independiente, de la Unión Europea (UE). Es
-la única instancia responsable de elaborar propuestas de nueva legislación europea
-y de aplicar las decisiones del Parlamento Europeo y del Consejo de la UE.
-Además de presentar nuevas leyes para que el Parlamento y el Consejo de la UE
-las aprueben, la Comisión gestiona las políticas europeas y asigna los fondos
-de la UE, vela por que se cumpla la legislación de la UE (en conjunto con el
-Tribunal de Justicia), y representa a la UE en la escena internacional. Este
-organismo está compuesto por 27 comisarios, uno de cada país miembro, bajo la
-dirección del presidente de la Comisión. Sobre el particular puede consultarse
-el siguiente link https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies/european-commission_es
-
-[64] Grupo de Expertos de
-Alto Nivel en Inteligencia Artificial de la Comisión Europea (2019) *A
-definition of Artificial Intelligence: main capabilities and scientific
-disciplines.* Disponible en: https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines. El despacho
-se apoyó de la herramienta *Deepl* para la traducción del apartado.
-
-[65] El memorando realiza
-aclaraciones a la definición de sistema de IA contenida en el documento *Recommendation
-of The Council of Artificial Intelligence* (OCDE, 2019), adoptadas el 21 de
-mayo de 2019. El documento define la IA como «un sistema de ingeniería o basado en
-máquinas que puede, para un conjunto determinado de objetivos, generar
-resultados como predicciones, recomendaciones o decisiones que influyen en
-entornos reales o virtuales. Los sistemas de IA están diseñados para funcionar
-con distintos niveles de autonomía». Disponible en https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449#dates
-
-[66] La figura, cuyos
-gráficos fueron adaptados y su texto traducido por el despacho, fue tomada del
-«Memorando explicativo n.º 8 sobre la definición actualizada de la OCDE de un
-sistema de IA». A su vez, la figura fue tomada por la misma OCDE, de un
-documento previo de su autoría, denominado *«OECD Framework for the Classification
-of AI systems»*, OECD Digital Economy Papers, No. 323. Disponible en https://www.oecd-ilibrary.org/science-and-technology/oecd-framework-for-the-classification-of-ai-systems_cb6d9eca-en
-
-[67] OCDE. «Memorando
-explicativo n.º 8 sobre la definición actualizada de la OCDE de un sistema de
-IA».
-
-[68] *Ibidem.*
-
-[69] La explicación
-contenida en este párrafo se basa en el concepto que emitió en el presente
-trámite de revisión la experta Agneris Sampieri Ortega, analista de políticas
-públicas para América Latina y el Caribe en la empresa Acces Now. Expediente
-digital. Archivo «Anexo secretaria Corte Rta. Agneris Sampieri.pdf».
-
-[70] CUSTERS,
-Bart (2022). *Law and Artificial Intelligence. Regulating AI and applying AI
-in legal practice.* Países Bajos: Leiden University. Volumen 35, págs.19-20.
-
-[71] Martínez, Goretty. La
-inteligencia artificial y su aplicación al campo del Derecho. Disponible
-en: https://www.corteidh.or.cr/tablas/r30570.pdf.
-
-[72] SINGH,
-Karan. *Principles of Generative AI. A Technical Introduction. Carnegie
-Mellon University: Tepper School of Business*. Disponible en: https://www.cmu.edu/intelligentbusiness/expertise/genai-principles.pdf URL 1/02/2023.
-
-[73] El despacho
-se apoyó de la herramienta Deepl para la traducción del apartado.
-
-[74] Se trata del primer
-Índice Latinoamericano de Inteligencia Artificial (ILIA) elaborado por el
-Centro Nacional de Inteligencia Artificial de Chile (Cenia) con apoyo del BID,
-CAF y la OEA, con el objetivo de revisar el estado actual de la inteligencia
-artificial (IA) en 12 países de la región. El documento puede
-consultarse en
-https://indicelatam.cl/wp-content/uploads/2023/09/ILIA-ESP_compressed.pdf
-
-[75] La adopción, que fue
-una de las subdimensiones evaluadas en el estudio, mide la intensidad con que
-el sector privado integra la IA y los mecanismos del Estado para promover esta
-integración. Para eso cuantifica el número de compañías que usan IA como
-elemento fundamental de su modelo de negocios para reflejar la penetración de
-esta tecnología en el sector privado. Por otro lado, mide cómo los gobiernos
-están impulsando la IA a través del gasto en I+D y la promoción de inversión en
-tecnologías emergentes.
-
-[76] Guibourg, Ricardo. (2015). «Informática
-jurídica», en FABRA, Jorge y Núñez, Álvaro (eds.). Enciclopedia de filosofía y
-teoría del derecho. Universidad Nacional Autónoma de México, vol. I, pp.
-791-825.
-
-[77] Se pueden consultar
-otras 92 IA usadas para cuestiones judiciales, en diferentes países del mundo,
-en el Centro de Recursos sobre Ciberjusticia e Inteligencia Artificial del
-Consejo de Europa, en https://public.tableau.com/app/profile/cepej/viz/ResourceCentreCyberjusticeandAI/AITOOLSINITIATIVESREPORT?publish=yes
-
-[78] En el informe que
-presentó dentro del presente trámite de revisión, Open AI informó que su misión
-es «garantizar que la Inteligencia Artificial (“IA”) beneficie a toda la
-humanidad. OpenAI lleva a cabo investigaciones sobre IA, desarrolla modelos de
-IA y proporciona acceso a esos modelos. El objetivo de OpenAI es cumplir su
-misión de desarrollar una IA segura y beneficiosa en lugar de maximizar los
-ingresos y los beneficios. Es por eso por lo que OpenAI está controlada por una
-organización sin fines de lucro, y opera como una entidad de “beneficio/lucro
-limitado” la cual limita legalmente los beneficios que puede proporcionar a sus
-inversores y empleados. Cuando OpenAI sea rentable, cualquier beneficio
-económico que obtenga después de una cantidad predeterminada se devolverá a la
-organización sin fines de lucro para promover el objetivo de que la IA
-beneficie a la humanidad».
-
-[79] Esta definición fue
-tomada del concepto que emitió en el presente trámite de revisión la experta Agneris
-Sampieri Ortega, analista de políticas públicas para América Latina y el Caribe
-en la empresa Acces Now. Expediente digital. Archivo «Anexo secretaria Corte
-Rta. Agneris Sampieri.pdf».
-
-[80] El Espectador. Así es
-ChatGPT-4o, la nueva versión gratuita, más rápida y mejorada del ‘chatbot’.
-Disponible en: https://www.elespectador.com/tecnologia/asi-es-chatgpt-4o-la-nueva-version-gratuita-mas-rapida-y-mejorada-del-chatbot/. Ver:
-https://openai.com/index/gpt-4/.
-
-[81] Expediente
-digital. Archivo «Anexo secretaria Corte T-9301656 Rta. OPEN AI 13-10-23.pdf».
-
-[82] Actualizados a 14 de
-noviembre de 2023. Señalan. Disponible en https://openai.com/es/policies/terms-of-use.
-
-[83] Actualizada a 14 de
-noviembre de 2023. Disponible en https://openai.com/es/policies/privacy-policy.
-
-[84] El artículo se
-encuentra disponible en idioma inglés en
-https://help.openai.com/en/articles/6783457-what-is-chatgpt, sin embargo, la
-traducción usada corresponde a aquella que reposa en el informe que OpenAI
-allegó a esta Corte.
-
-[85] Disponible en
-https://openai.com/blog/chatgpt.
-
-[86] Disponible en
-https://openai.com/policies/usage-policies.
-
-[87] SCHWAB, Klaus
-(2016). *«The Fourth Industrial Revolution»*. *World Economic Forum*.
-Disponible en https://law.unimelb.edu.au/__data/assets/pdf_file/0005/3385454/Schwab-The_Fourth_Industrial_Revolution_Klaus_S.pdf
-
-[88] Rojas Ahumada, Kenner
-Alexander, Verónica López Zavaleta, y Alberto Carlos Mendoza de los Santos.
-2023. «El Impacto De La Inteligencia Artificial En La Mejora De La atención Al
-Cliente: Una revisión sistémica». *Innovación Y Software* 4 (2),
-201-22. Disponible en: https://doi.org/10.48168/innosoft.s12.a90.
-
-[89] IBM. «¿Qué es la
-inteligencia artificial en la medicina?». Disponible en: https://www.ibm.com/mx-es/topics/artificial-intelligence-medicine.
-
-[90] Benites Ocampo, Cesar
-Alexis. 2023. «Detectando El Fraude Con Inteligencia Artificial: Una
-Perspectiva Avanzada En Auditoría Forense». *Revista La Junta* 6
-(2):13-40. Disponible en: https://doi.org/10.53641/junta.v6i2.116.
-
-[91] Pedraza Caro, Jarod
-David. 2023. «La inteligencia artificial en la sociedad: explorando su impacto
-actual y los desafíos futuros». Disponible en:
-https://oa.upm.es/cgi/export/75068/.
-
-[92] Disponible en:
-https://www.ohchr.org/es/instruments-mechanisms/instruments/declaration-use-scientific-and-technological-progress-interests.
-
-[93] Centro Latinoamericano
-de Administración para el Desarrollo. Carta Iberoamericana de Inteligencia
-Artificial en la Administración Pública. Págs 8 y 9. Disponible en https://clad.org/wp-content/uploads/2023/08/Borrador-CIIA-V2-ES-08-2023.pdf.
-
-[94] Se refiere a la
-«utilización de sistemas de recomendación dentro de redes y plataformas
-digitales que, a través del desarrollo de algoritmos, aprenden de las
-preferencias humanas y sirven contenido digitales personalizados, según las
-expectativas aprendidas de cada individuo».
-
-[95] Es aquella tecnología
-que «busca en bases de datos que las organizaciones han ido acumulando a lo
-largo de los años sobre las personas que interactúan con ellas, con el fin de
-generar patrones para predecir tendencias. En este nivel de desarrollo se
-pueden activar cambios más profundos en las organizaciones, más allá del
-incremento de la automatización de tareas hacia oportunidades predictivas, y el
-impacto en las personas también aumenta de manera paralela, ya que las nuevas
-capacidades de predicción modelan progresivamente las decisiones humanas y sus
-oportunidades de actuación».
-
-[96] «Aquí, la Inteligencia
-Artificial se extiende gracias a la profundización en nuestro entorno social, a
-través de la digitalización creciente del entorno físico, mediante la presencia
-e interacción con sensores, dispositivos inteligentes y neuro-tecnologías,
-incluyendo una, capacidad de procesamiento en aumento (que será todavía mayor
-en el futuro con la computación cuántica), permitiendo un crecimiento
-exponencial de la percepción del mundo y de la actividad de los seres humanos».
-
-[97] «En este caso, la
-Inteligencia Artificial se movería más allá y entraría en un estadio en el que
-robots y máquinas inteligentes no sólo serían capaces de ayudar a mejorar la
-percepción y comprensión del mundo, sino que también podrían colaborar para
-moldearlo a través del desarrollo de capacidades autónomas respecto de los
-seres humanos».
-
-[98] Pontificia Universidad
-Católica de Chile. «¿Qué impactos socioculturales tienen los usos de la inteligencia
-artificial?». Disponible en:
-https://www.uc.cl/noticias/header-que-impactos-socioculturales-tienen-los-usos-de-la-inteligencia-artificial/.
-
-[99] Expediente digital.
-«Anexo secretaria Corte T-9301656 Rta. SECRETARIA GENERAL SENADO DE LA
-REPUBLICA 31-01-24.pdf».
-
-[100]«Por medio de la cual
-se crea la armonización de la inteligencia artificial con el derecho al trabajo
-de las personas». Estado: pendiente de discutirse la ponencia para primer
-debate en el Senado de la República.
-
-[101]«Mediante la cual se
-establece el deber de información para el uso responsable de la inteligencia
-artificial en Colombia y se dictan otras disposiciones». Estado: pendiente de
-discutir ponencia para primer debate en el Senado de la República.
-
-[102]«Por medio de la cual
-se establecen los lineamientos de política pública para el desarrollo, uso e
-implementación de inteligencia artificial y se dictan otras disposiciones».
-Estado: pendiente de rendir ponencia para segundo debate en el Senado de la
-República.
-
-[103] «Por medio de la cual
-se establecen los lineamientos de política pública para el desarrollo, uso e
-implementación de inteligencia artificial y se dictan otras disposiciones».
-
-[104] Expediente T-9.301.656. Archivo «Anexo secretaria Corte
-Rta Camara de Representantes despues de traslado.pdf».
-
-[105] Según la Gaceta del
-Congreso 1260 del 14 de septiembre de 2023 el proyecto, que consta de 27
-artículos, se encuentra dividido en cinco títulos, así: TITULO I. Disposiciones
-generales. Allí se encuentra el objeto, (art. 1); el ámbito de aplicación,
-(art. 2); definiciones para la aplicación e interpretación de la ley, (art.
-3); los principios que rigen su interpretación y aplicación, (art. 4);
-valores, (art. 5); TITULO II. Condiciones para el desarrollo, uso e
-implementación de la inteligencia artificial. Se regula la clasificación del riesgo
-de los sistemas de IA, (art. 6); uso en entidades públicas y privadas, (art.
-7); las afectaciones derivadas de la IA, (art. 8); la transparencia en su uso,
-(art. 9); el consentimiento informado, (art. 10); la capacidad legal para el
-uso e implementación de esta herramienta, (art. 11); la garantía de estabilidad
-laboral, (art. 12); las actividades excluidas de los sistemas de IA, (art. 13);
-la responsabilidad legal y socioambiental del uso de IA, (arts. 14 y 15);
-TITULO III. Inspección, control y vigilancia en materia de IA. En este título
-se propone la modificación de algunas normas de la Ley 1581 de 1012 para reglar
-lo concerniente a la autoridad de protección de datos y las funciones de la
-Superintendencia de Industria y Comercio en esa materia, (arts. 16 y 17); se
-regula la auditoría de algoritmos, (art. 18); dispone el uso de una plataforma
-de certificación de sistemas de IA, (art. 19); se consagra una prohibición de
-transferencia de información personal, (art. 20); se asigna a la referida
-Superintendencia la función de adelantar los procedimientos e imponer las
-sanciones que correspondan por el incumplimiento de lo dispuesto en la ley,
-(art. 21); TÍTULO IV. Medidas para el apoyo y promoción de la IA. Se dispone
-que el Ministerio de las TIC tiene a su cargo el deber de difundir en la
-sociedad las implicaciones y riesgos de la IA, (art. 22), así como de realizar
-campañas de prevención y capacitación sobre la materia a los estudiantes de
-instituciones públicas y privadas, y promover incentivos al desarrollo e
-implementación de la IA, (arts. 22, 23 y 24). TÍTULO V. Otras disposiciones.
-Este título se ocupa de prever un régimen de transición en el desarrollo, uso o
-implementación de herramientas de IA, (art. 25); la reglamentación del Gobierno
-nacional que debe expedir en la materia, (art. 26); y la vigencia de la ley,
-(art. 27). De otro lado, cabe resaltar que la exposición de motivos, al
-justificar la pertinencia del proyecto, señala particularmente que «[e]n el
-ámbito judicial, la inteligencia artificial facilita la sistematización y
-búsqueda de información jurídica útil para jueces, abogados y la sociedad en su
-conjunto, y permite predicciones basadas en decisiones judiciales que se han
-dictado y pueden ser reproducidas, pero no tiene capacidad de argumentación y
-garantiza imparcialidad, precisión y decisión adecuada, lo que la hace
-vulnerable a «resultados inexactos, discriminatorios, sesgos implícitos o
-inherentes». Acelerar el acceso a la justicia no conducirá a una sociedad más
-justa si no se garantiza que las decisiones del sistema sean justas, correctas
-y ajustadas a derecho».
-
-[106] Es un enfoque
-regulatorio que busca evaluar y mitigar los riesgos asociados al uso de
-tecnologías de IA. Se centra en identificar y clasificar los riesgos
-potenciales que las aplicaciones de IA pueden representar para la sociedad, la
-economía, la seguridad nacional y mundial, entre otros ámbitos, y luego
-establecer medidas regulatorias proporcionales a esos riesgos. Un ejemplo de
-regulación basada en riesgos es el Reglamento de Inteligencia Artificial de la
-Unión Europea.
-
-[107] Este enfoque busca
-asegurar que el desarrollo, implementación y uso de la IA respeten y protejan
-los derechos humanos fundamentales. Considera la protección de derechos como la
-privacidad, la igualdad, la no discriminación, la libertad de expresión y otros
-derechos reconocidos en instrumentos internacionales de derechos humanos y en
-las constituciones de los diferentes Estados.
-
-[108] Este enfoque pretende
-establecer directrices y estándares éticos que deben guiar el desarrollo, la
-implementación y el uso de la IA de manera segura, ética y beneficiosa para la
-sociedad. En esta categoría se enmarca el proyecto de ley
-253/22 del Senado de Colombia.
-
-[109] Este enfoque se base
-en la creación y adopción de normas técnicas y de calidad por parte de
-organizaciones internacionales, nacionales o sectoriales que sirvan de
-parámetro para un desarrollo, implementación y uso de la IA seguros, efectivos
-y coherentes con las mejores prácticas en la materia.
-
-[110] Bajo este enfoque las
-autoridades reguladoras establecen reglas y directrices específicas y
-exhaustivas, acompañadas de una supervisión directa y detallada del desarrollo,
-implementación y uso de las tecnologías de IA.
-
-[111] «Por medio del cual se
-expide el Decreto Único Reglamentario del sector de Tecnologías de la
-Información y las Comunicaciones».
-
-[112] Consejería Presidencial
-para asuntos económicos y transformación digital. (Noviembre de 2021). Task
-Force para el desarrollo e implementación de la inteligencia artificial en
-Colombia. Disponible en https://dapre.presidencia.gov.co/AtencionCiudadana/Documents/TASK-FORCE-para-desarrollo-implementacion-Colombia-propuest
-a-201120.pdf
-
-[113]
-https://inteligenciaartificial.gov.co/politicas_y_publicaciones/
-
-[114] Departamento Nacional de
-Planeación. (27 de abril de 2021). Departamento Administrativo de la
-Presidencia de la República*.* Astrid Rocío Angarita Cruz, Elena Tamayo
-Uribe. Disponible en
-https://dapre.presidencia.gov.co/TD/plan-seguimiento-implementacion-colombia-estandares-internacionales-inteligencia-artificial-oc
-de.pdf?TSPD_101_R0=08394a21d4ab20003ce781987b45f801b436fefee21570395b2f0af80498840c752d7f9356e396f508f3d002e2
-14500049b04
-
-[115] Expediente digital «Anexo secretaria Corte
-Rta. MINTIC.pdf».
-
-[116] «Por el cual se
-adoptan medidas para implementar las tecnologías de la información y las
-comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales
-y flexibilizar la atención a los usuarios del servicio de justicia». Este
-decreto fue declarado exequible por la Corte Constitucional, mediante la
-Sentencia C-420 de 2020, M.P.(e) Richard S. Ramírez Grisales.
-
-[117] Sentencia SU-387 de
-2022, M.P. Paola Andrea Meneses Mosquera, la cual a su vez cita el Decreto
-Legislativo 806 de 2020, artículo 1.º.
-
-[118] Modificada
-por la Ley 2157 de 2021.
-
-[119] Un ejemplo que puede
-evidenciar el impacto de este tipo de dato es el procedimiento establecido para
-la búsqueda selectiva en bases de datos (Ley 906 de 2004, artículo 244).
-
-[120] Ferrajoli, L. (2016).
-El derecho como sistema de garantías. Nuevo Foro Penal, 12(60), 59–75.
-Recuperado a partir de https://publicaciones.eafit.edu.co/index.php/nuevo-foro-penal/article/view/3896.
-
-[121] Corte Suprema de
-Justicia, Sala de Casación Civil, Agraria y Rural, Sentencia SC370-2023 del 10
-de octubre de 2023, M.P. Aroldo Wilson Quiroz
-Monsalvo, radicación 11001319900120160210601. La decisión se dictó en el trámite del
-recurso de casación que interpuso la empresa de Comunicaciones Tech y
-Transporte S.A. – Cotech S.A. contra la sentencia que profirió el Tribunal
-Superior de Distrito Judicial de Bogotá, Sala Civil, en proceso declarativo que
-promovió aquella contra Uber B.V., Uber Technologies, Inc. y Uber Colombia
-S.A.S. con el fin de que se declarara que estas últimas incurrieron en
-desviación de la clientela y violación de las normas de competencia y, en
-consecuencia, se les ordenara cesar la prestación del servicio de transporte
-individual de pasajeros en vehículos y se les prohibiera el uso de la
-respectiva aplicación en Colombia. En el marco de dicha controversia el Alto
-Tribunal señaló que el uso de los avances de las tecnologías de la información
-y la comunicación no puede calificarse como medio desleal para desviar clientes
-o como un mecanismo de competencia desleal pues ello supondría la violación del
-derecho humano a gozar de los adelantos tecnológicos.
-
-[122] Declaración Universal de
-Derechos Humanos «Artículo 27. 1. Toda persona tiene derecho a tomar parte
-libremente en la vida cultural de la comunidad, a gozar de las artes y a
-participar en el progreso científico y en los beneficios que de él resulten
-[…]».
-
-[123] Carta de Organización de
-los Estados Americanos. «Artículo 38. Los Estados miembros difundirán entre sí los
-beneficios de la ciencia y de la tecnología, promoviendo, de acuerdo con los
-tratados vigentes y leyes nacionales, el intercambio y el aprovechamiento de
-los conocimientos científicos y técnicos [...]».
-
-[124] Pacto Internacional de
-Derechos Económicos, Sociales y Culturales. «Artículo 15. 1. Los Estados Partes en el
-presente Pacto reconocen el derecho de toda persona a: [...] b) Gozar de los
-beneficios del progreso científico y de sus aplicaciones […]».
-
-[125] El *soft law* o
-derecho blando es aquel que «no tienen un carácter reglamentario sino
-interpretativo o explicativo de la significación y alcance de las normas
-positivas […] Por estos motivos, las normas de derecho blando tienen la
-característica de ser metajurídicas, no están incrustadas en el derecho para
-concretizar las reglas, ni las fuentes del derecho administrativo, sino para
-acreditar una función preventiva, ser un cauce o una guía para la aplicación e
-interpretación de los textos jurídicos e impedir así que haya confusión,
-conflictos, desorganización y caos administrativo». Alexander Sánchez Pérez.
-Las normas del derecho blando: Un análisis jurídico de los efectos de la
-reserva de instrucción sobre el derecho territorial, Universidad Externado de
-Colombia, 2012, pp. 74 y 75.
-
-[126] OECD *Legal
-Instruments*. *Recommendation of the Council on Artificial Intelligence*.
-Disponible
-en https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449. Sobre la obligatoriedad
-de lo allí dispuesto, el documento señala que «[l]as recomendaciones son
-adoptadas por el Consejo y no son jurídicamente vinculantes. Representan un
-compromiso político con los principios que contienen y conllevan la expectativa
-de que los Adherentes harán todo lo posible por aplicarlos». El despacho
-se apoyó de la herramienta *Deepl* para la traducción del apartado.
-
-[127] UNESCO (2022).
-Recomendación sobre la ética de la inteligencia artificial.Disponible
-en: https://www.unesco.org/es/articles/recomendacion-sobre-la-etica-de-la-inteligencia-artificial URL 3/02/2023.
-
-[128] La «Orden
-ejecutiva sobre el desarrollo y la utilización segura y fiable de la
-inteligencia artificial» dictada por el presidente Biden en 2023 define el «red
-teaming» como un «esfuerzo de prueba estructurado para encontrar fallos y
-vulnerabilidades en un sistema de IA, a menudo en un entorno controlado y en
-colaboración con los desarrolladores de IA. En la mayoría de los casos, los
-"equipos rojos" dedicados a la Inteligencia Artificial son los que
-llevan a cabo estas pruebas y adoptan métodos de confrontación para detectar
-fallos y vulnerabilidades, como resultados perjudiciales o discriminatorios de
-un sistema de IA, comportamientos imprevistos o indeseables del sistema,
-limitaciones o riesgos potenciales asociados al uso indebido del sistema». El
-despacho se apoyó en la herramienta *Deepl* para la traducción respectiva.
-
-[129] El documento se
-encuentra disponible en https://www.weforum.org/publications/the-presidio-recommendations-on-responsible-generative-ai/
-
-[130] El Foro Económico
-Mundial es una organización internacional para la cooperación público-privada.
-Establecido en 1971 como una organización sin ánimo de lucro, proporciona una
-plataforma global de colaboración para los líderes mundiales, a fin de
-establecer confianza y crear iniciativas de cooperación y progreso. Para tales
-efectos, involucra a líderes políticos, empresariales, académicos, de la
-sociedad civil y de otros ámbitos de la sociedad para dar forma a las agendas
-globales, regionales e industriales. Tiene un estatus consultivo de ONG con el
-Consejo Económico y Social dela Organización de las Naciones Unidas.
-
-[131] El mismo documento lo
-define como un método de análisis crítico de perspectiva para identificar
-debilidades potenciales, vulnerabilidades y áreas de mejora.
-
-[132] Disponible en https://www.un.org/sites/un2.un.org/files/ai_advisory_body_interim_report.pdf. El despacho
-se apoyó de la herramienta *Deepl* para la traducción del apartado.
-
-[133] «Gobernar la IA para
-la Humanidad».
-
-[134] La figura, cuyos
-gráficos fueron adaptados y su texto traducido por el despacho, fue tomada del
-informe provisional de asesoramiento sobre IA de la ONU «*Governing AI for Humanity».* Disponible en https://www.un.org/sites/un2.un.org/files/ai_advisory_body_interim_report.pdf. El despacho
-se apoyó en la herramienta *Deepl* para la traducción respectiva.
-
-[135] Disponible en:
-
-https://www.undocs.org/Home/Mobile?FinalSymbol=A%2FRES%2F78%2F265&Language=E&DeviceType=Desktop&LangRequested=False
-o se puede realizar la búsqueda a través del portal https://research.un.org/en/docs/ga/quick/regular/78.
-
-[136] Disponible en:
-
-https://news.un.org/es/story/2024/03/1528511?_gl=1*ffwlnl*_ga*MTk0Mzc5MTM4Ni4xNzExMjA4MTYz*_ga_TK9BQL5X7Z*MTcxMTIxNjM3Ny4yLjAuMTcxMTIxNjM3Ny4wLjAuMA.
-
-[137] Disponible en: https://rm.coe.int/ethical-charter-en-for-publication-4-december-2018/16808f699c.
-
-[138] Disponible en https://unesdoc.unesco.org/ark:/48223/pf0000387331_spa
-
-[139] Disponible en https://fairlac.iadb.org/
-
-[140] fAIr LAC. Herramienta de
-autoevaluación ética para el sector público*.* Disponible en https://self-fairlac.iadb.org/
-
-[141] La profesora Anne
-Garland Mahler, de la Universidad de Virginia, explica que «[e]l Sur Global
-como concepto crítico tiene tres definiciones principales. En primer lugar, se
-ha utilizado tradicionalmente en las organizaciones intergubernamentales de
-desarrollo […] para referirse a los Estados-nación económicamente
-desfavorecidos y como alternativa al "Tercer Mundo" de la posguerra
-fría. Sin embargo, en los últimos años y en diversos ámbitos, el Sur Global se
-emplea en un sentido posnacional para referirse a espacios y pueblos afectados
-negativamente por la globalización capitalista contemporánea. En esta segunda
-definición, el Sur Global recoge una geografía desterritorializada de las
-externalidades del capitalismo y significa dar cuenta de los pueblos subyugados
-dentro de las fronteras de los países más ricos, de tal forma que hay “Sures”
-económicos en el Norte geográfico y “Nortes” económicos en el Sur geográfico.
-Aunque este uso se basa en una larga tradición de análisis de los Sures
-geográficos del Norte -en la que el Sur representa una periferia interna y una
-posición relacional subalterna-, el epíteto "global" se utiliza para
-desvincular al Sur de una relación de uno a uno con la geografía. Es a través
-de esta conceptualización desterritorial que se atribuye un tercer significado
-al Sur Global en el que se refiere al imaginario resistente de un sujeto
-político transnacional que resulta de una experiencia compartida de subyugación
-bajo el capitalismo global contemporáneo». https://globalsouthstudies.as.virginia.edu/what-is-global-south. El despacho
-se apoyó en la herramienta *Deepl* para la traducción del apartado.
-
-[142] Comisión Europea. (21 de
-abril de 2021). Reglamento del Parlamento Europeo y del Consejo «por el que se
-establecen normas armonizadas en materia de inteligencia artificial (Ley de
-Inteligencia Artificial) y se modifican determinados actos legislativos de la
-unión»*.* Disponible en https://eur-lex.europa.eu/resource.html?uri=cellar:e0649735-a372-11eb-9585-01aa75ed71a1.0008.02/DOC_1&format=PDF
-
-[143] La propuesta
-forma parte de un paquete de IA más amplio, que también incluye el Plan
-Coordinado sobre IA actualizado. Juntos, el marco regulatorio y el Plan
-Coordinado buscan garantizar la seguridad y los derechos fundamentales de las
-personas y las empresas en lo que respecta a la IA.
-
-[144] El texto con las
-enmiendas del Parlamento Europeo al proyecto que presentó la Comisión Europea
-puede consultarse
-https://media.licdn.com/dms/document/media/D4D1FAQHOhE25bs_spQ/feedshare-document-pdf-analyzed/0/1709904595391?e=1710979200&v=beta&t=uiJde3YTHr8yTeozZ8hW-Dphnxh3qAFRvexLh9-_bZs
-
-[145] «por el que se
-establecen normas armonizadas en materia de inteligencia artificial y por el
-que se modifican los Reglamentos (CE) n.o 300/2008, (UE)
-n.o 167/2013, (UE) n.o 168/2013, (UE) 2018/858, (UE) 2018/1139
-y (UE) 2019/2144 y las Directivas 2014/90/UE, (UE) 2016/797 y
-(UE) 2020/1828 (Reglamento de Inteligencia Artificial)». Disponible en https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1689
-
-[146] Artículo 1-1 del
-Reglamento de IA.
-
-[147] Artículo 5.º del
-Reglamento de IA.
-
-[148] Artículo 6.º del
-Reglamento de IA, en armonía con el Anexo III.
-
-[149] Reglamento de IA, «Artículo
-6.º […] 3.º. No obstante lo dispuesto en el apartado 2, un sistema de IA no se
-considerará de alto riesgo si no plantea un riesgo importante de causar un
-perjuicio a la salud, la seguridad o los derechos fundamentales de las personas
-físicas, en particular al no influir sustancialmente en el resultado de la toma
-de decisiones. Así será cuando se cumplan una o varias de las condiciones
-siguientes: a) que el sistema de IA tenga por objeto llevar a cabo una tarea de
-procedimiento limitada; b) que el sistema de IA tenga por objeto mejorar el
-resultado de una actividad humana previamente realizada; c) que el sistema de
-IA tenga por objeto detectar patrones de toma de decisiones o desviaciones con
-respecto a patrones de toma de decisiones anteriores y no esté destinado a
-sustituir la evaluación humana previamente realizada sin una revisión humana
-adecuada, ni a influir en ella; o d) que el sistema de IA tenga por objeto
-llevar a cabo una tarea preparatoria para una evaluación pertinente a efectos
-de los casos de uso enumerados en el anexo III. No obstante lo dispuesto en el
-párrafo primero, los sistemas de IA a que se refiere el anexo III siempre se
-considerarán de alto riesgo cuando el sistema de IA lleve a cabo la elaboración
-de perfiles de personas físicas».
-
-[150] Disponible en https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/.
-
-[151] Disponible en https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf.
-
-[152] El despacho
-se apoyó en la herramienta *Deepl* para la traducción de estos principios.
-
-[153] *National
-Institute of Standards and Technology. U.S. Department of Commerce*. (Enero de 2023). *Artificial
-Intelligence Risk Management Framework.* Disponible en https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf
-
-[154] *Consumer
-Financial Protection Bureau*. (19 de septiembre de 2023). *CFPB Issues
-Guidance on Credit Denials by Lenders Using Artificial Intelligence. Consumers
-must receive accurate and specific reasons for credit denials*. Disponible
-en https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-on-credit-denials-by-lenders-using-artificial-intelligence/
-
-[155] Estas pueden buscarse
-en el rastreador de legislación en IA del *Brennan Center for Justice.* Disponible
-en https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker
-
-[156] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Agneris Sampieri.pdf».
-
-[157] Ley 31814 del 5 de julio
-de 2023, que «promueve el uso de la inteligencia artificial en favor del desarrollo
-económico y social del país»*.* Disponible en
-https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/4565760-31814.
-A los días de sancionarse la mencionada ley, se publicó el Decreto supremo
-085-2023-PCM, que aprobó la Política Nacional de Transformación Digital al 2030
-(PNTD), que entre otros propósitos, busca desarrollar la Agenda Digital Peruana
-y determina la provisión de servicios y estándares de cumplimiento que utilizan
-la IA para su despliegue. Disponible en https://www.gob.pe/institucion/pcm/normas-legales/4471543-085-2023-pcm.
-
-[158] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Agneris Sampieri.pdf».
-
-[159] *Ibidem.*
-
-[160] *Ibidem*.
-
-[161] Proyecto de Ley
-5763-2023-CR del 25 de agosto de 2023. Disponible en https://wb2server.congreso.gob.pe/spley-portal-service/archivo/MTI0NzI3/pdf/PL0576320230825.
-
-[162] Disponible en https://www.un.org/sites/un2.un.org/files/ai_advisory_body_interim_report.pdf. El despacho
-se apoyó en la herramienta *Deepl* para la traducción del apartado.
-
-[163] Catedrático de derecho y
-director del Centro de Derecho, Ciencia e Innovación de la Facultad de Derecho
-de la Universidad Estatal de Arizona, Estados Unidos.
-
-[164] MARCHANT
-Gary. *“Soft Law”. Governance of Artificial Intelligence*. AI Pulse.
-Disponible en https://escholarship.org/content/qt0jq252ks/qt0jq252ks_noSplash_1ff6445b4d4efd438fd6e06cc2df4775.pdf?t=po1uh8#:~:text=Thes
-e%20soft%20law%20instruments%20include,for%20the%20governance%20of%20AI. El despacho
-se apoyó en la herramienta *Deepl* para la traducción del apartado.
-
-[165] Esta expresión no se refiere
-a la región geográfica en sentido tradicional o geográfico sino al poder
-relativo y la riqueza de los países en distintas partes del mundo.
-
-[166] En
-algunos ámbitos es traducido como «solución de compromiso», «intercambio»,
-«compromiso» o «sacrificio». Se refiere a la decisión que se toma ante una
-situación conflictiva que supone perder o reducir cierta cualidad a
-cambio de ganar otra.
-
-[167] *Governing AI
-for Humanity (2023).* Disponible en https://www.un.org/sites/un2.un.org/files/ai_advisory_body_interim_report.pdf. El despacho
-se apoyó en la herramienta *Deepl* para la traducción del apartado.
-
-[168] https://www.airhelp.com/es/press/como-la-inteligencia-artificial-esta-revolucionando-las-reclamaciones-a-las-aerolineas/
-
-[169] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Mujeres
-TIC.pdf».
-
-[170] *Ibidem.*
-
-[171] Pretoria es un sistema
-que ayuda a clasificar y buscar información en las más de 3.400 tutelas que
-recibe a diario la Corte Constitucional desde todos los municipios del país.
-Por ejemplo, permite saber su lugar de origen, la decisión del juez, la
-presencia de un sujeto de especial protección o el derecho invocado antes de
-que una persona lea la sentencia. Pretoria no selecciona ni prioriza casos,
-pero sí contribuye a la identificación de patrones y de casos novedosos y a
-tener un panorama general de las tutelas que recibe la Corte. Es el usuario el
-que decide lo que quiere buscar apoyándose en la herramienta. A nivel
-funcional, los principales módulos de Pretoria son: *(i)* búsqueda de
-palabras y frases dentro del total de sentencias; *(ii)* permite filtrar
-información por distintas categorías; por ejemplo, el lugar de origen de la
-tutela, el derecho tutelado, la decisión del juez o la presencia de un sujeto
-de especial protección. Esta categorización de información se lleva a cabo a
-partir del uso de técnicas de inteligencia artificial y no reemplaza el
-análisis individual de cada tutela, cuyas principales características se
-consolidan en una ficha que diligencian los judicantes y auxiliares judiciales;
-*(iii)* genera gráficos estadísticos y mapas de calor sobre las consultas
-realizadas. De esta forma, Pretoria hace uso de algoritmos de inteligencia
-artificial, pero no usa tecnologías del mercado como *ChatGPT* o
-similares.
-
-[172] El desarrollo
-contenido en este acápite en torno a la garantía del juez natural es
-reiteración parcial de la Sentencia C-674 de 2017, M.P. Luis Guillermo Guerrero
-Pérez.
-
-[173] Sentencia C-030 de
-2023. MM.PP. José Fernando Reyes Cuartas y Juan Carlos Cortés González.
-
-[174] Sentencia C-429 de
-2001, M.P. Jaime Araujo Rentería. Sobre esta materia también puede consultarse
-las sentencias C-208 de 1993, M.P. Hernando Herrera Vergara; C-597 de 1996,
-M.P. Alejandro Martínez Caballero; C-392 de 2000, M.P. Antonio Barrera
-Carbonell; y C-200 de 2002, M.P. Álvaro Tafur Galvis.
-
-# [175] Comité de Derechos Humanos de la ONU. Observación N.º 32. artículo 14. El derecho a un juicio imparcial y a la igualdad ante los tribunales y cortes de justicia, PIDCP. 90. Periodo de sesiones 2007.
-
-[176] Sobre el contenido del derecho al juez natural en el
-contexto del sistema interamericano de derechos humanos *cfr. (i)*
-Corte IDH, caso *Barreto Leiva vs Venezuela,* sentencia del 17 de
-noviembre de 2009, Serie C N.º 206; *(ii)* Corte IDH, caso *Yvon
-Neptune vs Haití,*sentencia del 6 de mayo de 2008, Serie C N.º 180; *(iii)*
-Corte IDH, caso *Palarama Iribarne vs Chile,* sentencia del 22 de
-noviembre de 2005, Serie C N.º 135; *(iv)* Corte IDH, caso *Baena
-Ricardo vs Panamá,* sentencia del 2 de febrero de 2001, Serie C N.º 72; *(v)*
-Corte IDH, caso *Genie Lacayo vs Nicaragua,* sentencia del 29 de
-enero de 1997, Serie C N.º 33; *(vi)* Corte IDH, caso *Loayza
-Tamayo vs Perú,*sentencia del 17 de septiembre de 1997, Serie C N.º
-33.
-
-[177] Corte
-Interamericana de Derechos Humanos, caso *Barreto Leiva Vs. Venezuela*,
-sentencia de 17 de noviembre de 2009, Serie C N.º 206.
-
-[178] *Ibidem.*
-
-[179] Sentencia T-916 de
-2014, M.P. (e) Martha Victoria Sáchica Méndez.
-
-[180] Sentencia C-208 de
-1993, M.P. Hernando Herrera Vergara.
-
-[181] Cantaro, Alejandro.
-«Sobre la Imparcialidad de los Jueces y su Actividad Probatoria en el Proceso».
-Ponencia al Congreso Argentino de Derecho. Ver
-http://www.ilustrados.com/publicaciones/EplkEuFFZpdhoanQek.php
-
-[182] Al respecto se puede
-consultar la Sentencia SU-174 de 2021, M.P. Manuel José Cepeda Espinosa, que a
-su vez cita la Sentencia C-037 de 1996,
-reiterada en las sentencias C-365 de 2000, M.P. Vladimiro Naranjo Mesa, y C-496
-de 2016, M.P. María Victoria Calle Correa.
-
-[183] Reglamento de
-Inteligencia Artificial, considerando 61.
-
-[184] *Ibidem.*
-
-[185] *Ibidem.*
-
-[186] Sentencia T-214 de
-2012, M.P. Luis Ernesto Vargas Silva.
-
-[187] En la doctrina se ha
-dado cuenta del *designatorum,* «el conjunto de argumentaciones con base
-en las cuales el juez presenta la decisión como algo fundado»*.* Michel
-Taruffo. La Motivación de la
-Sentencia Civil. Trotta, Madrid, 2011, pág. 131. Esto es, con la motivación o
-justificación se pretende afianzar la «lógica deductiva del silogismo judicial»
-Jerzy Wróbleuski. *«Legal Decision
-and its Iustification»*. En: *La Raisonnement Juridique: actes du congrés modial de
-philosophie du droit et de philosophie sociele, Peeters Publishers*,
-Brueselas, 1971.
-
-[188] C.S.J. STC, 21
-agt. 2019, rad. 11143.
-
-[189] C.S.J. STC 4964-2020,
-30 jul. 2020.
-
-[190] Confrontar sentencia
-de impugnación de tutela de la Sala Civil de la Corte Suprema de Justicia STC
-16122-2021, Rad. 11001-02-000-2021-01265-01, magistrado ponente Francisco
-Ternera Barrios.
-
-[191] Emma
-Uprichard. *Dirty data: longitudinal classification systems*. Texto traducido: «[c]ualquier dato que sea
-inexacto, incompleto o inconsistente es un dato sucio. Para escribir una
-definición de datos sucios, son datos que son incorrectos o que no se pueden
-usar fácilmente». Recuperado de: https://blogs.cim.warwick.ac.uk/foodmatters/wp-content/uploads/sites/17/2014/01/Uprichard-Dirty-Data-2011-Published-version.pdf
-
-[192] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Escuela de Gobierno de la
-Universidad de los Andes (despues de traslado).pdf».
-
-[193] Como la Universidad de
-los Andes, Accesnow, Fundación Karisma, ISUR, entre otros.
-
-[194] *Ibidem.*
-
-[195] Las
-alucinaciones corresponden a un
-fenómeno en el que un modelo de lenguaje LLM (*Large Language Model*),
-percibe patrones que son inexistentes o imperceptibles para los observadores
-humanos, creando resultados inesperados.
-
-[196] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Fundacion Karisma y El Veinte
-(despues de traslado).pdf». Este interviniente expone que las alucinaciones son un fenómeno
-en el cual el sistema proporciona respuestas que son incorrectas, irrelevantes
-o sin sentido y cita *«**New York Times,* *“Artificial Intelligence Glossary: Neural Networks and Other Terms
-Explained”*,
-https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html».
-
-[197] Estas incluyen, por
-ejemplo: la verificación de fuentes, la consulta de doctrina relevante y la
-búsqueda de jurisprudencia de respaldo. Se debe poder asegurar que la
-aplicación de la información es adecuada y fundada.
-
-[198] Ver anexo 3.
-
-[199] A continuación se
-transcriben las respuestas que proporcionó *ChatGPT* a las preguntas que
-le formuló la funcionaria del despacho que se identificó como estudiante de
-derecho de una universidad en Colombia. Pregunta: «Soy estudiante de derecho de
-una universidad en Colombia ¿Menor autista esta exonerado de pagar cuotas
-moderadoras en sus terapias?» respuesta: «La exoneración de cuotas moderadoras
-para terapias de un menor autista en Colombia puede depender de diversos
-factores, y es importante revisar la normativa actualizada y consultar con
-fuentes especializadas para obtener información precisa. En general, la
-exoneración de cuotas moderadoras o copagos puede depender del tipo de servicio
-de salud, del régimen al que esté afiliado el menor y de las disposiciones
-específicas de las entidades encargadas de la salud en Colombia. Aquí hay
-algunos aspectos que podrían ser relevantes: 1. Leyes y normativas: Revisa la
-normativa actual en Colombia relacionada con la atención de personas con
-discapacidad y la exoneración de pagos en servicios de salud. Puedes consultar
-leyes como la Ley 1751 de 2015 y cualquier normativa específica que regule los
-derechos de las personas con discapacidad. 2. Régimen de afiliación: El tipo de
-régimen de seguridad social al que esté afiliado el menor (contributivo o
-subsidiado) podría influir en la aplicación de cuotas moderadoras. Asegúrate de
-entender las reglas específicas de cada régimen. 3. Recomendación médica: Es
-posible que la exoneración de cuotas moderadoras esté sujeta a una
-recomendación médica que respalde la necesidad de las terapias para el menor.
-Obtener un informe médico puede ser útil en este caso. 4. Entidades de salud:
-Consulta directamente con la EPS (Entidad Promotora de Salud) a la que esté
-afiliado el menor para obtener información detallada sobre la exoneración de
-cuotas moderadoras en su caso específico. Dado que las normativas pueden
-cambiar y la información puede variar, te recomendaría que busques
-asesoramiento legal específico para obtener la información más precisa y
-actualizada sobre la exoneración de cuotas moderadoras en terapias para un
-menor autista en Colombia». Pregunta «Soy estudiante de derecho de una
-universidad en Colombia ¿Las acciones de tutela en estos casos se deben
-conceder?» Respuesta «[l]a acción de tutela en Colombia es un mecanismo legal
-que busca proteger los derechos fundamentales de las personas cuando estos
-están siendo vulnerados o amenazados de manera inminente. La decisión de
-conceder o no una acción de tutela depende de la evaluación del juez frente a
-la situación específica presentada. En el caso de un menor autista y la posible
-exoneración de cuotas moderadoras en terapias, el juez analizará varios
-elementos, como la normativa vigente, la evidencia médica y las circunstancias
-particulares del caso. Aquí hay algunos puntos a considerar: 1.⁠
-⁠Vulneración de derechos fundamentales: La acción de tutela se concede cuando
-se evidencia una vulneración actual o inminente de derechos fundamentales. En
-el caso de un menor autista, se argumentaría que la falta de exoneración de
-cuotas moderadoras afecta sus derechos fundamentales a la salud y a la
-igualdad. 2.⁠ ⁠Prueba de la necesidad: Es importante contar con
-evidencia médica y argumentos sólidos que respalden la necesidad de las
-terapias y la exoneración de cuotas moderadoras para el menor autista. Un
-informe médico detallado podría ser crucial para respaldar la solicitud de
-tutela. 3.⁠ ⁠Normativa aplicable: El juez evaluará la normativa
-vigente, incluyendo leyes relacionadas con la salud y los derechos de las
-personas con discapacidad, para determinar si hay bases legales para conceder
-la tutela en este caso. 4.⁠ ⁠Recurso de amparo inmediato: La tutela
-es un recurso de amparo inmediato, por lo que se espera que se presente tan
-pronto como sea posible después de conocer la situación que vulnera los
-derechos fundamentales. Es importante destacar que cada caso es único, y la
-decisión final dependerá de la interpretación del juez. Si estás considerando
-presentar una acción de tutela en este caso, te recomendaría consultar con un
-profesional del derecho en Colombia para obtener asesoramiento específico sobre
-la situación y los pasos a seguir.» Pregunta «Soy estudiante de derecho de una
-universidad en Colombia ¿Exigir en estos casos la cuota moderadora es una
-barrera de acceso al servicio de salud?». Respuesta «[e]n el contexto de la
-atención médica para personas con discapacidad, como el caso de un menor
-autista que requiere terapias, la exigencia de cuotas moderadoras podría
-considerarse una barrera de acceso al servicio de salud. La barrera de acceso
-se produce cuando las condiciones impuestas dificultan o limitan el acceso
-efectivo a los servicios de salud, especialmente para aquellos que se
-encuentran en situaciones de vulnerabilidad, como personas con discapacidad.
-Aquí hay algunos puntos a considerar: 1. Principio de accesibilidad: El
-principio de accesibilidad es fundamental en el derecho a la salud. Las
-barreras económicas, como las cuotas moderadoras, podrían impedir que las
-personas accedan a los servicios de salud necesarios, especialmente en el caso
-de personas con discapacidad que pueden requerir tratamientos continuos y
-especializados. 2. Derechos de las personas con discapacidad: En Colombia,
-existen normativas que protegen los derechos de las personas con discapacidad,
-como la Ley 1145 de 2007 y la Convención sobre los Derechos de las Personas con
-Discapacidad. Estas normativas buscan garantizar la igualdad de oportunidades y
-la eliminación de barreras que dificulten la participación plena y efectiva en
-la sociedad. 3. Principio de no discriminación: La discriminación por motivos
-de discapacidad está prohibida, y cualquier práctica que genere discriminación,
-como la imposición de cuotas moderadoras que dificulten el acceso a servicios
-esenciales, podría ser cuestionada desde la perspectiva legal. Si consideras
-que la exigencia de cuotas moderadoras constituye una barrera de acceso al servicio
-de salud para el menor autista, podría ser relevante presentar esta
-argumentación en una posible acción de tutela o en cualquier otro recurso legal
-que estés contemplando. Recuerda que es importante contar con asesoramiento
-legal específico para tu caso particular y revisar la normativa vigente en
-Colombia para respaldar tus argumentos». Pregunta «Soy estudiante de derecho de
-una universidad en Colombia ¿La jurisprudencia de la corte constitucional ha
-tomado decisiones favorables en casos similares?». Respuesta «Mi conocimiento
-se basa en información hasta enero de 2022, y no tengo acceso a actualizaciones
-en tiempo real ni a la jurisprudencia más reciente de la Corte Constitucional
-de Colombia. Sin embargo, hasta la fecha de mi última actualización, la Corte
-Constitucional colombiana ha emitido decisiones en casos relacionados con la
-protección de los derechos de las personas con discapacidad, y algunas de estas
-decisiones podrían haber abordado la cuestión de las cuotas moderadoras y
-barreras de acceso a servicios de salud. Para obtener información actualizada
-sobre la jurisprudencia específica relacionada con casos similares al que estás
-investigando, te recomendaría consultar la base de datos de la Corte
-Constitucional de Colombia o buscar asesoramiento legal en tu universidad. Los
-casos y sus resoluciones pueden proporcionar orientación sobre cómo la Corte ha
-interpretado y aplicado la normativa en situaciones similares. Además, podrías
-considerar hablar con profesores, abogados especializados en derecho de la
-salud o buscar recursos en bibliotecas jurídicas que podrían tener información
-actualizada sobre la jurisprudencia relevante en este ámbito. Recuerda que la
-jurisprudencia puede evolucionar con el tiempo, y es importante tener en cuenta
-las decisiones más recientes de la Corte Constitucional para obtener la
-información más actualizada y precisa sobre cómo aborda casos similares al que
-estás investigando».
-
-[200] En este caso, el
-despacho sustanciador omitió inintencionalmente la formulación de la misma
-pregunta que realizó el juez de segunda instancia.
-
-[201] Juliani, Arthur. (10 de
-marzo de 2023). *Large Language Models Don’t “Hallucinate”: Using this term
-attributes properties to the LLMs they don’t have while also ignoring the real
-dynamics behind the production of their made-up information*. Disponible en: https://betterprogramming.pub/large-language-models-dont-hallucinate-b9bdfa202edf
-
-[202] Texto traducido: La
-Oficina Central de Estadística (CSO por sus siglas en inglés) es la oficina
-nacional de estadística de Irlanda y su propósito es recopilar, analizar y
-poner a disposición estadísticas imparciales sobre la gente, la sociedad y la
-economía. Disponible en: https://www.cso.ie/en/aboutus/whoweare/.
-
-[203] Ver: https://www.cso.ie/en/index.html.
-
-[204] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Fundacion Karisma y El Veinte
-(despues de traslado).pdf»: «Marion Oswald, et al. Pág. 235».
-
-[205] Emilio Ferrara. (s/f). *Should
-ChatGPT be biased? Challenges and risks of bias in large language models*.
-Disponible en: Arxiv.org. http://arxiv.org/abs/2304.03738.
-
-[206] *«Usage
-Statistics and Market Share of Content Languages for Websites, September 2023»*, accedido el 8 de septiembre de 2023,
-https://w3techs.com/technologies/overview/content_language».
-
-[207] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Fundacion Karisma y El Veinte
-(despues de traslado).pdf».
-
-[208] Este es un sistema
-utilizado por la policía de Durham en Inglaterra con el fin de predecir la
-posibilidad de reincidencia de una persona, basa sus decisiones en información
-de retenciones pasadas, historial criminal de la persona y otros datos como su
-género o código postal. Ver. Marion Oswald, Jamie Grace, Sheena Urwin
-& Geoffrey. C. Barnes (2018) *Algorithmic risk assessment policing
-models: lessons from the Durham HART model and ‘Experimental’ proportionality,
-Information & Communications Technology Law*, 27:2, 223-250. DOI:
-10.1080/13600834.2018.1458455. Pág. 228.
-
-[209] Emilio
-Ferrara. (s/f). *Should ChatGPT be biased? Challenges and risks of bias in
-large language models*. Arxiv.org. http://arxiv.org/abs/2304.03738.
-
-[210] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Fundacion Karisma y El Veinte
-(despues de traslado).pdf».
-
-[211] Esta clasificación fue
-hecha por el Tribunal Constitucional Español, en la sentencia STCE 0154/2001,
-expedida el 02 de julio del 2001, en donde señaló:«[e]n tal
-sentido nuestra jurisprudencia viene distinguiendo entre una ‘imparcialidad
-subjetiva’ que garantiza que el Juez no ha mantenido relaciones indebidas con
-las partes, y una ‘imparcialidad objetiva’, es decir, referida al
-objeto del proceso, por lo que se asegura que el Juez o el Tribunal no ha
-tenido un contacto previo con el thema decidendi y, por tanto, que se acerca al
-objeto mismo sin prevenciones en su ánimo».
-
-[212] Expediente digital.
-«ANDES 15-09-23». Refiere «[l]a explicación de la tabla es una adaptación,
-resumen y traducción del autor respecto del texto original “NISTIR 8312 *Four
-Principles of Explainable Artificial Intelligence*”. La versión
-original está escrita en inglés razón por la cual se recomienda leerla para que
-saque sus propias conclusiones».
-
-[213] Expediente digital.
-«ANDES 15-09-23». Refiere «Gavilán, Ignacio (2022) Cuatro principios para una
-buena explicabilidad de los algoritmos. Publicado en:
-https://ignaciogavilan.com/cuatro-principios-para-una -buena-explicabilidad-de-los-algoritmos/
-(Última consulta: 8/II(2023)».
-
-[214] *Black
-Box AI: What Is It And How Does It Work?* Texto traducido: «Caja negra
-en IA se
-refiere a sistemas complejos de IA cuyo funcionamiento interno no es
-completamente entendido o explicable, incluso por sus creadores». Recuperado de:
-https://eastgate-software.com/black-box-ai-what-is-it-and-how-does-it-work/#:~:text=Black%20Box%20AI%2C%20in%20essence,explainable%2C%20even%20by%20their%20creators.
-
-[215] Se retoma el análisis
-realizado en la Sentencia C-030 de 2024, M.P. Juan Carlos Cortés González.
-
-[216] Sentencias C-301 de
-2012, M.P.
-Jorge Ignacio Pretelt Chaljub, y C-030 de
-2024, M.P. Juan Carlos Cortés González.
-
-[217] *Ibidem.*
-
-[218] Sentencia del 2 de marzo
-de 2005, radicado N.º 18103, proferida por la Corte Suprema de Justicia, Sala
-de Casación Penal, M.P. Édgar Lombana Trujillo. Al respecto, también pueden
-consultarse las sentencias C-1270 de 2000, M.P. Antonio Barrera
-Carbonell; C-1104 de 2001, M.P. Clara Inés Vargas Hernández; C-868 de 2010,
-M.P. María Victoria Calle Correa; y C-034 de 2014. M.P. María Victoria Calle.
-
-[219] Sentencia SU-371 de
-2021, M.P. Cristina Pardo Schlesinger.
-
-[220] República de Colombia.
-Superintendente Delegado para la Protección de Datos de la Superintendencia de
-Industria y Comercio. Resolución 38281, 14 De Julio De 2020.
-
-[221] Fundamentos jurídicos
-tomados de la Sentencia C-030 de 2024, M.P. Juan Carlos Cortés González.
-
-[222] Por medio de la cual
-se crea la Ley de Transparencia y del Derecho de Acceso a la Información
-Pública Nacional y se dictan otras disposiciones.
-
-[223] M.P. Alberto Rojas
-Ríos.
-
-[224] Esta clasificación ha sido usada en varios
-pronunciamientos, entre ellos, sentencias T-729 de 2002, M.P. Eduardo
-Montealegre Lynett; C-1011 de 2008, M.P. Jaime Córdoba Triviño; C-748 de 2011,
-M.P. Jorge Ignacio Pretelt Chaljub; y T-828 de 2014, M.P. Gloria Stella Ortiz
-Delgado.
-
-[225] En la Sentencia T-307
-de 1999, M.P. Eduardo Cifuentes Muñoz, sobre la llamada información «sensible»,
-esta Corte afirmó: «no puede recolectarse información sobre datos “sensibles”
-como, por ejemplo, la orientación sexual de las personas, su filiación política
-o su credo religioso, cuando ello, directa o indirectamente, pueda conducir a
-una política de discriminación o marginación».
-
-[226] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Escuela de Gobierno de la
-Universidad de los Andes (despues de traslado).pdf».
-
-[227] Ley Estatutaria 1581
-de 2012, artículo 4.
-
-[228] Expediente digital.
-Archivo «Anexo secretaria Corte Rta. Agneris Sampieri.pdf».
-
-[229] Gutiérrez. «Lineamientos
-Para El Uso de Inteligencia Artificial En Contextos Universitarios» Versión
-5.0, nº 10.
-
-[230] Superintendencia de
-Industria y Comercio. «Superindustria le pone la lupa a la aplicación “CHAT-GPT” para
-determinar si cumple con la regulación de protección de datos personales». Disponible en: https://www.sic.gov.co/slider/superindustria-le-pone-la-lupa-la-aplicacion-chat-gpt-para-determinar-si-cumple-con-la-regulacion-de-proteccion-de-datos-personales.
-
-[231] Agencia Española de
-Protección de Datos. «La AEPD inicia de oficio actuaciones de investigación a OpenAI,
-propietaria de ChatGPT». Disponible en: https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/aepd-inicia-de-oficio-actuaciones-de-investigacion-a-openai.
-
-[232] La información fue
-consultada en «[m]odernización de la administración de justicia a través de la
-inteligencia artificial» (2020). Manuel José Cepeda Espinosa y Guillermo
-Otálora Lozano. Publicado por Fedesarrollo, Centro de Investigación Económico y
-Social. Disponible en https://www.repository.fedesarrollo.org.co/bitstream/handle/11445/3980/Repor_Julio_2020_Cepeda_y_Ot%c3%a1lora.pdf?sequence=3&isAllowed=y
-
-[233] Biblioteca digital de
-la OCDE. Disponible en https://www.oecd-ilibrary.org/sites/eedfee77-en/index.html?itemId=/content/publication/eedfee77-en&_csp_=5c39a73676a331d76fa56f36ff0d4aca&itemIGO=oecd&itemContentType=book
-
-[234] Sentencia T-225 de
-2022, M.P. Antonio José Lizarazo Ocampo; C-127 de 2023, M.P. Juan Carlos Cortés González;
-T-275 de
-2023, M.P. Juan Carlos Cortés González, entre otras.
-
-[235] Preámbulo y los artículos
-3.º y 24.
-
-[236] Artículo 24.
-
-[237] Artículos 10 y 12.
-
-[238] Artículo 19.
-
-[239] El segundo principio de
-la Declaración.
-
-[240] Artículo 25.
-
-[241] Constitución Política. «Artículo
-13. Todas las personas nacen libres e iguales ante la ley, recibirán la misma
-protección y trato de las autoridades y gozarán de los mismos derechos,
-libertades y oportunidades sin ninguna discriminación por razones de sexo,
-raza, origen nacional o familiar, lengua, religión, opinión política o
-filosófica. El Estado promoverá las condiciones para que la igualdad sea real y
-efectiva y adoptará medidas en favor de grupos discriminados o marginados. El
-Estado protegerá especialmente a aquellas personas que, por su condición
-económica, física o mental, se encuentren en circunstancia de debilidad
-manifiesta y sancionará los abusos o maltratos que contra ellas se cometan».
-
-[242] Sentencia T-455 de
-2018, M.P. Diana Fajardo Rivera, reiterada en la Sentencia T-011 de 2022, M.P.
-Cristina Pardo Schlesinger.
-
-[243] Sentencia C-371 de
-2000, M.P. Carlos Gaviria Díaz, reiterada en la Sentencia T-383 de 2018, M.P
-Cristina Pardo Schlesinger.
-
-[244] «Artículo 47. El Estado
-adelantará una política de previsión, rehabilitación e integración social para
-los disminuidos físicos, sensoriales y psíquicos, a quienes se prestará la
-atención especializada que requieran».
-
-[245] Artículo 2, numeral 6.
-
-[246] Artículo 25.
-
-[247] Artículo 10.
-
-[248] Artículo 12.
-
-[249] Sentencia SU-508 de
-2020, M.P. José Fernando Reyes Cuartas, cita: «Comité de Derechos
-Económicos, Sociales y Culturales, HRI/GEN/1/Rev. 9 (Vol. 1), recuperado en
-https://conf-dts1.unog.ch/1%20SPA/Tradutek/Derechos_hum_Base/CESCR/00_1_obs_grales_Cte%20Dchos%20Ec%20Soc%20Cult.html#GEN14.».
-
-[250] Sentencia SU-508 de
-2020, M.P. José Fernando Reyes Cuartas.
-
-[251] El Estado tiene la
-obligación de «garantizar la existencia de servicios y tecnologías e
-instituciones de salud, así como de programas de salud y personal médico y
-profesional competente».
-
-[252] «Exige a los diferentes
-agentes del sistema de SGSSS (i) ser respetuosos de la ética médica, así como
-de las diversas culturas de las personas, minorías étnicas, pueblos y
-comunidades, respetando sus particularidades socioculturales y cosmovisión de
-la salud; (ii) “responder adecuadamente a las necesidades de salud relacionadas
-con el género y el ciclo de vida” y (iii) “prestar los servicios para mejorar
-el estado de salud de las personas dentro del respeto a la confidencialidad” ».
-
-[253] «Los establecimientos,
-servicios y tecnologías de salud deberán estar centrados en el usuario, ser
-apropiados desde el punto de vista médico y técnico y responder a estándares de
-calidad aceptados por las comunidades científicas».
-
-[254] «Los servicios y
-tecnologías de salud deben ser accesibles a todos, “en condiciones de igualdad,
-dentro del respeto a las especificidades de los diversos grupos vulnerables y
-al pluralismo cultural”. La accesibilidad comprende la no discriminación, la
-accesibilidad física, la asequibilidad económica y el acceso a la información».
-
-[255] Artículo 2.º.
-
-[256] La jurisprudencia ha
-definido la salud como «un derecho complejo, tanto por su concepción, como por
-la diversidad de obligaciones que de él se derivan y por la magnitud y variedad
-de acciones y omisiones que su cumplimiento demanda del Estado y de la sociedad
-en general». Sentencias T-760 de 2008, M.P. Manuel José Cepeda Espinosa; T-539
-de 2013, M.P. Jorge Ignacio Pretelt Chaljub; T-499 de 2014, M.P. Alberto Rojas
-Ríos; T-745 de 2014, M.P. Mauricio González Cuervo; C-313 de 2014, M.P. Gabriel
-Eduardo Mendoza Martelo; T-094 de 2016, M.P. Alejandro Linares Cantillo; T-014
-de 2017, M.P. Gabriel Eduardo Mendoza Martelo; y T-005 de 2023, M.P. Juan
-Carlos Cortés González.
-
-[257] «Los servicios y
-tecnologías de salud deberán ser suministrados de manera completa para
-prevenir, paliar o curar la enfermedad, con independencia del origen de la
-enfermedad o condición de salud, del sistema de provisión, cubrimiento o
-financiación definido por el legislador. No podrá fragmentarse la responsabilidad
-en la prestación de un servicio de salud específico en desmedro de la salud del
-usuario».
-
-[258] Artículo 25.b.
-
-[259] Artículos 23 y 24.1.
-
-[260] Artículo 12.
-
-[261] Artículos 10 y 18.
-
-[262] Sentencia SU-475 de
-2023, M.P.
-Paola Andrea Meneses Mosquera, la cual reitera las sentencias T-673 de 2017, M.P. Gloria Stella
-Ortiz Delgado, y T-160 de 2022, M.P. Gloria Stella Ortiz Delgado.
-
-[263] Sentencia SU-475 de
-2023, M.P. Paola Andrea Meneses Mosquera.
-
-[264] Sentencia T-253 de 2022, M.P. Jorge Enrique Ibáñez
-Najar.
-
-[265] Sentencia T-256 de
-2018, M.P. Cristina Pardo Schlesinger, la cual reitera la Sentencia T-405 de 2017, M.P. (e) Iván Humberto Escrucería Mayolo.
-
-[266] Sentencia T-239 de
-2019, M.P. Alberto Rojas Ríos.
-
-[267] M.P. (e) Iván Humberto
-Escrucería Mayolo.
-
-[268] Sentencia T-256 de
-2018, M.P. Cristina Pardo Schlesinger, la cual reitera la Sentencia T-405 de
-2017, M.P. (e) Iván Humberto Escrucería Mayolo.
-
-[269] Sentencia T-256 de
-2018, M.P. Cristina Pardo Schlesinger, la cual reitera la Sentencia T-745 de
-2013, M.P. Jorge Ignacio Pretelt Chaljub.
-
-[270] La Resolución 5269 de
-2017 «[p]or la cual se actualiza integralmente el Plan de Beneficios en Salud
-con cargo a la Unidad de Pago por Capitación (UPC)» estableció en su artículo
-2.º que «el Plan de Beneficios en Salud con cargo a la UPC «es el conjunto de
-servicios y tecnologías en salud […] estructurados sobre una concepción
-integral de la salud, que incluye la promoción de la salud, prevención,
-diagnóstico, tratamiento, rehabilitación y paliación de la enfermedad y que se
-constituye en un mecanismo de protección al derecho fundamental a la salud para
-que las Entidades Promotoras de Salud -EPS- o las entidades que hagan sus
-veces, garanticen el acceso a los servicios y tecnologías en salud bajo las
-condiciones previstas en esta resolución».
-
-[271] «Artículo 9. Derecho a
-la habilitación y rehabilitación integral. Todas las personas con discapacidad
-tienen derecho a acceder a los procesos de habilitación y rehabilitación
-integral respetando sus necesidades y posibilidades específicas con el objetivo
-de lograr y mantener la máxima autonomía e independencia, en su capacidad
-física, mental y vocacional, así como la inclusión y participación plena en
-todos los aspectos de la vida. Para garantizar el ejercicio efectivo del
-derecho a la habilitación y rehabilitación, se implementarán las siguientes
-acciones […]».
-
-[272] Sentencia T-266 de
-2020, M.P. Alberto Rojas Ríos.
-
-[273] M.P. José Fernando
-Reyes Cuartas.
-
-[274] *Ibidem.*
-
-[275] Sentencia T-065 de
-2023, M.P. Natalia Ángel Cabo, y T-202 de 2023, M.P. Cristina Pardo
-Schlesinger.
-
-[276] Este acápite es
-reiteración de la Sentencia T-099 de 2023, M.P Juan Carlos Cortés González.
-
-[277] Sentencia T-611 de
-2014, M.P Jorge Iván Palacio Palacio, reiterada en la Sentencia T-099 de 2023,
-M.P Juan Carlos Cortés González.
-
-[278] Sentencia T-394 de
-2021, M.P Gloria Stella Ortiz Delgado.
-
-[279] *Ibidem.*
-
-[280] Sentencia T-195-2021,
-M.P. José Fernando Reyes Cuartas.
-
-[281] Sentencia T-001 de
-2021, M.P. Gloria Stella Ortiz Delgado.
-
-[282] Al
-respecto, los artículos 121 y 122 de la Resolución 2481 de 2020 regulan el
-transporte de pacientes que requieren servicios médicos. En concreto, tratan la
-movilización de pacientes en ambulancia o en otro cuando no hay disponibilidad
-de ambulancia en el lugar de residencia del paciente.
-
-[283] Sentencia T-900 de 2002, M.P. Alfredo Beltrán Sierra. Reiterada en las
-sentencias T-962 de 2005, M.P. Marco Gerardo Monroy Cabra; T-760 de 2008, M.P.
-Manuel José Cepeda Espinosa; T-550 de 2009, M.P. Mauricio González Cuervo;
-T-021 de 2012, M.P. Gabriel Eduardo Mendoza Martelo; T-388 de 2012, M.P. Luis
-Ernesto Vargas Silva; T-481 de 2012, M.P. Luis Ernesto Vargas Silva; T-201 de
-2013, M.P.
-(e) Alexei Julio Estrada; T-567 de 2013, M.P. Luis
-Ernesto Vargas Silva; T-105 de 2014, M.P. Luis Ernesto Vargas Silva; T-096 de
-2016, M.P. Luis Ernesto Vargas Silva; T-331 de 2016, M.P. Luis Ernesto Vargas Silva; T-707
-de 2016, M.P. Luis Guillermo Guerrero Pérez; T-397
-de 2017, M.P. Diana Fajardo Rivera; T-495 de 2017, M.P. Alejandro Linares
-Cantillo; y T-032 de 2018, M.P. José Fernando Reyes Cuartas.
-
-[284] Sentencia T-350 de 2003, M.P. Jaime Córdoba Triviño. Esta
-posición ha sido reiterada en sentencias como las siguientes: T-962 de 2005,
-M.P. Marco Gerardo Monroy Cabra; T-459 de 2007, M.P. Marco Gerardo Monroy
-Cabra; T-760 de 2008, M.P. Manuel José Cepeda Espinosa; T-346 de 2009, M.P.
-María Victoria Calle Correa; T-481 de 2012, M.P. Luis Ernesto Vargas Silva;
-T-388 de 2012, M.P. Luis Ernesto Vargas Silva; T-116A de 2013, M.P. Nilson
-Pinilla Pinilla; T-567 de 2013, M.P. Luis Ernesto Vargas Silva; T-105 de 2014,
-M.P. Luis Ernesto Vargas Silva; T-331 de 2016, M.P. Luis Ernesto Vargas Silva;
-T-397 de 2017, M.P. Diana Fajardo Rivera; T-495 de 2017, M.P.
-Alejandro Linares Cantillo; T-032 de 2018, M.P. José Fernando Reyes Cuartas;
-y T-069 de 2018, M.P. Alejandro Linares Cantillo.
-
-[285] El fallo de tutela objeto
-de revisión señaló que, en la Sentencia T-674-2016, M.P. Gabriel Eduardo Mendoza Martelo,
-«[l]a Corte Constitucional conoció el caso de “Erika Carolina Ramos Villalobos,
-en representación de su hijo, Matías Rafael Guzmán Ramos, interpuso la presente
-acción de tutela contra Salud Total EPS, con el fin de que le fueran protegidos
-los derechos fundamentales de su pequeño, a la vida en condiciones dignas, a la
-salud, y los derechos de los niños, los cuales considera que le son vulnerados
-por dicha entidad (i) al negarle el suministro del servicio de transporte
-urbano para acudir a las terapias que se le practican, así como también (ii)
-con el cobro de copagos y cuotas moderadoras para la prestación de los servicios
-de salud requeridos para el cuidado de las múltiples patologías que padece,
-dentro de las que se destacan entre otras, autismo, trastorno de espectro
-autista, trastorno de hiperactividad, déficit de atención, trastorno de
-comportamiento secundario y de lenguaje”».
-
-[286] El fallo de tutela
-objeto de revisión precisó que «[l]a Corte Constitucional en el mencionado caso
-resolvió: “ORDENAR a Salud Total EPS, a través de su representante legal o
-quien haga sus veces, que si no lo ha realizado, en el término de 48 horas
-contadas a partir de la notificación de la presente providencia suministre el
-servicio de transporte urbano al menor de edad Matías Rafael Guzmán Ramos y su
-acompañante para la asistencia a las terapias y sesiones prescritas para el
-tratamiento de su enfermedad y, del mismo modo, se le exonere del pago de las
-cuotas moderadoras o copagos que se generen para la prestación del tratamiento
-que le fue ordenado”».
-
-[287] Sobre el particular, el fallo de tutela de
-segunda instancia adujo que «[e]n las consideraciones de la referenciada
-sentencia, sobre la exoneración de cobro de copagos y cuotas moderadoras, se
-indicó: “..aunque tales exigencias económicas son viables legalmente, lo cierto
-es que, en determinados casos, atendiendo también la insolvencia financiera del
-afiliado y de su familia, su exigencia puede tornarse gravosa cuando no cuentan
-con el dinero para pagarlos y, por lo mismo, recibir el tratamiento,
-procedimiento o servicio requerido para el manejo de su enfermedad. Por tanto,
-en aquellas circunstancias en las que la razón para no sufragar el porcentaje
-exigido, se contraen a la falta de capacidad financiera, debe el juez de tutela
-procurar verificar las precarias condiciones del paciente y, una vez realizado
-lo anterior, ordenar la exoneración de su pago en aras de evitar un daño mayor
-e irreparable a su salud y de esa forma derribar las barreras que con ello se
-les imponen para acceder a los servicios médicos requeridos”».
-
-[288] Expediente digital.
-Archivo «Anexo secretaria Corte T-9301656 Toma de
-Declaracion Juez.pdf».
-
-[289] *Ibidem.*
-
-[290] Cursiva fuera del
-texto original.
-
-[291] Plan Nacional de Desarrollo desarrollado para los años 2014-2018.
-
-[292] Según la historia
-clínica que se allegó con la demanda, nació el 25 de julio de 2018.
-
-[293] Expediente T-9.301.656.
-Escrito de tutela, pág.1.
-
-[294] Esta información fue
-consultada en: https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html URL 18/03/2024.
-
-[295] Esta información fue
-consultada en: https://servicios.adres.gov.co/BDUA/Consulta-Afiliados-BDUA URL
-18/03/2024.
-
-[296] Disponible en https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/Protocolo-TEA-final.pdf
-
-[297] *Ibidem.*
-
-[298] *Ibidem.*
-
-[299] Expediente digital, demanda
-de tutela, p. 4.
-
-[300] Sentencias T-310 de 1995, M.P. Vladimiro Naranjo Mesa;
-T-553 de 2008, M.P. Nilson Pinilla Pinilla; T-001 de 2021, M.P. Gloria Stella
-Ortiz Delgado; y T-330 de 2022, M.P. José Fernando Reyes Cuartas.
-
-[301] Sentencia
-T-577 de 2017, M.P. Diana Fajardo Rivera. Reiterada en Sentencia T-150 de 2023,
-M.P. Jorge Enrique Ibáñez Najar.
-
-[302] Artículos 48 de la Ley
-270 de 1996 y 36 del Decreto 2591 de 1991.
-
-[303] Artículo 241.9 de la
-Constitución Política.
-
-[304] Sentencia SU-783 de
-2003, M.P. Marco Gerardo Monroy Cabra.
-
-[305] Sentencias SU-636 de
-2003, M.P. Jaime Araujo Rentería; SU-813 de 2007, M.P. Rodrigo Escobar Gil;
-SU-913 de 2009, M.P. Juan Carlos Henao Pérez; SU-446 de 2011, M.P. Jorge
-Ignacio Pretelt Chaljub; SU-254 de 2013, M.P. Luis Ernesto Vargas Silva; SU-235
-de 2016, M.P. Gloria Stella Ortiz Delgado; SU-587 de 2016, M.P. Luis Guillermo
-Guerrero Pérez; SU-011 de 2018, M.P. Diana Fajardo Rivera y Gloria Stella Ortiz
-Delgado; SU-055 de 2018, M.P. Luis Guillermo Guerrero Pérez; y SU-349 de 2019,
-M.P. Diana Fajardo Rivera, entre otras.
-
-[306] Sentencias SU-783 de
-2003, M.P. Marco Gerardo Monroy Cabra, y SU-349 de 2019, M.P. Diana Fajardo
-Rivera, entre otras.
-
-[307] Disponible en https://colaboracion.dnp.gov.co/CDT/portalDNP/PND-2023/05022023_Plan-Sectorial-Rama-Judicial-2023-2026.pdf
-
-[308] Volker Türk, Alto
-Comisionado de las Naciones Unidas para los Derechos Humanos. «La inteligencia
-artificial debe tomar como base los derechos humanos, declara el Alto
-Comisionado» (12 de julio de 2023). Disponible en: https://www.ohchr.org/es/statements/2023/07/artificial-intelligence-must-be-grounded-human-rights-says-high-co
-mmissioner.
-
-[309] *Human
-Rigths by design future-proofinghuman rigths protection in the era of AI.* Disponible en: https://rm.coe.int/follow-up-recommendation-on-the-2019-report-human-rights-by-design-fut/1680ab2279.
-
-[310] Centro Latinoamericano
-de Administración para el Desarrollo. Carta Iberoamericana de Inteligencia
-Artificial en la Administración Pública. Pág 13. Disponible en:
-https://clad.org/wp-content/uploads/2023/10/Borrador-CIIA-V1-ES-08-2023.pdf.
+por ello que la Sala ha seÃ±alado al respecto que

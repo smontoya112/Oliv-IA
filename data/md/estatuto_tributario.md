@@ -110,7 +110,8 @@
   "n_caracteres": 1623916,
   "n_articulos_detectados": 1168,
   "archivo_md": "md/estatuto_tributario.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

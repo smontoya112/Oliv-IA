@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-149_1993.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

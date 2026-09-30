@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-389_2023.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

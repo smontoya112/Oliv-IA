@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-413_1996.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

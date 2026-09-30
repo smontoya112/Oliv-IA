@@ -33,12 +33,13 @@
     "d79c7f4983a4282cd1c494e737d11bd9b6e1c5bdcac8782c9197717493e45784"
   ],
   "fecha_actualizacion_fuente": null,
-  "n_caracteres": 239356,
+  "n_caracteres": 235268,
   "n_articulos_detectados": 3,
   "archivo_md": "md/sentencia_su-296_2023.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 
@@ -4008,106 +4009,3 @@ Corte Constitucional. Sentencia C-035 de 2005.
 2000.
 
 [101]
-Expediente digital T-8.735.764 “2.2-CIRCULAR PSAC11-44 VACACIONES”.
-
-[102]
-Expediente digital T-8.735.764 “2.3-004 CIRCULAR No. 44-2005 consejo superior
-de la judicatura (1)”.
-
-[103]
-Expediente digital T-8.735.764 “2.3-003 CIRCULAR No. 89 de 2005 consejo
-superior de la judicatura (1)”.
-
-[104]
-Expediente digital T-8.735.764 “2.2-CIRCULAR PSAC11-44 VACACIONES”.
-
-[105]
-Expediente digital T-8.735.764 “2.1-ANEXO 4”, p. 6. *Cfr*. Ley 270 de
-1996, artículo 146.
-
-[106] De
-acuerdo con lo previsto en el inciso segundo del artículo 157 de la Ley 906 de
-2004, para el ejercicio de la función de control de garantías todos los días y
-las horas son hábiles.
-
-[107] Estos
-datos fueron extraídos a través de la consulta en línea de la herramienta
-desarrollada por la Corporación Excelencia en la Justicia, cuyos datos tomaron
-como fuente las estadísticas del Consejo Superior de la Judicatura. Disponible
-en la dirección web https://cej.org.co/indicadores-de-justicia/efectividad/indice-de-congestion-de-la-rama-judicial-en-colombia-sector-jurisdiccional/
-
-[108] *Cfr*.
-Expediente digital T-8.735.764, “*2.2-ESCRITO SOLICITANDO VINCULACION MIN
-HACIENDA*”, p.8.
-
-[109] *Cfr*.
-Corte Constitucional, Sentencia C-171 de 2020.
-
-[110] Cfr.
-Corte Constitucional, Sentencia C-616 de 2013, reiterada en la Sentencia C-103
-de 2021.
-
-[111] *Cfr*.
-Expediente digital T-8.735.764, “*OFICIO DEAJO2.5-760 Solicitud de recursos
-para ampliar la cobertura de los reemplazos empleados modif Circ PSAC11-44*”,
-p.2.
-
-[112] *Cfr*.
-Expediente digital T-8.735.764, “*OFICIO DEAJO2.5-760 Solicitud de recursos
-para ampliar la cobertura de los reemplazos empleados modif Circ PSAC11-44*”,
-p.3.
-
-[113] Calculo
-propio, efectuado a partir de la información proporcionada por la DEAJ, puesto
-que en el citado documento no se discrimina entre empleados y funcionarios
-judiciales. *Cfr*. Expediente digital T-8.735.764 “2.1-ANEXO 4”, p. 7.
-
-[114] Cfr.
-Ley 270 de 1996, artículo 98.
-
-[115] *Cfr*.
-Expediente digital T-9.098.050 “11_11001031500020220270700-(2022-11-11
-9-38-26)-93826-11”, p. 2.
-
-[116]
-Expediente digital T-8.735.764 “2.2-CIRCULAR PSAC11-44 VACACIONES”, p 2.
-
-[117]
-Expediente digital T-9.073.539 “DEMANDA_14_7_2022, 11_51_06”, p. 1.
-
-[118]
-Expediente digital T-9.069.440 “21_11001031500020220458400-(2022-10-13
-12-22-44)-122244-21”, p. 10.
-
-[119] *Cfr*.
-Corte Constitucional, Sentencias T-321 de 2016 y T-715 de 2017
-
-[120]
-Expediente digital T-8.735.764 “*2.4-20221003-170217140-1452*”, p 2.
-
-[121] *Cfr*.
-Corte Constitucional, Sentencias T-321 de 2016 y T-715 de 2017
-
-[122] En el fj. 125 de
-la sentencia se expresó: “*Unificación de la jurisprudencia. En vista de las
-anteriores circunstancias, la Sala considera necesario dictar una regla de
-unificación en torno a la procedencia de la acción de tutela para reclamar la
-protección del derecho al descanso, cuando quiera que se advierta la negativa
-de la DESAJ de expedir el certificado de disponibilidad presupuestal para que
-el nominador pueda conceder el periodo vacacional al cual tienen derecho los
-funcionarios y empleados judiciales. Esto, bajo el entendido de que, en estos
-casos, resulta desproporcionado exigirle a los funcionarios y empleados
-judiciales que han causado periodos vacacionales, como es el caso de los
-actores en los procesos sub examine, que acudan ante al juez contencioso
-administrativo, cuando lo que se encuentra en juego es la salud mental y física
-del trabajador y esta afectación se causa por una compleja interacción entre al
-menos tres actos administrativos: la circular del Consejo Superior de la Judicatura,
-que regula en términos generales el asunto; la negativa de las Seccionales, que
-con fundamento en la circular niegan el certificado de disponibilidad
-presupuestal; y la cancelación, suspensión o negativa de las vacaciones, por
-parte de los nominadores, al no tener dicho certificado y, por tanto, no poder
-designar un reemplazo”.*
-
-[123] Mediante la sentencia C-037 de 1996
-se efectuó la revisión constitucional del proyecto de ley número 58/94 Senado y
-264/95 Cámara, "Estatutaria de la Administración de Justicia".

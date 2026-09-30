@@ -44,7 +44,8 @@
   "n_caracteres": 226374,
   "n_articulos_detectados": 216,
   "archivo_md": "md/codigo_infancia.md",
-  "metadata_autocompletada": []
+  "metadata_autocompletada": [],
+  "advertencias": []
 }
 ---
 

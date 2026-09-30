@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-964_2003.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

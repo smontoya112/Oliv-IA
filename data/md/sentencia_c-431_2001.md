@@ -39,7 +39,8 @@
   "archivo_md": "md/sentencia_c-431_2001.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

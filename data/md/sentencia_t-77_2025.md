@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-77_2025.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

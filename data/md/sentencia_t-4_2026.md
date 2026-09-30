@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-4_2026.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

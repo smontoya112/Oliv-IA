@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_su-27_2021.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

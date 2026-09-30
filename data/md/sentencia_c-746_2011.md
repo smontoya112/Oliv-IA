@@ -39,7 +39,8 @@
   "archivo_md": "md/sentencia_c-746_2011.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_t-145_2016.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-35_2009.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

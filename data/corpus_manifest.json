@@ -8,7 +8,7 @@
       "constitucional"
     ],
     "estado": "error",
-    "error": "Agotados los reintentos para https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034638: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"
+    "error": "acuerdo_02_2015: no hay descarga previa para convertir"
   },
   {
     "doc_id": "codigo_civil",
@@ -219,6 +219,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -388,6 +389,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -440,6 +442,7 @@
     "n_articulos_detectados": 281,
     "archivo_md": "md/codigo_disciplinario.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -528,6 +531,7 @@
     "n_articulos_detectados": 629,
     "archivo_md": "md/codigo_general_proceso.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -576,6 +580,7 @@
     "n_articulos_detectados": 216,
     "archivo_md": "md/codigo_infancia.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -626,6 +631,7 @@
     "n_articulos_detectados": 230,
     "archivo_md": "md/codigo_nacional_policia.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -706,6 +712,7 @@
     "metadata_autocompletada": [
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -775,6 +782,7 @@
     "metadata_autocompletada": [
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -847,6 +855,7 @@
     "n_articulos_detectados": 484,
     "archivo_md": "md/codigo_sustantivo_trabajo.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -887,6 +896,7 @@
     "n_articulos_detectados": 0,
     "archivo_md": "md/consejo_estado_ce_suj_4_005_2020.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -965,6 +975,7 @@
     "n_articulos_detectados": 384,
     "archivo_md": "md/constitucion.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -987,11 +998,9 @@
     ],
     "items_del_banco": 0,
     "formato_origen": [
-      "html"
+      "doc"
     ],
-    "codificacion": [
-      "utf-8(replace)"
-    ],
+    "codificacion": [],
     "ocr": false,
     "n_partes": 1,
     "urls_partes": [
@@ -1001,10 +1010,11 @@
       "5de55260bb4118ffe178a01e05edacbec2b9ecbe8c63f25b49e522db0804e514"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 210367,
-    "n_articulos_detectados": 0,
+    "n_caracteres": 49902,
+    "n_articulos_detectados": 1,
     "archivo_md": "md/corte_suprema_sin_radicado_sc_2017_07_18_2017.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1063,6 +1073,7 @@
     "metadata_autocompletada": [
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1102,6 +1113,7 @@
     "n_articulos_detectados": 281,
     "archivo_md": "md/decision_andina_486.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1113,7 +1125,7 @@
       "administrativo"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1082_2015.html"
+    "error": "decreto_1082_2015: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_1625_2016",
@@ -1124,7 +1136,7 @@
       "tributario"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_1625_2016.html"
+    "error": "decreto_1625_2016: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_1742_2020",
@@ -1166,6 +1178,7 @@
     "n_articulos_detectados": 84,
     "archivo_md": "md/decreto_1742_2020.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1206,6 +1219,7 @@
     "n_articulos_detectados": 10,
     "archivo_md": "md/decreto_175_2025.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1248,6 +1262,7 @@
     "n_articulos_detectados": 54,
     "archivo_md": "md/decreto_2067_1991.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1290,6 +1305,7 @@
     "n_articulos_detectados": 59,
     "archivo_md": "md/decreto_2153_1992.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1301,7 +1317,7 @@
       "laboral"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2158_1948.html"
+    "error": "decreto_2158_1948: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_24_2016",
@@ -1312,7 +1328,7 @@
       "comercial"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0024_2016.html"
+    "error": "decreto_24_2016: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_2591_1991",
@@ -1356,6 +1372,7 @@
     "n_articulos_detectados": 55,
     "archivo_md": "md/decreto_2591_1991.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1367,7 +1384,7 @@
       "laboral"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2737_1989.html"
+    "error": "decreto_2737_1989: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_405_2025",
@@ -1378,7 +1395,7 @@
       "laboral"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0405_2025.html"
+    "error": "decreto_405_2025: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_410_1971",
@@ -1389,7 +1406,7 @@
       "comercial"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0410_1971.html"
+    "error": "decreto_410_1971: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_4334_2008",
@@ -1429,6 +1446,7 @@
     "n_articulos_detectados": 16,
     "archivo_md": "md/decreto_4334_2008.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1440,7 +1458,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4436_2005.html"
+    "error": "decreto_4436_2005: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_46_2024",
@@ -1451,7 +1469,7 @@
       "comercial"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0046_2024.html"
+    "error": "decreto_46_2024: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_4886_2011",
@@ -1491,6 +1509,7 @@
     "n_articulos_detectados": 30,
     "archivo_md": "md/decreto_4886_2011.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1502,7 +1521,7 @@
       "comercial"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0663_1993.html"
+    "error": "decreto_663_1993: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_780_2016",
@@ -1513,7 +1532,7 @@
       "penal"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0780_2016.html"
+    "error": "decreto_780_2016: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_875_2008",
@@ -1524,7 +1543,7 @@
       "laboral"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_0875_2008.html"
+    "error": "decreto_875_2008: no hay descarga previa para convertir"
   },
   {
     "doc_id": "decreto_960_1970",
@@ -1574,6 +1593,7 @@
     "n_articulos_detectados": 233,
     "archivo_md": "md/decreto_960_1970.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1619,6 +1639,7 @@
     "n_articulos_detectados": 84,
     "archivo_md": "md/estatuto_consumidor.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1733,6 +1754,7 @@
     "n_articulos_detectados": 1168,
     "archivo_md": "md/estatuto_tributario.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1785,6 +1807,7 @@
     "n_articulos_detectados": 290,
     "archivo_md": "md/ley_100_1993.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1825,6 +1848,7 @@
     "n_articulos_detectados": 19,
     "archivo_md": "md/ley_1010_2006.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1866,6 +1890,7 @@
     "n_articulos_detectados": 10,
     "archivo_md": "md/ley_1095_2006.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1911,6 +1936,7 @@
     "n_articulos_detectados": 124,
     "archivo_md": "md/ley_1116_2006.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1951,6 +1977,7 @@
     "n_articulos_detectados": 32,
     "archivo_md": "md/ley_1150_2007.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -1997,6 +2024,7 @@
     "n_articulos_detectados": 160,
     "archivo_md": "md/ley_1151_2007.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2039,6 +2067,7 @@
     "n_articulos_detectados": 46,
     "archivo_md": "md/ley_1258_2008.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2079,6 +2108,7 @@
     "n_articulos_detectados": 34,
     "archivo_md": "md/ley_1340_2009.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2121,6 +2151,7 @@
     "n_articulos_detectados": 59,
     "archivo_md": "md/ley_137_1994.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2176,6 +2207,7 @@
     "n_articulos_detectados": 318,
     "archivo_md": "md/ley_1437_2011.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2216,6 +2248,7 @@
     "n_articulos_detectados": 17,
     "archivo_md": "md/ley_1473_2011.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2228,7 +2261,7 @@
       "tributario"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0153_1887.html"
+    "error": "ley_153_1887: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_155_1959",
@@ -2239,7 +2272,7 @@
       "mercados"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0155_1959.html"
+    "error": "ley_155_1959: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_1562_2012",
@@ -2279,6 +2312,7 @@
     "n_articulos_detectados": 33,
     "archivo_md": "md/ley_1562_2012.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2323,6 +2357,7 @@
     "n_articulos_detectados": 119,
     "archivo_md": "md/ley_1563_2012.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2443,6 +2478,7 @@
     "n_articulos_detectados": 32,
     "archivo_md": "md/ley_1581_2012.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2491,6 +2527,7 @@
     "n_articulos_detectados": 326,
     "archivo_md": "md/ley_1607_2012.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2535,6 +2572,7 @@
     "n_articulos_detectados": 114,
     "archivo_md": "md/ley_160_1994.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2575,6 +2613,7 @@
     "n_articulos_detectados": 37,
     "archivo_md": "md/ley_1692_2013.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2615,6 +2654,7 @@
     "n_articulos_detectados": 13,
     "archivo_md": "md/ley_1700_2013.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2655,6 +2695,7 @@
     "n_articulos_detectados": 22,
     "archivo_md": "md/ley_1755_2015.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2709,6 +2750,7 @@
     "n_articulos_detectados": 385,
     "archivo_md": "md/ley_1819_2016.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2749,6 +2791,7 @@
     "n_articulos_detectados": 32,
     "archivo_md": "md/ley_1909_2018.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2794,6 +2837,7 @@
     "metadata_autocompletada": [
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2834,6 +2878,7 @@
     "n_articulos_detectados": 8,
     "archivo_md": "md/ley_2114_2021.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2875,6 +2920,7 @@
     "n_articulos_detectados": 4,
     "archivo_md": "md/ley_2141_2021.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2915,6 +2961,7 @@
     "n_articulos_detectados": 19,
     "archivo_md": "md/ley_2157_2021.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -2955,6 +3002,7 @@
     "n_articulos_detectados": 9,
     "archivo_md": "md/ley_2160_2021.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3002,6 +3050,7 @@
     "n_articulos_detectados": 153,
     "archivo_md": "md/ley_2220_2022.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3052,6 +3101,7 @@
     "n_articulos_detectados": 250,
     "archivo_md": "md/ley_222_1995.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3092,6 +3142,7 @@
     "n_articulos_detectados": 29,
     "archivo_md": "md/ley_2251_2022.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3136,6 +3187,7 @@
     "n_articulos_detectados": 154,
     "archivo_md": "md/ley_2277_2022.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3194,6 +3246,7 @@
     "n_articulos_detectados": 500,
     "archivo_md": "md/ley_2294_2023.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3235,6 +3288,7 @@
     "n_articulos_detectados": 21,
     "archivo_md": "md/ley_2437_2024.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3291,6 +3345,7 @@
     "n_articulos_detectados": 331,
     "archivo_md": "md/ley_2452_2025.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3331,6 +3386,7 @@
     "n_articulos_detectados": 25,
     "archivo_md": "md/ley_2466_2025.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3371,6 +3427,7 @@
     "n_articulos_detectados": 33,
     "archivo_md": "md/ley_256_1996.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3426,6 +3483,7 @@
     "n_articulos_detectados": 227,
     "archivo_md": "md/ley_270_1996.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3437,7 +3495,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html"
+    "error": "ley_29_1982: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_388_1997",
@@ -3483,6 +3541,7 @@
     "n_articulos_detectados": 139,
     "archivo_md": "md/ley_388_1997.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3528,6 +3587,7 @@
     "n_articulos_detectados": 87,
     "archivo_md": "md/ley_472_1998.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3539,7 +3599,7 @@
       "laboral"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1990.html"
+    "error": "ley_50_1990: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_527_1999",
@@ -3581,6 +3641,7 @@
     "n_articulos_detectados": 47,
     "archivo_md": "md/ley_527_1999.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3592,7 +3653,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html"
+    "error": "ley_54_1990: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_599_2000",
@@ -3670,6 +3731,7 @@
     "n_articulos_detectados": 598,
     "archivo_md": "md/ley_599_2000.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3734,6 +3796,7 @@
     "n_articulos_detectados": 557,
     "archivo_md": "md/ley_600_2000.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3776,6 +3839,7 @@
     "n_articulos_detectados": 50,
     "archivo_md": "md/ley_640_2001.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3816,6 +3880,7 @@
     "n_articulos_detectados": 32,
     "archivo_md": "md/ley_678_2001.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3856,6 +3921,7 @@
     "n_articulos_detectados": 14,
     "archivo_md": "md/ley_721_2001.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3867,7 +3933,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html"
+    "error": "ley_75_1968: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_769_2002",
@@ -3915,6 +3981,7 @@
     "n_articulos_detectados": 175,
     "archivo_md": "md/ley_769_2002.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -3958,6 +4025,7 @@
     "n_articulos_detectados": 84,
     "archivo_md": "md/ley_80_1993.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4000,6 +4068,7 @@
     "n_articulos_detectados": 43,
     "archivo_md": "md/ley_820_2003.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4013,7 +4082,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1873.html"
+    "error": "ley_84_1873: no hay descarga previa para convertir"
   },
   {
     "doc_id": "ley_906_2004",
@@ -4080,6 +4149,7 @@
     "n_articulos_detectados": 557,
     "archivo_md": "md/ley_906_2004.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4124,6 +4194,7 @@
     "n_articulos_detectados": 82,
     "archivo_md": "md/ley_964_2005.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4164,6 +4235,7 @@
     "n_articulos_detectados": 9,
     "archivo_md": "md/ley_979_2005.md",
     "metadata_autocompletada": [],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4201,12 +4273,13 @@
       "1ce03e5257e6c298015e00578d86589b3fd33ee2c4412965f6a984c92a9436fa"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 1015869,
-    "n_articulos_detectados": 64,
+    "n_caracteres": 309785,
+    "n_articulos_detectados": 24,
     "archivo_md": "md/sentencia_c-1011_2008.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4249,6 +4322,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4291,6 +4365,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4327,12 +4402,13 @@
       "d93fd01310b9eaa91499390c874a245861ce6986cdb31571076ca49335a5cf00"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 299967,
-    "n_articulos_detectados": 14,
+    "n_caracteres": 194498,
+    "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_c-117_2018.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4375,6 +4451,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4417,6 +4494,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4459,6 +4537,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4502,6 +4581,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4544,6 +4624,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4580,12 +4661,13 @@
       "dc9c093a03d4ff889d4a37eeeed2c88f8d089dde30ec6d7789002002a06018f4"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 509529,
-    "n_articulos_detectados": 23,
+    "n_caracteres": 189598,
+    "n_articulos_detectados": 0,
     "archivo_md": "md/sentencia_c-145_2020.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4628,6 +4710,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4671,6 +4754,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4708,12 +4792,13 @@
       "8358177e15dda6d5d8122e4548643e9e4e8294b39f15e4bf7c3afa4a54ba9b96"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 248085,
-    "n_articulos_detectados": 7,
+    "n_caracteres": 212207,
+    "n_articulos_detectados": 5,
     "archivo_md": "md/sentencia_c-164_2022.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4756,6 +4841,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4792,12 +4878,13 @@
       "3e2eaff8289e97e7360a596de8f77d588478f135129950ac22023928e0e0b0cb"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 261831,
+    "n_caracteres": 245426,
     "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_c-183_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4840,6 +4927,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4876,12 +4964,13 @@
       "31f394b5e0d9b8cf0bc44a1b2408867b8d839e56c75213c3accb7abb5178e325"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 471593,
-    "n_articulos_detectados": 46,
+    "n_caracteres": 320562,
+    "n_articulos_detectados": 29,
     "archivo_md": "md/sentencia_c-207_2019.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4924,6 +5013,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -4969,6 +5059,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5014,6 +5105,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5056,6 +5148,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5092,12 +5185,13 @@
       "271d8061be5da5bc2d7ed61c5425496c5fd2b50946cc2d38a6e93ed2045602d5"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 678700,
-    "n_articulos_detectados": 19,
+    "n_caracteres": 247603,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_c-233_2021.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5134,12 +5228,13 @@
       "37603f2bd9a27638eceb81d53477edabbd7d55428e47d665c894f1b19f0dc9a1"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 325691,
-    "n_articulos_detectados": 16,
+    "n_caracteres": 314400,
+    "n_articulos_detectados": 13,
     "archivo_md": "md/sentencia_c-239_1997.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5183,6 +5278,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5219,12 +5315,13 @@
       "9020134aecca9b400cdb6c600c2809efef33dbc5413396bb6ca8f797b92b196a"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 208093,
-    "n_articulos_detectados": 18,
+    "n_caracteres": 194476,
+    "n_articulos_detectados": 17,
     "archivo_md": "md/sentencia_c-276_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5270,6 +5367,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5312,6 +5410,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5354,6 +5453,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5396,6 +5496,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5433,12 +5534,13 @@
       "13254dea6a3c8e4ca7ff13a931f55179262c5746f47d533e16f126b57384eae6"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 1752476,
-    "n_articulos_detectados": 94,
+    "n_caracteres": 226401,
+    "n_articulos_detectados": 14,
     "archivo_md": "md/sentencia_c-355_2006.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5481,6 +5583,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5518,12 +5621,13 @@
       "e6b69c402e4c2e3627d217b81099498708ec805757b3236c1bbf0a22524b072a"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 1389708,
-    "n_articulos_detectados": 169,
+    "n_caracteres": 197259,
+    "n_articulos_detectados": 83,
     "archivo_md": "md/sentencia_c-370_2006.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5566,6 +5670,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5603,12 +5708,13 @@
       "bc476dda2fab8bb87f3a244f76fc65155ab5ddc6545521a072d8ff83e1eddcdd"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 308785,
+    "n_caracteres": 305076,
     "n_articulos_detectados": 29,
     "archivo_md": "md/sentencia_c-394_2017.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5646,12 +5752,13 @@
       "78cde64e8438105d8731c98e743ef919f3d7c602a6e0cc88644496b0104b8b5a"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 299641,
-    "n_articulos_detectados": 51,
+    "n_caracteres": 184777,
+    "n_articulos_detectados": 38,
     "archivo_md": "md/sentencia_c-39_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5694,6 +5801,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5737,6 +5845,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5779,6 +5888,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5821,6 +5931,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5863,6 +5974,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5905,6 +6017,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5948,6 +6061,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -5984,12 +6098,13 @@
       "57f8136d8b6ee6e030d352bfbd59678779025ab6f8c226b605101dad409b2f51"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 401934,
-    "n_articulos_detectados": 27,
+    "n_caracteres": 268006,
+    "n_articulos_detectados": 20,
     "archivo_md": "md/sentencia_c-507_2004.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6032,6 +6147,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6074,6 +6190,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6116,6 +6233,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6158,6 +6276,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6203,6 +6322,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6240,12 +6360,13 @@
       "80ca65f0df0c73936e7705f2f28cbcfa37331b95997c283ea6f8c0ef84b1bb6c"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 1548591,
-    "n_articulos_detectados": 56,
+    "n_caracteres": 252591,
+    "n_articulos_detectados": 9,
     "archivo_md": "md/sentencia_c-55_2022.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6283,12 +6404,13 @@
       "ac9e6a35891cc3e666dfdba650ef66fd1a6642a8f0f899fe18124293c86b1bbb"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 861525,
-    "n_articulos_detectados": 44,
+    "n_caracteres": 367063,
+    "n_articulos_detectados": 24,
     "archivo_md": "md/sentencia_c-577_2011.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6327,13 +6449,14 @@
       "8e4f15b12b1693c16b8ff4d006f127c49cd5b25afa51289821312498588a2fe3"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 1171967,
-    "n_articulos_detectados": 40,
+    "n_caracteres": 238313,
+    "n_articulos_detectados": 2,
     "archivo_md": "md/sentencia_c-579_2013.md",
     "metadata_autocompletada": [
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6376,6 +6499,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6421,6 +6545,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6458,12 +6583,13 @@
       "0da3ef3d7f9efc12f7edcb1a9a1e12ba034691da23f4e503edeb615774429817"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 465471,
-    "n_articulos_detectados": 46,
+    "n_caracteres": 314328,
+    "n_articulos_detectados": 31,
     "archivo_md": "md/sentencia_c-591_2005.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6500,12 +6626,13 @@
       "a3c5d3b13473aee3b5ddd0066519d5e36f709bcc8f0dc0550272e13e87195c5c"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 653756,
-    "n_articulos_detectados": 19,
+    "n_caracteres": 294446,
+    "n_articulos_detectados": 12,
     "archivo_md": "md/sentencia_c-683_2015.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6542,12 +6669,13 @@
       "82aa49bb94e6b392d2cd346f1b110d7329c923b5a3fb8baeb8b92e903d702643"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 351316,
-    "n_articulos_detectados": 25,
+    "n_caracteres": 274879,
+    "n_articulos_detectados": 23,
     "archivo_md": "md/sentencia_c-700_1999.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6591,6 +6719,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6628,12 +6757,13 @@
       "1ee572344bd0db5e0496baea73f373271c8d84a79ef44d2a1a74f5e495e3a997"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 870311,
-    "n_articulos_detectados": 66,
+    "n_caracteres": 200556,
+    "n_articulos_detectados": 12,
     "archivo_md": "md/sentencia_c-748_2011.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6676,6 +6806,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6718,6 +6849,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6754,12 +6886,13 @@
       "1eb9c37e01277fe831099848bfcbab90734fc13b6b07581a996adde607bef08f"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 200712,
-    "n_articulos_detectados": 24,
+    "n_caracteres": 157385,
+    "n_articulos_detectados": 14,
     "archivo_md": "md/sentencia_c-94_2021.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6802,6 +6935,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6838,12 +6972,13 @@
       "741ed59919b4e39a5e83780ea336cde9d29de51e86644c1261d271e3bffbc230"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 263090,
-    "n_articulos_detectados": 9,
+    "n_caracteres": 215086,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_c-96_2024.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6886,6 +7021,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6928,6 +7064,7 @@
     "metadata_autocompletada": [
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -6970,6 +7107,7 @@
     "metadata_autocompletada": [
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7012,6 +7150,7 @@
     "metadata_autocompletada": [
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7054,6 +7193,7 @@
     "metadata_autocompletada": [
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7076,11 +7216,9 @@
     ],
     "items_del_banco": 1,
     "formato_origen": [
-      "html"
+      "docx"
     ],
-    "codificacion": [
-      "utf-8(replace)"
-    ],
+    "codificacion": [],
     "ocr": false,
     "n_partes": 1,
     "urls_partes": [
@@ -7090,13 +7228,14 @@
       "a3d9c5b763dcae29c5bd4623e75e7bac1bfd0cbf0fa2d5280b604517b28c528f"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 163231,
-    "n_articulos_detectados": 0,
+    "n_caracteres": 69606,
+    "n_articulos_detectados": 3,
     "archivo_md": "md/sentencia_sc_1121_2018.md",
     "metadata_autocompletada": [
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7119,11 +7258,9 @@
     ],
     "items_del_banco": 1,
     "formato_origen": [
-      "html"
+      "doc"
     ],
-    "codificacion": [
-      "utf-8(replace)"
-    ],
+    "codificacion": [],
     "ocr": false,
     "n_partes": 1,
     "urls_partes": [
@@ -7133,13 +7270,14 @@
       "7e5f9e62ea37e2ebf75ff81a7379be0d00b0493c427d5f6e436cafa318969dd7"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 330742,
-    "n_articulos_detectados": 0,
+    "n_caracteres": 69034,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_sc_18392_2017.md",
     "metadata_autocompletada": [
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7181,6 +7319,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7222,6 +7361,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7263,6 +7403,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7285,7 +7426,7 @@
     ],
     "items_del_banco": 1,
     "formato_origen": [
-      "pdf_texto"
+      "pdf_texto_ilegible"
     ],
     "codificacion": [],
     "ocr": false,
@@ -7303,6 +7444,9 @@
     "metadata_autocompletada": [
       "numero",
       "organo_emisor"
+    ],
+    "advertencias": [
+      "pdf_texto_ilegible"
     ],
     "estado": "ok"
   },
@@ -7345,6 +7489,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7386,6 +7531,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7427,6 +7573,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7467,6 +7614,9 @@
     "metadata_autocompletada": [
       "numero",
       "organo_emisor"
+    ],
+    "advertencias": [
+      "pdf_sin_texto"
     ],
     "estado": "ok"
   },
@@ -7509,6 +7659,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7550,6 +7701,7 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7591,6 +7743,9 @@
       "numero",
       "organo_emisor"
     ],
+    "advertencias": [
+      "pdf_sin_texto"
+    ],
     "estado": "ok"
   },
   {
@@ -7602,7 +7757,7 @@
       "penal"
     ],
     "estado": "error",
-    "error": "HTTP 404 en https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1dic2021/SP3218-2021(47063).pdf"
+    "error": "sentencia_sp_3218_2021: no hay descarga previa para convertir"
   },
   {
     "doc_id": "sentencia_su-111_2025",
@@ -7638,12 +7793,13 @@
       "1c7be1d69feed8299099ebabf41c38f21ce97bcbe7f4e9eead85c08787bd2c87"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 288127,
-    "n_articulos_detectados": 10,
+    "n_caracteres": 202872,
+    "n_articulos_detectados": 6,
     "archivo_md": "md/sentencia_su-111_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7686,6 +7842,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7731,6 +7888,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7767,12 +7925,13 @@
       "9b7fc38b3907bd6de402846365929ec434d94123a25676c9bc7576fb0347c28f"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 331265,
-    "n_articulos_detectados": 18,
+    "n_caracteres": 140744,
+    "n_articulos_detectados": 9,
     "archivo_md": "md/sentencia_su-138_2024.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7815,6 +7974,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7851,12 +8011,13 @@
       "63e7fa1ec3027ae062d50b93c4059d5a8435ff1ebc026b4711435c9693d0a98a"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 480428,
-    "n_articulos_detectados": 5,
+    "n_caracteres": 187154,
+    "n_articulos_detectados": 2,
     "archivo_md": "md/sentencia_su-16_2020.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7893,12 +8054,13 @@
       "271c68df12abfad74f37d9c5d7420e9c8336b14f902036519a16b6868d597a2f"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 224472,
-    "n_articulos_detectados": 11,
+    "n_caracteres": 190683,
+    "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_su-207_2022.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7935,12 +8097,13 @@
       "1644d3af32b02571b2f8ba0305170c3282b6849def6197df16c2c8ad38b1a85b"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 909374,
-    "n_articulos_detectados": 46,
+    "n_caracteres": 135274,
+    "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_su-214_2016.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -7977,12 +8140,13 @@
       "061a5c5496d049986445f75ffa02a722390b66b3a413aa8570ae1ba5d2687eb4"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 342889,
-    "n_articulos_detectados": 7,
+    "n_caracteres": 278459,
+    "n_articulos_detectados": 4,
     "archivo_md": "md/sentencia_su-217_2017.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8025,6 +8189,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8062,12 +8227,13 @@
       "7a41f87c5d62693684a32183a58591fc1c35badeaf36efed33fdb9e5251a25be"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 271775,
-    "n_articulos_detectados": 9,
+    "n_caracteres": 185505,
+    "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_su-277_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8110,6 +8276,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8146,12 +8313,13 @@
       "d79c7f4983a4282cd1c494e737d11bd9b6e1c5bdcac8782c9197717493e45784"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 239356,
+    "n_caracteres": 235268,
     "n_articulos_detectados": 3,
     "archivo_md": "md/sentencia_su-296_2023.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8188,12 +8356,13 @@
       "47c75d45c0a47734851bdf18422e71309c3bc611259d312e90996203a362a72b"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 277506,
+    "n_caracteres": 165056,
     "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_su-315_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8236,6 +8405,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8272,12 +8442,13 @@
       "20914fd055d5ee0b3e80c67b99ca533104c4ae71083e681b569260c057833c7a"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 299821,
-    "n_articulos_detectados": 10,
+    "n_caracteres": 153402,
+    "n_articulos_detectados": 6,
     "archivo_md": "md/sentencia_su-396_2024.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8320,6 +8491,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8356,12 +8528,13 @@
       "e924fe8a00d0a76c0dfd3604e7bd9fe6e51f5f3ed420bc8e2fff740ecbee08b7"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 413779,
-    "n_articulos_detectados": 17,
+    "n_caracteres": 207533,
+    "n_articulos_detectados": 11,
     "archivo_md": "md/sentencia_su-429_2024.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8398,12 +8571,13 @@
       "605dae2f0ad6a8dabb91d6a48a7819d9f2e7a47f6e3f0ee7337b0b475e1ebb60"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 271086,
-    "n_articulos_detectados": 11,
+    "n_caracteres": 249799,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_su-431_2015.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8446,6 +8620,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8488,6 +8663,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8524,12 +8700,13 @@
       "e2151941545bfbbd0d61e8f6246c9855f49b58a2197d846322a11bf58203c91d"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 347925,
-    "n_articulos_detectados": 10,
+    "n_caracteres": 281213,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_su-500_2015.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8572,6 +8749,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8614,6 +8792,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8656,6 +8835,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8698,6 +8878,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8740,6 +8921,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8777,12 +8959,13 @@
       "a75a3440784e02ecb49f8914c4ac1a49a51e8961e68ced7a00e691d3596706df"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 226018,
-    "n_articulos_detectados": 3,
+    "n_caracteres": 144033,
+    "n_articulos_detectados": 0,
     "archivo_md": "md/sentencia_t-153_1998.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8825,6 +9008,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8867,6 +9051,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8909,6 +9094,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8951,6 +9137,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -8987,12 +9174,13 @@
       "91948c159cd5bbd4e20069a9308fb3e55d77b744a9e705551f296601ac708825"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 406814,
+    "n_caracteres": 219899,
     "n_articulos_detectados": 3,
     "archivo_md": "md/sentencia_t-256_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9029,12 +9217,13 @@
       "686e223af8d1a6867f201982e4dc30baa4e85f9292efdbaa3e8b6c2a0f33e9f3"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 453969,
-    "n_articulos_detectados": 9,
+    "n_caracteres": 287506,
+    "n_articulos_detectados": 2,
     "archivo_md": "md/sentencia_t-25_2004.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9071,12 +9260,13 @@
       "0d943ccc4f905d573c9810ee499290d967d3abc9607f0ad619328ecc6d39c306"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 167459,
-    "n_articulos_detectados": 14,
+    "n_caracteres": 160108,
+    "n_articulos_detectados": 10,
     "archivo_md": "md/sentencia_t-262_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9113,12 +9303,13 @@
       "6ff3d7754553690f871f7ac1f26f80dee9f5fd0b1871bb0f3eb9e2d8cd7cd52a"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 233450,
-    "n_articulos_detectados": 5,
+    "n_caracteres": 170394,
+    "n_articulos_detectados": 2,
     "archivo_md": "md/sentencia_t-26_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9155,12 +9346,13 @@
       "57f50252c71423895b97321d03012a5de145186b9cdb6032e590670335618310"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 443418,
-    "n_articulos_detectados": 11,
+    "n_caracteres": 202826,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_t-323_2024.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9203,6 +9395,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9245,6 +9438,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9290,6 +9484,7 @@
       "numero",
       "areas"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9332,6 +9527,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9368,12 +9564,13 @@
       "67f45d53928f97b0f103dd290b4973105e1a46747321724ad424848e1106ed35"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 217580,
-    "n_articulos_detectados": 7,
+    "n_caracteres": 193901,
+    "n_articulos_detectados": 6,
     "archivo_md": "md/sentencia_t-445_2024.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9416,6 +9613,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9459,6 +9657,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9495,12 +9694,13 @@
       "6cfd70c5c6aa6765e0f8a3b9634e4758ff7e1bde525846fa024e9a0a7a13bea6"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 749498,
-    "n_articulos_detectados": 5,
+    "n_caracteres": 298875,
+    "n_articulos_detectados": 3,
     "archivo_md": "md/sentencia_t-622_2016.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9537,12 +9737,13 @@
       "c5ad44cb4a496538f18ca6787acb0fadae313146bf871fd97c7d676efdf68a05"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 313734,
-    "n_articulos_detectados": 6,
+    "n_caracteres": 196531,
+    "n_articulos_detectados": 5,
     "archivo_md": "md/sentencia_t-67_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9585,6 +9786,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9622,12 +9824,13 @@
       "68777ec244b2effd2b188c6bc8c35149c3722aa802fdacbb99ff3ab8a4ab63e6"
     ],
     "fecha_actualizacion_fuente": null,
-    "n_caracteres": 1408986,
-    "n_articulos_detectados": 42,
+    "n_caracteres": 383894,
+    "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_t-760_2008.md",
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9670,6 +9873,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9712,6 +9916,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   },
   {
@@ -9754,6 +9959,7 @@
     "metadata_autocompletada": [
       "numero"
     ],
+    "advertencias": [],
     "estado": "ok"
   }
 ]

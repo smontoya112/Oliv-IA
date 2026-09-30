@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_ce_s3_19031_2011.md",
   "metadata_autocompletada": [
     "areas"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_su-11_2020.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

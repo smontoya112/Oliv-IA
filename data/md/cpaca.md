@@ -54,7 +54,8 @@
   "archivo_md": "md/cpaca.md",
   "metadata_autocompletada": [
     "organo_emisor"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

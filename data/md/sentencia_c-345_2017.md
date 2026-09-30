@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-345_2017.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

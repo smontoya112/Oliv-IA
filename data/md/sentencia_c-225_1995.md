@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-225_1995.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 

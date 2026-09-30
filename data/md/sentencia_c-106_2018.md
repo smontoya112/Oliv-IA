@@ -38,7 +38,8 @@
   "archivo_md": "md/sentencia_c-106_2018.md",
   "metadata_autocompletada": [
     "numero"
-  ]
+  ],
+  "advertencias": []
 }
 ---
 
