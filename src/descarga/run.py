@@ -82,16 +82,43 @@ def objetivos_desde_enlaces(ruta: Path, existentes: list[dict]) -> list[dict]:
     return nuevos
 
 
+class _SoloMenosQue(logging.Filter):
+    def __init__(self, nivel: int):
+        super().__init__()
+        self.nivel = nivel
+
+    def filter(self, record: logging.LogRecord) -> bool:
+        return record.levelno < self.nivel
+
+
+def configurar_logs(verbose: bool) -> None:
+    """Avance normal -> stdout (.out del job). Solo los ERROR -> stderr (.err del job)."""
+    for flujo in (sys.stdout, sys.stderr):      # la consola de Windows usa cp1252 y rompe con ✗ o ⚠
+        flujo.reconfigure(encoding="utf-8", errors="replace")
+    formato = logging.Formatter("%(asctime)s %(levelname)s %(message)s", "%H:%M:%S")
+    salida = logging.StreamHandler(sys.stdout)
+    salida.addFilter(_SoloMenosQue(logging.ERROR))
+    errores = logging.StreamHandler(sys.stderr)
+    errores.setLevel(logging.ERROR)
+    for h in (salida, errores):
+        h.setFormatter(formato)
+    logging.basicConfig(level=logging.DEBUG if verbose else logging.INFO, handlers=[salida, errores])
+    logging.getLogger("httpx").setLevel(logging.WARNING)
+
+
 def registrar_evento(cfg: Config, evento: dict) -> None:
     cfg.ruta_log.parent.mkdir(parents=True, exist_ok=True)
     with cfg.ruta_log.open("a", encoding="utf-8") as f:
         f.write(json.dumps(evento, ensure_ascii=False) + "\n")
 
 
-def actualizar_descubiertos(cfg: Config, objetivos: list[dict]) -> int:
+def actualizar_descubiertos(cfg: Config, objetivos: list[dict], manifest: Manifest) -> int:
     """Cuenta qué normas enlazan los documentos descargados y todavía no están en el corpus.
     Sirve para priorizar qué descargar después."""
     ya_incluidas = {base_senado(o["url"]).lower() for o in objetivos}
+    # También lo ya descargado en corridas anteriores (p. ej. las de scraper_proximidad).
+    ya_incluidas |= {base_senado(r["url"]).lower() for r in manifest.docs.values()
+                     if r.get("estado") == "ok" and r.get("url")}
     veces, citado_por = Counter(), defaultdict(set)
     for ruta in cfg.dir_raw.glob("*/enlaces.json"):
         doc_id = ruta.parent.name
@@ -118,8 +145,13 @@ def main() -> None:
                     default=[Path("data/fuentes_seed.json"), Path("data/fuentes_propias.json")],
                     help="uno o varios .json; en doc_id repetidos gana el último "
                          "(los predeterminados que no existan se omiten)")
-    ap.add_argument("--enlaces", type=Path, default=Path("data/enlaces.txt"),
-                    help="archivo con un link por línea; la metadata se completa sola")
+    ap.add_argument("--enlaces", type=Path, nargs="+",
+                    default=[Path("data/enlaces.txt"), Path("data/enlaces_proximidad.txt")],
+                    help="archivos con un link por línea; la metadata se completa sola "
+                         "(los predeterminados que no existan se omiten)")
+    ap.add_argument("--solo-enlaces", action="store_true",
+                    help="procesar solo los links de --enlaces (las demás fuentes solo se "
+                         "cargan para no duplicar)")
     ap.add_argument("--raiz", type=Path, default=Path("data"))
     ap.add_argument("--solo", nargs="*", help="procesar solo estos doc_id")
     ap.add_argument("--forzar", action="store_true", help="volver a descargar aunque haya caché")
@@ -131,19 +163,21 @@ def main() -> None:
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
 
-    logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO,
-                        format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
-    logging.getLogger("httpx").setLevel(logging.WARNING)
+    configurar_logs(args.verbose)
 
     cfg = Config(raiz=args.raiz, respetar_robots=not args.sin_robots)
     rutas = [r for r in args.fuentes if r.exists() or args.fuentes != ap.get_default("fuentes")]
     objetivos = cargar_objetivos(rutas)
-    if args.enlaces.exists():
-        extra = objetivos_desde_enlaces(args.enlaces, objetivos)
-        log.info("%s: %d links nuevos", args.enlaces, len(extra))
-        objetivos.extend(extra)
-    elif args.enlaces != ap.get_default("enlaces"):
-        sys.exit(f"No existe {args.enlaces}")
+    nuevos: list[dict] = []
+    for ruta in args.enlaces:
+        if not ruta.exists():
+            if args.enlaces != ap.get_default("enlaces"):
+                sys.exit(f"No existe {ruta}")
+            continue
+        extra = objetivos_desde_enlaces(ruta, objetivos + nuevos)
+        log.info("%s: %d links nuevos", ruta, len(extra))
+        nuevos.extend(extra)
+    objetivos.extend(nuevos)
     if not objetivos:
         sys.exit("No hay nada que descargar: agreguen links a data/enlaces.txt")
     if args.solo:
@@ -152,7 +186,7 @@ def main() -> None:
             sys.exit(f"doc_id no encontrados en los archivos de fuentes: {sorted(faltan)}")
         seleccion = [o for o in objetivos if o["doc_id"] in args.solo]
     else:
-        seleccion = objetivos
+        seleccion = nuevos if args.solo_enlaces else objetivos
 
     manifest = Manifest(cfg.ruta_manifest)
     if args.solo_fallidos:
@@ -186,18 +220,21 @@ def main() -> None:
     finally:
         cliente.cerrar()
 
-    n_desc = actualizar_descubiertos(cfg, objetivos)
+    n_desc = actualizar_descubiertos(cfg, objetivos, manifest)
     print(f"\nListos: {len(ok)} · Con error: {len(fallos)} · "
           f"Normas enlazadas aún fuera del corpus: {n_desc} (ver {cfg.ruta_descubiertos})")
     for doc_id, err in fallos:
         print(f"  ✗ {doc_id}: {err}")
+    if fallos:                                   # el resumen de errores también va al .err
+        print(f"{len(fallos)} documento(s) con error: " + ", ".join(d for d, _ in fallos),
+              file=sys.stderr)
     huerfanos = sorted(set(manifest.docs) - {o["doc_id"] for o in objetivos})
     if huerfanos:
         print("  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del "
               "manifest si no los quieren): " + ", ".join(huerfanos))
     sin_texto = [r["doc_id"] for r in ok if r.get("advertencias")]
     if sin_texto:
-        print("  ⚠ Sin texto legible: son PDF escaneados y falta OCR (ocrmypdf + tesseract-ocr-spa). "
+        print("  ⚠ Sin texto legible: PDF escaneados: falta docling para el OCR (uv add docling). "
               "Instálenlo y corran con --solo-convertir --solo " + " ".join(sin_texto))
     sin_articulos = [r["doc_id"] for r in ok
                      if r["n_articulos_detectados"] == 0 and r.get("tipo_norma") != "sentencia"]

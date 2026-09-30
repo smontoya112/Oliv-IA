@@ -15,7 +15,7 @@ class Config:
     reintentos: int = 4
     max_paginas: int = 300            # tope de páginas _prNNN por documento
     respetar_robots: bool = True
-    ocr_idioma: str = "spa"
+    ocr_idioma: str = "es"           # código de EasyOCR (Docling)
 
     @property
     def dir_raw(self) -> Path:

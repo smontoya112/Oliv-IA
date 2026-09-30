@@ -321,25 +321,44 @@ def _capa_ilegible(paginas: list[str]) -> bool:
     return len(texto.strip()) > 0 and raros / len(texto) > 0.02
 
 
-def pdf_a_markdown(ruta: Path, idioma_ocr: str = "spa") -> ResultadoPDF:
+_SEP_PAGINA = "\f--pagina--\f"
+_convertidor_docling = None
+
+
+def _ocr_docling(ruta: Path, idioma: str) -> list[str]:
+    """OCR con Docling (EasyOCR por debajo). Fuerza el OCR de página completa, así ignora
+    cualquier capa de texto mala que ya traiga el PDF. Devuelve una cadena por página."""
+    global _convertidor_docling
+    if _convertidor_docling is None:
+        from docling.datamodel.base_models import InputFormat
+        from docling.datamodel.pipeline_options import EasyOcrOptions, PdfPipelineOptions
+        from docling.document_converter import DocumentConverter, PdfFormatOption
+        opciones = PdfPipelineOptions()
+        opciones.do_ocr = True
+        opciones.do_table_structure = False          # solo texto: más rápido y suficiente
+        opciones.ocr_options = EasyOcrOptions(lang=[idioma, "en"], force_full_page_ocr=True)
+        _convertidor_docling = DocumentConverter(
+            format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=opciones)})
+    cache = ruta.with_suffix(".ocr.md")
+    if not cache.exists():
+        log.info("OCR (docling) de %s; puede tardar varios minutos", ruta.name)
+        doc = _convertidor_docling.convert(str(ruta)).document
+        cache.write_text(doc.export_to_markdown(page_break_placeholder=_SEP_PAGINA),
+                         encoding="utf-8")
+    return cache.read_text(encoding="utf-8").split(_SEP_PAGINA)
+
+
+def pdf_a_markdown(ruta: Path, idioma_ocr: str = "es") -> ResultadoPDF:
     paginas = _texto_pdf(ruta)
     promedio = sum(len(p.strip()) for p in paginas) / max(len(paginas), 1)
     metodo = "pdf_texto"
     sin_texto, ilegible = promedio < 100, _capa_ilegible(paginas)
     if sin_texto or ilegible:                 # escaneado, o con una capa de texto inservible
-        if shutil.which("ocrmypdf"):
-            salida = ruta.with_suffix(".ocr.pdf")
-            if not salida.exists():
-                log.info("OCR de %s (puede tardar varios minutos)", ruta.name)
-                # --force-ocr rehace también las páginas que ya traen (mala) capa de texto
-                subprocess.run(["ocrmypdf", "-l", idioma_ocr,
-                                "--force-ocr" if ilegible else "--skip-text", "--quiet",
-                                str(ruta), str(salida)], check=True)
-            paginas = _texto_pdf(salida)
+        try:
+            paginas = _ocr_docling(ruta, idioma_ocr)
             metodo = "pdf_ocr"
-        else:
-            log.warning("%s necesita OCR y no está instalado ocrmypdf (con tesseract-ocr-spa)",
-                        ruta.name)
+        except ImportError:
+            log.warning("%s necesita OCR y no está instalado docling (uv add docling)", ruta.name)
             metodo = "pdf_sin_texto" if sin_texto else "pdf_texto_ilegible"
 
     paginas = _quitar_encabezados(paginas)
