@@ -2772,6 +2772,62 @@
         "canonico": ["jurisprudencia","CE-SUJ-4-005","2020"],
         "donde_buscar": "https://normograma.dian.gov.co/dian/compilacion/docs/25000-23-37-000-2013-00443-01(21329)ce-suj-4-005.htm",
         "areas": ["tributario","administrativo"]
-    }
+    },
+    {
+    "norma": "Sentencia T-025 de 2004",
+    "canonico": ["jurisprudencia", "T-025", "2004"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2004/T-025-04.htm"
+  },
+  {
+    "norma": "Sentencia C-370 de 2006",
+    "canonico": ["jurisprudencia", "C-370", "2006"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho penal"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2006/C-370-06.htm"
+  },
+  {
+    "norma": "Sentencia C-577 de 2011",
+    "canonico": ["jurisprudencia", "C-577", "2011"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho de familia"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/C-577-11.htm"
+  },
+  {
+    "norma": "Sentencia C-591 de 2005",
+    "canonico": ["jurisprudencia", "C-591", "2005"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho penal"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2005/C-591-05.htm"
+  },
+  {
+    "norma": "Sentencia C-1011 de 2008",
+    "canonico": ["jurisprudencia", "C-1011", "2008"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2008/C-1011-08.htm"
+  },
+  {
+    "norma": "Sentencia T-153 de 1998",
+    "canonico": ["jurisprudencia", "T-153", "1998"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho penal"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1998/T-153-98.htm"
+  },
+  {
+    "norma": "Sentencia T-622 de 2016",
+    "canonico": ["jurisprudencia", "T-622", "2016"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2016/T-622-16.htm"
+  },
+  {
+    "norma": "Sentencia SU-217 de 2017",
+    "canonico": ["jurisprudencia", "SU-217", "2017"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2017/SU217-17.htm"
+  }
   ]
 }
