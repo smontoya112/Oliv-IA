@@ -4,6 +4,6 @@
 #     uv run python -m src.descarga.run
 #
 # Ejemplos (bórralos o déjalos, si ya están en fuentes_propias.json se omiten):
-# http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html
-# https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm
-# https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf
+http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html
+https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm
+https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf

@@ -1,0 +1,79 @@
+{
+  "doc_id": "cpaca",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html",
+      "sha256": "41b7757c3af97552db30735a0fe10f855340675d89c3903dfe22278e8d095e5c",
+      "bytes": 124142,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:36-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr001.html",
+      "sha256": "1d049d0e65f2e44e2412f95edde12efed1f86361b807dad08cbe78d43fa4c524",
+      "bytes": 99935,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:38-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr002.html",
+      "sha256": "3ebc25420025ec0a9251e63a37c3e57de082057cf12e1fb78e210eff6b54cb94",
+      "bytes": 102160,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:39-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr003.html",
+      "sha256": "944e4f123f645d48e91f06a9f4ec850eeff1e2d4a7b9872f0ec8d821ecd97287",
+      "bytes": 134082,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:41-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr004.html",
+      "sha256": "f271d0476d857531bbdcd3156332da289e234f40c2558070664bf79dacdc7c26",
+      "bytes": 153808,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:42-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr005.html",
+      "sha256": "14ff2d38138a9f28ce106fe9d751f01e6e5d5f4f087bf395b4ba41b60b13fd5d",
+      "bytes": 121215,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:44-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr006.html",
+      "sha256": "31e576c64d9e403a1df5ade2399b23dbee477e8587737657a60a267d1cb6c3c3",
+      "bytes": 111755,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:45-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011_pr007.html",
+      "sha256": "6069283d144fbe681928e6623e02ffc2a541d7f4c8ecf5de8fdd824bdd24a3ea",
+      "bytes": 51664,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-29T20:24:47-05:00"
+    }
+  ]
+}
