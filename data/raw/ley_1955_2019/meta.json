@@ -1,0 +1,79 @@
+{
+  "doc_id": "ley_1955_2019",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019.html",
+      "sha256": "3a98fe41f6de80fd7f7301f6862ae6c8d2c55f200fed032a1fb714fb3f1a0410",
+      "bytes": 191514,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:04-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr001.html",
+      "sha256": "38e232a6f1fa3f3e82137d0ce8590b0f164c743319bfc57d572919de86b3af84",
+      "bytes": 141592,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:05-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr002.html",
+      "sha256": "23a36fd79406f1e0682f52b1f8ba3207d1c6aecea4e73a2257d129a6a0e3f287",
+      "bytes": 148088,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:06-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr003.html",
+      "sha256": "14fecaf1bd1ea0e0347102003a7e40c7200c0a2c6bb912888ea1fe473d961377",
+      "bytes": 158070,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:08-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr004.html",
+      "sha256": "68eb202cebb51cc529e4a6dff1ca6df5db6f09ecf20a792398cefb3e1b7bb2b8",
+      "bytes": 127710,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:09-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr005.html",
+      "sha256": "1044f90e20cb56c2ba8e3eb7e9acc0e66770fa22a8c614983e340f16c6414fa6",
+      "bytes": 176403,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:11-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr006.html",
+      "sha256": "41e9a9640e53c7d4d2b01d8b95f0872a952c4081c15a0a5fc13160a31d749679",
+      "bytes": 156949,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:12-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1955_2019_pr007.html",
+      "sha256": "587252a62e12200ad862a68544a2608f8b4f7fdf97865129952b8e091d9b5081",
+      "bytes": 53365,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:14-05:00"
+    }
+  ]
+}

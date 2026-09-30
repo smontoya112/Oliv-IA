@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1335_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1335_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1335_2009.html",
+      "sha256": "09ccf44b9236a9ffc7c14ecadb694ae9f0c917a2052c0cc0066c4f6a5e7790ee",
+      "bytes": 69120,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:41-05:00"
+    }
+  ]
+}

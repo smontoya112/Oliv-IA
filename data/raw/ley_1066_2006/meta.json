@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1066_2006",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1066_2006.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1066_2006.html",
+      "sha256": "b5f0ff6a63ca6616418b5140de06e4578f7043c63cd02b243e08174c5d37e5c0",
+      "bytes": 57452,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:26-05:00"
+    }
+  ]
+}

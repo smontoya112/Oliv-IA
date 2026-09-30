@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1231_2008",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1231_2008.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1231_2008.html",
+      "sha256": "4ff1cce3a4da90074a424b56c30490b2c197082a48c350f7bbe338901bd8c66e",
+      "bytes": 36259,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:21:43-05:00"
+    }
+  ]
+}

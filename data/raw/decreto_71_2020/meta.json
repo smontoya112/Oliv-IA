@@ -1,0 +1,43 @@
+{
+  "doc_id": "decreto_71_2020",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020.html",
+      "sha256": "b22b4c988595f476fbf6a2ef4efa8724d5a6da202b38e1fe57ddc89a694830b3",
+      "bytes": 105327,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:32-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020_pr001.html",
+      "sha256": "3d27c18864d906c12a628b56053be02468a3000cc3a590d6b313ed91933eccee",
+      "bytes": 85606,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:34-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020_pr002.html",
+      "sha256": "01e880ce9e4d2af93d82995a40662eb545186ce5a7cc6d86e2e964eb99513662",
+      "bytes": 74447,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:35-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020_pr003.html",
+      "sha256": "b21bdc8e13430c09564a90779ba2a6ad4f1be629879e56aa6aa3f15ebbd2f8dd",
+      "bytes": 36038,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:37-05:00"
+    }
+  ]
+}

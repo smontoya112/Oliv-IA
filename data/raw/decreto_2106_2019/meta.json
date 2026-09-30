@@ -1,0 +1,43 @@
+{
+  "doc_id": "decreto_2106_2019",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2106_2019.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2106_2019.html",
+      "sha256": "8db1805f2cfc186afecac75b7ceb8837b7fbfd0b7f24c56803a577a559fc52ed",
+      "bytes": 89416,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:59-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2106_2019_pr001.html",
+      "sha256": "b11743504f63b4858b77606d4a14682027db21777b4da82b8fa36d3d69653967",
+      "bytes": 109295,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:00-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2106_2019_pr002.html",
+      "sha256": "b072011ac6b766d95675fee353a7e21080c6369d536bd9ac321bc6eeb7b78578",
+      "bytes": 121403,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:02-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2106_2019_pr003.html",
+      "sha256": "5a80e6680fbb59b90dd22501ddc401b7f8e4e81f779c8650e7da9ebef6647af3",
+      "bytes": 82973,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:03-05:00"
+    }
+  ]
+}

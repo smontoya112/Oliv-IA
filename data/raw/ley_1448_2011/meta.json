@@ -1,0 +1,52 @@
+{
+  "doc_id": "ley_1448_2011",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011.html",
+      "sha256": "9622b338e2019fed27a9ade6ddfdedd54fb1bfe991cb681e5a05168d7ca4bb66",
+      "bytes": 144318,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:10-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011_pr001.html",
+      "sha256": "49d0e865cc4669b0ce0a193d74fa4d13a18938f5120f1ec602c65484fd28ae5a",
+      "bytes": 132350,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:11-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011_pr002.html",
+      "sha256": "5de7d67adbb79bc25e2083c866c7972ba9dc5604c6385a067a1a2c418de18908",
+      "bytes": 109995,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:13-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011_pr003.html",
+      "sha256": "79960ad932e52933b318afef1656dce7a926f9e9d09a33d27168fb19ed5c6795",
+      "bytes": 167902,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:14-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011_pr004.html",
+      "sha256": "b5c4e6a4dba12a9d0316b5d5eb0882e082705b7b2b4c2e8cdaa11d047c9ecfb6",
+      "bytes": 88688,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:16-05:00"
+    }
+  ]
+}

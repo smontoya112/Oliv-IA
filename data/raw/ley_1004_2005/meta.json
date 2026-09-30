@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1004_2005",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1004_2005.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1004_2005.html",
+      "sha256": "c67aabe0a6064b6a361bb606b7768326e4fa044e0cc64560d02af15dd913e0e2",
+      "bytes": 34292,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:50-05:00"
+    }
+  ]
+}

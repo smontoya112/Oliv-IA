@@ -1,0 +1,16 @@
+{
+  "doc_id": "acto_legislativo_1_2017",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2017.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2017.html",
+      "sha256": "5fc47a64b6cc2f171053795b02ec3792560d3b860dd8a27379ef2fc6bb2c7469",
+      "bytes": 101278,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:21:53-05:00"
+    }
+  ]
+}

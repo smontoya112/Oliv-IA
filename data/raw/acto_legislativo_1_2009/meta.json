@@ -1,0 +1,16 @@
+{
+  "doc_id": "acto_legislativo_1_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2009.html",
+      "sha256": "6adbea1505e64513aac90c62f6a44ced3b2117d658ae0bfaa4e78e3755d9c1bb",
+      "bytes": 56235,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:56-05:00"
+    }
+  ]
+}

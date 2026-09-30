@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_584_2000",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0584_2000.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0584_2000.html",
+      "sha256": "33b37d67d97c2fc7ab9d325490e08743a38447ea2a533ed24fc0257fc8eff7e8",
+      "bytes": 44625,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:36-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_590_2000",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0590_2000.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0590_2000.html",
+      "sha256": "9f5b39672c1ae4c6da6d734c27b1e063bc51e260cf6712035d5de05e8da6bb45",
+      "bytes": 84502,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:25-05:00"
+    }
+  ]
+}

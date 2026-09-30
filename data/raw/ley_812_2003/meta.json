@@ -1,0 +1,43 @@
+{
+  "doc_id": "ley_812_2003",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0812_2003.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0812_2003.html",
+      "sha256": "5596dc0485f9df3ab60f2a57754e92a24726eaa49ffe6ef7f557dd8280a3b606",
+      "bytes": 264254,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:24-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0812_2003_pr001.html",
+      "sha256": "e7e31562272f3d41c683dc1ad879c6bf9065033480d6d14e832876dbe0041e0c",
+      "bytes": 90544,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:26-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0812_2003_pr002.html",
+      "sha256": "c24291e2a8c1080d8bf8b17130dce1093f6782604d78bec134007c11d684b209",
+      "bytes": 85259,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:27-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0812_2003_pr003.html",
+      "sha256": "0e4cc73dc54c9e0e99a8b7b598462d7be2aad40c02223747f58d27161a570027",
+      "bytes": 29016,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:29-05:00"
+    }
+  ]
+}

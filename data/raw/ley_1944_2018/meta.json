@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1944_2018",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1944_2018.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1944_2018.html",
+      "sha256": "100ea43387893b9232fe1845b76d52a0fd1ac89a3bf45c4a50589212d0a9df53",
+      "bytes": 30369,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:04-05:00"
+    }
+  ]
+}

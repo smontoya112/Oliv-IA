@@ -1,0 +1,79 @@
+{
+  "doc_id": "codigo_menor",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor.html",
+      "sha256": "b7a05410ff25855c4880da40967d1c2f02dec5d0a94d10cc52b8337a355a0fe3",
+      "bytes": 76327,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:14-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr001.html",
+      "sha256": "1d9ade6b0aabecae6a0a27472b89f364bf323177f57667434e9a2f2e05cf11cb",
+      "bytes": 87616,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:16-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr002.html",
+      "sha256": "d603dbdf8b5ccfb42202f21053d1d1de808052883265df8a2359b033602a7913",
+      "bytes": 86670,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:17-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr003.html",
+      "sha256": "07a28e446e4f2435a892a7a9638b57a6d3af4e05f9108cbb32c3e04c223612aa",
+      "bytes": 81940,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:19-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr004.html",
+      "sha256": "de2d685b8e633b32909a93d225eb4b979283e4f5636094f1b8f2df86d711d120",
+      "bytes": 89369,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:20-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr005.html",
+      "sha256": "d89d861c35473f32272900802976c678784f55c1550e7bfea808da7e4c68553a",
+      "bytes": 76999,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:22-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr006.html",
+      "sha256": "17aa781218e4736733638b8e4521dede0ea483438ed8b55183d8d9d3876b10ca",
+      "bytes": 85289,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:23-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_menor_pr007.html",
+      "sha256": "600d0b826a811551422f1b040a499d5edb04eeceb93683d95a236f3adb10c7f7",
+      "bytes": 80531,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:25-05:00"
+    }
+  ]
+}

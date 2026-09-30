@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1934_2018",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1934_2018.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1934_2018.html",
+      "sha256": "22ec654c8dc4c3aa285d2b0d14b1dae3c3460974c68cd0dac2791655dcaef511",
+      "bytes": 40183,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:13:32-05:00"
+    }
+  ]
+}

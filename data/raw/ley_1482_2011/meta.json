@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1482_2011",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1482_2011.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1482_2011.html",
+      "sha256": "9858cc40eaaa98ca3900487bc6305731066a284ecb6a040801342ea089627bfd",
+      "bytes": 28350,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:02-05:00"
+    }
+  ]
+}

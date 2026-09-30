@@ -1,0 +1,16 @@
+{
+  "doc_id": "decreto_555_2017",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0555_2017.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0555_2017.html",
+      "sha256": "738d7de9b5f4fb3d1a70bd51f6d0616ad542d7111da3a495a7578344010107ff",
+      "bytes": 118494,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:11-05:00"
+    }
+  ]
+}

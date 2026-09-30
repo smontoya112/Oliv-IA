@@ -1,0 +1,25 @@
+{
+  "doc_id": "ley_1715_2014",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1715_2014.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1715_2014.html",
+      "sha256": "16da56d5a38bb9d0b85b19796dc0a405ff144c00b341e57b75408c11eb5c6f2d",
+      "bytes": 129336,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:08-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1715_2014_pr001.html",
+      "sha256": "6c665d00a942ff0c945ef95b89c56c86d67c4f91a7d27a49af9694c3217e9f6f",
+      "bytes": 36044,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:10-05:00"
+    }
+  ]
+}

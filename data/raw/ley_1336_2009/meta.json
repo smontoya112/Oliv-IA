@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1336_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1336_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1336_2009.html",
+      "sha256": "9deface15e5052ca65c229485dc0803e670c9c7de2c4886ac0bb5bc30048deed",
+      "bytes": 64657,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:59-05:00"
+    }
+  ]
+}

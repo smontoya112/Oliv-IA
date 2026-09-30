@@ -1,0 +1,25 @@
+{
+  "doc_id": "ley_962_2005",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0962_2005.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0962_2005.html",
+      "sha256": "f7cac2303262329f6ab0b64af7bd7c2c35502c4e5a75ffd4ee7363423f139b49",
+      "bytes": 105918,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:40-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0962_2005_pr001.html",
+      "sha256": "0f07f70a6a0c89099a64dd7ca21248fe141a6fc1791e4b46929b52c466789214",
+      "bytes": 72468,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:18:41-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "decreto_691_2017",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0691_2017.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0691_2017.html",
+      "sha256": "330f3c3b06a72a036fa886a3ff57fea7723f21863c4cf6c62fd6c21350da99cd",
+      "bytes": 51857,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:25:38-05:00"
+    }
+  ]
+}

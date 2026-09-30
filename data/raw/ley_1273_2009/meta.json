@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1273_2009",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1273_2009.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1273_2009.html",
+      "sha256": "8419dad1c771dbcf23a3a0a927c6a43b30ba9d98819498f78afa2e6119418ba4",
+      "bytes": 30018,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:37-05:00"
+    }
+  ]
+}

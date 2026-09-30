@@ -1,0 +1,223 @@
+{
+  "doc_id": "codigo_procedimiento_civil",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil.html",
+      "sha256": "37ce9b7e153d25f75054809304110e392906b92b98307511d2fc80b656f2635e",
+      "bytes": 111970,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:24-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr001.html",
+      "sha256": "5bf78d20caa334f7df5d0f1622c632e757b1592813f8a2ff65bb2690e4405c51",
+      "bytes": 104370,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:26-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr002.html",
+      "sha256": "54219cf4ad1d37539cc54df64f64ea9141f78e7bf78f4ab76f186ecfe7fbc6df",
+      "bytes": 114370,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:27-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr003.html",
+      "sha256": "d67601e6c42872b006c9ebabd8510c50a7c382f993ef2bd9d5789a716872f6fc",
+      "bytes": 115734,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:29-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr004.html",
+      "sha256": "882da72863a315d7b10b1a83d8917cb6331afe5fad3f03133d4d5bd5dce1effe",
+      "bytes": 103876,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:30-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr005.html",
+      "sha256": "0c636334f56d5527e05edcd7b0a72057aceab354d7f88187ffbee68ec6223376",
+      "bytes": 123184,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:32-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr006.html",
+      "sha256": "74ca18e7783cef05caf12da0c9340897db0e5aed592e8c428d78365edeef4050",
+      "bytes": 100711,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:33-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr007.html",
+      "sha256": "2e732ade64912e27335d3ea062dc95377daa1565b47f89ab42c3da593325fbaa",
+      "bytes": 109681,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:35-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr008.html",
+      "sha256": "9e56e19f83ccc1bfb7635598608061543e094f58a15bde5faac6279ef3b04b9b",
+      "bytes": 109457,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:36-05:00"
+    },
+    {
+      "archivo": "parte_009.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr009.html",
+      "sha256": "1e1d4ccafb2baa4f0232869de315ae0f1e5b9e0ce35907be00fe6cf2d97d3ff5",
+      "bytes": 96265,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:38-05:00"
+    },
+    {
+      "archivo": "parte_010.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr010.html",
+      "sha256": "0c238f66be0c1591d626c5b7610437e275e5dd2bf454622ff245f07c61679f97",
+      "bytes": 110893,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:39-05:00"
+    },
+    {
+      "archivo": "parte_011.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr011.html",
+      "sha256": "9d428c4e9ea51bf99d408a50951a7787c580467c4d01bbfa116c3d15313954dd",
+      "bytes": 112668,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:41-05:00"
+    },
+    {
+      "archivo": "parte_012.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr012.html",
+      "sha256": "8c9139a71ab9b80db3456026856ccd22e2fcdb7f766fa18cccf475edd2d3a3e5",
+      "bytes": 131023,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:42-05:00"
+    },
+    {
+      "archivo": "parte_013.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr013.html",
+      "sha256": "ca3e6e73d4f565243f3bcd844e109a138d6a1e95f12d5841228a85334d508012",
+      "bytes": 108913,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:44-05:00"
+    },
+    {
+      "archivo": "parte_014.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr014.html",
+      "sha256": "35846b9756839d68074c3e5ddeeed6f49efbc488fdbec809050c05f741e727bc",
+      "bytes": 130392,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:45-05:00"
+    },
+    {
+      "archivo": "parte_015.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr015.html",
+      "sha256": "5b5bf4249fdd340c7985f4f3c5ae063e18714a724d375203a92764a87a4e6c01",
+      "bytes": 110784,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:47-05:00"
+    },
+    {
+      "archivo": "parte_016.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr016.html",
+      "sha256": "a9bd4ded4cd331cca0d80334cac4ba7f4c3fd2b2053e7849bf0aad66a75295f0",
+      "bytes": 105936,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:48-05:00"
+    },
+    {
+      "archivo": "parte_017.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr017.html",
+      "sha256": "c3b4ee4bddc56c212cedec746c69893e500aef6069d3a346aa83cb69ba21d2b7",
+      "bytes": 140817,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:50-05:00"
+    },
+    {
+      "archivo": "parte_018.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr018.html",
+      "sha256": "32ca37731d89f92326956f11061536beda7c4cfb13463215e267e0b7815a8d7f",
+      "bytes": 119004,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:51-05:00"
+    },
+    {
+      "archivo": "parte_019.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr019.html",
+      "sha256": "c1345659a48922571be4467a8a11f385527d8342c22c2d74095395bf54a6ebb4",
+      "bytes": 103555,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:53-05:00"
+    },
+    {
+      "archivo": "parte_020.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr020.html",
+      "sha256": "851130d35b8f415a6437f2143d6e35f1b46322564efa6b362ec4268142ce6747",
+      "bytes": 114462,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:54-05:00"
+    },
+    {
+      "archivo": "parte_021.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr021.html",
+      "sha256": "1c51091124a93cf39a81e032a44d49d269990876899a7d12541e38548ff5ffd7",
+      "bytes": 104650,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:56-05:00"
+    },
+    {
+      "archivo": "parte_022.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr022.html",
+      "sha256": "266d7b6325572910eb803622b950c322cf41c4a8a2c4186520d391f697e1b72c",
+      "bytes": 111878,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:57-05:00"
+    },
+    {
+      "archivo": "parte_023.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_procedimiento_civil_pr023.html",
+      "sha256": "ea206143fd87d8db360160d4c5c4c2246d3070f0ab4db8e71f0a6c0283015654",
+      "bytes": 96386,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:10:59-05:00"
+    }
+  ]
+}

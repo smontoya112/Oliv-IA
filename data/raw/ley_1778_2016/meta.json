@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1778_2016",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1778_2016.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1778_2016.html",
+      "sha256": "66e183f3b9539f706332f4ee222495c77c5b9c41b6d2d6a1b16f069bc1836aa4",
+      "bytes": 79628,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:58-05:00"
+    }
+  ]
+}

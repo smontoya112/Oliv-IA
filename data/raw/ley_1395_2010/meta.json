@@ -1,0 +1,34 @@
+{
+  "doc_id": "ley_1395_2010",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1395_2010.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1395_2010.html",
+      "sha256": "4e745663a8fd0b416a20026e3f684a5bb8c7404774fc1a7993e042beb681cc26",
+      "bytes": 109529,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:09:51-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1395_2010_pr001.html",
+      "sha256": "056437139ed3c176738c2a2ece64cb7cce73ba64c974d443beee4cf93ff48be7",
+      "bytes": 89936,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:09:53-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1395_2010_pr002.html",
+      "sha256": "fd2d4e1e4aba16d240b5a7d446e30856b2f0b3b3771ea488a9f88a40fbe7e704",
+      "bytes": 59726,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:09:54-05:00"
+    }
+  ]
+}

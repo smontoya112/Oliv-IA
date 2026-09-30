@@ -1,0 +1,34 @@
+{
+  "doc_id": "ley_300_1996",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0300_1996.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0300_1996.html",
+      "sha256": "b08bbd315d20f2c383a5ba4f084603a48e0064f2634997b1757d3b73b71bb850",
+      "bytes": 97477,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:34-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0300_1996_pr001.html",
+      "sha256": "40c563350278a62f74ff6640a2597bbfae57e80bf515335ca2da9bd6860edbcd",
+      "bytes": 78788,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:35-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0300_1996_pr002.html",
+      "sha256": "00f534b2928a7aec1d1ee632fca3e9f1d72ae1518853c70450c1e185b4f5e02a",
+      "bytes": 61027,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:22:37-05:00"
+    }
+  ]
+}

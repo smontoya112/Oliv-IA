@@ -1,0 +1,43 @@
+{
+  "doc_id": "ley_65_1993",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0065_1993.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0065_1993.html",
+      "sha256": "27f84c7e3869224c716d2649f686b92be30c3b2302ace3cce8ef5aa876cafe6f",
+      "bytes": 119606,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:46-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0065_1993_pr001.html",
+      "sha256": "83201642329ace867e8417c550087ee61732a63770620854bb1dd6ed30ae7cec",
+      "bytes": 102576,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:47-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0065_1993_pr002.html",
+      "sha256": "27760df56b20cc15cf8fdaeb91b8871c617166501607956737443c02bbece7c6",
+      "bytes": 109657,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:49-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0065_1993_pr003.html",
+      "sha256": "d473e2219bcc09d5dd96d94597fac9bdf94970a3d9dc4a403b4daa2feadc9722",
+      "bytes": 84109,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:24:50-05:00"
+    }
+  ]
+}

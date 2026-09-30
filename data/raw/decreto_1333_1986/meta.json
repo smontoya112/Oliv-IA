@@ -1,0 +1,88 @@
+{
+  "doc_id": "decreto_1333_1986",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986.html",
+      "sha256": "9857ef0af4c672889d8316265dd540b6f4235829f61a082fdfdc86c6c0cb358a",
+      "bytes": 76986,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:45-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr001.html",
+      "sha256": "74b502980e018370c56b4c866d5a7b04c40782de85f676c3b10f1d576e4f7272",
+      "bytes": 75916,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:47-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr002.html",
+      "sha256": "ba7a4cd3d3190b9b6ef206d1d523c5bba2114b6bc6801938dd19eab0e076d2f1",
+      "bytes": 79943,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:48-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr003.html",
+      "sha256": "f315bcad05125c4d92467b0e47094e93f0b6a31d23786a4ae355a90da2b3e063",
+      "bytes": 75793,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:50-05:00"
+    },
+    {
+      "archivo": "parte_004.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr004.html",
+      "sha256": "7b2b9705aa77633d3456ba6e8c4fc46f720b5d269bcc916293bea5dd52cbc7f4",
+      "bytes": 90048,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:51-05:00"
+    },
+    {
+      "archivo": "parte_005.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr005.html",
+      "sha256": "5ab89cbd0256fc337bb43bd6470ec690be6f4fff723cccc139de93a9e51a0b18",
+      "bytes": 88707,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:53-05:00"
+    },
+    {
+      "archivo": "parte_006.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr006.html",
+      "sha256": "5c9558b22db69c3fd1bfb28d8ed3da7d9060b7599d14f79afcd4ebc2f7d591df",
+      "bytes": 74138,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:54-05:00"
+    },
+    {
+      "archivo": "parte_007.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr007.html",
+      "sha256": "92718182f79f962e8d7f784f7614d4620f03cfe3406abeada7bff2f9e6ce25f8",
+      "bytes": 74721,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:56-05:00"
+    },
+    {
+      "archivo": "parte_008.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1333_1986_pr008.html",
+      "sha256": "9cb04bfc17db96d5bdedb9b3f149b48aa9185687bd09bdcc22f6f9d7bd30dcd4",
+      "bytes": 49813,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:12:57-05:00"
+    }
+  ]
+}

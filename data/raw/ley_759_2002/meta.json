@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_759_2002",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0759_2002.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0759_2002.html",
+      "sha256": "74839af894434edb2e6916bc0f67ebcaf195f20053157b0bd63d54bce5d2717a",
+      "bytes": 56226,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:56-05:00"
+    }
+  ]
+}

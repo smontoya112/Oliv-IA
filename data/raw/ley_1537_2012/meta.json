@@ -1,0 +1,25 @@
+{
+  "doc_id": "ley_1537_2012",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1537_2012.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1537_2012.html",
+      "sha256": "d193d0b1406c0f4eec2df117728a89b87156af71feccc4ea31e873e51c4ad875",
+      "bytes": 106664,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:28-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1537_2012_pr001.html",
+      "sha256": "290cba15727974e9ab18b9c6c02f6a95ca5f8dedef32c32b289050329d558976",
+      "bytes": 55206,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:29-05:00"
+    }
+  ]
+}

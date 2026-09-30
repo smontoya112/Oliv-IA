@@ -1,0 +1,16 @@
+{
+  "doc_id": "decreto_92_2022",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0092_2022.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0092_2022.html",
+      "sha256": "2104e9bee80d9f7e29effcc5ce241cfb42faf94ca60843819eb2031ffb6500b7",
+      "bytes": 76133,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:20:10-05:00"
+    }
+  ]
+}

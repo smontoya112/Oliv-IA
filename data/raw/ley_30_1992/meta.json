@@ -1,0 +1,43 @@
+{
+  "doc_id": "ley_30_1992",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0030_1992.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0030_1992.html",
+      "sha256": "a8ee502281402ee3ae3b82507f06d0017e2ef9f66fafe19df5211314b396c0e4",
+      "bytes": 77047,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:10-05:00"
+    },
+    {
+      "archivo": "parte_001.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0030_1992_pr001.html",
+      "sha256": "9906d1b44aa17af84d677cc335b1286c11249dcf4b3be9f4032ba4ed748d24df",
+      "bytes": 73805,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:11-05:00"
+    },
+    {
+      "archivo": "parte_002.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0030_1992_pr002.html",
+      "sha256": "58eb81e1f008ad165a8a52b0995ba3d494119ebf6313f57f947e2f501e9c6a21",
+      "bytes": 80515,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:13-05:00"
+    },
+    {
+      "archivo": "parte_003.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0030_1992_pr003.html",
+      "sha256": "e41a9e1d72c560e084d0fdef7f39d79f68626f48a94b45df7ba98932e47f48f5",
+      "bytes": 44672,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:19:14-05:00"
+    }
+  ]
+}

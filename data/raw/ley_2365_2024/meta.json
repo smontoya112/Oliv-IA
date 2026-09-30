@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_2365_2024",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2365_2024.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2365_2024.html",
+      "sha256": "0c175880860aaa43c76f44881711b635363dfcc8283c1f8b8829abc5826846bb",
+      "bytes": 62756,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:19-05:00"
+    }
+  ]
+}

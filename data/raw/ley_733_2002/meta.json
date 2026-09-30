@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_733_2002",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0733_2002.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0733_2002.html",
+      "sha256": "cb21acac9ab38a912f0c015f3c5d50adb402a8438b2dc012fea40ea383a17c1f",
+      "bytes": 39027,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:17:38-05:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "doc_id": "ley_1210_2008",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1210_2008.html",
+  "tipo": "senado",
+  "partes": [
+    {
+      "archivo": "parte_000.html",
+      "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1210_2008.html",
+      "sha256": "47a862a28a7dfa4c7dd2b3b523d2a3da8ba107fc161eed49b54861345fc3dfde",
+      "bytes": 33264,
+      "content_type": "text/html",
+      "http_status": 200,
+      "descargado": "2026-09-30T18:23:23-05:00"
+    }
+  ]
+}
