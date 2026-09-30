@@ -13,6 +13,7 @@ import hashlib
 import json
 import logging
 import os
+import sys
 from pathlib import Path
 
 import pyarrow as pa
@@ -169,9 +170,15 @@ def main() -> None:
     ap.add_argument("--salida", type=Path, default=Path("data/processed"))
     ap.add_argument("--doc", nargs="*", help="procesar solo estos doc_id")
     args = ap.parse_args()
-    logging.basicConfig(level=logging.INFO, format="%(message)s")
+    # Avance -> stdout (.out del job); solo los ERROR -> stderr (.err del job).
+    salida_std = logging.StreamHandler(sys.stdout)
+    salida_std.addFilter(lambda r: r.levelno < logging.ERROR)
+    salida_err = logging.StreamHandler(sys.stderr)
+    salida_err.setLevel(logging.ERROR)
+    logging.basicConfig(level=logging.INFO, format="%(message)s", handlers=[salida_std, salida_err])
 
-    rutas = sorted(args.md.glob("*.md"))
+    # Los *.notas.md son contenido oculto del HTML, no documentos: no se segmentan.
+    rutas = sorted(r for r in args.md.glob("*.md") if not r.name.endswith(".notas.md"))
     if args.doc:
         rutas = [r for r in rutas if r.stem in set(args.doc)]
     contar = _contador_tokens()
