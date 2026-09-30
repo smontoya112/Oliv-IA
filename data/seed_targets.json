@@ -365,7 +365,7 @@
         "Derecho civil",
         "Derecho tributario"
       ],
-      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=15805"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=15805"
     },
     {
       "norma": "Ley 2437 de 2024",
@@ -793,7 +793,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1604809"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=281"
     },
     {
       "norma": "Acuerdo 02 de 2015",
@@ -806,7 +806,7 @@
       "areas": [
         "Derecho constitucional"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034638"
+      "donde_buscar": "https://sidn.ramajudicial.gov.co/SIDN/NORMATIVA/TEXTOS_COMPLETOS/3_ACUERDOS/ACUERDOS%202015/CC%20Acuerdo%202%20de%202015%20(Unifica%20y%20actualiza%20el%20Reglamento%20de%20la%20Corte%20Constitucional).pdf"
     },
     {
       "norma": "Codigo disciplinario",
@@ -858,7 +858,7 @@
       "areas": [
         "Derecho administrativo"
       ],
-      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77653"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77653"
     },
     {
       "norma": "Decreto 1742 de 2020",
@@ -910,7 +910,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=67536"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=67536"
     },
     {
       "norma": "Decreto 405 de 2025",
@@ -923,7 +923,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=30054765"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=259517"
     },
     {
       "norma": "Decreto 4334 de 2008",
@@ -949,7 +949,7 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1546141"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=18346"
     },
     {
       "norma": "Decreto 4886 de 2011",
@@ -975,7 +975,7 @@
       "areas": [
         "Derecho comercial y sociedades"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1142040"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=1348"
     },
     {
       "norma": "Decreto 780 de 2016",
@@ -988,7 +988,7 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30021559"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77813"
     },
     {
       "norma": "Decreto 875 de 2008",
@@ -1001,7 +1001,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1182420"
+      "donde_buscar": "https://www.cancilleria.gov.co/normograma/compilacion/docs/pdf/decreto_0875_2008.pdf"
     },
     {
       "norma": "Decreto 960 de 1970",
@@ -1573,7 +1573,7 @@
       "areas": [
         "Derecho penal"
       ],
-      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1dic2021/SP3218-2021(47063).pdf"
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2021/SP3218-2021(47063).pdf"
     },
     {
       "norma": "Sentencia SU-11 de 2020",
@@ -2080,7 +2080,7 @@
       "areas": [
         "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
       ],
-      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38169"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=38169"
     },
     {
       "norma": "Ley 1562 de 2012",
@@ -2249,7 +2249,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1775682"
+      "donde_buscar": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4829"
     },
     {
       "norma": "Ley 29 de 1982",
@@ -2262,7 +2262,7 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1585819"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=256"
     },
     {
       "norma": "Ley 527 de 1999",
@@ -2340,7 +2340,7 @@
       "areas": [
         "Derecho de familia"
       ],
-      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1789975"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=4828"
     },
     {
       "norma": "Ley 769 de 2002",
@@ -2674,7 +2674,7 @@
       "areas": [
         "Derecho tributario"
       ],
-      "donde_buscar": "https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1625_2016.htm"
+      "donde_buscar": "https://normograma.dian.gov.co/dian/compilacion/docs/pdf/decreto_1625_2016.pdf"
     },
     {
       "norma": "Decreto 2158 de 1948 - Codigo Procesal del Trabajo y de la Seguridad Social",
@@ -2687,7 +2687,7 @@
       "areas": [
         "Derecho laboral"
       ],
-      "donde_buscar": "https://lexis.minjusticia.gov.co/minjusticia/viewDocument/1871227"
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=5259"
     },
     {  
         "norma": "Sentencia C-554 de 2001",
