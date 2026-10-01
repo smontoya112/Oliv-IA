@@ -35,7 +35,7 @@ if [[ $ESTADO -eq 0 ]]; then
     paso "2/3 compilando llama-cpp-python (CUDA, arquitectura 75 = Turing)"
     CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
-        correr uv pip install --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
+        correr uv pip install --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "3/3 prueba de importación"
