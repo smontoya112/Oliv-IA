@@ -43,7 +43,11 @@ if [[ $ESTADO -eq 0 ]]; then
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/3 compilando llama-cpp-python (CUDA, arquitectura 75 = Turing)"
-    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75" FORCE_CMAKE=1 \
+    # GGML_CUDA_NO_VMM=on: el allocator por defecto de ggml-cuda (basado en la API VMM de
+    # CUDA) aborta durante el primer llama_decode en el driver CUDA 11.8 de hypatia
+    # (ggml_cuda_pool_vmm::alloc, ver generacion_bench_751503.err); se usa el allocator
+    # clásico (cudaMalloc), compatible con este driver.
+    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=on" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
         correr uv pip install --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
 fi
