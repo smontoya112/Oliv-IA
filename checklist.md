@@ -36,11 +36,11 @@
 - [ ] **Paso 4.3:** Construir el parser de citas con expresiones regulares y escribir pruebas unitarias con `pytest` basadas en `sample_50.jsonl`.
 
 ## Fase 5: Indexación (Jueves 1)
-- [ ] **Paso 5.1:** Seleccionar e integrar el modelo encoder (`BAAI/bge-m3` o `intfloat/multilingual-e5-large`).
-- [ ] **Paso 5.2:** Construir el índice denso en FAISS (`faiss.IndexFlatIP`) o Qdrant.
-- [ ] **Paso 5.3:** Construir el índice léxico con `bm25s` (normalizando texto y conservando tokens numéricos).
-- [ ] **Paso 5.4:** Crear el script reproducible `python -m src.indice.build` que genere el índice y escriba `index_config.json`.
-- [ ] **Paso 5.5:** Evaluar métricas de recuperación aisladas (Recall@10 y Recall@50) sobre las muestras usando `ranx`.
+- [x] **Paso 5.1:** Seleccionar e integrar el modelo encoder (`BAAI/bge-m3` o `intfloat/multilingual-e5-large`). → `bge-m3` fijado en `src/indice/encoder.py`.
+- [ ] **Paso 5.2:** Construir el índice denso en FAISS (`faiss.IndexFlatIP`) o Qdrant. → código listo; falta la corrida con GPU en Hypatia (`sbatch jobs/indice.sh`).
+- [x] **Paso 5.3:** Construir el índice léxico con `bm25s` (normalizando texto y conservando tokens numéricos).
+- [x] **Paso 5.4:** Crear el script reproducible `python -m src.indice.build` que genere el índice y escriba `index_config.json`.
+- [ ] **Paso 5.5:** Evaluar métricas de recuperación aisladas (Recall@10 y Recall@50) sobre las muestras usando `ranx`. → BM25 medido (`data/index/eval_recuperacion.json`); denso y RRF salen de la corrida en Hypatia.
 
 ## Fase 6: Recuperación (Jueves 1)
 - [ ] **Paso 6.1:** Implementar la extracción e inclusión directa por metadato de normas explicitadas en la pregunta.

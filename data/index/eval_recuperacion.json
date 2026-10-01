@@ -1,0 +1,2904 @@
+{
+  "indice": "data/index",
+  "muestras": "data/sample_50.jsonl",
+  "sha256_chunks": "3d3b4660fb347ef49887dcbcd4750c634cad825a68bb7b75c3a2c885917445f8",
+  "n_chunks": 60329,
+  "k": [
+    10,
+    50
+  ],
+  "grupos": {
+    "evaluable": 40,
+    "fuera_del_corpus": 1,
+    "sin_citas": 9
+  },
+  "fuera_del_corpus": [
+    "decreto|663|1993|"
+  ],
+  "resultados": {
+    "bm25": {
+      "todos": {
+        "ranx": {
+          "n": 19,
+          "recall@10": 0.2719,
+          "recall@50": 0.3757,
+          "mrr@10": 0.1684,
+          "hit_rate@10": 0.3158
+        },
+        "ranx_documento": {
+          "n": 40,
+          "recall@10": 0.5776,
+          "recall@50": 0.64,
+          "mrr@10": 0.5402,
+          "hit_rate@10": 0.8
+        },
+        "cobertura_cuerpo@10": 0.85,
+        "cobertura_articulo@10": 0.4035,
+        "cobertura_cuerpo@50": 0.95,
+        "cobertura_articulo@50": 0.5921
+      },
+      "formato=multiple_choice": {
+        "ranx": {
+          "n": 7,
+          "recall@10": 0.381,
+          "recall@50": 0.5238,
+          "mrr@10": 0.2857,
+          "hit_rate@10": 0.4286
+        },
+        "ranx_documento": {
+          "n": 12,
+          "recall@10": 0.4848,
+          "recall@50": 0.4955,
+          "mrr@10": 0.5397,
+          "hit_rate@10": 0.75
+        },
+        "cobertura_cuerpo@10": 0.75,
+        "cobertura_articulo@10": 0.5238,
+        "cobertura_cuerpo@50": 0.9167,
+        "cobertura_articulo@50": 0.7143
+      },
+      "formato=open_ended": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.2222,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.4625,
+          "recall@50": 0.65,
+          "mrr@10": 0.5417,
+          "hit_rate@10": 0.75
+        },
+        "cobertura_cuerpo@10": 0.5,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 0.75,
+        "cobertura_articulo@50": 0.25
+      },
+      "formato=semi_open": {
+        "ranx": {
+          "n": 11,
+          "recall@10": 0.2273,
+          "recall@50": 0.2955,
+          "mrr@10": 0.1091,
+          "hit_rate@10": 0.2727
+        },
+        "ranx_documento": {
+          "n": 24,
+          "recall@10": 0.6431,
+          "recall@50": 0.7106,
+          "mrr@10": 0.5403,
+          "hit_rate@10": 0.8333
+        },
+        "cobertura_cuerpo@10": 0.9583,
+        "cobertura_articulo@10": 0.3636,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.5455
+      },
+      "area=Derecho constitucional": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.3333,
+          "recall@50": 0.8333,
+          "mrr@10": 0.25,
+          "hit_rate@10": 0.5
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.6104,
+          "recall@50": 0.6524,
+          "mrr@10": 0.3819,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.8,
+        "cobertura_articulo@10": 0.8333,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.65,
+          "recall@50": 0.9,
+          "mrr@10": 0.2167,
+          "hit_rate@10": 0.75
+        },
+        "cobertura_cuerpo@10": 0.75,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.5
+      },
+      "area=Derecho procesal": {
+        "ranx": {
+          "n": 4,
+          "recall@10": 0.375,
+          "recall@50": 0.5,
+          "mrr@10": 0.25,
+          "hit_rate@10": 0.5
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.7551,
+          "recall@50": 0.7756,
+          "mrr@10": 0.8,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.8,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.5
+      },
+      "area=Derecho comercial y sociedades": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 3,
+          "recall@10": 0.4167,
+          "recall@50": 0.6667,
+          "mrr@10": 0.6667,
+          "hit_rate@10": 0.6667
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.5
+      },
+      "area=Derecho administrativo": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.5,
+          "recall@50": 0.625,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.3158,
+          "recall@50": 0.3263,
+          "mrr@10": 0.4667,
+          "hit_rate@10": 0.6
+        },
+        "cobertura_cuerpo@10": 0.8,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 0.8,
+        "cobertura_articulo@50": 0.75
+      },
+      "area=Derecho civil": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 2,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 1.0,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho de familia": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 0.2,
+          "hit_rate@10": 1.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.8,
+          "recall@50": 0.8,
+          "mrr@10": 0.5333,
+          "hit_rate@10": 0.8
+        },
+        "cobertura_cuerpo@10": 0.8,
+        "cobertura_articulo@10": 1.0,
+        "cobertura_cuerpo@50": 0.8,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho penal": {
+        "ranx": {
+          "n": 3,
+          "recall@10": 0.3333,
+          "recall@50": 0.3333,
+          "mrr@10": 0.1667,
+          "hit_rate@10": 0.3333
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.3056,
+          "recall@50": 0.3889,
+          "mrr@10": 0.25,
+          "hit_rate@10": 0.5
+        },
+        "cobertura_cuerpo@10": 0.75,
+        "cobertura_articulo@10": 0.3333,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.3333
+      },
+      "area=Derecho laboral": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.0,
+          "recall@50": 0.1111,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.5249,
+          "recall@50": 0.5346,
+          "mrr@10": 0.7667,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.125
+      },
+      "area=Derecho tributario": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 2,
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      }
+    }
+  },
+  "items": [
+    {
+      "id": 51,
+      "formato": "multiple_choice",
+      "area": "Derecho constitucional",
+      "grupo": "evaluable",
+      "legal_basis": "Constitución Política, artículo 88; Ley 472 de 1998, artículos 3 y 46.",
+      "ref": [
+        "constitucion|||88",
+        "ley|472|1998|3",
+        "ley|472|1998|46"
+      ],
+      "ref_en_corpus": [
+        "constitucion||",
+        "ley|472|1998"
+      ],
+      "n_chunks_relevantes": 3,
+      "docs_relevantes": [
+        "codigo_civil",
+        "codigo_comercio",
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "constitucion",
+        "decreto_1088_1993",
+        "decreto_1818_1998",
+        "decreto_19_2012",
+        "decreto_2150_1995",
+        "decreto_356_1994",
+        "decreto_960_1970",
+        "estatuto_organico_sistema_financiero",
+        "estatuto_tributario",
+        "estatuto_tributario-2",
+        "ley_1014_2006",
+        "ley_115_1994",
+        "ley_1258_2008",
+        "ley_1328_2009",
+        "ley_141_1994",
+        "ley_1448_2011",
+        "ley_1537_2012",
+        "ley_1564_2012",
+        "ley_1676_2013",
+        "ley_1708_2014",
+        "ley_1753_2015",
+        "ley_1955_2019",
+        "ley_2069_2020",
+        "ley_2381_2024",
+        "ley_270_1996",
+        "ley_300_1996",
+        "ley_387_1997",
+        "ley_43_1993",
+        "ley_472_1998",
+        "ley_489_1998",
+        "ley_550_1999",
+        "ley_5_1992",
+        "ley_600_2000",
+        "ley_675_2001",
+        "ley_769_2002"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.6666666666666666,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_su-429_2024#cuerpo#p110",
+            "ley_472_1998#art_3#p1",
+            "ley_472_1998#art_46#p1",
+            "ley_1437_2011#art_145#p1",
+            "cpaca#art_145#p1",
+            "sentencia_su-429_2024#cuerpo#p111",
+            "sentencia_su-217_2017#cuerpo#p44",
+            "sentencia_su-429_2024#cuerpo#p143",
+            "sentencia_su-429_2024#cuerpo#p3",
+            "ley_472_1998#art_55#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.6666666666666666,
+            "recall@50": 0.6666666666666666,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.02564102564102564,
+            "recall@50": 0.05128205128205128,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 58,
+      "formato": "multiple_choice",
+      "area": "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+      "grupo": "evaluable",
+      "legal_basis": "Ley 1564 de 2002 (El Estatuto del Consumidor). ",
+      "ref": [
+        "codigo_general_proceso|||",
+        "estatuto_consumidor|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_general_proceso||",
+        "estatuto_consumidor||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "estatuto_consumidor",
+        "ley_1395_2010",
+        "ley_1564_2012"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_5_1992#art_329#p1",
+            "ley_5_1992#art_330#p1",
+            "sentencia_su-429_2024#cuerpo#p116",
+            "codigo_general_proceso#art_1#p1",
+            "ley_472_1998#art_71#p1",
+            "ley_1564_2012#art_1#p1",
+            "ley_906_2004#art_298#p3",
+            "ley_270_1996#art_192#p1",
+            "estatuto_consumidor#art_56#p1",
+            "ley_270_1996#art_123#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.6,
+            "recall@50": 0.6,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 60,
+      "formato": "multiple_choice",
+      "area": "Derecho procesal",
+      "grupo": "evaluable",
+      "legal_basis": "Constitución Política de Colombia, artículo 29; Código General del Proceso (Ley 1564 de 2012), artículo 6.",
+      "ref": [
+        "codigo_general_proceso|||",
+        "codigo_general_proceso|||6",
+        "constitucion|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_general_proceso||",
+        "constitucion||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_civil",
+        "codigo_comercio",
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "constitucion",
+        "decreto_1088_1993",
+        "decreto_1818_1998",
+        "decreto_19_2012",
+        "decreto_2150_1995",
+        "decreto_356_1994",
+        "decreto_960_1970",
+        "estatuto_organico_sistema_financiero",
+        "estatuto_tributario",
+        "estatuto_tributario-2",
+        "ley_1014_2006",
+        "ley_115_1994",
+        "ley_1258_2008",
+        "ley_1328_2009",
+        "ley_1395_2010",
+        "ley_141_1994",
+        "ley_1448_2011",
+        "ley_1537_2012",
+        "ley_1564_2012",
+        "ley_1676_2013",
+        "ley_1708_2014",
+        "ley_1753_2015",
+        "ley_1955_2019",
+        "ley_2069_2020",
+        "ley_2381_2024",
+        "ley_270_1996",
+        "ley_300_1996",
+        "ley_387_1997",
+        "ley_43_1993",
+        "ley_489_1998",
+        "ley_550_1999",
+        "ley_5_1992",
+        "ley_600_2000",
+        "ley_675_2001",
+        "ley_769_2002"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "ley_600_2000#art_11#p1",
+            "sentencia_t-323_2024#cuerpo#p122",
+            "sentencia_t-323_2024#cuerpo#p127",
+            "sentencia_t-323_2024#cuerpo#p121",
+            "sentencia_t-323_2024#cuerpo#p124",
+            "sentencia_t-323_2024#cuerpo#p120",
+            "sentencia_t-323_2024#cuerpo#p123",
+            "ley_906_2004#art_19#p1",
+            "codigo_procedimiento_penal#art_19#p1",
+            "sentencia_c-276_2025#salvamentos#p11"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.02564102564102564,
+            "recall@50": 0.1282051282051282,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 128,
+      "formato": "multiple_choice",
+      "area": "Derecho comercial y sociedades",
+      "grupo": "fuera_del_corpus",
+      "legal_basis": "Decreto Ley 663 de 1993",
+      "ref": [
+        "decreto|663|1993|"
+      ],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1430_2010#art_43#p1",
+            "estatuto_organico_sistema_financiero#art_142#p1",
+            "ley_510_1999#art_16#p1",
+            "ley_1328_2009#art_66#p1",
+            "ley_1430_2010#art_6#p1",
+            "decreto_1333_1986#art_206#p1",
+            "estatuto_organico_sistema_financiero#art_2#p2",
+            "ley_1902_2018#art_6#p2",
+            "ley_789_2002#art_16#p2",
+            "ley_1328_2009#art_25#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 290,
+      "formato": "multiple_choice",
+      "area": "Derecho administrativo",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 11 ley 1150 de 2007",
+      "ref": [
+        "ley|1150|2007|11"
+      ],
+      "ref_en_corpus": [
+        "ley|1150|2007"
+      ],
+      "n_chunks_relevantes": 1,
+      "docs_relevantes": [
+        "ley_1150_2007",
+        "ley_1882_2018"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_1150_2007#art_11#p1",
+            "ley_510_1999#art_23#p1",
+            "ley_820_2003#art_22#p2",
+            "codigo_sustantivo_trabajo#art_61#p1",
+            "sentencia_ce_s2_ij_su_2022#cuerpo#p85",
+            "ley_142_1994#art_61#p2",
+            "ley_446_1998#art_44#p4",
+            "ley_143_1994#art_62#p1",
+            "ley_1437_2011#art_164#p5",
+            "codigo_contencioso_administrativo#art_136#p4"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.5,
+            "recall@50": 0.5,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 308,
+      "formato": "multiple_choice",
+      "area": "Derecho administrativo",
+      "grupo": "sin_citas",
+      "legal_basis": "Art 44 ley 1150 ",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1150_2007#art_11#p1",
+            "codigo_sustantivo_trabajo#art_61#p1",
+            "ley_446_1998#art_44#p4",
+            "codigo_contencioso_administrativo#art_136#p4",
+            "ley_1437_2011-2#art_164#p5",
+            "cpaca#art_164#p5",
+            "ley_510_1999#art_23#p1",
+            "sentencia_c-207_2019#cuerpo#p70",
+            "estatuto_organico_sistema_financiero#art_175#p2",
+            "sentencia_ce_s2_ij_su_2022#cuerpo#p92"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 352,
+      "formato": "multiple_choice",
+      "area": "Derecho constitucional",
+      "grupo": "evaluable",
+      "legal_basis": "Decreto 2067 de 1991, art. 49 (nulidad por violación del debido proceso).",
+      "ref": [
+        "decreto|2067|1991|49"
+      ],
+      "ref_en_corpus": [
+        "decreto|2067|1991"
+      ],
+      "n_chunks_relevantes": 1,
+      "docs_relevantes": [
+        "decreto_2067_1991"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 13,
+          "rank_primer_doc_relevante": 7,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-239_1997#salvamentos#p146",
+            "sentencia_c-239_1997#salvamentos#p125",
+            "ley_1581_2012#art_34#p73",
+            "sentencia_c-239_1997#salvamentos#p144",
+            "sentencia_su-1219_2001#salvamentos#p13",
+            "ley_5_1992#art_156#p2",
+            "ley_5_1992#art_158#p1",
+            "sentencia_c-239_1997#salvamentos#p127",
+            "sentencia_c-535_2002#cuerpo#p17",
+            "ley_5_1992#art_157#p2"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.14285714285714285,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 358,
+      "formato": "multiple_choice",
+      "area": "Derecho civil",
+      "grupo": "evaluable",
+      "legal_basis": "c) Acción reivindicatoria, disponible únicamente para los dueños legales del bien, de acuerdo con el artículo 946 del C.C.\n",
+      "ref": [
+        "codigo_civil|||946"
+      ],
+      "ref_en_corpus": [
+        "codigo_civil||"
+      ],
+      "n_chunks_relevantes": 1,
+      "docs_relevantes": [
+        "codigo_civil"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_civil#art_973#p1",
+            "codigo_civil#art_974#p1",
+            "codigo_civil#art_1323#p1",
+            "codigo_comercio#art_1687#p1",
+            "codigo_civil#art_960#p1",
+            "sentencia_sc_3674_2021#cuerpo#p119",
+            "sentencia_sc_3674_2021#cuerpo#p292",
+            "ley_1826_2017#art_5#p2",
+            "sentencia_sc_3674_2021#cuerpo#p25",
+            "sentencia_sc_3674_2021#cuerpo#p227"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 487,
+      "formato": "multiple_choice",
+      "area": "Derecho de familia",
+      "grupo": "evaluable",
+      "legal_basis": "1820 del Código Civil. ",
+      "ref": [
+        "codigo_civil|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_civil||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_civil"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1820#p1",
+            "ley_2447_2025#art_15#p1",
+            "codigo_general_proceso#art_523#p1",
+            "codigo_general_proceso#art_22#p2",
+            "ley_1564_2012#art_523#p1",
+            "ley_1564_2012#art_22#p2",
+            "ley_2220_2022#art_69#p1",
+            "codigo_general_proceso#art_523#p2",
+            "ley_1564_2012#art_523#p2",
+            "ley_640_2001#art_40#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 528,
+      "formato": "multiple_choice",
+      "area": "Derecho procesal",
+      "grupo": "evaluable",
+      "legal_basis": "Código General del Proceso. Art. 25.",
+      "ref": [
+        "codigo_general_proceso|||25"
+      ],
+      "ref_en_corpus": [
+        "codigo_general_proceso||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "ley_1395_2010",
+        "ley_1564_2012"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_1150_2007#art_2#p2",
+            "ley_1564_2012#art_25#p1",
+            "codigo_general_proceso#art_25#p1",
+            "decreto_2150_1995#art_38#p1",
+            "ley_1395_2010#art_22#p1",
+            "codigo_procedimiento_civil#art_397#p1",
+            "ley_2452_2025#art_13#p1",
+            "ley_2069_2020#art_30#p1",
+            "ley_1450_2011#art_274#p1",
+            "ley_1563_2012#art_2#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 600,
+      "formato": "multiple_choice",
+      "area": "Derecho penal",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 241 del Código Penal. ",
+      "ref": [
+        "codigo_penal|||241"
+      ],
+      "ref_en_corpus": [
+        "codigo_penal||"
+      ],
+      "n_chunks_relevantes": 4,
+      "docs_relevantes": [
+        "codigo_penal",
+        "ley_1032_2006",
+        "ley_1142_2007",
+        "ley_1220_2008",
+        "ley_1482_2011",
+        "ley_190_1995",
+        "ley_2197_2022",
+        "ley_599_2000",
+        "ley_679_2001"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "codigo_comercio#art_1172#p1",
+            "codigo_civil#art_1425#p1",
+            "codigo_civil#art_2019#p1",
+            "codigo_civil#art_774#p1",
+            "codigo_civil#art_791#p1",
+            "codigo_comercio#art_1690#p1",
+            "codigo_civil#art_2420#p1",
+            "codigo_comercio#art_955#p1",
+            "codigo_civil#art_782#p1",
+            "codigo_comercio#art_912#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 617,
+      "formato": "multiple_choice",
+      "area": "Derecho laboral",
+      "grupo": "evaluable",
+      "legal_basis": "Código Sustantivo del Trabajo. ",
+      "ref": [
+        "codigo_sustantivo_trabajo|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_sustantivo_trabajo||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_procedimental_laboral",
+        "codigo_sustantivo_trabajo",
+        "ley_142_1994"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_sustantivo_trabajo#art_406#p1",
+            "ley_584_2000#art_12#p1",
+            "sentencia_c-201_2002#cuerpo#p62",
+            "sentencia_c-201_2002#cuerpo#p7",
+            "sentencia_c-201_2002#cuerpo#p6",
+            "sentencia_c-201_2002#cuerpo#p58",
+            "sentencia_c-201_2002#cuerpo#p63",
+            "ley_2452_2025#art_300#p1",
+            "estatuto_tributario#art_356-1#p2",
+            "estatuto_organico_sistema_financiero#art_154#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.6666666666666666,
+            "recall@50": 0.6666666666666666,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 647,
+      "formato": "multiple_choice",
+      "area": "Derecho de familia",
+      "grupo": "evaluable",
+      "legal_basis": "Código civil.",
+      "ref": [
+        "codigo_civil|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_civil||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_civil"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 0.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-225_1995#cuerpo#p14",
+            "sentencia_t-25_2004#cuerpo#p161",
+            "ley_1778_2016#art_24#p1",
+            "ley_100_1993#art_2#p1",
+            "ley_812_2003#art_8#p53",
+            "sentencia_c-164_2022#cuerpo#p6",
+            "codigo_menor#art_105#p1",
+            "sentencia_ce_s3_19031_2011#cuerpo#p61",
+            "sentencia_c-131_2018#cuerpo#p38",
+            "decreto_2811_1974#art_288#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 671,
+      "formato": "multiple_choice",
+      "area": "Derecho tributario",
+      "grupo": "sin_citas",
+      "legal_basis": "Doctrina. ",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1692_2013#art_30#p6",
+            "ley_1692_2013#art_30#p21",
+            "ley_1692_2013#art_30#p19",
+            "estatuto_tributario-2#art_9#p1",
+            "estatuto_tributario#art_25#p2",
+            "ley_1607_2012#art_9#p1",
+            "estatuto_tributario#art_247#p1",
+            "ley_137_1994#art_28#p1",
+            "ley_1819_2016#art_10#p1",
+            "estatuto_tributario#art_316#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 748,
+      "formato": "multiple_choice",
+      "area": "Derecho administrativo",
+      "grupo": "evaluable",
+      "legal_basis": "CPACA ",
+      "ref": [
+        "cpaca|||"
+      ],
+      "ref_en_corpus": [
+        "cpaca||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "cpaca",
+        "ley_1395_2010",
+        "ley_1437_2011",
+        "ley_1437_2011-2"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-217_2017#cuerpo#p2",
+            "ley_678_2001#art_5#p1",
+            "sentencia_su-277_2025#cuerpo#p91",
+            "sentencia_su-217_2017#cuerpo#p157",
+            "sentencia_su-217_2017#cuerpo#p1",
+            "ley_2195_2022#art_39#p1",
+            "sentencia_su-217_2017#salvamentos#p3",
+            "sentencia_su-217_2017#cuerpo#p48",
+            "ley_906_2004#art_392#p1",
+            "codigo_procedimiento_penal#art_392#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 247,
+      "formato": "open_ended",
+      "area": "Derecho administrativo",
+      "grupo": "evaluable",
+      "legal_basis": "ley 472 de 1998 ",
+      "ref": [
+        "ley|472|1998|"
+      ],
+      "ref_en_corpus": [
+        "ley|472|1998"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "ley_472_1998"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 0.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "constitucion#art_2#p1",
+            "sentencia_su-11_2020#salvamentos#p9",
+            "decreto_2106_2019#preambulo#p1",
+            "decreto_2150_1995#preambulo#p2",
+            "ley_1151_2007#art_6#p2",
+            "sentencia_su-425_2025#salvamentos#p5",
+            "sentencia_t-622_2016#cuerpo#p130",
+            "sentencia_su-277_2025#cuerpo#p104",
+            "sentencia_c-590_2005#cuerpo#p8",
+            "sentencia_t-622_2016#cuerpo#p52"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 253,
+      "formato": "open_ended",
+      "area": "Derecho laboral",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia SL3385-2022.\nLey 1562 de 2012.  \nartículo 56 y 57 del CST.  ",
+      "ref": [
+        "codigo_sustantivo_trabajo|||56",
+        "codigo_sustantivo_trabajo|||57",
+        "jurisprudencia|SL-3385|2022|",
+        "ley|1562|2012|56",
+        "ley|1562|2012|57"
+      ],
+      "ref_en_corpus": [
+        "codigo_sustantivo_trabajo||",
+        "jurisprudencia|SL-3385|2022",
+        "ley|1562|2012"
+      ],
+      "n_chunks_relevantes": 9,
+      "docs_relevantes": [
+        "codigo_procedimental_laboral",
+        "codigo_sustantivo_trabajo",
+        "ley_142_1994",
+        "ley_1562_2012",
+        "sentencia_sl_3385_2022"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 14,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.25,
+          "top10": [
+            "ley_1562_2012#art_7#p2",
+            "sentencia_sl_3385_2022#cuerpo#p17",
+            "ley_1562_2012#art_5#p1",
+            "decreto_1295_1994#art_5#p1",
+            "decreto_1295_1994#art_2#p1",
+            "codigo_sustantivo_trabajo#art_219#p1",
+            "codigo_civil#art_2254#p1",
+            "ley_100_1993#art_167#p1",
+            "ley_100_1993#art_254#p1",
+            "ley_1562_2012#art_1#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.2222222222222222,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.6,
+            "recall@50": 0.6,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 272,
+      "formato": "open_ended",
+      "area": "Derecho comercial y sociedades",
+      "grupo": "evaluable",
+      "legal_basis": "Ley 1116 de 2006 y jurisprudencia de la superintendencia de sociedades en especial el auto auto No. 2025-01-730337",
+      "ref": [
+        "ley|1116|2006|"
+      ],
+      "ref_en_corpus": [
+        "ley|1116|2006"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "decreto_560_2020",
+        "decreto_772_2020",
+        "ley_1116_2006",
+        "ley_2437_2024"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1116_2006#art_50#p2",
+            "ley_1508_2012#art_24#p1",
+            "ley_2010_2019#art_149#p1",
+            "ley_1537_2012#art_20#p2",
+            "ley_1258_2008#art_12#p1",
+            "ley_223_1995#art_81#p2",
+            "ley_80_1993#art_32#p4",
+            "sentencia_c-145_2018#cuerpo#p76",
+            "estatuto_organico_sistema_financiero#art_283#p3",
+            "estatuto_tributario#art_102#p4"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.25,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 513,
+      "formato": "open_ended",
+      "area": "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+      "grupo": "sin_citas",
+      "legal_basis": "https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_ip_bog_12/wipo_ip_bog_12_ref_u14b_aleman.pdf ",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1450_2011#art_248#p1",
+            "decreto_2106_2019#art_82#p1",
+            "ley_1676_2013#art_70#p1",
+            "estatuto_tributario#art_444#p1",
+            "ley_178_1994#art_4#p1",
+            "estatuto_consumidor#art_5#p1",
+            "decreto_356_1994#art_84#p1",
+            "codigo_general_proceso#art_52#p1",
+            "ley_2452_2025#art_36#p1",
+            "estatuto_consumidor#art_52#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 679,
+      "formato": "open_ended",
+      "area": "Derecho constitucional",
+      "grupo": "evaluable",
+      "legal_basis": " Ley 1581 de 2012",
+      "ref": [
+        "ley|1581|2012|"
+      ],
+      "ref_en_corpus": [
+        "ley|1581|2012"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "ley_1581_2012"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 6,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-760_2008#cuerpo#p95",
+            "sentencia_t-760_2008#cuerpo#p260",
+            "sentencia_t-445_2024#cuerpo#p22",
+            "sentencia_t-760_2008#cuerpo#p31",
+            "sentencia_t-760_2008#cuerpo#p162",
+            "sentencia_t-760_2008#cuerpo#p198",
+            "sentencia_t-256_2025#resuelve#p125",
+            "sentencia_t-445_2024#salvamentos#p33",
+            "sentencia_t-26_2025#cuerpo#p57",
+            "sentencia_t-925_2014#cuerpo#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.16666666666666666,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 24,
+      "formato": "semi_open",
+      "area": "Derecho civil",
+      "grupo": "sin_citas",
+      "legal_basis": null,
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_comercio#art_1045#p1",
+            "sentencia_sc_425_2024#cuerpo#p13",
+            "codigo_sustantivo_trabajo#art_23#p1",
+            "codigo_comercio#art_845#p1",
+            "sentencia_c-591_2005#cuerpo#p15",
+            "codigo_civil#art_1501#p1",
+            "sentencia_c-591_2005#cuerpo#p215",
+            "sentencia_su-214_2016#cuerpo#p41",
+            "codigo_comercio#art_898#p1",
+            "decreto_960_1970#art_15#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 79,
+      "formato": "semi_open",
+      "area": "Derecho laboral",
+      "grupo": "evaluable",
+      "legal_basis": "Ley 1010 de 2006 ",
+      "ref": [
+        "ley|1010|2006|"
+      ],
+      "ref_en_corpus": [
+        "ley|1010|2006"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "ley_1010_2006"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-262_2025#cuerpo#p88",
+            "ley_1010_2006#art_9#p1",
+            "sentencia_t-262_2025#cuerpo#p53",
+            "sentencia_t-262_2025#cuerpo#p57",
+            "sentencia_sc_3085_2024#cuerpo#p62",
+            "sentencia_t-262_2025#cuerpo#p82",
+            "sentencia_t-262_2025#cuerpo#p2",
+            "sentencia_t-262_2025#cuerpo#p69",
+            "sentencia_t-414_1992#cuerpo#p16",
+            "ley_1010_2006#art_14#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 140,
+      "formato": "semi_open",
+      "area": "Derecho comercial y sociedades",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia C 145 de 2018",
+      "ref": [
+        "jurisprudencia|C-145|2018|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|C-145|2018"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_c-145_2018"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-145_2018#cuerpo#p77",
+            "sentencia_c-145_2018#cuerpo#p54",
+            "sentencia_c-145_2018#cuerpo#p84",
+            "sentencia_c-145_2018#cuerpo#p15",
+            "sentencia_c-145_2018#cuerpo#p53",
+            "sentencia_c-145_2018#cuerpo#p71",
+            "sentencia_c-145_2018#cuerpo#p35",
+            "sentencia_c-145_2018#cuerpo#p38",
+            "ley_1676_2013#art_19#p1",
+            "sentencia_c-145_2018#cuerpo#p9"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 142,
+      "formato": "semi_open",
+      "area": "Derecho tributario",
+      "grupo": "sin_citas",
+      "legal_basis": "Sentencia de unificación 2020CE-SUJ-4-005 del 26 de noviembre de 2020 con expediente 21329.",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "estatuto_tributario#art_85#p1",
+            "estatuto_tributario#art_298-6#p1",
+            "ley_1739_2014#art_7#p1",
+            "consejo_estado_ce_suj_4_005_2020#preambulo#p2",
+            "estatuto_tributario-2#art_102#p2",
+            "ley_2010_2019#art_48#p1",
+            "consejo_estado_ce_suj_4_005_2020#preambulo#p24",
+            "ley_863_2003#art_17#p4",
+            "consejo_estado_ce_suj_4_005_2020#preambulo#p25",
+            "ley_1819_2016#art_59#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 168,
+      "formato": "semi_open",
+      "area": "Derecho civil",
+      "grupo": "sin_citas",
+      "legal_basis": "Sentencia del 18 de julio de 2017, de la Sala Civil de la Corte Suprema de Justicia",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1946#p1",
+            "codigo_civil#art_1947#p1",
+            "corte_suprema_sin_radicado_sc_2017_07_18_2017#preambulo#p30",
+            "sentencia_sc_3674_2021#cuerpo#p221",
+            "corte_suprema_sin_radicado_sc_2017_07_18_2017#preambulo#p19",
+            "codigo_civil#art_1892#p1",
+            "codigo_civil#art_1949#p1",
+            "codigo_civil#art_1954#p1",
+            "corte_suprema_sin_radicado_sc_2017_07_18_2017#preambulo#p25",
+            "ley_1523_2012#art_74#p3"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 190,
+      "formato": "semi_open",
+      "area": "Derecho constitucional",
+      "grupo": "sin_citas",
+      "legal_basis": "sentencia t-256",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-256_2025#cuerpo#p1",
+            "sentencia_t-256_2025#resuelve#p107",
+            "sentencia_t-256_2025#resuelve#p87",
+            "sentencia_t-256_2025#resuelve#p80",
+            "sentencia_t-256_2025#cuerpo#p5",
+            "sentencia_t-256_2025#resuelve#p120",
+            "sentencia_t-256_2025#resuelve#p135",
+            "sentencia_t-256_2025#resuelve#p6",
+            "sentencia_t-256_2025#cuerpo#p11",
+            "sentencia_t-256_2025#resuelve#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 218,
+      "formato": "semi_open",
+      "area": "Derecho administrativo",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 311 y 313 de la Constitución Política",
+      "ref": [
+        "constitucion|||311",
+        "constitucion|||313"
+      ],
+      "ref_en_corpus": [
+        "constitucion||"
+      ],
+      "n_chunks_relevantes": 4,
+      "docs_relevantes": [
+        "codigo_civil",
+        "codigo_comercio",
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "constitucion",
+        "decreto_1088_1993",
+        "decreto_1818_1998",
+        "decreto_19_2012",
+        "decreto_2150_1995",
+        "decreto_356_1994",
+        "decreto_960_1970",
+        "estatuto_organico_sistema_financiero",
+        "estatuto_tributario",
+        "estatuto_tributario-2",
+        "ley_1014_2006",
+        "ley_115_1994",
+        "ley_1258_2008",
+        "ley_1328_2009",
+        "ley_141_1994",
+        "ley_1448_2011",
+        "ley_1537_2012",
+        "ley_1564_2012",
+        "ley_1676_2013",
+        "ley_1708_2014",
+        "ley_1753_2015",
+        "ley_1955_2019",
+        "ley_2069_2020",
+        "ley_2381_2024",
+        "ley_270_1996",
+        "ley_300_1996",
+        "ley_387_1997",
+        "ley_43_1993",
+        "ley_489_1998",
+        "ley_550_1999",
+        "ley_5_1992",
+        "ley_600_2000",
+        "ley_675_2001",
+        "ley_769_2002"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 18,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.5,
+          "top10": [
+            "ley_2294_2023#art_52#p2",
+            "ley_2294_2023#art_36#p3",
+            "ley_2294_2023#art_270#p1",
+            "ley_2169_2021#art_10#p2",
+            "ley_2294_2023#art_31#p1",
+            "ley_2294_2023#art_52#p1",
+            "ley_1955_2019#art_156#p2",
+            "ley_2294_2023#art_244#p2",
+            "ley_1151_2007#art_6#p65",
+            "ley_2294_2023#art_32#p3"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.25,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.07894736842105263,
+            "recall@50": 0.13157894736842105,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 239,
+      "formato": "semi_open",
+      "area": "Derecho comercial y sociedades",
+      "grupo": "evaluable",
+      "legal_basis": "Artículos 1324 y 1325 del Código de Comercio. Así como en los principios de autonomía de la voluntad privada (Artículos 16, 822 y 871).",
+      "ref": [
+        "codigo_comercio|||1324",
+        "codigo_comercio|||1325"
+      ],
+      "ref_en_corpus": [
+        "codigo_comercio||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_comercio",
+        "ley_1231_2008"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.5,
+          "cobertura_articulo@50": 0.5,
+          "top10": [
+            "sentencia_sc_18392_2017#cuerpo#p38",
+            "sentencia_sc_18392_2017#cuerpo#p4",
+            "sentencia_sc_18392_2017#cuerpo#p23",
+            "sentencia_sc_18392_2017#cuerpo#p2",
+            "sentencia_sc_18392_2017#cuerpo#p1",
+            "sentencia_sc_18392_2017#cuerpo#p27",
+            "sentencia_su-455_2020#salvamentos#p15",
+            "sentencia_sc_18392_2017#cuerpo#p28",
+            "sentencia_sc_18392_2017#cuerpo#p3",
+            "sentencia_su-27_2021#cuerpo#p4"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 280,
+      "formato": "semi_open",
+      "area": "Derecho penal",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 64 del código penal colombiano",
+      "ref": [
+        "codigo_penal|||64"
+      ],
+      "ref_en_corpus": [
+        "codigo_penal||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_penal",
+        "ley_1032_2006",
+        "ley_1142_2007",
+        "ley_1220_2008",
+        "ley_1482_2011",
+        "ley_190_1995",
+        "ley_2197_2022",
+        "ley_599_2000",
+        "ley_679_2001"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_2098_2021#art_5#p1",
+            "codigo_penal#art_64#p1",
+            "ley_890_2004#art_5#p1",
+            "codigo_procedimiento_penal#art_471#p1",
+            "ley_906_2004#art_471#p1",
+            "ley_599_2000#art_64#p1",
+            "ley_2477_2025#art_12#p1",
+            "ley_1709_2014#art_30#p1",
+            "ley_1121_2006#art_26#p1",
+            "codigo_procedimiento_penal#art_474#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.2222222222222222,
+            "recall@50": 0.3333333333333333,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 442,
+      "formato": "semi_open",
+      "area": "Derecho laboral",
+      "grupo": "evaluable",
+      "legal_basis": "El Código sustantivo del trabajo ",
+      "ref": [
+        "codigo_sustantivo_trabajo|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_sustantivo_trabajo||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_procedimental_laboral",
+        "codigo_sustantivo_trabajo",
+        "ley_142_1994"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_sustantivo_trabajo#art_60#p1",
+            "codigo_sustantivo_trabajo#art_343#p1",
+            "codigo_sustantivo_trabajo#art_65#p2",
+            "codigo_sustantivo_trabajo#art_136#p1",
+            "sentencia_t-325_2025#cuerpo#p52",
+            "codigo_sustantivo_trabajo#art_62#p1",
+            "codigo_sustantivo_trabajo#art_239#p1",
+            "ley_789_2002#art_29#p2",
+            "codigo_sustantivo_trabajo#art_258#p1",
+            "codigo_sustantivo_trabajo#art_76#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.3333333333333333,
+            "recall@50": 0.3333333333333333,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 453,
+      "formato": "semi_open",
+      "area": "Derecho constitucional",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia C-468 de 2024, sentencia C-332 de 2025 y SU-016 de 2020",
+      "ref": [
+        "jurisprudencia|C-332|2025|",
+        "jurisprudencia|C-468|2024|",
+        "jurisprudencia|SU-16|2020|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|C-332|2025",
+        "jurisprudencia|C-468|2024",
+        "jurisprudencia|SU-16|2020"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_c-332_2025",
+        "sentencia_c-468_2024",
+        "sentencia_su-16_2020"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-16_2020#cuerpo#p39",
+            "sentencia_c-332_2025#salvamentos#p22",
+            "sentencia_c-332_2025#cuerpo#p12",
+            "sentencia_c-468_2024#cuerpo#p28",
+            "sentencia_c-332_2025#cuerpo#p71",
+            "sentencia_c-468_2024#cuerpo#p12",
+            "sentencia_c-332_2025#cuerpo#p39",
+            "sentencia_c-468_2024#cuerpo#p49",
+            "sentencia_su-16_2020#salvamentos#p36",
+            "sentencia_c-332_2025#salvamentos#p28"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 472,
+      "formato": "semi_open",
+      "area": "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+      "grupo": "evaluable",
+      "legal_basis": "Ley 1340 de 2009",
+      "ref": [
+        "ley|1340|2009|"
+      ],
+      "ref_en_corpus": [
+        "ley|1340|2009"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "ley_1340_2009"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-228_2010#cuerpo#p98",
+            "sentencia_c-228_2010#cuerpo#p36",
+            "sentencia_c-228_2010#cuerpo#p66",
+            "ley_2010_2019#art_152#p1",
+            "sentencia_c-228_2010#cuerpo#p69",
+            "ley_1340_2009#art_9#p1",
+            "sentencia_c-228_2010#cuerpo#p31",
+            "sentencia_c-228_2010#cuerpo#p59",
+            "sentencia_c-228_2010#cuerpo#p18",
+            "sentencia_c-228_2010#cuerpo#p64"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 490,
+      "formato": "semi_open",
+      "area": "Derecho de familia",
+      "grupo": "evaluable",
+      "legal_basis": "1796 del Código Civil. ",
+      "ref": [
+        "codigo_civil|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_civil||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_civil"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 6,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_procedimiento_civil#art_600#p2",
+            "sentencia_sc_3085_2024#cuerpo#p45",
+            "codigo_general_proceso#art_523#p1",
+            "ley_1564_2012#art_523#p1",
+            "codigo_general_proceso#art_501#p2",
+            "ley_1564_2012#art_501#p2",
+            "estatuto_tributario#art_8#p1",
+            "codigo_civil#art_1774#p1",
+            "sentencia_sc_3085_2024#cuerpo#p46",
+            "codigo_civil#art_1820#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.16666666666666666,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 563,
+      "formato": "semi_open",
+      "area": "Derecho administrativo",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia SU-277/25",
+      "ref": [
+        "jurisprudencia|SU-277|2025|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|SU-277|2025"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_su-277_2025"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-277_2025#cuerpo#p110",
+            "sentencia_su-277_2025#cuerpo#p120",
+            "sentencia_su-277_2025#cuerpo#p8",
+            "sentencia_su-277_2025#cuerpo#p99",
+            "sentencia_su-277_2025#cuerpo#p20",
+            "sentencia_su-277_2025#cuerpo#p97",
+            "sentencia_su-277_2025#cuerpo#p4",
+            "sentencia_su-277_2025#cuerpo#p98",
+            "sentencia_su-277_2025#cuerpo#p123",
+            "sentencia_su-277_2025#cuerpo#p6"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 589,
+      "formato": "semi_open",
+      "area": "Derecho procesal",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 60 del Código General del Proceso. ",
+      "ref": [
+        "codigo_general_proceso|||60"
+      ],
+      "ref_en_corpus": [
+        "codigo_general_proceso||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "ley_1395_2010",
+        "ley_1564_2012"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "codigo_general_proceso#art_94#p1",
+            "ley_1564_2012#art_94#p1",
+            "ley_2452_2025#art_318#p1",
+            "ley_1564_2012#art_372#p3",
+            "codigo_general_proceso#art_372#p3",
+            "codigo_procedimiento_civil#art_83#p2",
+            "ley_2220_2022#art_93#p1",
+            "ley_1437_2011-2#art_224#p1",
+            "cpaca#art_224#p1",
+            "codigo_general_proceso#art_61#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 0.75,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 661,
+      "formato": "semi_open",
+      "area": "Derecho tributario",
+      "grupo": "evaluable",
+      "legal_basis": "Artículos 29 y 338 de la Constitución Política, sentencia C-89112 de la Corte Constitucional. ",
+      "ref": [
+        "constitucion|||29",
+        "constitucion|||338"
+      ],
+      "ref_en_corpus": [
+        "constitucion||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_civil",
+        "codigo_comercio",
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "constitucion",
+        "decreto_1088_1993",
+        "decreto_1818_1998",
+        "decreto_19_2012",
+        "decreto_2150_1995",
+        "decreto_356_1994",
+        "decreto_960_1970",
+        "estatuto_organico_sistema_financiero",
+        "estatuto_tributario",
+        "estatuto_tributario-2",
+        "ley_1014_2006",
+        "ley_115_1994",
+        "ley_1258_2008",
+        "ley_1328_2009",
+        "ley_141_1994",
+        "ley_1448_2011",
+        "ley_1537_2012",
+        "ley_1564_2012",
+        "ley_1676_2013",
+        "ley_1708_2014",
+        "ley_1753_2015",
+        "ley_1955_2019",
+        "ley_2069_2020",
+        "ley_2381_2024",
+        "ley_270_1996",
+        "ley_300_1996",
+        "ley_387_1997",
+        "ley_43_1993",
+        "ley_489_1998",
+        "ley_550_1999",
+        "ley_5_1992",
+        "ley_600_2000",
+        "ley_675_2001",
+        "ley_769_2002"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.5,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-94_2021#cuerpo#p1",
+            "sentencia_c-389_2023#cuerpo#p2",
+            "sentencia_c-891_2012#cuerpo#p1",
+            "sentencia_c-891_2012#cuerpo#p4",
+            "sentencia_c-389_2023#cuerpo#p44",
+            "sentencia_c-389_2023#cuerpo#p42",
+            "sentencia_c-891_2012#cuerpo#p25",
+            "sentencia_c-389_2023#cuerpo#p46",
+            "sentencia_c-94_2021#cuerpo#p36",
+            "sentencia_c-891_2012#cuerpo#p39"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 674,
+      "formato": "semi_open",
+      "area": "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+      "grupo": "evaluable",
+      "legal_basis": "Artículos 3, 23 y 24 del Estatuto del Consumidor",
+      "ref": [
+        "estatuto_consumidor|||23",
+        "estatuto_consumidor|||24",
+        "estatuto_consumidor|||3"
+      ],
+      "ref_en_corpus": [
+        "estatuto_consumidor||"
+      ],
+      "n_chunks_relevantes": 4,
+      "docs_relevantes": [
+        "estatuto_consumidor"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 12,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "ley_812_2003#art_23#p1",
+            "ley_2161_2021#art_7#p1",
+            "estatuto_organico_sistema_financiero#art_205#p1",
+            "estatuto_organico_sistema_financiero#art_39#p2",
+            "ley_510_1999#art_31#p2",
+            "estatuto_organico_sistema_financiero#art_319#p3",
+            "estatuto_organico_sistema_financiero#art_183#p1",
+            "ley_2161_2021#art_1#p1",
+            "estatuto_organico_sistema_financiero#art_198#p1",
+            "codigo_comercio#art_1047#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 697,
+      "formato": "semi_open",
+      "area": "Derecho comercial y sociedades",
+      "grupo": "sin_citas",
+      "legal_basis": "caso francés de Dow Chemical",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-259_2015#cuerpo#p28",
+            "sentencia_c-259_2015#cuerpo#p5",
+            "sentencia_ce_s3_26251_2014#cuerpo#p96",
+            "sentencia_c-259_2015#cuerpo#p71",
+            "sentencia_c-591_2005#cuerpo#p197",
+            "sentencia_sp_1167_2022#cuerpo#p20",
+            "sentencia_c-259_2015#cuerpo#p104",
+            "sentencia_c-259_2015#cuerpo#p32",
+            "sentencia_c-15_2018#cuerpo#p57",
+            "sentencia_c-259_2015#cuerpo#p76"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 857,
+      "formato": "semi_open",
+      "area": "Derecho administrativo",
+      "grupo": "sin_citas",
+      "legal_basis": "Doctrina. ",
+      "ref": [],
+      "ref_en_corpus": [],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_2430_2024#art_85#p4",
+            "ley_270_1996#art_85#p4",
+            "sentencia_su-431_2015#cuerpo#p83",
+            "sentencia_su-296_2023#resuelve#p4",
+            "sentencia_su-296_2023#cuerpo#p15",
+            "ley_2430_2024#art_98#p1",
+            "ley_2169_2021#art_15#p3",
+            "constitucion#art_113#p1",
+            "sentencia_su-296_2023#resuelve#p5",
+            "ley_270_1996#art_98#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        }
+      }
+    },
+    {
+      "id": 865,
+      "formato": "semi_open",
+      "area": "Derecho de familia",
+      "grupo": "evaluable",
+      "legal_basis": "artículo 113 del Código Civil",
+      "ref": [
+        "codigo_civil|||113"
+      ],
+      "ref_en_corpus": [
+        "codigo_civil||"
+      ],
+      "n_chunks_relevantes": 1,
+      "docs_relevantes": [
+        "codigo_civil"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 5,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-577_2011#cuerpo#p35",
+            "sentencia_c-577_2011#cuerpo#p189",
+            "sentencia_c-577_2011#cuerpo#p197",
+            "sentencia_c-577_2011#cuerpo#p129",
+            "codigo_civil#art_113#p1",
+            "sentencia_c-577_2011#cuerpo#p39",
+            "sentencia_c-577_2011#cuerpo#p156",
+            "sentencia_c-577_2011#cuerpo#p47",
+            "sentencia_c-577_2011#cuerpo#p38",
+            "sentencia_c-577_2011#cuerpo#p166"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 879,
+      "formato": "semi_open",
+      "area": "Derecho procesal",
+      "grupo": "evaluable",
+      "legal_basis": "Código General del Proceso. ",
+      "ref": [
+        "codigo_general_proceso|||"
+      ],
+      "ref_en_corpus": [
+        "codigo_general_proceso||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "ley_1395_2010",
+        "ley_1564_2012"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1564_2012#art_381#p1",
+            "codigo_general_proceso#art_381#p1",
+            "decreto_1333_1986#art_14#p1",
+            "ley_2452_2025#art_288#p1",
+            "ley_1564_2012#art_398#p3",
+            "ley_1564_2012#art_432#p2",
+            "estatuto_tributario#art_520#p1",
+            "ley_1564_2012#art_384#p2",
+            "codigo_general_proceso#art_432#p2",
+            "codigo_general_proceso#art_384#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 919,
+      "formato": "semi_open",
+      "area": "Derecho civil",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia SU-455 de 2020 de la Corte Constitucional. ",
+      "ref": [
+        "jurisprudencia|SU-455|2020|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|SU-455|2020"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_su-455_2020"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-455_2020#cuerpo#p1",
+            "sentencia_su-455_2020#salvamentos#p21",
+            "sentencia_su-455_2020#cuerpo#p62",
+            "sentencia_su-455_2020#cuerpo#p31",
+            "sentencia_su-455_2020#cuerpo#p3",
+            "sentencia_su-455_2020#cuerpo#p72",
+            "sentencia_su-455_2020#cuerpo#p80",
+            "sentencia_su-455_2020#cuerpo#p60",
+            "sentencia_su-455_2020#cuerpo#p35",
+            "sentencia_su-455_2020#cuerpo#p39"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 946,
+      "formato": "semi_open",
+      "area": "Derecho de familia",
+      "grupo": "evaluable",
+      "legal_basis": " Sentencia C-039 de 2025 de la Corte Constitucional",
+      "ref": [
+        "jurisprudencia|C-39|2025|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|C-39|2025"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_c-39_2025"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-39_2025#salvamentos#p22",
+            "sentencia_c-39_2025#cuerpo#p6",
+            "sentencia_c-39_2025#resuelve#p21",
+            "sentencia_c-39_2025#resuelve#p43",
+            "sentencia_c-39_2025#resuelve#p12",
+            "sentencia_c-39_2025#cuerpo#p11",
+            "sentencia_c-39_2025#cuerpo#p1",
+            "sentencia_c-39_2025#resuelve#p60",
+            "sentencia_c-39_2025#cuerpo#p10",
+            "sentencia_c-183_2025#cuerpo#p10"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 960,
+      "formato": "semi_open",
+      "area": "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 45 del Decreto 2153 de 1992",
+      "ref": [
+        "decreto|2153|1992|45"
+      ],
+      "ref_en_corpus": [
+        "decreto|2153|1992"
+      ],
+      "n_chunks_relevantes": 1,
+      "docs_relevantes": [
+        "decreto_2153_1992"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 5,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-228_2010#cuerpo#p52",
+            "sentencia_c-32_2017#cuerpo#p60",
+            "sentencia_c-228_2010#cuerpo#p54",
+            "sentencia_c-228_2010#cuerpo#p9",
+            "sentencia_c-345_2017#cuerpo#p72",
+            "ley_1122_2007#art_15#p1",
+            "decreto_2153_1992#art_50#p1",
+            "sentencia_c-228_2010#cuerpo#p8",
+            "sentencia_c-32_2017#cuerpo#p81",
+            "sentencia_c-228_2010#cuerpo#p63"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 991,
+      "formato": "semi_open",
+      "area": "Derecho tributario",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia C-891 del 2012 de la Corte Constitucional",
+      "ref": [
+        "jurisprudencia|C-891|2012|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|C-891|2012"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_c-891_2012"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-891_2012#cuerpo#p50",
+            "sentencia_c-891_2012#cuerpo#p1",
+            "sentencia_c-891_2012#cuerpo#p38",
+            "sentencia_c-891_2012#cuerpo#p5",
+            "sentencia_c-891_2012#cuerpo#p25",
+            "sentencia_c-891_2012#cuerpo#p43",
+            "sentencia_c-891_2012#cuerpo#p28",
+            "sentencia_c-891_2012#cuerpo#p7",
+            "sentencia_c-891_2012#cuerpo#p9",
+            "sentencia_c-891_2012#cuerpo#p11"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 1005,
+      "formato": "semi_open",
+      "area": "Derecho constitucional",
+      "grupo": "evaluable",
+      "legal_basis": "Constitución Política. ",
+      "ref": [
+        "constitucion|||"
+      ],
+      "ref_en_corpus": [
+        "constitucion||"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "codigo_civil",
+        "codigo_comercio",
+        "codigo_general_proceso",
+        "codigo_procedimiento_civil",
+        "constitucion",
+        "decreto_1088_1993",
+        "decreto_1818_1998",
+        "decreto_19_2012",
+        "decreto_2150_1995",
+        "decreto_356_1994",
+        "decreto_960_1970",
+        "estatuto_organico_sistema_financiero",
+        "estatuto_tributario",
+        "estatuto_tributario-2",
+        "ley_1014_2006",
+        "ley_115_1994",
+        "ley_1258_2008",
+        "ley_1328_2009",
+        "ley_141_1994",
+        "ley_1448_2011",
+        "ley_1537_2012",
+        "ley_1564_2012",
+        "ley_1676_2013",
+        "ley_1708_2014",
+        "ley_1753_2015",
+        "ley_1955_2019",
+        "ley_2069_2020",
+        "ley_2381_2024",
+        "ley_270_1996",
+        "ley_300_1996",
+        "ley_387_1997",
+        "ley_43_1993",
+        "ley_489_1998",
+        "ley_550_1999",
+        "ley_5_1992",
+        "ley_600_2000",
+        "ley_675_2001",
+        "ley_769_2002"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 10,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "decreto_2651_1991#art_60#p1",
+            "decreto_111_1996#art_80#p1",
+            "ley_2155_2021#art_63#p1",
+            "ley_179_1994#art_35#p1",
+            "decreto_111_1996#art_82#p1",
+            "codigo_disciplinario#art_57#p1",
+            "ley_181_1995#art_87#p1",
+            "decreto_1333_1986#art_289#p1",
+            "decreto_1421_1993#art_138#p1",
+            "ley_179_1994#art_34#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.02631578947368421,
+            "recall@50": 0.21052631578947367,
+            "mrr@10": 0.1,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 1015,
+      "formato": "semi_open",
+      "area": "Derecho penal",
+      "grupo": "evaluable",
+      "legal_basis": "Sentencia C-355 de 2006",
+      "ref": [
+        "jurisprudencia|C-355|2006|"
+      ],
+      "ref_en_corpus": [
+        "jurisprudencia|C-355|2006"
+      ],
+      "n_chunks_relevantes": 0,
+      "docs_relevantes": [
+        "sentencia_c-355_2006"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-55_2022#cuerpo#p17",
+            "sentencia_c-55_2022#cuerpo#p140",
+            "sentencia_c-55_2022#cuerpo#p54",
+            "sentencia_c-55_2022#cuerpo#p56",
+            "sentencia_c-55_2022#cuerpo#p115",
+            "sentencia_c-355_2006#cuerpo#p112",
+            "sentencia_c-55_2022#cuerpo#p130",
+            "sentencia_c-55_2022#cuerpo#p104",
+            "sentencia_c-55_2022#cuerpo#p123",
+            "sentencia_c-55_2022#cuerpo#p31"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 1065,
+      "formato": "semi_open",
+      "area": "Derecho penal",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 20 del Código Penal. ",
+      "ref": [
+        "codigo_penal|||20"
+      ],
+      "ref_en_corpus": [
+        "codigo_penal||"
+      ],
+      "n_chunks_relevantes": 2,
+      "docs_relevantes": [
+        "codigo_penal",
+        "ley_1032_2006",
+        "ley_1142_2007",
+        "ley_1220_2008",
+        "ley_1482_2011",
+        "ley_190_1995",
+        "ley_2197_2022",
+        "ley_599_2000",
+        "ley_679_2001"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 16,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "sentencia_c-80_2025#cuerpo#p61",
+            "ley_80_1993#art_3#p1",
+            "sentencia_c-15_2018#cuerpo#p84",
+            "ley_1453_2011#art_72#p2",
+            "acto_legislativo_2_2015#art_4#p2",
+            "decreto_71_2020#art_130#p1",
+            "sentencia_c-15_2018#cuerpo#p61",
+            "constitucion#art_134#p2",
+            "ley_80_1993#art_32#p3",
+            "ley_1778_2016#art_34#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.2222222222222222,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        }
+      }
+    },
+    {
+      "id": 1073,
+      "formato": "semi_open",
+      "area": "Derecho laboral",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 53 de la Constitución Política. \nArtículos 23 y 34 del Código Sustantivo del Trabajo. ",
+      "ref": [
+        "codigo_sustantivo_trabajo|||23",
+        "codigo_sustantivo_trabajo|||34",
+        "constitucion|||23",
+        "constitucion|||34",
+        "constitucion|||53"
+      ],
+      "ref_en_corpus": [
+        "codigo_sustantivo_trabajo||",
+        "constitucion||"
+      ],
+      "n_chunks_relevantes": 5,
+      "docs_relevantes": [
+        "codigo_civil",
+        "codigo_comercio",
+        "codigo_general_proceso",
+        "codigo_procedimental_laboral",
+        "codigo_procedimiento_civil",
+        "codigo_sustantivo_trabajo",
+        "constitucion",
+        "decreto_1088_1993",
+        "decreto_1818_1998",
+        "decreto_19_2012",
+        "decreto_2150_1995",
+        "decreto_356_1994",
+        "decreto_960_1970",
+        "estatuto_organico_sistema_financiero",
+        "estatuto_tributario",
+        "estatuto_tributario-2",
+        "ley_1014_2006",
+        "ley_115_1994",
+        "ley_1258_2008",
+        "ley_1328_2009",
+        "ley_141_1994",
+        "ley_142_1994",
+        "ley_1448_2011",
+        "ley_1537_2012",
+        "ley_1564_2012",
+        "ley_1676_2013",
+        "ley_1708_2014",
+        "ley_1753_2015",
+        "ley_1955_2019",
+        "ley_2069_2020",
+        "ley_2381_2024",
+        "ley_270_1996",
+        "ley_300_1996",
+        "ley_387_1997",
+        "ley_43_1993",
+        "ley_489_1998",
+        "ley_550_1999",
+        "ley_5_1992",
+        "ley_600_2000",
+        "ley_675_2001",
+        "ley_769_2002"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "ley_789_2002#art_25#p1",
+            "ley_2466_2025#art_10#p1",
+            "codigo_sustantivo_trabajo#art_160#p1",
+            "sentencia_c-201_2002#salvamentos#p21",
+            "sentencia_t-153_1998#cuerpo#p42",
+            "sentencia_c-468_2024#salvamentos#p12",
+            "sentencia_c-201_2002#salvamentos#p22",
+            "sentencia_c-964_2003#resuelve#p2",
+            "decreto_772_2020#preambulo#p8",
+            "sentencia_su-111_2025#cuerpo#p95"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.024390243902439025,
+            "recall@50": 0.07317073170731707,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    },
+    {
+      "id": 1089,
+      "formato": "semi_open",
+      "area": "Derecho procesal",
+      "grupo": "evaluable",
+      "legal_basis": "Artículo 246 del CPACA. ",
+      "ref": [
+        "cpaca|||246"
+      ],
+      "ref_en_corpus": [
+        "cpaca||"
+      ],
+      "n_chunks_relevantes": 4,
+      "docs_relevantes": [
+        "cpaca",
+        "ley_1395_2010",
+        "ley_1437_2011",
+        "ley_1437_2011-2"
+      ],
+      "runs": {
+        "bm25": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_2080_2021#art_66#p1",
+            "ley_1437_2011#art_246#p1",
+            "ley_1437_2011#art_244#p1",
+            "codigo_general_proceso#art_331#p1",
+            "cpaca#art_244#p1",
+            "ley_1564_2012#art_331#p1",
+            "ley_2080_2021#art_64#p1",
+            "cpaca#art_246#p2",
+            "codigo_procedimiento_civil#art_363#p1",
+            "ley_1395_2010#art_17#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.5,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        }
+      }
+    }
+  ]
+}

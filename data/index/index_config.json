@@ -1,0 +1,30 @@
+{
+  "creado": "2026-10-01T00:33:18+00:00",
+  "chunks": "data/processed/chunks.parquet",
+  "sha256_chunks": "3d3b4660fb347ef49887dcbcd4750c634cad825a68bb7b75c3a2c885917445f8",
+  "n_chunks": 60329,
+  "n_docs": 472,
+  "n_textos_unicos": 58133,
+  "limite": null,
+  "campo_indexado": "texto (cabecera + cuerpo vigente)",
+  "versiones": {
+    "python": "3.12.14",
+    "faiss-cpu": "1.15.1",
+    "bm25s": "0.3.11",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1"
+  },
+  "lexico": {
+    "libreria": "bm25s",
+    "k1": 1.2,
+    "b": 0.75,
+    "stemmer": null,
+    "vocabulario": 68149,
+    "stopwords": 84,
+    "tokenizador": "src.indice.lexico.tokenizar (sin tildes, minúsculas, conserva números, sentencias como c355)",
+    "segundos": 30.8
+  },
+  "denso": null
+}
