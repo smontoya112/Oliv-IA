@@ -15,6 +15,7 @@ preparar_entorno() {
     module load python 2>/dev/null || true
     export PATH="$HOME/.local/bin:$PATH"
     export PYTHONUNBUFFERED=1            # para poder seguir el .out con tail -f
+    export PYTHONWARNINGS=ignore         # avisos internos de librerías (ranx, numba...) no son errores del job
     OUT="logs/${SLURM_JOB_NAME}_${SLURM_JOB_ID}.out"
     ERR="logs/${SLURM_JOB_NAME}_${SLURM_JOB_ID}.err"
     echo "Job ${SLURM_JOB_NAME} ${SLURM_JOB_ID} en $(hostname) · $(date '+%F %T')"
