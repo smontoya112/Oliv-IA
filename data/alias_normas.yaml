@@ -119,9 +119,10 @@ alias_numero:
   - {tipo: decreto, numero: 624, slug: estatuto_tributario}
   - {tipo: ley, numero: 1480, slug: estatuto_consumidor}
 
-# Codigos derogados que aparecen en data/corpus_manifest.json (descargados y
-# segmentados correctamente: ver doc_id codigo_procedimiento_civil,
-# codigo_contencioso_administrativo y codigo_menor) pero que NO existen en
+# Normas derogadas o poco citadas por numero que aparecen en
+# data/corpus_manifest.json (descargadas y segmentadas correctamente: ver
+# doc_id codigo_procedimiento_civil, codigo_contencioso_administrativo,
+# codigo_menor y estatuto_organico_sistema_financiero) pero que NO existen en
 # scripts/citations.py (CODES/_ALIAS_NUM) ni en data/seed_targets.json. Al no
 # estar en citations.py, estos alias NO los reconoce citations.extract() (el
 # evaluador oficial), solo el matcher adicional de scripts/normalizacion.py
@@ -148,3 +149,8 @@ extensiones:
     numero: 2737
     anio: 1989
     alias: ["codigo del menor", "codigo de menor"]
+  estatuto_organico_sistema_financiero:
+    tipo: decreto
+    numero: 663
+    anio: 1993
+    alias: ["estatuto organico del sistema financiero", "estatuto organico sistema financiero", "eosf"]

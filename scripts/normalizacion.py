@@ -11,11 +11,12 @@ la hackathon, archivo inmodificable). En su lugar:
   (tipo, numero, anio) real de un slug como "codigo_general_proceso" cuando
   citations.py solo devolvio el slug (porque la cita usaba el alias y no el
   numero de ley).
-- Añade un matcher adicional (_extract_extensiones) para codigos derogados
-  presentes en el corpus (data/corpus_manifest.json) que citations.py no
-  conoce en absoluto (Código de Procedimiento Civil, Código Contencioso
-  Administrativo, Código del Menor): ver la seccion "extensiones" de
-  data/alias_normas.yaml. Importante: scripts/evaluate.py solo usa
+- Añade un matcher adicional (_extract_extensiones) para normas derogadas o
+  poco citadas por numero presentes en el corpus (data/corpus_manifest.json)
+  que citations.py no conoce en absoluto (Código de Procedimiento Civil,
+  Código Contencioso Administrativo, Código del Menor, Estatuto Orgánico del
+  Sistema Financiero): ver la seccion "extensiones" de data/alias_normas.yaml.
+  Importante: scripts/evaluate.py solo usa
   citations.extract(), asi que estas citas extra NUNCA las vera el evaluador
   oficial; solo quedan disponibles para quien use extract_canonical() de este
   modulo (expansion de consultas, interfaz, analisis de errores).

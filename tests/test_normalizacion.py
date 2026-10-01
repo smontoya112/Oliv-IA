@@ -65,6 +65,8 @@ def test_extract_canonical_integra_citations_y_normalizacion():
         ("Código de Procedimiento Civil", "decreto_1400_1970"),
         ("Código Contencioso Administrativo", "decreto_1_1984"),
         ("Código del Menor", "decreto_2737_1989"),
+        ("EOSF", "decreto_663_1993"),
+        ("Estatuto Orgánico del Sistema Financiero", "decreto_663_1993"),
     ],
 )
 def test_extract_canonical_reconoce_codigos_derogados_fuera_de_citations(texto, id_esperado):
