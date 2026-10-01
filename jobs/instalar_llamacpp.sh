@@ -30,6 +30,11 @@ module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; EST
 export CUDACXX="$(command -v nvcc)"
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
 echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
+# libllama.so se compila con la libstdc++ del sistema (gcc 8.5, soporta std::filesystem),
+# pero el Python de `uv` trae su propia libstdc++.so.6 empaquetada y más vieja; si el
+# dynamic linker la encuentra primero, falla con "undefined symbol" al importar. Se antepone
+# la del sistema para que sea esa la que se resuelva.
+export LD_LIBRARY_PATH="/usr/lib64:${LD_LIBRARY_PATH:-}"
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "1/3 entorno .venv-gen"

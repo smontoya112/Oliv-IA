@@ -45,6 +45,9 @@ fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8"
     module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; }
+    # misma razón que en jobs/instalar_llamacpp.sh: libllama.so necesita la libstdc++ del
+    # sistema, no la (más vieja) que trae empaquetada el Python de uv.
+    export LD_LIBRARY_PATH="/usr/lib64:${LD_LIBRARY_PATH:-}"
     if ! .venv-gen/bin/python -c "import llama_cpp" 2>/dev/null; then
         echo "ERROR: .venv-gen no tiene llama_cpp: corran primero sbatch jobs/instalar_llamacpp.sh" >&2
         ESTADO=4
