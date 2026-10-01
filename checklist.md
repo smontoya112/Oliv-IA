@@ -37,19 +37,19 @@
 
 ## Fase 5: Indexación (Jueves 1)
 - [x] **Paso 5.1:** Seleccionar e integrar el modelo encoder (`BAAI/bge-m3` o `intfloat/multilingual-e5-large`). → `bge-m3` fijado en `src/indice/encoder.py`.
-- [ ] **Paso 5.2:** Construir el índice denso en FAISS (`faiss.IndexFlatIP`) o Qdrant. → código listo; falta la corrida con GPU en Hypatia (`sbatch jobs/indice.sh`).
+- [x] **Paso 5.2:** Construir el índice denso en FAISS (`faiss.IndexFlatIP`) o Qdrant. → hecho en Hypatia (Quadro RTX 6000, 60.329 vectores, `faiss.index` en `data/index/`).
 - [x] **Paso 5.3:** Construir el índice léxico con `bm25s` (normalizando texto y conservando tokens numéricos).
 - [x] **Paso 5.4:** Crear el script reproducible `python -m src.indice.build` que genere el índice y escriba `index_config.json`.
-- [ ] **Paso 5.5:** Evaluar métricas de recuperación aisladas (Recall@10 y Recall@50) sobre las muestras usando `ranx`. → BM25 medido (`data/index/eval_recuperacion.json`); denso y RRF salen de la corrida en Hypatia.
+- [x] **Paso 5.5:** Evaluar métricas de recuperación aisladas (Recall@10 y Recall@50) sobre las muestras usando `ranx`. → `data/index/eval_recuperacion.json`. Denso: Recall@10 artículo 0,35 / documento 0,64; RRF: Recall@50 documento 0,71; cobertura de cuerpo normativo en el top-50 (RRF) 1,0 (n=40).
 
 ## Fase 6: Recuperación (Jueves 1)
-- [ ] **Paso 6.1:** Implementar la extracción e inclusión directa por metadato de normas explicitadas en la pregunta.
-- [ ] **Paso 6.2:** Configurar la expansión de consultas mediante el diccionario de alias.
-- [ ] **Paso 6.3:** Aplicar filtrado por área con fallback a corpus general según umbral.
-- [ ] **Paso 6.4:** Implementar búsqueda híbrida (BM25 + Denso/Sparse) y fusión con Reciprocal Rank Fusion (RRF, k=60).
-- [ ] **Paso 6.5:** Integrar reranker (`BAAI/bge-reranker-v2-m3`) para filtrar los top 50 a los 10 mejores pasajes.
-- [ ] **Paso 6.6:** Adaptar la recuperación para preguntas cerradas (enunciado + opciones) para recopilar evidencia de descarte.
-- [ ] **Paso 6.7:** Diseñar la construcción del prompt delimitando contexto entre 3.000 y 5.000 tokens ([P1]…[P8]).
+- [ ] **Paso 6.1:** Implementar la extracción e inclusión directa por metadato de normas explicitadas en la pregunta. → código listo (`src/recuperacion/normas_pregunta.py`; solo normas del enunciado); falta validar en Hypatia (`sbatch jobs/recuperar.sh`).
+- [ ] **Paso 6.2:** Configurar la expansión de consultas mediante el diccionario de alias. → código listo (`src/recuperacion/alias.py`); falta validar en Hypatia (`sbatch jobs/recuperar.sh`).
+- [x] **Paso 6.3:** Aplicar filtrado por área con fallback a corpus general según umbral. → código listo (`src/recuperacion/area.py`); calibrado con las ablaciones de `sample_50` (`data/recuperacion/ablaciones.json`): con reranker activo, desactivar el filtro de área dio mejor cobertura (cuerpo@10 0.9375, articulo@10 0.6158) que con el filtro activo (0.925/0.6053), así que `Config.area_modo` queda en `"ninguno"` por defecto (`--area filtro` sigue disponible para reactivarlo).
+- [ ] **Paso 6.4:** Implementar búsqueda híbrida (BM25 + Denso/Sparse) y fusión con Reciprocal Rank Fusion (RRF, k=60). → código listo (`src/recuperacion/hibrido.py` (RRF en `src/indice/fusion.py`)); falta validar en Hypatia (`sbatch jobs/recuperar.sh`).
+- [ ] **Paso 6.5:** Integrar reranker (`BAAI/bge-reranker-v2-m3`) para filtrar los top 50 a los 10 mejores pasajes. → código listo (`src/recuperacion/reranker.py`); falta validar en Hypatia (`sbatch jobs/recuperar.sh`).
+- [ ] **Paso 6.6:** Adaptar la recuperación para preguntas cerradas (enunciado + opciones) para recopilar evidencia de descarte. → código listo (`src/recuperacion/cerradas.py`); falta validar en Hypatia (`sbatch jobs/recuperar.sh`).
+- [ ] **Paso 6.7:** Diseñar la construcción del prompt delimitando contexto entre 3.000 y 5.000 tokens ([P1]…[P8]). → código listo (`src/recuperacion/contexto.py` (lo usa `src/generacion/prompts.py`)); falta validar en Hypatia (`sbatch jobs/recuperar.sh`).
 
 ## Fase 7: Generación (Jueves 1)
 - [ ] **Paso 7.1:** Evaluar modelos decoder (`Qwen3-8B`, `Llama-3.1-8B-Instruct`, `salamandra-7b-instruct`) comparando calidad y tiempo de respuesta.

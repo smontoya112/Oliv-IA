@@ -1,0 +1,65 @@
+Job indice 749118 en nodei-gpu-2 · 2026-09-30 20:36:39
+usando .venv-gpu (torch para CUDA 11.8)
+== 0/4 verificando chunks y GPU
+Quadro RTX 6000, 23040 MiB
+== 1/4 descargando BAAI/bge-m3@5617a9f6 (si ya está en la caché de HF no baja nada)
+modelo en /hpcfs/home/ing_sistemas/s.montoya112/.cache/huggingface/hub/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181
+== 2/4 construyendo índices (BM25 + FAISS)
+chunks: 60329 filas de 472 documentos (data/processed/chunks.parquet)
+Building index from tokens
+BM25: 60329 chunks, vocabulario 68149 (17 s)
+encoder BAAI/bge-m3@5617a9f6 en cuda (fp16=True)
+tokens por chunk: p50 257, p95 433, máx 2641, truncados 331
+  encoding 50/455 lotes (40 s)
+  encoding 100/455 lotes (71 s)
+  encoding 150/455 lotes (100 s)
+  encoding 200/455 lotes (125 s)
+  encoding 250/455 lotes (146 s)
+  encoding 300/455 lotes (161 s)
+  encoding 350/455 lotes (173 s)
+  encoding 400/455 lotes (181 s)
+  encoding 450/455 lotes (187 s)
+  encoding 455/455 lotes (187 s)
+textos únicos codificados: 58133 de 60329 filas
+FAISS IndexFlatIP: 60329 vectores de dim 1024 (273 s)
+n_chunks 60329 | índices en data/index | config data/index/index_config.json
+== 3/4 evaluando recuperación sobre data/sample_50.jsonl
+extrayendo citas de 60329 chunks (se guarda en data/index/citas_chunks.parquet)
+  encoding 2/2 lotes (2 s)
+generated new fontManager
+ítems: 50 | evaluables 40 | fuera del corpus 1 | sin citas extraíbles 9 | con chunk relevante a nivel artículo 19
+RESULTADO bm25   artículo (n=19): Recall@10 0.2588  Recall@50 0.3626  MRR@10 0.1487  Hit@10 0.3158
+RESULTADO bm25   documento (n=40): Recall@10 0.5776  Recall@50 0.64  MRR@10 0.5402  Hit@10 0.8
+RESULTADO bm25   cobertura de citas en el texto: cuerpo@10 0.85  artículo@10 0.4035  cuerpo@50 0.95
+RESULTADO denso  artículo (n=19): Recall@10 0.3465  Recall@50 0.4474  MRR@10 0.3202  Hit@10 0.4211
+RESULTADO denso  documento (n=40): Recall@10 0.6383  Recall@50 0.6525  MRR@10 0.6475  Hit@10 0.925
+RESULTADO denso  cobertura de citas en el texto: cuerpo@10 0.9125  artículo@10 0.5614  cuerpo@50 0.9625
+RESULTADO rrf    artículo (n=19): Recall@10 0.3114  Recall@50 0.4751  MRR@10 0.2895  Hit@10 0.3684
+RESULTADO rrf    documento (n=40): Recall@10 0.5767  Recall@50 0.7125  MRR@10 0.5842  Hit@10 0.85
+RESULTADO rrf    cobertura de citas en el texto: cuerpo@10 0.8875  artículo@10 0.5263  cuerpo@50 1.0
+detalle por ítem en data/index/eval_recuperacion.json
+== 4/4 resumen
+total 357M
+drwxr-xr-x 2 s.montoya112 ing_sistemas    5 Sep 30 20:37 bm25
+-rw-r--r-- 1 s.montoya112 ing_sistemas 1.9M Sep 30 20:37 chunk_ids.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 733K Sep 30 20:43 citas_chunks.parquet
+-rw-r--r-- 1 s.montoya112 ing_sistemas 118M Sep 30 20:42 embeddings.npy
+-rw-r--r-- 1 s.montoya112 ing_sistemas 194K Sep 30 20:44 eval_recuperacion.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 236M Sep 30 20:42 faiss.index
+-rw-r--r-- 1 s.montoya112 ing_sistemas 1.4K Sep 30 20:42 index_config.json
+  chunks: 60329 filas de 472 documentos (data/processed/chunks.parquet)
+  BM25: 60329 chunks, vocabulario 68149 (17 s)
+  textos únicos codificados: 58133 de 60329 filas
+  FAISS IndexFlatIP: 60329 vectores de dim 1024 (273 s)
+  n_chunks 60329 | índices en data/index | config data/index/index_config.json
+  ítems: 50 | evaluables 40 | fuera del corpus 1 | sin citas extraíbles 9 | con chunk relevante a nivel artículo 19
+  RESULTADO bm25   artículo (n=19): Recall@10 0.2588  Recall@50 0.3626  MRR@10 0.1487  Hit@10 0.3158
+  RESULTADO bm25   documento (n=40): Recall@10 0.5776  Recall@50 0.64  MRR@10 0.5402  Hit@10 0.8
+  RESULTADO bm25   cobertura de citas en el texto: cuerpo@10 0.85  artículo@10 0.4035  cuerpo@50 0.95
+  RESULTADO denso  artículo (n=19): Recall@10 0.3465  Recall@50 0.4474  MRR@10 0.3202  Hit@10 0.4211
+  RESULTADO denso  documento (n=40): Recall@10 0.6383  Recall@50 0.6525  MRR@10 0.6475  Hit@10 0.925
+  RESULTADO denso  cobertura de citas en el texto: cuerpo@10 0.9125  artículo@10 0.5614  cuerpo@50 0.9625
+  RESULTADO rrf    artículo (n=19): Recall@10 0.3114  Recall@50 0.4751  MRR@10 0.2895  Hit@10 0.3684
+  RESULTADO rrf    documento (n=40): Recall@10 0.5767  Recall@50 0.7125  MRR@10 0.5842  Hit@10 0.85
+  RESULTADO rrf    cobertura de citas en el texto: cuerpo@10 0.8875  artículo@10 0.5263  cuerpo@50 1.0
+== fin: [indice] Terminó con errores (ver .err) · 2026-09-30 20:44:42

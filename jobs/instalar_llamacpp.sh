@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+#SBATCH --job-name=instalar_llamacpp
+#SBATCH --output=logs/%x_%j.out
+#SBATCH --error=logs/%x_%j.err
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=s.montoya112@uniandes.edu.co
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=16G
+#SBATCH --time=01:30:00
+#
+# Compila llama-cpp-python con CUDA 11.8 en .venv-gen (una sola vez, ~10-20 min). Hace falta
+# porque los nodos GPU de hypatia (Quadro RTX 6000, driver CUDA 11.8) no corren vLLM, y las
+# ruedas precompiladas de llama-cpp-python ya no traen CUDA 11.8. No necesita GPU para compilar.
+#
+#     mkdir -p logs
+#     sbatch jobs/instalar_llamacpp.sh
+#
+# Después: sbatch jobs/generacion_bench.sh
+source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
+preparar_entorno
+
+paso "0/3 herramientas"
+module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; }
+export CUDACXX="$(command -v nvcc)"
+echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
+echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
+
+if [[ $ESTADO -eq 0 ]]; then
+    paso "1/3 entorno .venv-gen"
+    rm -rf .venv-gen
+    correr uv venv .venv-gen --python 3.12
+fi
+if [[ $ESTADO -eq 0 ]]; then
+    paso "2/3 compilando llama-cpp-python (CUDA, arquitectura 75 = Turing)"
+    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75" FORCE_CMAKE=1 \
+    CMAKE_BUILD_PARALLEL_LEVEL=4 \
+        correr uv pip install --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
+fi
+if [[ $ESTADO -eq 0 ]]; then
+    paso "3/3 prueba de importación"
+    correr .venv-gen/bin/python -c "import llama_cpp; print('llama-cpp-python', llama_cpp.__version__, '| con GPU:', llama_cpp.llama_supports_gpu_offload())"
+fi
+
+enviar_resumen instalar_llamacpp
+exit "$ESTADO"

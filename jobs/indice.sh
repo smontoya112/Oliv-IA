@@ -17,6 +17,7 @@
 # Necesita GPU: con ~60k chunks el encoding en CPU tarda horas. Desde la raíz del repo:
 #
 #     git pull                 # chunks.parquet y código al día
+#     sbatch jobs/instalar_torch_gpu.sh   # UNA vez: torch para el driver CUDA 11.8 (.venv-gpu)
 #     mkdir -p logs            # una sola vez
 #     sinfo -s                 # ver el nombre de la partición con GPU; si no es "gpu":
 #     sbatch -p <particion> jobs/indice.sh            # (-p en la línea de comandos manda)
@@ -34,6 +35,15 @@
 # Salidas: logs/indice_<id>.out (avance y resultados) y logs/indice_<id>.err (solo errores).
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
+
+# Los nodos GPU de hypatia tienen driver CUDA 11.8: el torch del proyecto (CUDA 12) no ve la
+# GPU. Si existe .venv-gpu (sbatch jobs/instalar_torch_gpu.sh) se usa ese entorno.
+if [[ -x .venv-gpu/bin/python ]]; then
+    echo "usando .venv-gpu (torch para CUDA 11.8)"
+    uvpy() { PYTHONPATH=. .venv-gpu/bin/python "$@"; }
+else
+    echo "AVISO: no hay .venv-gpu; se usa el torch del proyecto (puede no ver la GPU)" >&2
+fi
 
 # Revisión fijada del modelo: debe coincidir con src/indice/encoder.py (REVISION).
 MODELO="BAAI/bge-m3"

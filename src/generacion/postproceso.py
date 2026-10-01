@@ -1,0 +1,114 @@
+"""Postproceso estricto de la salida del modelo: longitudes, letras, campos y ensamblado."""
+from __future__ import annotations
+
+import json
+import re
+
+from src.procesamiento.oraciones import dividir
+
+MAX_PASAJES = 10          # solo cuentan los 10 primeros en la evaluación (evaluate.py)
+_SIN_RAZON = "No es la opción respaldada por los pasajes recuperados."
+
+
+def contar_palabras(texto: str) -> int:
+    return len(texto.split())
+
+
+def recortar(texto: str, max_oraciones: int, max_palabras: int | None = None) -> str:
+    """Conserva las primeras oraciones completas sin pasar de los límites. No parte citas
+    como "art." o "Ley 80 de 1993" (usa src.procesamiento.oraciones). Si la primera oración
+    sola excede el máximo de palabras, la corta por palabras y la cierra con punto."""
+    texto = " ".join((texto or "").split())
+    if not texto:
+        return ""
+    oraciones = [texto[a:b] for a, b in dividir(texto)][:max_oraciones]
+    salida: list[str] = []
+    for o in oraciones:
+        if max_palabras and contar_palabras(" ".join(salida + [o])) > max_palabras:
+            break
+        salida.append(o)
+    if not salida:
+        palabras = oraciones[0].split()[: max_palabras or None]
+        return " ".join(palabras).rstrip(",;:") + "."
+    return " ".join(salida)
+
+
+def parsear_json(crudo: str) -> dict | None:
+    """Extrae el primer objeto JSON de la salida del modelo (tolera texto o ```json)."""
+    if not crudo:
+        return None
+    ini, fin = crudo.find("{"), crudo.rfind("}")
+    if ini < 0 or fin <= ini:
+        return None
+    try:
+        obj = json.loads(crudo[ini: fin + 1])
+    except json.JSONDecodeError:
+        return None
+    return obj if isinstance(obj, dict) else None
+
+
+def _letra(valor, opciones: dict) -> str | None:
+    m = re.search(r"[A-Da-d]", str(valor or ""))
+    letra = m.group(0).upper() if m else None
+    return letra if letra in opciones else None
+
+
+def _texto(valor) -> str:
+    return " ".join(str(valor or "").split())
+
+
+def normalizar(item: dict, salida: dict) -> dict:
+    """Deja solo los campos del formato, con tipos y longitudes válidos."""
+    f = item["formato"]
+    if f == "multiple_choice":
+        opciones = item["opciones"]
+        letra = _letra(salida.get("respuesta_correcta"), opciones)
+        descarte = salida.get("descarte_opciones")
+        descarte = descarte if isinstance(descarte, dict) else {}
+        razones = {l: _texto(descarte.get(l)) or _SIN_RAZON
+                   for l in sorted(opciones) if l != letra}
+        return {"respuesta_correcta": letra,
+                "justificacion": recortar(_texto(salida.get("justificacion")), 6),
+                "descarte_opciones": razones}
+    if f == "semi_open":
+        claves = salida.get("palabras_clave") or []
+        claves = claves if isinstance(claves, list) else [claves]
+        vistas, limpias = set(), []
+        for c in map(_texto, claves):
+            if c and c.lower() not in vistas:
+                vistas.add(c.lower())
+                limpias.append(c)
+        return {"respuesta": recortar(_texto(salida.get("respuesta")), 5, 150),
+                "palabras_clave": limpias[:8],
+                "referencia_legal": _texto(salida.get("referencia_legal"))}
+    if f == "open_ended":
+        return {"marco_normativo": _texto(salida.get("marco_normativo")),
+                "analisis": recortar(_texto(salida.get("analisis")), 8),
+                "jurisprudencia": _texto(salida.get("jurisprudencia")),
+                "conclusion": _texto(salida.get("conclusion"))}
+    raise ValueError(f"formato desconocido: {f!r}")
+
+
+def _vacios(item: dict) -> dict:
+    return {"multiple_choice": {"respuesta_correcta": "", "justificacion": "",
+                                "descarte_opciones": {}},
+            "semi_open": {"respuesta": "", "palabras_clave": [], "referencia_legal": ""},
+            "open_ended": {"marco_normativo": "", "analisis": "", "jurisprudencia": "",
+                           "conclusion": ""}}[item["formato"]]
+
+
+def ensamblar(item: dict, salida: dict | None, pasajes: list[dict],
+              latencia_ms: int | None = None) -> dict:
+    """Línea final de submissions.jsonl. Si la salida no se pudo parsear o quedó incompleta,
+    devuelve una abstención válida (la política fina de abstención es la fase 8)."""
+    base = {"id": item["id"], "formato": item["formato"]}
+    if latencia_ms is not None:
+        base["latencia_ms"] = latencia_ms
+    campos = normalizar(item, salida) if salida else None
+    incompleto = campos is None or any(v in ("", [], {}, None) for v in campos.values())
+    if incompleto or not pasajes:
+        return {**base, "abstencion": True, **_vacios(item), "pasajes_recuperados": []}
+    return {**base, "abstencion": False, **campos,
+            "pasajes_recuperados": [
+                {k: p[k] for k in ("doc_id", "inicio", "fin", "texto", "score") if k in p}
+                for p in pasajes[:MAX_PASAJES]]}
