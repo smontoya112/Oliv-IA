@@ -31,9 +31,9 @@
 - [x] **Paso 3.9:** Correr validación automática de completitud (conteo de artículos, vacíos, duplicados con hash/`datasketch`).
 
 ## Fase 4: Normalización canónica de citas (Miércoles 30)
-- [ ] **Paso 4.1:** Definir el estándar de identificadores canónicos (`ley_1564_2012#art_391`, `sentencia_C-355_2006`).
-- [ ] **Paso 4.2:** Crear el diccionario YAML de alias para mapear siglas y formas comunes.
-- [ ] **Paso 4.3:** Construir el parser de citas con expresiones regulares y escribir pruebas unitarias con `pytest` basadas en `sample_50.jsonl`.
+- [x] **Paso 4.1:** Definir el estándar de identificadores canónicos (`ley_1564_2012#art_391`, `sentencia_C-355_2006`).
+- [x] **Paso 4.2:** Crear el diccionario YAML de alias para mapear siglas y formas comunes.
+- [x] **Paso 4.3:** Construir el parser de citas con expresiones regulares y escribir pruebas unitarias con `pytest` basadas en `sample_50.jsonl`.
 
 ## Fase 5: Indexación (Jueves 1)
 - [x] **Paso 5.1:** Seleccionar e integrar el modelo encoder (`BAAI/bge-m3` o `intfloat/multilingual-e5-large`). → `bge-m3` fijado en `src/indice/encoder.py`.
