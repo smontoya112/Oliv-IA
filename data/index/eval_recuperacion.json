@@ -20,9 +20,9 @@
       "todos": {
         "ranx": {
           "n": 19,
-          "recall@10": 0.2719,
-          "recall@50": 0.3757,
-          "mrr@10": 0.1684,
+          "recall@10": 0.2588,
+          "recall@50": 0.3626,
+          "mrr@10": 0.1487,
           "hit_rate@10": 0.3158
         },
         "ranx_documento": {
@@ -80,9 +80,9 @@
       "formato=semi_open": {
         "ranx": {
           "n": 11,
-          "recall@10": 0.2273,
-          "recall@50": 0.2955,
-          "mrr@10": 0.1091,
+          "recall@10": 0.2045,
+          "recall@50": 0.2727,
+          "mrr@10": 0.075,
           "hit_rate@10": 0.2727
         },
         "ranx_documento": {
@@ -140,9 +140,9 @@
       "area=Derecho procesal": {
         "ranx": {
           "n": 4,
-          "recall@10": 0.375,
-          "recall@50": 0.5,
-          "mrr@10": 0.25,
+          "recall@10": 0.3125,
+          "recall@50": 0.4375,
+          "mrr@10": 0.1562,
           "hit_rate@10": 0.5
         },
         "ranx_documento": {
@@ -297,6 +297,570 @@
         "cobertura_cuerpo@50": 1.0,
         "cobertura_articulo@50": 1.0
       }
+    },
+    "denso": {
+      "todos": {
+        "ranx": {
+          "n": 19,
+          "recall@10": 0.3465,
+          "recall@50": 0.4474,
+          "mrr@10": 0.3202,
+          "hit_rate@10": 0.4211
+        },
+        "ranx_documento": {
+          "n": 40,
+          "recall@10": 0.6383,
+          "recall@50": 0.6525,
+          "mrr@10": 0.6475,
+          "hit_rate@10": 0.925
+        },
+        "cobertura_cuerpo@10": 0.9125,
+        "cobertura_articulo@10": 0.5614,
+        "cobertura_cuerpo@50": 0.9625,
+        "cobertura_articulo@50": 0.6947
+      },
+      "formato=multiple_choice": {
+        "ranx": {
+          "n": 7,
+          "recall@10": 0.4762,
+          "recall@50": 0.75,
+          "mrr@10": 0.369,
+          "hit_rate@10": 0.5714
+        },
+        "ranx_documento": {
+          "n": 12,
+          "recall@10": 0.5698,
+          "recall@50": 0.6064,
+          "mrr@10": 0.6,
+          "hit_rate@10": 0.9167
+        },
+        "cobertura_cuerpo@10": 0.8333,
+        "cobertura_articulo@10": 0.6667,
+        "cobertura_cuerpo@50": 0.875,
+        "cobertura_articulo@50": 0.8571
+      },
+      "formato=open_ended": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.4625,
+          "recall@50": 0.4625,
+          "mrr@10": 0.5357,
+          "hit_rate@10": 0.75
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.0
+      },
+      "formato=semi_open": {
+        "ranx": {
+          "n": 11,
+          "recall@10": 0.2955,
+          "recall@50": 0.2955,
+          "mrr@10": 0.3182,
+          "hit_rate@10": 0.3636
+        },
+        "ranx_documento": {
+          "n": 24,
+          "recall@10": 0.7018,
+          "recall@50": 0.7071,
+          "mrr@10": 0.6899,
+          "hit_rate@10": 0.9583
+        },
+        "cobertura_cuerpo@10": 0.9375,
+        "cobertura_articulo@10": 0.5455,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.6545
+      },
+      "area=Derecho constitucional": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.6667,
+          "recall@50": 1.0,
+          "mrr@10": 0.2917,
+          "hit_rate@10": 1.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.4157,
+          "recall@50": 0.4468,
+          "mrr@10": 0.375,
+          "hit_rate@10": 0.8
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.8333,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.85,
+          "recall@50": 0.9,
+          "mrr@10": 0.5833,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.875,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 0.875,
+        "cobertura_articulo@50": 0.5
+      },
+      "area=Derecho procesal": {
+        "ranx": {
+          "n": 4,
+          "recall@10": 0.5625,
+          "recall@50": 0.5625,
+          "mrr@10": 0.625,
+          "hit_rate@10": 0.75
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.6103,
+          "recall@50": 0.6205,
+          "mrr@10": 0.65,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.7,
+        "cobertura_articulo@10": 0.75,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.75
+      },
+      "area=Derecho comercial y sociedades": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 3,
+          "recall@10": 0.5833,
+          "recall@50": 0.5833,
+          "mrr@10": 0.7333,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho administrativo": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.5158,
+          "recall@50": 0.5158,
+          "mrr@10": 0.4686,
+          "hit_rate@10": 0.8
+        },
+        "cobertura_cuerpo@10": 0.8,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 0.8,
+        "cobertura_articulo@50": 0.5
+      },
+      "area=Derecho civil": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 2,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 1.0,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 1.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho de familia": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 1.0,
+          "hit_rate@10": 1.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 0.68,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 1.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho penal": {
+        "ranx": {
+          "n": 3,
+          "recall@10": 0.3333,
+          "recall@50": 0.4167,
+          "mrr@10": 0.3333,
+          "hit_rate@10": 0.3333
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.5,
+          "recall@50": 0.5278,
+          "mrr@10": 1.0,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.3333,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.6667
+      },
+      "area=Derecho laboral": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.5346,
+          "recall@50": 0.5444,
+          "mrr@10": 0.7,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.9,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.1
+      },
+      "area=Derecho tributario": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 2,
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      }
+    },
+    "rrf": {
+      "todos": {
+        "ranx": {
+          "n": 19,
+          "recall@10": 0.3114,
+          "recall@50": 0.4751,
+          "mrr@10": 0.2895,
+          "hit_rate@10": 0.3684
+        },
+        "ranx_documento": {
+          "n": 40,
+          "recall@10": 0.5767,
+          "recall@50": 0.7125,
+          "mrr@10": 0.5842,
+          "hit_rate@10": 0.85
+        },
+        "cobertura_cuerpo@10": 0.8875,
+        "cobertura_articulo@10": 0.5263,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.7342
+      },
+      "formato=multiple_choice": {
+        "ranx": {
+          "n": 7,
+          "recall@10": 0.5238,
+          "recall@50": 0.7024,
+          "mrr@10": 0.4286,
+          "hit_rate@10": 0.5714
+        },
+        "ranx_documento": {
+          "n": 12,
+          "recall@10": 0.4865,
+          "recall@50": 0.6418,
+          "mrr@10": 0.5694,
+          "hit_rate@10": 0.8333
+        },
+        "cobertura_cuerpo@10": 0.8333,
+        "cobertura_articulo@10": 0.7143,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.8571
+      },
+      "formato=open_ended": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.1111,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.2125,
+          "recall@50": 0.8375,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "cobertura_cuerpo@10": 0.5,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.25
+      },
+      "formato=semi_open": {
+        "ranx": {
+          "n": 11,
+          "recall@10": 0.2045,
+          "recall@50": 0.3636,
+          "mrr@10": 0.2273,
+          "hit_rate@10": 0.2727
+        },
+        "ranx_documento": {
+          "n": 24,
+          "recall@10": 0.6825,
+          "recall@50": 0.727,
+          "mrr@10": 0.6056,
+          "hit_rate@10": 0.9167
+        },
+        "cobertura_cuerpo@10": 0.9792,
+        "cobertura_articulo@10": 0.4545,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.7
+      },
+      "area=Derecho constitucional": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.8333,
+          "recall@50": 0.8333,
+          "mrr@10": 0.5,
+          "hit_rate@10": 1.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.4104,
+          "recall@50": 0.6364,
+          "mrr@10": 0.4333,
+          "hit_rate@10": 0.8
+        },
+        "cobertura_cuerpo@10": 0.8,
+        "cobertura_articulo@10": 1.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.85,
+          "recall@50": 0.95,
+          "mrr@10": 0.425,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.875,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.5
+      },
+      "area=Derecho procesal": {
+        "ranx": {
+          "n": 4,
+          "recall@10": 0.3125,
+          "recall@50": 0.6875,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.6603,
+          "recall@50": 0.7705,
+          "mrr@10": 0.8,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.9,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.75
+      },
+      "area=Derecho comercial y sociedades": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 3,
+          "recall@10": 0.4167,
+          "recall@50": 0.75,
+          "mrr@10": 0.6667,
+          "hit_rate@10": 0.6667
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho administrativo": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.5,
+          "recall@50": 0.625,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.3105,
+          "recall@50": 0.5211,
+          "mrr@10": 0.4667,
+          "hit_rate@10": 0.6
+        },
+        "cobertura_cuerpo@10": 0.6,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.75
+      },
+      "area=Derecho civil": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 1.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 2,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 0.75,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 1.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho de familia": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 1.0,
+          "recall@50": 1.0,
+          "mrr@10": 1.0,
+          "hit_rate@10": 1.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.8,
+          "recall@50": 1.0,
+          "mrr@10": 0.65,
+          "hit_rate@10": 0.8
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 1.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      },
+      "area=Derecho penal": {
+        "ranx": {
+          "n": 3,
+          "recall@10": 0.3333,
+          "recall@50": 0.4167,
+          "mrr@10": 0.1667,
+          "hit_rate@10": 0.3333
+        },
+        "ranx_documento": {
+          "n": 4,
+          "recall@10": 0.4722,
+          "recall@50": 0.5278,
+          "mrr@10": 0.4167,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.3333,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.6667
+      },
+      "area=Derecho laboral": {
+        "ranx": {
+          "n": 2,
+          "recall@10": 0.0,
+          "recall@50": 0.0556,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 5,
+          "recall@10": 0.5249,
+          "recall@50": 0.5395,
+          "mrr@10": 0.75,
+          "hit_rate@10": 1.0
+        },
+        "cobertura_cuerpo@10": 0.9,
+        "cobertura_articulo@10": 0.0,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 0.225
+      },
+      "area=Derecho tributario": {
+        "ranx": {
+          "n": 1,
+          "recall@10": 0.0,
+          "recall@50": 0.0,
+          "mrr@10": 0.0,
+          "hit_rate@10": 0.0
+        },
+        "ranx_documento": {
+          "n": 2,
+          "recall@10": 0.5,
+          "recall@50": 0.5,
+          "mrr@10": 0.5,
+          "hit_rate@10": 0.5
+        },
+        "cobertura_cuerpo@10": 1.0,
+        "cobertura_articulo@10": 0.5,
+        "cobertura_cuerpo@50": 1.0,
+        "cobertura_articulo@50": 1.0
+      }
     }
   },
   "items": [
@@ -369,7 +933,7 @@
             "sentencia_su-429_2024#cuerpo#p110",
             "ley_472_1998#art_3#p1",
             "ley_472_1998#art_46#p1",
-            "ley_1437_2011#art_145#p1",
+            "ley_1437_2011-2#art_145#p1",
             "cpaca#art_145#p1",
             "sentencia_su-429_2024#cuerpo#p111",
             "sentencia_su-217_2017#cuerpo#p44",
@@ -386,6 +950,70 @@
           "ranx_documento": {
             "recall@10": 0.02564102564102564,
             "recall@50": 0.05128205128205128,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": 3,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.6666666666666666,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_su-429_2024#cuerpo#p109",
+            "sentencia_su-429_2024#cuerpo#p110",
+            "ley_472_1998#art_46#p1",
+            "cpaca#art_144#p1",
+            "ley_472_1998#art_2#p1",
+            "ley_1437_2011-2#art_144#p1",
+            "ley_472_1998#art_48#p1",
+            "sentencia_t-4_2026#resuelve#p7",
+            "ley_472_1998#art_52#p1",
+            "sentencia_su-11_2020#salvamentos#p10"
+          ],
+          "ranx": {
+            "recall@10": 0.3333333333333333,
+            "recall@50": 1.0,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.02564102564102564,
+            "recall@50": 0.10256410256410256,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_su-429_2024#cuerpo#p110",
+            "ley_472_1998#art_46#p1",
+            "sentencia_su-429_2024#cuerpo#p109",
+            "ley_472_1998#art_3#p1",
+            "sentencia_su-429_2024#cuerpo#p111",
+            "sentencia_su-429_2024#cuerpo#p143",
+            "cpaca#art_145#p1",
+            "sentencia_su-429_2024#cuerpo#p114",
+            "sentencia_su-11_2020#salvamentos#p10",
+            "ley_472_1998#art_55#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.6666666666666666,
+            "recall@50": 0.6666666666666666,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.02564102564102564,
+            "recall@50": 0.07692307692307693,
             "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
@@ -423,8 +1051,8 @@
           "cobertura_articulo@10": null,
           "cobertura_articulo@50": null,
           "top10": [
-            "ley_5_1992#art_329#p1",
             "ley_5_1992#art_330#p1",
+            "ley_5_1992#art_329#p1",
             "sentencia_su-429_2024#cuerpo#p116",
             "codigo_general_proceso#art_1#p1",
             "ley_472_1998#art_71#p1",
@@ -439,6 +1067,60 @@
             "recall@10": 0.6,
             "recall@50": 0.6,
             "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 0.5,
+          "cobertura_cuerpo@50": 0.5,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_600_2000#art_40#p1",
+            "ley_600_2000#art_149#p1",
+            "codigo_general_proceso#art_106#p1",
+            "ley_600_2000#art_322#p1",
+            "cpaca#art_182A#p1",
+            "ley_1437_2011-2#art_182A#p1",
+            "sentencia_c-32_2017#cuerpo#p56",
+            "ley_600_2000#art_6#p1",
+            "ley_600_2000#art_499#p1",
+            "ley_600_2000#art_222#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.4,
+            "recall@50": 0.6,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 0.5,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_5_1992#art_329#p1",
+            "ley_5_1992#art_330#p1",
+            "codigo_general_proceso#art_1#p1",
+            "ley_906_2004#art_24#p1",
+            "ley_600_2000#art_40#p1",
+            "ley_600_2000#art_149#p1",
+            "sentencia_su-429_2024#cuerpo#p116",
+            "codigo_general_proceso#art_106#p1",
+            "ley_600_2000#art_322#p1",
+            "ley_472_1998#art_71#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.4,
+            "recall@50": 0.8,
+            "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
         }
@@ -533,6 +1215,70 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 4,
+          "cobertura_cuerpo@10": 0.5,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "sentencia_t-323_2024#cuerpo#p121",
+            "codigo_procedimiento_penal#art_19#p1",
+            "sentencia_t-323_2024#cuerpo#p122",
+            "ley_906_2004#art_19#p1",
+            "constitucion#art_29#p1",
+            "sentencia_t-1001_2001#cuerpo#p63",
+            "sentencia_c-335_2008#salvamentos#p3",
+            "ley_600_2000#art_11#p1",
+            "sentencia_c-486_1993#cuerpo#p43",
+            "sentencia_su-500_2015#cuerpo#p160"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.05128205128205128,
+            "recall@50": 0.10256410256410256,
+            "mrr@10": 0.25,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 0.5,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "sentencia_t-323_2024#cuerpo#p121",
+            "sentencia_t-323_2024#cuerpo#p122",
+            "ley_600_2000#art_11#p1",
+            "codigo_procedimiento_penal#art_19#p1",
+            "ley_906_2004#art_19#p1",
+            "sentencia_su-500_2015#cuerpo#p160",
+            "sentencia_t-323_2024#cuerpo#p123",
+            "sentencia_c-276_2025#salvamentos#p11",
+            "sentencia_t-1001_2001#cuerpo#p63",
+            "sentencia_c-32_2017#salvamentos#p5"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.05128205128205128,
+            "recall@50": 0.10256410256410256,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -567,6 +1313,50 @@
             "ley_1902_2018#art_6#p2",
             "ley_789_2002#art_16#p2",
             "ley_1328_2009#art_25#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_223_1995#art_89#p1",
+            "ley_1902_2018#art_6#p2",
+            "estatuto_organico_sistema_financiero#art_26#p1",
+            "estatuto_organico_sistema_financiero#art_2#p2",
+            "ley_1819_2016#art_16#p5",
+            "ley_1708_2014#art_92#p10",
+            "estatuto_tributario-2#art_127-1#p1",
+            "ley_510_1999#art_18#p1",
+            "ley_510_1999#art_16#p1",
+            "estatuto_organico_sistema_financiero#art_12#p3"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1902_2018#art_6#p2",
+            "estatuto_organico_sistema_financiero#art_2#p2",
+            "ley_510_1999#art_16#p1",
+            "estatuto_organico_sistema_financiero#art_26#p1",
+            "ley_510_1999#art_18#p1",
+            "estatuto_organico_sistema_financiero#art_142#p1",
+            "ley_1328_2009#art_25#p1",
+            "ley_1943_2018#art_86#p2",
+            "estatuto_organico_sistema_financiero#art_141#p1",
+            "ley_1328_2009#art_66#p3"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -622,6 +1412,70 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_1150_2007#art_11#p1",
+            "ley_1437_2011-2#art_164#p5",
+            "sentencia_c-207_2019#cuerpo#p201",
+            "ley_1438_2011#art_31#p3",
+            "sentencia_c-207_2019#cuerpo#p5",
+            "cpaca#art_164#p5",
+            "ley_1508_2012#art_34#p1",
+            "codigo_contencioso_administrativo#art_136#p4",
+            "ley_446_1998#art_44#p4",
+            "codigo_sustantivo_trabajo#art_64#p2"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.5,
+            "recall@50": 0.5,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_1150_2007#art_11#p1",
+            "ley_446_1998#art_44#p4",
+            "codigo_contencioso_administrativo#art_136#p4",
+            "cpaca#art_164#p5",
+            "ley_142_1994#art_61#p2",
+            "sentencia_ce_s2_ij_su_2022#cuerpo#p85",
+            "sentencia_ce_s2_ij_su_2022#cuerpo#p92",
+            "ley_80_1993#art_41#p4",
+            "ley_510_1999#art_23#p1",
+            "ley_1437_2011-2#art_164#p5"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.5,
+            "recall@50": 0.5,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -654,6 +1508,50 @@
             "sentencia_c-207_2019#cuerpo#p70",
             "estatuto_organico_sistema_financiero#art_175#p2",
             "sentencia_ce_s2_ij_su_2022#cuerpo#p92"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1150_2007#art_11#p1",
+            "codigo_contencioso_administrativo#art_136#p4",
+            "ley_1437_2011-2#art_164#p5",
+            "cpaca#art_164#p5",
+            "ley_446_1998#art_44#p4",
+            "codigo_comercio#art_1249#p1",
+            "decreto_920_2023#art_112#p2",
+            "sentencia_c-207_2019#cuerpo#p201",
+            "estatuto_organico_sistema_financiero#art_117#p2",
+            "ley_790_2002#art_16#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1150_2007#art_11#p1",
+            "codigo_contencioso_administrativo#art_136#p4",
+            "ley_446_1998#art_44#p4",
+            "ley_1437_2011-2#art_164#p5",
+            "cpaca#art_164#p5",
+            "estatuto_organico_sistema_financiero#art_117#p2",
+            "codigo_sustantivo_trabajo#art_61#p1",
+            "sentencia_ce_s2_ij_su_2022#cuerpo#p92",
+            "codigo_civil#art_67#p1",
+            "ley_142_1994#art_61#p2"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -708,6 +1606,70 @@
             "mrr@10": 0.14285714285714285,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 4,
+          "rank_primer_doc_relevante": 4,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-239_1997#salvamentos#p145",
+            "sentencia_c-259_2015#cuerpo#p109",
+            "ley_1564_2012#art_133#p1",
+            "decreto_2067_1991#art_49#p1",
+            "sentencia_c-239_1997#salvamentos#p144",
+            "ley_1564_2012#art_134#p1",
+            "cpaca#art_135#p1",
+            "sentencia_c-207_2019#cuerpo#p172",
+            "cpaca#art_184#p1",
+            "sentencia_c-683_2015#cuerpo#p77"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.25,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.25,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-239_1997#salvamentos#p144",
+            "decreto_2067_1991#art_49#p1",
+            "cpaca#art_184#p1",
+            "sentencia_su-1219_2001#salvamentos#p13",
+            "ley_1437_2011-2#art_184#p1",
+            "sentencia_c-239_1997#salvamentos#p128",
+            "sentencia_c-239_1997#salvamentos#p146",
+            "sentencia_c-239_1997#salvamentos#p145",
+            "sentencia_c-239_1997#salvamentos#p125",
+            "sentencia_c-259_2015#cuerpo#p109"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -759,6 +1721,70 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 11,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_civil#art_950#p1",
+            "codigo_civil#art_983#p1",
+            "sentencia_sc_3674_2021#cuerpo#p229",
+            "sentencia_sc_3674_2021#cuerpo#p119",
+            "codigo_civil#art_972#p1",
+            "sentencia_c-228_2002#salvamentos#p28",
+            "sentencia_c-259_2015#cuerpo#p89",
+            "sentencia_sc_3674_2021#cuerpo#p25",
+            "codigo_civil#art_960#p1",
+            "sentencia_sc_3674_2021#cuerpo#p223"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 22,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_sc_3674_2021#cuerpo#p119",
+            "codigo_civil#art_950#p1",
+            "codigo_civil#art_960#p1",
+            "sentencia_sc_3674_2021#cuerpo#p25",
+            "sentencia_sc_3674_2021#cuerpo#p292",
+            "sentencia_sc_3674_2021#cuerpo#p223",
+            "codigo_civil#art_973#p1",
+            "codigo_civil#art_1325#p1",
+            "codigo_comercio#art_820#p1",
+            "sentencia_sc_3674_2021#cuerpo#p293"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -797,6 +1823,60 @@
             "codigo_general_proceso#art_523#p2",
             "ley_1564_2012#art_523#p2",
             "ley_640_2001#art_40#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1820#p1",
+            "sentencia_sc_3085_2024#salvamentos#p10",
+            "sentencia_sc_3085_2024#salvamentos#p2",
+            "codigo_general_proceso#art_523#p1",
+            "sentencia_sc_3085_2024#salvamentos#p9",
+            "ley_1258_2008#art_34#p1",
+            "codigo_general_proceso#art_523#p2",
+            "ley_1564_2012#art_523#p1",
+            "sentencia_sc_3085_2024#cuerpo#p47",
+            "sentencia_sc_3085_2024#salvamentos#p6"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1820#p1",
+            "codigo_general_proceso#art_523#p1",
+            "ley_1564_2012#art_523#p1",
+            "codigo_general_proceso#art_523#p2",
+            "ley_1564_2012#art_523#p2",
+            "sentencia_sc_3085_2024#salvamentos#p9",
+            "sentencia_sc_3085_2024#salvamentos#p6",
+            "sentencia_sc_3085_2024#salvamentos#p2",
+            "sentencia_sc_3085_2024#cuerpo#p75",
+            "sentencia_sc_3085_2024#cuerpo#p25"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -859,6 +1939,70 @@
             "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_1564_2012#art_25#p1",
+            "codigo_general_proceso#art_25#p1",
+            "ley_1564_2012#art_26#p1",
+            "cpaca#art_157#p1",
+            "ley_1437_2011-2#art_157#p1",
+            "ley_2080_2021#art_32#p1",
+            "codigo_general_proceso#art_26#p1",
+            "codigo_procedimiento_civil#art_435#p3",
+            "codigo_procedimiento_civil#art_20#p1",
+            "decreto_2150_1995#art_38#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 0.75,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_1564_2012#art_25#p1",
+            "codigo_general_proceso#art_25#p1",
+            "ley_1150_2007#art_2#p2",
+            "decreto_2150_1995#art_38#p1",
+            "cpaca#art_157#p1",
+            "ley_2080_2021#art_32#p1",
+            "ley_2069_2020#art_30#p1",
+            "codigo_procedimiento_civil#art_435#p3",
+            "ley_1564_2012#art_26#p1",
+            "ley_2452_2025#art_13#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -918,6 +2062,70 @@
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 20,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_penal#art_239#p1",
+            "codigo_penal#art_254#p1",
+            "ley_599_2000#art_239#p1",
+            "codigo_penal#art_240#p1",
+            "ley_1142_2007#art_37#p1",
+            "ley_599_2000#art_240#p1",
+            "ley_813_2003#art_2#p1",
+            "ley_2197_2022#art_11#p1",
+            "ley_599_2000#art_254#p1",
+            "ley_2356_2024#art_2#p4"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.25,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.4444444444444444,
+            "recall@50": 0.5555555555555556,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 41,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_civil#art_791#p1",
+            "codigo_civil#art_2420#p1",
+            "codigo_civil#art_2417#p1",
+            "codigo_comercio#art_1172#p1",
+            "codigo_penal#art_239#p1",
+            "codigo_civil#art_1425#p1",
+            "codigo_penal#art_254#p1",
+            "codigo_civil#art_2019#p1",
+            "ley_599_2000#art_239#p1",
+            "codigo_civil#art_774#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.25,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.4444444444444444,
+            "recall@50": 0.5555555555555556,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -958,6 +2166,60 @@
             "ley_2452_2025#art_300#p1",
             "estatuto_tributario#art_356-1#p2",
             "estatuto_organico_sistema_financiero#art_154#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.6666666666666666,
+            "recall@50": 0.6666666666666666,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-201_2002#cuerpo#p7",
+            "codigo_sustantivo_trabajo#art_421#p1",
+            "sentencia_su-431_2015#cuerpo#p102",
+            "codigo_sustantivo_trabajo#art_406#p1",
+            "ley_2452_2025#art_299#p1",
+            "codigo_procedimental_laboral#art_118-B#p1",
+            "codigo_sustantivo_trabajo#art_413#p1",
+            "sentencia_c-201_2002#cuerpo#p57",
+            "constitucion#art_39#p1",
+            "sentencia_su-431_2015#cuerpo#p11"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.6666666666666666,
+            "recall@50": 0.6666666666666666,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_sustantivo_trabajo#art_406#p1",
+            "sentencia_c-201_2002#cuerpo#p7",
+            "sentencia_c-201_2002#cuerpo#p6",
+            "sentencia_c-201_2002#cuerpo#p57",
+            "ley_2452_2025#art_7#p2",
+            "ley_584_2000#art_12#p1",
+            "sentencia_c-201_2002#cuerpo#p58",
+            "sentencia_c-201_2002#cuerpo#p62",
+            "sentencia_su-431_2015#cuerpo#p11",
+            "codigo_sustantivo_trabajo#art_421#p1"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -1012,6 +2274,60 @@
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 5,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1996_2019#art_10#p1",
+            "sentencia_c-394_2017#cuerpo#p43",
+            "sentencia_c-394_2017#cuerpo#p78",
+            "sentencia_c-577_2011#cuerpo#p75",
+            "sentencia_c-746_2011#cuerpo#p23",
+            "ley_1996_2019#art_15#p1",
+            "codigo_civil#art_1842#p1",
+            "codigo_civil#art_160#p1",
+            "sentencia_c-533_2000#cuerpo#p1",
+            "sentencia_c-96_2024#cuerpo#p69"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 13,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-131_2018#cuerpo#p38",
+            "sentencia_c-225_1995#cuerpo#p14",
+            "ley_1996_2019#art_10#p1",
+            "sentencia_t-25_2004#cuerpo#p161",
+            "sentencia_c-394_2017#cuerpo#p43",
+            "ley_1778_2016#art_24#p1",
+            "sentencia_c-394_2017#cuerpo#p78",
+            "ley_100_1993#art_2#p1",
+            "sentencia_c-577_2011#cuerpo#p75",
+            "ley_812_2003#art_8#p53"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
         }
       }
     },
@@ -1037,13 +2353,57 @@
             "ley_1692_2013#art_30#p6",
             "ley_1692_2013#art_30#p21",
             "ley_1692_2013#art_30#p19",
-            "estatuto_tributario-2#art_9#p1",
+            "estatuto_tributario#art_9#p1",
             "estatuto_tributario#art_25#p2",
             "ley_1607_2012#art_9#p1",
-            "estatuto_tributario#art_247#p1",
+            "estatuto_tributario-2#art_247#p1",
             "ley_137_1994#art_28#p1",
             "ley_1819_2016#art_10#p1",
-            "estatuto_tributario#art_316#p1"
+            "estatuto_tributario-2#art_316#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_2069_2020#art_35#p5",
+            "ley_675_2001#art_77#p1",
+            "codigo_nacional_policia#art_231#p1",
+            "ley_1692_2013#art_30#p7",
+            "ley_2220_2022#art_73#p1",
+            "ley_2069_2020#art_35#p1",
+            "sentencia_c-985_2010#cuerpo#p34",
+            "ley_2452_2025#art_302#p1",
+            "ley_554_2000#art_10#p1",
+            "sentencia_c-15_2018#cuerpo#p3"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1692_2013#art_30#p7",
+            "ley_1692_2013#art_30#p6",
+            "ley_2069_2020#art_35#p5",
+            "ley_1692_2013#art_30#p21",
+            "ley_675_2001#art_77#p1",
+            "ley_1692_2013#art_30#p19",
+            "codigo_nacional_policia#art_231#p1",
+            "estatuto_tributario#art_9#p1",
+            "estatuto_tributario#art_25#p2",
+            "ley_2220_2022#art_73#p1"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -1096,6 +2456,60 @@
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 0.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-217_2017#cuerpo#p1",
+            "sentencia_su-217_2017#cuerpo#p123",
+            "sentencia_su-217_2017#cuerpo#p48",
+            "sentencia_su-217_2017#cuerpo#p164",
+            "sentencia_su-217_2017#cuerpo#p2",
+            "sentencia_su-217_2017#cuerpo#p9",
+            "sentencia_su-217_2017#cuerpo#p47",
+            "sentencia_su-217_2017#cuerpo#p19",
+            "sentencia_su-217_2017#cuerpo#p157",
+            "sentencia_su-217_2017#cuerpo#p162"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-217_2017#cuerpo#p2",
+            "sentencia_su-217_2017#cuerpo#p1",
+            "sentencia_su-217_2017#cuerpo#p48",
+            "sentencia_su-217_2017#cuerpo#p157",
+            "sentencia_su-217_2017#cuerpo#p123",
+            "sentencia_su-217_2017#cuerpo#p9",
+            "sentencia_su-217_2017#cuerpo#p16",
+            "sentencia_su-217_2017#cuerpo#p30",
+            "sentencia_su-217_2017#cuerpo#p13",
+            "sentencia_su-217_2017#cuerpo#p10"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
         }
       }
     },
@@ -1139,6 +2553,60 @@
           "ranx_documento": {
             "recall@10": 0.0,
             "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 7,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_388_1997#art_73#p1",
+            "codigo_nacional_policia#art_116#p1",
+            "ley_388_1997#art_58#p2",
+            "ley_136_1994#art_91#p6",
+            "codigo_nacional_policia#art_36#p1",
+            "decreto_19_2012#art_182#p1",
+            "constitucion#art_58#p1",
+            "decreto_555_2017#art_6#p1",
+            "ley_388_1997#art_8#p2",
+            "ley_472_1998#art_10#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.14285714285714285,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 16,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-468_2024#cuerpo#p28",
+            "constitucion#art_2#p1",
+            "ley_388_1997#art_73#p1",
+            "sentencia_su-11_2020#salvamentos#p9",
+            "codigo_nacional_policia#art_116#p1",
+            "decreto_2106_2019#preambulo#p1",
+            "ley_388_1997#art_58#p2",
+            "decreto_2150_1995#preambulo#p2",
+            "ley_136_1994#art_91#p6",
+            "ley_1151_2007#art_6#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
@@ -1203,6 +2671,70 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "sentencia_sl_3385_2022#cuerpo#p11",
+            "ley_1562_2012#art_3#p1",
+            "sentencia_sl_3385_2022#cuerpo#p13",
+            "sentencia_sl_3385_2022#cuerpo#p12",
+            "sentencia_sl_3385_2022#cuerpo#p17",
+            "codigo_sustantivo_trabajo#art_221#p1",
+            "sentencia_su-396_2024#cuerpo#p11",
+            "sentencia_su-396_2024#cuerpo#p20",
+            "codigo_comercio#art_1880#p1",
+            "sentencia_sl_3385_2022#cuerpo#p3"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.6,
+            "recall@50": 0.6,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 31,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.25,
+          "top10": [
+            "sentencia_sl_3385_2022#cuerpo#p17",
+            "decreto_1295_1994#art_5#p1",
+            "sentencia_sl_3385_2022#cuerpo#p11",
+            "codigo_civil#art_2254#p1",
+            "codigo_sustantivo_trabajo#art_205#p1",
+            "ley_1562_2012#art_3#p1",
+            "sentencia_sl_3385_2022#cuerpo#p3",
+            "ley_100_1993#art_254#p1",
+            "ley_1221_2008#art_6#p3",
+            "sentencia_sl_3385_2022#cuerpo#p18"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.1111111111111111,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.6,
+            "recall@50": 0.6,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -1243,12 +2775,66 @@
             "ley_80_1993#art_32#p4",
             "sentencia_c-145_2018#cuerpo#p76",
             "estatuto_organico_sistema_financiero#art_283#p3",
-            "estatuto_tributario#art_102#p4"
+            "estatuto_tributario-2#art_102#p4"
           ],
           "ranx": null,
           "ranx_documento": {
             "recall@10": 0.25,
             "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1116_2006#art_50#p2",
+            "estatuto_tributario-2#art_102#p6",
+            "codigo_comercio#art_1236#p1",
+            "estatuto_tributario-2#art_102#p4",
+            "ley_1116_2006#art_43#p2",
+            "estatuto_tributario-2#art_102#p5",
+            "ley_1116_2006#art_21#p1",
+            "estatuto_tributario-2#art_102#p2",
+            "ley_1116_2006#art_43#p1",
+            "codigo_civil#art_1223#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.25,
+            "recall@50": 0.25,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_1116_2006#art_50#p2",
+            "estatuto_tributario-2#art_102#p4",
+            "ley_1258_2008#art_12#p1",
+            "estatuto_tributario-2#art_102#p2",
+            "ley_1116_2006#art_21#p1",
+            "sentencia_c-145_2018#cuerpo#p76",
+            "ley_550_1999#art_69#p1",
+            "ley_1116_2006#art_43#p1",
+            "ley_1306_2009#art_95#p1",
+            "ley_223_1995#art_81#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.25,
+            "recall@50": 0.75,
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
@@ -1277,13 +2863,57 @@
             "ley_1450_2011#art_248#p1",
             "decreto_2106_2019#art_82#p1",
             "ley_1676_2013#art_70#p1",
-            "estatuto_tributario#art_444#p1",
+            "estatuto_tributario-2#art_444#p1",
             "ley_178_1994#art_4#p1",
             "estatuto_consumidor#art_5#p1",
             "decreto_356_1994#art_84#p1",
             "codigo_general_proceso#art_52#p1",
             "ley_2452_2025#art_36#p1",
             "estatuto_consumidor#art_52#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_sc_1121_2018#cuerpo#p19",
+            "decision_andina_486#art_255#p1",
+            "decision_andina_486#art_250#p1",
+            "estatuto_consumidor#art_17#p1",
+            "decision_andina_486#art_223#p1",
+            "decision_andina_486#art_158#p1",
+            "decision_andina_486#art_54#p1",
+            "ley_178_1994#art_9#p1",
+            "ley_178_1994#art_5#p1",
+            "decision_andina_486#art_159#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "estatuto_consumidor#art_17#p1",
+            "sentencia_c-94_2021#cuerpo#p55",
+            "sentencia_c-94_2021#cuerpo#p58",
+            "estatuto_consumidor#art_35#p1",
+            "sentencia_c-94_2021#cuerpo#p71",
+            "decision_andina_486#art_52#p1",
+            "ley_1450_2011#art_248#p1",
+            "sentencia_sc_1121_2018#cuerpo#p19",
+            "decreto_2106_2019#art_82#p1",
+            "decision_andina_486#art_255#p1"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -1333,6 +2963,60 @@
             "mrr@10": 0.16666666666666666,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-26_2025#cuerpo#p56",
+            "sentencia_su-277_2025#cuerpo#p50",
+            "sentencia_t-1096_2008#cuerpo#p13",
+            "sentencia_t-760_2008#cuerpo#p257",
+            "sentencia_c-233_2021#cuerpo#p35",
+            "ley_1955_2019#art_254#p1",
+            "ley_1122_2007#art_33#p1",
+            "ley_1955_2019#art_246#p1",
+            "sentencia_t-414_1992#cuerpo#p39",
+            "ley_1753_2015#art_72#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 15,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-26_2025#cuerpo#p56",
+            "sentencia_t-760_2008#cuerpo#p198",
+            "sentencia_su-277_2025#cuerpo#p50",
+            "sentencia_t-925_2014#cuerpo#p5",
+            "sentencia_t-760_2008#cuerpo#p131",
+            "sentencia_t-760_2008#cuerpo#p95",
+            "sentencia_t-760_2008#cuerpo#p260",
+            "sentencia_t-445_2024#cuerpo#p22",
+            "sentencia_t-1096_2008#cuerpo#p13",
+            "sentencia_t-760_2008#cuerpo#p31"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
         }
       }
     },
@@ -1365,6 +3049,50 @@
             "sentencia_su-214_2016#cuerpo#p41",
             "codigo_comercio#art_898#p1",
             "decreto_960_1970#art_15#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_comercio#art_1045#p1",
+            "codigo_comercio#art_101#p1",
+            "codigo_sustantivo_trabajo#art_23#p1",
+            "ley_527_1999#art_14#p1",
+            "codigo_civil#art_1501#p1",
+            "sentencia_c-345_2017#resuelve#p20",
+            "ley_963_2005#art_4#p1",
+            "codigo_civil#art_1499#p1",
+            "sentencia_sc_3674_2021#cuerpo#p339",
+            "codigo_civil#art_1500#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_comercio#art_1045#p1",
+            "codigo_sustantivo_trabajo#art_23#p1",
+            "codigo_civil#art_1501#p1",
+            "ley_527_1999#art_14#p1",
+            "codigo_comercio#art_101#p1",
+            "sentencia_su-214_2016#cuerpo#p41",
+            "ley_2452_2025#art_182#p1",
+            "codigo_comercio#art_845#p1",
+            "ley_963_2005#art_4#p1",
+            "sentencia_sc_3674_2021#cuerpo#p255"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -1406,6 +3134,60 @@
             "sentencia_t-262_2025#cuerpo#p69",
             "sentencia_t-414_1992#cuerpo#p16",
             "ley_1010_2006#art_14#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-262_2025#cuerpo#p59",
+            "sentencia_t-262_2025#cuerpo#p53",
+            "ley_1010_2006#preambulo#p1",
+            "sentencia_t-262_2025#cuerpo#p73",
+            "ley_2365_2024#preambulo#p1",
+            "sentencia_t-262_2025#cuerpo#p82",
+            "ley_2365_2024#art_2#p1",
+            "ley_2365_2024#art_1#p1",
+            "sentencia_t-262_2025#cuerpo#p2",
+            "ley_1010_2006#art_2#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-262_2025#cuerpo#p53",
+            "sentencia_t-262_2025#cuerpo#p82",
+            "sentencia_t-262_2025#cuerpo#p2",
+            "ley_1010_2006#art_9#p1",
+            "ley_1010_2006#art_6#p1",
+            "sentencia_t-262_2025#cuerpo#p69",
+            "sentencia_t-262_2025#cuerpo#p59",
+            "ley_1010_2006#art_10#p1",
+            "ley_1010_2006#art_2#p1",
+            "ley_2365_2024#art_2#p1"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -1460,6 +3242,60 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-145_2018#cuerpo#p71",
+            "sentencia_c-145_2018#resuelve#p1",
+            "sentencia_c-145_2018#cuerpo#p53",
+            "sentencia_c-145_2018#cuerpo#p83",
+            "sentencia_c-145_2018#cuerpo#p48",
+            "sentencia_c-145_2018#cuerpo#p73",
+            "sentencia_c-145_2018#cuerpo#p54",
+            "sentencia_c-145_2018#cuerpo#p51",
+            "sentencia_c-145_2018#cuerpo#p23",
+            "sentencia_c-145_2018#cuerpo#p38"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-145_2018#cuerpo#p71",
+            "sentencia_c-145_2018#cuerpo#p53",
+            "sentencia_c-145_2018#cuerpo#p54",
+            "sentencia_c-145_2018#cuerpo#p77",
+            "sentencia_c-145_2018#cuerpo#p83",
+            "sentencia_c-145_2018#cuerpo#p15",
+            "sentencia_c-145_2018#cuerpo#p38",
+            "sentencia_c-145_2018#cuerpo#p35",
+            "sentencia_c-145_2018#cuerpo#p31",
+            "sentencia_c-145_2018#cuerpo#p48"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -1492,6 +3328,50 @@
             "ley_863_2003#art_17#p4",
             "consejo_estado_ce_suj_4_005_2020#preambulo#p25",
             "ley_1819_2016#art_59#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "estatuto_tributario-2#art_771-2#p1",
+            "estatuto_tributario-2#art_142#p1",
+            "estatuto_tributario-2#art_115#p1",
+            "consejo_estado_ce_suj_4_005_2020#preambulo#p25",
+            "estatuto_tributario-2#art_105#p2",
+            "estatuto_tributario-2#art_105#p1",
+            "estatuto_tributario-2#art_85#p1",
+            "estatuto_tributario-2#art_771-5#p6",
+            "estatuto_tributario-2#art_123#p1",
+            "ley_223_1995#art_84#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "consejo_estado_ce_suj_4_005_2020#preambulo#p25",
+            "estatuto_tributario-2#art_105#p2",
+            "consejo_estado_ce_suj_4_005_2020#preambulo#p2",
+            "ley_2277_2022#art_19#p1",
+            "ley_1819_2016#art_61#p2",
+            "estatuto_tributario-2#art_336-1#p1",
+            "sentencia_su-11_2020#cuerpo#p12",
+            "ley_2277_2022#art_60#p1",
+            "estatuto_tributario#art_85#p1",
+            "estatuto_tributario-2#art_771-2#p1"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -1530,6 +3410,50 @@
           ],
           "ranx": null,
           "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1946#p1",
+            "codigo_civil#art_1947#p1",
+            "codigo_civil#art_1892#p1",
+            "codigo_civil#art_1949#p1",
+            "codigo_civil#art_1954#p1",
+            "ley_2294_2023#art_21#p1",
+            "ley_1682_2013#art_25#p2",
+            "ley_600_2000#art_292#p1",
+            "ley_1682_2013#art_25#p3",
+            "ley_2437_2024#art_13#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1946#p1",
+            "codigo_civil#art_1947#p1",
+            "codigo_civil#art_1892#p1",
+            "codigo_civil#art_1949#p1",
+            "codigo_civil#art_1954#p1",
+            "corte_suprema_sin_radicado_sc_2017_07_18_2017#preambulo#p8",
+            "corte_suprema_sin_radicado_sc_2017_07_18_2017#preambulo#p30",
+            "codigo_civil#art_1950#p1",
+            "sentencia_sc_3674_2021#cuerpo#p221",
+            "corte_suprema_sin_radicado_sc_2017_07_18_2017#preambulo#p19"
+          ],
+          "ranx": null,
+          "ranx_documento": null
         }
       }
     },
@@ -1562,6 +3486,50 @@
             "sentencia_t-256_2025#resuelve#p6",
             "sentencia_t-256_2025#cuerpo#p11",
             "sentencia_t-256_2025#resuelve#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-325_2025#resuelve#p7",
+            "sentencia_t-232_2025#salvamentos#p25",
+            "sentencia_t-325_2025#resuelve#p9",
+            "sentencia_t-230_2023#resuelve#p3",
+            "sentencia_t-230_2023#resuelve#p4",
+            "sentencia_su-240_2015#resuelve#p3",
+            "sentencia_t-232_2025#salvamentos#p4",
+            "sentencia_t-325_2025#cuerpo#p5",
+            "sentencia_t-256_2025#cuerpo#p11",
+            "sentencia_t-256_2025#cuerpo#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-256_2025#cuerpo#p1",
+            "sentencia_t-256_2025#cuerpo#p11",
+            "sentencia_t-256_2025#resuelve#p12",
+            "sentencia_t-325_2025#resuelve#p7",
+            "sentencia_t-256_2025#resuelve#p107",
+            "sentencia_t-232_2025#salvamentos#p25",
+            "sentencia_t-256_2025#resuelve#p87",
+            "sentencia_t-325_2025#resuelve#p9",
+            "sentencia_t-256_2025#resuelve#p80",
+            "sentencia_t-230_2023#resuelve#p3"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -1654,6 +3622,70 @@
             "mrr@10": 0.3333333333333333,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 5,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "ley_2294_2023#art_32#p3",
+            "ley_2294_2023#art_32#p1",
+            "ley_2294_2023#art_341#p1",
+            "ley_1454_2011#art_29#p3",
+            "decreto_1333_1986#art_59#p1",
+            "decreto_1333_1986#art_32#p1",
+            "ley_2294_2023#art_32#p2",
+            "ley_2294_2023#art_322#p1",
+            "acto_legislativo_3_2023#art_2#p1",
+            "ley_2294_2023#art_52#p2"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.07894736842105263,
+            "recall@50": 0.07894736842105263,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 35,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.5,
+          "top10": [
+            "ley_2294_2023#art_52#p2",
+            "ley_2294_2023#art_32#p3",
+            "ley_2294_2023#art_32#p1",
+            "ley_2294_2023#art_36#p3",
+            "ley_2294_2023#art_52#p1",
+            "ley_2294_2023#art_55#p4",
+            "ley_160_1994#art_31#p2",
+            "ley_1753_2015#art_232#p1",
+            "ley_2294_2023#art_270#p1",
+            "ley_2294_2023#art_341#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.25,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.05263157894736842,
+            "recall@50": 0.10526315789473684,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -1704,6 +3736,70 @@
           "ranx_documento": {
             "recall@10": 0.0,
             "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 5,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.5,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_sc_18392_2017#cuerpo#p38",
+            "sentencia_sc_18392_2017#cuerpo#p23",
+            "sentencia_sc_18392_2017#cuerpo#p24",
+            "sentencia_sc_1121_2018#cuerpo#p4",
+            "sentencia_sc_18392_2017#cuerpo#p2",
+            "sentencia_sc_18392_2017#cuerpo#p4",
+            "sentencia_sc_18392_2017#cuerpo#p28",
+            "sentencia_sc_18392_2017#cuerpo#p31",
+            "sentencia_sc_18392_2017#cuerpo#p27",
+            "sentencia_sc_18392_2017#cuerpo#p35"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.5,
+            "recall@50": 0.5,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 11,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.5,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_sc_18392_2017#cuerpo#p38",
+            "sentencia_sc_18392_2017#cuerpo#p23",
+            "sentencia_sc_18392_2017#cuerpo#p4",
+            "sentencia_sc_18392_2017#cuerpo#p2",
+            "sentencia_sc_18392_2017#cuerpo#p27",
+            "sentencia_sc_18392_2017#cuerpo#p28",
+            "sentencia_sc_18392_2017#cuerpo#p1",
+            "sentencia_sc_18392_2017#cuerpo#p31",
+            "sentencia_sc_1121_2018#cuerpo#p4",
+            "sentencia_sc_18392_2017#cuerpo#p3"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.5,
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
@@ -1766,6 +3862,70 @@
             "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_penal#art_64#p1",
+            "ley_2098_2021#art_5#p1",
+            "ley_599_2000#art_64#p1",
+            "ley_1709_2014#art_30#p1",
+            "ley_890_2004#art_5#p1",
+            "codigo_procedimiento_penal#art_471#p1",
+            "ley_906_2004#art_471#p1",
+            "codigo_procedimiento_penal#art_472#p1",
+            "codigo_penal#art_65#p1",
+            "ley_600_2000#art_496#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.2222222222222222,
+            "recall@50": 0.2222222222222222,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_2098_2021#art_5#p1",
+            "codigo_penal#art_64#p1",
+            "ley_890_2004#art_5#p1",
+            "ley_599_2000#art_64#p1",
+            "codigo_procedimiento_penal#art_471#p1",
+            "ley_1709_2014#art_30#p1",
+            "ley_906_2004#art_471#p1",
+            "codigo_procedimiento_penal#art_472#p1",
+            "ley_1453_2011#art_25#p1",
+            "codigo_procedimiento_penal#art_474#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.2222222222222222,
+            "recall@50": 0.2222222222222222,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -1806,6 +3966,60 @@
             "ley_789_2002#art_29#p2",
             "codigo_sustantivo_trabajo#art_258#p1",
             "codigo_sustantivo_trabajo#art_76#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.3333333333333333,
+            "recall@50": 0.3333333333333333,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_sustantivo_trabajo#art_60#p1",
+            "codigo_sustantivo_trabajo#art_59#p1",
+            "codigo_sustantivo_trabajo#art_163#p1",
+            "codigo_sustantivo_trabajo#art_166#p1",
+            "codigo_sustantivo_trabajo#art_59#p3",
+            "codigo_sustantivo_trabajo#art_52#p1",
+            "codigo_sustantivo_trabajo#art_51#p1",
+            "codigo_sustantivo_trabajo#art_90#p1",
+            "codigo_sustantivo_trabajo#art_30#p1",
+            "ley_584_2000#art_7#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.3333333333333333,
+            "recall@50": 0.3333333333333333,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_sustantivo_trabajo#art_60#p1",
+            "codigo_sustantivo_trabajo#art_136#p1",
+            "codigo_sustantivo_trabajo#art_149#p1",
+            "ley_1429_2010#art_18#p1",
+            "codigo_sustantivo_trabajo#art_180#p1",
+            "codigo_sustantivo_trabajo#art_181#p1",
+            "codigo_sustantivo_trabajo#art_188#p1",
+            "codigo_sustantivo_trabajo#art_313#p1",
+            "codigo_sustantivo_trabajo#art_343#p1",
+            "codigo_sustantivo_trabajo#art_59#p1"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -1866,6 +4080,60 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-332_2025#cuerpo#p73",
+            "sentencia_c-468_2024#cuerpo#p44",
+            "sentencia_c-332_2025#cuerpo#p71",
+            "sentencia_c-332_2025#cuerpo#p39",
+            "sentencia_su-16_2020#cuerpo#p31",
+            "sentencia_c-332_2025#cuerpo#p76",
+            "sentencia_c-332_2025#cuerpo#p49",
+            "sentencia_c-468_2024#salvamentos#p24",
+            "sentencia_c-332_2025#cuerpo#p47",
+            "sentencia_c-332_2025#cuerpo#p44"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-332_2025#cuerpo#p71",
+            "sentencia_c-332_2025#cuerpo#p39",
+            "sentencia_su-16_2020#cuerpo#p39",
+            "sentencia_c-332_2025#cuerpo#p73",
+            "sentencia_c-332_2025#cuerpo#p47",
+            "sentencia_c-332_2025#cuerpo#p44",
+            "sentencia_c-332_2025#cuerpo#p49",
+            "sentencia_c-332_2025#cuerpo#p76",
+            "sentencia_c-332_2025#cuerpo#p12",
+            "sentencia_c-468_2024#salvamentos#p7"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -1910,6 +4178,60 @@
             "recall@10": 1.0,
             "recall@50": 1.0,
             "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-228_2010#cuerpo#p58",
+            "sentencia_c-228_2010#cuerpo#p98",
+            "sentencia_c-228_2010#cuerpo#p36",
+            "ley_1340_2009#art_9#p1",
+            "sentencia_c-228_2010#cuerpo#p27",
+            "sentencia_c-228_2010#cuerpo#p64",
+            "sentencia_c-228_2010#cuerpo#p94",
+            "sentencia_c-228_2010#cuerpo#p59",
+            "ley_1340_2009#art_9#p2",
+            "sentencia_c-228_2010#cuerpo#p67"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-228_2010#cuerpo#p98",
+            "sentencia_c-228_2010#cuerpo#p36",
+            "ley_1340_2009#art_9#p1",
+            "sentencia_c-228_2010#cuerpo#p64",
+            "sentencia_c-228_2010#cuerpo#p59",
+            "sentencia_c-228_2010#cuerpo#p58",
+            "sentencia_c-228_2010#cuerpo#p40",
+            "sentencia_c-228_2010#cuerpo#p41",
+            "ley_1340_2009#art_9#p2",
+            "sentencia_c-228_2010#cuerpo#p94"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
         }
@@ -1958,6 +4280,60 @@
             "mrr@10": 0.16666666666666666,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 5,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_procedimiento_civil#art_600#p2",
+            "estatuto_tributario-2#art_8#p1",
+            "ley_1564_2012#art_501#p2",
+            "codigo_general_proceso#art_501#p2",
+            "codigo_civil#art_1796#p1",
+            "sentencia_c-500_2024#cuerpo#p55",
+            "codigo_civil#art_1795#p1",
+            "sentencia_c-1033_2002#cuerpo#p16",
+            "codigo_civil#art_1781#p1",
+            "sentencia_sc_3085_2024#cuerpo#p53"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 4,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_procedimiento_civil#art_600#p2",
+            "ley_1564_2012#art_501#p2",
+            "codigo_general_proceso#art_501#p2",
+            "codigo_civil#art_1795#p1",
+            "codigo_civil#art_1781#p1",
+            "sentencia_sc_3085_2024#cuerpo#p45",
+            "codigo_civil#art_1796#p1",
+            "sentencia_sc_3085_2024#cuerpo#p46",
+            "sentencia_sc_3085_2024#cuerpo#p53",
+            "sentencia_sc_3085_2024#cuerpo#p9"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.25,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2004,6 +4380,60 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-277_2025#cuerpo#p110",
+            "sentencia_su-277_2025#cuerpo#p120",
+            "sentencia_t-760_2008#cuerpo#p16",
+            "sentencia_c-145_2020#cuerpo#p91",
+            "ley_790_2002#art_21#p1",
+            "sentencia_t-760_2008#cuerpo#p14",
+            "sentencia_su-277_2025#cuerpo#p115",
+            "sentencia_su-11_2020#salvamentos#p12",
+            "sentencia_c-1011_2008#cuerpo#p163",
+            "sentencia_t-760_2008#cuerpo#p12"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-277_2025#cuerpo#p110",
+            "sentencia_su-277_2025#cuerpo#p120",
+            "sentencia_c-145_2020#cuerpo#p91",
+            "sentencia_su-277_2025#cuerpo#p115",
+            "sentencia_t-760_2008#cuerpo#p16",
+            "sentencia_su-277_2025#cuerpo#p99",
+            "sentencia_su-277_2025#cuerpo#p8",
+            "sentencia_t-760_2008#cuerpo#p14",
+            "sentencia_su-277_2025#cuerpo#p117",
+            "sentencia_t-760_2008#cuerpo#p183"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2042,13 +4472,77 @@
             "codigo_general_proceso#art_372#p3",
             "codigo_procedimiento_civil#art_83#p2",
             "ley_2220_2022#art_93#p1",
-            "ley_1437_2011-2#art_224#p1",
+            "ley_1437_2011#art_224#p1",
             "cpaca#art_224#p1",
             "codigo_general_proceso#art_61#p1"
           ],
           "ranx": {
             "recall@10": 0.0,
             "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 0.75,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": 2,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "ley_2452_2025#art_44#p1",
+            "codigo_general_proceso#art_60#p1",
+            "codigo_procedimiento_civil#art_50#p1",
+            "ley_1564_2012#art_60#p1",
+            "codigo_general_proceso#art_192#p1",
+            "codigo_general_proceso#art_372#p3",
+            "codigo_general_proceso#art_62#p1",
+            "ley_2452_2025#art_46#p1",
+            "codigo_procedimiento_civil#art_51#p1",
+            "ley_1564_2012#art_62#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 0.75,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 17,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_general_proceso#art_372#p3",
+            "codigo_general_proceso#art_192#p1",
+            "ley_1564_2012#art_372#p3",
+            "codigo_procedimiento_civil#art_83#p2",
+            "ley_2452_2025#art_137#p1",
+            "cpaca#art_224#p1",
+            "codigo_procedimiento_civil#art_196#p1",
+            "ley_1564_2012#art_192#p1",
+            "ley_2452_2025#art_45#p1",
+            "codigo_general_proceso#art_61#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 1.0,
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           },
@@ -2147,6 +4641,70 @@
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.5,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-891_2012#cuerpo#p26",
+            "sentencia_c-389_2023#cuerpo#p2",
+            "sentencia_c-891_2012#cuerpo#p27",
+            "sentencia_c-891_2012#cuerpo#p2",
+            "sentencia_c-389_2023#cuerpo#p42",
+            "sentencia_c-891_2012#cuerpo#p28",
+            "sentencia_c-389_2023#cuerpo#p43",
+            "sentencia_c-891_2012#cuerpo#p1",
+            "sentencia_c-117_2018#cuerpo#p79",
+            "sentencia_c-891_2012#cuerpo#p31"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.5,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-389_2023#cuerpo#p2",
+            "sentencia_c-891_2012#cuerpo#p1",
+            "sentencia_c-389_2023#cuerpo#p42",
+            "sentencia_c-891_2012#cuerpo#p4",
+            "sentencia_c-891_2012#cuerpo#p2",
+            "sentencia_c-891_2012#cuerpo#p27",
+            "sentencia_c-389_2023#cuerpo#p44",
+            "sentencia_c-891_2012#cuerpo#p32",
+            "sentencia_c-891_2012#cuerpo#p39",
+            "sentencia_c-891_2012#cuerpo#p28"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          }
         }
       }
     },
@@ -2200,6 +4758,70 @@
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "estatuto_consumidor#art_42#p1",
+            "codigo_comercio#art_1103#p1",
+            "sentencia_c-345_2017#resuelve#p16",
+            "ley_1328_2009#art_11#p1",
+            "ley_142_1994#art_133#p5",
+            "estatuto_consumidor#art_43#p1",
+            "sentencia_sc_3674_2021#cuerpo#p304",
+            "estatuto_consumidor#art_43#p2",
+            "ley_2452_2025#art_303#p1",
+            "codigo_comercio#art_1038#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 5,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "estatuto_organico_sistema_financiero#art_39#p2",
+            "codigo_comercio#art_1047#p1",
+            "ley_1328_2009#art_61#p2",
+            "codigo_comercio#art_1038#p1",
+            "estatuto_organico_sistema_financiero#art_185#p1",
+            "ley_812_2003#art_23#p1",
+            "estatuto_consumidor#art_42#p1",
+            "ley_2161_2021#art_7#p1",
+            "codigo_comercio#art_1103#p1",
+            "estatuto_organico_sistema_financiero#art_205#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.2,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2235,6 +4857,50 @@
           ],
           "ranx": null,
           "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-429_2024#cuerpo#p109",
+            "codigo_comercio#art_298#p1",
+            "sentencia_c-276_2025#salvamentos#p7",
+            "ley_472_1998#art_46#p1",
+            "sentencia_c-486_1993#cuerpo#p15",
+            "sentencia_su-429_2024#cuerpo#p110",
+            "codigo_comercio#art_335#p1",
+            "sentencia_c-486_1993#cuerpo#p8",
+            "codigo_comercio#art_311#p1",
+            "sentencia_sc_3085_2024#cuerpo#p39"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-259_2015#cuerpo#p28",
+            "sentencia_su-429_2024#cuerpo#p109",
+            "sentencia_c-259_2015#cuerpo#p5",
+            "codigo_comercio#art_298#p1",
+            "sentencia_ce_s3_26251_2014#cuerpo#p96",
+            "sentencia_c-276_2025#salvamentos#p7",
+            "sentencia_c-259_2015#cuerpo#p71",
+            "ley_472_1998#art_46#p1",
+            "sentencia_c-591_2005#cuerpo#p197",
+            "sentencia_c-486_1993#cuerpo#p15"
+          ],
+          "ranx": null,
+          "ranx_documento": null
         }
       }
     },
@@ -2267,6 +4933,50 @@
             "constitucion#art_113#p1",
             "sentencia_su-296_2023#resuelve#p5",
             "ley_270_1996#art_98#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_t-1096_2008#cuerpo#p33",
+            "ley_137_1994#art_21#p1",
+            "sentencia_c-276_2025#salvamentos#p11",
+            "sentencia_su-149_2021#salvamentos#p23",
+            "constitucion#art_113#p1",
+            "sentencia_c-591_2005#cuerpo#p25",
+            "sentencia_su-11_2020#salvamentos#p24",
+            "sentencia_c-228_2010#cuerpo#p90",
+            "ley_2452_2025#art_267#p1",
+            "sentencia_c-700_1999#cuerpo#p76"
+          ],
+          "ranx": null,
+          "ranx_documento": null
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": null,
+          "cobertura_cuerpo@10": null,
+          "cobertura_cuerpo@50": null,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "constitucion#art_113#p1",
+            "sentencia_su-11_2020#salvamentos#p24",
+            "ley_270_1996#art_98#p1",
+            "ley_489_1998#art_38#p1",
+            "ley_2430_2024#art_12#p1",
+            "ley_2430_2024#art_85#p4",
+            "sentencia_t-1096_2008#cuerpo#p33",
+            "ley_270_1996#art_85#p4",
+            "ley_137_1994#art_21#p1",
+            "sentencia_su-431_2015#cuerpo#p83"
           ],
           "ranx": null,
           "ranx_documento": null
@@ -2321,6 +5031,70 @@
             "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_civil#art_113#p1",
+            "sentencia_c-39_2025#resuelve#p61",
+            "sentencia_c-577_2011#cuerpo#p208",
+            "sentencia_c-577_2011#cuerpo#p129",
+            "sentencia_c-985_2010#cuerpo#p29",
+            "sentencia_c-394_2017#salvamentos#p24",
+            "sentencia_c-577_2011#cuerpo#p189",
+            "ley_2447_2025#art_3#p1",
+            "codigo_civil#art_116#p1",
+            "codigo_civil#art_115#p1"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "codigo_civil#art_113#p1",
+            "sentencia_c-577_2011#cuerpo#p129",
+            "sentencia_c-577_2011#cuerpo#p189",
+            "sentencia_c-39_2025#resuelve#p61",
+            "sentencia_c-577_2011#cuerpo#p38",
+            "sentencia_c-577_2011#cuerpo#p208",
+            "sentencia_c-577_2011#cuerpo#p39",
+            "sentencia_c-577_2011#cuerpo#p101",
+            "sentencia_su-214_2016#cuerpo#p41",
+            "sentencia_c-577_2011#cuerpo#p41"
+          ],
+          "ranx": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2358,7 +5132,7 @@
             "ley_2452_2025#art_288#p1",
             "ley_1564_2012#art_398#p3",
             "ley_1564_2012#art_432#p2",
-            "estatuto_tributario#art_520#p1",
+            "estatuto_tributario-2#art_520#p1",
             "ley_1564_2012#art_384#p2",
             "codigo_general_proceso#art_432#p2",
             "codigo_general_proceso#art_384#p2"
@@ -2368,6 +5142,60 @@
             "recall@10": 1.0,
             "recall@50": 1.0,
             "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 0.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "codigo_civil#art_1587#p1",
+            "codigo_civil#art_1553#p1",
+            "codigo_procedimiento_civil#art_556#p2",
+            "codigo_civil#art_1651#p1",
+            "codigo_civil#art_1652#p1",
+            "codigo_civil#art_2316#p1",
+            "codigo_civil#art_1584#p1",
+            "codigo_civil#art_1558#p1",
+            "codigo_civil#art_1650#p1",
+            "sentencia_sc_3674_2021#cuerpo#p211"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 0.75,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "ley_2452_2025#art_288#p1",
+            "ley_1564_2012#art_421#p1",
+            "codigo_procedimiento_civil#art_556#p2",
+            "codigo_civil#art_1553#p1",
+            "codigo_general_proceso#art_421#p1",
+            "ley_1564_2012#art_381#p1",
+            "codigo_civil#art_1587#p1",
+            "codigo_general_proceso#art_381#p1",
+            "decreto_1333_1986#art_14#p1",
+            "codigo_civil#art_1651#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
             "hit_rate@10": 1.0
           }
         }
@@ -2416,6 +5244,60 @@
             "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-455_2020#cuerpo#p1",
+            "sentencia_sc_3085_2024#salvamentos#p1",
+            "sentencia_su-455_2020#cuerpo#p19",
+            "sentencia_c-145_2020#cuerpo#p13",
+            "sentencia_t-26_2025#cuerpo#p74",
+            "sentencia_su-455_2020#salvamentos#p21",
+            "sentencia_su-455_2020#salvamentos#p11",
+            "sentencia_su-455_2020#cuerpo#p30",
+            "sentencia_t-230_2023#resuelve#p4",
+            "sentencia_su-425_2025#salvamentos#p2"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_su-455_2020#cuerpo#p1",
+            "sentencia_su-455_2020#salvamentos#p21",
+            "sentencia_su-455_2020#salvamentos#p11",
+            "sentencia_su-455_2020#cuerpo#p19",
+            "sentencia_su-455_2020#salvamentos#p9",
+            "sentencia_su-455_2020#cuerpo#p30",
+            "sentencia_su-455_2020#salvamentos#p1",
+            "sentencia_su-455_2020#cuerpo#p5",
+            "sentencia_su-455_2020#cuerpo#p34",
+            "sentencia_su-455_2020#salvamentos#p8"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2454,6 +5336,60 @@
             "sentencia_c-39_2025#resuelve#p60",
             "sentencia_c-39_2025#cuerpo#p10",
             "sentencia_c-183_2025#cuerpo#p10"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-39_2025#cuerpo#p10",
+            "sentencia_c-39_2025#resuelve#p93",
+            "sentencia_c-39_2025#cuerpo#p1",
+            "sentencia_c-183_2025#salvamentos#p18",
+            "sentencia_c-39_2025#cuerpo#p4",
+            "sentencia_c-39_2025#cuerpo#p8",
+            "sentencia_c-55_2022#cuerpo#p143",
+            "sentencia_t-77_2025#resuelve#p9",
+            "sentencia_c-500_2024#resuelve#p9",
+            "sentencia_c-259_2015#resuelve#p4"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-39_2025#cuerpo#p10",
+            "sentencia_c-39_2025#cuerpo#p1",
+            "sentencia_c-39_2025#cuerpo#p4",
+            "sentencia_c-39_2025#cuerpo#p8",
+            "sentencia_c-39_2025#cuerpo#p11",
+            "sentencia_c-39_2025#resuelve#p21",
+            "sentencia_c-39_2025#salvamentos#p21",
+            "sentencia_c-39_2025#resuelve#p7",
+            "sentencia_sc_3085_2024#salvamentos#p1",
+            "sentencia_c-39_2025#salvamentos#p22"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -2513,6 +5449,70 @@
             "mrr@10": 0.2,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-228_2010#cuerpo#p8",
+            "sentencia_c-228_2010#cuerpo#p52",
+            "sentencia_c-228_2010#cuerpo#p54",
+            "sentencia_c-228_2010#cuerpo#p9",
+            "sentencia_c-228_2010#cuerpo#p103",
+            "sentencia_c-228_2010#cuerpo#p28",
+            "sentencia_c-32_2017#cuerpo#p25",
+            "decreto_2153_1992#art_50#p1",
+            "ley_142_1994#art_133#p5",
+            "sentencia_c-228_2010#cuerpo#p101"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "sentencia_c-228_2010#cuerpo#p52",
+            "sentencia_c-228_2010#cuerpo#p54",
+            "sentencia_c-228_2010#cuerpo#p9",
+            "sentencia_c-228_2010#cuerpo#p8",
+            "decreto_2153_1992#art_50#p1",
+            "ley_142_1994#art_133#p1",
+            "sentencia_c-32_2017#cuerpo#p60",
+            "sentencia_c-32_2017#cuerpo#p25",
+            "sentencia_c-228_2010#cuerpo#p103",
+            "sentencia_c-228_2010#cuerpo#p40"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2551,6 +5551,60 @@
             "sentencia_c-891_2012#cuerpo#p7",
             "sentencia_c-891_2012#cuerpo#p9",
             "sentencia_c-891_2012#cuerpo#p11"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-891_2012#resuelve#p7",
+            "sentencia_c-891_2012#resuelve#p2",
+            "sentencia_c-891_2012#cuerpo#p1",
+            "sentencia_c-891_2012#resuelve#p8",
+            "sentencia_c-891_2012#resuelve#p1",
+            "sentencia_c-891_2012#cuerpo#p11",
+            "sentencia_c-891_2012#resuelve#p5",
+            "sentencia_c-891_2012#cuerpo#p22",
+            "ley_1581_2012#art_34#p24",
+            "sentencia_c-891_2012#cuerpo#p19"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-891_2012#cuerpo#p1",
+            "sentencia_c-891_2012#cuerpo#p11",
+            "sentencia_c-891_2012#cuerpo#p25",
+            "sentencia_c-891_2012#resuelve#p7",
+            "sentencia_c-891_2012#cuerpo#p17",
+            "sentencia_c-891_2012#resuelve#p8",
+            "sentencia_c-891_2012#cuerpo#p22",
+            "sentencia_c-891_2012#cuerpo#p19",
+            "sentencia_c-891_2012#resuelve#p5",
+            "sentencia_c-891_2012#resuelve#p6"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -2642,6 +5696,60 @@
             "mrr@10": 0.1,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 8,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "decreto_111_1996#art_80#p1",
+            "ley_70_1993#art_64#p1",
+            "ley_152_1994#art_22#p1",
+            "ley_181_1995#art_87#p1",
+            "decreto_1333_1986#art_13#p1",
+            "ley_179_1994#art_59#p1",
+            "decreto_2651_1991#art_60#p1",
+            "constitucion#art_T43#p1",
+            "ley_137_1994#art_49#p1",
+            "ley_137_1994#art_32#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.05263157894736842,
+            "recall@50": 0.13157894736842105,
+            "mrr@10": 0.125,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 6,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "decreto_111_1996#art_80#p1",
+            "decreto_2651_1991#art_60#p1",
+            "ley_181_1995#art_87#p1",
+            "ley_278_1996#art_11#p1",
+            "decreto_111_1996#art_76#p1",
+            "ley_137_1994#art_49#p1",
+            "constitucion#art_351#p1",
+            "ley_70_1993#art_64#p1",
+            "ley_2155_2021#art_63#p1",
+            "ley_152_1994#art_22#p1"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 0.02631578947368421,
+            "recall@50": 0.10526315789473684,
+            "mrr@10": 0.16666666666666666,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2680,6 +5788,60 @@
             "sentencia_c-55_2022#cuerpo#p104",
             "sentencia_c-55_2022#cuerpo#p123",
             "sentencia_c-55_2022#cuerpo#p31"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-355_2006#cuerpo#p22",
+            "sentencia_c-55_2022#cuerpo#p68",
+            "sentencia_c-55_2022#cuerpo#p14",
+            "sentencia_c-355_2006#cuerpo#p106",
+            "sentencia_c-355_2006#cuerpo#p20",
+            "sentencia_c-15_2018#resuelve#p20",
+            "sentencia_c-355_2006#cuerpo#p68",
+            "sentencia_c-355_2006#cuerpo#p85",
+            "sentencia_c-355_2006#cuerpo#p23",
+            "sentencia_c-355_2006#cuerpo#p34"
+          ],
+          "ranx": null,
+          "ranx_documento": {
+            "recall@10": 1.0,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": null,
+          "cobertura_articulo@50": null,
+          "top10": [
+            "sentencia_c-55_2022#cuerpo#p17",
+            "sentencia_c-55_2022#cuerpo#p68",
+            "sentencia_c-355_2006#cuerpo#p112",
+            "sentencia_c-55_2022#cuerpo#p115",
+            "sentencia_c-55_2022#cuerpo#p104",
+            "sentencia_c-355_2006#cuerpo#p18",
+            "sentencia_c-55_2022#cuerpo#p31",
+            "sentencia_c-55_2022#cuerpo#p126",
+            "sentencia_c-55_2022#cuerpo#p32",
+            "sentencia_c-355_2006#cuerpo#p67"
           ],
           "ranx": null,
           "ranx_documento": {
@@ -2746,6 +5908,70 @@
             "recall@50": 0.2222222222222222,
             "mrr@10": 0.0,
             "hit_rate@10": 0.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "ley_599_2000#art_397#p1",
+            "codigo_penal#art_399#p1",
+            "codigo_penal#art_397#p1",
+            "ley_599_2000#art_399#p1",
+            "ley_80_1993#art_58#p1",
+            "codigo_penal#art_409#p1",
+            "codigo_penal#art_398#p1",
+            "ley_599_2000#art_398#p1",
+            "ley_599_2000#art_400#p1",
+            "sentencia_c-80_2025#cuerpo#p61"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.3333333333333333,
+            "recall@50": 0.3333333333333333,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 3,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.0,
+          "top10": [
+            "sentencia_c-80_2025#cuerpo#p61",
+            "ley_1453_2011#art_72#p2",
+            "ley_599_2000#art_398#p1",
+            "codigo_penal#art_398#p1",
+            "sentencia_c-80_2025#cuerpo#p60",
+            "ley_599_2000#art_397#p1",
+            "ley_80_1993#art_3#p1",
+            "codigo_penal#art_399#p1",
+            "sentencia_c-15_2018#cuerpo#p84",
+            "codigo_penal#art_397#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.2222222222222222,
+            "recall@50": 0.3333333333333333,
+            "mrr@10": 0.3333333333333333,
+            "hit_rate@10": 1.0
           }
         }
       }
@@ -2843,6 +6069,70 @@
             "mrr@10": 0.3333333333333333,
             "hit_rate@10": 1.0
           }
+        },
+        "denso": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 2,
+          "cobertura_cuerpo@10": 0.5,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.2,
+          "top10": [
+            "ley_1429_2010#art_63#p1",
+            "codigo_sustantivo_trabajo#art_89#p1",
+            "ley_2466_2025#art_6#p3",
+            "codigo_sustantivo_trabajo#art_98#p1",
+            "sentencia_t-325_2025#cuerpo#p3",
+            "ley_1438_2011#art_103#p1",
+            "codigo_sustantivo_trabajo#art_339#p1",
+            "codigo_sustantivo_trabajo#art_46#p3",
+            "codigo_sustantivo_trabajo#art_22#p1",
+            "ley_2155_2021#art_25#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.07317073170731707,
+            "recall@50": 0.12195121951219512,
+            "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": null,
+          "rank_primer_doc_relevante": 4,
+          "cobertura_cuerpo@10": 0.5,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 0.0,
+          "cobertura_articulo@50": 0.2,
+          "top10": [
+            "ley_789_2002#art_25#p1",
+            "ley_1429_2010#art_63#p1",
+            "ley_2466_2025#art_10#p1",
+            "codigo_sustantivo_trabajo#art_89#p1",
+            "codigo_sustantivo_trabajo#art_160#p1",
+            "ley_2466_2025#art_6#p3",
+            "sentencia_c-201_2002#salvamentos#p21",
+            "codigo_sustantivo_trabajo#art_98#p1",
+            "sentencia_t-153_1998#cuerpo#p42",
+            "sentencia_t-325_2025#cuerpo#p3"
+          ],
+          "ranx": {
+            "recall@10": 0.0,
+            "recall@50": 0.0,
+            "mrr@10": 0.0,
+            "hit_rate@10": 0.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.024390243902439025,
+            "recall@50": 0.0975609756097561,
+            "mrr@10": 0.25,
+            "hit_rate@10": 1.0
+          }
         }
       }
     },
@@ -2867,7 +6157,7 @@
       ],
       "runs": {
         "bm25": {
-          "rank_primer_relevante": 2,
+          "rank_primer_relevante": 8,
           "rank_primer_doc_relevante": 2,
           "cobertura_cuerpo@10": 1.0,
           "cobertura_cuerpo@50": 1.0,
@@ -2875,8 +6165,8 @@
           "cobertura_articulo@50": 1.0,
           "top10": [
             "ley_2080_2021#art_66#p1",
-            "ley_1437_2011#art_246#p1",
-            "ley_1437_2011#art_244#p1",
+            "ley_1437_2011-2#art_246#p1",
+            "ley_1437_2011-2#art_244#p1",
             "codigo_general_proceso#art_331#p1",
             "cpaca#art_244#p1",
             "ley_1564_2012#art_331#p1",
@@ -2886,15 +6176,79 @@
             "ley_1395_2010#art_17#p1"
           ],
           "ranx": {
-            "recall@10": 0.5,
-            "recall@50": 1.0,
-            "mrr@10": 0.5,
+            "recall@10": 0.25,
+            "recall@50": 0.75,
+            "mrr@10": 0.125,
             "hit_rate@10": 1.0
           },
           "ranx_documento": {
             "recall@10": 1.0,
             "recall@50": 1.0,
             "mrr@10": 0.5,
+            "hit_rate@10": 1.0
+          }
+        },
+        "denso": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "cpaca#art_246#p2",
+            "ley_1564_2012#art_322#p2",
+            "ley_1564_2012#art_318#p1",
+            "codigo_general_proceso#art_318#p1",
+            "ley_1564_2012#art_90#p2",
+            "codigo_general_proceso#art_322#p2",
+            "decreto_1818_1998#art_60#p1",
+            "ley_1395_2010#art_90#p1",
+            "ley_906_2004#art_178#p1",
+            "ley_1437_2011-2#art_244#p2"
+          ],
+          "ranx": {
+            "recall@10": 0.25,
+            "recall@50": 0.25,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 0.75,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          }
+        },
+        "rrf": {
+          "rank_primer_relevante": 1,
+          "rank_primer_doc_relevante": 1,
+          "cobertura_cuerpo@10": 1.0,
+          "cobertura_cuerpo@50": 1.0,
+          "cobertura_articulo@10": 1.0,
+          "cobertura_articulo@50": 1.0,
+          "top10": [
+            "cpaca#art_246#p2",
+            "cpaca#art_244#p1",
+            "ley_1564_2012#art_318#p1",
+            "codigo_general_proceso#art_318#p1",
+            "ley_1564_2012#art_331#p1",
+            "ley_1437_2011-2#art_244#p1",
+            "codigo_general_proceso#art_331#p1",
+            "ley_2080_2021#art_66#p2",
+            "ley_906_2004#art_178#p1",
+            "ley_1395_2010#art_68#p1"
+          ],
+          "ranx": {
+            "recall@10": 0.25,
+            "recall@50": 0.75,
+            "mrr@10": 1.0,
+            "hit_rate@10": 1.0
+          },
+          "ranx_documento": {
+            "recall@10": 0.75,
+            "recall@50": 1.0,
+            "mrr@10": 1.0,
             "hit_rate@10": 1.0
           }
         }
