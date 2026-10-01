@@ -16,6 +16,15 @@
 #     numero: <int|null>            # numero de la ley/decreto, si aplica
 #     anio: <int|null>               # anio de expedicion, si aplica
 #     alias: [...]                   # formas de cita reconocidas (en minusculas, sin tildes)
+#
+# tipo/numero/anio para codigo_civil, codigo_comercio y codigo_procesal_trabajo
+# no existen en scripts/citations.py (_ALIAS_NUM no los trae); se completaron
+# aqui tomando data/seed_targets.json como fuente de verdad del corpus
+# (entradas "Codigo civil" -> ['ley','84','1873'], "Codigo de comercio" ->
+# ['decreto','410','1971'] y "Decreto 2158 de 1948 - Codigo Procesal del
+# Trabajo..." -> ['decreto','2158','1948']), para que to_canonical_id() pueda
+# resolver el ID completo (p. ej. "ley_84_1873#art_946") en vez de quedarse en
+# el slug desnudo.
 
 codigos:
   constitucion:
@@ -25,9 +34,9 @@ codigos:
     alias: ["constitucion politica", "constitucion nacional", "constitucion",
             "c.p.", "cp", "c.n.", "carta politica"]
   codigo_civil:
-    tipo: null
-    numero: null
-    anio: null
+    tipo: ley
+    numero: 84
+    anio: 1873
     alias: ["codigo civil", "c.c.", "cc", "c.c"]
   codigo_penal:
     tipo: ley
@@ -40,9 +49,9 @@ codigos:
     anio: 2004
     alias: ["codigo de procedimiento penal", "ley 906 de 2004", "cpp"]
   codigo_comercio:
-    tipo: null
-    numero: null
-    anio: null
+    tipo: decreto
+    numero: 410
+    anio: 1971
     alias: ["codigo de comercio", "codigo del comercio", "c.co.", "cco"]
   codigo_sustantivo_trabajo:
     tipo: null
@@ -50,9 +59,9 @@ codigos:
     anio: null
     alias: ["codigo sustantivo del trabajo", "c.s.t.", "cst"]
   codigo_procesal_trabajo:
-    tipo: null
-    numero: null
-    anio: null
+    tipo: decreto
+    numero: 2158
+    anio: 1948
     alias: ["codigo procesal del trabajo", "cpts", "cpt"]
   codigo_general_proceso:
     tipo: ley
@@ -109,3 +118,33 @@ alias_numero:
   - {tipo: ley, numero: 1952, slug: codigo_disciplinario}
   - {tipo: decreto, numero: 624, slug: estatuto_tributario}
   - {tipo: ley, numero: 1480, slug: estatuto_consumidor}
+
+# Codigos derogados que aparecen en data/corpus_manifest.json (descargados y
+# segmentados correctamente: ver doc_id codigo_procedimiento_civil,
+# codigo_contencioso_administrativo y codigo_menor) pero que NO existen en
+# scripts/citations.py (CODES/_ALIAS_NUM) ni en data/seed_targets.json. Al no
+# estar en citations.py, estos alias NO los reconoce citations.extract() (el
+# evaluador oficial), solo el matcher adicional de scripts/normalizacion.py
+# (_extract_extensiones), pensado para expansion de consultas, interfaz y
+# analisis de errores. Numero/anio confirmados leyendo el encabezado real de
+# cada norma en data/md/<doc_id>.md, no inferidos.
+#
+# NOTA: el doc_id "codigo_procedimental_laboral" del manifiesto NO es un
+# codigo nuevo: es el Decreto-Ley 2158 de 1948, el mismo que ya cubre el slug
+# codigo_procesal_trabajo (arriba) bajo otra URL del Senado.
+extensiones:
+  codigo_procedimiento_civil:
+    tipo: decreto
+    numero: 1400
+    anio: 1970
+    alias: ["codigo de procedimiento civil", "c.p.c.", "cpc"]
+  codigo_contencioso_administrativo:
+    tipo: decreto
+    numero: 1
+    anio: 1984
+    alias: ["codigo contencioso administrativo", "c.c.a.", "cca"]
+  codigo_menor:
+    tipo: decreto
+    numero: 2737
+    anio: 1989
+    alias: ["codigo del menor", "codigo de menor"]
