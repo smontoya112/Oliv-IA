@@ -1,4 +1,4 @@
-"""Fase 7: generación de la respuesta (decoder + vLLM + prompts + postproceso).
+"""Fase 7: generación de la respuesta (decoder llama.cpp + prompts + postproceso).
 
 Contrato con la fase 6 (recuperación):
     generar(item, pasajes, motor)              -> dict con el formato de submission.schema.json

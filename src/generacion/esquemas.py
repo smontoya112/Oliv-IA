@@ -1,4 +1,4 @@
-"""JSON schemas para la salida guiada de vLLM (uno por formato).
+"""JSON schemas para la salida guiada (gramática de llama.cpp) (uno por formato).
 
 El orden de las propiedades importa: el modelo escribe en ese orden, así que el
 razonamiento (justificación/análisis) va ANTES de la decisión (letra elegida).

@@ -40,9 +40,9 @@ def _validar(subs: list[dict], esperados: set[int]) -> list[str]:
 
 
 def correr(modelo: str, items: list[dict], pasajes: dict, salida: Path, contexto: str,
-           max_model_len: int) -> list[dict]:
+           n_ctx: int) -> list[dict]:
     from .motor import Motor
-    motor = Motor(modelo, max_model_len=max_model_len)
+    motor = Motor(modelo, n_ctx=n_ctx)
     todas, filas = [], []
     for formato in ("multiple_choice", "semi_open", "open_ended"):
         lote = [it for it in items if it["formato"] == formato]
@@ -85,7 +85,7 @@ def main() -> None:
     ap.add_argument("--muestra", type=Path, default=Path("data/sample_50.jsonl"))
     ap.add_argument("--salida", type=Path, default=Path("data/processed/bench_generacion"))
     ap.add_argument("--csv", type=Path, default=Path("data/processed/bench_generacion.csv"))
-    ap.add_argument("--max-model-len", type=int, default=8192)
+    ap.add_argument("--n-ctx", type=int, default=8192)
     args = ap.parse_args()
     _configurar_logs()
 
@@ -96,7 +96,7 @@ def main() -> None:
     for modelo in args.modelo:
         try:
             filas = correr(modelo, items, pasajes, args.salida, args.contexto.stem,
-                           args.max_model_len)
+                           args.n_ctx)
         except Exception as e:                      # un modelo roto no detiene a los demás
             log.error("%s: %s: %s", modelo, type(e).__name__, e)
             continue

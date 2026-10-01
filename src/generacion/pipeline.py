@@ -22,11 +22,11 @@ def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOK
 def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
                  presupuesto: int = PRESUPUESTO_TOKENS,
                  ejemplos: dict[str, list[dict]] | None = None) -> list[dict]:
-    """Genera todos los ítems en un solo lote vLLM. Devuelve las líneas de submissions.jsonl
+    """Genera todos los ítems en un solo lote. Devuelve las líneas de submissions.jsonl
     (con latencia_ms = tiempo del lote / n, la medición fina está en bench.py)."""
     prep = [preparar(it, pasajes_por_id.get(it["id"], []), presupuesto, ejemplos) for it in items]
     t0 = time.perf_counter()
-    # vLLM acepta un tope de tokens por llamada: se usa el mayor de los formatos presentes.
+    # El motor recibe un solo tope de tokens por lote: se usa el mayor de los formatos presentes.
     tope = max(MAX_TOKENS_SALIDA[it["formato"]] for it in items)
     crudos = motor.generar_lote([p[0] for p in prep], [p[1] for p in prep], max_tokens=tope)
     ms = int((time.perf_counter() - t0) * 1000 / max(len(items), 1))
