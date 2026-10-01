@@ -45,7 +45,7 @@ enviar_resumen() {   # enviar_resumen "nombre del job"
         echo "$asunto"
         echo "Nodo: $(hostname) · log: $PWD/$OUT · errores: $PWD/$ERR"
         echo
-        grep -E 'documentos:|Listos:|links con|✗|⚠' "$OUT" 2>/dev/null | head -60
+        grep -E 'documentos:|Listos:|links con|RESULTADO|n_chunks|✗|⚠' "$OUT" 2>/dev/null | head -60
         echo
         echo "--- errores (.err, primeras 40 líneas) ---"
         head -40 "$ERR" 2>/dev/null

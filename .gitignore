@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Fase 5: binarios del índice (se publican aparte, paso 12.3). Se versionan
+# data/index/index_config.json y data/index/eval_recuperacion.json.
+data/index/faiss.index
+data/index/embeddings.npy
+data/index/bm25/
+data/index/citas_chunks.parquet
+data/index/chunk_ids.json
+data/index_prueba/

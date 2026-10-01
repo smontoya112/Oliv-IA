@@ -7,9 +7,11 @@ requires-python = ">=3.12"
 dependencies = [
     "accelerate>=1.15.0",
     "beautifulsoup4>=4.15.0",
+    "bm25s>=0.3.11",
     "charset-normalizer>=3.5.1",
     "datasets>=5.0.1",
     "docling>=2.0",
+    "faiss-cpu>=1.15.1",
     "ftfy>=6.3.1",
     "httpx>=0.28.1",
     "langchain-huggingface>=1.2.2",
@@ -21,6 +23,7 @@ dependencies = [
     "pytest>=9.1.1",
     "pyyaml>=6.0.3",
     "ragas>=0.4.3",
+    "ranx>=0.3.21",
     "torch>=2.14.0",
     "transformers>=5.17.0",
 ]
