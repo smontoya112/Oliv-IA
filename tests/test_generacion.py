@@ -66,11 +66,14 @@ def test_ensamblar_valido_y_abstencion():
                    PASAJES, latencia_ms=5)
     assert ok["abstencion"] is False and ok["pasajes_recuperados"][0]["doc_id"] == "ley_472_1998"
     assert ok["latencia_ms"] == 5
-    for caso in (ensamblar(SEMI, None, PASAJES), ensamblar(SEMI, {"respuesta": "x"}, PASAJES),
-                 ensamblar(SEMI, {"respuesta": "x", "palabras_clave": ["a"], "referencia_legal": "r"}, [])):
-        assert caso["abstencion"] is True and caso["pasajes_recuperados"] == []
+    for caso in (ensamblar(SEMI, None, PASAJES), ensamblar(SEMI, {"respuesta": "x"}, PASAJES)):
+        # la abstención conserva la evidencia (como el ítem 218 del ejemplo de entrega)
+        assert caso["abstencion"] is True and caso["pasajes_recuperados"][0]["doc_id"] == "ley_472_1998"
+    sin = ensamblar(SEMI, {"respuesta": "x", "palabras_clave": ["a"], "referencia_legal": "r"}, [])
+    assert sin["abstencion"] is True and sin["pasajes_recuperados"] == []
     mc = ensamblar(MC, {"respuesta_correcta": "Q", "justificacion": "j"}, PASAJES)
-    assert mc["abstencion"] is True                                 # letra inválida -> no se inventa
+    # una cerrada nunca se abstiene si hay pasajes (fase 8.4): la letra inválida se reemplaza
+    assert mc["abstencion"] is False and mc["respuesta_correcta"] in MC["opciones"]
 
 
 def test_ensamblar_limita_a_10_pasajes():

@@ -22,9 +22,13 @@ def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOK
 
 def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
                  presupuesto: int = PRESUPUESTO_TOKENS,
-                 ejemplos: dict[str, list[dict]] | None = None) -> list[dict]:
+                 ejemplos: dict[str, list[dict]] | None = None,
+                 senales_por_id: dict | None = None, catalogo=None) -> list[dict]:
     """Genera todos los ítems en un solo lote. Devuelve las líneas de submissions.jsonl
-    (con latencia_ms = tiempo del lote / n, la medición fina está en bench.py)."""
+    (con latencia_ms = tiempo del lote / n, la medición fina está en bench.py).
+
+    `ensamblar` recibe todos los pasajes recuperados (no solo los del prompt) para que la
+    fase 8 pueda verificar las citas contra el top 10 completo."""
     contar = getattr(motor, "contar", None)
     prep = [preparar(it, pasajes_por_id.get(it["id"], []), presupuesto, ejemplos, contar)
             for it in items]
@@ -33,8 +37,10 @@ def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
     tope = max(MAX_TOKENS_SALIDA[it["formato"]] for it in items)
     crudos = motor.generar_lote([p[0] for p in prep], [p[1] for p in prep], max_tokens=tope)
     ms = int((time.perf_counter() - t0) * 1000 / max(len(items), 1))
-    return [ensamblar(it, parsear_json(c), p[2], ms)
-            for it, c, p in zip(items, crudos, prep)]
+    senales_por_id = senales_por_id or {}
+    return [ensamblar(it, parsear_json(c), pasajes_por_id.get(it["id"], []), ms,
+                      senales_por_id.get(it["id"]), catalogo)
+            for it, c in zip(items, crudos)]
 
 
 def generar(item: dict, pasajes: list[dict], motor, **kw) -> dict:

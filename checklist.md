@@ -59,11 +59,11 @@
 - [ ] **Paso 7.5:** Ajustar la concisión y terminología jurídica orientada a optimizar RAGAS Answer Correctness.
 
 ## Fase 8: Verificación de citas y abstención (Jueves 1 - Viernes 2)
-- [ ] **Paso 8.1:** Extraer y canonizar citas presentes en el texto generado mediante el parser de la Fase 4.
-- [ ] **Paso 8.2:** Validar que cada cita tenga respaldo en los primeros 10 pasajes recuperados; suprimir o corregir las no respaldadas.
-- [ ] **Paso 8.3:** Reordenar los pasajes recuperados garantizando que los citados estén dentro del top 10.
-- [ ] **Paso 8.4:** Definir la política de abstención según puntaje de reranking, disponibilidad de citas e insuficiencia de evidencia.
-- [ ] **Paso 8.5:** Implementar la validación automática del esquema JSON final con `jsonschema`.
+- [ ] **Paso 8.1:** Extraer y canonizar citas presentes en el texto generado mediante el parser de la Fase 4. → código listo (`src/verificacion/citas.py`: `citations.extract`, el mismo parser del evaluador, + `normalizacion.to_canonical_id`); falta validar con las salidas del paso 7 (`python -m src.verificacion.aplicar`).
+- [ ] **Paso 8.2:** Validar que cada cita tenga respaldo en los primeros 10 pasajes recuperados; suprimir o corregir las no respaldadas. → código listo (`src/verificacion/citas.py`, `verificar`): si la norma está en el corpus trae su chunk al top 10; si no, elimina la oración; falta validar con las salidas del paso 7.
+- [ ] **Paso 8.3:** Reordenar los pasajes recuperados garantizando que los citados estén dentro del top 10. → código listo (`src/verificacion/orden.py`); falta validar con las salidas del paso 7.
+- [ ] **Paso 8.4:** Definir la política de abstención según puntaje de reranking, disponibilidad de citas e insuficiencia de evidencia. → código listo (`src/verificacion/abstencion.py`): abstención mínima (nunca en selección múltiple; en libres solo si falla la generación o la recuperación); `UMBRAL_TOP1` desactivado, falta calibrarlo con `--ragas`.
+- [ ] **Paso 8.5:** Implementar la validación automática del esquema JSON final con `jsonschema`. → código listo (`src/verificacion/esquema.py`): `jsonschema` si está instalado (falta en `.venv` y en `.venv-gen`), si no un validador mínimo equivalente, + `evaluate.validate`.
 
 ## Fase 9: Iteración sobre las muestras (Miércoles 30 - Viernes 2)
 - [ ] **Paso 9.1:** Ejecutar ciclos de evaluación sobre las 50 muestras con y sin bandera `--ragas`.
