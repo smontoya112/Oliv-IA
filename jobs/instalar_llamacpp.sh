@@ -7,11 +7,16 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=16G
+#SBATCH --gres=gpu:1
+#SBATCH --partition=gpu
 #SBATCH --time=01:30:00
 #
 # Compila llama-cpp-python con CUDA 11.8 en .venv-gen (una sola vez, ~10-20 min). Hace falta
 # porque los nodos GPU de hypatia (Quadro RTX 6000, driver CUDA 11.8) no corren vLLM, y las
-# ruedas precompiladas de llama-cpp-python ya no traen CUDA 11.8. No necesita GPU para compilar.
+# ruedas precompiladas de llama-cpp-python ya no traen CUDA 11.8. La COMPILACIÓN no necesita
+# GPU, pero el paso 3/3 (prueba de importación) sí: libllama.so queda enlazada contra
+# libcuda.so.1 (el driver de NVIDIA), que solo existe en nodos con GPU física. Por eso el job
+# pide --gres=gpu:1 igual que jobs/recuperar.sh.
 #
 #     mkdir -p logs
 #     sbatch jobs/instalar_llamacpp.sh
