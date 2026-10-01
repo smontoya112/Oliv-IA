@@ -47,9 +47,11 @@ if [[ $ESTADO -eq 0 ]]; then
     # CUDA) aborta durante el primer llama_decode en el driver CUDA 11.8 de hypatia
     # (ggml_cuda_pool_vmm::alloc, ver generacion_bench_751503.err); se usa el allocator
     # clásico (cudaMalloc), compatible con este driver.
+    # --no-cache: uv cachea el build de llama-cpp-python por versión+hash del sdist, sin
+    # tener en cuenta CMAKE_ARGS; sin esto, reutiliza una compilación vieja sin este flag.
     CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=on" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
-        correr uv pip install --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
+        correr uv pip install --no-cache --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "3/3 prueba de importación"
