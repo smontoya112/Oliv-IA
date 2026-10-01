@@ -15,7 +15,12 @@ class Config:
     k_area: int = 200           # tamaño del ranking fusionado sobre el que se filtra por área
     k_fusion: int = 50          # candidatos que entran al reranker
     top_final: int = 10         # pasajes que se devuelven (solo cuentan los 10 primeros)
-    area_modo: str = "filtro"   # "filtro" | "ninguno"
+    # "filtro" | "ninguno". Calibrado con las ablaciones de sample_50 (ver
+    # data/recuperacion/ablaciones.json): con reranker activo, "sin área"
+    # (ninguno) dio la mejor cobertura (cuerpo@10 0.9375, articulo@10 0.6158,
+    # contra 0.925/0.6053 de la corrida con filtro de área), así que queda
+    # "ninguno" por defecto. "filtro" sigue disponible via --area filtro.
+    area_modo: str = "ninguno"
     min_en_area: int = 20       # si quedan menos candidatos en el área, se usa todo el corpus
     directos: bool = True       # 6.1 inclusión directa de normas nombradas en el enunciado
     n_directos: int = 4

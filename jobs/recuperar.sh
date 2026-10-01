@@ -17,7 +17,10 @@
 #     salida:   data/recuperacion/<split>.jsonl y <split>.config.json (hiperparámetros y
 #               commits de los modelos, para reproducir)
 # Con data/sample_50.jsonl también corre las ABLACIONES (sin reranker, sin directos, sin
-# alias, sin filtro de área) y las compara con la línea base de la fase 5 -> ablaciones.json.
+# alias, con filtro de área) y las compara con la línea base de la fase 5 -> ablaciones.json.
+# El filtro de área va DESACTIVADO por defecto (Config.area_modo = "ninguno"): las
+# ablaciones de esta fase mostraron mejor cobertura sin él (ver checklist.md, paso 6.3), así
+# que la ablación de área ahora prueba lo contrario: activarlo con --area filtro.
 #
 #     mkdir -p logs                                   # una sola vez
 #     sbatch jobs/instalar_torch_gpu.sh               # una sola vez (.venv-gpu, torch cu118)
@@ -61,10 +64,10 @@ if [[ $ESTADO -eq 0 && "$NOMBRE" == "sample_50" ]]; then
     correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_sin_reranker.jsonl" --sin-reranker
     correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_sin_directos.jsonl" --sin-directos
     correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_sin_alias.jsonl" --sin-alias
-    correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_sin_area.jsonl" --area ninguno
+    correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_con_area.jsonl" --area filtro
     paso "3/4 métricas contra el legal_basis (solo para evaluar) y línea base de la fase 5"
     correr uvpy -m src.recuperacion.evaluar "${SALIDA}.jsonl" "${SALIDA}_sin_reranker.jsonl" \
-        "${SALIDA}_sin_directos.jsonl" "${SALIDA}_sin_alias.jsonl" "${SALIDA}_sin_area.jsonl" \
+        "${SALIDA}_sin_directos.jsonl" "${SALIDA}_sin_alias.jsonl" "${SALIDA}_con_area.jsonl" \
         --salida data/recuperacion/ablaciones.json
 else
     echo "(ablaciones y métricas solo con data/sample_50.jsonl: el test no trae legal_basis)"

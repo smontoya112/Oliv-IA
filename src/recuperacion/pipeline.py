@@ -97,7 +97,7 @@ def main() -> None:
     ap.add_argument("--sin-reranker", action="store_true")
     ap.add_argument("--sin-directos", action="store_true")
     ap.add_argument("--sin-alias", action="store_true")
-    ap.add_argument("--area", choices=["filtro", "ninguno"], default="filtro")
+    ap.add_argument("--area", choices=["filtro", "ninguno"], default=Config.area_modo)
     ap.add_argument("--min-en-area", type=int, default=Config.min_en_area)
     ap.add_argument("--limite", type=int, help="solo los primeros N ítems (pruebas)")
     args = ap.parse_args()
