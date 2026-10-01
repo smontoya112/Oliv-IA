@@ -29,17 +29,18 @@ if [[ ! -x .venv-gpu/bin/python ]]; then
     echo "ERROR: no existe .venv-gpu: corran primero sbatch jobs/instalar_torch_gpu.sh" >&2
     ESTADO=2
 fi
-module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; }
-export CUDACXX="$(command -v nvcc)"
+cargar_cuda
+echo "CUDA_HOME: $CUDA_HOME"
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
 echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
 nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 
 if [[ $ESTADO -eq 0 ]]; then
-    paso "1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min"
+    paso "1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)"
     CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
-        correr uv pip install --quiet --python .venv-gpu/bin/python llama-cpp-python
+        correr uv pip install --quiet --no-cache --reinstall-package llama-cpp-python \
+            --python .venv-gpu/bin/python llama-cpp-python
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/4 fastapi y uvicorn"
@@ -47,7 +48,10 @@ if [[ $ESTADO -eq 0 ]]; then
         fastapi uvicorn
 fi
 if [[ $ESTADO -eq 0 ]]; then
-    paso "3/4 prueba de importación (torch y llama_cpp juntos)"
+    paso "3/4 dependencias de la librería compilada y prueba de importación (torch y llama_cpp juntos)"
+    LIBLLAMA="$(find .venv-gpu -name 'libllama.so*' | head -1)"
+    echo "libllama: ${LIBLLAMA:-NO ENCONTRADA}"
+    [[ -n "$LIBLLAMA" ]] && { ldd "$LIBLLAMA" | grep -i "cud\|cublas\|not found" || true; }
     correr .venv-gpu/bin/python -c "
 import torch, llama_cpp
 print('torch', torch.__version__, '| GPU visible:', torch.cuda.is_available())

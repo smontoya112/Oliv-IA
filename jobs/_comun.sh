@@ -23,6 +23,15 @@ preparar_entorno() {
 
 paso() { echo "== $*"; }
 
+# CUDA 11.8 del módulo para compilar y para ejecutar llama.cpp. El módulo no siempre agrega
+# lib64 a LD_LIBRARY_PATH y sin eso libllama.so no encuentra libcudart.so.11.0 al cargarse.
+cargar_cuda() {
+    module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; return 1; }
+    local raiz="${CUDA_HOME:-$(dirname "$(dirname "$(command -v nvcc)")")}"
+    export CUDA_HOME="$raiz" CUDACXX="$raiz/bin/nvcc"
+    export LD_LIBRARY_PATH="$raiz/lib64:${LD_LIBRARY_PATH:-}"
+}
+
 # correr <comando...>: ejecuta y, si falla, lo escribe en stderr (.err) y recuerda el código.
 correr() {
     "$@" || { local c=$?; echo "ERROR: '$*' terminó con código $c" >&2; ESTADO=$c; }

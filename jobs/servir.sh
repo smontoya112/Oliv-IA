@@ -27,7 +27,7 @@
 # Salidas: logs/servir_<id>.out (avance y consultas) y logs/servir_<id>.err (solo errores).
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
-module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; }
+cargar_cuda
 
 PUERTO="${PUERTO:-8000}"
 for f in data/index/faiss.index data/index/index_config.json config/responder.json; do

@@ -21,8 +21,7 @@ source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 
 paso "0/3 herramientas"
-module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; }
-export CUDACXX="$(command -v nvcc)"
+cargar_cuda
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
 echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
 
