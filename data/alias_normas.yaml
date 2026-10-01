@@ -1,0 +1,111 @@
+# Diccionario de alias de normas colombianas (Fase 4, Paso 4.2).
+#
+# Este archivo es un ESPEJO DOCUMENTAL de los diccionarios ya definidos en
+# scripts/citations.py (CODES y _ALIAS_NUM). scripts/citations.py es parte del
+# evaluador oficial de la hackathon y no se modifica; este YAML existe para
+# que otros componentes (expansion de consultas, verificacion de citas,
+# analisis de errores, interfaz) puedan leer los alias sin importar los
+# internals de citations.py.
+#
+# tests/test_alias_normas.py verifica que este archivo siga sincronizado con
+# scripts/citations.py.
+#
+# Formato de cada entrada bajo "codigos":
+#   <slug>:
+#     tipo: ley | decreto | null    # tipo de norma que le dio origen, si aplica
+#     numero: <int|null>            # numero de la ley/decreto, si aplica
+#     anio: <int|null>               # anio de expedicion, si aplica
+#     alias: [...]                   # formas de cita reconocidas (en minusculas, sin tildes)
+
+codigos:
+  constitucion:
+    tipo: null
+    numero: null
+    anio: null
+    alias: ["constitucion politica", "constitucion nacional", "constitucion",
+            "c.p.", "cp", "c.n.", "carta politica"]
+  codigo_civil:
+    tipo: null
+    numero: null
+    anio: null
+    alias: ["codigo civil", "c.c.", "cc", "c.c"]
+  codigo_penal:
+    tipo: ley
+    numero: 599
+    anio: 2000
+    alias: ["codigo penal", "ley 599 de 2000", "c.p.p", "codigo penal colombiano"]
+  codigo_procedimiento_penal:
+    tipo: ley
+    numero: 906
+    anio: 2004
+    alias: ["codigo de procedimiento penal", "ley 906 de 2004", "cpp"]
+  codigo_comercio:
+    tipo: null
+    numero: null
+    anio: null
+    alias: ["codigo de comercio", "codigo del comercio", "c.co.", "cco"]
+  codigo_sustantivo_trabajo:
+    tipo: null
+    numero: null
+    anio: null
+    alias: ["codigo sustantivo del trabajo", "c.s.t.", "cst"]
+  codigo_procesal_trabajo:
+    tipo: null
+    numero: null
+    anio: null
+    alias: ["codigo procesal del trabajo", "cpts", "cpt"]
+  codigo_general_proceso:
+    tipo: ley
+    numero: 1564
+    anio: 2012
+    alias: ["codigo general del proceso", "ley 1564 de 2012", "cgp"]
+  cpaca:
+    tipo: ley
+    numero: 1437
+    anio: 2011
+    alias: ["codigo de procedimiento administrativo y de lo contencioso administrativo",
+            "ley 1437 de 2011", "cpaca"]
+  estatuto_tributario:
+    tipo: decreto
+    numero: 624
+    anio: 1989
+    alias: ["estatuto tributario", "decreto 624 de 1989", "e.t.", "et"]
+  codigo_infancia:
+    tipo: ley
+    numero: 1098
+    anio: 2006
+    alias: ["codigo de la infancia y la adolescencia", "ley 1098 de 2006"]
+  codigo_nacional_policia:
+    tipo: ley
+    numero: 1801
+    anio: 2016
+    alias: ["codigo nacional de seguridad y convivencia ciudadana",
+            "codigo nacional de policia", "ley 1801 de 2016"]
+  codigo_disciplinario:
+    tipo: ley
+    numero: 1952
+    anio: 2019
+    alias: ["codigo general disciplinario", "codigo disciplinario unico", "ley 1952 de 2019"]
+  estatuto_consumidor:
+    tipo: ley
+    numero: 1480
+    anio: 2011
+    alias: ["estatuto del consumidor", "estatuto de proteccion al consumidor", "ley 1480 de 2011"]
+  decision_andina_486:
+    tipo: null
+    numero: null
+    anio: null
+    alias: ["decision 486 de la comision de la comunidad andina",
+            "decision andina 486", "decision 486"]
+
+# Espejo de _ALIAS_NUM: (tipo, numero) -> slug.
+alias_numero:
+  - {tipo: ley, numero: 599, slug: codigo_penal}
+  - {tipo: ley, numero: 906, slug: codigo_procedimiento_penal}
+  - {tipo: ley, numero: 1564, slug: codigo_general_proceso}
+  - {tipo: ley, numero: 1437, slug: cpaca}
+  - {tipo: ley, numero: 1098, slug: codigo_infancia}
+  - {tipo: ley, numero: 1801, slug: codigo_nacional_policia}
+  - {tipo: ley, numero: 1952, slug: codigo_disciplinario}
+  - {tipo: decreto, numero: 624, slug: estatuto_tributario}
+  - {tipo: ley, numero: 1480, slug: estatuto_consumidor}
