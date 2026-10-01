@@ -1,0 +1,763 @@
+C-127-11
+
+---
+
+Sentencia
+C-127/11
+
+ESTABLECIMIENTO
+DE FACULTADES DE QUIEN NO ES IMPUTADO EN EL PROCESO PENAL-No se incurrió en una omisión legislativa relativa
+
+DEMANDA DE
+INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA-Competencia de la
+Corte Constitucional
+
+OMISION
+LEGISLATIVA RELATIVA-Concepto/OMISION LEGISLATIVA ABSOLUTA-Concepto
+
+DEMANDA DE
+INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA-Requisitos/CONTROL
+DE CONSTITUCIONALIDAD DE OMISION LEGISLATIVA RELATIVA-Elementos esenciales que deben concurrir para su procedencia
+
+LIBERTAD DE
+CONFIGURACION LEGISLATIVA EN MATERIA DE PROCEDIMIENTOS JUDICIALES-Jurisprudencia constitucional
+
+POTESTAD DE CONFIGURACION NORMATIVA-Corresponde al legislador establecer las formas propias de cada juicio y fijar las reglas y condiciones para acceder a los jueces en búsqueda de la adecuada administración de justicia
+
+LIBERTAD DE
+CONFIGURACION LEGISLATIVA EN MATERIA DE PROCEDIMIENTOS JUDICIALES-Límites
+
+DERECHO DE DEFENSA EN ACTUACION PENAL-Reiteración de jurisprudencia/DERECHO DE DEFENSA-Importancia en el contexto de las garantías procesales/DERECHO DE DEFENSA-Adquiere mayor relevancia en el escenario del proceso penal/DERECHO DE DEFENSA EN EL AMBITO
+PENAL-Reconocimiento en el escenario internacional
+
+DERECHO DE
+DEFENSA EN MATERIA PENAL-Modalidades/DERECHO A LA DEFENSA TECNICA-Conocido en el modelo de tendencia acusatoria como el principio de igualdad de armas/PRINCIPIO
+DE IGUALDAD DE ARMAS-Hace parte del núcleo esencial del derecho a la defensa y al debido proceso/DERECHO A LA DEFENSA-Ambito de aplicación en el proceso penal comprende toda actuación incluida la etapa preprocesal
+
+De conformidad con las garantías reconocidas en la Constitución y los tratados de derechos humanos, la
+Corte ha aceptado que el ejercicio del derecho a la defensa en materia penal comprende dos modalidades, la defensa material y la defensa técnica. La primera, la defensa material, es aquella que le corresponde ejercer directamente al sindicado. La segunda, la defensa técnica, es la que ejerce en nombre de aquél un abogado escogido por el sindicado, denominado defensor de confianza, o bien a través de la asignación de un defensor público proporcionado directamente por el Estado a través del Sistema Nacional de Defensoría Pública.
+En relación con el derecho a la defensa técnica, conocido en el modelo de tendencia acusatoria como el principio de “igualdad de armas”, la jurisprudencia constitucional ha sido enfática en sostener que el mismo hace parte del núcleo esencial del derecho a la defensa y al debido proceso, y su garantía plena es particularmente relevante si se considera que de su ejercicio se deriva la garantía de otros derechos como el de igualdad de oportunidades e instrumentos procesales. Para la Corte, el principio de igualdad de armas
+“constituye una de las características fundamentales de los sistemas penales de tendencia acusatoria, pues la estructura de los mismos, contrario a lo que ocurre con los modelos de corte inquisitivo, es adversarial, lo que significa que en el escenario del proceso penal, los actores son contendores que se enfrentan ante un juez imparcial en un debate al que ambos deben entrar con las mismas herramientas de ataque y protección”.Si bien el derecho a la defensa, y en particular el derecho a la defensa técnica, resulta determinante para la validez constitucional del proceso penal, el tema de si el derecho de defensa en materia procesal penal tiene un espectro amplio o restringido no ha sido un asunto pacífico, a pesar de que el artículo 29 de la
+Constitución claramente extiende el derecho al debido proceso “a toda clase de actuaciones judiciales y administrativas”, y en materia penal reconoce el derecho de los sindicados a una defensa técnica “durante la investigación y el juzgamiento”. Efectivamente, el asunto ha sido objeto de pronunciamiento por parte de esta Corporación, tanto en el modelo mixto de tendencia inquisitiva inicialmente adoptado por la Constitución del 91 y desarrollado básicamente por el Decreto 2700 de 1991 y la Ley 600 de 2000, como en el sistema procesal penal de tendencia acusatoria incorporado a nuestro ordenamiento jurídico mediante el
+Acto Legislativo 03 de 2002 y desarrollado por el Legislador a través de la Ley
+906 de 2004, con las modificaciones introducidas por la Ley 1142 de 2007. En los dos escenarios la posición de la Corte ha sido “unívoca, consistente y sólida, en el sentido de sostener que, a luz de la Constitución y de los tratados internacionales de derechos humanos, no pueden consagrarse excepciones al ejercicio del derecho de defensa, esto es, no puede edificarse sobre él restricción alguna, de manera que debe entenderse que la defensa se extiende, sin distingo ninguno, a toda la actuación penal, incluida por supuesto la etapa preprocesal, conocida como investigación previa, indagación preliminar o simplemente indagación”.
+
+DERECHO A LA DEFENSA EN LA ACTUACION PENAL-Se extiende a la etapa preprocesal de la indagación previa, y a partir de ella, a todos los demás actos procesales hasta la decisión final
+
+La interpretación que se ajusta a la Constitución y a los tratados de derechos humanos, en torno al tema de hasta donde se extiende el derecho a la defensa en una actuación penal, tanto en el sistema mixto inquisitivo como en el actual modelo de tendencia acusatorio, es la de que el citado derecho surge desde que la persona tiene conocimiento que cursa una investigación en su contra y solo culmina cuando finaliza el proceso. En este sentido es claro que el derecho a la defensa se extiende sin discusión ninguna a la etapa preprocesal de la indagación previa, y a partir de ella, a todos los demás actos procesales hasta la decisión final.
+
+PROCESO
+PENAL CON TENDENCIA ACUSATORIA-Aspectos más relevantes de su estructura y desarrollo/PROCESO PENAL CON TENDENCIA ACUSATORIA-Etapas/JUEZ DE
+CONTROL DE GARANTIAS-Funciones constitucionales
+
+PROCESO PENAL CON TENDENCIA ACUSATORIA-Garantías adicionales para el respeto de los derechos fundamentales
+
+Además de las garantías previstas en el artículo 267 de la ley 904 de 2004, la jurisprudencia ha constatado la existencia de dos adicionales, a partir de la reforma introducida por el Acto Legislativo 03 de 2002 y de una interpretación sistemática de la
+Ley 906 de 2004, esenciales para el respeto de los derechos fundamentales, la definición de la verdad y la realización efectiva de la justicia. La primera, consiste en que toda afectación de los derechos fundamentales del investigado o indiciado por la actividad de la Fiscalía (registros, allanamientos, incautaciones, interceptación de comunicaciones, entre otras) debe ser decidida en sede jurisdiccional, y en tal virtud, corresponde al juez de control de garantías el examen de las medidas de intervención en el ejercicio de los derechos fundamentales para verificar que se adecuan a la ley y son proporcionales. La segunda, tiene que ver con la determinación de que el material de convicción o evidencia, que tanto la Fiscalía como la defensa recaudan en el proceso de investigación, deberá ser descubierto ante el juez de conocimiento, en el transcurso del juicio oral, público, donde la controversia y la contradicción tienen lugar, y en consecuencia, la garantía del derecho de defensa es plena, sin perjuicio (i) de que si alguna de las partes encuentra material probatorio y evidencia física muy significativos que deban ser descubiertos, así lo soliciten al juez para que éste decida si es excepcionalmente admisible o debe excluirse, oídas las partes y considerando el perjuicio que podría producirse al derecho de defensa y a la integridad del juicio; y (ii) de la práctica de prueba anticipada en casos de extrema necesidad y urgencia para evitar la pérdida o alteración del medio probatorio, caso en el cual de todas maneras deberá efectuarse una audiencia para garantizar el contradictorio, de conformidad con los artículos 274 y 284 del
+Código de Procedimiento Penal.
+
+DERECHO DE
+DEFENSA-Su ejercicio no tiene límite temporal
+
+PROCEDIMIENTO
+PENAL ACUSATORIO-Fase de indagación/INDAGACION PRELIMINAR EN PROCESO
+PENAL-Finalidad/TERMINO DE PRESCRIPCION DE LA
+ACCION PENAL-Límite máximo para la formulación de la imputación por parte del fiscal
+
+LIBERTAD DE
+CONFIGURACION LEGISLATIVA PARA ESTABLECER FORMAS Y TERMINOS PROCESALES-Jurisprudencia constitucional/LIBERTAD DE CONFIGURACION LEGISLATIVA PARA ESTABLECER FORMAS
+Y TERMINOS PROCESALES-Límites
+
+En relación con la libertad de configuración del legislador para establecer formas y términos procesales, la jurisprudencia de esta Corte, de conformidad con el artículo 150, numerales 1 y
+2, de la Carta, ha sostenido que el legislador tiene una competencia amplia para regular los diversos procesos judiciales y para establecer las etapas, oportunidades y formalidades aplicables a cada uno de ellos, así como los términos para interponer las distintas acciones y recursos ante las autoridades judiciales. Así pues, “es la ley la que consagra los presupuestos, requisitos, características y efectos de las instituciones procesales, cuyo contenido, en tanto que desarrollo de la Constitución y concreción de los derechos sustanciales, no puede contradecir los postulados de aquélla ni limitar de modo irrazonable o desproporcionado éstos”. La libertad de configuración normativa del legislador, aunque amplia, tiene ciertos límites, que según la jurisprudencia constitucional, se concretan en el respeto por los principios y fines del Estado, la vigencia de los derechos fundamentales y la observancia de las demás normas constitucionales. “Es decir, si bien el Congreso o el Presidente de la República, debidamente autorizado por aquél mediante la concesión de facultades extraordinarias, tienen la potestad para consagrar, dentro de un margen de discrecionalidad, las diversas formas, ritualidades y términos procesales, éstos deben ser razonables y estar dirigidos a garantizar el derecho sustancial”.
+
+PLAZO DE
+INVESTIGACION EN PROCESO PENAL-Criterios para determinar razonabilidad
+
+FALTA DE
+PREVISION DE UN TERMINO ESPECIFICO PARA QUE LA FISCALIA FORMULE LA IMPUTACION,
+DISTINTO AL DE PRESCRIPCION DE LA ACCION PENAL-No desconoce los derechos de defensa, de acceso a la administración de justicia y a la dignidad humana
+
+Referencia: expediente D-8228
+
+Actor: María Gabriela Rincón
+Martínez
+
+Demanda de inconstitucionalidad contra los artículos 267 y 287 de la Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+Magistrada Ponente:
+
+MARIA VICTORIA CALLE CORREA
+
+Bogotá, D.C., dos (2) de marzo de dos mil once (2011).
+
+La Sala Plena de la Corte Constitucional, en cumplimiento de sus atribuciones constitucionales y de los requisitos de trámite establecidos en el Decreto 2067 de 1991, ha proferido la siguiente
+
+SENTENCIA
+
+I. ANTECEDENTES
+
+En ejercicio de la acción pública de inconstitucionalidad, la ciudadana María Gabriela Rincón Martínez demandó los artículos 267 y 287 de la
+Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+Mediante Auto del 31 de agosto de
+2010, la demanda fue inadmitida por carecer el cargo del requisito de certeza.
+
+La actora corrigió la demanda y por medio de Auto del 20 de septiembre de 2010, el Despacho decidió su admisión y ordenó comunicar la iniciación del proceso al Presidente del Congreso de la
+República, al Ministerio del Interior y de Justicia, a la Fiscalía General de la
+Nación, a la Defensoría del Pueblo, a la Academia Colombiana de Jurisprudencia, al Instituto Colombiano de Derecho Procesal y a la Procuraduría General de la
+Nación, de conformidad con lo dispuesto por el artículo 244 de la Constitución
+Política y los artículo 7, 11 y 13 del Decreto 2067 de 1991.
+
+Cumplidos los trámites constitucionales y legales propios de los procesos de constitucionalidad, la
+Corte Constitucional procede a decidir acerca de la demanda en referencia.
+
+II. NORMAS DEMANDADAS
+
+El texto de las disposiciones demandadas, conforme a su publicación en el Diario Oficial No. 45.657, de 31 de agosto de 2004, es el siguiente:
+
+LEY
+906 DE 2004[1]
+
+(agosto
+31)
+
+Por la cual se expide el Código de Procedimiento
+Penal
+
+EL
+CONGRESO DE COLOMBIA
+
+DECRETA:
+
+“ARTÍCULO 267. FACULTADES DE
+QUIEN NO ES IMPUTADO. Quien sea informado o advierta que se adelanta investigación en su contra, podrá asesorarse de abogado. Aquél o este, podrán buscar, identificar empíricamente, recoger y embalar los elementos materiales probatorios, y hacerlos examinar por peritos particulares a su costa, o solicitar a la policía judicial que lo haga. Tales elementos, el informe sobre ellos y las entrevistas que hayan realizado con el fin de descubrir información útil, podrá utilizarlos en su defensa ante las autoridades judiciales.
+
+Igualmente, podrá solicitar al juez de control de garantías que lo ejerza sobre las actuaciones que considere hayan afectado o afecten sus derechos fundamentales.
+
+“ARTÍCULO
+287. SITUACIONES QUE DETERMINAN LA FORMULACIÓN DE LA IMPUTACIÓN. El fiscal hará la imputación fáctica cuando de los elementos materiales probatorios, evidencia física o de la información legalmente obtenida, se pueda inferir razonablemente que el imputado es autor o partícipe del delito que se investiga. De ser procedente, en los términos de este código, el fiscal podrá solicitar ante el juez de control de garantías la imposición de la medida de aseguramiento que corresponda”.[2]
+
+III. LA DEMANDA
+
+1. Normas constitucionales que se consideran infringidas
+
+La demandante considera que los artículos 267 y 287 de la Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”, vulneran los artículos 1 (dignidad humana), 29 (derecho de defensa) y 229 (derecho de acceso a la administración de justicia) de la
+Constitución Política, así como los artículos 7.6 y 8.1 de la Convención
+Americana sobre Derechos Humanos, el artículo 26 de la Declaración Americana de
+Derechos y Deberes del Hombre, el artículo 10 de la Declaración Universal de
+Derechos Humanos, y el artículo 14 del Pacto Internacional de Derechos Civiles y Políticos, de los cuales se derivan los derechos esenciales a ser oído y a ser notificado de los cargos, que por mandato del artículo 93 de la Carta hacen parte del bloque de constitucionalidad.
+
+2. Fundamentos de la demanda
+
+Se acusan los artículos 267 y 287 de la Ley 906 de 2004 “por la cual se expide el Código de Procedimiento Penal”.
+La accionante considera que el legislador al expedir el artículo 267 demandado incurrió en una supuesta omisión legislativa relativa, violatoria del derecho de defensa de acceso a la justicia y la dignidad humana, al atribuir exclusivamente al Fiscal la competencia para solicitar la audiencia preliminar de formulación de imputación, sin prever una oportunidad para que el indiciado pueda solicitar tal audiencia, en procura de la garantía de sus derechos a ser oído desde la iniciación de la investigación.
+
+Para la actora, los efectos negativos de la omisión del legislador se subsanarían permitiéndole al ciudadano que se ha enterado por cualquier medio de su condición de indiciado, en desarrollo de su derecho a ser oído, la posibilidad de solicitar su propia intervención ante el juez de garantías (con la presencia del fiscal).
+
+La ciudadana considera, por otra parte, que el artículo 287 vulnera los mismos postulados, porque al no prever un término razonable de duración de la indagación preliminar, por parte de la
+Fiscalía, distinto al de prescripción de la acción penal, somete al indiciado indefinidamente a las molestias propias de este tipo de investigaciones.
+
+Señala la demandante que es de su especial interés que “la garante de nuestra Constitución ponga término a perturbaciones, acosos y/o molestias a la tranquilidad -y hasta la libertad personal- de los honestos coasociados indiciados, impidiendo así los maltratos y el atropellamiento a la dignidad humana que hace la Fiscalía a personas investigadas, cuando no exista motivo legal para ello, pues de contera, es también costumbre que esa autoridad coactiva incurra en excesiva morosidad de efectuar la imputación o de decidir el archivo de las diligencias, dado que no existe término específico para ello (…).”
+
+Finalmente, en relación con el derecho a la notificación de los cargos, garantía intangible que no puede ser limitada en ninguna situación o estado de excepción por mandato de la Convención Americana de Derechos Humanos, la actora estima que el legislador debió prever la posibilidad de que el indiciado pudiera acudir ante un juez de garantías para exigir, la determinación de sus derechos, dentro de un sistema judicial en el que no existe discrecionalidad para imputar o acusar porque está sometido al principio de legalidad penal.
+
+IV. INTERVENCIONES
+
+1. Fiscalía General de la Nación
+
+EL señor Fiscal General de la
+Nación (E) considera que la demanda contra los artículos 267 y 287 de la Ley
+906 de 2004 es inepta, porque incumple con los requisitos de claridad, certeza, especificidad, pertinencia y suficiencia, en la medida en que “no cuestiona el contenido legal verificable a partir de la interpretación del texto acusado;
+encima, no se observa cual es la oposición objetiva y verificable entre el contenido de la ley y el texto de la Constitución Política”. (…).
+
+No obstante, la vista Fiscal solicita que en caso de que la Corte decida pronunciarse de fondo sobre los preceptos demandados, declare su exequibilidad porque se limitan a señalar las situaciones que determinan la formulación de la imputación, y porque han sido expedidos en cumplimiento de una expresa autorización del Constituyente (artículo 150 numeral 23 de la CP), y dentro de la libertad de configuración del legislador.
+
+2. Ministerio del Interior y de Justicia
+
+El Ministerio del Interior y de
+Justicia interviene en defensa de las normas demandadas y solicita a la Corte declarar su exequibilidad, con fundamento en los siguientes argumentos:
+
+2.1. Considera que el Fiscal tiene un término para adelantar las diligencias y practicar las actividades propias de la indagación, que es el mismo de prescripción de la acción penal, como lo ha sostenido la Corte en la sentencia C-025 de 2009. De manera que el indiciado no está sometido a una investigación indefinida o permanente.
+
+2.2. Igualmente, ha sostenido la jurisprudencia constitucional de manera reiterada que el indiciado tiene derecho a intervenir en todas las etapas y actuaciones del proceso, e incluso en la fase de indagación e investigación anterior a la formulación de la imputación. [3]
+
+3. Defensoría del Pueblo
+
+La Defensoría del Pueblo, a través de la Defensora Delegada para Asuntos Constitucionales y Legales, solicita a la
+Corte declararse inhibida para proferir fallo en la causa, por ineptitud sustancial de la demanda, puesto que no cumple con los requisitos de claridad, suficiencia, especificidad y pertinencia, exigidos por la jurisprudencia constitucional.
+
+Observa que la demandante se limita a citar las normas del bloque de constitucionalidad presuntamente vulneradas para, de inmediato, señalar que las disposiciones acusadas las desconocen, pero no plantea en rigor cuáles contenidos resultarían incompatibles con el ordenamiento superior y las razones de ello.
+
+Sostiene la entidad que a pesar de que la audiencia de formulación de la imputación se ha establecido justamente para escuchar al implicado y darle la oportunidad de que rechace o se allane a los cargos, incluso de que llegue a un acuerdo con la Fiscalía para definir los términos en que habrá de hacerse la imputación, la demandante insiste en que tales garantías no existen y se adentra en la formulación de una omisión legislativa relativa en la que habría incurrido el legislador al no prever una oportunidad para que el propio indiciado acuda ante un juez independiente e imparcial en procura de la garantía del derecho a la notificación de los cargos. Señala que en este punto del alegato de la actora, se presenta una evidente confusión entre el derecho de toda persona a ser informada de los términos de cualquier acusación de naturaleza penal en su contra, y el recurso para el examen de legalidad de una medida privativa de la libertad, que además de no ser una amenaza, puede ser controvertida ante el juez de garantías, cuya decisión es susceptible de apelación.
+
+Finalmente, la Defensoría del
+Pueblo precisa respecto del cargo por omisión legislativa relativa que la actora no logró especificar el deber expreso y concreto, que a partir de la
+Constitución habría surgido para el legislador, de contemplar una condición o supuesto de hecho como el que pretende, esto es, la obligación de consagrar la facultad de solicitar la formulación de la imputación por iniciativa propia ante el juez de control de garantías.
+
+4. Instituto Colombiano de Derecho Procesal
+
+El Instituto solicita a la Corte declararse inhibida para emitir un pronunciamiento por ineptitud de la demanda, y en caso de que la Corporación no acoja esta petición, subsidiariamente reclama la declaratoria de exequibilidad de las normas demandadas.
+
+Para el Instituto Colombiano de
+Derecho Procesal la demanda no cumple las exigencias jurisprudenciales propias de un cargo por omisión legislativa relativa, puesto que en el nuevo escrito, la censora reconduce su discurso respecto a una omisión que violenta el derecho a conocer los cargos antes de la imputación, “pero no esgrime de ningún modo, las normas que se encuentran discutidas o negadas; o sobre las que: (i) … se predique necesariamente el cargo; (ii) … excluya de sus consecuencias jurídicas aquellos casos que, por ser asimilables, tenían que estar contenidos en el texto normativo cuestionado, o que el precepto omita incluir un ingrediente o condición que, de acuerdo con la Constitución, resulta esencial para armonizar el texto legal con los mandatos de la Carta; (iii) … la exclusión de los casos o ingredientes carezca de un principio de razón suficiente; (iv) … la falta de justificación y objetividad genere para los casos excluidos de la regulación legal una desigualdad negativa frente a los que se encuentran amparados por las consecuencias de la norma; y (v) … la omisión sea el resultado del incumplimiento de un deber específico impuesto por el Constituyente al legislador.”
+
+Además, encuentra la interviniente que la demanda desconoce el marco del artículo 250 de la Constitución, en la medida en que la imputación es un acto exclusivo de la Fiscalía, y sólo por mandato legal, está obligada a formularla cuando existe evidencia o material probatorio que permita inferir la participación del presunto imputado en un hecho delictivo.
+
+La petición subsidiaria de declaratoria de exequibilidad, se fundamenta en el argumento de que el sistema penal acusatorio que nos rige está basado en un sistema de partes en el que la carga de la prueba está en cabeza del Estado, correspondiéndole al juez de garantías decidir sobre la legalidad de las actuaciones del ente investigador, y donde el imputado no es un sujeto pasivo, sino que por el contrario se demanda su participación, incluso desde antes de la formulación de la imputación de cargos. De manera que ante la posible imposición de una medida de aseguramiento por solicitud de la Fiscalía, el juez de garantías debe verificar el cumplimiento de los requisitos de ley para su imposición y garantizar el derecho de contradicción por parte del afectado.
+
+Finalmente, anota el Instituto respecto de la supuesta vulneración del derecho de acceso a la justicia aducido por la demandante, cuando la Fiscalía por extensísimos periodos de tiempo no realiza la imputación, imponiéndole al afectado injusta e innecesariamente la carga de soportar el calvario de su investigación por un tiempo que sólo está limitado por el periodo de prescripción de la acción penal, que ésta queja no tiene relación con los cargos formulados y desconoce las decisiones jurisprudenciales sobre la inexistencia de términos en la fase de indagación.
+
+5. Intervenciones ciudadanas
+
+Las ciudadanas Lina Poveda
+Rodríguez y Leidy Sierra Mancera, y los estudiantes Daniel Alexander Moyano
+Peña y Sergio Iván Chacón Niampira, solicitan a la Corporación declarar la exequibilidad de las normas demandadas porque, bajo el nuevo sistema penal acusatorio, corresponde al Fiscal acusar y al juez de garantías velar por el respeto de todas las garantías fundamentales.
+
+V. CONCEPTO DEL PROCURADOR GENERAL DE LA NACIÓN
+
+El Ministerio Públicoconsidera que la demanda no presenta razones suficientes para establecer la inexistencia de una regulación que garantice los derechos del indiciado, y en consecuencia, solicita a la Corte declararse inhibida para emitir un pronunciamiento de fondo por ineptitud sustancial de la demanda.
+
+Señala el señor Procurador que un simple repaso del contenido de las normas demandadas permite constatar la garantía de los derechos del indiciado. Al efecto, el artículo 267 dispone que el indiciado puede: (i) asesorarse de un abogado para preservar su derecho de defensa; (ii) obtener, identificar empíricamente y recopilar, por sí mismo, o por conducto de su abogado, elementos materiales probatorios o evidencia física y disponer su análisis por un perito particular, o solicitar a la policía judicial que lo haga; (iii) realizar entrevistas y descubrir información útil a sus intereses, para usarlos posteriormente en su defensa ante las autoridades judiciales; y (iv) solicitar al juez de control de garantías su intervención para la verificación de la legalidad formal y material de las actuaciones que considere hayan afectado o puedan afectar sus garantías fundamentales.
+
+Por su parte, el artículo 287 no fija términos, ni siquiera se ocupa de la etapa de indagación previa a la formulación de la imputación o de la duración de cada fase de la actuación penal, se limita a establecer los requisitos sustanciales que debe cumplir el fiscal para hacer la imputación, y de ser procedente, solicitar al juez de garantías la imposición de una medida de aseguramiento.
+
+Precisa la Vista Fiscal que, siendo la imputación tarea propia del titular de la acción penal, el Estado, que la ejerce por intermedio del Fiscal, no se aprecia de qué manera puede el legislador incurrir en una omisión legislativa relativa, puesto que ni el indiciado, ni el defensor, ni siquiera la víctima, pueden hacer la imputación.
+Tampoco encuentra, que el indiciado pueda tener un interés razonable en precipitar su propio juicio, a no ser que sea el de apresurar a su adversario para que haga una imputación improvisada, endeble y con altas probabilidades de fracaso.
+
+Concluye el Ministerio Público que la persona sometida al evento de afrontar un proceso penal, como indiciado o como imputado, tiene a su alcance medios suficientes para desarrollar su defensa, como lo ha sostenido la Corte en la sentencia C-799 de 2005,[4] pero no tiene, y no puede tener, la facultad de definir cuándo o cómo debe hacerse la imputación, porque ésta le corresponde al fiscal, titular de la acción penal en representación del Estado.
+
+vI. CONSIDERACIONES Y FUNDAMENTOS
+
+1. Competencia
+
+De acuerdo con lo dispuesto en el artículo 241 numeral 4 de la Constitución Política, la Corte es competente para conocer de la presente demanda.
+
+2. Cuestión previa: competencia de la Corte Constitucional para conocer sobre demandas de inconstitucionalidad por la ocurrencia de una presunta omisión legislativa relativa
+
+Varios de los intervinientes en el presente proceso, la Fiscalía General de la Nación y el Instituto Colombiano de Derecho Procesal, estiman que la demanda es inepta porque no cumple con las exigencias jurisprudenciales propias de un cargo por omisión legislativa relativa, y en consecuencia, no presenta razones suficientes para establecer que en la regulación demandada se desconozcan los derechos del indiciado. No obstante, solicitan que en caso de que la Corte decida pronunciarse de fondo sobre los preceptos demandados, declare su exequibilidad, porque dichas normas fueron expedidas en cumplimiento de una expresa autorización del constituyente.
+
+El Ministerio Público y la
+Defensoría del Pueblo, solicitan a la Corte declararse inhibida para conocer de la demanda por ineptitud sustancial de la misma, puesto que no cumple con los requisitos de claridad, suficiencia, especificidad y pertinencia, exigidos por la jurisprudencia.
+
+El Ministerio del Interior y de
+Justicia considera que el indiciado no está sometido a una investigación indefinida o permanente y que tiene derecho a intervenir en todas las etapas del proceso e incluso en la etapa de indagación, antes de la audiencia de imputación.
+
+En la medida en que varios de los intervinientes solicitaron a esta Corte declararse inhibida para emitir un pronunciamiento de fondo por ineptitud sustancial de la demanda, la Sala, deberá verificar si el cargo formulado cumple con los requisitos exigidos por la jurisprudencia en sede de constitucionalidad. Para ello, en primer lugar, sintetizará su jurisprudencia respecto de los requisitos que deben cumplir las demandas cuando se trata de un cargo por omisión legislativa relativa, para luego proceder al examen del mismo.
+
+2.1. Demandas por omisión legislativa relativa
+
+La Corte Constitucional en ejercicio de su competencia para ejercer el control abstracto de constitucionalidad de las leyes, puede juzgar tanto las acciones como las omisiones del legislador, que impliquen el desconocimiento de la Constitución como norma de normas.
+
+En materia de omisiones, la jurisprudencia constitucional ha identificado dos clases: la omisión legislativa absoluta y la omisión legislativa relativa. La primera, tiene lugar cuando el legislador deja de regular un asunto de manera absoluta, lo que implica la ausencia de normatividad legal que la desarrolle. La segunda, se presenta cuando el legislador regula un asunto de manera incompleta y por tal razón desconoce un mandato constitucional.
+
+En el caso de las omisiones legislativas absolutas en la medida en que no existe un texto legal sobre el cual ejercer control de constitucionalidad, la Corte es incompetente para pronunciarse,[5] situación que no se predica de las omisiones legislativas relativas en las que el control abstracto de constitucionalidad si resulta procedente. La Corte ha considerado que el legislador incurre en una omisión legislativa relativa “cuando ha regulado de manera insuficiente o incompleta un mandato constitucional; o cuando dicha insuficiencia de regulación (omisión de una condición o un ingrediente que de acuerdo con la Constitución sería exigencia esencial para armonizar con ella) o incompleta reglamentación, conduce a la violación del derecho a la igualdad”. [6]
+
+También ha precisado la Corte que la declaratoria de inexequibilidad por omisión legislativa relativa exige que la omisión implique el incumplimiento de un deber constitucional por parte del legislador,[7] o la ausencia de una condición o ingrediente, que de acuerdo con la Constitución, es exigencia esencial para armonizar con ella (por ejemplo, la no inclusión del derecho de defensa en la regulación de un procedimiento).[8] Así, para que pueda prosperar una demanda contra una omisión legislativa, es necesario que el silencio del
+Legislador comporte una regla implícita que viole los preceptos superiores, en este caso, que llegue a desconocer el derecho que es objeto de desarrollo legal expreso.[9]
+
+Para que una demanda de inconstitucionalidad por omisión legislativa relativa sea admisible, la Corte, en reiterada jurisprudencia,[10] ha identificado algunos criterios a partir de los cuales resulta procedente el examen de constitucionalidad. Así, en la sentencia C-185 de 2002 afirmó al respecto:
+
+“(...) para efectos de proceder al examen de constitucionalidad de una disposición jurídica, por haber incurrido el Congreso en omisión legislativa relativa, la Corte ha considerado necesario el cumplimiento de ciertas condiciones, a saber: (i) que exista una norma sobre la cual se predique necesariamente el cargo; (ii) que la misma excluya de sus consecuencias jurídicas aquellos casos que, por ser asimilables, tenían que estar contenidos en el texto normativo cuestionado, o que el precepto omita incluir un ingrediente o condición que, de acuerdo con la Constitución, resulta esencial para armonizar el texto legal con los mandatos de la Carta; (iii) que la exclusión de los casos o ingredientes carezca de un principio de razón suficiente; (iv) que la falta de justificación y objetividad genere para los casos excluidos de la regulación legal una desigualdad negativa frente a los que se encuentran amparados por las consecuencias de la norma; y (v) que la omisión sea el resultado del incumplimiento de un deber específico impuesto por el constituyente al legislador”.[11]
+
+A continuación pasa la Sala a examinar si el cargo por omisión legislativa relativa cumple los anteriores requisitos.
+
+2.2. Examen del cargo por omisión legislativa relativa
+
+En el caso que nos ocupa, la demanda inicialmente presentada por la actora, fue inadmitida porque se consideró que carecía de los atributos mínimos indispensables para permitir un pronunciamiento de fondo. En efecto, a pesar de que había sido edificada sobre la violación de un haz de derechos fundamentales consagrados en la Carta y en los tratados internacionales, la acusación se había contraído a impugnar la constitucionalidad de los artículos 267 y 287 del Código de Procedimiento Penal por violación del artículo 7 de la Convención Americana sobre Derechos Humanos, sin explicar las razones por las cuales la ausencia de un mecanismo como el solicitado por la demandante, constituía una violación del debido proceso de quien esté siendo objeto de investigación. La actora se había limitado a señalar que en la Ley 906 de 2004 no se había previsto un mecanismo como el establecido en el artículo 334 de la Ley 600 de 2000,[12] que le permitía a toda persona que tuviera conocimiento sobre la existencia de actuaciones penales en su contra, solicitar la realización de la audiencia de imputación.
+
+La actora subsanó oportunamente la demanda y en esta oportunidad sostuvo que las normas cuestionadas, incurrían en una omisión legislativa relativa, respecto de las facultades de quien no es imputado para solicitar que se realice la audiencia de formulación de imputación, vulnerándose esencialmente los derechos al debido proceso, de defensa y de acceso a la administración de justicia, garantizados en la Constitución (arts.
+29 y 229), y en los convenios y tratados que hacen parte del bloque de constitucionalidad por mandato del artículo 93 de la Carta, específicamente, de los artículos 7.4 (derechos de la persona detenida o retenida a ser informada de las razones de su detención y a ser notificada sin demora del cargo o cargos formulados contra ella),[13] 8.1 (derecho a ser oído dentro de un plazo razonable por un juez independiente e imparcial en la sustanciación de cualquier acusación penal)[14] y 8.2 b) (derecho del inculpado de un de delito a que se le comunique previa y detalladamente de la acusación formulada)[15] de la Convención Americana de Derechos Humanos;el artículo XXVI de la Declaración Americana de los
+Derechos y Deberes del Hombre (presunción de inocencia y derecho a ser oído);[16] el artículo 10 de la Declaración Universal de Derechos Humanos (derecho a ser oído públicamente y por un tribunal independiente e imparcial)[17]; y el artículo 14.1 del Pacto
+Internacional de Derechos Civiles y Políticos (garantías procesales de la persona acusada de un delito).[18]
+
+Según la accionante, los derechos de defensa y de acceso a la administración de justicia, permiten al indiciado intervenir en todas las etapas del proceso y actos procesales, desde su más prematuro inicio, cuando por cualquier medio tenga conocimiento de que ha sido señalado como autor o partícipe de un delito. No obstante, según lo señala la actora, la ley no previó una oportunidad para que el propio indiciado acudiera ante un juez independiente e imparcial, incurriendo en una omisión legislativa relativa, que en su opinión desconoce la obligación constitucional e internacional de garantizar los derechos a ser oído y a la notificación de los cargos.
+
+El hecho de que la acción de inconstitucionalidad pueda ser ejercida por quien ostente la condición de ciudadano colombiano, ha llevado a la
+Corte a determinar que está regida por el principio pro actione, que obliga a no proceder con excesivo rigor al examinar el cumplimiento de los requisitos de la demanda, prefiriendo una decisión de fondo antes que un fallo inhibitorio, pues éste último podría restringir el derecho de participación ciudadana y frustrar el acceso al recurso judicial efectivo ante la Corte, “dando lugar a una suerte de denegación de justicia constitucional”.[19]En materia penal, esta Corporación ha aceptado que en las acciones públicas de inconstitucionalidad los ciudadanos no se expresen en el lenguaje técnico y específico que exige una disciplina tan desarrollada, y con fundamento en que la acción de inconstitucionalidad es una acción pública, ha dado aplicación al principio pro actione para estudiar de fondo el asunto.[20]
+
+Dentro de este contexto, procede la sala a verificar el cumplimiento de los requisitos exigidos por la jurisprudencia constitucional cuando se trata de un cargo por omisión legislativa relativa.
+
+En efecto, la actora en primer lugar identifica las normas sobre las cuales se predica la omisión legislativa relativa: los artículos 267[21] y
+287[22] de la Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”, referentes, el primero, a las facultades que tiene quien no es imputado cuando sea informado o advierta que se adelanta investigación en su contra; y el segundo, a la competencia atribuida al fiscal, por una parte, para realizar la imputación fáctica cuando de los elementos materiales probatorios, evidencia física o de la información legalmente obtenida, se pueda inferir razonablemente la autoría o participación del imputado en el delito que se investiga, y por otra parte, para solicitar ante el juez de control de garantías la imposición de la medida de aseguramiento que corresponda, de las cuales se desprende que el indiciado no tiene la facultad de solicitar su propia audiencia de imputación en la etapa de la investigación preliminar, quedando exclusivamente en manos de la Fiscalía la decisión sobre el momento en que formula la imputación.
+
+La demandante precisa que los artículos 267 y 287 de la Ley 906 de 2004, al no incluir dentro de las facultades de quien no es imputado, la oportunidad de solicitar la audiencia de formulación de imputación, previendo que tal acto es competencia exclusiva del
+Fiscal, quien determina el momento y la oportunidad para solicitar la audiencia, no permite el ejercicio pleno de los derechos del indiciado en la etapa preprocesal, situación que desconoce el mandato constitucional previsto en el artículo 29 y en las normas que hacen parte del bloque de constitucionalidad, según el cual, toda persona en el ámbito de cualquier actuación judicial o administrativa tiene el derecho a ser oída y a presentar sus propios argumentos.
+
+La actora sostiene que la falta de previsión por parte del legislador para que el indiciado solicite su propia audiencia de imputación constituye una restricción injustificada de su derecho de defensa, que somete al no imputado a perturbaciones en la tranquilidad y a la libertad personal, que no puede hacer cesar y que en consecuencia, desconocen el valor fundante de la dignidad humana y el derecho a la defensa (derecho a la notificación de los cargos y a ser oído), previstos en la Carta
+Política y en los tratados y convenios antes citados que integran el bloque de constitucionalidad.
+
+Estima la accionante que al no incluir dentro de las facultades de quien no es imputado, la oportunidad de solicitar la audiencia de imputación, y al otorgar, exclusivamente al Fiscal la competencia para determinar el momento y oportunidad para solicitar tal audiencia, se ha generado un vacío que vulnera el derecho de defensa del indiciado en la etapa preprocesal, porque no puede refutar, replicar, negar y explicitar las razones que lo eximen de responsabilidad, a diferencia del imputado que si lo puede hacer. Queda así el indiciado en una situación de desventaja frente a los poderes investigativos del Estado y tal exclusión se presenta sin un principio de razón suficiente, lo que en opinión de la demandante, contradice la relación de equilibrio que debe inspirar el proceso penal con tendencia acusatoria, en el que corresponde al juez garantizar la igualdad de oportunidades e instrumentos procesales previstos en la Carta
+Política y en los tratados y convenios, antes citados, que integran el bloque de constitucionalidad.
+
+Argumenta la actora que los artículos
+1 (dignidad humana), 29 (derecho de defensa), 229 (acceso a la administración de justicia) y 93 (prevalencia de los tratados y convenios internacionales en el orden interno) de la Carta, que incorporan los derechos a ser oído y a la notificación de los cargos, le imponen al legislador la obligación de establecer o prever una oportunidad para que el indiciado pueda acudir ante un juez de garantías con el fin de solicitar la celebración de la audiencia de formulación de imputación y evitar de esta manera que sea objeto de las consecuentes molestias y cargas que la investigación genera, entre ellas la amenaza permanente al derecho fundamental a la libertad personal.
+
+Analizadas las condiciones para que proceda el examen de constitucionalidad, a pesar de las falencias argumentativas del cargo por omisión legislativa relativa, señaladas por los intervinientes, la Sala encuentra que reúne los presupuestos que la jurisprudencia estima que deben cumplirse en este caso y en aplicación del principio pro actione, es posible pronunciarse de fondo.[23]
+
+3. Problemas Jurídicos
+
+En esta oportunidad corresponde a la Corte Constitucional, resolver dos problemas jurídicos, así:
+
+3.1. Determinar sí el legislador incurrió en una omisión legislativa relativa, violatoria del derecho de defensa (artículo 29 CP), del derecho de acceso a la administración de justicia (art.
+229 CP) y de la dignidad humana y de garantías reconocidas en tratados que hacen parte del bloque de constitucionalidad, al no prever en el artículo 267 de la Ley 906 de 2004, la posibilidad de que el ciudadano solicite su propia audiencia de formulación de imputación.
+
+3.2. Establecer sí el artículo 287 de la Ley 906 de 2004, al no prever un término específico para que la Fiscalía formule la imputación, distinto al de prescripción de la acción penal, desconoce los mismos postulados.
+
+Para resolver los anteriores problemas jurídicos, la Corte reiterará su jurisprudencia sobre dos temas centrales: el margen de configuración legislativa para la determinación de los procedimientos judiciales y el derecho a la defensa en el marco de la actuación penal.
+
+4. El margen de configuración legislativa para la determinación de los procedimientos judiciales. Reiteración de jurisprudencia
+
+La jurisprudencia constitucional ha sido constante en afirmar, con fundamento en lo dispuesto por los artículos
+150, numerales 1 y 2, y 229 de la Constitución, que consagran la llamada cláusula general de competencia, que el Congreso tiene un amplio margen de configuración normativa para la determinación de los procedimientos judiciales y administrativos, pues en el diseño propio de los Estados Democráticos al legislador no sólo corresponde hacer la ley, expresión de la voluntad popular dirigida a regular las conductas humanas como instrumento de convivencia civilizada y pacífica, sino también la determinación de los procedimientos y actuaciones que deben surtirse ante los jueces para la defensa de las libertades y derechos ciudadanos o para la mediación estatal en situaciones de conflicto.[24]
+
+En ejercicio de la potestad de configuración normativa, corresponde al legislador establecer las formas propias de cada juicio y fijar las reglas y condiciones para acceder a los jueces en búsqueda de la adecuada administración de justicia (artículos 29 y
+229 de la Carta). En desarrollo de esta potestad, el legislador puede fijar nuevos procedimientos,[25]
+determinar la naturaleza de actuaciones judiciales,[26] eliminar etapas procesales,[27]
+requerir la intervención estatal o particular en el curso de las actuaciones judiciales,[28]
+imponer cargas procesales[29]
+o establecer plazos para el ejercicio del derecho de acceso a la administración de justicia.[30]
+De tal manera que, por regla general, la determinación de los sujetos procesales y de los momentos en que ellos pueden intervenir en los procesos judiciales hace parte de la libertad de configuración normativa del legislador que debe responder a las necesidades de la política legislativa, para lo cual evalúa la conveniencia y oportunidad de los mecanismos o instrumentos procesales para hacer efectivos los derechos, libertades ciudadanas y las garantías públicas respecto de ellos.[31]
+
+No obstante lo anterior, también ha sido enfática la jurisprudencia constitucional en señalar que esa libertad de configuración normativa del legislador en el diseño de los procedimientos y etapas judiciales no es absoluta, puesto que se encuentra limitada por los derechos sustanciales y la defensa de las garantías esenciales de las personas.
+De hecho, como lo ha advertido esta Corporación, el proceso judicial no tiene una finalidad en sí mismo, pues su objeto es la realización y eficacia de los derechos sustanciales que subyacen al mismo. Por ello, el control de constitucionalidad de este tipo de normas debe hacer eficaz, de un lado, el amplio margen de libertad de configuración normativa que tiene el legislador y, de otro, el respeto por el núcleo esencial de los derechos y garantías de las personas, en tanto que el juez constitucional no está“llamado a determinar cuáles deben ser los términos que se deben cumplir dentro de los procesos. La misión de la Corte en estos casos es, en realidad, la de controlar los excesos que se puedan presentar en la legislación”.[32]
+
+En desarrollo de la libertad de configuración a que se ha hecho referencia en el punto anterior, el proceso penal con tendencia acusatoria ha sido desarrollado y regulado por el legislador mediante la Ley 906 de 2004, con las modificaciones introducidas por la Ley 1142 de 2007.
+
+5. El derecho a la defensa en el marco de la actuación penal. Reiteración de jurisprudencia
+
+El derecho fundamental al debido proceso, consagrado en el artículo 29 de la Constitución, con aplicación extensiva “a toda clase de actuaciones judiciales y administrativas”, está integrado, de conformidad con la jurisprudencia constitucional, por “el conjunto de facultades y garantías previstas en el ordenamiento jurídico, cuyo objetivo básico es brindar protección al individuo sometido a cualquier proceso, de manera que durante el trámite se puedan hacer valer sus derechos sustanciales y se logre el respeto de las formalidades propias del juicio, asegurando con ello una recta y cumplida administración de justicia”.[33]
+
+Una de las principales garantías del debido proceso, ha sostenido la Corte, es precisamente el derecho a la defensa, entendido como la oportunidad reconocida a toda persona, en el ámbito de cualquier proceso o actuación judicial o administrativa, “de ser oíd[a], de hacer valer las propias razones y argumentos, de controvertir, contradecir y objetar las pruebas en contra y de solicitar la práctica y evaluación de las que se estiman favorables, así como de ejercitar los recursos que la ley otorga”.[34]
+
+Esta Corporación ha destacado la importancia del derecho a la defensa en el contexto de las garantías procesales, señalando que con su ejercicio se busca “impedir la arbitrariedad de los agentes estatales y evitar la condena injusta, mediante la búsqueda de la verdad, con la activa participación o representación de quien puede ser afectado por las decisiones que se adopten sobre la base de lo actuado.” Acorde con ello, ha reconocido igualmente que el derecho de defensa es una garantía del debido proceso de aplicación general y universal, que
+“constituyen un presupuesto para la realización de la justicia como valor superior del ordenamiento jurídico”.[35]
+
+A pesar de que el derecho a la defensa debe ser garantizado por el Estado en el ámbito de cualquier proceso o actuación judicial o administrativa, la jurisprudencia y la doctrina han coincido en sostener que éste se proyecta con mayor intensidad y adquiere mayor relevancia en el escenario del proceso penal, en razón de los intereses jurídicos que allí se ven comprometidos, las materias de las que se ocupa y las graves consecuencias que tiene para el procesado la sentencia condenatoria. La circunstancia de que en el proceso penal se resuelvan asuntos de alto impacto para la comunidad y que en él se puedan imponer sanciones que limitan la libertad personal, lo cual no ocurre en ningún otro tipo de controversia judicial, no deja duda sobre la importancia que adquiere la defensa en ese campo del derecho sancionatorio.[36]
+
+En el escenario internacional, igualmente, los distintos tratados de derechos humanos hacen un especial reconocimiento al derecho a la defensa en materia penal, como ocurre, por ejemplo, con el Pacto Internacional de Derechos Civiles y Políticos[37] y con la
+Convención Americana de Derechos Humanos,[38] incorporados a nuestro ordenamiento interno a través de las Leyes 74 de 1968 y 16 de 1972, respectivamente, los cuales a su vez forman parte del Bloque de
+Constitucionalidad por mandato expreso del artículo 93 de la Constitución
+Política.[39]
+
+De conformidad con las garantías reconocidas en la Constitución y los tratados de derechos humanos, la Corte ha aceptado que el ejercicio del derecho a la defensa en materia penal comprende dos modalidades, la defensa material y la defensa técnica. La primera, la defensa material, es aquella que le corresponde ejercer directamente al sindicado. La segunda, la defensa técnica, es la que ejerce en nombre de aquél un abogado escogido por el sindicado, denominado defensor de confianza, o bien a través de la asignación de un defensor público proporcionado directamente por el Estado a través del Sistema Nacional de Defensoría Pública.[40]
+
+En relación con el derecho a la defensa técnica, conocido en el modelo de tendencia acusatoria como el principio de “igualdad de armas”, la jurisprudencia constitucional ha sido enfática en sostener que el mismo hace parte del núcleo esencial del derecho a la defensa y al debido proceso,[41] y su garantía plena es particularmente relevante si se considera que de su ejercicio se deriva la garantía de otros derechos como el de igualdad de oportunidades e instrumentos procesales.[42] Para la Corte, el principio de igualdad de armas “constituye una de las características fundamentales de los sistemas penales de tendencia acusatoria, pues la estructura de los mismos, contrario a lo que ocurre con los modelos de corte inquisitivo, es adversarial, lo que significa que en el escenario del proceso penal, los actores son contendores que se enfrentan ante un juez imparcial en un debate al que ambos deben entrar con las mismas herramientas de ataque y protección”.[43]
+
+Si bien el derecho a la defensa, y en particular el derecho a la defensa técnica, resulta determinante para la validez constitucional del proceso penal, el tema de si el derecho de defensa en materia procesal penal tiene un espectro amplio o restringido no ha sido un asunto pacífico, a pesar de que el artículo 29 de la Constitución claramente extiende el derecho al debido proceso “a toda clase de actuaciones judiciales y administrativas”, y en materia penal reconoce el derecho de los sindicados a una defensa técnica “durante la investigación y el juzgamiento”.
+
+Efectivamente, el asunto ha sido objeto de pronunciamiento por parte de esta Corporación, tanto en el modelo mixto de tendencia inquisitiva inicialmente adoptado por la Constitución del 91 y desarrollado básicamente por el Decreto 2700 de 1991 y la Ley 600 de 2000, como en el sistema procesal penal de tendencia acusatoria incorporado a nuestro ordenamiento jurídico mediante el Acto Legislativo 03 de 2002 y desarrollado por el Legislador a través de la Ley 906 de 2004, con las modificaciones introducidas por la Ley 1142 de 2007.[44]
+
+En los dos escenarios la posición de la Corte ha sido “unívoca, consistente y sólida, en el sentido de sostener que, a luz de la Constitución y de los tratados internacionales de derechos humanos, no pueden consagrarse excepciones al ejercicio del derecho de defensa, esto es, no puede edificarse sobre él restricción alguna, de manera que debe entenderse que la defensa se extiende, sin distingo ninguno, a toda la actuación penal, incluida por supuesto la etapa preprocesal, conocida como investigación previa, indagación preliminar o simplemente indagación”.[45]
+
+Concretamente, en la sentencia
+C-025 de 2009,[46] la
+Corte presentó un recuento pormenorizado de la evolución jurisprudencial sobre este tópico, del cual se concluye que “la interpretación que se ajusta a la
+Constitución y a los tratados de derechos humanos, en torno al tema de hasta donde se extiende el derecho a la defensa en una actuación penal, tanto en el sistema mixto inquisitivo como en el actual modelo de tendencia acusatorio, es la de que el citado derecho surge desde que la persona tiene conocimiento que cursa una investigación en su contra y solo culmina cuando finaliza el proceso.
+En este sentido es claro que el derecho a la defensa se extiende sin discusión ninguna a la etapa preprocesal de la indagación previa, y a partir de ella, a todos los demás actos procesales hasta la decisión final”.[47]
+
+Esta providencia reiteró la línea fijada previamente en la sentencia C-799 de 2005,[48] al estudiar una demanda de inconstitucionalidad dirigida, entre otras normas, contra el artículo 8, inciso
+1, de la Ley 906 de 2004,[49] por violación del derecho de defensa, puesto que el demandante consideraba que la disposición en cuestión sólo permitía su ejercicio a partir del momento en que se efectuase la imputación. En esta oportunidad, la Sala encontró que la expresión “… una vez adquirida …” de la norma demandada, admitía dos interpretaciones posibles: una excluyente, según la cual, el derecho de defensa se podía ejercer sólo desde el momento en el cual se adquiere la condición de imputado y no antes; y otra incluyente, según la cual, el derecho de defensa se podía ejercer antes de adquirirse tal condición, en tanto, dicha expresión, significa o manifiesta la adquisición de una de las diferentes condiciones en las cuales se puede encontrar una persona en un proceso penal, sin excluir a las restantes.
+Ante estas dos interpretaciones posibles, la Corte concluyó que una interpretación sistemática de la Ley 906 de 2004 establece la posibilidad de activar el derecho de defensa y varios de los derechos que lo componen, en cabeza de una persona, antes de que esta adquiera la condición de imputado,[50] y en esa medida, la interpretación incluyente era la que resultaba ajustada a la
+Constitución. En los siguientes términos se pronunció la Corte:
+
+“(…) la interpretación incluyente, es decir, aquella que permite entender que la adquisición de la condición de imputado es una de las diferentes condiciones en la cuales se puede encontrar una persona en un proceso penal, pero en momento alguno excluye aquellas anteriores a la condición de imputado lo que implicaría que el derecho de defensa se pueda ejercer antes de adquirirse la referida condición; es una interpretación ajustada a la Carta Política y por ende es Constitucional.
+
+En este orden de ideas, la correcta interpretación del derecho de defensa implica que se puede ejercer desde antes de la imputación. Así lo establece el propio Código por ejemplo desde la captura o inclusive antes, cuando el investigado tiene conocimiento de que es un presunto implicado en los hechos. Por ello, la limitación establecida en el artículo 8° de la ley 906 de 2004, si se interpreta en el entendido de que el derecho de defensa sólo se puede ejercer desde el momento en que se adquiere la condición de imputado, sería violatorio del derecho de defensa.
+
+Por tal motivo, esta Corporación condicionará la exequibilidad de la expresión acusada sin perjuicio del ejercicio oportuno, dentro de los cauces legales, del derecho de defensa por el presunto implicado o indiciado en la fase de indagación e investigación anterior a la formulación de la imputación.”
+
+6. Inexistencia de una omisión legislativa relativa: el ámbito de aplicación del derecho a la defensa dentro del proceso penal se extiende a la etapa preprocesal de la indagación previa, y a partir de ella, a todos los demás actos procesales hasta la decisión final
+
+A continuación, el primer problema jurídico formulado impone a la
+Corte la tarea de verificar si el legislador incurrió en una omisión legislativa relativa en el artículo 267 de la Ley 906 de 2004, violatoria del debido proceso y del derecho de defensa (artículo 29 CP), del derecho de acceso a la administración de justicia (art. 229 CP) y de las garantías reconocidas en tratados que hacen parte del bloque de constitucionalidad, específicamente, los artículos 7.6 y 8.1 de la Convención Americana sobre Derechos Humanos, el artículo 26 de la Declaración Americana de Derechos y Deberes del Hombre, el artículo 10 de la Declaración Universal de Derechos Humanos, y el artículo 14 del Pacto Internacional de Derechos Civiles y Políticos, de los cuales se derivan los derechos esenciales a ser oído y a ser notificado de los cargos, al no prever la posibilidad de que el ciudadano solicite su propia audiencia de formulación de imputación ante el juez de garantías, negándole la oportunidad de intervenir en todas las etapas y actos del proceso, desde su más prematuro inicio. Pasa la Sala a hacer el estudio respectivo.
+
+La norma demandada, el artículo 267, hace parte de la Ley 906 de 2004, modificada por la Ley 1142 de 2007, por la cual se expide el nuevo Código de Procedimiento Penal, en desarrollo de la reforma constitucional introducida por el Acto Legislativo 03 de 2002 (reformatoria de los artículos 116, 250 y 251 de la Carta Política), que modificó la estructura básica del proceso penal en Colombia. Con esta reforma se pasó de un modelo mixto de tendencia inquisitiva, adoptado por la Constitución de l991, a un sistema procesal penal de tendencia acusatoria, que pretende privilegiar la garantía de los derechos fundamentales del inculpado para la consecución de la verdad, la realización efectiva de la justicia, y los derechos de las víctimas.[51]
+
+El proceso penal con tendencia acusatoria ha sido desarrollado y regulado por el Legislador mediante la Ley
+906 de 2004, con las modificaciones introducidas por la Ley 1142 de 2007. En las sentencias C-1194 de 2005[52] y
+C-025 de 2009,[53] entre otras providencias, la Corte ha explicado dicho procedimiento refiriéndose a los aspectos más relevantes de su estructura y desarrollo.
+
+Efectivamente, se trata de un proceso conformado en términos generales por tres etapas: indagación, investigación y juicio, caracterizado por la realización de un juicio oral, público, concentrado y contradictorio, con inmediación de las pruebas, en el que prima el respeto por las garantías procesales de la persona, y en esa medida, la afectación de los derechos fundamentales goza de reserva judicial puesto que debe ser autorizada de manera previa por el fiscal o el juez mediante orden escrita motivada.[54]
+
+La Corte ha precisado que la indagación es una fase preliminar, anterior al proceso penal propiamente dicho, cuyo objeto consiste en que la Fiscalía reúna la información que se requiere para dar inicio al proceso penal, y defina si el hecho delictivo se cometió, cómo ocurrió y quienes participaron en su realización.[55]
+
+A esta fase preliminar, se refiere el artículo 267 demandado, el cual se ubica en el Título I denominado “La indagación y la investigación”, concretamente, dentro del Capítulo VI correspondiente a las “Facultades de la Defensa en la Investigación”. La norma prevé las facultades que tiene quien todavía no es imputado durante la respectiva investigación preliminar, en contraposición al artículo siguiente, el 268, que aborda las facultades de quien ya ha sido imputado durante una etapa también denominada de investigación, pero que corresponde a la etapa procesal propiamente dicha.
+
+Como facultades de quien no es imputado, el artículo 267, prevé la posibilidad de asesorarse de abogado; así como la facultad de buscar, identificar empíricamente, recoger y embalar los elementos materiales probatorios y hacerlos examinar por peritos particulares a su costa, o solicitar a la policía judicial que lo haga. Adicionalmente, la norma señala que estos elementos, el informe sobre ellos y las entrevistas que se hayan realizado con el fin de descubrir información útil, podrán ser utilizados por la defensa ante las autoridades judiciales; y que se podrá solicitar al juez de control de garantías que ejerza control sobre las actuaciones realizadas en esta etapa que hayan afectado o afecten los derechos fundamentales del no imputado.
+
+Como lo ha sostenido la jurisprudencia de esta Corte, la creación de la figura del juez de control de garantías en el nuevo sistema procesal penal, ha sido una de las modificaciones más importantes introducidas por el Acto Legislativo 03 de 2002, desde luego, sin perjuicio de la interposición y ejercicio de las acciones de tutela cuando sea del caso, con competencias para adelantar (i) un control sobre la aplicación del principio de oportunidad; (ii) un control posterior sobre las capturas realizadas por la Fiscalía General de la Nación; (iii) un control posterior sobre las medidas de registro, allanamiento, incautación e interceptación de llamadas; (iv) un control previo para la adopción de medidas restrictivas de la libertad y (v) decretar medidas cautelares sobre bienes; (vi) igualmente deberá autorizar cualquier medida adicional que implique afectación de derechos fundamentales y que no tenga una autorización expresa en la Constitución.[56]
+
+Cumplida la etapa preliminar, denominada indagación, la Fiscalía debe proceder a formular ante el juez de garantías la imputación. Según el artículo 286 del CPP, la formulación de imputación es “el acto a través del cual la Fiscalía General de la Nación comunica a una persona su calidad de imputado, en audiencia que se lleva a cabo ante el juez de control de garantías.”
+
+Precisamente, el artículo 287 también demandado, prevé, por un lado, las situaciones que determinan la formulación de la imputación, y por otro lado, la posibilidad de que el fiscal solicite al juez de control de garantías, previo cumplimiento de los requisitos de ley, la imposición de medida de aseguramiento contra el imputado y las medidas cautelares sobre sus bienes.
+
+La formulación de la imputación convierte al indiciado en imputado (art. 126 CPP), y en tal calidad, adquiere las mismas atribuciones asignadas a la defensa que resulten compatibles con su condición (art. 130 CPP), concretamente, tiene la posibilidad de adelantar el recaudo de la información pertinente y de los elementos fácticos de contenido probatorio necesarios para diseñar la estrategia defensiva. No obstante, la jurisprudencia constitucional, como ya se vio, ha dejado en claro que el presunto implicado puede ejercer su derecho de defensa desde la etapa preprocesal de la indagación previa y durante la etapa de investigación anterior a la formulación de imputación, y que concretamente la Ley 906 de 2004 otorga derechos que permiten la activación del derecho de defensa aun cuando no se ha formulado la imputación, como el derecho a guardar silencio, el derecho a no autoincriminarse y el derecho a declarar en presencia de un abogado, entre otros.[57]
+
+En efecto, de conformidad con la línea jurisprudencial citada en los puntos 4 y 5 de la parte considerativa, no encuentra la Corte que el legislador haya incurrido en una omisión legislativa relativa violatoria de la Carta, como lo afirma la demandante, al no prever la posibilidad de que el no imputado solicite al juez de garantías la celebración de su propia audiencia de imputación, porque no obstante el amplio margen de configuración que se ha reconocido al legislador para la determinación de los procedimientos, limitado tan sólo por las disposiciones constitucionales relativas a la garantía de los derechos fundamentales, en especial las referentes al derecho al debido proceso, el ámbito de aplicación del derecho a la defensa se extiende desde la etapa preprocesal de la indagación previa, y a partir de ella, a todos los demás actos procesales hasta la decisión final.
+Así, el indiciado tiene la posibilidad de ejercer su derecho a la defensa desde el más prematuro inicio de la actuación. Como lo ha sostenido esta Corte, si tal derecho no existiese desde la etapa preprocesal, fácilmente la persona podría pasar de investigada, a imputada, a acusada y a condenada, sin haber actuado en equilibrio de fuerzas con quien la investiga, generándose así una clara violación al derecho a la igualdad y al derecho de defensa.[58]
+
+En este sentido, además de las garantías previstas en el artículo 267 demandado, la jurisprudencia ha constatado la existencia de dos adicionales, a partir de la reforma introducida por el Acto Legislativo 03 de 2002 y de una interpretación sistemática de la
+Ley 906 de 2004, esenciales para el respeto de los derechos fundamentales, la definición de la verdad y la realización efectiva de la justicia. La primera, consiste en que toda afectación de los derechos fundamentales del investigado o indiciado por la actividad de la Fiscalía (registros, allanamientos, incautaciones, interceptación de comunicaciones, entre otras) debe ser decidida en sede jurisdiccional, y en tal virtud, corresponde al juez de control de garantías el examen de las medidas de intervención en el ejercicio de los derechos fundamentales para verificar que se adecuan a la ley y son proporcionales.
+
+La segunda, tiene que ver con la determinación de que el material de convicción o evidencia, que tanto la
+Fiscalía como la defensa recaudan en el proceso de investigación, deberá ser descubierto ante el juez de conocimiento, en el transcurso del juicio oral, público, donde la controversia y la contradicción tienen lugar, y en consecuencia, la garantía del derecho de defensa es plena, sin perjuicio (i) de que si alguna de las partes encuentra material probatorio y evidencia física muy significativos que deban ser descubiertos, así lo soliciten al juez para que éste decida si es excepcionalmente admisible o debe excluirse, oídas las partes y considerando el perjuicio que podría producirse al derecho de defensa y a la integridad del juicio; y (ii) de la práctica de prueba anticipada en casos de extrema necesidad y urgencia para evitar la pérdida o alteración del medio probatorio, caso en el cual de todas maneras deberá efectuarse una audiencia para garantizar el contradictorio, de conformidad con los artículos 274 y 284 del Código de Procedimiento Penal.
+
+Lo anterior es compatible con los tratados internacionales de derechos humanos incorporados en el bloque de constitucional, en la medida que el Legislador previó en la Ley 906 de 2004 tanto para la etapa preprocesal como procesal garantías suficientes para asegurar el debido proceso, que incluyen desde la posibilidad de asesorarse de abogado y de solicitar al juez de control de garantías que ejerza control sobre las actuaciones realizadas en esta etapa que afecten o hayan afectado sus derechos fundamentales, hasta el control previo o posterior por parte del juez de control de garantías de las actuaciones de la fiscalía que puedan implicar alguna vulneración de los derechos de quien es investigado. Así, ante posibles excesos o arbitrariedades que pudiesen presentarse por parte de los agentes del
+Estado en la etapa preprocesal, ya sea porque se toman medidas restrictivas de derechos innecesarias, o porque estas se ejecutan con desconocimiento del debido proceso, o porque la investigación se encuentra paralizada sin una razón válida, puede el afectado que conoce que se está adelantando una investigación en su contra, acudir directamente al juez de garantías para hacer valer sus derechos y restablecer así el equilibrio que debe existir entre la Fiscalía y el indiciado, de conformidad con las normas internacionales de derechos humanos ratificadas por Colombia.
+
+La otra hipótesis que muestra la existencia de garantías suficientes al debido proceso en la etapa preprocesal se presenta cuando el investigado no sabe que hay una actuación en su contra.
+En esos eventos, especialmente cuando se trata de la realización de diligencias que impliquen restricción de los derechos, tales como interceptaciones, allanamientos, registros, entre otros, previstas en los artículos 233 a 245 del Código de Procedimiento Penal, corresponde al juez de control de garantías asegurar el respeto de los derechos de quien pueda ser afectado con tales medidas, de conformidad con lo previsto en el artículo 237 del mismo ordenamiento.
+
+En conclusión, dado que el ejercicio del derecho de defensa no tiene un límite temporal, puesto que se inicia desde la etapa preprocesal, a partir del momento en que el investigado tiene conocimiento de que la Fiscalía inició una investigación por la presunta participación en un hecho punible, el ejercicio de los derechos del indiciado, previstos en la Constitución, la ley y las normas internacionales sobre derechos humanos que hacen parte del bloque de constitucionalidad, y particularmente del derecho de defensa, no depende de la posibilidad de que la persona pueda solicitar la celebración de su propia audiencia de imputación, por el contrario, tales derechos surgen desde el momento mismo en que se tiene conocimiento, por cualquier medio, de que cursa una investigación en su contra.
+
+La Sala procederá, en consecuencia, a declarar exequible, por el cargo analizado, el artículo 267 de la
+Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+7. La falta de previsión de un término específico para que la Fiscalía formule la imputación, distinto al de prescripción de la acción penal, no desconoce los derechos de defensa, de acceso a la administración de justicia y a la dignidad humana
+
+En relación con el segundo problema jurídico formulado, corresponde a esta corporación determinar sí el artículo 287 de la Ley 906 de 2004, al no prever un término específico para que la Fiscalía formule la imputación, distinto al de prescripción de la acción penal, desconoce los derechos de defensa (artículo 29 CP), de acceso a la administración de justicia (art. 229
+CP) y a la dignidad humana (art. 1 CP) del indiciado.
+
+El artículo 287 que se encuentra en el Título III denominado “Formulación de la imputación”, dentro del
+Capítulo Único, titulado “Disposiciones generales”, contempla las situaciones que determinan la formulación de la imputación, y al respecto señala que el fiscal hará la imputación fáctica cuando de los elementos materiales probatorios, de la evidencia física o de la información legalmente obtenida, se pueda inferir razonablemente que el imputado es autor o partícipe del delito que se investiga. Además, la norma prevé, la posibilidad de que el fiscal solicite al juez de control de garantías, previo cumplimiento de los requisitos de ley, la imposición de medida de aseguramiento contra el imputado y las medidas cautelares sobre sus bienes.
+
+La Corte ha precisado que en la fase preliminar, anterior al proceso penal propiamente dicho, denominada indagación, se busca que Fiscalía reúna la información que se requiere para dar inicio al proceso penal, y defina si el hecho delictivo se cometió, cómo ocurrió y quienes participaron en su realización. En caso de que haya claridad sobre estas circunstancias no es necesario adelantar tal fase.
+
+En la sentencia C-425 de 2008,[59] esta
+Corporación al referirse a la diligencias de imputación, legalización de la captura e imposición de medidas de aseguramiento en ausencia física del imputado, precisó que contienen momentos procesales diferentes, generan un impacto distinto sobre los derechos del capturado y de la sociedad y pueden condicionar de varias maneras el desarrollo del proceso penal. De manera que, “si se tiene en cuenta la situación procesal de cada una se evidencia que, mientras la diligencia de legalización de la captura tiene un carácter perentorio porque existe límite temporal constitucional y legal para el efecto (36 horas), la formulación de la imputación tiene como límite máximo el término de prescripción de la acción penal y la solicitud de medida de aseguramiento no se impone en un momento determinado, puesto que sólo se podrá solicitar y decretar si se cumplen con los requisitos y condiciones que la ley señala para la restricción preventiva de la libertad (artículos 308 a 314 de la Ley 906 de 2004)”.
+
+Específicamente, sobre el término de prescripción de la acción penal como límite máximo para la formulación de la imputación por parte del Fiscal, la Corte ha sostenido reiteradamente que:
+
+“En la medida en que los hechos fácticos constitutivos del delito no siempre son fácilmente verificables y que las circunstancias que los determinan pueden hacer confusa la identificación de su ilicitud, el fin de la “indagación” a cargo de la Fiscalía, y de las autoridades de policía judicial,[60] es definir los contornos jurídicos de la conducta delictiva que va a ser objeto de investigación y juicio, mediante la realización de actividades y diligencias previas, técnicas y científicas. De manera general, las diligencias y actividades practicadas durante la “indagación” tienen carácter reservado y el límite para llevarlas a cabo es el término de prescripción de la acción penal”.[61]
+
+En relación con la libertad de configuración del legislador para establecer formas y términos procesales, la jurisprudencia de esta Corte, de conformidad con el artículo 150, numerales 1 y
+2, de la Carta, ha sostenido que el legislador tiene una competencia amplia para regular los diversos procesos judiciales y para establecer las etapas, oportunidades y formalidades aplicables a cada uno de ellos, así como los términos para interponer las distintas acciones y recursos ante las autoridades judiciales.[62] Así pues, “es la ley la que consagra los presupuestos, requisitos, características y efectos de las instituciones procesales, cuyo contenido, en tanto que desarrollo de la Constitución y concreción de los derechos sustanciales, no puede contradecir los postulados de aquélla ni limitar de modo irrazonable o desproporcionado éstos”.[63]
+
+La libertad de configuración normativa del legislador, aunque amplia, tiene ciertos límites, que según la jurisprudencia constitucional, se concretan en el respeto por los principios y fines del Estado, la vigencia de los derechos fundamentales y la observancia de las demás normas constitucionales. “Es decir, si bien el Congreso o el
+Presidente de la República, debidamente autorizado por aquél mediante la concesión de facultades extraordinarias, tienen la potestad para consagrar, dentro de un margen de discrecionalidad, las diversas formas, ritualidades y términos procesales, éstos deben ser razonables y estar dirigidos a garantizar el derecho sustancial”.[64]
+
+Respecto de los plazos que rigen el procedimiento penal, en la sentencia C-1154 de 2005,[65] la Corte reiteró su jurisprudencia, en el sentido de que la razonabilidad del término de un plazo de investigación dentro del proceso penal debe estar condicionada por la naturaleza del delito imputado, el grado de complejidad de su investigación, el número de sindicados y los efectos sociales que de éste se desprendan.
+
+Ahora bien, en la medida en que la formulación de la imputación es el acto a través del cual la fiscalía General de la Nación comunica a una persona su calidad de imputado, en audiencia que se lleva a cabo ante el juez de control de garantías (art. 286 CPP), el Fiscal sólo podrá hacer la imputación cuando de los elementos materiales probatorios, evidencia física o de la información legalmente obtenida, pueda inferir razonablemente quién es el autor o partícipe del delito que se investiga (art.
+287 CPP), es decir, pueda individualizar de manera concreta al imputado, incluyendo su nombre, los datos que sirvan para identificarlo y el domicilio de citaciones (art. 288 CPP).
+
+No obstante, de acuerdo con el artículo 281 del Código de Procedimiento Penal, cuando el Fiscal tuviere motivos fundados para inferir que una persona es autora o partícipe de la conducta que se investiga, sin hacerle imputación alguna, debe darle a conocer que tiene derecho a guardar silencio y que no está obligada a declarar contra sí mismo ni en contra de su cónyuge, compañero permanente o pariente dentro del cuarto grado de consanguinidad o civil, o segundo de afinidad. Cuando esta circunstancia se presenta, la persona sospechosa, más no imputada, queda inmediatamente cobijada por la hipótesis del artículo 267 del Código de
+Procedimiento Penal, y a partir de ese momento adquiere el ejercicio pleno de su derecho de defensa.
+
+Por el contrario, si el Fiscal tan sólo tiene noticia del hecho delictivo y está en la etapa de establecer las circunstancias de modo, tiempo y lugar, y no existen sospechosos, la duración de la etapa de investigación no tiene aún la virtualidad de afectar los derechos concretos de los posibles sospechosos, pero sí de las víctimas, que tendrían el mayor interés en que el caso se resuelva en un término muy breve.
+
+Así, los términos procesales en materia penal consultan no sólo la obligación de la Fiscalía de investigar los hechos delictivos de los que tenga conocimiento, sino también, el interés de los presuntos infractores de la ley penal a conocer de qué se le acusa y a iniciar su pronta defensa, y el de las víctimas a conocer la verdad y a ser reparadas.
+
+No encuentra la Corte en el caso concreto que el término de prescripción de la acción penal, constituya un término irrazonable o desproporcionado, cuando se ha individualizado e identificado plenamente al presunto autor o partícipe del hecho punible, en tanto, consulta los distintos intereses y derechos en juego, del Estado que no puede renunciar a la persecución del delito; del sospechoso o indiciado, según el caso, que tiene interés a que su situación se aclare de manera rápida pero no tan célere que no pueda ejercer adecuadamente su derecho de defensa, y de las víctimas que tienen derecho a saber la verdad de lo ocurrido, dentro de un término que no genere impunidad sino que por el contrario de seguridad sobre el accionar investigativo de la Fiscalía. No se trata, en este caso, de términos exageradamente largos, que desconozcan los principios de celeridad, eficacia, y seguridad jurídica, o que, por su brevedad, impidan hacer efectivo el derecho de defensa. Por el contrario, el término de prescripción de la acción penal, ha sido considerado por esta Corporación como un lapso que permite al Estado en su deber de administrar justicia, investigar y reprimir los delitos, adelantar de manera eficiente y eficaz la respectiva investigación, permitiendo a su vez que el sindicado también tenga la oportunidad de estructurar adecuadamente su defensa.[66]
+
+En consecuencia, (i) dado que el ámbito de configuración del legislador en materia de determinación de procedimientos judiciales y de fijación de términos en este ámbito son amplias;
+(ii) que la actuación de la Fiscalía en la indagación tiene por objeto reunir la información que se requiere para dar inicio al proceso penal, es decir, definir si el hecho delictivo se cometió, cómo ocurrió y quienes participaron en su realización, hechos que por lo general no son fácilmente verificables; (iii)
+que cuando el fiscal tiene motivos fundados para sospechar de alguna persona como autora o partícipe de un delito, debe proceder a informar al sospechoso de sus derechos, quien a partir de ese momento adquiere el ejercicio pleno del derecho de defensa; y (iv) que los términos procesales deben garantizar los derechos de todas las partes involucradas, la corte no encuentra que el término para la formulación de la imputación, equivalente al término de prescripción de la acción penal, desconozca los derechos de defensa, de acceso a la justicia y a la dignidad de las personas.
+
+Procederá entonces la Sala a declarar exequible, por el cargo analizado, el artículo 287 de la Ley 906 de
+2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+VII. DECISION
+
+En mérito de lo expuesto, la Sala Plena de la Corte Constitucional, administrando justicia en nombre del pueblo y por mandato de la Constitución,
+
+RESUELVE
+
+Primero.- Declarar exequible, por el cargo analizado en esta sentencia, el artículo 267 de la Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+Segundo.- Declarar exequible, por el cargo analizado en esta sentencia, el artículo 287 de la Ley 906 de 2004, “por la cual se expide el Código de Procedimiento Penal”.
+
+Notifíquese, comuníquese, publíquese, insértese en la Gaceta de la Corte Constitucional y archívese el expediente.
+
+JUAN CARLOS HENAO
+PEREZ
+
+Presidente
+
+MARIA
+VICTORIA CALLE CORREA
+
+Magistrada
+
+MAURICIO
+GONZALEZ CUERVO
+
+Magistrado
+
+Ausente en comisión
+
+GABRIEL
+EDUARDO MENDOZA MARTELO
+
+Magistrado
+
+JORGE
+IVAN PALACIO PALACIO
+
+Magistrado
+
+NILSON
+PINILLA PINILLA
+
+Magistrado
+
+JORGE
+IGNACIO PRETELT CHALJUB
+
+Magistrado
+
+HUMBERTO
+ANTONIO SIERRA PORTO
+
+Magistrado
+
+LUIS
+ERNESTO VARGAS SILVA
+
+Magistrado
+
+MARTHA
+VICTORIA SACHICA MENDEZ
+
+Secretaria
+General
+
+---
+
+[1] Reformada por las leyes 1395 de 2010, “Por la cual se adoptan medidas en materia de descongestión judicial”; 1312 de 2009, “Por medio de la cual se reforma la Ley 906 de 2004 en lo relacionado con el Principio de Oportunidad”; 1273 de 2009, “Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado “de la protección de la información y de los datos”- y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones”; 1257 de 2008,
+“Por la cual se dictan normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres, se reforman los
+Códigos Penal, de Procedimiento Penal, la Ley 294 de 1996 y se dictan otras disposiciones”; 1142 de 2007, “Por medio de la cual se reforman parcialmente las Leyes 906 de 2004, 599 de 2000 y 600 de 2000 y se adoptan medidas para la prevención y represión de la actividad delictiva de especial impacto para la convivencia y seguridad ciudadana”; y 1121 de 2006, “por la cual se dictan normas para la prevención, detección, investigación y sanción de la financiación del terrorismo y otras disposiciones”.
+
+[2] El texto de las normas demandadas se resalta en negrilla.
+
+[3] Sentencias
+C-799 de 2005 (MP. Jaime Araújo Rentería. AV. Humberto Antonio Sierra Porto);
+C-1154 de 2005 (MP. Manuel José Cepeda Espinosa. AV. Jaime Araújo Rentería);
+C-1194 de 2005 (MP. Marco Gerardo Monroy Cabra); C-210 de 2007 (MP. Marco
+Gerardo Monroy Cabra. AV. Nilson Pinilla Pinilla): y C-025 de 2009 (MP. Rodrigo
+Escobar Gil. SV. Fernando Araújo Rentería).
+
+[4] MP.
+Jaime Araújo Rentería. AV. Humberto Antonio Sierra Porto.
+
+[5] Sentencias
+C-528 de 2003; C-780 de 2003 (MP. Marco Gerardo Monroy Cabra); C-1154 de 2005 (MP. Manuel José Cepeda Espinosa. AV. Jaime Araújo Rentería); A-131 de 2006 (MP. Alfredo Beltrán Sierra); C-192 de 2006 (MP. Jaime Córdoba Triviño).
+
+[6] Ver
+Sentencias C-1549 de 2000 (MP. Martha Victoria Sáchica Méndez); C-041 de 2002 (MP. Marco Gerardo Monroy Cabra); y C-1154 de 2005 (MP. Manuel José Cepeda
+Espinosa. AV. Jaime Araújo Rentería), entre otras.
+
+[7] Sentencias
+C-427 de 2000 (MP. Vladimiro Naranjo Mesa) y C-1154 de 2005 (MP. Manuel José
+Cepeda Espinosa. AV. Jaime Araújo Rentería).
+
+[8] Sentencias
+C- 543 de 1996 (MP. Carlos Gaviria Díaz. AV. José Gregorio Hernández Galindo) y
+C-1154 de 2005 (MP. Manuel José Cepeda Espinosa. AV. Jaime Araújo Rentería).
+
+[9] Sentencia
+C-1154 de 2005 (MP. Manuel José Cepeda Espinosa. AV. Jaime Araújo Rentería).
+
+[10] Las sentencias C-543 de 1996 (MP. Carlos Gaviria
+Díaz. AV. José Gregorio Hernández Galindo); C-067 de 1999 (MP. Martha Victoria Sáchica Méndez. SV. Eduardo Cifuentes Muñoz); C-427 de 2000 (MP. Vladimiro
+Naranjo Mesa); C-1549 de 2000 (MP. Martha Victoria Sáchica Méndez); C-090 de
+2002 (MP. Eduardo Montealegre Lynett); C-809 de 2002 (MP. Eduardo Montealegre
+Lynett. AV. Jaime Araújo Rentería);
+c-509 de 2004 (MP. Eduardo
+Montealegre Lynett); C-1009 de
+2005 (MP. Manuel José Cepeda Espinosa. SV. Alfredo Beltrán Sierra; SV. Jaime
+Araújo Rentería, Jaime Córdoba Triviño y Clara Inés Vargas Hernández); y
+C-1266 de 2005 (MP. Humberto Antonio Sierra Porto).
+
+[11] Sentencia
+C-185 de 2002 (MP. Rodrigo Escobar Gil). Reiterada por las sentencias C-192 de
+2006 (MP. Jaime Córdoba Triviño); C-864 de 2008 (MP. Marco Gerardo Monroy
+Cabra); C-442 de 2009 (MP. Humberto Antonio Sierra Porto); y C-434 de 2010 (MP.
+Juan Carlos Henao Pérez), entre otras.
+
+[12] El
+Texto del artículo 334 de la Ley 600 de 2000, es el siguiente: “ARTICULO
+334. DERECHO A SOLICITAR SU PROPIA INDAGATORIA. Quien tenga noticia de la existencia de una actuación en la cual obren imputaciones penales en su contra, tiene derecho a solicitar que se le reciba indagatoria.” La Ley 906 de 2004 rige para los delitos cometidos con posterioridad al 1 de enero de 2005.
+
+[13] El texto del numeral 4 del artículo 7, es el siguiente: “Artículo 7. Derecho a la Libertad Personal. // (…) 4. Toda persona detenida o retenida debe ser informada de las razones de su detención y notificada, sin demora, del cargo o cargos formulados contra ella. // (…).”
+
+[14] El
+Texto del numeral 2 del artículo 8, es el siguiente: “Artículo 8. Garantías
+Judiciales. // (…) // 1. Toda persona tiene derecho a ser oída, con las debidas garantías y dentro de un plazo razonable, por un juez o tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ella, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal o de cualquier otro carácter”.
+
+[15] El
+Texto del literal b), numeral 2, del artículo 8, es el siguiente: “Artículo
+8. Garantías Judiciales. // (…) // 2. Toda persona inculpada de delito tiene derecho a que se presuma su inocencia mientras no se establezca legalmente su culpabilidad. Durante el proceso, toda persona tiene derecho, en plena igualdad, a las siguientes garantías mínimas: // (…) b. comunicación previa y detallada al inculpado de la acusación formulada; (…).”
+
+[16] El texto del artículo XXVI, es el siguiente: “Artículo XXVI. Se presume que todo acusado es inocente, hasta que se pruebe que es culpable. // Toda persona acusada de delito tiene derecho a ser oída en forma imparcial y pública, a ser juzgada por tribunales anteriormente establecidos de acuerdo con leyes preexistentes y a que no se le imponga penas crueles, infamantes o inusitadas.”
+
+[17] El texto del artículo 10, es el siguiente: “Artículo 10. Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.”
+
+[18] El texto del numeral 1 del artículo 14, es el siguiente: “Artículo 14. // 1.
+Todas las personas son iguales ante los tribunales y cortes de justicia. Toda persona tendrá derecho a ser oída públicamente y con las debidas garantías por un tribunal competente, independiente e imparcial, establecido por la ley, en la substanciación de cualquier acusación de carácter penal formulada contra ella o para la determinación de sus derechos u obligaciones de carácter civil.
+La prensa y el público podrán ser excluidos de la totalidad o parte de los juicios por consideraciones de moral, orden público o seguridad nacional en una sociedad democrática, o cuando lo exija el interés de la vida privada de las partes o, en la medida estrictamente necesaria en opinión del tribunal, cuando por circunstancias especiales del asunto la publicidad pudiera perjudicar a los intereses de la justicia; pero toda sentencia en materia penal o contenciosa será pública, excepto en los casos en que el interés de menores de edad exija lo contrario, o en las actuaciones referentes a pleitos matrimoniales o a la tutela de menores. // (…).”
+
+[19] Sentencias
+C-451 de 2005 (MP. Clara Inés Vargas Hernández); C-372 de 2009 (MP. Nilson
+Pinilla Pinilla).
+
+[20] Sentencia
+C-521 de 2009 (MP. María Victoria Calle Correa).
+
+[21] En la sentencia C-591 de 2005 (MP. Clara Inés Vargas Hernández. SPV. Alfredo
+Beltrán Sierra), la Corte decidió no pronunciarse de fondo sobre la expresión “quien sea informado” del artículo 267 de la Ley 906 de 2004, por ineptitud sustancial de la demanda.
+
+[22]En la sentencia C-592 de 2005 (MP. Álvaro Tafur Galvis), la Corte se inhibió de pronunciarse de fondo en relación con una demanda formulada contra el artículo 287 de la Ley 906 de 2004 por ineptitud sustancial de la demanda, frente a un cargo de omisión legislativa relativa por no establecer la norma demandada un término de duración de la fase previa o de indagación.
+
+[23] Ver sentencias C-1040 de 2005 (MP. Manuel
+José Cepeda Espinosa, Rodrigo Escobar Gil, Marco Gerardo Monroy Cabra, Humberto
+Antonio Sierra Porto, Álvaro Tafur Galvis y Clara Inés Vargas Hernández. S.P.V.
+Humberto Antonio Sierra Porto); C-908 de 2007 (MP. Humberto Antonio Sierra
+Porto. SV. Jaime Araújo Rentería; SV. Nilson Pinilla Pinilla); C-509 de 2008 (MP. Humberto Antonio Sierra Porto. SPV. Y AV. Jaime Araújo Rentería; AV.
+Nilson Pinilla Pinilla); C-763 de 2009 (MP. Jorge Ignacio Pretelt Chaljub); y
+C-012 de 2010 (MP. Juna Carlos Henao Pérez. SV. Jorge Iván Palacio Palacio), entre otras.
+
+[24] Sentencias
+C-591 de 2005 (MP. Clara Inés Vargas Hernández. SPV. Alfredo Beltrán Sierra) y
+C-210 de 2007 (MP. Marco Gerardo Monroy Cabra. AV. Nilson Pinilla Pinilla), entre otras.
+
+[25] Por ejemplo, la sentencia C-510 de 2004 (MP. Álvaro Tafur Galvis. AV. Jaime Araújo
+Rentería), declaró la exequibilidad de la norma que establecía un nuevo procedimiento y términos para los cobros o las reclamaciones ante el FOSYGA, por cuanto consideró, entre otras cosas, que el legislador es libre para establecer condiciones previas al acceso a la justicia.
+
+[26] Por ejemplo, en sentencia C-163 de 2000 (MP. Fabio Morón Díaz), la Corte consideró ajustada a la Constitución la consagración de la figura de la parte civil en el proceso penal, a pesar de que la naturaleza de sus pretensiones podrían ser únicamente pecuniarias. De igual manera, en sentencia C-1149 de 2001 (MP. Jaime
+Araújo Rentería. SV. Rodrigo Escobar Gil, Marco Gerardo Monroy Cabra y Álvaro
+Tafur Galvis), la Corte dijo que, dentro de la libertad de configuración normativa, era válido que la ley autorice la intervención de la parte civil en el proceso penal militar.
+
+[27] La sentencia C-180 de 2006 (MP. Jaime Araújo Rentería) declaró la exequibilidad de la eliminación del recurso extraordinario de súplica en los procesos contencioso administrativos, por cuanto la Constitución confiere al legislador “libertad de configuración amplia en materia de procedimientos judiciales”.
+
+[28] Por ejemplo, en la sentencia C-1264 de 2005 (MP. Clara Inés Vargas Hernández), la Corte se refirió a la libertad de configuración normativa del legislador para regular la forma cómo debe adelantarse la notificación personal en el procedimiento civil.
+
+[29] En este asunto, entre otros casos, se recuerdan las sentencias C-316 de 2002 (MP.
+Marco Gerardo Monroy Cabra), respecto de la caución en el proceso penal; C-043 de 2004 (MP. Marco Gerardo Monroy Cabra. AV. Jaime Araújo Rentería) que declaró la exequibilidad del pago de condena en costas y C-641 de 2002, en cuanto consideró ajustado a la Carta el término de ejecutoria de las sentencias como carga procesal a las partes.
+
+[30] En sentencia C-1232 de 2005 (MP. Alfredo Beltrán Sierra), la Corte Constitucional dijo que el legislador goza de amplio margen de configuración normativa para consagrar el término de prescripción de las acciones derivadas del fuero sindical.
+
+[31] Sentencia
+C-210 de 2007 (MP. Marco Gerardo Monroy Cabra. AV. Nilson Pinilla Pinilla).
+
+[32] Sentencia
+C-800 de 2000 (MP. José Gregorio Hernández Galindo).
+
+[33] Sentencia
+C-025 de 2009 (MP. Rodrigo Escobar Gil. SV. Jaime Araújo Rentería).
+
+[34] Sentencia
+C-617 de 1996 (MP. José Gregorio Hernández Galindo).
+
+[35] Sentencia
+C-799 de 2005 (MP. Jaime Araújo Rentería. AV. Humberto Antonio Sierra Porto).
+
+[36] Sentencia
+C-025 de 2009 (MP. Rodrigo Escobar Gil. SV. Jaime Araújo Rentería).
+
+[37] El artículo 14, Numeral 3°, Literal d) del Pacto Internacional de Derechos Civiles y Políticos, consagra que: “[d]urante el proceso, toda persona acusada de un delito tendrá derecho, en plena igualdad, a las siguientes garantías mínimas:
+(...) d) A hallarse presente en el proceso y a defenderse personalmente o ser asistida por un defensor de su elección; a ser informada, si no tuviera defensor, del derecho que le asiste a tenerlo, y, siempre que el interés de la justicia lo exija, a que se le nombre defensor de oficio, gratuitamente, si careciere de medios suficientes para pagarlo.”
+
+[38] El
+Artículo. 8º, Numeral 2°, Literales d) y e) de la Convención Americana de Derechos Humanos, prevé que: “(...)[d]urante el proceso, toda persona tiene derecho, en plena igualdad, a las siguientes garantías mínimas:
+(...) d) derecho del inculpado de defenderse personalmente o de ser asistido por un defensor de su elección y de comunicarse libre y privadamente con su defensor; e) derecho irrenunciable de ser asistido por un defensor proporcionado por el Estado, remunerado o no según la legislación interna, si el inculpado no se defendiere por sí mismo ni nombrare defensor dentro del plazo establecido por la ley.”
+
+[39] Sentencia
+C-025 de 2009 (MP. Rodrigo Escobar Gil. SV. Jaime Araújo Rentería).
+
+[40] Ibídem.
+
+[41] Sobre el tema se pueden consultar, entre otras, las Sentencias C-507 de 2001 (MP.
+Álvaro Tafur Galvis); C-131 de 2002 (MP. Jaime Córdoba Triviño. SPV. Rodrigo
+Escobar Gil); C-228 de 2002 (MP. Manuel José Cepeda Espinosa y Eduardo
+Montealegre Lynett. AV. Jaime Araújo Rentería); C-040 de 2003 (MP. Clara Inés
+Vargas Hernández); C-328 de 2003 (MP. Manuel José Cepeda Espinosa); y C-152 de 2004 (MP. Jaime Araújo Rentería. SV. Rodrigo Escobar Gil).
+
+[42] Sentencia C-617 de 1996 (MP. José Gregorio Hernández
+Galindo).
+
+[43] Sentencia C-1194 de 2005 (MP. Marco Gerardo Monroy Cabra).
+
+[44] Sentencia C-025 de 2009 (MP. Rodrigo Escobar Gil. SV.
+Jaime Araújo Rentería).
+
+[45] Ibídem.
+
+[46] (MP.
+Rodrigo Escobar Gil. SV. Jaime Araújo Rentería). En dicha sentencia, la Corte se pronunció sobre una demanda formulada contra los artículos 237, 242, 243, 244 y 245 del Código de Procedimiento Penal, por desconocer el derecho a la defensa técnica y, por esa vía, de los derechos a la igualdad y al debido proceso, al no permitir al indiciado y a su defensor participar en la audiencia de revisión de legalidad de las diligencias allí previstas, cuando éstas se practican durante la etapa de indagación preliminar, es decir, antes de que se formule la imputación y se de inicio a la etapa de investigación formal. La Corporación encontró, que respecto del procedimiento aplicable a la audiencia de revisión de legalidad posterior de las diligencias previstas en los artículos 237, 242,
+243, 244 y 245 del C.P.P., caben dos interpretaciones posibles. “una excluyente, la cual llevaría a entender que en dicha audiencia no se permite la participación del implicado y su defensor cuando la misma se practica durante la etapa de indagación. Y otra incluyente, en sentido opuesto a la anterior, es decir, que sí es posible la participación del implicado y su defensor en la audiencia de revisión de legalidad posterior cuando ésta tiene lugar en la etapa de la indagación.” Finalmente, la Corte concluyó, que tratándose de las normas impugnadas, “solamente se entiende garantizado el derecho de defensa en la medida en que éstas sean interpretadas en el sentido de que se permita la participación del indagado y su apoderado durante el trámite de la audiencia de revisión de legalidad de las diligencias, independientemente al hecho de que ésta se realice antes o después de formulada la imputación, esto es, en la etapa de indagación o en la etapa de la investigación formal.”
+
+[47] En esta providencia, la Corte se refirió dentro del sistema mixto de tendencia inquisitiva a las siguientes sentencias: C-150 de 1993 (MP. Fabio Morón Díaz.
+AV. Vladimiro Naranjo Mesa), en la que al declarar la inconstitucionalidad de los artículos 7, 161 y 322 del Decreto 2700 de 1991, antiguo Código de
+Procedimiento Penal, hizo manifiesta la invulnerabilidad del derecho de defensa en la etapa de la investigación preliminar; C-412 de 1993 (MP. Eduardo
+Cifuentes Muñoz), en la que al resolver sobre la constitucionalidad del artículo
+324 del Decreto 2700 de 1991, que autorizaba la duración indefinida de la investigación previa, precisó que la ilimitada utilización de los medios de que dispone el Estado en la etapa previa (práctica de todas las pruebas necesarias para el esclarecimiento de los hechos y control por parte del fiscal del momento de cierre de esta etapa), exalta en grado sumo la función investigativa y punitiva del Estado, puede desvirtuar su conexidad funcional con el cometido institucional de la misma y terminar atrayendo hacía sí la definición y tratamiento de aspectos conflictuales ínsitos en la persecución e investigación del delito que son más propios del proceso; C-475 de 1997 (MP. Eduardo
+Cifuentes Muñoz), en la que al decidir sobre la inconstitucionalidad de los artículos 319 a 324 del Decreto 2700 de 1991, reafirmó que el derecho de defensa se extiende a la indagación o investigación preliminar; y C-033 de 2003 (MP. Eduardo Montealegre Lynett), en la que al pronunciarse sobre la inconstitucionalidad del artículo 126 de la Ley 600 de 2000, declaró la exequibilidad de la norma, pero condicionándola “en el entendido en que, aún antes de la vinculación mediante indagatoria o como persona ausente, el imputado tendrá los mismos derechos del sujeto procesal, en lo que se refiere al ejercicio del derecho de defensa y la protección de sus derechos constitucionales” (reiterada por la sentencia C-096 de 2003. MP. Manuel José Cepeda Espinosa). Dentro del sistema procesal penal con tendencia acusatoria, mencionó la sentencia C-799 de 2005 (MP. Jaime Araújo Rentería. AV. Humberto Antonio Sierra Porto), en la que al adelantar el estudio de constitucionalidad del artículo 8 de la Ley 906 de 2004, concluyó que la correcta interpretación del derecho de defensa implica que se puede ejercer desde antes de la imputación, en las etapas pre y procesal, sin que resulte relevante para el ordenamiento constitucional la denominación jurídica que se le asigne al individuo al interior de todas y cada una de las actuaciones penales, pues lo importante y trascendental es que se le garantice a lo largo de todas ellas el ejercicio del derecho a la defensa sin limitaciones ni dilaciones injustificadas. En este mismo sentido, citó las sentencias C-1154 de 2005 (MP. Jaime Araújo Rentería. AV. Humberto Antonio
+Sierra Porto), C-1194 de 2005 (MP. Manuel José Cepeda Espinosa. AV. Jaime
+Araújo Rentería) y C-210 de 2007 (MP. Marco Gerardo Monroy Cabra. AV. Nilson
+Pinilla Pinilla), en las que la Corte reiteró la regla jurisprudencial que sostiene que el derecho de defensa surge desde que se tiene conocimiento que cursa un proceso en contra de la persona y solo culmina cuando finalice dicho proceso, es decir, que el derecho de defensa se extiende a la etapa preprocesal de la indagación previa, y a partir de ella, a todos los demás actos procesales hasta la decisión final.
+
+[48] MP.
+Jaime Araújo Rentería.
+
+[49] Cuyo texto dice: “Artículo 8o. DEFENSA. En desarrollo de la actuación, una vez adquirida la condición de imputado, este tendrá derecho, en plena igualdad respecto del órgano de persecución penal, en lo que aplica a: (…).”
+
+[50] En esta oportunidad, la Sala expuso algunas de las hipótesis en las que se activa el derecho de defensa antes de que se adquiera la condición de imputado: (i)
+cuando se aplica una medida cautelar como el allanamiento por parte de autoridad pública competente, bajo el entendido que se pretende obtener material probatorio y evidencia física; (ii) en el instante mismo de un accidente de tránsito y ante la evidencia de un posible homicidio culposo; y (iii) ante los posibles señalamientos públicos, efectuados por la Fiscalía General de la Nación, la Policía Nacional o cualquiera de los intervinientes en el proceso penal, en los cuales se endilga algún tipo de responsabilidad penal. Además, señaló que la activación de derecho de defensa en un capturado, por afectación del derecho a la libertad personal, trae consigo el siguiente conjunto de derechos y prerrogativas: el derecho a guardar silencio y que éste no se utilice en su contra; el derecho a conocer la razón por la cual se realiza la captura. Así mismo, a entender la razón a través de un intérprete si le es imposible hacerlo por los órganos de los sentidos o hacerlo oralmente; el derecho a cuestionar la propia privación de la libertad; el derecho a ser conducido ante un juez en el término de treinta seis horas que estipula la Constitución; el derecho de no autoincriminación; el derecho a ser representado por un abogado de confianza;
+
+el derecho a comunicarse efectivamente con su abogado; el derecho a que se le nombre un abogado de oficio si la persona capturada no cuenta con recursos para costearse uno propio; y el derecho a disponer de un término razonable para preparar su defensa.
+
+[51] En este sentido, la Corte ha precisado que “(…) A diferencia del sistema de tendencia inquisitiva, en el que la Fiscalía cumplía al mismo tiempo la función acusatoria y funciones jurisdiccionales, en el nuevo sistema procesal penal la labor del ente de investigación se desarrolla con especial énfasis en la función acusatoria, enfocándose en la búsqueda de evidencias destinadas a desvirtuar la presunción de inocencia del procesado. En ese sentido, los actos de la Fiscalía no son jurisdiccionales sino de investigación, con excepción de aquellos que impliquen restricción de los derechos fundamentales de las personas, los cuales deben ser en todo caso controlados por el juez de garantías, quien los autoriza y convalida en el marco de las garantías constitucionales, “guardándose el equilibrio entre la eficacia del procedimiento y los derechos del implicado mediante la ponderación de intereses, a fin de lograr la mínima afectación de derechos fundamentales”. Sentencia C-025 de 2009 (MP.
+Rodrigo Escobar Gil. SV. Jaime Araújo Rentería). Ver también, las Sentencias
+C-873 de 2003 (MP. Manuel José Cepeda Espinosa. SPV. Jaime Araújo Rentería; SV.
+y AV. Alfredo Beltrán Sierra; SV. Álvaro Tafur Galvis); C-591 de 2005 (MP.
+Clara Inés Vargas Hernández. SPV. Alfredo Beltrán Sierra); y C-1194 de 2005 (MP. Marco Gerardo Monroy Cabra).
+
+[52] MP.
+Marco Gerardo Monroy Cabra.
+
+[53] MP.
+Rodrigo Escobar Gil. SV. Jaime Araújo Rentería.
+
+[54] Sentencia
+C-591 de 2005 (MP. Clara Inés Vargas Hernández).
+
+[55] Ibídem.
+
+[56] Ver sentencia C-591 de 2005 (MP. Clara Inés Vargas Hernández. SPV. Alfredo Beltrán
+Sierra). Previamente, en la sentencia C-1092 de 2003 (MP. Álvaro Tafur Galvis.
+AV. Rodrigo Escobar Gil; SV. y APV. Jaime Araujo Rentería), la Corte había advertido la importancia del juez de control de garantías en la estructura del proceso penal: “(…) como quiera que a su cargo está examinar si las facultades judiciales ejercidas por la Fiscalía se adecuan o no a sus fundamentos constitucionales y, en particular, si su despliegue ha respetado o no los derechos fundamentales de los ciudadanos. En ejercicio de esta competencia, los efectos de la decisión que adopte el juez están determinados como a continuación se explica. // Si encuentra que la Fiscalía ha vulnerado los derechos fundamentales y las garantías constitucionales, el juez a cargo del control no legitima la actuación de aquella y, lo que es más importante, los elementos de prueba recaudados se reputan inexistentes y no podrán ser luego admitidos como prueba, ni mucho menos valorados como tal. En consecuencia, no se podrá, a partir de esa actuación, llevar a cabo la promoción de una investigación penal, como tampoco podrá ser llevada ante el juez de conocimiento para efectos de la promoción de un juzgamiento; efectos éstos armónicos con la previsión del artículo 29 superior, conforme al cual es nula de pleno derecho toda prueba obtenida con violación del debido proceso. // Por el contrario, si el juez de control de garantías advierte que la Fiscalía, en ejercicio de esas facultades, no ha desconocido los límites superiores de su actuación, convalida esa gestión y el ente investigador podrá entonces continuar con su labor investigativa, formular una imputación, plantear una acusación y pretender la condena del procesado. Es cierto que en este supuesto la facultad del juez de control de garantías no implica un pronunciamiento sobre las implicaciones que los elementos de prueba recaudados tengan sobre la responsabilidad del investigado ya que ésta será una tarea que se adelanta en el debate público y oral de la etapa de juzgamiento.”
+
+[57] Ver sentencias C-591 de 2005 (MP. Clara Inés Vargas Hernández); C-799 de 2005 (MP.
+Jaime Araújo Rentería); C-1154 de 2005 (MP. Manuel José Cepeda Espinosa. AV.
+Jaime Araújo Rentería); C-1194 de 2005 (MP. Marco Gerardo Monroy Cabra); C-210 de 2007 (MP. Marco Gerardo Monroy Cabra. AV. Nilson Pinilla Pinilla); y C-025 de 2009 (MP. Rodrigo Escobar Gil. SV. Jaime Araújo Rentería).
+
+[58] Sentencia
+C-799 de 2005 (MP. Jaime Araújo Rentería).
+
+[59] MP.
+Marco Gerardo Monroy Cabra. SPV y AV. Jaime Araújo Rentería.
+
+[60] Ley
+906 de 2004. “Artículo 202. Órganos que ejercen funciones permanentes de policía judicial de manera especial dentro de su competencia. Ejercen permanentemente funciones especializadas de policía judicial dentro del proceso penal y en el ámbito de su competencia, los siguientes organismos: // 1. La Procuraduría General de la Nación. // 2. La Contraloría General de la República. // 3. Las autoridades de tránsito. // 4. Las entidades públicas que ejerzan funciones de vigilancia y control. // 5. Los directores nacional y regional del Inpec, los directores de los establecimientos de reclusión y el personal de custodia y vigilancia, conforme con lo señalado en el Código Penitenciario y Carcelario. // 6. Los alcaldes. // 7. Los inspectores de policía. // Parágrafo. Los directores de estas entidades, en coordinación con el Fiscal General de la Nación, determinarán los servidores públicos de su dependencia que integrarán las unidades correspondientes.”
+
+[61] Sentencias
+C-1194 de 2005 (MP. Marco Gerardo Monroy Cabra) y C-025 de 2009 (MP. Rodrigo
+Escobar Gil. SV. Jaime Araújo Rentería).
+
+[62] Sentencia
+C-012 de 2002 (MP. Jaime Araújo Rentería).
+
+[63]Sentencia
+C-1335 de 2000 (MP. Carlos Gaviria Díaz).
+
+[64] Sentencias
+C-1335 de 2000 (MP. Carlos Gaviria Díaz); C-012 de 2002 (MP. Jaime Araújo
+Rentería).
+
+[65] MP.
+Manuel José Cepeda Espinosa. AV. Jaime Araújo Rentería.
+
+[66] Sentencia
+C-416 de 2002 (MP. Clara Inés Vargas Hernández).
