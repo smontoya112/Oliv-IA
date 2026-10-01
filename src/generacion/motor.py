@@ -36,6 +36,10 @@ class Motor:
             self.llm = Llama(model_path=modelo, n_ctx=n_ctx, n_gpu_layers=n_gpu_layers,
                              flash_attn=True, seed=SEMILLA, verbose=False)
 
+    def contar(self, texto: str) -> int:
+        """Tokens reales del decoder (para el presupuesto del contexto, paso 6.7)."""
+        return len(self.llm.tokenize(texto.encode("utf-8"), add_bos=False))
+
     def generar_lote(self, conversaciones: list[list[dict]], esquemas: list[dict],
                      max_tokens: int = 900) -> list[str]:
         """Una conversación y un esquema por ítem; devuelve el texto crudo de cada salida, en

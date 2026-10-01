@@ -12,9 +12,10 @@ MAX_TOKENS_SALIDA = {"multiple_choice": 700, "semi_open": 600, "open_ended": 110
 
 
 def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOKENS,
-             ejemplos: dict[str, list[dict]] | None = None):
-    """(mensajes, esquema, pasajes_incluidos) de un ítem."""
-    texto, usados = formatear_pasajes(pasajes, presupuesto)
+             ejemplos: dict[str, list[dict]] | None = None, contar=None):
+    """(mensajes, esquema, pasajes_incluidos) de un ítem. `contar` es el contador de tokens
+    del decoder (Motor.contar); sin él se estima por caracteres."""
+    texto, usados = formatear_pasajes(pasajes, presupuesto, contar)
     msgs = construir_mensajes(item, texto, (ejemplos or {}).get(item["formato"]))
     return msgs, esquema(item["formato"]), usados
 
@@ -24,7 +25,9 @@ def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
                  ejemplos: dict[str, list[dict]] | None = None) -> list[dict]:
     """Genera todos los ítems en un solo lote. Devuelve las líneas de submissions.jsonl
     (con latencia_ms = tiempo del lote / n, la medición fina está en bench.py)."""
-    prep = [preparar(it, pasajes_por_id.get(it["id"], []), presupuesto, ejemplos) for it in items]
+    contar = getattr(motor, "contar", None)
+    prep = [preparar(it, pasajes_por_id.get(it["id"], []), presupuesto, ejemplos, contar)
+            for it in items]
     t0 = time.perf_counter()
     # El motor recibe un solo tope de tokens por lote: se usa el mayor de los formatos presentes.
     tope = max(MAX_TOKENS_SALIDA[it["formato"]] for it in items)

@@ -1,8 +1,7 @@
 """Prompts en español, uno por formato, y armado del bloque de pasajes [P1]…[Pk]."""
 from __future__ import annotations
 
-# Tokens ≈ caracteres / 3,5 en español jurídico; solo se usa para el presupuesto del contexto.
-_CHARS_POR_TOKEN = 3.5
+from src.recuperacion import contexto
 
 SISTEMA = """Eres un asistente jurídico experto en derecho colombiano. Respondes con rigor, \
 en español, y SOLO con base en los pasajes numerados [P1], [P2]… que se te entregan.
@@ -41,24 +40,12 @@ ninguna, indícalo en una frase.
 }
 
 
-def formatear_pasajes(pasajes: list[dict], presupuesto_tokens: int = 4500,
-                      contar=None) -> tuple[str, list[dict]]:
-    """Devuelve (texto "[P1] doc_id ...", pasajes realmente incluidos), en el orden dado y
-    sin pasar del presupuesto. Siempre incluye al menos el primero (truncado si hace falta)."""
-    contar = contar or (lambda t: int(len(t) / _CHARS_POR_TOKEN) + 1)
-    bloques, usados, gastado = [], [], 0
-    for i, p in enumerate(pasajes, start=1):
-        bloque = f"[P{i}] {p['doc_id']}\n{p['texto'].strip()}"
-        costo = contar(bloque)
-        if usados and gastado + costo > presupuesto_tokens:
-            break
-        if not usados and costo > presupuesto_tokens:
-            bloque = bloque[: int(presupuesto_tokens * _CHARS_POR_TOKEN)]
-            costo = presupuesto_tokens
-        bloques.append(bloque)
-        usados.append(p)
-        gastado += costo
-    return "\n\n".join(bloques), usados
+def formatear_pasajes(pasajes: list[dict], presupuesto_tokens: int = 4500, contar=None,
+                      max_pasajes: int = 8) -> tuple[str, list[dict]]:
+    """Bloque "[P1] doc_id ..." con los mejores pasajes, en el orden dado, hasta max_pasajes y
+    sin pasar del presupuesto. La lógica vive en src.recuperacion.contexto (paso 6.7)."""
+    return contexto.armar(pasajes, max_tokens=presupuesto_tokens, max_pasajes=max_pasajes,
+                          contar=contar)
 
 
 def construir_mensajes(item: dict, pasajes_texto: str,

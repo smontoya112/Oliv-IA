@@ -35,7 +35,7 @@ if [[ $ESTADO -eq 0 ]]; then
     paso "3/4 resto de dependencias de src/indice (torch queda fijado en 2.7.1)"
     echo "torch==2.7.1" > .venv-gpu/constraints.txt     # si algo exigiera otro torch, falla en vez de cambiarlo
     correr uv pip install --quiet --python .venv-gpu/bin/python -c .venv-gpu/constraints.txt \
-        "transformers>=4.56,<5" faiss-cpu bm25s ranx numpy pyarrow huggingface_hub PyStemmer
+        "transformers>=4.56,<5" faiss-cpu bm25s ranx numpy pyarrow huggingface_hub PyStemmer pyyaml
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "4/4 prueba: ¿torch ve la GPU?"

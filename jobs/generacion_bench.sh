@@ -20,6 +20,7 @@
 #     sbatch jobs/generacion_bench.sh                              # los 3 modelos
 #     sbatch jobs/generacion_bench.sh qwen3-8b                     # solo uno (o varios)
 #     CONTEXTO=bm25 sbatch jobs/generacion_bench.sh qwen3-8b       # contexto BM25 en vez del oráculo
+#     CONTEXTO=recuperacion sbatch jobs/generacion_bench.sh qwen3-8b   # pasajes REALES de la fase 6
 #
 # Usa modelos GGUF Q8_0 (src/generacion/motor.py): se bajan de Hugging Face la primera vez
 # (el nodo necesita internet o una caché HF_HOME ya llena; ~9 GB por modelo).
@@ -34,7 +35,12 @@ CONTEXTO="${CONTEXTO:-oraculo}"
 CTX_JSON="data/processed/contexto_${CONTEXTO}.json"
 
 paso "1/4 contexto de prueba ($CONTEXTO) -> $CTX_JSON"
-correr uvpy -m src.generacion.contexto_prueba --modo "$CONTEXTO" --salida "$CTX_JSON"
+if [[ "$CONTEXTO" == "recuperacion" ]]; then
+    # contexto REAL de la fase 6 (sbatch jobs/recuperar.sh antes)
+    correr uvpy -m src.generacion.contexto_prueba --modo recuperacion         --entrada data/recuperacion/sample_50.jsonl --salida "$CTX_JSON"
+else
+    correr uvpy -m src.generacion.contexto_prueba --modo "$CONTEXTO" --salida "$CTX_JSON"
+fi
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8"

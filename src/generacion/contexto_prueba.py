@@ -5,6 +5,7 @@ Dos fuentes, ambas leyendo data/processed/chunks.parquet:
               Solo para desarrollo con sample_50: legal_basis no existe en el test ciego y
               esto NUNCA forma parte del pipeline de entrega.
   - bm25:     recuperación léxica simple, una línea base realista y sin dependencias.
+  - recuperacion: los pasajes de la fase 6 (data/recuperacion/<split>.jsonl); es el contexto REAL.
 
     python -m src.generacion.contexto_prueba --modo oraculo --salida data/processed/contexto_oraculo.json
 """
@@ -94,15 +95,35 @@ class BM25Simple:
         return [_pasaje(self.chunks[i], puntajes[i]) for i in top]
 
 
+def desde_recuperacion(ruta: Path) -> dict[int, list[dict]]:
+    """Pasajes REALES de la fase 6 (src.recuperacion.pipeline) en el formato de bench.py."""
+    res = {}
+    for linea in ruta.read_text(encoding="utf-8").splitlines():
+        if linea.strip():
+            r = json.loads(linea)
+            res[r["id"]] = r.get("pasajes") or []
+    return res
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--modo", choices=["oraculo", "bm25"], required=True)
+    ap.add_argument("--modo", choices=["oraculo", "bm25", "recuperacion"], required=True)
+    ap.add_argument("--entrada", type=Path,
+                    help="modo recuperacion: data/recuperacion/<split>.jsonl de la fase 6")
     ap.add_argument("--muestra", type=Path, default=Path("data/sample_50.jsonl"))
     ap.add_argument("--chunks", type=Path, default=Path("data/processed/chunks.parquet"))
     ap.add_argument("--salida", type=Path, required=True)
     ap.add_argument("--k", type=int, default=8)
     args = ap.parse_args()
 
+    if args.modo == "recuperacion":
+        if not args.entrada:
+            raise SystemExit("--modo recuperacion necesita --entrada data/recuperacion/<split>.jsonl")
+        res = desde_recuperacion(args.entrada)
+        args.salida.parent.mkdir(parents=True, exist_ok=True)
+        args.salida.write_text(json.dumps(res, ensure_ascii=False), encoding="utf-8")
+        print(f"{len(res)} ítems, {sum(1 for v in res.values() if not v)} sin pasajes -> {args.salida}")
+        return
     items = [json.loads(l) for l in args.muestra.read_text(encoding="utf-8").splitlines() if l.strip()]
     chunks = cargar_chunks(args.chunks)
     if args.modo == "oraculo":
