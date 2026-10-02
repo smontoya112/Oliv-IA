@@ -197,3 +197,20 @@ def test_contexto_prueba_lee_la_salida_de_la_fase_6(tmp_path):
     ruta.write_text(json.dumps({"id": 5, "pasajes": [{"doc_id": "d", "texto": "t"}], "senales": {}}) + "\n"
                     + json.dumps({"id": 6, "pasajes": [], "senales": {"error": "x"}}) + "\n", encoding="utf-8")
     assert contexto_prueba.desde_recuperacion(ruta) == {5: [{"doc_id": "d", "texto": "t"}], 6: []}
+
+
+def test_tope_por_norma_reparte_el_top_10_entre_mas_normas():
+    cat = juguete()
+    base = cat.base
+    # 0, 1 y 2 son el mismo codigo (CGP); 3, 4, 5, 6 son normas distintas
+    cand = {i: {"via": "hibrido", "opcion": None, "fusion": 0.1, "q": "q"} for i in (0, 1, 2, 3, 4, 5, 6)}
+    puntaje = {0: 9.0, 1: 8.0, 2: 7.0, 3: 6.0, 4: 5.0, 5: 4.0, 6: 3.0}
+    sin_tope = seleccion.elegir(cand, puntaje, Config(top_final=4), base)
+    assert sin_tope == [0, 1, 2, 3]                                   # el CGP ocupa 3 de 4 lugares
+    con_tope = seleccion.elegir(cand, puntaje, Config(top_final=4, max_por_norma=1), base)
+    assert con_tope == [0, 3, 4, 5] and len({base(i) for i in con_tope}) == 4
+    # si no hay otras normas suficientes, el tope se relaja y se devuelven top_final pasajes
+    solo_cgp = {i: cand[i] for i in (0, 1, 2)}
+    assert seleccion.elegir(solo_cgp, puntaje, Config(top_final=3, max_por_norma=1), base) == [0, 1, 2]
+    # sin la función que da la norma, el tope no se aplica (compatibilidad)
+    assert seleccion.elegir(cand, puntaje, Config(top_final=4, max_por_norma=1)) == [0, 1, 2, 3]

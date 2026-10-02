@@ -3,6 +3,8 @@ del reranker y, con los puntajes, a los 10 pasajes finales. Separada del pipelin
 probarla sin GPU ni índices."""
 from __future__ import annotations
 
+from collections import Counter
+
 from src.indice.fusion import rrf
 
 from . import area, cerradas, normas_pregunta
@@ -55,12 +57,32 @@ def candidatos(item: dict, cat: Catalogo, cfg: Config,
     return cand, info
 
 
-def elegir(cand: dict[int, dict], puntaje: dict[int, float], cfg: Config) -> list[int]:
-    """Los `top_final` mejores por puntaje; los directos (hasta n_directos) entran siempre."""
+def elegir(cand: dict[int, dict], puntaje: dict[int, float], cfg: Config,
+           base_de=None) -> list[int]:
+    """Los `top_final` mejores por puntaje; los directos (hasta n_directos) entran siempre.
+
+    `base_de(fila)` devuelve la norma a la que pertenece un chunk; con cfg.max_por_norma > 0 ninguna
+    norma pone más de ese número de pasajes en el resultado, salvo que falten candidatos de otras
+    normas para completar `top_final` (entonces se rellena con los mejores que sobran)."""
     orden = sorted(cand, key=lambda i: (-puntaje[i], i))
     directos = [i for i in orden if cand[i]["via"] == "directo"][: cfg.n_directos]
     resto = [i for i in orden if i not in directos]
-    final = directos + resto[: max(cfg.top_final - len(directos), 0)]
+    final = list(directos)
+    if cfg.max_por_norma and base_de is not None:
+        cuenta = Counter(base_de(i) for i in final)
+        saltados = []
+        for i in resto:
+            if len(final) >= cfg.top_final:
+                break
+            b = base_de(i)
+            if cuenta[b] >= cfg.max_por_norma:
+                saltados.append(i)
+                continue
+            final.append(i)
+            cuenta[b] += 1
+        final += saltados[: max(cfg.top_final - len(final), 0)]       # relajar el tope si hace falta
+    else:
+        final += resto[: max(cfg.top_final - len(directos), 0)]
     return sorted(final, key=lambda i: (-puntaje[i], i))
 
 

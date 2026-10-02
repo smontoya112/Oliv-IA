@@ -65,9 +65,13 @@ if [[ $ESTADO -eq 0 && "$NOMBRE" == "sample_50" ]]; then
     correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_sin_directos.jsonl" --sin-directos
     correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_sin_alias.jsonl" --sin-alias
     correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_con_area.jsonl" --area filtro
+    # tope de pasajes por norma en el top-10: con un corpus grande reparte los 10 lugares entre más normas
+    correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_max2.jsonl" --max-por-norma 2
+    correr uvpy -m src.recuperacion.pipeline --preguntas "$PREGUNTAS" --salida "${SALIDA}_max3.jsonl" --max-por-norma 3
     paso "3/4 métricas contra el legal_basis (solo para evaluar) y línea base de la fase 5"
     correr uvpy -m src.recuperacion.evaluar "${SALIDA}.jsonl" "${SALIDA}_sin_reranker.jsonl" \
         "${SALIDA}_sin_directos.jsonl" "${SALIDA}_sin_alias.jsonl" "${SALIDA}_con_area.jsonl" \
+        "${SALIDA}_max2.jsonl" "${SALIDA}_max3.jsonl" \
         --salida data/recuperacion/ablaciones.json
 else
     echo "(ablaciones y métricas solo con data/sample_50.jsonl: el test no trae legal_basis)"
