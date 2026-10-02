@@ -7,7 +7,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=24G
-#SBATCH --time=00:30:00
+#SBATCH --time=00:45:00
 #
 # Paso 7.5: corre el juez de texto libre (scripts/evaluate.py --ragas) sobre una entrega ya
 # generada. No necesita GPU: el juez (z-ai/glm-5.3-flash) corre en OpenRouter por API, y el
