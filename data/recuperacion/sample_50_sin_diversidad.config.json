@@ -5,7 +5,7 @@
     "k_area": 200,
     "k_fusion": 50,
     "top_final": 10,
-    "area_modo": "filtro",
+    "area_modo": "ninguno",
     "min_en_area": 20,
     "directos": true,
     "n_directos": 4,
@@ -13,7 +13,7 @@
     "reranker": true,
     "extra_por_opcion": 2,
     "garantizar_opciones": true,
-    "max_por_norma": 2,
+    "max_por_norma": 0,
     "lote_reranker": 16,
     "max_tokens_reranker": 512
   },
