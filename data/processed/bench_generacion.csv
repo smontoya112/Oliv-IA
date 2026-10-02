@@ -1,0 +1,4 @@
+fecha,modelo,contexto,formato,n,segundos,s_por_pregunta,proyeccion_992_horas,validos,abstenciones,exactitud_cerradas
+2026-10-01 19:23:48,qwen3-8b,contexto_oraculo,multiple_choice,15,170.1,11.34,3.12,15,4,0.533
+2026-10-01 19:28:21,qwen3-8b,contexto_oraculo,semi_open,30,273.0,9.1,2.51,30,7,
+2026-10-01 19:30:30,qwen3-8b,contexto_oraculo,open_ended,5,129.0,25.8,7.11,5,1,
