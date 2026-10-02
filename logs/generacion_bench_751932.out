@@ -1,3 +1,18 @@
+Job generacion_bench 751932 en nodei-gpu-1 · 2026-10-01 23:28:56
+== 1/4 contexto de prueba (recuperacion) -> data/processed/contexto_recuperacion.json
+50 ítems, 0 sin pasajes -> data/processed/contexto_recuperacion.json
+== 2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8
+== 3/4 benchmark: llama-3.1-8b
+Quadro RTX 6000, 23040 MiB
+23:29:02 Cargando llama-3.1-8b (bartowski/Meta-Llama-3.1-8B-Instruct-GGUF, *Q8_0.gguf, n_ctx=8192)
+23:29:03 HTTP Request: GET https://huggingface.co/api/models/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF "HTTP/1.1 200 OK"
+23:29:03 HTTP Request: GET https://huggingface.co/api/models/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+23:29:03 HTTP Request: HEAD https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q8_0.gguf "HTTP/1.1 302 Found"
+23:29:03 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+23:35:21 llama-3.1-8b/multiple_choice: 15 ítems en 217.7 s (14.52 s/pregunta), válidos 15, exactitud 0.6
+23:40:27 llama-3.1-8b/semi_open: 30 ítems en 305.6 s (10.19 s/pregunta), válidos 30, exactitud None
+23:42:47 llama-3.1-8b/open_ended: 5 ítems en 140.3 s (28.06 s/pregunta), válidos 5, exactitud None
+== 4/4 resultados
 fecha,modelo,contexto,formato,n,segundos,s_por_pregunta,proyeccion_992_horas,validos,abstenciones,exactitud_cerradas
 2026-10-01 19:23:48,qwen3-8b,contexto_oraculo,multiple_choice,15,170.1,11.34,3.12,15,4,0.533
 2026-10-01 19:28:21,qwen3-8b,contexto_oraculo,semi_open,30,273.0,9.1,2.51,30,7,
@@ -23,3 +38,4 @@ fecha,modelo,contexto,formato,n,segundos,s_por_pregunta,proyeccion_992_horas,val
 2026-10-01 23:35:21,llama-3.1-8b,contexto_recuperacion,multiple_choice,15,217.7,14.52,4.0,15,0,0.6
 2026-10-01 23:40:27,llama-3.1-8b,contexto_recuperacion,semi_open,30,305.6,10.19,2.81,30,0,
 2026-10-01 23:42:47,llama-3.1-8b,contexto_recuperacion,open_ended,5,140.3,28.06,7.73,5,0,
+== fin: [generacion_bench] Terminó con errores (ver .err) · 2026-10-01 23:42:48
