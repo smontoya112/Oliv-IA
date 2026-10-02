@@ -27,12 +27,15 @@ como valor, una razón breve de por qué se descarta (no incluyas la letra elegi
     "semi_open": """Pregunta semiabierta.
 Campos del JSON:
 - "respuesta": de 3 a 5 oraciones, máximo 150 palabras, directa y precisa; enuncia la regla \
-aplicable y su fundamento con la norma y el artículo.
+aplicable y su fundamento con la norma y el artículo. Si la pregunta menciona una sentencia o \
+norma concreta, nómbrala en la respuesta con su nombre completo (por ejemplo "Sentencia \
+C-891 de 2012").
 - "palabras_clave": entre 3 y 6 términos jurídicos clave de la respuesta.
 - "referencia_legal": la norma y el artículo (o sentencia) que fundamentan la respuesta.""",
     "open_ended": """Pregunta abierta de análisis jurídico.
 Campos del JSON:
-- "marco_normativo": las normas y artículos aplicables, citados con precisión.
+- "marco_normativo": las normas y artículos aplicables, citados con precisión; si la \
+pregunta menciona una norma o sentencia concreta, inclúyela con su nombre completo.
 - "analisis": de 5 a 8 oraciones que apliquen el marco normativo a la pregunta.
 - "jurisprudencia": las sentencias relevantes que aparezcan en los pasajes; si no hay \
 ninguna, indícalo en una frase.
