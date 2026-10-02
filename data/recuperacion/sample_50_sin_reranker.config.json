@@ -12,10 +12,6 @@
     "alias": true,
     "reranker": false,
     "extra_por_opcion": 2,
-    "garantizar_opciones": true,
-    "max_por_norma": 2,
-    "sin_copias": true,
-    "max_sentencias": 5,
     "lote_reranker": 16,
     "max_tokens_reranker": 512
   },

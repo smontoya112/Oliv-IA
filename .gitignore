@@ -227,3 +227,14 @@ data/index/chunk_ids.json
 data/index_prueba/
 # copias de documentos quitadas por src.descarga.deduplicar (reversible, no se versiona)
 data/descartados/
+
+# Corpus pesado (se comparte por carpeta/tar, no por git)
+data/md/
+data/raw/
+data/proximidad/
+data/descartados/
+data/processed/texto/
+data/processed/chunks.parquet
+data/processed/articulos.parquet
+data/processed/reporte_segmentacion.json
+*.zip
