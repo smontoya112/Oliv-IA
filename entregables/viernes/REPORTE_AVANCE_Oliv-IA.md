@@ -16,10 +16,13 @@ Resultado de `python scripts/evaluate.py --submission data/processed/bench_gener
 | Calidad de citación (índice 0,837; 0 % sin respaldo) | 16,73 | 20 |
 | Abstención calibrada (0,837; 36 bien, 7 mal) | 8,37 | 10 |
 | **Total automático sin RAGAS** | **38,43** | **50** |
+| Corrección en texto libre: semiabiertas y abiertas (RAGAS 0,457; referencia 0,451)* | 13,72 | 30 |
+
+\* Medido con `--ragas` sobre la corrida anterior de Qwen3-8B (35 ítems juzgados: 30 semiabiertos y 5 abiertos), cuyo total fue 51,23/80. El evaluador da un solo puntaje para ambos formatos.
 
 Observaciones sobre el resultado:
 
-Qwen3-8B superó a Llama-3.1-8B (32,68/50) con los mismos pasajes recuperados, por eso lo elegimos como modelo generador. Con el filtro que elimina las citas ausentes de los pasajes, el puntaje fue 37,51. Dos ajustes lo subieron a 38,43: pedir al modelo que nombre la norma por la que pregunta el enunciado y reintentar con penalización de repetición cuando entra en bucle. Con el juez RAGAS, la última medición de Qwen fue 0,457 (13,72/30), por encima de la referencia de 0,451.
+Qwen3-8B superó a Llama-3.1-8B (32,68/50) con los mismos pasajes recuperados, por eso lo elegimos como modelo generador. Con el filtro que elimina las citas ausentes de los pasajes, el puntaje fue 37,51. Dos ajustes lo subieron a 38,43: pedir al modelo que nombre la norma por la que pregunta el enunciado y reintentar con penalización de repetición cuando entra en bucle.
 
 ## 2. Estado del corpus
 
