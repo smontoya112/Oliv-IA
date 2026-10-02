@@ -63,7 +63,9 @@ if [[ $ESTADO -eq 0 ]]; then
     # --no-sync: `uv run` normalmente re-sincroniza el entorno con uv.lock antes de correr,
     # lo que deshace el tope langchain-community<0.4 que acabamos de instalar a mano (ragas
     # importa langchain_community.chat_models.vertexai, que las versiones nuevas eliminaron).
-    correr uv run --quiet --no-sync python scripts/evaluate.py --submission "$SUBMISSION" \
+    # jobs/ragas_con_timeout.py: mismo scripts/evaluate.py, sin tocarlo (inmodificable), pero
+    # con timeout/reintentos acotados en el cliente del juez (ver ese archivo para el porque).
+    correr uv run --quiet --no-sync python jobs/ragas_con_timeout.py --submission "$SUBMISSION" \
         --split sample --ragas --out "$SALIDA"
 fi
 
