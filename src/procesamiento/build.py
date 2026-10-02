@@ -20,7 +20,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 from src.procesamiento import encabezado, sentencias, validar, vigencia
-from src.procesamiento.leer import Documento, leer, retirar_texto_obsoleto
+from src.procesamiento.leer import Documento, excluido, leer, retirar_texto_obsoleto
 from src.procesamiento.normas import segmentar, ruta_jerarquia
 from src.procesamiento.partir import palabras, partir, vigente
 
@@ -169,6 +169,9 @@ def main() -> None:
     ap.add_argument("--md", type=Path, default=Path("data/md"))
     ap.add_argument("--salida", type=Path, default=Path("data/processed"))
     ap.add_argument("--doc", nargs="*", help="procesar solo estos doc_id")
+    ap.add_argument("--excluir-origen", nargs="+", default=[], metavar="RONDA",
+                    help="dejar fuera los documentos de esas rondas de proximidad (p. ej. ronda_03 ronda_04); "
+                         "los de la lista inicial nunca se excluyen")
     args = ap.parse_args()
     # Avance -> stdout (.out del job); solo los ERROR -> stderr (.err del job).
     salida_std = logging.StreamHandler(sys.stdout)
@@ -181,12 +184,16 @@ def main() -> None:
     rutas = sorted(r for r in args.md.glob("*.md") if not r.name.endswith(".notas.md"))
     if args.doc:
         rutas = [r for r in rutas if r.stem in set(args.doc)]
+    if args.excluir_origen:
+        log.info("se dejan fuera los documentos de: %s", ", ".join(args.excluir_origen))
     contar = _contador_tokens()
     todos_chunks, todos_arts, reporte = [], [], {"documentos": {}}
     escritos: set[str] = set()
 
     for ruta in rutas:
         doc = leer(ruta)
+        if excluido(doc.meta, args.excluir_origen):
+            continue
         (args.salida / "texto").mkdir(parents=True, exist_ok=True)
         (args.salida / "texto" / f"{doc.doc_id}.txt").write_text(doc.texto, encoding="utf-8")
         escritos.add(doc.doc_id)

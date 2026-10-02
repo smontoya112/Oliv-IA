@@ -171,3 +171,12 @@ def test_retirar_texto_obsoleto_solo_borra_lo_que_ya_no_es_un_documento(tmp_path
     assert retirar_texto_obsoleto(tmp_path, {"ley_80_1993", "decreto_1_2000"}) == ["ley_80_1993-2", "ley_80_1993-3"]
     assert sorted(p.name for p in tmp_path.iterdir()) == ["decreto_1_2000.txt", "ley_80_1993.txt", "otro.md"]
     assert retirar_texto_obsoleto(tmp_path, {"ley_80_1993", "decreto_1_2000"}) == []        # idempotente
+
+
+def test_excluir_origen_no_toca_la_lista_inicial():
+    from src.procesamiento.leer import excluido
+    assert excluido({"origen": "ronda_03"}, ["ronda_03", "ronda_04"]) is True
+    assert excluido({"origen": "ronda_01"}, ["ronda_03"]) is False
+    assert excluido({"origen": None}, ["ronda_03"]) is False           # lista inicial
+    assert excluido({}, ["ronda_03"]) is False
+    assert excluido({"origen": "ronda_03"}) is False                    # sin filtro no se excluye nada

@@ -142,3 +142,10 @@ def retirar_texto_obsoleto(dir_texto: Path, doc_ids: set[str]) -> list[str]:
             f.unlink()
             retirados.append(f.stem)
     return retirados
+
+
+def excluido(meta: dict, excluir_origen: list[str] | tuple = ()) -> bool:
+    """True si el documento viene de una de las rondas de proximidad que se quiere dejar fuera.
+    `origen` lo escribe src.descarga.run en el front matter (ronda_01, ronda_02...); los documentos de
+    la lista inicial no tienen origen y nunca se excluyen."""
+    return bool(meta.get("origen")) and meta["origen"] in set(excluir_origen)
