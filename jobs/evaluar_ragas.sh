@@ -6,7 +6,7 @@
 #SBATCH --mail-user=s.montoya112@uniandes.edu.co
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
-#SBATCH --mem=8G
+#SBATCH --mem=24G
 #SBATCH --time=00:30:00
 #
 # Paso 7.5: corre el juez de texto libre (scripts/evaluate.py --ragas) sobre una entrega ya
