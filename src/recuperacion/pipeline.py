@@ -7,7 +7,8 @@
 CLI (lo que corre jobs/recuperar.sh):
     python -m src.recuperacion.pipeline --preguntas data/sample_50.jsonl \\
         --salida data/recuperacion/sample_50.jsonl [--sin-reranker --sin-directos --sin-alias
-        --area ninguno --sin-garantia-opciones --max-por-norma 0]
+        --area ninguno --sin-garantia-opciones --max-por-norma 0
+        --con-copias --max-sentencias 0]
 """
 from __future__ import annotations
 
@@ -101,6 +102,10 @@ def main() -> None:
                     help="cerradas: no reservar un pasaje por opción en el top final")
     ap.add_argument("--max-por-norma", type=int, default=Config.max_por_norma,
                     help="tope de pasajes por id canónico en el top final (0 = sin tope)")
+    ap.add_argument("--con-copias", action="store_true",
+                    help="dejar entrar el mismo artículo desde un segundo documento")
+    ap.add_argument("--max-sentencias", type=int, default=Config.max_sentencias,
+                    help="tope de pasajes de sentencias en el top final (0 = sin tope)")
     ap.add_argument("--area", choices=["filtro", "ninguno"], default=Config.area_modo)
     ap.add_argument("--min-en-area", type=int, default=Config.min_en_area)
     ap.add_argument("--limite", type=int, help="solo los primeros N ítems (pruebas)")
@@ -110,7 +115,8 @@ def main() -> None:
     cfg = Config(reranker=not args.sin_reranker, directos=not args.sin_directos,
                  alias=not args.sin_alias, area_modo=args.area, min_en_area=args.min_en_area,
                  garantizar_opciones=not args.sin_garantia_opciones,
-                 max_por_norma=args.max_por_norma)
+                 max_por_norma=args.max_por_norma, sin_copias=not args.con_copias,
+                 max_sentencias=args.max_sentencias)
     items = [json.loads(l) for l in args.preguntas.read_text(encoding="utf-8").splitlines() if l.strip()]
     if args.limite:
         items = items[: args.limite]

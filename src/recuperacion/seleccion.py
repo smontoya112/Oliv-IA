@@ -58,13 +58,19 @@ def candidatos(item: dict, cat: Catalogo, cfg: Config,
     return cand, info
 
 
+def _es_sentencia(cat: Catalogo, i: int) -> bool:
+    return cat.base(i).startswith("sentencia_")
+
+
 def elegir(cand: dict[int, dict], puntaje: dict[int, float], cfg: Config,
            cat: Catalogo | None = None) -> list[int]:
-    """Los `top_final` mejores por puntaje, con tres reglas:
+    """Los `top_final` mejores por puntaje, con estas reglas:
     * los directos (hasta n_directos) entran siempre;
     * en cerradas, el mejor pasaje de cada opción entra siempre (cfg.garantizar_opciones);
-    * a lo sumo cfg.max_por_norma pasajes por id canónico (necesita `cat`), salvo que falten
-      candidatos para llegar a top_final.
+    * con `cat`: a lo sumo cfg.max_por_norma pasajes por id canónico; el mismo id canónico
+      desde otro documento (copias como ley_1564_2012 / codigo_general_proceso) no entra
+      (cfg.sin_copias), y a lo sumo cfg.max_sentencias sentencias. Si así no se llega a
+      top_final, se rellena con lo saltado, en orden de puntaje.
     Orden por puntaje, pero ningún reservado queda fuera de los MAX_PASAJES que van al prompt."""
     orden = sorted(cand, key=lambda i: (-puntaje[i], i))
     reservados = [i for i in orden if cand[i]["via"] == "directo"][: cfg.n_directos]
@@ -76,21 +82,32 @@ def elegir(cand: dict[int, dict], puntaje: dict[int, float], cfg: Config,
                 letras.add(letra)
                 reservados.append(i)
 
-    tope = cfg.max_por_norma if cat is not None else 0
-    por_norma: Counter = Counter(cat.canon[i] for i in reservados) if tope else Counter()
     final, saltados = list(reservados), []
-    for i in orden:
-        if len(final) >= cfg.top_final:
-            break
-        if i in reservados:
-            continue
-        if tope and por_norma[cat.canon[i]] >= tope:
-            saltados.append(i)
-            continue
-        final.append(i)
-        if tope:
-            por_norma[cat.canon[i]] += 1
-    final += saltados[: max(cfg.top_final - len(final), 0)]     # mejor repetido que corto
+    if cat is None:
+        final += [i for i in orden if i not in reservados][: max(cfg.top_final - len(final), 0)]
+    else:
+        docs = cat.cols["doc_id"]
+        por_norma: Counter = Counter(cat.canon[i] for i in reservados)
+        doc_de: dict[str, str] = {}
+        for i in reservados:
+            doc_de.setdefault(cat.canon[i], docs[i])
+        n_sent = sum(_es_sentencia(cat, i) for i in reservados)
+        for i in orden:
+            if len(final) >= cfg.top_final:
+                break
+            if i in reservados:
+                continue
+            c = cat.canon[i]
+            if ((cfg.max_por_norma and por_norma[c] >= cfg.max_por_norma)
+                    or (cfg.sin_copias and doc_de.get(c, docs[i]) != docs[i])
+                    or (cfg.max_sentencias and _es_sentencia(cat, i) and n_sent >= cfg.max_sentencias)):
+                saltados.append(i)
+                continue
+            final.append(i)
+            por_norma[c] += 1
+            doc_de.setdefault(c, docs[i])
+            n_sent += _es_sentencia(cat, i)
+        final += saltados[: max(cfg.top_final - len(final), 0)]     # mejor repetido que corto
 
     final = sorted(final, key=lambda i: (-puntaje[i], i))
     cabeza, cola = final[:MAX_PASAJES], final[MAX_PASAJES:]
