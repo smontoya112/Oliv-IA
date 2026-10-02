@@ -10,6 +10,8 @@ salida (que es lo que cuenta evaluate.citas_respaldadas):
     aparecen en el TEXTO de esos pasajes (evaluate.py puntúa por cuerpo normativo).
   * hit_doc@10: algún pasaje viene de un documento que nombra un cuerpo del legal_basis.
   * normas_distintas@10: ids canónicos distintos entre esos pasajes (redundancia del top).
+  * copias@10: pasajes con un id canónico que ya entró desde otro documento.
+  * sentencias@8: pasajes de sentencias entre los 8 que van al prompt.
   * cobertura_opciones@8 (solo cerradas): fracción de opciones con algún pasaje de evidencia
     (via "opcion") entre los 8 primeros, que son los que entran al prompt.
 legal_basis se usa SOLO aquí, para evaluar: nunca dentro de la recuperación.
@@ -61,6 +63,15 @@ def _cobertura_opciones(item: dict, pasajes: list[dict]) -> float | None:
     return len(cubiertas & set(opciones)) / len(opciones)
 
 
+def _copias(pasajes: list[dict]) -> int:
+    doc_de: dict[str, str] = {}
+    n = 0
+    for p in pasajes:
+        c = p.get("norma_id") or p["doc_id"]
+        n += doc_de.setdefault(c, p["doc_id"]) != p["doc_id"]
+    return n
+
+
 def evaluar_corrida(ruta: Path, items: dict[int, dict], cuerpos_corpus: set,
                     cuerpos_doc: dict[str, set]) -> dict:
     filas = []
@@ -86,6 +97,9 @@ def evaluar_corrida(ruta: Path, items: dict[int, dict], cuerpos_corpus: set,
             "hit_doc@10": float(any(p["doc_id"] in docs_rel for p in top)),
             "normas_distintas@10": len({p.get("norma_id") or p["doc_id"] for p in top}),
             "opciones@8": _cobertura_opciones(it, top[:MAX_PASAJES]),
+            "copias@10": _copias(top),
+            "sentencias@8": sum(str(p.get("norma_id") or "").startswith("sentencia_")
+                                for p in top[:MAX_PASAJES]),
             "latencia_ms": r.get("latencia_ms"),
         })
 
@@ -95,6 +109,8 @@ def evaluar_corrida(ruta: Path, items: dict[int, dict], cuerpos_corpus: set,
                 "hit_doc@10": _media([f["hit_doc@10"] for f in sel]),
                 "normas_distintas@10": _media([f["normas_distintas@10"] for f in sel]),
                 "cobertura_opciones@8": _media([f["opciones@8"] for f in sel]),
+                "copias@10": _media([f["copias@10"] for f in sel]),
+                "sentencias@8": _media([f["sentencias@8"] for f in sel]),
                 "s_por_item": _media([f["latencia_ms"] / 1000 for f in sel
                                       if f["latencia_ms"] is not None])}
 
@@ -126,9 +142,10 @@ def main() -> None:
         resultados[ruta.stem] = res
         t = res["todos"]
         log.info("RESULTADO %-22s n=%s cuerpo@10 %s  articulo@10 %s  hit_doc@10 %s  "
-                 "normas@10 %s  opciones@8 %s  s/ítem %s",
+                 "normas@10 %s  opciones@8 %s  copias@10 %s  sentencias@8 %s  s/ítem %s",
                  ruta.stem, t["n"], t["cobertura_cuerpo@10"], t["cobertura_articulo@10"],
                  t["hit_doc@10"], t["normas_distintas@10"], t["cobertura_opciones@8"],
+                 t["copias@10"], t["sentencias@8"],
                  t["s_por_item"])
     base = args.indice / "eval_recuperacion.json"
     if base.exists():

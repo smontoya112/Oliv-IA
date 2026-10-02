@@ -186,6 +186,32 @@ def test_elegir_tope_por_norma_y_relleno():
     assert seleccion.elegir(cand, puntaje, Config(top_final=5, max_por_norma=1), cat) == [0, 1, 2, 9, 3]
 
 
+def test_elegir_descarta_el_mismo_articulo_desde_otro_documento():
+    cat = juguete()                                  # c9 (copia_cgp) es el art. 5 del CGP, como c2
+    cand = {i: {"via": "hibrido", "opcion": None, "fusion": 0.1, "q": "q"} for i in (2, 9, 3)}
+    puntaje = {2: 5.0, 9: 4.0, 3: 3.0}
+    assert seleccion.elegir(cand, puntaje, Config(top_final=2), cat) == [2, 3]
+    assert seleccion.elegir(cand, puntaje, Config(top_final=2, sin_copias=False), cat) == [2, 9]
+    assert seleccion.elegir(cand, puntaje, Config(top_final=3), cat) == [2, 9, 3]   # relleno
+
+
+def test_elegir_tope_de_sentencias():
+    filas = [("s0", "sentencia_c-1_2020", "jurisprudencia_C-1_2020"),
+             ("s1", "sentencia_c-2_2020", "jurisprudencia_C-2_2020"),
+             ("s2", "sentencia_c-3_2020", "jurisprudencia_C-3_2020"),
+             ("n3", "codigo_penal", "codigo_penal#art_10")]
+    cat = Catalogo.desde_columnas({
+        "chunk_id": [f[0] for f in filas], "doc_id": [f[1] for f in filas],
+        "norma_id_canonico": [f[2] for f in filas], "areas": [[] for _ in filas],
+        "texto": ["t"] * len(filas), "inicio": [0] * len(filas), "fin": [1] * len(filas),
+        "sha1_texto": [f[0] for f in filas]})
+    cand = {i: {"via": "hibrido", "opcion": None, "fusion": 0.1, "q": "q"} for i in range(4)}
+    puntaje = {0: 4.0, 1: 3.0, 2: 2.0, 3: 1.0}
+    assert seleccion.elegir(cand, puntaje, Config(top_final=3, max_sentencias=2), cat) == [0, 1, 3]
+    assert seleccion.elegir(cand, puntaje, Config(top_final=3, max_sentencias=0), cat) == [0, 1, 2]
+    assert seleccion.elegir(cand, puntaje, Config(top_final=4, max_sentencias=1), cat) == [0, 1, 2, 3]
+
+
 # ------------------------------------------------------------------ fusión (refactor)
 def test_rrf_y_colapsar_siguen_igual():
     r = rrf([(1, 9.0), (2, 8.0)], [(2, 0.9), (3, 0.5)], k=3)
