@@ -28,6 +28,7 @@
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 cargar_cuda
+cargar_gcc
 
 PUERTO="${PUERTO:-8000}"
 for f in data/index/faiss.index data/index/index_config.json config/responder.json; do

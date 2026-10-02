@@ -21,6 +21,8 @@
 #
 #     mkdir -p logs
 #     sbatch jobs/instalar_responder.sh
+#     GCC_MODULE=gnu9/9.4.0 sbatch jobs/instalar_responder.sh   # si hay un gcc 9-11 como módulo
+#   (en ese caso hay que exportar la misma GCC_MODULE al lanzar jobs/servir.sh)
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 
@@ -30,14 +32,22 @@ if [[ ! -x .venv-gpu/bin/python ]]; then
     ESTADO=2
 fi
 cargar_cuda
+cargar_gcc
 echo "CUDA_HOME: $CUDA_HOME"
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
-echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
+echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc de la 9 a la 11 para este caso)"
+GCC_MAYOR="$(gcc -dumpversion | cut -d. -f1)"
+LIBS_FS=""
+if [[ "$GCC_MAYOR" -lt 9 ]]; then
+    # gcc < 9: std::filesystem vive en libstdc++fs; sin enlazarla, libggml.so no carga
+    LIBS_FS="-DCMAKE_SHARED_LINKER_FLAGS=-lstdc++fs -DCMAKE_EXE_LINKER_FLAGS=-lstdc++fs"
+    echo "AVISO: gcc $GCC_MAYOR < 9: se enlaza libstdc++fs (si la compilación falla, usen GCC_MODULE=<gcc 9-11>)"
+fi
 nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)"
-    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75" FORCE_CMAKE=1 \
+    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 $LIBS_FS" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
         correr uv pip install --quiet --no-cache --reinstall-package llama-cpp-python \
             --python .venv-gpu/bin/python llama-cpp-python

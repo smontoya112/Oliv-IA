@@ -45,6 +45,7 @@ fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8"
     cargar_cuda
+cargar_gcc
     if ! .venv-gen/bin/python -c "import llama_cpp" 2>/dev/null; then
         echo "ERROR: .venv-gen no tiene llama_cpp: corran primero sbatch jobs/instalar_llamacpp.sh" >&2
         ESTADO=4

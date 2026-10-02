@@ -22,6 +22,7 @@ preparar_entorno
 
 paso "0/3 herramientas"
 cargar_cuda
+cargar_gcc
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
 echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
 

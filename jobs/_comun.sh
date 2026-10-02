@@ -23,6 +23,21 @@ preparar_entorno() {
 
 paso() { echo "== $*"; }
 
+# Compilador C++ para llama.cpp. El gcc del sistema (8.x) no trae std::filesystem en la librería
+# compartida y libggml.so queda con símbolos sin resolver. Si se define GCC_MODULE (un gcc >= 9 y
+# <= 11, que son los que admite CUDA 11.8, p. ej. GCC_MODULE=gnu9/9.4.0) se carga y se agrega su
+# lib64 al LD_LIBRARY_PATH: la librería queda enlazada a ESE libstdc++ y debe cargarse igual en
+# tiempo de ejecución (servir.sh y los benchmarks llaman a esta función también).
+cargar_gcc() {
+    [[ -n "${GCC_MODULE:-}" ]] || return 0
+    module load "$GCC_MODULE" || { echo "ERROR: no existe el módulo $GCC_MODULE" >&2; ESTADO=3; return 1; }
+    local cxx lib
+    cxx="$(command -v g++)"
+    lib="$(dirname "$(dirname "$cxx")")/lib64"
+    [[ -d "$lib" ]] && export LD_LIBRARY_PATH="$lib:${LD_LIBRARY_PATH:-}"
+    export CC="$(command -v gcc)" CXX="$cxx" CUDAHOSTCXX="$cxx"
+}
+
 # CUDA 11.8 del módulo para compilar y para ejecutar llama.cpp. El módulo no siempre agrega
 # lib64 a LD_LIBRARY_PATH y sin eso libllama.so no encuentra libcudart.so.11.0 al cargarse.
 cargar_cuda() {
