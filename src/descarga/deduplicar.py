@@ -104,6 +104,30 @@ def elegir(registros: dict[str, dict], grupo: list[str]) -> str:
     return min(grupo, key=lambda d: _orden(registros[d]))
 
 
+CRITERIOS = ("la otra copia no se descargó bien", "la otra copia no trae canonico",
+             "la otra copia viene de una ronda de proximidad", "la otra copia no es del Senado",
+             "la otra copia tiene menos artículos detectados", "la otra copia tiene menos texto")
+
+
+def motivo(registros: dict[str, dict], grupo: list[str], conservado: str) -> str | None:
+    """Por qué se conserva `conservado` y no la copia de id más corto (la que uno esperaría).
+    None si es la misma, es decir, si no hay nada raro que explicar."""
+    esperada = min(grupo, key=lambda d: (len(d), d))
+    if esperada == conservado:
+        return None
+    a, b = _orden(registros[conservado]), _orden(registros[esperada])
+    for i, nombre in enumerate(CRITERIOS):
+        if a[i] != b[i]:
+            return nombre
+    return "desempate por id"
+
+
+def _fila(r: dict) -> str:
+    host = re.sub(r"^https?://(www\.)?", "", r.get("url") or "").split("/")[0]
+    return (f"{r['doc_id']:<30} estado={r.get('estado'):<6} origen={r.get('origen') or 'inicial':<14} "
+            f"artículos={r.get('n_articulos_detectados') or 0:<5} caracteres={r.get('n_caracteres') or 0:<8} {host}")
+
+
 # ------------------------------------------------------------------ aplicar
 def _mover(origen: Path, destino: Path) -> bool:
     if not origen.exists():
@@ -138,6 +162,9 @@ def main() -> int:
     ap.add_argument("--aplicar", action="store_true", help="mover las copias (sin esto solo se informa)")
     ap.add_argument("--sin-texto", action="store_true", help="no agrupar por texto idéntico, solo por clave")
     ap.add_argument("--descartados", type=Path, help="por defecto <raiz>/descartados")
+    ap.add_argument("--explicar", type=int, nargs="?", const=15, default=0, metavar="N",
+                    help="muestra N ejemplos (15 por defecto) de grupos donde NO se conserva la copia de id "
+                         "más corto, con los datos de cada copia")
     args = ap.parse_args()
 
     cfg = Config(raiz=args.raiz)
@@ -151,6 +178,26 @@ def main() -> int:
         print(f"  se conserva {k:<34} se descartan {', '.join(d for d in grupo if d != k)}")
     if len(grupos) > 25:
         print(f"  ... y {len(grupos) - 25} grupos más")
+
+    # ¿en cuántos grupos se conserva una copia que no es la de id más corto, y por qué?
+    razones: dict[str, list[list[str]]] = defaultdict(list)
+    for grupo in grupos:
+        if m := motivo(manifest.docs, grupo, elegir(manifest.docs, grupo)):
+            razones[m].append(grupo)
+    if razones:
+        print(f"\nEn {sum(len(v) for v in razones.values())} grupos se conserva una copia que NO es la de id "
+              "más corto. Motivo decisivo:")
+        for m, gs in sorted(razones.items(), key=lambda x: -len(x[1])):
+            print(f"  {len(gs):>5}  {m}")
+    if args.explicar:
+        mostrados = 0
+        for m, gs in sorted(razones.items(), key=lambda x: -len(x[1])):
+            for grupo in gs[: max(1, args.explicar // max(len(razones), 1))]:
+                k = elegir(manifest.docs, grupo)
+                print(f"\n[{m}]")
+                for d in sorted(grupo):
+                    print(("  → " if d == k else "    ") + _fila(manifest.docs[d]))
+                mostrados += 1
     if not args.aplicar:
         print("\n(solo informe: agreguen --aplicar para mover las copias a data/descartados/)")
         return 0

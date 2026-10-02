@@ -417,3 +417,19 @@ def test_deduplicar_junta_codigos_con_su_ley():
     }
     g = agrupar(registros)
     assert g == [["decreto_624_1989", "estatuto_tributario"]] and elegir(registros, g[0]) == "estatuto_tributario"
+
+
+def test_deduplicar_explica_por_que_conserva_una_copia_con_sufijo():
+    from src.descarga.deduplicar import elegir, motivo
+    ok = {"estado": "ok", "n_articulos_detectados": 5, "n_caracteres": 1000, "url": BASE + "decreto_0492_2020.html",
+          "canonico": ["decreto", "492", "2020"]}
+    regs = {"decreto_492_2020": {**ok, "doc_id": "decreto_492_2020", "estado": "error"},
+            "decreto_492_2020-2": {**ok, "doc_id": "decreto_492_2020-2"},
+            "decreto_492_2020-3": {**ok, "doc_id": "decreto_492_2020-3"}}
+    grupo = sorted(regs)
+    assert elegir(regs, grupo) == "decreto_492_2020-2"                     # la sin sufijo falló al bajar
+    assert motivo(regs, grupo, "decreto_492_2020-2") == "la otra copia no se descargó bien"
+    regs["decreto_492_2020"]["estado"] = "ok"                              # todo igual: gana el id más corto
+    assert elegir(regs, grupo) == "decreto_492_2020" and motivo(regs, grupo, "decreto_492_2020") is None
+    regs["decreto_492_2020-2"]["n_articulos_detectados"] = 9               # -2 trae más artículos
+    assert motivo(regs, grupo, elegir(regs, grupo)) == "la otra copia tiene menos artículos detectados"
