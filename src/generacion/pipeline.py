@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import time
 
+from .ejemplos import EJEMPLOS
 from .esquemas import esquema
 from .postproceso import ensamblar, parsear_json
 from .prompts import construir_mensajes, formatear_pasajes
@@ -14,9 +15,14 @@ MAX_TOKENS_SALIDA = {"multiple_choice": 700, "semi_open": 600, "open_ended": 110
 def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOKENS,
              ejemplos: dict[str, list[dict]] | None = None, contar=None):
     """(mensajes, esquema, pasajes_incluidos) de un ítem. `contar` es el contador de tokens
-    del decoder (Motor.contar); sin él se estima por caracteres."""
+    del decoder (Motor.contar); sin él se estima por caracteres.
+
+    `ejemplos` por defecto (None) usa los few-shot propios de la Fase 7.3
+    (src.generacion.ejemplos.EJEMPLOS); pasa `{}` para desactivarlos (p. ej. en una
+    ablación de tiempo/calidad)."""
+    ejemplos = EJEMPLOS if ejemplos is None else ejemplos
     texto, usados = formatear_pasajes(pasajes, presupuesto, contar)
-    msgs = construir_mensajes(item, texto, (ejemplos or {}).get(item["formato"]))
+    msgs = construir_mensajes(item, texto, ejemplos.get(item["formato"]))
     return msgs, esquema(item["formato"]), usados
 
 

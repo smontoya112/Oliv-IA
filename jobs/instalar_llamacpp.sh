@@ -7,11 +7,16 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=16G
+#SBATCH --gres=gpu:1
+#SBATCH --partition=gpu
 #SBATCH --time=01:30:00
 #
 # Compila llama-cpp-python con CUDA 11.8 en .venv-gen (una sola vez, ~10-20 min). Hace falta
 # porque los nodos GPU de hypatia (Quadro RTX 6000, driver CUDA 11.8) no corren vLLM, y las
-# ruedas precompiladas de llama-cpp-python ya no traen CUDA 11.8. No necesita GPU para compilar.
+# ruedas precompiladas de llama-cpp-python ya no traen CUDA 11.8. La COMPILACIÓN no necesita
+# GPU, pero el paso 3/3 (prueba de importación) sí: libllama.so queda enlazada contra
+# libcuda.so.1 (el driver de NVIDIA), que solo existe en nodos con GPU física. Por eso el job
+# pide --gres=gpu:1 igual que jobs/recuperar.sh.
 #
 #     mkdir -p logs
 #     sbatch jobs/instalar_llamacpp.sh
@@ -25,6 +30,11 @@ module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; EST
 export CUDACXX="$(command -v nvcc)"
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
 echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc hasta la 11)"
+# libllama.so necesita std::filesystem (GCC >= 9); la libstdc++ del sistema (gcc 8.5,
+# /usr/lib64/libstdc++.so.6.0.25) NO trae ese símbolo, así que se usa la de gcc 9.3.0 que
+# instala OpenHPC en hypatia. El Python de `uv` también trae su propia libstdc++ vieja
+# empaquetada: sin esto, el dynamic linker la encuentra primero y falla igual al importar.
+export LD_LIBRARY_PATH="/opt/ohpc/pub/compiler/gcc/9.3.0/lib64:${LD_LIBRARY_PATH:-}"
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "1/3 entorno .venv-gen"
@@ -33,9 +43,15 @@ if [[ $ESTADO -eq 0 ]]; then
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/3 compilando llama-cpp-python (CUDA, arquitectura 75 = Turing)"
-    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75" FORCE_CMAKE=1 \
+    # GGML_CUDA_NO_VMM=on: el allocator por defecto de ggml-cuda (basado en la API VMM de
+    # CUDA) aborta durante el primer llama_decode en el driver CUDA 11.8 de hypatia
+    # (ggml_cuda_pool_vmm::alloc, ver generacion_bench_751503.err); se usa el allocator
+    # clásico (cudaMalloc), compatible con este driver.
+    # --no-cache: uv cachea el build de llama-cpp-python por versión+hash del sdist, sin
+    # tener en cuenta CMAKE_ARGS; sin esto, reutiliza una compilación vieja sin este flag.
+    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=on" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
-        correr uv pip install --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
+        correr uv pip install --no-cache --quiet --python .venv-gen/bin/python llama-cpp-python huggingface_hub pyarrow
 fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "3/3 prueba de importación"
