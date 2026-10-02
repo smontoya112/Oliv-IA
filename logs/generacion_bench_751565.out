@@ -1,0 +1,26 @@
+Job generacion_bench 751565 en nodei-gpu-2 · 2026-10-01 19:59:44
+== 1/4 contexto de prueba (oraculo) -> data/processed/contexto_oraculo.json
+50 ítems, 12 sin pasajes -> data/processed/contexto_oraculo.json
+== 2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8
+== 3/4 benchmark: salamandra-7b
+Quadro RTX 6000, 23040 MiB
+19:59:53 Cargando salamandra-7b (RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf, *Q8_0.gguf, n_ctx=8192)
+19:59:54 HTTP Request: GET https://huggingface.co/api/models/RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf "HTTP/1.1 200 OK"
+19:59:54 HTTP Request: GET https://huggingface.co/api/models/RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+19:59:55 HTTP Request: HEAD https://huggingface.co/RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf/resolve/main/salamandra-7b-instruct.Q8_0.gguf "HTTP/1.1 302 Found"
+19:59:55 HTTP Request: GET https://huggingface.co/api/models/RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf/xet-read-token/c70bd08d72217da3b5e44c05dfc269e5b0243aa2 "HTTP/1.1 200 OK"
+20:11:13 salamandra-7b/multiple_choice: 15 ítems en 408.2 s (27.21 s/pregunta), válidos 15, exactitud 0.467
+20:25:07 salamandra-7b/semi_open: 30 ítems en 833.6 s (27.79 s/pregunta), válidos 30, exactitud None
+20:28:56 salamandra-7b/open_ended: 5 ítems en 229.2 s (45.83 s/pregunta), válidos 5, exactitud None
+== 4/4 resultados
+fecha,modelo,contexto,formato,n,segundos,s_por_pregunta,proyeccion_992_horas,validos,abstenciones,exactitud_cerradas
+2026-10-01 19:23:48,qwen3-8b,contexto_oraculo,multiple_choice,15,170.1,11.34,3.12,15,4,0.533
+2026-10-01 19:28:21,qwen3-8b,contexto_oraculo,semi_open,30,273.0,9.1,2.51,30,7,
+2026-10-01 19:30:30,qwen3-8b,contexto_oraculo,open_ended,5,129.0,25.8,7.11,5,1,
+2026-10-01 19:45:13,llama-3.1-8b,contexto_oraculo,multiple_choice,15,185.3,12.36,3.4,15,4,0.667
+2026-10-01 19:49:40,llama-3.1-8b,contexto_oraculo,semi_open,30,267.0,8.9,2.45,30,7,
+2026-10-01 19:51:24,llama-3.1-8b,contexto_oraculo,open_ended,5,104.3,20.86,5.75,5,1,
+2026-10-01 20:11:13,salamandra-7b,contexto_oraculo,multiple_choice,15,408.2,27.21,7.5,15,6,0.467
+2026-10-01 20:25:07,salamandra-7b,contexto_oraculo,semi_open,30,833.6,27.79,7.66,30,13,
+2026-10-01 20:28:56,salamandra-7b,contexto_oraculo,open_ended,5,229.2,45.83,12.63,5,2,
+== fin: [generacion_bench] Terminó OK · 2026-10-01 20:28:56

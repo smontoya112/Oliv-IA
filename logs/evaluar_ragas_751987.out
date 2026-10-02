@@ -1,0 +1,61 @@
+Job evaluar_ragas 751987 en nodei-2 · 2026-10-01 23:44:01
+== 0/3 verificando entrega y llave
+== 1/3 conectividad del nodo de computo a OpenRouter
+HTTP 200
+== 2/3 dependencias del juez (ragas, langchain-openai, sentence-transformers...)
+== 3/3 corriendo el juez sobre data/processed/bench_generacion/llama-3.1-8b.jsonl
+{
+  "equipo": "llama-3.1-8b",
+  "split": "sample",
+  "validacion": {
+    "errores": 0,
+    "detalle": []
+  },
+  "cerradas": {
+    "n": 15,
+    "aciertos": 9,
+    "accuracy": 0.6,
+    "referencia": 0.905,
+    "puntos": 12.0
+  },
+  "citas": {
+    "items_evaluados": 41,
+    "n_ref": 49,
+    "n_citadas": 85,
+    "aciertos": 34,
+    "aciertos_respaldados": 34,
+    "aciertos_sin_respaldo": 0,
+    "incorrectas": 49,
+    "citas_sin_respaldo": 2,
+    "recall_citas_ponderado": 0.6939,
+    "tasa_sin_respaldo": 0.0235,
+    "indice": 0.6468,
+    "puntos": 12.94
+  },
+  "abstencion": {
+    "items_evaluados": 43,
+    "abstuvo_bien": 0,
+    "abstuvo_de_mas": 0,
+    "respondio_bien": 31,
+    "respondio_mal": 12,
+    "calibracion": 0.7209,
+    "puntos": 7.21
+  },
+  "correccion_ragas": {
+    "n_juzgados": 35,
+    "n_respondidos": 35,
+    "n_fallidos": 0,
+    "correctness": 0.4724,
+    "modelo_juez": "z-ai/glm-5.3-flash",
+    "encoder": "intfloat/multilingual-e5-large",
+    "referencia": 0.451,
+    "puntos": 14.17
+  },
+  "total_automatico": {
+    "obtenidos": 46.32,
+    "posibles": 80.0,
+    "de_100_del_ranking": 80.0,
+    "nota": "los 20 pts restantes son interfaz grafica, bitacora de corpus, video y reproducibilidad"
+  }
+}
+== fin: [evaluar_ragas] Terminó con errores (ver .err) · 2026-10-01 23:57:34

@@ -1,0 +1,112 @@
+ID 24
+GOLD   : Los elementos esenciales para la validez de un contrato son el consentimiento de las partes, la capacidad de estas para obligarse, y la existencia de un objeto y una causa lícitos, conforme a lo dispuesto en el artículo 1502 del Código Civil.
+SUB    : [ABSTUVO]
+
+ID 79
+GOLD   : Sí, la Ley 1010 de 2006 tiene por objeto prevenir, corregir y sancionar el acoso laboral y cualquier otro tipo de hostigamientos en el marco de las relaciones de trabajo.  
+SUB    : Sí, existe una norma que regula el acoso laboral en el ordenamiento jurídico colombiano. La Ley 1010 de 2006 define, previene, corrige y sanciona las diversas formas de agresión y maltrato en el contexto de las relaciones laborales. Esta ley protege bienes jurídicos como el trabajo en condiciones di
+
+ID 140
+GOLD   : Las potestades conferidas al acreedor garantizado para que ejecute su garantía real por fuera del proceso de reorganización y, así mismo, en caso de hacerse parte del proceso, para que su obligación sea pagada con preferencia de las de los otros acreedores que participan del acuerdo de reorganizació
+SUB    : La Corte Constitucional estableció que las potestades conferidas al acreedor garantizado para ejecutar su garantía real por fuera del proceso de reorganización y con preferencia en caso de hacerse parte del proceso, solo proceden si los demás bienes del deudor son suficientes para asegurar el pago d
+
+ID 142
+GOLD   : El precedente jurisprudencial de mayor importancia en esta materia es la sentencia de unificación 2020CE-SUJ-4-005 del 26 de noviembre de 2020 con expediente 21329.
+SUB    : [ABSTUVO]
+
+ID 168
+GOLD   : para estructurarse la lesión enorme en la compraventa se requiere la concurrencia de los siguientes requisitos: 1) que la venta sea sobre bienes inmuebles, y no se hubiese hecho por ministerio de la justicia, 2) que la divergencia entre el justo precio al tiempo del contrato y el pactado sea enorme,
+SUB    : [ABSTUVO]
+
+ID 190
+GOLD   : 1. entre marzo y mayo de 2021 instagram elimino 17 publicaciones de esperanza gomez bajo el argumento de que contenian contenido relacionado con servicios sexuales de adultos en aparente violacion de las normas comunitarias de la plataforma. 2. el 16 de mayo meta desactivo completamente su cuenta de
+SUB    : [ABSTUVO]
+
+ID 218
+GOLD   : Existe competencia nacional para declarar determinantes territoriales conforme la Ley 388 de
+1997, como los lineamientos y guías que son para ordenar el territorio. Sin embargo, la arquitectura
+constitucional de competencias concurrentes no autoriza que un acto nacional (Resolución) defina directa o
+SUB    : El conflicto normativo entre la potestad del artículo 32 de la Ley 2294 de 2023 y el artículo 313 #7 de la Constitución Política se resuelve a favor del artículo 313 #7, ya que este establece que los concejos municipales tienen la potestad de reglamentar los usos del suelo y vigilar y controlar las 
+
+ID 239
+GOLD   : La Corte Suprema de Justicia, en dicha sentencia estableció como subregla jurídica que la prestación del inciso primero del artículo 1324 del Código de Comercio —la cesantía comercial— no es de orden público ni irrenunciable, sino un derecho de naturaleza patrimonial y dispositivo. Por tanto, las pa
+SUB    : La Corte Suprema de Justicia estableció que la renuncia a la cesantía comercial por parte del agente no es una justa causa para dar por terminado unilateralmente el contrato de agencia comercial, según lo establecido en el artículo 1325 del Código de Comercio. Esta subregla jurídica se basa en la ne
+
+ID 280
+GOLD   : El artículo 64 del código penal colombiano es el que especifica cuáles son los requisitos para que un juez pueda conceder la libertad condicional
+SUB    : El artículo 64 del Código Penal colombiano define los requisitos que un juez debe tomar en cuenta para conceder la libertad condicional. Según este artículo, el juez debe considerar que la persona haya cumplido las tres quintas partes de la pena, que su comportamiento durante el tratamiento penitenc
+
+ID 442
+GOLD   : Numeral 5 del artículo 60 del CST
+SUB    : No se encuentra el fragmento solicitado en los pasajes proporcionados. Sin embargo, se puede mencionar que el Código Sustantivo del Trabajo tiene como objetivo lograr la justicia en las relaciones entre empleadores y trabajadores, dentro de un espíritu de coordinación económica y equilibrio social, 
+
+ID 453
+GOLD   : Los principales precedentes jurisprudenciales sobre el reconocimiento de los animales como seres sintientes son la sentencia C-468 de 2024, la sentencia C-332 de 2025 y la sentencia SU-016 de 2020; estas sentencias permitieron que se afirmara la protección de los animales al dejar de ser reconocidos
+SUB    : La Corte Constitucional ha establecido que los animales son seres sintientes y merecen protección y bienestar, como se desprende de los artículos 8, 79 y 95 de la Constitución. Este mandato constitucional se ha reiterado en varias sentencias, incluyendo la Sentencia C-468 de 2024, que considera que 
+
+ID 472
+GOLD   : Las integraciones que involucren empresas que hagan la misma actividad económica, aún en diferentes etapas productivas, que individual o conjuntamente tengan ingresos operacionales o activos superiores al monto fijado por la SIC, deberán notificar a la SIC de la integración. Si la tasa de mercado de
+SUB    : La ley no establece explícitamente los requisitos para el control de integraciones empresariales, pero su objeto es actualizar la normatividad en materia de protección de la competencia para adecuarla a las condiciones actuales de los mercados. Esto sugiere que la ley busca optimizar las herramienta
+
+ID 490
+GOLD   : La sociedad es obligada al pago:
+
+Las pensiones e intereses de cualquiera de los cónyuges durante la vigencia de la sociedad.
+
+Las deudas y obligaciones contraídas durante su existencia por el marido o la mujer, y que no fueren personales de aquél o ésta. 
+
+Todas las deudas personales de cada uno de
+SUB    : Los pasivos de la sociedad conyugal comprenden las deudas y obligaciones que la sociedad conyugal ha contraído durante su existencia, según lo establece el Código Civil. De acuerdo con el artículo 324 de la Ley 153 de 1887, se aplicarán a quienes paralela y lógicamente correspondan las denominacione
+
+ID 563
+GOLD   : No tienen efectos erga omnes y por ello no tienen una jerarquía normativa. Sin embargo, contienen órdenes del juez constitucional que puede limitar el ejercicio de funciones administrativas
+SUB    : Los autos de seguimiento proferidos por la Sala Especial de Seguimiento a la Sentencia T-760 de 2008 de la Corte Constitucional tienen jerarquía normativa de precedente constitucional, ya que se refieren a órdenes impartidas por la Corte Constitucional y se consideran determinantes para fundamentar 
+
+ID 589
+GOLD   : Los intereses y derechos de un sujeto no afectan a los otros sujetos o litisconsortes, de manera que cada uno puede hacerse parte del proceso o no.
+SUB    : El litisconsorcio facultativo se define como la situación en la que los litigantes pueden actuar separadamente en sus relaciones con la contraparte, sin que sus actos redunden en provecho o perjuicio de los otros litigantes, sin afectar la unidad del proceso. Esto se establece en el artículo 60 del 
+
+ID 661
+GOLD   : El principio de legalidad tributaria se estructura en torno a tres dimensiones. La primera es la representación popular, sintetizada en la máxima no taxation without representation, que exige que los tributos sean creados mediante un proceso legislativo válido, tanto en su dimensión formal —consecut
+SUB    : El principio de legalidad en materia tributaria establece que las contribuciones fiscales o parafiscales deben ser impuestas por el Congreso, las asambleas departamentales, los concejos distritales y municipales, y que la ley, las ordenanzas y los acuerdos deben fijar directamente los sujetos activo
+
+ID 674
+GOLD   : La cláusula es abusiva por dos razones principales. Primero, carece de transparencia, pues impone al usuario la obligación de adquirir un seguro sin suministrar información clara sobre sus costos, coberturas y condiciones, contraviniendo el artículo 3 (numeral 3), y los artículos 23 y 24 del EstatutTraceback (most recent call last):
+  File "<string>", line 10, in <module>
+  File "C:\Users\ariad\AppData\Local\Programs\Python\Python39-32\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f86a' in position 65: character maps to <undefined>
+
+SUB    : La cláusula abusiva se encuentra en el enunciado porque obliga al usuario a solicitar un seguro de forma automática con la aceptación de los Términos y Condiciones, sin que se le brinde la opción de rechazarlo. Esto va en contra del derecho de protección contractual establecido en el artículo 3 de l
+
+ID 697
+GOLD   : Esta teoría opera cuando la matriz negocia el contrato, pero es la subsidiaria quien lo firma y la matriz sigue en el proceso de ejecución del contrato. Bajo esta teoría, se puede demostrar que si la matriz ejecuta el contrato, dio su consentimiento para arbitrar. Es decir, el consentimiento no vinc
+SUB    : [ABSTUVO]
+
+ID 857
+GOLD   : La función ejecutiva se diferencia de la función judicial también. Aquí hay un punto que nos lleva a confundirnos porque la función ejecutiva no se necesita que haya una controversia en concreto. La función judicial se  necesita una controversia cuando hay administración de justicia, que exista una 
+SUB    : [ABSTUVO]
+
+ID 865
+GOLD   : Artículo 113 del C.C: “El matrimonio es un contrato solemne por el cual un hombre y una mujer se unen con el fin de vivir juntos, de procrear y de auxiliarse mutuamente”. 
+
+SUB    : El artículo 113 del Código Civil define el matrimonio como un contrato solemne entre un hombre y una mujer con el fin de vivir juntos, procrear y auxiliarse mutuamente. Esta definición se encuentra en el Libro Primero, Título IV del Código Civil. El matrimonio es considerado un contrato solemne, lo 
+
+ID 879
+GOLD   : Carece la eficiencia de la pretensión del pago. 
+SUB    : Claudia puede iniciar un proceso para cobrar el pago de la suma de 1 millón de pesos contra Carlos, ya que el plazo no vencido no es un requisito previo para iniciar un proceso. De acuerdo con el artículo 1 de la Ley 1564 de 2012, el Código General del Proceso regula la actividad procesal en los asu
+
+ID 919
+GOLD   : El problema jurídico de la sentencia SU-455 del 2020 de la Corte Constitucional, es el siguiente:  determinar si la Sala de Casación Civil de la Corte Suprema de Justicia vulneró el derecho fundamental al debido proceso de la Arrocera Potrerito S.A.S., al proferir la Sentencia del 16 de julio de 201
+SUB    : La sentencia SU-455 de 2020 de la Corte Constitucional aborda el problema jurídico de la configuración del defecto procesal por exceso ritual manifiesto en providencias judiciales, que se presenta cuando el funcionario judicial renuncia a la verdad jurídica objetiva patente en los hechos, derivándos
+
+ID 946
+GOLD   : El problema jurídico que la Corte Constitucional debía responder consistía en: ¿las normas que reconocen efectos jurídicos a los matrimonios y uniones maritales de hecho con o entre personas menores de 18 años desconocen el bloque de constitucionalidad en Colombia, en específico los artículos 16.2 d
+SUB    : La sentencia C-039 de 2025 de la Corte Constitucional aborda el problema jurídico de la nulidad del matrimonio con o entre personas menores de 18 años, ya que desconoce el mandato del artículo 93 de la Carta Política en relación con los artículos 16.2 de la CEDAW y 1º de la Convención sobre los Dere
+
+ID 960
+GOLD   : El artículo 45 del Decreto 2153 de 1992 define "posición dominante" en los siguientes términos: "5. Posición Dominante: La posibilidad de determinar, directa o indirectamente, las condiciones de un mercado."
+SUB    : Una posición dominante se refiere a la posibilidad de determinar, directa o indirectamente, las condiciones de un mercado, según lo establece el artículo 45 del Decreto 2153 de 1992. Esta definición es fundamental para la aplicación de las normas de competencia y la regulación de las prácticas comer
+
+ID 991
+GOLD   : 

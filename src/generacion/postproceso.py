@@ -5,9 +5,13 @@ import json
 import re
 
 from src.procesamiento.oraciones import dividir
+from src.verificacion import abstencion
+from src.verificacion.citas import verificar
 
 MAX_PASAJES = 10          # solo cuentan los 10 primeros en la evaluación (evaluate.py)
-_SIN_RAZON = "No es la opción respaldada por los pasajes recuperados."
+_SIN_RAZON = abstencion._SIN_RAZON
+_CAMPOS_PASAJE = ("doc_id", "inicio", "fin", "texto", "score", "chunk_id", "norma_id", "via",
+                  "opcion")
 
 
 def contar_palabras(texto: str) -> int:
@@ -97,18 +101,36 @@ def _vacios(item: dict) -> dict:
                            "conclusion": ""}}[item["formato"]]
 
 
+def _limpiar(pasajes: list[dict]) -> list[dict]:
+    return [{k: p[k] for k in _CAMPOS_PASAJE if p.get(k) is not None} for p in pasajes[:MAX_PASAJES]]
+
+
 def ensamblar(item: dict, salida: dict | None, pasajes: list[dict],
-              latencia_ms: int | None = None) -> dict:
-    """Línea final de submissions.jsonl. Si la salida no se pudo parsear o quedó incompleta,
-    devuelve una abstención válida (la política fina de abstención es la fase 8)."""
+              latencia_ms: int | None = None, senales: dict | None = None, catalogo=None,
+              umbral: float | None = abstencion.UMBRAL_TOP1) -> dict:
+    """Línea final de submissions.jsonl, con la fase 8 aplicada: verificación de citas
+    (8.1-8.3, src.verificacion.citas) y abstención (8.4, src.verificacion.abstencion).
+
+    `pasajes` son TODOS los recuperados (no solo los que cupieron en el prompt): los que
+    respaldan una cita suben al top 10. `senales` vienen de la recuperación (fase 6) y
+    `catalogo` (src.recuperacion.catalogo) permite traer el pasaje de una norma citada que no
+    estaba entre los recuperados; sin él, las citas sin respaldo se eliminan."""
     base = {"id": item["id"], "formato": item["formato"]}
     if latencia_ms is not None:
         base["latencia_ms"] = latencia_ms
     campos = normalizar(item, salida) if salida else None
-    incompleto = campos is None or any(v in ("", [], {}, None) for v in campos.values())
-    if incompleto or not pasajes:
-        return {**base, "abstencion": True, **_vacios(item), "pasajes_recuperados": []}
-    return {**base, "abstencion": False, **campos,
-            "pasajes_recuperados": [
-                {k: p[k] for k in ("doc_id", "inicio", "fin", "texto", "score") if k in p}
-                for p in pasajes[:MAX_PASAJES]]}
+    if item["formato"] == "multiple_choice" and pasajes:
+        campos = abstencion.completar_cerrada(item, campos, pasajes)
+    top, reporte = _limpiar(pasajes), None
+    if campos is not None and not abstencion.vacio(campos) and pasajes:
+        campos, top, reporte = verificar(item, campos, pasajes, catalogo)
+        top = _limpiar(top)
+    abstiene, motivo = abstencion.decidir(item, campos, top, senales, reporte, umbral)
+    if abstiene:
+        vacios = _vacios(item)
+        if item["formato"] == "multiple_choice":     # el enum del schema no admite "" ni null
+            vacios["respuesta_correcta"] = abstencion.letra_respaldo(item, pasajes)
+        return {**base, "abstencion": True, **vacios, "pasajes_recuperados": top,
+                "verificacion": {"motivo_abstencion": motivo}}
+    return {**base, "abstencion": False, **campos, "pasajes_recuperados": top,
+            "verificacion": reporte}

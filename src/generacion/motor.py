@@ -17,7 +17,9 @@ log = logging.getLogger("generacion")
 MODELOS: dict[str, tuple[str, str]] = {
     "qwen3-8b": ("Qwen/Qwen3-8B-GGUF", "*Q8_0.gguf"),
     "llama-3.1-8b": ("bartowski/Meta-Llama-3.1-8B-Instruct-GGUF", "*Q8_0.gguf"),
-    "salamandra-7b": ("BSC-LT/salamandra-7b-instruct-gguf", "*Q8_0*.gguf"),
+    # BSC-LT solo publica salamandra-7b-instruct en Safetensors, no en GGUF; se usa la
+    # conversión GGUF comunitaria de RichardErkhov, que sí trae un Q8_0.
+    "salamandra-7b": ("RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf", "*Q8_0.gguf"),
 }
 SEMILLA = 0
 

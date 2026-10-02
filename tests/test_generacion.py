@@ -6,6 +6,7 @@ import pytest
 
 import src.generacion  # noqa: F401  (agrega scripts/ al path)
 from src.generacion import contexto_prueba
+from src.generacion.ejemplos import EJEMPLOS
 from src.generacion.esquemas import ESQUEMAS, esquema
 from src.generacion.pipeline import generar_lote, preparar
 from src.generacion.postproceso import (contar_palabras, ensamblar, normalizar, parsear_json,
@@ -66,11 +67,14 @@ def test_ensamblar_valido_y_abstencion():
                    PASAJES, latencia_ms=5)
     assert ok["abstencion"] is False and ok["pasajes_recuperados"][0]["doc_id"] == "ley_472_1998"
     assert ok["latencia_ms"] == 5
-    for caso in (ensamblar(SEMI, None, PASAJES), ensamblar(SEMI, {"respuesta": "x"}, PASAJES),
-                 ensamblar(SEMI, {"respuesta": "x", "palabras_clave": ["a"], "referencia_legal": "r"}, [])):
-        assert caso["abstencion"] is True and caso["pasajes_recuperados"] == []
+    for caso in (ensamblar(SEMI, None, PASAJES), ensamblar(SEMI, {"respuesta": "x"}, PASAJES)):
+        # la abstención conserva la evidencia (como el ítem 218 del ejemplo de entrega)
+        assert caso["abstencion"] is True and caso["pasajes_recuperados"][0]["doc_id"] == "ley_472_1998"
+    sin = ensamblar(SEMI, {"respuesta": "x", "palabras_clave": ["a"], "referencia_legal": "r"}, [])
+    assert sin["abstencion"] is True and sin["pasajes_recuperados"] == []
     mc = ensamblar(MC, {"respuesta_correcta": "Q", "justificacion": "j"}, PASAJES)
-    assert mc["abstencion"] is True                                 # letra inválida -> no se inventa
+    # una cerrada nunca se abstiene si hay pasajes (fase 8.4): la letra inválida se reemplaza
+    assert mc["abstencion"] is False and mc["respuesta_correcta"] in MC["opciones"]
 
 
 def test_ensamblar_limita_a_10_pasajes():
@@ -134,6 +138,25 @@ def test_pipeline_con_motor_falso():
     assert subs[2]["abstencion"] is True                           # salida no parseable -> abstención válida
     msgs, esq, usados = preparar(MC, PASAJES)
     assert esq is ESQUEMAS["multiple_choice"] and usados == PASAJES
+
+
+def test_ejemplos_few_shot_cumplen_el_esquema_de_su_formato():
+    assert set(EJEMPLOS) == set(ESQUEMAS)
+    for formato, turnos in EJEMPLOS.items():
+        assert [t["role"] for t in turnos] == ["user", "assistant"]
+        assert "=== PASAJES ===" in turnos[0]["content"]
+        respuesta = json.loads(turnos[1]["content"])
+        assert set(respuesta) == set(ESQUEMAS[formato]["required"])
+
+
+def test_preparar_incluye_few_shot_por_defecto_y_se_puede_desactivar():
+    con_ejemplos, _, _ = preparar(MC, PASAJES)
+    assert len(con_ejemplos) == 4                    # system, user-ejemplo, assistant-ejemplo, user real
+    assert [m["role"] for m in con_ejemplos] == ["system", "user", "assistant", "user"]
+    assert con_ejemplos[-1]["content"] != con_ejemplos[1]["content"]   # la consulta real, no el ejemplo
+
+    sin_ejemplos, _, _ = preparar(MC, PASAJES, ejemplos={})
+    assert len(sin_ejemplos) == 2 and [m["role"] for m in sin_ejemplos] == ["system", "user"]
 
 
 def test_contexto_oraculo_y_bm25():

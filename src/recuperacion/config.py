@@ -27,11 +27,10 @@ class Config:
     alias: bool = True          # 6.2 expansión de consultas con el diccionario de alias
     reranker: bool = True       # 6.5
     extra_por_opcion: int = 2   # 6.6 pasajes de evidencia por opción en preguntas cerradas
-    # Tope de pasajes de una misma norma en el top-10 (0 = sin tope). Con un corpus grande, una sola
-    # norma muy parecida a la pregunta puede llenar los 10 lugares y dejar fuera a las demás; el
-    # evaluador puntúa por norma (cuerpo normativo), así que conviene repartir. Si no hay suficientes
-    # candidatos de otras normas, el tope se relaja para devolver siempre top_final pasajes.
-    max_por_norma: int = 0
+    garantizar_opciones: bool = True  # cerradas: 1 pasaje por opción siempre entra al top final
+    max_por_norma: int = 2      # tope de pasajes con el mismo id canónico en el top final (0 = sin tope)
+    sin_copias: bool = True     # el mismo id canónico desde un segundo documento no entra al top final
+    max_sentencias: int = 5     # tope de pasajes de sentencias en el top final (0 = sin tope)
     lote_reranker: int = 16
     max_tokens_reranker: int = 512
 

@@ -29,6 +29,10 @@
 # data/processed/bench_generacion/<modelo>.jsonl (predicciones) y los logs del job.
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
+# El cluster auto-adjunta gdb cuando un proceso aborta (p. ej. un CUDA_CHECK fallido de
+# ggml) y ese backtrace tapa el mensaje real de error en el .err. Se desactivan los core
+# dumps para que, si vuelve a abortar, se vea el error de ggml sin ruido de gdb encima.
+ulimit -c 0
 
 MODELOS=("$@"); [[ ${#MODELOS[@]} -eq 0 ]] && MODELOS=(qwen3-8b llama-3.1-8b salamandra-7b)
 CONTEXTO="${CONTEXTO:-oraculo}"

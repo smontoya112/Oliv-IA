@@ -1,0 +1,26 @@
+Job generacion_bench 751551 en nodei-gpu-2 · 2026-10-01 19:37:35
+== 1/4 contexto de prueba (oraculo) -> data/processed/contexto_oraculo.json
+50 ítems, 12 sin pasajes -> data/processed/contexto_oraculo.json
+== 2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8
+== 3/4 benchmark: llama-3.1-8b salamandra-7b
+Quadro RTX 6000, 23040 MiB
+19:37:44 Cargando llama-3.1-8b (bartowski/Meta-Llama-3.1-8B-Instruct-GGUF, *Q8_0.gguf, n_ctx=8192)
+19:37:45 HTTP Request: GET https://huggingface.co/api/models/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF "HTTP/1.1 200 OK"
+19:37:45 HTTP Request: GET https://huggingface.co/api/models/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+19:37:45 HTTP Request: HEAD https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q8_0.gguf "HTTP/1.1 302 Found"
+19:37:45 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+19:37:46 HTTP Request: GET https://huggingface.co/api/models/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/xet-read-token/bf5b95e96dac0462e2a09145ec66cae9a3f12067 "HTTP/1.1 200 OK"
+19:45:13 llama-3.1-8b/multiple_choice: 15 ítems en 185.3 s (12.36 s/pregunta), válidos 15, exactitud 0.667
+19:49:40 llama-3.1-8b/semi_open: 30 ítems en 267.0 s (8.90 s/pregunta), válidos 30, exactitud None
+19:51:24 llama-3.1-8b/open_ended: 5 ítems en 104.3 s (20.86 s/pregunta), válidos 5, exactitud None
+19:51:24 Cargando salamandra-7b (BSC-LT/salamandra-7b-instruct-gguf, *Q8_0*.gguf, n_ctx=8192)
+19:51:24 HTTP Request: GET https://huggingface.co/api/models/BSC-LT/salamandra-7b-instruct-gguf "HTTP/1.1 401 Unauthorized"
+== 4/4 resultados
+fecha,modelo,contexto,formato,n,segundos,s_por_pregunta,proyeccion_992_horas,validos,abstenciones,exactitud_cerradas
+2026-10-01 19:23:48,qwen3-8b,contexto_oraculo,multiple_choice,15,170.1,11.34,3.12,15,4,0.533
+2026-10-01 19:28:21,qwen3-8b,contexto_oraculo,semi_open,30,273.0,9.1,2.51,30,7,
+2026-10-01 19:30:30,qwen3-8b,contexto_oraculo,open_ended,5,129.0,25.8,7.11,5,1,
+2026-10-01 19:45:13,llama-3.1-8b,contexto_oraculo,multiple_choice,15,185.3,12.36,3.4,15,4,0.667
+2026-10-01 19:49:40,llama-3.1-8b,contexto_oraculo,semi_open,30,267.0,8.9,2.45,30,7,
+2026-10-01 19:51:24,llama-3.1-8b,contexto_oraculo,open_ended,5,104.3,20.86,5.75,5,1,
+== fin: [generacion_bench] Terminó con errores (ver .err) · 2026-10-01 19:51:25
