@@ -29,7 +29,8 @@ cargar_gcc
 probar() {   # probar <nombre> <FLASH 0|1> <TORCH ninguno|antes|despues>
     local nombre="$1"
     echo "-- $nombre (flash=$2, torch=$3)"
-    FLASH="$2" TORCH="$3" PYTHONPATH=. .venv-gpu/bin/python - <<'PY'
+    # OLIVIA_LLAMA_VERBOSE=1: sin él, llama.cpp calla el MOTIVO del "CUDA error" que aborta el proceso
+    OLIVIA_LLAMA_VERBOSE=1 FLASH="$2" TORCH="$3" PYTHONPATH=. .venv-gpu/bin/python - <<'PY'
 import os, time
 import torch
 from src.generacion.motor import Motor

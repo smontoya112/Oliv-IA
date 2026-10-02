@@ -24,21 +24,23 @@ SEMILLA = 0
 
 class Motor:
     def __init__(self, modelo: str = "qwen3-8b", n_ctx: int = 8192, n_gpu_layers: int = -1,
-                 flash_attn: bool | None = None):
+                 flash_attn: bool | None = None, verbose: bool | None = None):
         from llama_cpp import Llama
         if flash_attn is None:        # OLIVIA_FLASH_ATTN=0 la apaga (diagnóstico)
             flash_attn = os.environ.get("OLIVIA_FLASH_ATTN", "1") != "0"
+        if verbose is None:           # OLIVIA_LLAMA_VERBOSE=1 muestra los mensajes de llama.cpp
+            verbose = os.environ.get("OLIVIA_LLAMA_VERBOSE", "0") == "1"
         self.nombre = modelo
         if modelo in MODELOS:
             repo, patron = MODELOS[modelo]
             log.info("Cargando %s (%s, %s, n_ctx=%d)", modelo, repo, patron, n_ctx)
             self.llm = Llama.from_pretrained(repo_id=repo, filename=patron, n_ctx=n_ctx,
                                              n_gpu_layers=n_gpu_layers, flash_attn=flash_attn,
-                                             seed=SEMILLA, verbose=False)
+                                             seed=SEMILLA, verbose=verbose)
         else:                                   # ruta a un .gguf local
             log.info("Cargando %s (n_ctx=%d)", modelo, n_ctx)
             self.llm = Llama(model_path=modelo, n_ctx=n_ctx, n_gpu_layers=n_gpu_layers,
-                             flash_attn=flash_attn, seed=SEMILLA, verbose=False)
+                             flash_attn=flash_attn, seed=SEMILLA, verbose=verbose)
 
     def contar(self, texto: str) -> int:
         """Tokens reales del decoder (para el presupuesto del contexto, paso 6.7)."""
