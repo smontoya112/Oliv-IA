@@ -2,3 +2,6 @@ fecha,modelo,contexto,formato,n,segundos,s_por_pregunta,proyeccion_992_horas,val
 2026-10-01 19:23:48,qwen3-8b,contexto_oraculo,multiple_choice,15,170.1,11.34,3.12,15,4,0.533
 2026-10-01 19:28:21,qwen3-8b,contexto_oraculo,semi_open,30,273.0,9.1,2.51,30,7,
 2026-10-01 19:30:30,qwen3-8b,contexto_oraculo,open_ended,5,129.0,25.8,7.11,5,1,
+2026-10-01 19:45:13,llama-3.1-8b,contexto_oraculo,multiple_choice,15,185.3,12.36,3.4,15,4,0.667
+2026-10-01 19:49:40,llama-3.1-8b,contexto_oraculo,semi_open,30,267.0,8.9,2.45,30,7,
+2026-10-01 19:51:24,llama-3.1-8b,contexto_oraculo,open_ended,5,104.3,20.86,5.75,5,1,
