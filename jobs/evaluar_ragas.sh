@@ -28,7 +28,7 @@ SUBMISSION="${1:?uso: sbatch jobs/evaluar_ragas.sh <submission.jsonl>}"
 NOMBRE="$(basename "$SUBMISSION" .jsonl)"
 SALIDA="data/processed/ragas_${NOMBRE}.json"
 
-paso "0/2 verificando entrega y llave"
+paso "0/3 verificando entrega y llave"
 [[ -s "$SUBMISSION" ]] || { echo "ERROR: no existe $SUBMISSION" >&2; ESTADO=2; }
 if [[ $ESTADO -eq 0 ]] && [[ -z "${OPENROUTER_API_KEY:-}" ]] \
     && ! grep -qs '^OPENROUTER_API_KEY=' .env scripts/.env 2>/dev/null; then
@@ -37,12 +37,28 @@ if [[ $ESTADO -eq 0 ]] && [[ -z "${OPENROUTER_API_KEY:-}" ]] \
 fi
 
 if [[ $ESTADO -eq 0 ]]; then
-    paso "1/2 dependencias del juez (ragas, langchain-openai, sentence-transformers...)"
+    paso "1/3 conectividad del nodo de computo a OpenRouter"
+    # Los nodos de computo de hypatia a veces solo permiten salida a ciertos dominios (ya
+    # confirmamos que huggingface.co si funciona); si openrouter.ai esta bloqueado, el
+    # cliente HTTP se queda colgado en vez de fallar rapido, y el job se cuelga 30 min sin
+    # imprimir nada (ver evaluar_ragas_751603). Se prueba primero con un timeout corto.
+    if curl -s -o /dev/null -w "HTTP %{http_code}\n" --max-time 15 https://openrouter.ai/api/v1/models; then
+        :
+    else
+        echo "ERROR: no hay conectividad a openrouter.ai desde $(hostname) (curl con timeout)." >&2
+        echo "  Puede que este nodo bloquee ese dominio; probar desde otro nodo o pedirle a" >&2
+        echo "  soporte de hypatia que lo habilite." >&2
+        ESTADO=4
+    fi
+fi
+
+if [[ $ESTADO -eq 0 ]]; then
+    paso "2/3 dependencias del juez (ragas, langchain-openai, sentence-transformers...)"
     correr uv pip install --quiet -r scripts/requirements-evaluador.txt
 fi
 
 if [[ $ESTADO -eq 0 ]]; then
-    paso "2/2 corriendo el juez sobre $SUBMISSION"
+    paso "3/3 corriendo el juez sobre $SUBMISSION"
     mkdir -p data/processed
     # --no-sync: `uv run` normalmente re-sincroniza el entorno con uv.lock antes de correr,
     # lo que deshace el tope langchain-community<0.4 que acabamos de instalar a mano (ragas
