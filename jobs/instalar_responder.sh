@@ -15,6 +15,8 @@
 #   - compila llama-cpp-python con CUDA 11.8 (arquitectura 75 = Turing) dentro de .venv-gpu,
 #   - instala fastapi y uvicorn (src/api.py),
 #   - prueba que torch y llama.cpp conviven en el mismo proceso y la misma GPU.
+# -DGGML_CUDA_NO_VMM=ON: sin él llama.cpp aborta con "CUDA error: out of memory" en
+#   cuMemAddressReserve (reserva de 32 GiB de direcciones virtuales) en estos nodos.
 # No toca .venv-gen (el de la fase 7 por lotes). Requiere .venv-gpu: primero
 # `sbatch jobs/instalar_torch_gpu.sh`. La prueba final baja el modelo de generación
 # (config/responder.json, ~9 GB) la primera vez, así que necesita internet o la caché de HF.
@@ -48,8 +50,8 @@ nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)"
-    echo "CMAKE_ARGS: -DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 $LIBS_FS"
-    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 $LIBS_FS" FORCE_CMAKE=1 \
+    echo "CMAKE_ARGS: -DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=ON $LIBS_FS"
+    CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=ON $LIBS_FS" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
         correr uv pip install --quiet --no-cache --reinstall-package llama-cpp-python \
             --python .venv-gpu/bin/python llama-cpp-python
