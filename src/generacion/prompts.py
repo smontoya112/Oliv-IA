@@ -17,9 +17,7 @@ artículo 391", "Sentencia C-355 de 2006".
 aunque la respuesta sea parcial. No escribas frases sobre la falta o suficiencia de \
 información ("no se encuentra en los pasajes", "no se especifica", etc.): elige y cita el \
 fragmento más cercano a lo preguntado sin inventar fuentes que no estén en los pasajes.
-4. Empieza la respuesta por el dato puntual que se pregunta (el número, el nombre, el sí/no) \
-y luego el fundamento; evita rodeos o contexto general que no se haya pedido.
-5. Responde únicamente con un objeto JSON válido con los campos pedidos, sin texto adicional."""
+4. Responde únicamente con un objeto JSON válido con los campos pedidos, sin texto adicional."""
 
 _FORMATOS = {
     "multiple_choice": """Pregunta de opción múltiple. Elige UNA opción (A, B, C o D).
