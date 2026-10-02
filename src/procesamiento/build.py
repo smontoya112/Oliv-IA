@@ -20,7 +20,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 from src.procesamiento import encabezado, sentencias, validar, vigencia
-from src.procesamiento.leer import Documento, leer
+from src.procesamiento.leer import Documento, leer, retirar_texto_obsoleto
 from src.procesamiento.normas import segmentar, ruta_jerarquia
 from src.procesamiento.partir import palabras, partir, vigente
 
@@ -183,11 +183,13 @@ def main() -> None:
         rutas = [r for r in rutas if r.stem in set(args.doc)]
     contar = _contador_tokens()
     todos_chunks, todos_arts, reporte = [], [], {"documentos": {}}
+    escritos: set[str] = set()
 
     for ruta in rutas:
         doc = leer(ruta)
         (args.salida / "texto").mkdir(parents=True, exist_ok=True)
         (args.salida / "texto" / f"{doc.doc_id}.txt").write_text(doc.texto, encoding="utf-8")
+        escritos.add(doc.doc_id)
         if doc.meta.get("tipo_norma") == "sentencia":
             chunks, arts, rep = procesar_sentencia(doc, contar)
         else:
@@ -201,6 +203,12 @@ def main() -> None:
         log.info("%-28s %5d artículos  %6d chunks  %3d forzados  %3d sin fin de oración",
                  doc.doc_id, len(arts), len(chunks), len(rep["forzados"]),
                  len(rep["alerta_sin_fin_de_oracion"]))
+
+    if not args.doc:                    # corrida completa: el directorio refleja SOLO los documentos actuales
+        retirados = retirar_texto_obsoleto(args.salida / "texto", escritos)
+        if retirados:
+            log.info("texto/: retirados %d .txt de documentos que ya no están en data/md (p. ej. %s)",
+                     len(retirados), ", ".join(retirados[:5]))
 
     todos_chunks.sort(key=lambda c: (c["doc_id"], c["posicion"]))
     reporte["total"] = validar.validar_chunks(todos_chunks)
