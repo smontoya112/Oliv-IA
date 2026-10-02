@@ -9,6 +9,9 @@ salida (que es lo que cuenta evaluate.citas_respaldadas):
   * cobertura_cuerpo@10 / cobertura_articulo@10: fracción de las citas del legal_basis que
     aparecen en el TEXTO de esos pasajes (evaluate.py puntúa por cuerpo normativo).
   * hit_doc@10: algún pasaje viene de un documento que nombra un cuerpo del legal_basis.
+  * normas_distintas@10: ids canónicos distintos entre esos pasajes (redundancia del top).
+  * cobertura_opciones@8 (solo cerradas): fracción de opciones con algún pasaje de evidencia
+    (via "opcion") entre los 8 primeros, que son los que entran al prompt.
 legal_basis se usa SOLO aquí, para evaluar: nunca dentro de la recuperación.
 """
 from __future__ import annotations
@@ -25,6 +28,8 @@ import numpy as np
 import citations
 from src.indice.build import CONFIG, leer_chunks
 from src.indice.evaluar import CITAS, leer_muestras
+
+from .contexto import MAX_PASAJES
 
 log = logging.getLogger("recuperacion")
 
@@ -46,6 +51,14 @@ def _contexto_corpus(indice: Path):
     for d, cs in zip(chunks["doc_id"], cit_cab):
         cuerpos_doc[d] |= citations.bodies(cs)
     return cuerpos_corpus, cuerpos_doc
+
+
+def _cobertura_opciones(item: dict, pasajes: list[dict]) -> float | None:
+    opciones = item.get("opciones") or {}
+    if item.get("formato") != "multiple_choice" or not opciones:
+        return None
+    cubiertas = {p.get("opcion") for p in pasajes if p.get("via") == "opcion"}
+    return len(cubiertas & set(opciones)) / len(opciones)
 
 
 def evaluar_corrida(ruta: Path, items: dict[int, dict], cuerpos_corpus: set,
@@ -71,6 +84,8 @@ def evaluar_corrida(ruta: Path, items: dict[int, dict], cuerpos_corpus: set,
             "cuerpo@10": len(ref_cuerpos & citations.bodies(respaldo)) / len(ref_cuerpos),
             "articulo@10": (len(ref_art & respaldo) / len(ref_art)) if ref_art else None,
             "hit_doc@10": float(any(p["doc_id"] in docs_rel for p in top)),
+            "normas_distintas@10": len({p.get("norma_id") or p["doc_id"] for p in top}),
+            "opciones@8": _cobertura_opciones(it, top[:MAX_PASAJES]),
             "latencia_ms": r.get("latencia_ms"),
         })
 
@@ -78,6 +93,8 @@ def evaluar_corrida(ruta: Path, items: dict[int, dict], cuerpos_corpus: set,
         return {"n": len(sel), "cobertura_cuerpo@10": _media([f["cuerpo@10"] for f in sel]),
                 "cobertura_articulo@10": _media([f["articulo@10"] for f in sel]),
                 "hit_doc@10": _media([f["hit_doc@10"] for f in sel]),
+                "normas_distintas@10": _media([f["normas_distintas@10"] for f in sel]),
+                "cobertura_opciones@8": _media([f["opciones@8"] for f in sel]),
                 "s_por_item": _media([f["latencia_ms"] / 1000 for f in sel
                                       if f["latencia_ms"] is not None])}
 
@@ -108,9 +125,11 @@ def main() -> None:
         res = evaluar_corrida(ruta, items, cuerpos_corpus, cuerpos_doc)
         resultados[ruta.stem] = res
         t = res["todos"]
-        log.info("RESULTADO %-22s n=%s cuerpo@10 %s  articulo@10 %s  hit_doc@10 %s  s/ítem %s",
+        log.info("RESULTADO %-22s n=%s cuerpo@10 %s  articulo@10 %s  hit_doc@10 %s  "
+                 "normas@10 %s  opciones@8 %s  s/ítem %s",
                  ruta.stem, t["n"], t["cobertura_cuerpo@10"], t["cobertura_articulo@10"],
-                 t["hit_doc@10"], t["s_por_item"])
+                 t["hit_doc@10"], t["normas_distintas@10"], t["cobertura_opciones@8"],
+                 t["s_por_item"])
     base = args.indice / "eval_recuperacion.json"
     if base.exists():
         b = json.loads(base.read_text(encoding="utf-8"))["resultados"]
