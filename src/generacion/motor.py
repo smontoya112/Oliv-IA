@@ -8,6 +8,7 @@ postproceso, pruebas) funciona sin GPU ni la librería instalada.
 from __future__ import annotations
 
 import logging
+import os
 
 log = logging.getLogger("generacion")
 
@@ -22,19 +23,22 @@ SEMILLA = 0
 
 
 class Motor:
-    def __init__(self, modelo: str = "qwen3-8b", n_ctx: int = 8192, n_gpu_layers: int = -1):
+    def __init__(self, modelo: str = "qwen3-8b", n_ctx: int = 8192, n_gpu_layers: int = -1,
+                 flash_attn: bool | None = None):
         from llama_cpp import Llama
+        if flash_attn is None:        # OLIVIA_FLASH_ATTN=0 la apaga (diagnóstico)
+            flash_attn = os.environ.get("OLIVIA_FLASH_ATTN", "1") != "0"
         self.nombre = modelo
         if modelo in MODELOS:
             repo, patron = MODELOS[modelo]
             log.info("Cargando %s (%s, %s, n_ctx=%d)", modelo, repo, patron, n_ctx)
             self.llm = Llama.from_pretrained(repo_id=repo, filename=patron, n_ctx=n_ctx,
-                                             n_gpu_layers=n_gpu_layers, flash_attn=True,
+                                             n_gpu_layers=n_gpu_layers, flash_attn=flash_attn,
                                              seed=SEMILLA, verbose=False)
         else:                                   # ruta a un .gguf local
             log.info("Cargando %s (n_ctx=%d)", modelo, n_ctx)
             self.llm = Llama(model_path=modelo, n_ctx=n_ctx, n_gpu_layers=n_gpu_layers,
-                             flash_attn=True, seed=SEMILLA, verbose=False)
+                             flash_attn=flash_attn, seed=SEMILLA, verbose=False)
 
     def contar(self, texto: str) -> int:
         """Tokens reales del decoder (para el presupuesto del contexto, paso 6.7)."""
