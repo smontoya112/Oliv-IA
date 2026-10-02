@@ -22,13 +22,13 @@
 #   6. tabla comparativa -> data/processed/verificacion/comparacion.csv (líneas RESULTADO)
 #
 #     mkdir -p logs                                              # una sola vez
-#     sbatch jobs/verificar.sh                                   # los 3 modelos
-#     sbatch jobs/verificar.sh qwen3-8b                          # uno o varios
-#     UMBRALES="-2 0 2" RAGAS=1 sbatch jobs/verificar.sh llama-3.1-8b
+#     sbatch jobs/verificar.sh                                   # qwen3-8b (modelo elegido)
+#     sbatch jobs/verificar.sh qwen3-8b llama-3.1-8b             # uno o varios
+#     UMBRALES="-2 0 2" RAGAS=1 sbatch jobs/verificar.sh qwen3-8b
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 
-MODELOS=("$@"); [[ ${#MODELOS[@]} -eq 0 ]] && MODELOS=(llama-3.1-8b qwen3-8b salamandra-7b)
+MODELOS=("$@"); [[ ${#MODELOS[@]} -eq 0 ]] && MODELOS=(qwen3-8b)
 UMBRALES="${UMBRALES:-}"
 RAGAS="${RAGAS:-0}"
 RECUPERACION="data/recuperacion/sample_50.jsonl"
@@ -72,15 +72,22 @@ fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/6 fase 8 con catálogo y 3/6 evaluación antes/después"
     for m in "${MODELOS[@]}"; do
-        echo "-- $m"
-        correr uvv -m src.verificacion.aplicar --generacion "data/processed/bench_generacion/$m.jsonl" \
-            --recuperacion "$RECUPERACION" --catalogo data/index --salida "$DIR/$m.jsonl"
-        ENTREGAS+=("${m}_antes|data/processed/bench_generacion/$m.jsonl" "${m}_despues|$DIR/$m.jsonl")
+        GEN="data/processed/bench_generacion/$m.jsonl"
+        APLICAR=(uvv -m src.verificacion.aplicar --generacion "$GEN" --recuperacion "$RECUPERACION")
+        # "antes" sale de `salida_modelo` (campos del decoder sin fase 8). Las predicciones
+        # anteriores a ese campo ya traen la fase 8 sin catálogo: ahí "antes" no es la base pura.
+        grep -q '"salida_modelo"' "$GEN" || echo "AVISO: $GEN no trae salida_modelo; regenerar con jobs/generacion_bench.sh para una línea base real" >&2
+        echo "-- $m: antes (sin fase 8)"
+        correr "${APLICAR[@]}" --sin-verificar --salida "$DIR/${m}_antes.jsonl"
+        echo "-- $m: después, sin normas de la evidencia (k=0)"
+        correr "${APLICAR[@]}" --catalogo data/index --k-evidencia 0 --salida "$DIR/${m}_k0.jsonl"
+        echo "-- $m: después (catálogo + normas de los 3 primeros pasajes)"
+        correr "${APLICAR[@]}" --catalogo data/index --salida "$DIR/$m.jsonl"
+        ENTREGAS+=("${m}_antes|$DIR/${m}_antes.jsonl" "${m}_despues_k0|$DIR/${m}_k0.jsonl"
+                   "${m}_despues|$DIR/$m.jsonl")
         for u in $UMBRALES; do
             echo "-- $m, umbral $u"
-            correr uvv -m src.verificacion.aplicar --generacion "data/processed/bench_generacion/$m.jsonl" \
-                --recuperacion "$RECUPERACION" --catalogo data/index --umbral "$u" \
-                --salida "$DIR/${m}_u${u}.jsonl"
+            correr "${APLICAR[@]}" --catalogo data/index --umbral "$u" --salida "$DIR/${m}_u${u}.jsonl"
             ENTREGAS+=("${m}_u${u}|$DIR/${m}_u${u}.jsonl")
         done
     done

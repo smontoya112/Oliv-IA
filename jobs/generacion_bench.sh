@@ -59,8 +59,10 @@ fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "3/4 benchmark: ${MODELOS[*]}"
     nvidia-smi --query-gpu=name,memory.total --format=csv,noheader
+    # con pasajes reales, la fase 8 respalda las citas con el corpus (data/index) en vez de borrarlas
+    EXTRA=(); [[ "$CONTEXTO" == "recuperacion" && -s data/index/index_config.json ]] && EXTRA=(--catalogo data/index)
     PYTHONPATH=. correr .venv-gen/bin/python -m src.generacion.bench \
-        --modelo "${MODELOS[@]}" --contexto "$CTX_JSON"
+        --modelo "${MODELOS[@]}" --contexto "$CTX_JSON" "${EXTRA[@]}"
     paso "4/4 resultados"
     cat data/processed/bench_generacion.csv
 fi

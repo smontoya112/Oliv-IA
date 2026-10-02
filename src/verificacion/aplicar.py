@@ -20,7 +20,7 @@ from pathlib import Path
 
 from src.generacion.postproceso import ensamblar
 
-from .citas import CAMPOS_CITABLES
+from .citas import CAMPOS_CITABLES, K_EVIDENCIA
 from .esquema import validar
 
 _CAMPOS = {"multiple_choice": ("respuesta_correcta", "justificacion", "descarte_opciones"),
@@ -33,20 +33,26 @@ def _jsonl(ruta: Path) -> list[dict]:
 
 
 def salida_de(linea: dict | None) -> dict | None:
-    """Campos del decoder de una línea ya ensamblada (None si se abstuvo o no existe)."""
-    if not linea or linea.get("abstencion"):
+    """Campos del decoder de una línea ya ensamblada: `salida_modelo` (antes de la fase 8) si
+    la línea la trae; si no (predicciones viejas), los campos finales. None si no hay salida."""
+    if not linea:
+        return None
+    if "salida_modelo" in linea:
+        return linea["salida_modelo"]
+    if linea.get("abstencion"):
         return None
     return {k: linea.get(k) for k in _CAMPOS[linea["formato"]]}
 
 
 def aplicar(items: list[dict], generadas: dict[int, dict], recuperadas: dict[int, dict],
-            catalogo=None, umbral: float | None = None) -> list[dict]:
+            catalogo=None, umbral: float | None = None, k_evidencia: int = K_EVIDENCIA,
+            fase8: bool = True) -> list[dict]:
     res = []
     for it in items:
         g, r = generadas.get(it["id"]), recuperadas.get(it["id"]) or {}
         pasajes = r.get("pasajes") or (g or {}).get("pasajes_recuperados") or []
         res.append(ensamblar(it, salida_de(g), pasajes, (g or {}).get("latencia_ms"),
-                             r.get("senales"), catalogo, umbral))
+                             r.get("senales"), catalogo, umbral, k_evidencia, fase8))
     return res
 
 
@@ -58,6 +64,7 @@ def resumen(lineas: list[dict], problemas: list[str]) -> dict:
         "citas_insertadas": sum(len(x.get("insertadas", [])) for x in v),
         "oraciones_eliminadas": sum(len(x.get("eliminadas", [])) for x in v),
         "campos_rellenados": sum(len(x.get("rellenados", [])) for x in v),
+        "normas_agregadas": sum(len(x.get("agregadas", [])) for x in v),
         "items_con_cita_sin_respaldo": sum(1 for x in v if x.get("sin_respaldo")),
         "items_sin_cita_respaldada": sum(1 for x in v if "respaldadas" in x and not x["respaldadas"]),
         "errores_validacion": len(problemas),
@@ -75,6 +82,10 @@ def main() -> None:
                     help="directorio del índice (data/index) para respaldar citas con el corpus")
     ap.add_argument("--umbral", type=float, default=None,
                     help="score_top1 bajo el cual se abstiene una respuesta libre sin citas respaldadas")
+    ap.add_argument("--k-evidencia", type=int, default=K_EVIDENCIA,
+                    help="normas de los k primeros pasajes que se agregan a la respuesta (0 = ninguna)")
+    ap.add_argument("--sin-verificar", action="store_true",
+                    help="línea base: solo normaliza y ensambla, sin la fase 8")
     args = ap.parse_args()
 
     items = _jsonl(args.preguntas)
@@ -84,7 +95,8 @@ def main() -> None:
     if args.catalogo:
         from src.recuperacion.catalogo import cargar
         catalogo = cargar(args.catalogo)
-    lineas = aplicar(items, generadas, recuperadas, catalogo, args.umbral)
+    lineas = aplicar(items, generadas, recuperadas, catalogo, args.umbral, args.k_evidencia,
+                     not args.sin_verificar)
     problemas = validar(lineas, {it["id"] for it in items})
     args.salida.parent.mkdir(parents=True, exist_ok=True)
     with args.salida.open("w", encoding="utf-8") as f:

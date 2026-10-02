@@ -1,0 +1,51 @@
+id,formato,area,complejidad,sub_tarea,n_ref,en_corpus,cuerpo@10,articulo@10,hit_cuerpo_top10,abstencion,cita_acierta,n_citadas,citas_incorrectas,cerrada_acierta,formato_ok,etapa_falla
+51,multiple_choice,Derecho constitucional,,,2,True,1.0,0.667,True,False,True,1,0,False,True,cerrada_incorrecta
+58,multiple_choice,"Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",,,2,True,1.0,,True,False,True,1,0,True,True,ok
+60,multiple_choice,Derecho procesal,,,2,True,0.5,0.0,True,False,True,2,1,True,True,ok
+128,multiple_choice,Derecho comercial y sociedades,,,1,True,0.0,,False,False,False,1,1,False,True,no_en_top10
+290,multiple_choice,Derecho administrativo,,,1,True,1.0,1.0,True,False,True,1,0,True,True,ok
+308,multiple_choice,Derecho administrativo,,,0,False,,,False,False,False,0,0,True,True,sin_citas_ref
+352,multiple_choice,Derecho constitucional,,,1,True,1.0,1.0,True,False,True,1,0,True,True,ok
+358,multiple_choice,Derecho civil,,,1,True,1.0,0.0,True,False,True,2,1,True,True,ok
+487,multiple_choice,Derecho de familia,,,1,True,1.0,,True,False,True,3,2,True,True,ok
+528,multiple_choice,Derecho procesal,,,1,True,1.0,1.0,True,False,True,1,0,False,True,cerrada_incorrecta
+600,multiple_choice,Derecho penal,,,1,True,1.0,1.0,True,False,True,1,0,True,True,ok
+617,multiple_choice,Derecho laboral,,,1,True,1.0,,True,False,True,2,1,True,True,ok
+647,multiple_choice,Derecho de familia,,,1,True,1.0,,True,False,True,2,1,False,True,cerrada_incorrecta
+671,multiple_choice,Derecho tributario,,,0,False,,,False,False,False,0,0,False,True,sin_citas_ref
+748,multiple_choice,Derecho administrativo,,,1,True,1.0,,True,False,True,2,1,True,True,ok
+247,open_ended,Derecho administrativo,,,1,True,0.0,,False,False,False,5,5,,True,no_en_top10
+253,open_ended,Derecho laboral,,,3,True,1.0,0.0,True,False,True,5,2,,True,ok
+272,open_ended,Derecho comercial y sociedades,,,1,True,1.0,,True,False,True,3,2,,True,ok
+513,open_ended,"Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",,,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+679,open_ended,Derecho constitucional,,,1,True,1.0,,True,False,True,7,6,,True,ok
+24,semi_open,Derecho civil,low,Elemento esencial,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+79,semi_open,Derecho laboral,low,Existencia normativa,1,True,1.0,,True,False,True,2,1,,True,ok
+140,semi_open,Derecho comercial y sociedades,medium,Precedente jurisprudencial,1,True,1.0,,True,False,True,2,1,,True,ok
+142,semi_open,Derecho tributario,medium,Precedente jurisprudencial,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+168,semi_open,Derecho civil,medium,Requisitos legales,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+190,semi_open,Derecho constitucional,high,Antecedentes fácticos,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+218,semi_open,Derecho administrativo,high,Conflicto normativo,1,True,1.0,0.5,True,False,True,2,1,,True,ok
+239,semi_open,Derecho comercial y sociedades,high,Fundamento jurídico central (ratio decidendi),1,True,1.0,0.5,True,False,True,1,0,,True,ok
+280,semi_open,Derecho penal,low,Existencia normativa,1,True,1.0,1.0,True,False,True,3,2,,True,ok
+442,semi_open,Derecho laboral,medium,Reproducción literal,1,True,1.0,,True,False,True,1,0,,True,ok
+453,semi_open,Derecho constitucional,medium,Precedente jurisprudencial,3,True,1.0,,True,False,True,4,2,,True,ok
+472,semi_open,"Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",medium,Requisitos legales,1,True,1.0,,True,False,True,1,0,,True,ok
+490,semi_open,Derecho de familia,low,Definición básica,1,True,1.0,,True,False,False,1,1,,True,recuperado_no_citado
+563,semi_open,Derecho administrativo,low,Jerarquía legal,1,True,1.0,,True,False,True,2,1,,True,ok
+589,semi_open,Derecho procesal,low,Definición básica,1,True,1.0,1.0,True,False,True,2,1,,True,ok
+661,semi_open,Derecho tributario,low,Definición básica,1,True,1.0,0.5,True,False,True,3,2,,True,ok
+674,semi_open,"Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",high,Problema jurídico,1,True,1.0,0.0,True,False,True,1,0,,True,ok
+697,semi_open,Derecho comercial y sociedades,low,Definición básica,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+857,semi_open,Derecho administrativo,medium,Distinción conceptual,0,False,,,False,False,False,0,0,,True,sin_citas_ref
+865,semi_open,Derecho de familia,medium,Reproducción literal,1,True,1.0,1.0,True,False,True,3,2,,True,ok
+879,semi_open,Derecho procesal,medium,Requisitos legales,1,True,1.0,,True,False,True,1,0,,True,ok
+919,semi_open,Derecho civil,high,Problema jurídico,1,True,1.0,,True,False,True,1,0,,True,ok
+946,semi_open,Derecho de familia,high,Problema jurídico,1,True,1.0,,True,False,True,1,0,,True,ok
+960,semi_open,"Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",low,Definición básica,1,True,1.0,1.0,True,False,True,2,1,,True,ok
+991,semi_open,Derecho tributario,high,Fundamento jurídico central (ratio decidendi),1,True,1.0,,True,False,True,3,2,,True,ok
+1005,semi_open,Derecho constitucional,low,Definición básica,1,True,1.0,,True,False,True,2,1,,True,ok
+1015,semi_open,Derecho penal,medium,Requisitos legales,1,True,1.0,,True,False,True,1,0,,True,ok
+1065,semi_open,Derecho penal,high,Problema jurídico,1,True,1.0,0.0,True,False,True,1,0,,True,ok
+1073,semi_open,Derecho laboral,high,Problema jurídico,2,True,1.0,0.2,True,False,True,4,3,,True,ok
+1089,semi_open,Derecho procesal,high,Problema jurídico,1,True,1.0,1.0,True,False,True,2,1,,True,ok

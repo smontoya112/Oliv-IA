@@ -49,14 +49,17 @@ class Motor:
         return len(self.llm.tokenize(texto.encode("utf-8"), add_bos=False))
 
     def generar_lote(self, conversaciones: list[list[dict]], esquemas: list[dict],
-                     max_tokens: int = 900) -> list[str]:
+                     max_tokens: int = 900, repeat_penalty: float | None = None) -> list[str]:
         """Una conversación y un esquema por ítem; devuelve el texto crudo de cada salida, en
         el mismo orden. llama.cpp atiende un ítem a la vez: los tiempos medidos son los reales.
-        La gramática obliga a empezar en '{', así que Qwen3 no abre su bloque de pensamiento."""
+        La gramática obliga a empezar en '{', así que Qwen3 no abre su bloque de pensamiento.
+        `repeat_penalty` > 1 rompe los bucles de repetición de la decodificación voraz (solo
+        se usa al reintentar una salida inválida; None deja el valor por defecto de la librería)."""
+        extra = {} if repeat_penalty is None else {"repeat_penalty": repeat_penalty}
         salidas = []
         for mensajes, esquema in zip(conversaciones, esquemas):
             r = self.llm.create_chat_completion(
                 messages=mensajes, response_format={"type": "json_object", "schema": esquema},
-                temperature=0.0, seed=SEMILLA, max_tokens=max_tokens)
+                temperature=0.0, seed=SEMILLA, max_tokens=max_tokens, **extra)
             salidas.append(r["choices"][0]["message"]["content"] or "")
         return salidas
