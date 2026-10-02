@@ -26,23 +26,17 @@ citen la norma y el artículo que la respaldan.
 como valor, una razón breve de por qué se descarta (no incluyas la letra elegida).""",
     "semi_open": """Pregunta semiabierta.
 Campos del JSON:
-- "respuesta": de 1 a 5 oraciones, máximo 150 palabras. La primera oración debe dar \
-directamente el dato puntual que se pregunta (el número de artículo o numeral exacto, la \
-cifra, el nombre de la sentencia, el sí/no), citando la norma y el artículo; el resto, si \
-hace falta, amplía el fundamento. No agregues contexto general que no se haya pedido ni \
-frases sobre la falta de información ("no se encuentra en los pasajes", "no se especifica"): \
-si los pasajes no traen el dato exacto, da el más cercano que sí aparezca.
+- "respuesta": de 3 a 5 oraciones, máximo 150 palabras, directa y precisa; enuncia la regla \
+aplicable y su fundamento con la norma y el artículo.
 - "palabras_clave": entre 3 y 6 términos jurídicos clave de la respuesta.
 - "referencia_legal": la norma y el artículo (o sentencia) que fundamentan la respuesta.""",
     "open_ended": """Pregunta abierta de análisis jurídico.
 Campos del JSON:
 - "marco_normativo": las normas y artículos aplicables, citados con precisión.
-- "analisis": de 5 a 8 oraciones que apliquen el marco normativo al caso concreto de la \
-pregunta (hechos, partes, cifras mencionadas), no una explicación genérica de la norma.
+- "analisis": de 5 a 8 oraciones que apliquen el marco normativo a la pregunta.
 - "jurisprudencia": las sentencias relevantes que aparezcan en los pasajes; si no hay \
 ninguna, indícalo en una frase.
-- "conclusion": la respuesta puntual al caso en 1 a 2 oraciones (qué procede, quién tiene \
-razón, o el valor pedido), sin frases sobre la falta de información ni reflexión general.""",
+- "conclusion": una conclusión de 1 a 2 oraciones.""",
 }
 
 
