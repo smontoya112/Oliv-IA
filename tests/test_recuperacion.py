@@ -157,6 +157,33 @@ def test_seleccion_es_determinista_con_empates():
     cand = {i: {"via": "hibrido", "opcion": None, "fusion": 0.1, "q": "q"} for i in (7, 3, 5)}
     puntaje = {7: 1.0, 3: 1.0, 5: 1.0}
     assert seleccion.elegir(cand, puntaje, cfg) == seleccion.elegir(dict(reversed(cand.items())), puntaje, cfg) == [3, 5]
+    cat = juguete()                                              # con tope por norma también
+    assert seleccion.elegir(cand, puntaje, cfg, cat) == seleccion.elegir(dict(reversed(cand.items())), puntaje, cfg, cat)
+
+
+def test_elegir_reserva_una_por_opcion_dentro_del_prompt():
+    cand = {i: {"via": "hibrido", "opcion": None, "fusion": 0.1, "q": "q"} for i in range(12)}
+    puntaje = {i: 20.0 - i for i in range(12)}
+    for i, letra, s in ((20, "A", -1.0), (21, "A", -2.0), (22, "B", -3.0)):
+        cand[i] = {"via": "opcion", "opcion": letra, "fusion": 0.0, "q": f"q{letra}"}
+        puntaje[i] = s
+    final = seleccion.elegir(cand, puntaje, Config(top_final=10, n_directos=0))
+    assert len(final) == 10 and 21 not in final                  # una sola por letra
+    assert {20, 22} <= set(final[: contexto.MAX_PASAJES])        # y ambas entran al prompt
+    assert final[: contexto.MAX_PASAJES - 2] == [0, 1, 2, 3, 4, 5]   # el resto conserva el orden
+    sin = seleccion.elegir(cand, puntaje, Config(top_final=10, n_directos=0, garantizar_opciones=False))
+    assert sin == list(range(10))
+
+
+def test_elegir_tope_por_norma_y_relleno():
+    cat = juguete()                                  # c0/c1: mismo artículo; c2/c9: mismo artículo
+    cand = {i: {"via": "hibrido", "opcion": None, "fusion": 0.1, "q": "q"} for i in (0, 1, 2, 3, 9)}
+    puntaje = {0: 5.0, 1: 4.0, 2: 3.0, 9: 2.5, 3: 2.0}
+    assert seleccion.elegir(cand, puntaje, Config(top_final=3, max_por_norma=1), cat) == [0, 2, 3]
+    assert seleccion.elegir(cand, puntaje, Config(top_final=3, max_por_norma=0), cat) == [0, 1, 2]
+    assert seleccion.elegir(cand, puntaje, Config(top_final=3, max_por_norma=1)) == [0, 1, 2]  # sin cat
+    # faltan candidatos distintos: se rellena con los repetidos antes que devolver menos
+    assert seleccion.elegir(cand, puntaje, Config(top_final=5, max_por_norma=1), cat) == [0, 1, 2, 9, 3]
 
 
 # ------------------------------------------------------------------ fusión (refactor)
