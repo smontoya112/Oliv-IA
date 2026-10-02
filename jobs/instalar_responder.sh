@@ -33,6 +33,7 @@ if [[ ! -x .venv-gpu/bin/python ]]; then
 fi
 cargar_cuda
 cargar_gcc
+echo "commit: $(git log -1 --oneline 2>/dev/null || echo desconocido)"
 echo "CUDA_HOME: $CUDA_HOME"
 echo "nvcc: $(nvcc --version 2>/dev/null | tail -1)"
 echo "gcc:  $(gcc --version 2>/dev/null | head -1)   (CUDA 11.8 admite gcc de la 9 a la 11 para este caso)"
@@ -40,13 +41,14 @@ GCC_MAYOR="$(gcc -dumpversion | cut -d. -f1)"
 LIBS_FS=""
 if [[ "$GCC_MAYOR" -lt 9 ]]; then
     # gcc < 9: std::filesystem vive en libstdc++fs; sin enlazarla, libggml.so no carga
-    LIBS_FS="-DCMAKE_SHARED_LINKER_FLAGS=-lstdc++fs -DCMAKE_EXE_LINKER_FLAGS=-lstdc++fs"
+    LIBS_FS="-DCMAKE_CXX_STANDARD_LIBRARIES=-lstdc++fs"        # va AL FINAL del enlace (librería estática)
     echo "AVISO: gcc $GCC_MAYOR < 9: se enlaza libstdc++fs (si la compilación falla, usen GCC_MODULE=<gcc 9-11>)"
 fi
 nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)"
+    echo "CMAKE_ARGS: -DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 $LIBS_FS"
     CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 $LIBS_FS" FORCE_CMAKE=1 \
     CMAKE_BUILD_PARALLEL_LEVEL=4 \
         correr uv pip install --quiet --no-cache --reinstall-package llama-cpp-python \
@@ -62,6 +64,10 @@ if [[ $ESTADO -eq 0 ]]; then
     LIBLLAMA="$(find .venv-gpu -name 'libllama.so*' | head -1)"
     echo "libllama: ${LIBLLAMA:-NO ENCONTRADA}"
     [[ -n "$LIBLLAMA" ]] && { ldd "$LIBLLAMA" | grep -i "cud\|cublas\|not found" || true; }
+    for L in $(find .venv-gpu -path '*llama_cpp/lib/*' -name 'libggml*.so*' -type f); do
+        echo "símbolos de std::filesystem sin resolver en $(basename "$L"):"
+        nm -D --undefined-only "$L" | grep -i "filesystem" | sed 's/^/    /' || echo "    (ninguno)"
+    done
     correr .venv-gpu/bin/python -c "
 import torch, llama_cpp
 print('torch', torch.__version__, '| GPU visible:', torch.cuda.is_available())
