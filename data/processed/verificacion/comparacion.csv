@@ -1,0 +1,3 @@
+entrega,cerradas_acc,citas_indice,tasa_sin_respaldo,abstencion_calib,ragas,total_sin_ragas
+qwen3-8b_antes,0.667,0.7959,0.0,0.8256,0.4574,37.51
+qwen3-8b_despues,0.667,0.7959,0.0,0.8256,,37.51

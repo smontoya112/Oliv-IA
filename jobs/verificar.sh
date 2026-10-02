@@ -22,13 +22,13 @@
 #   6. tabla comparativa -> data/processed/verificacion/comparacion.csv (líneas RESULTADO)
 #
 #     mkdir -p logs                                              # una sola vez
-#     sbatch jobs/verificar.sh                                   # los 3 modelos
-#     sbatch jobs/verificar.sh qwen3-8b                          # uno o varios
-#     UMBRALES="-2 0 2" RAGAS=1 sbatch jobs/verificar.sh llama-3.1-8b
+#     sbatch jobs/verificar.sh                                   # qwen3-8b (modelo elegido)
+#     sbatch jobs/verificar.sh qwen3-8b llama-3.1-8b             # uno o varios
+#     UMBRALES="-2 0 2" RAGAS=1 sbatch jobs/verificar.sh qwen3-8b
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 
-MODELOS=("$@"); [[ ${#MODELOS[@]} -eq 0 ]] && MODELOS=(llama-3.1-8b qwen3-8b salamandra-7b)
+MODELOS=("$@"); [[ ${#MODELOS[@]} -eq 0 ]] && MODELOS=(qwen3-8b)
 UMBRALES="${UMBRALES:-}"
 RAGAS="${RAGAS:-0}"
 RECUPERACION="data/recuperacion/sample_50.jsonl"

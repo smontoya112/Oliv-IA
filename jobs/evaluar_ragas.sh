@@ -18,7 +18,7 @@
 # Requiere OPENROUTER_API_KEY en .env (raiz del repo o scripts/.env) o en el entorno.
 #
 #     mkdir -p logs                                             # una sola vez
-#     sbatch jobs/evaluar_ragas.sh data/processed/bench_generacion/llama-3.1-8b.jsonl
+#     sbatch jobs/evaluar_ragas.sh data/processed/bench_generacion/qwen3-8b.jsonl
 #
 # Salidas: data/processed/ragas_<nombre_submission>.json (reporte completo) y los logs del job.
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
