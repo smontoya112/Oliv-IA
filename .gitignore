@@ -225,3 +225,5 @@ data/index/bm25/
 data/index/citas_chunks.parquet
 data/index/chunk_ids.json
 data/index_prueba/
+# copias de documentos quitadas por src.descarga.deduplicar (reversible, no se versiona)
+data/descartados/

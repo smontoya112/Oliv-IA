@@ -23,12 +23,8 @@ import csv
 import json
 from pathlib import Path
 
-from .fuentes import base_senado
+from .claves import clave_url, claves_registro, prefiere
 from .metadatos import leer_enlaces
-
-
-def _clave(url: str) -> str:
-    return base_senado(url).lower()
 
 
 def seleccionar(ruta_csv: Path, minimo: int) -> list[tuple[str, int]]:
@@ -37,24 +33,31 @@ def seleccionar(ruta_csv: Path, minimo: int) -> list[tuple[str, int]]:
     return sorted(((u, n) for u, n in filas if u and n > minimo), key=lambda x: -x[1])
 
 
-def urls_en_manifest(ruta: Path) -> set[str]:
-    """Todo lo que ya se intentó (cualquier estado) según el manifest."""
+def claves_en_manifest(ruta: Path) -> set[str]:
+    """Normas que ya se intentaron (cualquier estado) según el manifest, sea cual sea la URL con
+    que se bajaron."""
     if not ruta.exists():
         return set()
-    intentadas = set()
+    claves: set[str] = set()
     for r in json.loads(ruta.read_text(encoding="utf-8")):
-        for u in [r.get("url"), *(r.get("urls_partes") or [])]:
-            if u:
-                intentadas.add(_clave(u))
-    return intentadas
+        claves |= claves_registro(r)
+    return claves
 
 
 def nueva_ronda(descubiertos: Path, manifest: Path, acumulado: Path, dir_rondas: Path, ronda: int,
                 minimo: int, maximo: int | None) -> tuple[Path, list[tuple[str, int]], int]:
     """Escribe ronda_NN.txt y agrega sus links al acumulado. Devuelve (archivo, links, n_ya_intentados)."""
-    intentadas = urls_en_manifest(manifest)
+    intentadas = claves_en_manifest(manifest)
     candidatos = seleccionar(descubiertos, minimo)
-    nuevos = [(u, n) for u, n in candidatos if _clave(u) not in intentadas]
+    nuevos, vistas = [], set()
+    # La misma norma puede estar listada con varias URLs (Senado, DIAN...): se queda una, la del Senado primero.
+    for u, n in sorted(candidatos, key=lambda x: (prefiere(x[0])[0], -x[1])):
+        k = clave_url(u)
+        if k in intentadas or k in vistas:
+            continue
+        vistas.add(k)
+        nuevos.append((u, n))
+    nuevos.sort(key=lambda x: -x[1])
     ya = len(candidatos) - len(nuevos)
     if maximo:
         nuevos = nuevos[:maximo]
@@ -67,8 +70,8 @@ def nueva_ronda(descubiertos: Path, manifest: Path, acumulado: Path, dir_rondas:
 
     previos = set()
     if acumulado.exists():
-        previos = {_clave(u) for u in leer_enlaces(acumulado)}
-    agregar = [f"{u}  # ronda {ronda}, enlazada {n} veces" for u, n in nuevos if _clave(u) not in previos]
+        previos = {clave_url(u) for u in leer_enlaces(acumulado)}
+    agregar = [f"{u}  # ronda {ronda}, enlazada {n} veces" for u, n in nuevos if clave_url(u) not in previos]
     if agregar:
         acumulado.parent.mkdir(parents=True, exist_ok=True)
         with acumulado.open("a", encoding="utf-8") as f:
@@ -100,7 +103,7 @@ def main() -> None:
         archivo, nuevos, ya = nueva_ronda(args.descubiertos, args.manifest, args.salida,
                                           args.dir_rondas, args.ronda, args.minimo, args.maximo or None)
         print(f"ronda {args.ronda}: {len(nuevos)} links nuevos con veces_enlazada > {args.minimo} "
-              f"({ya} ya intentados se omiten) -> {archivo}")
+              f"({ya} ya intentados o repetidos se omiten) -> {archivo}")
         return
 
     elegidos = seleccionar(args.descubiertos, args.minimo)
