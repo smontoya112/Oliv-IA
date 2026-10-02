@@ -1,0 +1,1 @@
+ERROR: falta OPENROUTER_API_KEY (variable de entorno o .env / scripts/.env)

@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/_ctypes_extensions.py", line 102, in load_shared_library
+    return ctypes.CDLL(str(lib_path), **cdll_args)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/hpcfs/home/ing_sistemas/s.montoya112/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/ctypes/__init__.py", line 379, in __init__
+    self._handle = _dlopen(self._name, mode)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libggml.so.0: undefined symbol: _ZNKSt10filesystem7__cxx1118directory_iteratordeEv
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+  File "/hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/__init__.py", line 1, in <module>
+    from .llama_cpp import *
+  File "/hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/llama_cpp.py", line 43, in <module>
+    _lib = load_shared_library(_lib_base_name, _base_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/_ctypes_extensions.py", line 104, in load_shared_library
+    raise RuntimeError(f"Failed to load shared library '{lib_path}': {e}")
+RuntimeError: Failed to load shared library '/hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libllama.so': /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libggml.so.0: undefined symbol: _ZNKSt10filesystem7__cxx1118directory_iteratordeEv
+ERROR: '.venv-gpu/bin/python -c 
+import torch, llama_cpp
+print('torch', torch.__version__, '| GPU visible:', torch.cuda.is_available())
+print('llama-cpp-python', llama_cpp.__version__, '| con GPU:', llama_cpp.llama_supports_gpu_offload())
+import fastapi, uvicorn
+print('fastapi', fastapi.__version__)' terminó con código 1

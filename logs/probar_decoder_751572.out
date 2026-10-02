@@ -1,0 +1,58 @@
+Job probar_decoder 751572 en nodei-gpu-1 · 2026-10-01 20:15:18
+== variantes (cada una en un proceso aparte)
+-- V1 solo decoder, flash on (flash=1, torch=ninguno)
+  decoder cargado en 193 s
+[New LWP 624772]
+[New LWP 624773]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib64/libthread_db.so.1".
+0x00007f7df4fed5a2 in waitpid () from /usr/lib64/libpthread.so.0
+[Inferior 1 (process 624762) detached]
+RESULTADO V1 solo decoder, flash on: FALLÓ (código 134)
+-- V2 solo decoder, flash off (flash=0, torch=ninguno)
+  decoder cargado en 192 s
+[New LWP 624820]
+[New LWP 624821]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib64/libthread_db.so.1".
+0x00007f7f86e145a2 in waitpid () from /usr/lib64/libpthread.so.0
+[Inferior 1 (process 624811) detached]
+RESULTADO V2 solo decoder, flash off: FALLÓ (código 134)
+-- V3 torch antes, flash on (flash=1, torch=antes)
+  decoder cargado en 191 s
+[New LWP 625016]
+[New LWP 625017]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib64/libthread_db.so.1".
+0x00007f6737a945a2 in waitpid () from /usr/lib64/libpthread.so.0
+[Inferior 1 (process 625007) detached]
+RESULTADO V3 torch antes, flash on: FALLÓ (código 134)
+-- V4 torch antes, flash off (flash=0, torch=antes)
+  decoder cargado en 192 s
+[New LWP 625098]
+[New LWP 625099]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib64/libthread_db.so.1".
+0x00007ff7248845a2 in waitpid () from /usr/lib64/libpthread.so.0
+[Inferior 1 (process 625078) detached]
+RESULTADO V4 torch antes, flash off: FALLÓ (código 134)
+-- V5 torch despues, flash on (flash=1, torch=despues)
+  decoder cargado en 202 s
+[New LWP 625147]
+[New LWP 625148]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib64/libthread_db.so.1".
+0x00007fe5d189d5a2 in waitpid () from /usr/lib64/libpthread.so.0
+[Inferior 1 (process 625127) detached]
+RESULTADO V5 torch despues, flash on: FALLÓ (código 134)
+-- V6 torch despues, flash off (flash=0, torch=despues)
+  decoder cargado en 113 s
+[New LWP 625188]
+[New LWP 625189]
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib64/libthread_db.so.1".
+0x00007fa2468665a2 in waitpid () from /usr/lib64/libpthread.so.0
+[Inferior 1 (process 625179) detached]
+RESULTADO V6 torch despues, flash off: FALLÓ (código 134)
+== resumen
+== fin: [probar_decoder] Terminó con errores (ver .err) · 2026-10-01 20:35:23

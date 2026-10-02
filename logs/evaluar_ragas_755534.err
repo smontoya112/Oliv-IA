@@ -1,0 +1,39 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights:   6%|▌         | 24/391 [00:00<00:02, 167.53it/s]Loading weights:  10%|█         | 41/391 [00:00<00:03, 100.46it/s]Loading weights:  14%|█▎        | 53/391 [00:00<00:03, 102.98it/s]Loading weights:  18%|█▊        | 70/391 [00:00<00:02, 121.95it/s]Loading weights:  24%|██▎       | 92/391 [00:00<00:01, 149.63it/s]Loading weights:  28%|██▊       | 109/391 [00:00<00:01, 153.58it/s]Loading weights:  33%|███▎      | 128/391 [00:00<00:01, 160.42it/s]Loading weights:  37%|███▋      | 145/391 [00:01<00:01, 149.39it/s]Loading weights:  49%|████▉     | 192/391 [00:01<00:00, 227.79it/s]Loading weights:  55%|█████▌    | 216/391 [00:01<00:00, 193.15it/s]Loading weights:  61%|██████    | 237/391 [00:01<00:00, 178.48it/s]Loading weights:  68%|██████▊   | 264/391 [00:01<00:00, 193.50it/s]Loading weights:  76%|███████▌  | 298/391 [00:01<00:00, 194.59it/s]Loading weights:  81%|████████▏ | 318/391 [00:01<00:00, 178.61it/s]Loading weights: 100%|██████████| 391/391 [00:01<00:00, 197.02it/s]
+Evaluating:   0%|          | 0/35 [00:00<?, ?it/s]Exception raised in Job[0]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Evaluating:   3%|▎         | 1/35 [00:00<00:21,  1.60it/s]Exception raised in Job[3]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[6]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[2]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[7]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[8]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[9]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[10]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[11]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[12]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[13]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[14]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[15]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[16]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[17]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[18]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[19]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[21]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Evaluating:  51%|█████▏    | 18/35 [00:00<00:00, 32.48it/s]Exception raised in Job[20]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[22]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[23]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[24]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[25]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[26]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[27]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[28]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[29]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[30]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[31]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[32]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[33]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[34]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[1]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Evaluating:  94%|█████████▍| 33/35 [00:01<00:00, 25.22it/s]Exception raised in Job[5]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Exception raised in Job[4]: OpenAIAuthenticationError(Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}})
+Evaluating: 100%|██████████| 35/35 [00:01<00:00, 20.88it/s]
+El juez no devolvio veredicto en 35 de 35 items; computan como cero. Revise la corrida antes de publicar el puntaje.

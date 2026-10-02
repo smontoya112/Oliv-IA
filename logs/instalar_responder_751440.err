@@ -1,0 +1,1 @@
+ERROR: no existe .venv-gpu: corran primero sbatch jobs/instalar_torch_gpu.sh

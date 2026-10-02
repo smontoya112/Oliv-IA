@@ -1,0 +1,17 @@
+Job instalar_responder 751550 en nodei-gpu-1 · 2026-10-01 19:36:29
+== 0/4 herramientas
+CUDA_HOME: /hpcfs/apps/cuda/11.8
+nvcc: Build cuda_11.8.r11.8/compiler.31833905_0
+gcc:  gcc (GCC) 8.5.0 20210514 (Red Hat 8.5.0-4)   (CUDA 11.8 admite gcc de la 9 a la 11 para este caso)
+AVISO: gcc 8 < 9: se enlaza libstdc++fs (si la compilación falla, usen GCC_MODULE=<gcc 9-11>)
+Quadro RTX 6000, 23040 MiB
+== 1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)
+== 2/4 fastapi y uvicorn
+== 3/4 dependencias de la librería compilada y prueba de importación (torch y llama_cpp juntos)
+libllama: .venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libllama.so
+	libggml-cuda.so.0 => /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libggml-cuda.so.0 (0x00007f83d22f9000)
+	libcuda.so.1 => /usr/lib64/libcuda.so.1 (0x00007f83d06ba000)
+	libcudart.so.11.0 => /hpcfs/apps/cuda/11.8/lib64/libcudart.so.11.0 (0x00007f83cf513000)
+	libcublas.so.11 => /hpcfs/apps/cuda/11.8/lib64/libcublas.so.11 (0x00007f83c98b5000)
+	libcublasLt.so.11 => /hpcfs/apps/cuda/11.8/lib64/libcublasLt.so.11 (0x00007f83a532f000)
+== fin: [instalar_responder] FALLÓ (código 1) · 2026-10-01 19:50:36

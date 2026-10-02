@@ -1,0 +1,3 @@
+Using CPython 3.12.12
+Creating virtual environment at: .venv-gpu
+Activate with: source .venv-gpu/bin/activate
