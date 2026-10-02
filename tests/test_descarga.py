@@ -241,3 +241,55 @@ def test_detecta_capa_de_texto_ilegible():
     from src.descarga.texto import _capa_ilegible
     assert _capa_ilegible(["Decidela Corte 島nal prorerido C血nara Ⅳ珊 ！" * 20])
     assert not _capa_ilegible(["ARTÍCULO 1o. Señor magistrado: ¿qué dice la ley? “Sí”." * 20])
+
+
+# ------------------------------------------------------------- rondas de proximidad
+def _descubiertos(ruta, filas):
+    import csv
+    with ruta.open("w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["url", "veces_enlazada", "n_documentos", "enlazada_desde"])
+        for url, n in filas:
+            w.writerow([url, n, 1, "x"])
+
+
+def test_ronda_omite_lo_intentado_y_acumula(tmp_path):
+    from src.descarga.proximidad import nueva_ronda
+    desc, man, acum = tmp_path / "d.csv", tmp_path / "m.json", tmp_path / "acum.txt"
+    _descubiertos(desc, [(BASE + "ley_1_2000.html", 9), (BASE + "ley_2_2000.html", 5),
+                         (BASE + "ley_3_2000.html", 2), (BASE + "ley_4_2000.html", 1)])
+    man.write_text(json.dumps([
+        {"doc_id": "a", "url": BASE + "ley_1_2000.html", "estado": "ok"},          # ya descargada
+        {"doc_id": "b", "url": BASE + "ley_2_2000.html", "estado": "error"},       # fallida: no se reintenta en otra ronda
+    ]), encoding="utf-8")
+    archivo, nuevos, ya = nueva_ronda(desc, man, acum, tmp_path / "rondas", 1, minimo=0, maximo=None)
+    assert [u.rsplit("/", 1)[1] for u, _ in nuevos] == ["ley_3_2000.html", "ley_4_2000.html"] and ya == 2
+    assert archivo.name == "ronda_01.txt" and "ley_3_2000" in archivo.read_text(encoding="utf-8")
+    assert acum.read_text(encoding="utf-8").count("ley_") == 2
+    # repetir la misma ronda (p. ej. tras una interrupción) no duplica el acumulado
+    nueva_ronda(desc, man, acum, tmp_path / "rondas", 1, minimo=0, maximo=None)
+    assert acum.read_text(encoding="utf-8").count("ley_3_2000") == 1
+    # --minimo y --max
+    _, n2, _ = nueva_ronda(desc, man, tmp_path / "otro.txt", tmp_path / "rondas", 2, minimo=1, maximo=None)
+    assert [u.rsplit("/", 1)[1] for u, _ in n2] == ["ley_3_2000.html"]
+    _, n3, _ = nueva_ronda(desc, man, tmp_path / "otro2.txt", tmp_path / "rondas", 3, minimo=0, maximo=1)
+    assert len(n3) == 1 and n3[0][1] == 2                       # el más enlazado entre los pendientes
+
+
+def test_ronda_sin_manifest_y_pendientes_de_una_ronda_interrumpida(tmp_path):
+    from src.descarga.proximidad import nueva_ronda
+    desc = tmp_path / "d.csv"
+    _descubiertos(desc, [(BASE + "ley_7_2001.html", 3)])
+    # una ronda anterior listó el link en el acumulado pero nunca llegó a descargarlo (no está en el manifest)
+    acum = tmp_path / "acum.txt"
+    acum.write_text(f"{BASE}ley_7_2001.html  # ronda 1\n", encoding="utf-8")
+    _, nuevos, _ = nueva_ronda(desc, tmp_path / "no_hay_manifest.json", acum, tmp_path / "r", 2, 0, None)
+    assert len(nuevos) == 1                                     # se vuelve a ofrecer: lo que decide es el manifest
+
+
+def test_ids_de_enlaces_no_pisan_los_del_manifest(tmp_path):
+    from src.descarga.run import objetivos_desde_enlaces
+    ruta = tmp_path / "ronda_03.txt"
+    ruta.write_text(f"{BASE}ley_9_2002.html\n", encoding="utf-8")
+    nuevos = objetivos_desde_enlaces(ruta, [], frozenset({"ley_9_2002"}))
+    assert nuevos[0]["doc_id"] == "ley_9_2002-2" and nuevos[0]["origen"] == "ronda_03"

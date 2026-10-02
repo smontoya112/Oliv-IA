@@ -69,16 +69,20 @@ def _cargar_archivo(ruta: Path) -> list[dict]:
     return datos or []
 
 
-def objetivos_desde_enlaces(ruta: Path, existentes: list[dict]) -> list[dict]:
-    """Un objetivo por cada link de la lista que no esté ya en las demás fuentes."""
+def objetivos_desde_enlaces(ruta: Path, existentes: list[dict],
+                            ids_ocupados: frozenset[str] = frozenset()) -> list[dict]:
+    """Un objetivo por cada link de la lista que no esté ya en las demás fuentes.
+    `ids_ocupados`: doc_id que ya existen en el manifest (de corridas anteriores), para que un
+    documento nuevo no pise a uno viejo que se llame igual. Cada objetivo guarda en `origen` el
+    nombre del archivo del que salió (p. ej. ronda_02), útil para filtrar el corpus después."""
     conocidas = {o["url"].split("#")[0].lower() for o in existentes}
     nuevos = []
     for url in leer_enlaces(ruta):
         if url.split("#")[0].lower() in conocidas:
             log.info("%s: ya está en las fuentes con metadata explícita, se omite", url)
             continue
-        nuevos.append(objetivo_desde_url(url))
-    hacer_ids_unicos(nuevos, {o["doc_id"] for o in existentes})
+        nuevos.append({**objetivo_desde_url(url), "origen": ruta.stem})
+    hacer_ids_unicos(nuevos, {o["doc_id"] for o in existentes} | set(ids_ocupados))
     return nuevos
 
 
@@ -168,13 +172,14 @@ def main() -> None:
     cfg = Config(raiz=args.raiz, respetar_robots=not args.sin_robots)
     rutas = [r for r in args.fuentes if r.exists() or args.fuentes != ap.get_default("fuentes")]
     objetivos = cargar_objetivos(rutas)
+    manifest = Manifest(cfg.ruta_manifest)
     nuevos: list[dict] = []
     for ruta in args.enlaces:
         if not ruta.exists():
             if args.enlaces != ap.get_default("enlaces"):
                 sys.exit(f"No existe {ruta}")
             continue
-        extra = objetivos_desde_enlaces(ruta, objetivos + nuevos)
+        extra = objetivos_desde_enlaces(ruta, objetivos + nuevos, frozenset(manifest.docs))
         log.info("%s: %d links nuevos", ruta, len(extra))
         nuevos.extend(extra)
     objetivos.extend(nuevos)
@@ -188,7 +193,6 @@ def main() -> None:
     else:
         seleccion = nuevos if args.solo_enlaces else objetivos
 
-    manifest = Manifest(cfg.ruta_manifest)
     if args.solo_fallidos:
         seleccion = [o for o in seleccion
                      if (manifest.get(o["doc_id"]) or {}).get("estado") != "ok"]
@@ -229,7 +233,7 @@ def main() -> None:
         print(f"{len(fallos)} documento(s) con error: " + ", ".join(d for d, _ in fallos),
               file=sys.stderr)
     huerfanos = sorted(set(manifest.docs) - {o["doc_id"] for o in objetivos})
-    if huerfanos:
+    if huerfanos and not args.solo_enlaces:   # con --solo-enlaces el resto del corpus no se carga
         print("  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del "
               "manifest si no los quieren): " + ", ".join(huerfanos))
     sin_texto = [r["doc_id"] for r in ok if r.get("advertencias")]
