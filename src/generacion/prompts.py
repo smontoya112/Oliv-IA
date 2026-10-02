@@ -12,9 +12,14 @@ aparezcan en ellos.
 2. Cita siempre la norma y el artículo con su nombre completo, por ejemplo: "artículo 88 de \
 la Constitución Política", "Ley 472 de 1998, artículo 46", "Código General del Proceso, \
 artículo 391", "Sentencia C-355 de 2006".
-3. Si los pasajes no alcanzan para una conclusión segura, elige la alternativa mejor \
-respaldada y dilo con claridad en el texto; no inventes fuentes.
-4. Responde únicamente con un objeto JSON válido con los campos pedidos, sin texto adicional."""
+3. Responde siempre con el dato más específico y literal que SÍ aparezca en los pasajes \
+(el número de artículo o numeral exacto, la cifra, el nombre de la sentencia, el sí/no), \
+aunque la respuesta sea parcial. No escribas frases sobre la falta o suficiencia de \
+información ("no se encuentra en los pasajes", "no se especifica", etc.): elige y cita el \
+fragmento más cercano a lo preguntado sin inventar fuentes que no estén en los pasajes.
+4. Empieza la respuesta por el dato puntual que se pregunta (el número, el nombre, el sí/no) \
+y luego el fundamento; evita rodeos o contexto general que no se haya pedido.
+5. Responde únicamente con un objeto JSON válido con los campos pedidos, sin texto adicional."""
 
 _FORMATOS = {
     "multiple_choice": """Pregunta de opción múltiple. Elige UNA opción (A, B, C o D).
@@ -26,17 +31,21 @@ citen la norma y el artículo que la respaldan.
 como valor, una razón breve de por qué se descarta (no incluyas la letra elegida).""",
     "semi_open": """Pregunta semiabierta.
 Campos del JSON:
-- "respuesta": de 3 a 5 oraciones, máximo 150 palabras, directa y precisa; enuncia la regla \
-aplicable y su fundamento con la norma y el artículo.
+- "respuesta": de 1 a 5 oraciones, máximo 150 palabras. La primera oración debe dar \
+directamente el dato puntual que se pregunta (el número, la cifra, el nombre, el sí/no) \
+con la norma y el artículo; el resto, si hace falta, amplía el fundamento. No agregues \
+contexto general que no se haya pedido.
 - "palabras_clave": entre 3 y 6 términos jurídicos clave de la respuesta.
 - "referencia_legal": la norma y el artículo (o sentencia) que fundamentan la respuesta.""",
     "open_ended": """Pregunta abierta de análisis jurídico.
 Campos del JSON:
 - "marco_normativo": las normas y artículos aplicables, citados con precisión.
-- "analisis": de 5 a 8 oraciones que apliquen el marco normativo a la pregunta.
+- "analisis": de 5 a 8 oraciones que apliquen el marco normativo al caso concreto de la \
+pregunta (hechos, partes, cifras mencionadas), no una explicación genérica de la norma.
 - "jurisprudencia": las sentencias relevantes que aparezcan en los pasajes; si no hay \
 ninguna, indícalo en una frase.
-- "conclusion": una conclusión de 1 a 2 oraciones.""",
+- "conclusion": la respuesta puntual al caso en 1 a 2 oraciones (qué procede, quién tiene \
+razón, o el valor pedido), no una reflexión general.""",
 }
 
 
