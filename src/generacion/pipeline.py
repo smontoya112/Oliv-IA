@@ -1,15 +1,25 @@
 """Une prompts + motor + postproceso. Es la interfaz que usará la fase 6/8."""
 from __future__ import annotations
 
+import logging
 import time
+
+from src.verificacion import abstencion
 
 from .ejemplos import EJEMPLOS
 from .esquemas import esquema
-from .postproceso import ensamblar, parsear_json
+from .postproceso import ensamblar, normalizar, parsear_json
 from .prompts import construir_mensajes, formatear_pasajes
 
 PRESUPUESTO_TOKENS = 4500          # contexto de pasajes (el paso 6.7 pide entre 3.000 y 5.000)
 MAX_TOKENS_SALIDA = {"multiple_choice": 700, "semi_open": 600, "open_ended": 1100}
+FACTOR_REINTENTO = 1.5
+log = logging.getLogger("generacion")
+
+
+def _fallida(item: dict, crudo: str) -> bool:
+    salida = parsear_json(crudo)
+    return salida is None or abstencion.vacio(normalizar(item, salida))
 
 
 def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOKENS,
@@ -41,7 +51,18 @@ def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
     t0 = time.perf_counter()
     # El motor recibe un solo tope de tokens por lote: se usa el mayor de los formatos presentes.
     tope = max(MAX_TOKENS_SALIDA[it["formato"]] for it in items)
-    crudos = motor.generar_lote([p[0] for p in prep], [p[1] for p in prep], max_tokens=tope)
+    crudos = list(motor.generar_lote([p[0] for p in prep], [p[1] for p in prep], max_tokens=tope))
+    # Un reintento, con más tokens, para las salidas que no parsean o quedan incompletas
+    # (típicamente JSON cortado por el tope de tokens en las abiertas).
+    fallidos = [i for i, (it, c) in enumerate(zip(items, crudos)) if _fallida(it, c)]
+    if fallidos:
+        log.info("reintentando %d/%d salidas fallidas con max_tokens=%d", len(fallidos),
+                 len(items), int(tope * FACTOR_REINTENTO))
+        nuevos = motor.generar_lote([prep[i][0] for i in fallidos], [prep[i][1] for i in fallidos],
+                                    max_tokens=int(tope * FACTOR_REINTENTO))
+        for i, c in zip(fallidos, nuevos):
+            if not _fallida(items[i], c):
+                crudos[i] = c
     ms = int((time.perf_counter() - t0) * 1000 / max(len(items), 1))
     senales_por_id = senales_por_id or {}
     return [ensamblar(it, parsear_json(c), pasajes_por_id.get(it["id"], []), ms,

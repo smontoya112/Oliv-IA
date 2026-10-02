@@ -125,3 +125,49 @@ def test_aplicar_reensambla_con_los_pasajes_de_la_recuperacion():
     [s] = aplicar.aplicar([SEMI], {7: generada}, {7: recuperada}, _catalogo())
     assert s["abstencion"] is False and s["verificacion"]["insertadas"] and s["latencia_ms"] == 3
     assert aplicar.resumen([s], [])["citas_insertadas"] == 1
+
+
+def test_nombre_cuerpo_ida_y_vuelta():
+    import json
+    from pathlib import Path
+
+    import citations
+    from src.verificacion.citas import nombre_cuerpo
+    todos = {(c, None, None) for c in citations.CODES} | {LEY_472, ("jurisprudencia", "C-355", "2006")}
+    ruta = Path("data/recuperacion/sample_50.jsonl")
+    if ruta.exists():
+        for linea in ruta.read_text(encoding="utf-8").splitlines():
+            for p in json.loads(linea)["pasajes"]:
+                todos |= cuerpos(p["texto"])
+    for c in todos:
+        assert cuerpos(nombre_cuerpo(c)) == {c}, c
+    assert nombre_cuerpo(("ley", None, None)) is None
+
+
+def test_completar_con_evidencia_por_formato():
+    from src.verificacion.citas import completar_con_evidencia
+    cc = {"doc_id": "cc", "texto": "Artículo 1608 del Código Civil. El deudor está en mora."}
+    semi, agregadas = completar_con_evidencia(SEMI, _semi("La mora.", "Ley 472 de 1998"), [P472, cc])
+    assert agregadas == ["Código Civil"] and semi["referencia_legal"] == "Ley 472 de 1998; Código Civil"
+    assert semi["respuesta"] == "La mora."                        # el texto que juzga RAGAS no cambia
+    mc, _ = completar_con_evidencia(MC, {"respuesta_correcta": "A", "justificacion": "Así es",
+                                         "descarte_opciones": {}}, [cc])
+    assert mc["justificacion"] == "Así es. Normas de los pasajes recuperados: Código Civil."
+    ab, _ = completar_con_evidencia(ABIERTA, {"marco_normativo": "", "analisis": "a", "jurisprudencia": "j",
+                                              "conclusion": "c"}, [cc])
+    assert ab["marco_normativo"] == "Normas de los pasajes recuperados: Código Civil."
+    assert completar_con_evidencia(SEMI, _semi("x", "Código Civil"), [cc]) == (_semi("x", "Código Civil"), [])
+    assert completar_con_evidencia(SEMI, _semi("x", "r"), [cc], k=0)[1] == []
+    assert completar_con_evidencia(SEMI, _semi("x", "r"), RELLENO[:3] + [cc], k=3)[1] == []   # fuera del top k
+
+
+def test_ensamblar_guarda_salida_modelo_y_linea_base():
+    salida = _semi("El artículo 1608 del Código Civil define la mora.", "Código Civil, art. 1608")
+    s = ensamblar(SEMI, salida, [P472])
+    assert s["salida_modelo"]["referencia_legal"] == "Código Civil, art. 1608"   # antes de la fase 8
+    assert "Código Civil" not in s["referencia_legal"] and "Ley 472 de 1998" in s["referencia_legal"]
+    base = ensamblar(SEMI, salida, [P472], fase8=False)
+    assert base["referencia_legal"] == "Código Civil, art. 1608" and "verificacion" not in base
+    [re] = aplicar.aplicar([SEMI], {7: s}, {7: {"pasajes": [P472]}}, fase8=False)
+    assert re["referencia_legal"] == "Código Civil, art. 1608"   # se reconstruye desde salida_modelo
+    assert ensamblar(MC, None, [], fase8=False)["abstencion"] is True

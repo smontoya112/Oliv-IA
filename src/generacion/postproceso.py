@@ -6,7 +6,7 @@ import re
 
 from src.procesamiento.oraciones import dividir
 from src.verificacion import abstencion
-from src.verificacion.citas import verificar
+from src.verificacion.citas import K_EVIDENCIA, completar_con_evidencia, verificar
 
 MAX_PASAJES = 10          # solo cuentan los 10 primeros en la evaluación (evaluate.py)
 _SIN_RAZON = abstencion._SIN_RAZON
@@ -107,18 +107,30 @@ def _limpiar(pasajes: list[dict]) -> list[dict]:
 
 def ensamblar(item: dict, salida: dict | None, pasajes: list[dict],
               latencia_ms: int | None = None, senales: dict | None = None, catalogo=None,
-              umbral: float | None = abstencion.UMBRAL_TOP1) -> dict:
+              umbral: float | None = abstencion.UMBRAL_TOP1, k_evidencia: int = K_EVIDENCIA,
+              fase8: bool = True) -> dict:
     """Línea final de submissions.jsonl, con la fase 8 aplicada: verificación de citas
-    (8.1-8.3, src.verificacion.citas) y abstención (8.4, src.verificacion.abstencion).
+    (8.1-8.3, src.verificacion.citas), normas de la evidencia principal y abstención (8.4,
+    src.verificacion.abstencion).
 
     `pasajes` son TODOS los recuperados (no solo los que cupieron en el prompt): los que
     respaldan una cita suben al top 10. `senales` vienen de la recuperación (fase 6) y
     `catalogo` (src.recuperacion.catalogo) permite traer el pasaje de una norma citada que no
-    estaba entre los recuperados; sin él, las citas sin respaldo se eliminan."""
+    estaba entre los recuperados; sin él, las citas sin respaldo se eliminan.
+
+    `salida_modelo` guarda los campos normalizados ANTES de la fase 8, para poder reaplicarla
+    (src.verificacion.aplicar). Con `fase8=False` solo se normaliza: es la línea base."""
     base = {"id": item["id"], "formato": item["formato"]}
     if latencia_ms is not None:
         base["latencia_ms"] = latencia_ms
     campos = normalizar(item, salida) if salida else None
+    crudo = {"salida_modelo": campos}
+    if not fase8:
+        if abstencion.vacio(campos) or not pasajes:
+            return {**base, **_abstenido(item, pasajes), "pasajes_recuperados": _limpiar(pasajes),
+                    **crudo}
+        return {**base, "abstencion": False, **campos, "pasajes_recuperados": _limpiar(pasajes),
+                **crudo}
     if item["formato"] == "multiple_choice" and pasajes:
         campos = abstencion.completar_cerrada(item, campos, pasajes)
     top, reporte = _limpiar(pasajes), None
@@ -127,10 +139,16 @@ def ensamblar(item: dict, salida: dict | None, pasajes: list[dict],
         top = _limpiar(top)
     abstiene, motivo = abstencion.decidir(item, campos, top, senales, reporte, umbral)
     if abstiene:
-        vacios = _vacios(item)
-        if item["formato"] == "multiple_choice":     # el enum del schema no admite "" ni null
-            vacios["respuesta_correcta"] = abstencion.letra_respaldo(item, pasajes)
-        return {**base, "abstencion": True, **vacios, "pasajes_recuperados": top,
-                "verificacion": {"motivo_abstencion": motivo}}
+        return {**base, **_abstenido(item, pasajes), "pasajes_recuperados": top,
+                "verificacion": {"motivo_abstencion": motivo}, **crudo}
+    campos, agregadas = completar_con_evidencia(item, campos, top, k_evidencia)
+    reporte["agregadas"] = agregadas
     return {**base, "abstencion": False, **campos, "pasajes_recuperados": top,
-            "verificacion": reporte}
+            "verificacion": reporte, **crudo}
+
+
+def _abstenido(item: dict, pasajes: list[dict]) -> dict:
+    vacios = _vacios(item)
+    if item["formato"] == "multiple_choice":     # el enum del schema no admite "" ni null
+        vacios["respuesta_correcta"] = abstencion.letra_respaldo(item, pasajes)
+    return {"abstencion": True, **vacios}
