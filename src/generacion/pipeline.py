@@ -14,7 +14,7 @@ from .prompts import construir_mensajes, formatear_pasajes
 log = logging.getLogger("generacion")
 PRESUPUESTO_TOKENS = 4500          # contexto de pasajes (el paso 6.7 pide entre 3.000 y 5.000)
 MAX_TOKENS_SALIDA = {"multiple_choice": 700, "semi_open": 600, "open_ended": 1100}
-FACTOR_REINTENTO = 2               # el reintento de una salida inválida usa este múltiplo del tope
+PENALIZACION_REINTENTO = 1.2       # repeat_penalty al reintentar: Qwen3 en voraz entra en bucles
 
 
 def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOKENS,
@@ -38,17 +38,21 @@ def _fallida(item: dict, crudo: str) -> bool:
 
 def _reintentar_fallidos(items: list[dict], prep: list, crudos: list[str], motor,
                          tope: int) -> None:
-    """Una salida sin JSON válido (típicamente cortada por el tope de tokens) se abstendría y
-    dejaría el ítem en cero; se regenera una vez con el doble de tope. Modifica `crudos`."""
+    """Una salida sin JSON válido se abstendría y dejaría el ítem en cero. En el ítem 247 el
+    modelo repetía texto hasta el tope (el doble de tokens tampoco lo cerraba), así que se
+    regenera una vez con el MISMO tope y repeat_penalty. Modifica `crudos`."""
     malos = [k for k, (it, c) in enumerate(zip(items, crudos)) if _fallida(it, c)]
     if not malos:
         return
-    log.warning("reintentando %d ítems sin salida válida con max_tokens=%d: %s", len(malos),
-                tope * FACTOR_REINTENTO, [items[k]["id"] for k in malos])
+    for k in malos:
+        c = crudos[k] or ""
+        log.warning("salida inválida del ítem %s (%d caracteres), inicio=%r fin=%r",
+                    items[k]["id"], len(c), c[:120], c[-120:])
+    log.warning("reintentando %d ítems con repeat_penalty=%s", len(malos), PENALIZACION_REINTENTO)
     try:
         nuevos = motor.generar_lote([prep[k][0] for k in malos], [prep[k][1] for k in malos],
-                                    max_tokens=tope * FACTOR_REINTENTO)
-    except Exception as e:                      # p. ej. el tope nuevo no cabe en el contexto
+                                    max_tokens=tope, repeat_penalty=PENALIZACION_REINTENTO)
+    except Exception as e:
         log.warning("reintento fallido (%s): se conserva la primera salida", e)
         return
     for k, nuevo in zip(malos, nuevos):
