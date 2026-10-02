@@ -6,6 +6,7 @@ import pytest
 
 import src.generacion  # noqa: F401  (agrega scripts/ al path)
 from src.generacion import contexto_prueba
+from src.generacion.ejemplos import EJEMPLOS
 from src.generacion.esquemas import ESQUEMAS, esquema
 from src.generacion.pipeline import generar_lote, preparar
 from src.generacion.postproceso import (contar_palabras, ensamblar, normalizar, parsear_json,
@@ -134,6 +135,25 @@ def test_pipeline_con_motor_falso():
     assert subs[2]["abstencion"] is True                           # salida no parseable -> abstención válida
     msgs, esq, usados = preparar(MC, PASAJES)
     assert esq is ESQUEMAS["multiple_choice"] and usados == PASAJES
+
+
+def test_ejemplos_few_shot_cumplen_el_esquema_de_su_formato():
+    assert set(EJEMPLOS) == set(ESQUEMAS)
+    for formato, turnos in EJEMPLOS.items():
+        assert [t["role"] for t in turnos] == ["user", "assistant"]
+        assert "=== PASAJES ===" in turnos[0]["content"]
+        respuesta = json.loads(turnos[1]["content"])
+        assert set(respuesta) == set(ESQUEMAS[formato]["required"])
+
+
+def test_preparar_incluye_few_shot_por_defecto_y_se_puede_desactivar():
+    con_ejemplos, _, _ = preparar(MC, PASAJES)
+    assert len(con_ejemplos) == 4                    # system, user-ejemplo, assistant-ejemplo, user real
+    assert [m["role"] for m in con_ejemplos] == ["system", "user", "assistant", "user"]
+    assert con_ejemplos[-1]["content"] != con_ejemplos[1]["content"]   # la consulta real, no el ejemplo
+
+    sin_ejemplos, _, _ = preparar(MC, PASAJES, ejemplos={})
+    assert len(sin_ejemplos) == 2 and [m["role"] for m in sin_ejemplos] == ["system", "user"]
 
 
 def test_contexto_oraculo_y_bm25():
