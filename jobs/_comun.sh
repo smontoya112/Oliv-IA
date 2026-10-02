@@ -59,7 +59,8 @@ enviar_resumen() {   # enviar_resumen "nombre del job"
     local nombre="$1" asunto cuerpo
     if [[ $ESTADO -ne 0 ]]; then
         asunto="[$nombre] FALLÓ (código $ESTADO)"
-    elif [[ -s "$ERR" ]]; then
+    elif grep -vE '^(ggml_cuda_init:|  Device [0-9]+:)' "$ERR" 2>/dev/null | grep -q .; then
+        # (los avisos informativos de llama.cpp al iniciar CUDA no cuentan como errores)
         asunto="[$nombre] Terminó con errores (ver .err)"
     else
         asunto="[$nombre] Terminó OK"
