@@ -140,6 +140,33 @@ def test_pipeline_con_motor_falso():
     assert esq is ESQUEMAS["multiple_choice"] and usados == PASAJES
 
 
+class MotorConReintento:
+    """Primera pasada: abierta con JSON inválido. Segunda (con repeat_penalty): salida completa."""
+    def __init__(self):
+        self.llamadas = []
+
+    def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=1.0):
+        self.llamadas.append((len(conversaciones), max_tokens, repeat_penalty))
+        if len(self.llamadas) == 1:
+            return ['{"marco_normativo": "art. 1", "analisis": "corta']
+        return [json.dumps({"marco_normativo": "art. 1", "analisis": "Se aplica.",
+                            "jurisprudencia": "Sin sentencias.", "conclusion": "Procede."})]
+
+
+def test_pipeline_reintenta_salida_invalida_con_repeat_penalty():
+    motor = MotorConReintento()
+    sub = generar_lote([ABIERTA], {9: PASAJES}, motor)[0]
+    assert not sub["abstencion"] and sub["conclusion"] == "Procede."
+    assert motor.llamadas == [(1, 1100, 1.0), (1, 1100, 1.2)]
+
+
+def test_pipeline_conserva_abstencion_si_el_reintento_tambien_falla():
+    class Siempre:
+        def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=1.0):
+            return ["no es json"] * len(conversaciones)
+    assert generar_lote([ABIERTA], {9: PASAJES}, Siempre())[0]["abstencion"] is True
+
+
 def test_ejemplos_few_shot_cumplen_el_esquema_de_su_formato():
     assert set(EJEMPLOS) == set(ESQUEMAS)
     for formato, turnos in EJEMPLOS.items():
