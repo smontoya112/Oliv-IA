@@ -201,3 +201,23 @@ def test_contexto_oraculo_y_bm25():
     bm = contexto_prueba.BM25Simple(chunks)
     assert bm.buscar("deudor en mora", k=1)[0]["doc_id"] == "codigo_civil"
     assert bm.buscar("palabra inexistente zzz") == []
+
+
+class MotorQueFallaUnaVez(MotorFalso):
+    """La primera llamada corta el JSON de la abierta; el reintento lo devuelve completo."""
+    def __init__(self):
+        self.llamadas = []
+
+    def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=None):
+        self.llamadas.append((len(conversaciones), max_tokens, repeat_penalty))
+        if len(self.llamadas) == 1:
+            return ['{"marco_normativo": "Ley 472 de 1998"'] * len(conversaciones)
+        return [json.dumps({"marco_normativo": "Ley 472 de 1998", "analisis": "Procede.",
+                            "jurisprudencia": "Ninguna.", "conclusion": "Sí."})] * len(conversaciones)
+
+
+def test_pipeline_reintenta_las_salidas_fallidas():
+    motor = MotorQueFallaUnaVez()
+    [s] = generar_lote([ABIERTA], {9: PASAJES}, motor)
+    assert s["abstencion"] is False and s["conclusion"] == "Sí."
+    assert motor.llamadas == [(1, 1100, None), (1, 1100, 1.2)]   # mismo tope + repeat_penalty
