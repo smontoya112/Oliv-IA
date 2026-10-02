@@ -34,11 +34,13 @@ class MotorFalso:
         salidas = []
         for esq in esquemas:
             props = esq["properties"]
-            if "descarte_opciones" in props:
+            if "analisis_opciones" in props:
+                razones = {"A": "individual", "B": "causa común", "C": "no aplica", "D": "no aplica"}
                 salidas.append(json.dumps({
+                    "analisis_opciones": {l: {"veredicto": "correcta" if l == "B" else "incorrecta",
+                                              "razon": r} for l, r in razones.items()},
                     "justificacion": "Según el artículo 46 de la Ley 472 de 1998 procede por causa común.",
-                    "respuesta_correcta": "B",
-                    "descarte_opciones": {"A": "individual", "C": "no aplica", "D": "no aplica"}}))
+                    "respuesta_correcta": "B"}))
             elif "palabras_clave" in props:
                 salidas.append(json.dumps({
                     "respuesta": "La acción de grupo procede por una causa común. Está en la Ley 472 de 1998.",

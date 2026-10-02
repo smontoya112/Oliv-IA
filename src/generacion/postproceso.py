@@ -8,6 +8,8 @@ from src.procesamiento.oraciones import dividir
 from src.verificacion import abstencion
 from src.verificacion.citas import K_EVIDENCIA, completar_con_evidencia, verificar
 
+from . import cerradas
+
 MAX_PASAJES = 10          # solo cuentan los 10 primeros en la evaluación (evaluate.py)
 _SIN_RAZON = abstencion._SIN_RAZON
 _CAMPOS_PASAJE = ("doc_id", "inicio", "fin", "texto", "score", "chunk_id", "norma_id", "via",
@@ -61,19 +63,46 @@ def _texto(valor) -> str:
     return " ".join(str(valor or "").split())
 
 
+def _razon(analisis: dict, letra: str) -> str:
+    v = analisis.get(letra)
+    return _texto(v.get("razon") if isinstance(v, dict) else v)
+
+
+def _normalizar_cerrada(item: dict, salida: dict) -> dict:
+    """Con `analisis_opciones` (esquema actual) la letra final la decide
+    src.generacion.cerradas.resolver y `descarte_opciones` sale de las razones de las opciones
+    no elegidas; si la letra cambió, la justificación pasa a ser la razón de la opción final.
+    Sin análisis (salidas de antes o `salida_modelo` ya normalizada) se usa lo que traiga."""
+    opciones = item["opciones"]
+    letra = _letra(salida.get("respuesta_correcta"), opciones)
+    just = _texto(salida.get("justificacion"))
+    analisis = salida.get("analisis_opciones")
+    decision = None
+    if isinstance(analisis, dict) and analisis:
+        final, regla = cerradas.resolver(opciones, analisis, letra)
+        decision = {"letra_modelo": letra, "letra_final": final, "regla": regla,
+                    "veredictos": cerradas.veredictos(analisis, sorted(opciones))}
+        if final != letra and final:
+            just = _razon(analisis, final) or just
+        letra = final
+        descarte = {l: _razon(analisis, l) for l in opciones}
+    else:
+        descarte = salida.get("descarte_opciones")
+        descarte = descarte if isinstance(descarte, dict) else {}
+    campos = {"respuesta_correcta": letra,
+              "justificacion": recortar(just, 6),
+              "descarte_opciones": {l: _texto(descarte.get(l)) or _SIN_RAZON
+                                    for l in sorted(opciones) if l != letra}}
+    if decision:
+        campos["decision_cerrada"] = decision
+    return campos
+
+
 def normalizar(item: dict, salida: dict) -> dict:
     """Deja solo los campos del formato, con tipos y longitudes válidos."""
     f = item["formato"]
     if f == "multiple_choice":
-        opciones = item["opciones"]
-        letra = _letra(salida.get("respuesta_correcta"), opciones)
-        descarte = salida.get("descarte_opciones")
-        descarte = descarte if isinstance(descarte, dict) else {}
-        razones = {l: _texto(descarte.get(l)) or _SIN_RAZON
-                   for l in sorted(opciones) if l != letra}
-        return {"respuesta_correcta": letra,
-                "justificacion": recortar(_texto(salida.get("justificacion")), 6),
-                "descarte_opciones": razones}
+        return _normalizar_cerrada(item, salida)
     if f == "semi_open":
         claves = salida.get("palabras_clave") or []
         claves = claves if isinstance(claves, list) else [claves]
@@ -119,12 +148,15 @@ def ensamblar(item: dict, salida: dict | None, pasajes: list[dict],
     estaba entre los recuperados; sin él, las citas sin respaldo se eliminan.
 
     `salida_modelo` guarda los campos normalizados ANTES de la fase 8, para poder reaplicarla
-    (src.verificacion.aplicar). Con `fase8=False` solo se normaliza: es la línea base."""
+    (src.verificacion.aplicar). Con `fase8=False` solo se normaliza: es la línea base.
+    En las cerradas, `decision_cerrada` registra la letra del modelo, la final y la regla
+    aplicada (src.generacion.cerradas)."""
     base = {"id": item["id"], "formato": item["formato"]}
     if latencia_ms is not None:
         base["latencia_ms"] = latencia_ms
     campos = normalizar(item, salida) if salida else None
-    crudo = {"salida_modelo": campos}
+    decision = campos.pop("decision_cerrada", None) if campos else None
+    crudo = {"salida_modelo": campos, **({"decision_cerrada": decision} if decision else {})}
     if not fase8:
         if abstencion.vacio(campos) or not pasajes:
             return {**base, **_abstenido(item, pasajes), "pasajes_recuperados": _limpiar(pasajes),
