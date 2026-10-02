@@ -44,7 +44,11 @@ fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/2 corriendo el juez sobre $SUBMISSION"
     mkdir -p data/processed
-    correr uvpy scripts/evaluate.py --submission "$SUBMISSION" --split sample --ragas --out "$SALIDA"
+    # --no-sync: `uv run` normalmente re-sincroniza el entorno con uv.lock antes de correr,
+    # lo que deshace el tope langchain-community<0.4 que acabamos de instalar a mano (ragas
+    # importa langchain_community.chat_models.vertexai, que las versiones nuevas eliminaron).
+    correr uv run --quiet --no-sync python scripts/evaluate.py --submission "$SUBMISSION" \
+        --split sample --ragas --out "$SALIDA"
 fi
 
 enviar_resumen evaluar_ragas
