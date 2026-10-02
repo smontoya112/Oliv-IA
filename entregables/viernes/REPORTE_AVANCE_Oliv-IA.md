@@ -25,12 +25,12 @@ Qwen3-8B superó a Llama-3.1-8B (32,68/50) con los mismos pasajes recuperados, p
 
 | Métrica | Valor |
 |---|---|
-| Documentos incorporados | 3.480 en la versión ampliada del corpus (3.485 descargados de 3.590 intentados): leyes, decretos, conceptos DIAN, sentencias, códigos y Constitución |
-| Fragmentos indexados | 220.903 en la versión ampliada. El puntaje de la sección 1 se midió con la versión anterior (476 documentos, 60.329 fragmentos) |
-| Áreas del banco con cobertura | 10 de 10 |
-| Áreas del banco sin cobertura | Ninguna; las más delgadas son penal (212 documentos) y familia (190) |
+| Documentos incorporados | 476 (de 499 intentados): 278 leyes, 132 sentencias, 38 decretos, 16 actos legislativos, 7 códigos, la Constitución y la Decisión Andina 486 |
+| Fragmentos indexados | 60.329 |
+| Áreas del banco con cobertura | 10 de 10; están 201 de las 225 normas de `seed_targets.json`, que fundamentan ~96 % de sus ítems |
+| Áreas del banco sin cobertura | Ninguna; las más delgadas son laboral (52 documentos), mercados (54) y civil (54) |
 
-Fuentes consultadas: Secretaría General del Senado (2.137 documentos), DIAN (1.213), Relatoría de la Corte Constitucional (116), Corte Suprema de Justicia (14), Consejo de Estado (4) y Comunidad Andina (1). Texto extraído sin OCR.
+Fuentes consultadas: Secretaría General del Senado (339 documentos), Relatoría de la Corte Constitucional (115), Corte Suprema de Justicia (14), Consejo de Estado (4), DIAN (3) y Comunidad Andina (1). Texto extraído sin OCR.
 
 ## 3. Arquitectura actual
 
@@ -44,7 +44,7 @@ Fuentes consultadas: Secretaría General del Senado (2.137 documentos), DIAN (1.
 
 ## 4. Riesgos identificados
 
-1. **Corpus ampliado sin medir:** el puntaje proviene de la versión anterior del corpus. Repetiremos la recuperación, la generación y la verificación de citas con los 220.903 fragmentos, y conservaremos la versión que puntúe mejor.
+1. **Huecos del corpus:** 23 descargas fallaron (p. ej. Ley 153 de 1887, Leyes 50 y 54 de 1990, Decreto 1625 de 2016), laboral es el área más delgada y hay 9.836 fragmentos duplicados. Reintentaremos esas normas desde SUIN-Juriscol y eliminaremos los duplicados, verificando que el puntaje no baje.
 2. **Cerradas y abstención:** 3 cerradas fallan aunque la evidencia correcta está entre los 10 pasajes, y hay 7 respuestas erróneas frente a 0 abstenciones. Ajustaremos las instrucciones para cerradas y fijaremos un umbral de confianza de la recuperación por debajo del cual el sistema se abstenga.
 3. **Tiempo de ejecución:** las 50 muestras tardan 725 s, lo que proyecta ~4,0 h para las 992 (~38 s por pregunta abierta), dentro de las ~6 h disponibles. Guardaremos el avance pregunta por pregunta para reanudar si el proceso se interrumpe.
 4. **Determinismo en la verificación en vivo:** el motor de inferencia en GPU mostró variación entre corridas con la misma entrada. Fijaremos la semilla, probaremos la regeneración de respuestas y congelaremos el índice en la entrega.
