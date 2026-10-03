@@ -133,3 +133,26 @@ def test_literal_no_llama_al_modelo():
             raise AssertionError("no debía generar")
     res = generar_lote([semi], {865: [ART_113]}, Motor(), estrategia="razonada")[0]
     assert res["abstencion"] is False and res["respuesta"].startswith("Artículo 113 del Código Civil: «El matrimonio")
+
+
+def test_politica_ens_no_piensa_y_justifica_la_letra_decidida():
+    motor = MotorRazona("A")                          # lo que diría el razonamiento: no se consulta
+    salida = cr.responder(MC, [dict(p) for p in PASAJES], motor, politica="ens")
+    assert salida["respuesta_correcta"] == "B"        # la de los logits
+    assert all(n != "pensar" for n, _ in motor.llamadas)
+    d = salida["decision_cerrada"]
+    assert d["regla"] == "ens" and d["tokens_pensar"] == 0 and d["letra_razonada"] is None
+    assert "Ley 472 de 1998" in salida["justificacion"] and set(salida["descarte_opciones"]) == {"A", "C", "D"}
+    assert all(salida["descarte_opciones"].values())
+
+
+def test_politica_cascada_piensa_solo_si_el_ensamble_no_esta_seguro():
+    seguro = MotorRazona("A")                         # logits 0.7/0.1: normalizados dan ~0.7 < 0.9
+    s1 = cr.responder(MC, [dict(p) for p in PASAJES], seguro, politica="cascada")
+    assert any(n == "pensar" for n, _ in seguro.llamadas) and s1["decision_cerrada"]["regla"] == "razonada"
+    firme = MotorRazona("A")
+    firme.probabilidades_letras = lambda m, letras, reiniciar=True: {
+        l: (0.97 if l == MotorRazona._letra_de(m) else 0.01) for l in letras}
+    s2 = cr.responder(MC, [dict(p) for p in PASAJES], firme, politica="cascada")
+    assert all(n != "pensar" for n, _ in firme.llamadas)
+    assert s2["respuesta_correcta"] == "B" and s2["decision_cerrada"]["regla"] == "ens_seguro"
