@@ -1,0 +1,77 @@
+[
+  {
+    "doc_id": "codigo_civil",
+    "titulo": "Código Civil (Ley 57 de 1887)",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html",
+    "tipo_norma": "codigo",
+    "anio": 1887,
+    "canonico": ["codigo_civil", null, null],
+    "areas": ["civil", "familia", "comercial"]
+  },
+  {
+    "doc_id": "codigo_comercio",
+    "titulo": "Código de Comercio (Decreto 410 de 1971)",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html",
+    "tipo_norma": "codigo",
+    "anio": 1971,
+    "canonico": ["codigo_comercio", null, null],
+    "areas": ["comercial", "mercados"]
+  },
+  {
+    "doc_id": "codigo_penal",
+    "titulo": "Código Penal (Ley 599 de 2000)",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html",
+    "tipo_norma": "ley",
+    "numero": "599",
+    "anio": 2000,
+    "canonico": ["codigo_penal", null, null],
+    "areas": ["penal"]
+  },
+  {
+    "doc_id": "codigo_procedimiento_penal",
+    "titulo": "Código de Procedimiento Penal (Ley 906 de 2004)",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html",
+    "tipo_norma": "ley",
+    "numero": "906",
+    "anio": 2004,
+    "canonico": ["codigo_procedimiento_penal", null, null],
+    "areas": ["penal", "procesal"]
+  },
+  {
+    "doc_id": "cpaca",
+    "titulo": "Código de Procedimiento Administrativo y de lo Contencioso Administrativo (Ley 1437 de 2011)",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html",
+    "tipo_norma": "ley",
+    "numero": "1437",
+    "anio": 2011,
+    "canonico": ["ley", "1437", "2011"],
+    "areas": ["administrativo", "procesal", "tributario"]
+  },
+  {
+    "doc_id": "decreto_2591_1991",
+    "titulo": "Decreto 2591 de 1991 - Acción de tutela",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2591_1991.html",
+    "tipo_norma": "decreto",
+    "numero": "2591",
+    "anio": 1991,
+    "canonico": ["decreto", "2591", "1991"],
+    "areas": ["constitucional", "laboral", "familia"]
+  },
+  {
+    "doc_id": "ley_1996_2019",
+    "titulo": "Ley 1996 de 2019 - Capacidad legal de las personas con discapacidad",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1996_2019.html",
+    "tipo_norma": "ley",
+    "numero": "1996",
+    "anio": 2019,
+    "canonico": ["ley", "1996", "2019"],
+    "areas": ["familia", "civil"]
+  }
+]

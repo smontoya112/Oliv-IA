@@ -1,0 +1,9 @@
+# Pega aquí un link por línea. Nada más: el programa descarga cada página, la convierte
+# a Markdown y completa la metadata (doc_id, título, tipo, número, año, fuente, áreas).
+# Las líneas que empiezan con # se ignoran. Luego corre:
+#     uv run python -m src.descarga.run
+#
+# Ejemplos (bórralos o déjalos, si ya están en fuentes_propias.json se omiten):
+http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html
+https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm
+https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf
