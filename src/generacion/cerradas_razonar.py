@@ -71,21 +71,37 @@ def permutable(opciones: dict) -> bool:
 
 
 def mensajes_cerrada(item: dict, pasajes: list[dict], presupuesto: int, contar=None) -> list[dict]:
-    texto, _ = formatear_pasajes(pasajes, presupuesto, contar)
+    """Prompt de la fase de razonamiento: todos los pasajes que quepan en el presupuesto y un
+    sistema sin la regla "responde solo JSON" (el JSON lo fuerza la gramática de la fase 2)."""
+    texto, _ = formatear_pasajes(pasajes, presupuesto, contar, max_pasajes=max(len(pasajes), 1))
     msgs = construir_mensajes(item, texto, None)
-    msgs[-1] = {"role": "user", "content": msgs[-1]["content"] + _INSTRUCCION_RAZONAR}
-    return msgs
+    return [{"role": "system", "content": SISTEMA_LETRA},
+            {"role": "user", "content": msgs[-1]["content"] + _INSTRUCCION_RAZONAR}]
 
 
-def mensajes_letra(item: dict, pasajes: list[dict], presupuesto: int, contar=None) -> list[dict]:
-    """Prompt para leer solo la letra: sin JSON, sin razonamiento."""
-    texto, _ = formatear_pasajes(pasajes, presupuesto, contar)
+SISTEMA_LETRA = ("Eres un asistente jurídico experto en derecho colombiano. Respondes con rigor, en "
+                 "español, y con base en los pasajes numerados [P1], [P2]… que se te entregan; si no "
+                 "alcanzan, usas tu conocimiento del derecho colombiano. No inventes normas.")
+
+
+def mensajes_letra(item: dict, pasajes: list[dict], presupuesto: int, contar=None,
+                   sistema: str | None = SISTEMA_LETRA, max_pasajes: int | None = None,
+                   invertir: bool = False) -> list[dict]:
+    """Prompt para leer solo la letra: sin JSON, sin razonamiento. `sistema=None` usa el SISTEMA
+    común (que exige JSON: contradice la instrucción de contestar con una letra).
+    `max_pasajes` e `invertir` (el mejor pasaje al final, junto a la pregunta) son variantes."""
+    ps = list(pasajes)[:max_pasajes] if max_pasajes else list(pasajes)
+    texto, usados = formatear_pasajes(ps, presupuesto, contar, max_pasajes=max(len(ps), 1))
+    if invertir and usados:
+        texto, _ = formatear_pasajes(list(reversed(usados)), presupuesto * 2, contar,
+                                     max_pasajes=len(usados))
     msgs = construir_mensajes(item, texto, None)
     cuerpo = msgs[-1]["content"].split("\n\n=== PASAJES ===", 1)[1]
     letras = ", ".join(sorted(item["opciones"]))
     usuario = ("Pregunta de opción múltiple de derecho colombiano. Responde ÚNICAMENTE con la "
                f"letra de la opción correcta ({letras}), sin explicación.\n\n=== PASAJES ===" + cuerpo)
-    return [msgs[0], {"role": "user", "content": usuario}]
+    return [{"role": "system", "content": sistema} if sistema else msgs[0],
+            {"role": "user", "content": usuario}]
 
 
 def promedio_permutaciones(motor, item: dict, pasajes: list[dict], presupuesto: int, k: int,

@@ -30,6 +30,9 @@ VARIANTES = {
     "base_3":         ("base", {"max_pasajes": 3}, 4),
     "base_invertido": ("base", {"invertir": True}, 4),
     "base_k2":        ("base", {}, 2),
+    "base_10":        ("base", {"presupuesto": 6000, "max_pasajes": 10}, 4),
+    "base_6":         ("base", {"max_pasajes": 6}, 4),
+    "base_repite":    ("base", {}, 4),            # determinismo: debe dar EXACTO lo mismo que "base"
 }
 
 
@@ -49,9 +52,12 @@ def cargar(muestra: Path) -> list[dict]:
 
 def evaluar(motor, items: list[dict], ctx: dict, kw: dict, k: int) -> dict:
     filas, t0 = [], time.perf_counter()
+    kw = dict(kw)
+    presupuesto = kw.pop("presupuesto", 4500)
     for it in items:
         pasajes = ctx.get(str(it["id"])) or ctx.get(it["id"]) or []
-        media, perms = cr.promedio_permutaciones(motor, it, pasajes, 4500, k, getattr(motor, "contar", None), **kw)
+        media, perms = cr.promedio_permutaciones(motor, it, pasajes, presupuesto, k,
+                                                 getattr(motor, "contar", None), **kw)
         gold = it["respuesta_correcta"]
         letra = max(sorted(media), key=lambda l: media[l])
         nll = -sum(math.log(max(p[gold], 1e-6)) for p in perms) / len(perms)
