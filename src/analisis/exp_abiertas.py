@@ -27,13 +27,16 @@ import evaluate  # noqa: E402  (scripts/evaluate.py)
 VARIANTES = {
     "A0_actual": [],
     "A1_plantilla": ["plantilla"],
-    "A2_plantilla_expansion": ["plantilla", "expansion"],
-    "A3_completa": ["plantilla", "expansion", "revision"],
-    "A4_expansion": ["expansion"],
+    "A2_plantilla_expansion": ["plantilla", "expansion_pura"],
+    "A3_completa": ["plantilla", "expansion_pura", "revision"],
+    "A4_expansion": ["expansion_pura"],
     # con la plantilla acortada (analisis <= 200 palabras): A1_plantilla/A2/A3 de abiertas_1 usaban la larga
     "B1_plantilla_corta": ["plantilla"],
-    "B2_corta_expansion": ["plantilla", "expansion"],
-    "B3_corta_expansion_revision": ["plantilla", "expansion", "revision"],
+    "B2_corta_expansion": ["plantilla", "expansion_pura"],
+    "B3_corta_expansion_revision": ["plantilla", "expansion_pura", "revision"],
+    # expansion fusionada con la recuperacion original (RRF de las dos listas finales); "expansion_pura" = A4
+    "C1_expansion_rrf": ["expansion"],
+    "C2_rrf_plantilla": ["expansion", "plantilla"],
 }
 
 

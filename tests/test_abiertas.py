@@ -142,3 +142,25 @@ def test_pipeline_aplica_plantilla_y_revision_solo_a_las_abiertas():
     sin2 = MotorRevisa({})
     generar_lote([semi], {7: PASAJES}, sin2, estrategia="razonada", abiertas={"plantilla", "revision"})
     assert sin2.llamadas == 0
+
+
+def test_fusionar_suma_las_dos_listas_y_conserva_lo_original():
+    def p(doc, n):
+        return {"doc_id": doc, "inicio": n, "fin": n + 10, "texto": doc}
+    base = [p("a", 0), p("b", 0), p("c", 0)]
+    nuevo = [p("x", 0), p("b", 0), p("y", 0)]
+    r = abiertas.fusionar(base, nuevo, n=4)
+    ids = [q["doc_id"] for q in r]
+    assert ids[0] == "b"                       # está en las dos listas
+    assert {"a", "b", "x"} <= set(ids) and len(ids) == 4   # lo de cada lista entra
+    assert "a" in ids[:3]                      # lo que ya estaba bien no se pierde
+    assert abiertas.fusionar(base, [], n=10) == base
+
+
+def test_recuperar_expandido_rrf_vs_pura():
+    rec_orig = {"pasajes": [dict(PASAJES[0], doc_id="original")], "senales": {}}
+    motor = MotorConsultas()
+    r1 = abiertas.recuperar_expandido(ITEM, rec_orig, motor, RecuperadorExpandible(), "rrf")
+    assert "original" in [p["doc_id"] for p in r1["pasajes"]] and r1["senales"]["expansion_modo"] == "rrf"
+    r2 = abiertas.recuperar_expandido(ITEM, rec_orig, motor, RecuperadorExpandible(), "pura")
+    assert "original" not in [p["doc_id"] for p in r2["pasajes"]] and r2["senales"]["expansion_modo"] == "pura"

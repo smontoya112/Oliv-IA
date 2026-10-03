@@ -166,8 +166,10 @@ def recuperar_item(item: dict, recuperador, motor=None, cfg: dict | None = None)
     if (motor is not None and item.get("formato") == "open_ended" and rec.get("pasajes")
             and (cfg.get("estrategia") or os.environ.get("OLIVIA_ESTRATEGIA")) == "razonada"):
         from src.generacion import abiertas
-        if "expansion" in abiertas.activas(cfg):
-            rec = abiertas.recuperar_expandido(item, rec, motor, recuperador)
+        piezas = abiertas.activas(cfg)
+        if "expansion" in piezas or "expansion_pura" in piezas:
+            rec = abiertas.recuperar_expandido(item, rec, motor, recuperador,
+                                               "pura" if "expansion_pura" in piezas else "rrf")
     return rec
 
 

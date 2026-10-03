@@ -20,7 +20,7 @@ import json
 import os
 import re
 
-PIEZAS = ("plantilla", "expansion", "revision")
+PIEZAS = ("plantilla", "expansion", "expansion_pura", "revision")
 LIMITES_ANALISIS = (7, 200)         # (oraciones, palabras) máximas del campo "analisis" con la plantilla
 MAX_TOKENS_CONSULTAS = 260
 MAX_TOKENS_REVISION = 1100
@@ -143,8 +143,29 @@ def deducir_consultas(item: dict, motor) -> dict | None:
             "consultas": [" ".join(str(c).split()) for c in r["consultas"] if str(c).strip()][:4]}
 
 
-def recuperar_expandido(item: dict, rec: dict, motor, recuperador) -> dict:
-    """Recuperación de un caso con consultas deducidas. Devuelve `rec` (la original) si algo falla."""
+def _clave(p: dict) -> tuple:
+    return (p.get("doc_id"), p.get("inicio"), p.get("fin"))
+
+
+def fusionar(base: list[dict], nuevo: list[dict], n: int = 10, k: int = 60) -> list[dict]:
+    """RRF de las dos listas FINALES de pasajes (la de siempre y la expandida): un pasaje que está en las
+    dos sube; uno que está en una sola conserva su lugar relativo. Así la expansión AÑADE evidencia (la norma
+    que el relato ocultaba) sin desplazar la que la recuperación original ya tenía bien. Con la expansión
+    "pura" (reemplazar la lista) 4 de 5 abiertas empeoraron en RAGAS aunque 1 mejoró mucho."""
+    acum: dict[tuple, float] = {}
+    dato: dict[tuple, dict] = {}
+    for lista in (base, nuevo):
+        for pos, p in enumerate(lista, start=1):
+            c = _clave(p)
+            acum[c] = acum.get(c, 0.0) + 1.0 / (k + pos)
+            dato.setdefault(c, p)
+    orden = sorted(acum, key=lambda c: (-acum[c], str(c)))
+    return [dato[c] for c in orden][:n]
+
+
+def recuperar_expandido(item: dict, rec: dict, motor, recuperador, modo: str = "rrf") -> dict:
+    """Recuperación de un caso con consultas deducidas. `modo`: "rrf" (fusiona con la lista original, por defecto)
+    o "pura" (usa solo la lista expandida). Devuelve `rec` (la original) si algo falla."""
     d = deducir_consultas(item, motor)
     if not d:
         return rec
@@ -156,7 +177,9 @@ def recuperar_expandido(item: dict, rec: dict, motor, recuperador) -> dict:
         return rec
     if not nuevo.get("pasajes"):
         return rec
-    nuevo["senales"] = {**(nuevo.get("senales") or {}), "expansion": d}
+    if modo == "rrf":
+        nuevo["pasajes"] = fusionar(rec.get("pasajes") or [], nuevo["pasajes"])
+    nuevo["senales"] = {**(nuevo.get("senales") or {}), "expansion": d, "expansion_modo": modo}
     return nuevo
 
 
