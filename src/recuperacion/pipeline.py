@@ -108,6 +108,8 @@ def main() -> None:
                     help="tope de pasajes de sentencias en el top final (0 = sin tope)")
     ap.add_argument("--area", choices=["filtro", "ninguno"], default=Config.area_modo)
     ap.add_argument("--min-en-area", type=int, default=Config.min_en_area)
+    ap.add_argument("--top-final", type=int, default=Config.top_final,
+                    help="pasajes que devuelve la recuperación (los 10 primeros son los que cuentan en la entrega)")
     ap.add_argument("--limite", type=int, help="solo los primeros N ítems (pruebas)")
     args = ap.parse_args()
     _logs()
@@ -116,7 +118,7 @@ def main() -> None:
                  alias=not args.sin_alias, area_modo=args.area, min_en_area=args.min_en_area,
                  garantizar_opciones=not args.sin_garantia_opciones,
                  max_por_norma=args.max_por_norma, sin_copias=not args.con_copias,
-                 max_sentencias=args.max_sentencias)
+                 max_sentencias=args.max_sentencias, top_final=args.top_final)
     items = [json.loads(l) for l in args.preguntas.read_text(encoding="utf-8").splitlines() if l.strip()]
     if args.limite:
         items = items[: args.limite]

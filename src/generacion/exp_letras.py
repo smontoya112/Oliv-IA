@@ -33,6 +33,8 @@ VARIANTES = {
     "base_10":        ("base", {"presupuesto": 6000, "max_pasajes": 10}, 4),
     "base_6":         ("base", {"max_pasajes": 6}, 4),
     "base_repite":    ("base", {}, 4),            # determinismo: debe dar EXACTO lo mismo que "base"
+    "base14":         ("base14", {"presupuesto": 6500, "max_pasajes": 14}, 4),
+    "base12":         ("base14", {"presupuesto": 5500, "max_pasajes": 12}, 4),
     "mixto":          (("base", "actual"), {}, 4),  # promedio de las probabilidades con los dos contextos
     "solo_opciones":  ("base", {"solo_opcion": True}, 4),
 }

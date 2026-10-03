@@ -256,7 +256,8 @@ def responder(item: dict, pasajes: list[dict], motor, politica: str | None = Non
                 "letra_final": letra,
                 "p_ens": {l: round(v, 4) for l, v in (p_ens or {}).items()},
                 "p_permutaciones": por_perm, "tokens_pensar": pens["tokens_pensar"],
-                "segundos": {"ens": round(t_ens, 1), "pensar": round(t_pensar, 1),
-                             "justificar": round(t_just, 1)},
                 "pensamiento_cortado": pens["cortado"]}
+    if os.environ.get("OLIVIA_DEBUG_TIEMPOS") == "1":    # los tiempos NO van a la entrega: harían que
+        decision["segundos"] = {"ens": round(t_ens, 1), "pensar": round(t_pensar, 1),   # lote e individual
+                                "justificar": round(t_just, 1)}                          # difieran
     return salida_final(item, final, letra, {**decision, "letra_justificada": razonada_para_just})
