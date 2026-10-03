@@ -1,0 +1,89 @@
+[
+ {
+  "doc_id": "ley_54_1990",
+  "titulo": "Ley 54 de 1990",
+  "fuente": "Gestor normativo de la CRA",
+  "url": "https://normas.cra.gov.co/gestor/docs/ley_0054_1990.htm",
+  "tipo_norma": "ley",
+  "numero": "54",
+  "anio": 1990,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "54",
+   "1990"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "familia"
+  ],
+  "origen": "preguntas_test_992",
+  "url_original": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html",
+  "nota": "El Senado dio 404; copia en un gestor normativo público (misma estructura de página)."
+ },
+ {
+  "doc_id": "ley_29_1982",
+  "titulo": "Ley 29 de 1982",
+  "fuente": "Gestor normativo de Colpensiones",
+  "url": "https://normativa.colpensiones.gov.co/colpens/docs/ley_0029_1982.htm",
+  "tipo_norma": "ley",
+  "numero": "29",
+  "anio": 1982,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "29",
+   "1982"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "familia"
+  ],
+  "origen": "preguntas_test_992",
+  "url_original": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html",
+  "nota": "El Senado dio 404; copia en un gestor normativo público (misma estructura de página)."
+ },
+ {
+  "doc_id": "ley_45_1990",
+  "titulo": "Ley 45 de 1990",
+  "fuente": "Gestor normativo de la CRA",
+  "url": "https://normas.cra.gov.co/gestor/docs/ley_0045_1990.htm",
+  "tipo_norma": "ley",
+  "numero": "45",
+  "anio": 1990,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "45",
+   "1990"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "comercial"
+  ],
+  "origen": "preguntas_test_992",
+  "url_original": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html",
+  "nota": "El Senado dio 404; copia en un gestor normativo público (misma estructura de página)."
+ },
+ {
+  "doc_id": "decreto_2663_1950",
+  "titulo": "Decreto 2663 de 1950",
+  "fuente": "Gestor normativo de Colpensiones",
+  "url": "https://normativa.colpensiones.gov.co/colpens/docs/decreto_2663_1950.htm",
+  "tipo_norma": "decreto",
+  "numero": "2663",
+  "anio": 1950,
+  "canonico": [
+   "decreto",
+   "2663",
+   "1950"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "laboral"
+  ],
+  "nota": "El Senado dio 404; copia en un gestor normativo público (misma estructura de página).",
+  "origen": "preguntas_test_992",
+  "url_original": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html"
+ }
+]
