@@ -3,6 +3,8 @@ from __future__ import annotations
 
 from src.recuperacion import contexto
 
+from . import cerradas
+
 SISTEMA = """Eres un asistente jurídico experto en derecho colombiano. Respondes con rigor, \
 en español, y SOLO con base en los pasajes numerados [P1], [P2]… que se te entregan.
 
@@ -17,13 +19,18 @@ respaldada y dilo con claridad en el texto; no inventes fuentes.
 4. Responde únicamente con un objeto JSON válido con los campos pedidos, sin texto adicional."""
 
 _FORMATOS = {
-    "multiple_choice": """Pregunta de opción múltiple. Elige UNA opción (A, B, C o D).
+    "multiple_choice": """Pregunta de opción múltiple. Evalúa CADA opción por separado y luego \
+elige UNA.
 Campos del JSON, en este orden:
+- "analisis_opciones": un objeto con una entrada por cada letra. Cada entrada tiene \
+"veredicto" ("correcta" o "incorrecta") y "razon": una oración que confronte la opción con \
+los pasajes y cite la norma y el artículo. Juzga cada opción por lo que afirma, no por el \
+orden de los pasajes.
 - "justificacion": 2 a 4 oraciones que expliquen por qué la opción elegida es la correcta y \
 citen la norma y el artículo que la respaldan.
-- "respuesta_correcta": la letra elegida.
-- "descarte_opciones": un objeto con las letras de las opciones INCORRECTAS como llaves y, \
-como valor, una razón breve de por qué se descarta (no incluyas la letra elegida).""",
+- "respuesta_correcta": la letra elegida. Debe ser una opción cuyo veredicto sea "correcta".
+Opciones compuestas ("Todas las anteriores", "Ninguna de las anteriores", "A y B"): su \
+veredicto depende de los veredictos de las opciones a las que remiten.""",
     "semi_open": """Pregunta semiabierta.
 Campos del JSON:
 - "respuesta": de 3 a 5 oraciones, máximo 150 palabras, directa y precisa; enuncia la regla \
@@ -63,8 +70,10 @@ def construir_mensajes(item: dict, pasajes_texto: str,
         partes.append(f"Tema: {item['tema'].strip()}")
     partes.append(f"Pregunta: {item['pregunta'].strip()}")
     if formato == "multiple_choice":
+        tipos = cerradas.clasificar(item["opciones"])
         partes.append("Opciones:\n" + "\n".join(
-            f"{k}. {v.strip()}" for k, v in sorted(item["opciones"].items())))
+            f"{k}. {v.strip()}{cerradas.nota_opcion(tipos[k])}"
+            for k, v in sorted(item["opciones"].items())))
     usuario = (f"{_FORMATOS[formato]}\n\n=== PASAJES ===\n{pasajes_texto or '(sin pasajes)'}\n\n"
                "=== CONSULTA ===\n" + "\n".join(partes))
     return [{"role": "system", "content": SISTEMA}, *(ejemplos or []),

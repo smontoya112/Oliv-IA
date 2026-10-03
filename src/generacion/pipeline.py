@@ -7,13 +7,13 @@ import time
 from src.verificacion import abstencion
 
 from .ejemplos import EJEMPLOS
-from .esquemas import esquema
+from .esquemas import esquema_item
 from .postproceso import ensamblar, normalizar, parsear_json
 from .prompts import construir_mensajes, formatear_pasajes
 
 log = logging.getLogger("generacion")
 PRESUPUESTO_TOKENS = 4500          # contexto de pasajes (el paso 6.7 pide entre 3.000 y 5.000)
-MAX_TOKENS_SALIDA = {"multiple_choice": 700, "semi_open": 600, "open_ended": 1100}
+MAX_TOKENS_SALIDA = {"multiple_choice": 900, "semi_open": 600, "open_ended": 1100}
 PENALIZACION_REINTENTO = 1.2       # repeat_penalty al reintentar: Qwen3 en voraz entra en bucles
 
 
@@ -28,7 +28,7 @@ def preparar(item: dict, pasajes: list[dict], presupuesto: int = PRESUPUESTO_TOK
     ejemplos = EJEMPLOS if ejemplos is None else ejemplos
     texto, usados = formatear_pasajes(pasajes, presupuesto, contar)
     msgs = construir_mensajes(item, texto, ejemplos.get(item["formato"]))
-    return msgs, esquema(item["formato"]), usados
+    return msgs, esquema_item(item), usados
 
 
 def _fallida(item: dict, crudo: str) -> bool:

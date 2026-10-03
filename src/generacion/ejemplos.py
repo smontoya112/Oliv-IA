@@ -17,20 +17,29 @@ _MC = {"formato": "multiple_choice", "area": "Derecho procesal",
        "pregunta": "¿Cuál es el término para contestar la demanda en el proceso verbal, según "
                    "el Código General del Proceso?",
        "opciones": {"A": "Diez (10) días", "B": "Veinte (20) días", "C": "Treinta (30) días",
-                    "D": "Cinco (5) días"}}
+                    "D": "Ninguna de las anteriores."}}
 _MC_PASAJES = ("[P1] ley_1564_2012\nArtículo 369. Traslado de la demanda. El juez correrá "
                "traslado de la demanda al demandado por el término de veinte (20) días, para "
                "que la conteste, proponga excepciones y solicite pruebas.")
 _MC_RESPUESTA = {
+    "analisis_opciones": {
+        "A": {"veredicto": "incorrecta",
+              "razon": "Diez días no es el término que fija el artículo 369 del Código General "
+                       "del Proceso (Ley 1564 de 2012)."},
+        "B": {"veredicto": "correcta",
+              "razon": "El artículo 369 del Código General del Proceso fija en veinte días el "
+                       "traslado de la demanda en el proceso verbal."},
+        "C": {"veredicto": "incorrecta",
+              "razon": "Treinta días excede el plazo que establece el artículo 369 del Código "
+                       "General del Proceso."},
+        "D": {"veredicto": "incorrecta",
+              "razon": "La opción B es correcta según el artículo 369 del Código General del "
+                       "Proceso, así que no es cierto que ninguna lo sea."},
+    },
     "justificacion": "El artículo 369 del Código General del Proceso (Ley 1564 de 2012) fija en "
                      "veinte días el traslado de la demanda en el proceso verbal, término dentro "
                      "del cual el demandado debe contestarla.",
     "respuesta_correcta": "B",
-    "descarte_opciones": {
-        "A": "Diez días no corresponde al término fijado por el artículo 369 de la Ley 1564 de 2012.",
-        "C": "Treinta días excede el plazo que establece el artículo 369 del CGP.",
-        "D": "Cinco días es insuficiente y no está previsto por la norma citada.",
-    },
 }
 
 _SEMI = {"formato": "semi_open", "area": "Derecho civil",

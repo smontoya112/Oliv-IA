@@ -154,15 +154,14 @@ def normas_citadas(sub: dict, pasajes: list[dict]) -> list[dict]:
     return [{"norma": c, "respaldada": c.split("#")[0] in respaldo} for c in sorted(citadas)]
 
 
-def verificar(sub: dict, rec: dict) -> dict:
-    """Gancho de la fase 8 (verificación de citas y abstención): si existe
-    src.verificacion.aplicar(sub, rec) se usa; mientras tanto, la respuesta pasa tal cual."""
-    try:
-        from src import verificacion
-    except ImportError:
-        return sub
-    aplicar = getattr(verificacion, "aplicar", None)
-    return aplicar(sub, rec) if aplicar else sub
+def responder_item(item: dict, rec: dict, motor, catalogo=None) -> dict:
+    """Línea de submissions.jsonl de un ítem ya recuperado. Es el ÚNICO camino de generación:
+    lo usan Responder (verificación en vivo, interfaz) y la corrida por lotes (src.lote), así
+    que no pueden divergir. La fase 8 (citas y abstención) ocurre dentro de `ensamblar`, con
+    las señales de la recuperación y el catálogo para respaldar citas con el corpus."""
+    from src.generacion.pipeline import generar
+    return generar(item, rec["pasajes"], motor, senales_por_id={item["id"]: rec["senales"]},
+                   catalogo=catalogo)
 
 
 # ------------------------------------------------------------------ el respondedor
@@ -188,6 +187,11 @@ class Responder:
             self._motor = Motor(self.cfg["modelo"], n_ctx=self.cfg["n_ctx"])
         return self._motor
 
+    @property
+    def catalogo(self):
+        """El catálogo de chunks que ya cargó el recuperador (None con un recuperador falso)."""
+        return getattr(self.recuperador, "cat", None)
+
     def cargar(self, con_motor: bool = True) -> "Responder":
         """Fuerza la carga de los modelos (para pagar el arranque antes de la primera pregunta)."""
         self.recuperador
@@ -197,7 +201,6 @@ class Responder:
 
     def responder(self, entrada, formato: str | None = None, opciones: dict | None = None,
                   solo_recuperar: bool = False) -> dict:
-        from src.generacion.pipeline import generar
         item = preparar_item(entrada, formato, opciones, self.cfg["palabras_caso_largo"])
         t0 = time.perf_counter()
         rec = self.recuperador.recuperar(item)
@@ -205,7 +208,7 @@ class Responder:
             sub = {"id": item["id"], "formato": item["formato"], "abstencion": False,
                    "pasajes_recuperados": rec["pasajes"]}
         else:
-            sub = verificar(generar(item, rec["pasajes"], self.motor), rec)
+            sub = responder_item(item, rec, self.motor, self.catalogo)
         return {
             "item": item,
             "submission": sub,
