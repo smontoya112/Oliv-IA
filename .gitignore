@@ -225,16 +225,16 @@ data/index/bm25/
 data/index/citas_chunks.parquet
 data/index/chunk_ids.json
 data/index_prueba/
-# copias de documentos quitadas por src.descarga.deduplicar (reversible, no se versiona)
-data/descartados/
-
-# Corpus pesado (se comparte por carpeta/tar, no por git)
+# Lo pesado de data/ no se versiona: corpus e índice en Hugging Face (python -m scripts.datos bajar).
+# Los archivos pequeños (manifiestos, muestras, resultados, DATA_VERSION) sí van a git.
 data/md/
 data/raw/
 data/proximidad/
 data/descartados/
 data/processed/texto/
-data/processed/chunks.parquet
-data/processed/articulos.parquet
+data/processed/*.parquet
 data/processed/reporte_segmentacion.json
+data/index/
+data/lote/
+data/test_992.jsonl
 *.zip
