@@ -51,3 +51,11 @@ una de las normas que nombra su propio enunciado y que se añadió al corpus por
 
 Límites de esta auditoría: detecta coincidencias literales, no paráfrasis; solo revisa el corpus entregado (no los datos de entrenamiento de los modelos); y que un enunciado cite una norma que luego se incorpora al corpus es una decisión de diseño (el corpus se enriqueció con las normas
 que nombran las preguntas, usando solo el texto de los enunciados), no una fuga de respuestas: el archivo de preguntas del test no trae respuestas. En el sistema entregado, `legal_basis` y las respuestas de la muestra solo se usan para evaluar; los experimentos del 1 de octubre con «contexto oráculo» (que sí usaron `legal_basis`) fueron solo para comparar decoders y no forman parte del pipeline.
+
+## 3. Preguntas que fallaron por truncación en el reranker (corrida del 3 oct)
+
+Durante la corrida de las 992 preguntas algunas lanzaron `Truncation error: Sequence to truncate too short to respect the provided max_length`: el reranker (`truncation="only_second"`) solo puede recortar el pasaje, y si la consulta
+por sí sola pasa de 512 tokens el tokenizador falla; el ítem quedaba como abstención (id 695, una abierta con un enunciado de 3.364 caracteres; id 86, una cerrada; y los ids 245 y 258 de la parte 3).
+Corrección (`src/recuperacion/reranker.py`, commit «reranker: si la consulta no cabe…»): solo cuando antes fallaba, se recorta la consulta a sus primeros 96 y últimos 160 tokens y se reintenta; las demás consultas se puntúan igual que antes.
+Prueba: `tests/test_reranker_truncacion.py`. Los ids afectados se volvieron a responder con el código corregido y sus líneas van en `data/lote/test_992/sub_0_fix.jsonl`, que al ordenar los `sub_*.jsonl` queda primero y `src.lote unir` conserva
+la primera aparición de cada id. El resto de las respuestas se generó con el commit `88e2569`; la corrección no cambia ninguna respuesta que no hubiera fallado.
