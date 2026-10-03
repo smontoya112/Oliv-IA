@@ -9,29 +9,33 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=32G
-#SBATCH --time=04:00:00
+#SBATCH --time=05:00:00
 #
-# Corrida ciega del sábado, repartida en 3 partes (src/lote.py). Cada integrante corre UNA parte:
-# las partes 1 y 2 en hypatia (sbatch) y la 3 en el computador con GPU (bash, sin Slurm).
-#   0. verifica índice, entorno (.venv-gpu con llama_cpp) y GPU
+# Corrida ciega del sábado, repartida en 3 partes (src/lote.py). Una parte = un job con una GPU:
+# lo normal es lanzar las tres a la vez con `bash jobs/lanzar_corrida.sh` (divide una sola vez, manda los
+# 3 jobs en paralelo y un cuarto, de CPU, que une las partes al terminar). Este script corre UNA parte:
+#   0. verifica índice y chunks (los de config/responder.json), entorno (.venv-gpu con llama_cpp) y GPU
 #   1. divide la entrada en data/lote/<entrada>/parte_{1,2,3}.jsonl (determinista: en cada máquina sale igual;
-#      si ya está dividida con el mismo archivo, no hace nada)
+#      si ya está dividida con el mismo archivo, no hace nada). Con jobs paralelos la división debe existir
+#      ANTES de que arranquen (el lanzador la hace): dos jobs dividiendo a la vez podrían pisarse.
 #   2. responde su parte -> data/lote/<entrada>/sub_N.jsonl, con checkpoint: si se cae o se acaba el tiempo,
 #      relanzar el MISMO comando y sigue donde iba
 #   3. resumen (líneas RESULTADO) y correo
+# Con la estrategia y el corpus de config/responder.json (hoy razonada + data/index_base) una parte de 331
+# preguntas tarda ~2 h (≈19 s por pregunta: cerradas ~23 s, semiabiertas ~14 s, abiertas ~53 s).
 #
 #     mkdir -p logs                                         # una sola vez
-#     cp <archivo recibido> data/test_992.jsonl             # el MISMO archivo en las 3 máquinas
-#     sbatch jobs/corrida.sh 1                              # hypatia, integrante 1
-#     sbatch jobs/corrida.sh 2                              # hypatia, integrante 2
-#     bash jobs/corrida.sh 3                                # computador con GPU (jobs/preparar_local.sh antes)
-#     tail -f logs/corrida_<id>.out
+#     cp <archivo recibido> data/test_992.jsonl             # el MISMO archivo en todas las máquinas
+#     bash jobs/lanzar_corrida.sh                           # hypatia: las 3 partes en paralelo (+ unión)
+#     sbatch jobs/corrida.sh 2                              # o una sola parte (p. ej. para relanzarla)
+#     bash jobs/corrida.sh 3                                # computador con GPU, sin Slurm (jobs/preparar_local.sh antes)
+#     tail -f logs/corrida_p1_<id>.out
 #
-#   Prueba de hoy con la muestra (cada parte ~17 preguntas):
-#     sbatch jobs/corrida.sh 1 data/sample_50.jsonl
+#   Prueba con la muestra (cada parte ~17 preguntas):
+#     bash jobs/lanzar_corrida.sh data/sample_50.jsonl
 #
-# Al terminar las tres: traer data/lote/test_992/sub_N.jsonl de las otras máquinas a la carpeta
-# data/lote/test_992/ de una sola y unir (valida contra el schema y lista ids faltantes por parte):
+# Si las partes corrieron en máquinas distintas: traer los sub_N.jsonl a data/lote/test_992/ de una sola y unir
+# (valida contra el schema y lista los ids que faltan por parte):
 #     scp <usuario>@<máquina>:<repo>/data/lote/test_992/sub_3.jsonl data/lote/test_992/
 #     PYTHONPATH=. .venv-gpu/bin/python -m src.lote unir --preguntas data/test_992.jsonl \
 #         --dir data/lote/test_992 --salida submissions.jsonl
@@ -39,8 +43,8 @@
 # Verificación en vivo: data/lote/test_992/division.json dice en qué parte quedó cada id; regenerar con
 # `python -m src.responder --id N --comparar submissions.jsonl` en la MISMA máquina que lo corrió.
 #
-# Variables: PYTHON (por defecto .venv-gpu/bin/python), OLIVIA_MODELO (otro decoder),
-# GCC_MODULE (igual que en jobs/servir.sh).
+# Variables: PYTHON (por defecto .venv-gpu/bin/python), OLIVIA_MODELO / OLIVIA_INDICE / OLIVIA_ESTRATEGIA /
+# OLIVIA_ABIERTAS (sobrescriben config/responder.json), GCC_MODULE (igual que en jobs/servir.sh).
 
 PARTE="${1:-${SLURM_ARRAY_TASK_ID:-}}"
 PREGUNTAS="${2:-data/test_992.jsonl}"
@@ -57,6 +61,7 @@ if [[ -z "${SLURM_JOB_ID:-}" ]]; then
 fi
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
+unset HF_TOKEN HUGGING_FACE_HUB_TOKEN    # los modelos son públicos y están en la caché: no hace falta token
 ulimit -c 0      # sin core dumps: si ggml aborta, se ve su error y no el backtrace de gdb
 if [[ -z "${LOCAL:-}" ]]; then
     cargar_cuda
