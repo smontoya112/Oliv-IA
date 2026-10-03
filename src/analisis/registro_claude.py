@@ -69,6 +69,28 @@ def main() -> None:
     md += ["", "## Hipótesis y razones", ""]
     for r in filas:
         md += [f"- **{r['etiqueta']}** — {r['hipotesis'] or ''} → {r['decision'] or ''}: {r['razon'] or ''}"]
+    # abiertas: una fila por variante de cada experimento abiertas_*/metricas.json (5 ítems)
+    ab = []
+    for ruta in sorted(DIR.glob("abiertas_*/metricas.json")):
+        for nombre, v in (_leer(ruta) or {}).items():
+            ab.append(f"| {ruta.parent.name} | {nombre} | {', '.join(v['piezas']) or '(ninguna)'} | {v['proxy']} | "
+                      f"{v['lexico']} | {v['palabras_medias']} | {v['segundos_medios']} | "
+                      f"{v['cuerpos_ref_en_top10']}/{v['cuerpos_ref']} | {v['aciertos_citas']}/{v['n_ref']} |")
+    if ab:
+        md += ["", "## Abiertas de `sample_50` (5 ítems; proxy local, NO RAGAS)", "",
+               "| Experimento | Variante | Piezas | Proxy | Léxico | Palabras | s/ítem | Cuerpo de referencia en top-10 | Citas acertadas |",
+               "|---|---|---|---|---|---|---|---|---|", *ab]
+    # RAGAS reales (jobs/ragas_claude.sh): una fila por carpeta ragas_*/ragas.json
+    rg = []
+    for ruta in sorted(DIR.glob("ragas_*/ragas.json")):
+        r = _leer(ruta) or {}
+        c = r.get("correccion_ragas") or {}
+        items = _leer(ruta.parent / "ragas_items.json") or []
+        rg.append(f"| {ruta.parent.name} | {c.get('correctness')} | {c.get('puntos')} | {c.get('n_fallidos')} | "
+                  f"{(r.get('total_automatico') or {}).get('obtenidos')} | {len(items)} |")
+    if rg:
+        md += ["", "## RAGAS real (juez z-ai/glm-5.3-flash; referencia 0,451)", "",
+               "| Corrida | correctness | puntos /30 | fallidos | total /80 | ítems |", "|---|---|---|---|---|---|", *rg]
     (DIR / "REGISTRO.md").write_text("\n".join(md) + "\n", encoding="utf-8")
     print(f"{len(filas)} experimentos -> {DIR / 'REGISTRO.md'}")
 

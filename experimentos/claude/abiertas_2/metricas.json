@@ -1,0 +1,298 @@
+{
+ "B1_plantilla_corta": {
+  "piezas": [
+   "plantilla"
+  ],
+  "n": 5,
+  "proxy": 0.323,
+  "lexico": 0.1347,
+  "palabras_medias": 305.6,
+  "segundos_medios": 49.18,
+  "cuerpos_ref_en_top10": 5,
+  "cuerpos_ref": 6,
+  "aciertos_citas": 5,
+  "n_ref": 6,
+  "detalle": [
+   {
+    "id": 247,
+    "segundos": 48.7,
+    "palabras": 326,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 0,
+    "aciertos_citas": 0,
+    "n_ref": 1,
+    "lexico": 0.0441,
+    "expansion": null,
+    "semantico": 0.8385,
+    "proxy": 0.2427
+   },
+   {
+    "id": 253,
+    "segundos": 42.7,
+    "palabras": 270,
+    "cuerpos_ref": 3,
+    "cuerpos_ref_en_top10": 3,
+    "aciertos_citas": 3,
+    "n_ref": 3,
+    "lexico": 0.2677,
+    "expansion": null,
+    "semantico": 0.9375,
+    "proxy": 0.4351
+   },
+   {
+    "id": 272,
+    "segundos": 47.8,
+    "palabras": 305,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1321,
+    "expansion": null,
+    "semantico": 0.8903,
+    "proxy": 0.3216
+   },
+   {
+    "id": 513,
+    "segundos": 40.7,
+    "palabras": 253,
+    "cuerpos_ref": 0,
+    "cuerpos_ref_en_top10": 0,
+    "aciertos_citas": null,
+    "n_ref": null,
+    "lexico": 0.043,
+    "expansion": null,
+    "semantico": 0.8358,
+    "proxy": 0.2412
+   },
+   {
+    "id": 679,
+    "segundos": 66.0,
+    "palabras": 374,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1864,
+    "expansion": null,
+    "semantico": 0.9387,
+    "proxy": 0.3745
+   }
+  ]
+ },
+ "B2_corta_expansion": {
+  "piezas": [
+   "plantilla",
+   "expansion"
+  ],
+  "n": 5,
+  "proxy": 0.3399,
+  "lexico": 0.1556,
+  "palabras_medias": 294.6,
+  "segundos_medios": 57.06,
+  "cuerpos_ref_en_top10": 6,
+  "cuerpos_ref": 6,
+  "aciertos_citas": 5,
+  "n_ref": 6,
+  "detalle": [
+   {
+    "id": 247,
+    "segundos": 52.6,
+    "palabras": 267,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1519,
+    "expansion": [
+     "acción popular derechos colectivos Ley 472 de 1998",
+     "principios constitucionales protección ambiental Colombia",
+     "derecho ambiental afectación de parques públicos",
+     "acción de habeas data protección de bienes comunes"
+    ],
+    "semantico": 0.8913,
+    "proxy": 0.3367
+   },
+   {
+    "id": 253,
+    "segundos": 53.5,
+    "palabras": 243,
+    "cuerpos_ref": 3,
+    "cuerpos_ref_en_top10": 3,
+    "aciertos_citas": 2,
+    "n_ref": 3,
+    "lexico": 0.2924,
+    "expansion": [
+     "¿Qué dice la Ley 1152 de 2007 sobre accidentes laborales durante el traslado?",
+     "¿Cuál es la responsabilidad del empleador en caso de fuerza mayor o caso fortuito?",
+     "¿Qué normas regulan las prestaciones económicas en accidentes laborales?",
+     "¿Cómo se define el caso fortuito en el derecho laboral colombiano?"
+    ],
+    "semantico": 0.936,
+    "proxy": 0.4533
+   },
+   {
+    "id": 272,
+    "segundos": 59.3,
+    "palabras": 307,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1277,
+    "expansion": [
+     "derechos de la sociedad fideicomitente sobre patrimonio autónomo",
+     "función de patrimonio autónomo en ley 1116 de 2006",
+     "responsabilidad de fiduciaria en entrega de recursos",
+     "jurisprudencia sobre patrimonio autónomo y reorganización empresarial"
+    ],
+    "semantico": 0.8778,
+    "proxy": 0.3152
+   },
+   {
+    "id": 513,
+    "segundos": 55.5,
+    "palabras": 280,
+    "cuerpos_ref": 0,
+    "cuerpos_ref_en_top10": 0,
+    "aciertos_citas": null,
+    "n_ref": null,
+    "lexico": 0.0352,
+    "expansion": [
+     "¿Qué normas regulan la venta de productos en Colombia?",
+     "¿Qué derechos tiene el consumidor al adquirir un producto?",
+     "¿Qué acciones legales pueden tomar contra la revendedora?",
+     "¿Qué instituciones supervisan el comercio en Colombia?"
+    ],
+    "semantico": 0.837,
+    "proxy": 0.2356
+   },
+   {
+    "id": 679,
+    "segundos": 64.4,
+    "palabras": 376,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1708,
+    "expansion": [
+     "derechos constitucionales acceso a la salud Colombia",
+     "Ley 1122 de 2006 acceso a datos de salud",
+     "acción popular interés público salud",
+     "derechos humanos garantía acceso medicamentos"
+    ],
+    "semantico": 0.9226,
+    "proxy": 0.3588
+   }
+  ]
+ },
+ "B3_corta_expansion_revision": {
+  "piezas": [
+   "plantilla",
+   "expansion",
+   "revision"
+  ],
+  "n": 5,
+  "proxy": 0.3399,
+  "lexico": 0.1556,
+  "palabras_medias": 294.4,
+  "segundos_medios": 101.06,
+  "cuerpos_ref_en_top10": 6,
+  "cuerpos_ref": 6,
+  "aciertos_citas": 5,
+  "n_ref": 6,
+  "detalle": [
+   {
+    "id": 247,
+    "segundos": 93.7,
+    "palabras": 267,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1519,
+    "expansion": [
+     "acción popular derechos colectivos Ley 472 de 1998",
+     "principios constitucionales protección ambiental Colombia",
+     "derecho ambiental afectación de parques públicos",
+     "acción de habeas data protección de bienes comunes"
+    ],
+    "semantico": 0.8913,
+    "proxy": 0.3367
+   },
+   {
+    "id": 253,
+    "segundos": 91.5,
+    "palabras": 242,
+    "cuerpos_ref": 3,
+    "cuerpos_ref_en_top10": 3,
+    "aciertos_citas": 2,
+    "n_ref": 3,
+    "lexico": 0.2924,
+    "expansion": [
+     "¿Qué dice la Ley 1152 de 2007 sobre accidentes laborales durante el traslado?",
+     "¿Cuál es la responsabilidad del empleador en caso de fuerza mayor o caso fortuito?",
+     "¿Qué normas regulan las prestaciones económicas en accidentes laborales?",
+     "¿Cómo se define el caso fortuito en el derecho laboral colombiano?"
+    ],
+    "semantico": 0.9361,
+    "proxy": 0.4533
+   },
+   {
+    "id": 272,
+    "segundos": 106.1,
+    "palabras": 307,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1277,
+    "expansion": [
+     "derechos de la sociedad fideicomitente sobre patrimonio autónomo",
+     "función de patrimonio autónomo en ley 1116 de 2006",
+     "responsabilidad de fiduciaria en entrega de recursos",
+     "jurisprudencia sobre patrimonio autónomo y reorganización empresarial"
+    ],
+    "semantico": 0.8778,
+    "proxy": 0.3152
+   },
+   {
+    "id": 513,
+    "segundos": 99.6,
+    "palabras": 280,
+    "cuerpos_ref": 0,
+    "cuerpos_ref_en_top10": 0,
+    "aciertos_citas": null,
+    "n_ref": null,
+    "lexico": 0.0352,
+    "expansion": [
+     "¿Qué normas regulan la venta de productos en Colombia?",
+     "¿Qué derechos tiene el consumidor al adquirir un producto?",
+     "¿Qué acciones legales pueden tomar contra la revendedora?",
+     "¿Qué instituciones supervisan el comercio en Colombia?"
+    ],
+    "semantico": 0.837,
+    "proxy": 0.2356
+   },
+   {
+    "id": 679,
+    "segundos": 114.4,
+    "palabras": 376,
+    "cuerpos_ref": 1,
+    "cuerpos_ref_en_top10": 1,
+    "aciertos_citas": 1,
+    "n_ref": 1,
+    "lexico": 0.1708,
+    "expansion": [
+     "derechos constitucionales acceso a la salud Colombia",
+     "Ley 1122 de 2006 acceso a datos de salud",
+     "acción popular interés público salud",
+     "derechos humanos garantía acceso medicamentos"
+    ],
+    "semantico": 0.9226,
+    "proxy": 0.3588
+   }
+  ]
+ }
+}

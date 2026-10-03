@@ -26,6 +26,8 @@ Cerradas: aciertos sobre las 15 de `sample_50` (un ítem = 0,067; ruido de ±1-2
 | final_1 | qwen3-8b | razonada (ens en cerradas + plantillas por sub-tarea)  | base | 11/15 | 0.3879 | 0.8571 | 22.26 · 13.04 · 44.71 | **adoptar** |
 | final_2 | qwen3-8b | razonada (ens en cerradas + plantillas por sub-tarea)  | base | 11/15 | 0.3879 | 0.8571 | 22.36 · 13.09 · 44.42 | **adoptar** |
 | final_3 | qwen3-8b | razonada (ens en cerradas + plantillas por sub-tarea)  | base | 11/15 | 0.3879 | 0.8571 | 23.09 · 13.46 · 46.74 | **adoptar** |
+| final_4 | qwen3-8b | razonada + expansión PURA de la recuperación en abiertas  | base | 11/15 | 0.3894 | 0.8776 | 22.76 · 13.26 · 46.16 | **descartar (reemplazada por final_5)** |
+| final_5 | qwen3-8b | razonada + expansión FUSIONADA (RRF) de la recuperación en abiertas  | base | 11/15 | 0.3885 | 0.898 | 24.02 · 14.09 · 52.65 | **adoptar** |
 
 ## Hipótesis y razones
 
@@ -49,3 +51,24 @@ Cerradas: aciertos sobre las 15 de `sample_50` (un ítem = 0,067; ruido de ±1-2
 - **final_1** — Configuración adoptada, camino real src.lote. → adoptar: 11/15, citas 0,857, abstención 0,86, total automático 40,4/50, proxy 0,388, 18 s por pregunta; verificación en vivo idéntica.
 - **final_2** — Repetición independiente de final_1 con el código final. → adoptar: idéntica a final_1 línea por línea (salvo latencias) y 25/25 ítems idénticos entre Responder (en vivo) y lote.
 - **final_3** — Tercera corrida independiente con el commit final (incluye el respaldo ante excepciones). → adoptar: idéntica línea por línea a final_2 (salvo latencias).
+- **final_4** — Para las abiertas, buscar también con el problema jurídico y consultas que el decoder deduce del caso (solo del enunciado) y reemplazar la lista de pasajes. → descartar (reemplazada por final_5): citas 0,8776 y arregla el ítem 247 (+0,33 en RAGAS) pero 4 de 5 abiertas empeoran: abiertas 0,368 → 0,320 y total 0,4912 → 0,4783 (RAGAS #2).
+- **final_5** — La misma expansión pero fusionando por RRF la lista nueva con la original, para añadir evidencia sin desplazar la que ya estaba bien. → adoptar: RAGAS #3: 0,4923 (0,4912 sin expansión: empate dentro del ruido del juez) pero citas 0,857 → 0,898 y el ítem 247 pasa de 0,217 a 0,481; determinismo 8/8; +0,5 pt de tiempo medio.
+
+## Abiertas de `sample_50` (5 ítems; proxy local, NO RAGAS)
+
+| Experimento | Variante | Piezas | Proxy | Léxico | Palabras | s/ítem | Cuerpo de referencia en top-10 | Citas acertadas |
+|---|---|---|---|---|---|---|---|---|
+| abiertas_1 | A0_actual | (ninguna) | 0.3323 | 0.1438 | 302.4 | 46.46 | 5/6 | 4/6 |
+| abiertas_2 | B1_plantilla_corta | plantilla | 0.323 | 0.1347 | 305.6 | 49.18 | 5/6 | 5/6 |
+| abiertas_2 | B2_corta_expansion | plantilla, expansion | 0.3399 | 0.1556 | 294.6 | 57.06 | 6/6 | 5/6 |
+| abiertas_2 | B3_corta_expansion_revision | plantilla, expansion, revision | 0.3399 | 0.1556 | 294.4 | 101.06 | 6/6 | 5/6 |
+| abiertas_3 | C1_expansion_rrf | expansion | 0.3367 | 0.1511 | 319.4 | 62.66 | 6/6 | 6/6 |
+| abiertas_3 | C2_rrf_plantilla | expansion, plantilla | 0.3231 | 0.1357 | 300.4 | 62.92 | 6/6 | 6/6 |
+
+## RAGAS real (juez z-ai/glm-5.3-flash; referencia 0,451)
+
+| Corrida | correctness | puntos /30 | fallidos | total /80 | ítems |
+|---|---|---|---|---|---|
+| ragas_final3_base | 0.4912 | 14.74 | 0 | 55.15 | 35 |
+| ragas_final4_expansion | 0.4783 | 14.35 | 0 | 55.41 | 35 |
+| ragas_final5_rrf | 0.4923 | 14.77 | 0 | 56.24 | 35 |

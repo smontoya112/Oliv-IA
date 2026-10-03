@@ -1,0 +1,59 @@
+{
+ "n": 35,
+ "A": 0.4912,
+ "B": 0.4783,
+ "por_formato": {
+  "semi_open": {
+   "n": 30,
+   "A": 0.5117,
+   "B": 0.5047
+  },
+  "open_ended": {
+   "n": 5,
+   "A": 0.3682,
+   "B": 0.32
+  }
+ },
+ "ruido_del_juez": {
+  "n_items_identicos": 30,
+  "diferencia_absoluta_media": 0.0529,
+  "diferencia_media_con_signo": -0.007
+ },
+ "cambiados": [
+  {
+   "id": 247,
+   "formato": "open_ended",
+   "A": 0.2168,
+   "B": 0.545,
+   "delta": 0.3282
+  },
+  {
+   "id": 253,
+   "formato": "open_ended",
+   "A": 0.4338,
+   "B": 0.3844,
+   "delta": -0.0494
+  },
+  {
+   "id": 272,
+   "formato": "open_ended",
+   "A": 0.3089,
+   "B": 0.2287,
+   "delta": -0.0802
+  },
+  {
+   "id": 513,
+   "formato": "open_ended",
+   "A": 0.4119,
+   "B": 0.2079,
+   "delta": -0.204
+  },
+  {
+   "id": 679,
+   "formato": "open_ended",
+   "A": 0.4693,
+   "B": 0.2342,
+   "delta": -0.2351
+  }
+ ]
+}

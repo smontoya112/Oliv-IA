@@ -182,5 +182,23 @@
   "hipotesis": "Tercera corrida independiente con el commit final (incluye el respaldo ante excepciones).",
   "decision": "adoptar",
   "razon": "idéntica línea por línea a final_2 (salvo latencias)."
+ },
+ "final_4": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada + expansión PURA de la recuperación en abiertas",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Para las abiertas, buscar también con el problema jurídico y consultas que el decoder deduce del caso (solo del enunciado) y reemplazar la lista de pasajes.",
+  "decision": "descartar (reemplazada por final_5)",
+  "razon": "citas 0,8776 y arregla el ítem 247 (+0,33 en RAGAS) pero 4 de 5 abiertas empeoran: abiertas 0,368 → 0,320 y total 0,4912 → 0,4783 (RAGAS #2)."
+ },
+ "final_5": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada + expansión FUSIONADA (RRF) de la recuperación en abiertas",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "La misma expansión pero fusionando por RRF la lista nueva con la original, para añadir evidencia sin desplazar la que ya estaba bien.",
+  "decision": "adoptar",
+  "razon": "RAGAS #3: 0,4923 (0,4912 sin expansión: empate dentro del ruido del juez) pero citas 0,857 → 0,898 y el ítem 247 pasa de 0,217 a 0,481; determinismo 8/8; +0,5 pt de tiempo medio."
  }
 }
