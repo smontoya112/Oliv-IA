@@ -77,7 +77,7 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
     """(item para ensamblar, salida cruda) con la estrategia "razonada"."""
     from . import cerradas_razonar, subtarea
     if item["formato"] == "multiple_choice":
-        if getattr(motor, "admite_pensar", hasattr(motor, "pensar")) and hasattr(motor, "pensar"):
+        if getattr(motor, "admite_pensar", False) and hasattr(motor, "probabilidades_letras"):
             return item, cerradas_razonar.responder(item, pasajes, motor, presupuesto=presupuesto,
                                                     contar=contar)
         msgs, esquema, _ = preparar(item, pasajes, presupuesto, None, contar)

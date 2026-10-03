@@ -40,8 +40,10 @@ def cargar_config() -> dict:
            "max_caracteres_pregunta": 6000, "palabras_caso_largo": 120, "estrategia": "actual"}
     if CONFIG.exists():
         cfg.update(json.loads(CONFIG.read_text(encoding="utf-8")))
-    if os.environ.get("OLIVIA_MODELO"):
-        cfg["modelo"] = os.environ["OLIVIA_MODELO"]
+    for variable, clave in (("OLIVIA_MODELO", "modelo"), ("OLIVIA_INDICE", "indice"),
+                            ("OLIVIA_ESTRATEGIA", "estrategia")):
+        if os.environ.get(variable):
+            cfg[clave] = os.environ[variable]
     return cfg
 
 

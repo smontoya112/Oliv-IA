@@ -29,7 +29,7 @@ from .esquemas import esquema_item, esquema_justificacion
 from .prompts import construir_mensajes, formatear_pasajes
 
 POLITICAS = ("razonada", "resolver", "ens", "voto", "cascada")
-POLITICA_DEFECTO = "razonada"
+POLITICA_DEFECTO = "ens"       # E1/E1b: pensar no mejora y cuesta 12 veces más (ver experimentos/claude)
 MAX_PENSAR = 1200
 MAX_FINAL = 700
 PERMUTACIONES = 4
