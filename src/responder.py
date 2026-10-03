@@ -37,7 +37,7 @@ log = logging.getLogger("responder")
 # ------------------------------------------------------------------ configuración
 def cargar_config() -> dict:
     cfg = {"modelo": "qwen3-8b", "indice": "data/index", "n_ctx": 8192,
-           "max_caracteres_pregunta": 6000, "palabras_caso_largo": 120}
+           "max_caracteres_pregunta": 6000, "palabras_caso_largo": 120, "estrategia": "actual"}
     if CONFIG.exists():
         cfg.update(json.loads(CONFIG.read_text(encoding="utf-8")))
     if os.environ.get("OLIVIA_MODELO"):
@@ -154,14 +154,14 @@ def normas_citadas(sub: dict, pasajes: list[dict]) -> list[dict]:
     return [{"norma": c, "respaldada": c.split("#")[0] in respaldo} for c in sorted(citadas)]
 
 
-def responder_item(item: dict, rec: dict, motor, catalogo=None) -> dict:
+def responder_item(item: dict, rec: dict, motor, catalogo=None, estrategia: str | None = None) -> dict:
     """Línea de submissions.jsonl de un ítem ya recuperado. Es el ÚNICO camino de generación:
     lo usan Responder (verificación en vivo, interfaz) y la corrida por lotes (src.lote), así
     que no pueden divergir. La fase 8 (citas y abstención) ocurre dentro de `ensamblar`, con
     las señales de la recuperación y el catálogo para respaldar citas con el corpus."""
     from src.generacion.pipeline import generar
     return generar(item, rec["pasajes"], motor, senales_por_id={item["id"]: rec["senales"]},
-                   catalogo=catalogo)
+                   catalogo=catalogo, estrategia=estrategia)
 
 
 # ------------------------------------------------------------------ el respondedor
@@ -208,7 +208,7 @@ class Responder:
             sub = {"id": item["id"], "formato": item["formato"], "abstencion": False,
                    "pasajes_recuperados": rec["pasajes"]}
         else:
-            sub = responder_item(item, rec, self.motor, self.catalogo)
+            sub = responder_item(item, rec, self.motor, self.catalogo, self.cfg.get("estrategia"))
         return {
             "item": item,
             "submission": sub,

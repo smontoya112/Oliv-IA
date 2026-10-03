@@ -89,6 +89,8 @@ def _normalizar_cerrada(item: dict, salida: dict) -> dict:
     else:
         descarte = salida.get("descarte_opciones")
         descarte = descarte if isinstance(descarte, dict) else {}
+        if isinstance(salida.get("decision_cerrada"), dict):   # estrategia "razonada": ya decidió
+            decision = salida["decision_cerrada"]
     campos = {"respuesta_correcta": letra,
               "justificacion": recortar(just, 6),
               "descarte_opciones": {l: _texto(descarte.get(l)) or _SIN_RAZON
@@ -111,7 +113,8 @@ def normalizar(item: dict, salida: dict) -> dict:
             if c and c.lower() not in vistas:
                 vistas.add(c.lower())
                 limpias.append(c)
-        return {"respuesta": recortar(_texto(salida.get("respuesta")), 5, 150),
+        max_or, max_pal = item.get("_limites") or (5, 150)      # prompt v2: por sub-tarea
+        return {"respuesta": recortar(_texto(salida.get("respuesta")), max_or, max_pal),
                 "palabras_clave": limpias[:8],
                 "referencia_legal": _texto(salida.get("referencia_legal"))}
     if f == "open_ended":

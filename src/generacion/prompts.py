@@ -59,9 +59,12 @@ def formatear_pasajes(pasajes: list[dict], presupuesto_tokens: int = 4500, conta
 
 
 def construir_mensajes(item: dict, pasajes_texto: str,
-                       ejemplos: list[dict] | None = None) -> list[dict]:
+                       ejemplos: list[dict] | None = None,
+                       instrucciones: str | None = None) -> list[dict]:
     """Mensajes de chat (system/user) para un ítem. `ejemplos` son turnos few-shot ya
-    redactados por el equipo: [{"role": "user"|"assistant", "content": ...}, ...]."""
+    redactados por el equipo: [{"role": "user"|"assistant", "content": ...}, ...].
+    `instrucciones` reemplaza el bloque de instrucciones del formato (prompt v2 por
+    sub-tarea, src.generacion.subtarea)."""
     formato = item["formato"]
     if formato not in _FORMATOS:
         raise ValueError(f"formato desconocido: {formato!r}")
@@ -74,7 +77,7 @@ def construir_mensajes(item: dict, pasajes_texto: str,
         partes.append("Opciones:\n" + "\n".join(
             f"{k}. {v.strip()}{cerradas.nota_opcion(tipos[k])}"
             for k, v in sorted(item["opciones"].items())))
-    usuario = (f"{_FORMATOS[formato]}\n\n=== PASAJES ===\n{pasajes_texto or '(sin pasajes)'}\n\n"
+    usuario = (f"{instrucciones or _FORMATOS[formato]}\n\n=== PASAJES ===\n{pasajes_texto or '(sin pasajes)'}\n\n"
                "=== CONSULTA ===\n" + "\n".join(partes))
     return [{"role": "system", "content": SISTEMA}, *(ejemplos or []),
             {"role": "user", "content": usuario}]

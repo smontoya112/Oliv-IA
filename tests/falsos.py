@@ -42,3 +42,38 @@ class MotorFalso:
                                            "analisis": "Primero. Segundo. Tercero.",
                                            "jurisprudencia": "No hay.", "conclusion": "Procede."}))
         return salidas
+
+
+class MotorRazona(MotorFalso):
+    """Decoder falso con las dos fases de la estrategia "razonada" (sin llama.cpp).
+    Devuelve siempre la opción que contiene "causa común", esté en la letra que esté."""
+    admite_pensar = True
+
+    def __init__(self, letra_razonada="B"):
+        self.letra_razonada = letra_razonada
+        self.llamadas = []
+
+    @staticmethod
+    def _letra_de(mensajes, clave="causa común"):
+        for linea in mensajes[-1]["content"].splitlines():
+            if linea[:2] in {f"{l}." for l in "ABCD"} and clave in linea:
+                return linea[0]
+        return "A"
+
+    def pensar(self, mensajes, esquema, max_pensar=1200, max_final=700, repeat_penalty=1.05,
+               reiniciar=True):
+        self.llamadas.append(("pensar", reiniciar))
+        letras = list(esquema["properties"]["analisis_opciones"]["properties"])
+        razones = {l: {"veredicto": "correcta" if l == self.letra_razonada else "incorrecta",
+                       "razon": f"razón de {l} según el artículo 46 de la Ley 472 de 1998"}
+                   for l in letras}
+        final = {"analisis_opciones": razones,
+                 "justificacion": "Según el artículo 46 de la Ley 472 de 1998 procede por causa común.",
+                 "respuesta_correcta": self.letra_razonada}
+        return {"razonamiento": "pienso...", "final": json.dumps(final), "cortado": False,
+                "tokens_pensar": 12}
+
+    def probabilidades_letras(self, mensajes, letras, reiniciar=True):
+        self.llamadas.append(("letras", reiniciar))
+        buena = self._letra_de(mensajes)
+        return {l: (0.7 if l == buena else 0.1) for l in letras}

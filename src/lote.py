@@ -159,7 +159,7 @@ def _abstencion(item: dict, pasajes: list[dict], senales: dict | None, catalogo)
 
 
 def correr(items: list[dict], recuperador, motor, salida: Path, recuperacion: Path | None = None,
-           palabras_caso_largo: int = 120) -> dict:
+           palabras_caso_largo: int = 120, estrategia: str | None = None) -> dict:
     """Responde `items` uno a uno con checkpoint en `salida` (append + flush por ítem)."""
     catalogo = getattr(recuperador, "cat", None)
     ya = hechos(salida)
@@ -174,7 +174,7 @@ def correr(items: list[dict], recuperador, motor, salida: Path, recuperacion: Pa
             try:
                 item = preparar_item(crudo, palabras_caso_largo=palabras_caso_largo)
                 rec = recuperador.recuperar(item)
-                sub = responder_item(item, rec, motor, catalogo)
+                sub = responder_item(item, rec, motor, catalogo, estrategia)
             except Exception as e:                       # un ítem roto no detiene la parte
                 log.error("id %s: %s: %s", crudo.get("id"), type(e).__name__, e)
                 fallidos.append(crudo.get("id"))
@@ -213,11 +213,13 @@ def cmd_correr(args) -> int:
     log.info("modelos cargados en %.0f s (decoder %s)", time.perf_counter() - t0, cfg["modelo"])
     (args.dir / f"config_{args.parte}.json").write_text(json.dumps({
         "parte": args.parte, "host": platform.node(), "modelo": cfg["modelo"],
-        "n_ctx": cfg["n_ctx"], "recuperacion": recuperador.config_corrida(),
+        "n_ctx": cfg["n_ctx"], "estrategia": cfg.get("estrategia"),
+        "recuperacion": recuperador.config_corrida(),
         "inicio": time.strftime("%F %T"),
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     r = correr(items, recuperador, motor, args.dir / f"sub_{args.parte}.jsonl",
-               args.dir / f"recuperacion_{args.parte}.jsonl", cfg["palabras_caso_largo"])
+               args.dir / f"recuperacion_{args.parte}.jsonl", cfg["palabras_caso_largo"],
+               cfg.get("estrategia"))
     subs = hechos(args.dir / f"sub_{args.parte}.jsonl")
     faltan = sorted({it["id"] for it in items} - set(subs))
     log.info("RESULTADO parte %d: %d/%d respondidas · %d abstenciones · %d fallidas · "
