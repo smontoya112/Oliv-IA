@@ -1,0 +1,38 @@
+Job instalar_responder 751583 en nodei-gpu-1 · 2026-10-01 20:39:55
+== 0/4 herramientas
+commit: 1c58b54 llama.cpp: compilar con GGML_CUDA_NO_VMM (cuMemAddressReserve falla con out of memory en hypatia)
+CUDA_HOME: /hpcfs/apps/cuda/11.8
+nvcc: Build cuda_11.8.r11.8/compiler.31833905_0
+gcc:  gcc (GCC) 8.5.0 20210514 (Red Hat 8.5.0-4)   (CUDA 11.8 admite gcc de la 9 a la 11 para este caso)
+AVISO: gcc 8 < 9: se enlaza libstdc++fs (si la compilación falla, usen GCC_MODULE=<gcc 9-11>)
+Quadro RTX 6000, 23040 MiB
+== 1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)
+CMAKE_ARGS: -DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=ON -DCMAKE_CXX_STANDARD_LIBRARIES=-lstdc++fs
+== 2/4 fastapi y uvicorn
+== 3/4 dependencias de la librería compilada y prueba de importación (torch y llama_cpp juntos)
+libllama: .venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libllama.so.0
+	libggml-cuda.so.0 => /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/llama_cpp/lib/libggml-cuda.so.0 (0x00007fb775f58000)
+	libcudart.so.11.0 => /hpcfs/apps/cuda/11.8/lib64/libcudart.so.11.0 (0x00007fb774ae6000)
+	libcublas.so.11 => /hpcfs/apps/cuda/11.8/lib64/libcublas.so.11 (0x00007fb76ee88000)
+	libcublasLt.so.11 => /hpcfs/apps/cuda/11.8/lib64/libcublasLt.so.11 (0x00007fb74a6fa000)
+símbolos de std::filesystem sin resolver en libggml-cuda.so.0:
+símbolos de std::filesystem sin resolver en libggml.so.0.25.3:
+símbolos de std::filesystem sin resolver en libggml-base.so:
+símbolos de std::filesystem sin resolver en libggml-cpu.so.0:
+símbolos de std::filesystem sin resolver en libggml-cpu.so.0.25.3:
+símbolos de std::filesystem sin resolver en libggml-cpu.so:
+símbolos de std::filesystem sin resolver en libggml-cuda.so.0.25.3:
+símbolos de std::filesystem sin resolver en libggml-base.so.0.25.3:
+símbolos de std::filesystem sin resolver en libggml-cuda.so:
+símbolos de std::filesystem sin resolver en libggml.so.0:
+símbolos de std::filesystem sin resolver en libggml-base.so.0:
+símbolos de std::filesystem sin resolver en libggml.so:
+torch 2.7.1+cu118 | GPU visible: True
+llama-cpp-python 0.3.36 | con GPU: True
+fastapi 0.142.2
+== 4/4 prueba de convivencia: decoder en la GPU + torch en el mismo proceso
+decoder qwen3-8b cargado en 168 s
+torch operando con el decoder cargado: ok True
+generación: {"ok": true}
+memoria GPU usada (GB): 0.04 | total: 23.8
+== fin: [instalar_responder] Terminó OK · 2026-10-01 20:56:29

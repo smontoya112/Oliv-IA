@@ -40,7 +40,7 @@ def _validar(subs: list[dict], esperados: set[int]) -> list[str]:
 
 
 def correr(modelo: str, items: list[dict], pasajes: dict, salida: Path, contexto: str,
-           n_ctx: int) -> list[dict]:
+           n_ctx: int, catalogo=None) -> list[dict]:
     from .motor import Motor
     motor = Motor(modelo, n_ctx=n_ctx)
     todas, filas = [], []
@@ -49,7 +49,7 @@ def correr(modelo: str, items: list[dict], pasajes: dict, salida: Path, contexto
         if not lote:
             continue
         t0 = time.perf_counter()
-        subs = generar_lote(lote, pasajes, motor)
+        subs = generar_lote(lote, pasajes, motor, catalogo=catalogo)
         seg = time.perf_counter() - t0
         problemas = _validar(subs, {it["id"] for it in lote})
         validos = len(lote) - len({int(p.split()[1].rstrip(':')) for p in problemas
@@ -86,17 +86,23 @@ def main() -> None:
     ap.add_argument("--salida", type=Path, default=Path("data/processed/bench_generacion"))
     ap.add_argument("--csv", type=Path, default=Path("data/processed/bench_generacion.csv"))
     ap.add_argument("--n-ctx", type=int, default=8192)
+    ap.add_argument("--catalogo", type=Path, default=None,
+                    help="data/index: la fase 8 respalda las citas con el corpus en vez de borrarlas")
     args = ap.parse_args()
     _configurar_logs()
 
     items = [json.loads(l) for l in args.muestra.read_text(encoding="utf-8").splitlines() if l.strip()]
     pasajes = {int(k): v for k, v in json.loads(args.contexto.read_text(encoding="utf-8")).items()}
+    catalogo = None
+    if args.catalogo:
+        from src.recuperacion.catalogo import cargar
+        catalogo = cargar(args.catalogo)
     nuevo = not args.csv.exists()
     args.csv.parent.mkdir(parents=True, exist_ok=True)
     for modelo in args.modelo:
         try:
             filas = correr(modelo, items, pasajes, args.salida, args.contexto.stem,
-                           args.n_ctx)
+                           args.n_ctx, catalogo)
         except Exception as e:                      # un modelo roto no detiene a los demás
             log.error("%s: %s: %s", modelo, type(e).__name__, e)
             continue

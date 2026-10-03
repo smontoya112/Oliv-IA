@@ -1,0 +1,14 @@
+ggml_cuda_init: found 1 CUDA devices (Total VRAM: 22698 MiB):
+  Device 0: Quadro RTX 6000, compute capability 7.5, VMM: yes, VRAM: 22698 MiB
+/hpcfs/home/ing_sistemas/s.montoya112/tmp/.tmpj1pB0b/sdists-v9/pypi/llama-cpp-python/0.3.36/QrvgtW6LpFXKqd4CWyUEe/src/vendor/llama.cpp/ggml/src/ggml-cuda/ggml-cuda.cu:109: CUDA error
+No symbol table is loaded.  Use the "file" command.
+warning: Loadable section ".dynstr" outside of ELF segments
+Missing separate debuginfo for /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/torch/lib/libgomp.so.1
+Try: yum --enablerepo='*debug*' install /usr/lib/debug/.build-id/07/1da6b733da554838c9481b88e7389ab85c435a.debug
+Missing separate debuginfo for /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/numpy/_core/../../numpy.libs/libgfortran-83c28eba-468e71e5.so.5.0.0
+Try: yum --enablerepo='*debug*' install /usr/lib/debug/.build-id/04/dbe32dceb80654422140fb7641f732065999c8.debug
+Missing separate debuginfo for /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv-gpu/lib/python3.12/site-packages/numpy/_core/../../numpy.libs/libquadmath-2284e583-a9307bba.so.0.0.0
+Try: yum --enablerepo='*debug*' install /usr/lib/debug/.build-id/c1/c5f8d61f17e5579c4e85718845b74e4b94116c.debug
+No symbol "frame" in current context.
+/hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/jobs/_comun.sh: line 51: 624683 Aborted                 (core dumped) "$@"
+ERROR: '.venv-gpu/bin/python -' terminó con código 134

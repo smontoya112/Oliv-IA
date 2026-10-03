@@ -1,0 +1,6 @@
+Job instalar_responder 751440 en nodei-gpu-1 · 2026-10-01 18:14:39
+== 0/4 herramientas
+nvcc: Build cuda_11.8.r11.8/compiler.31833905_0
+gcc:  gcc (GCC) 8.5.0 20210514 (Red Hat 8.5.0-4)   (CUDA 11.8 admite gcc hasta la 11)
+Quadro RTX 6000, 23040 MiB
+== fin: [instalar_responder] FALLÓ (código 2) · 2026-10-01 18:14:41

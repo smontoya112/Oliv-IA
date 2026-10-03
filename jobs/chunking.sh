@@ -17,6 +17,7 @@
 #     mkdir -p logs            # una sola vez
 #     sbatch jobs/chunking.sh
 #     sbatch jobs/chunking.sh --doc ley_80_1993 codigo_civil   # solo esos doc_id (a build.py tal cual)
+#     sbatch jobs/chunking.sh --excluir-origen ronda_03 ronda_04   # sin esas rondas de proximidad
 #
 # Nota: num_tokens solo se llena si el tokenizer de bge-m3 ya está en la caché de Hugging
 # Face del nodo (build.py trabaja en modo offline); si no, queda vacío y no afecta el resto.

@@ -1,0 +1,1 @@
+AVISO: data/processed/bench_generacion/qwen3-8b.jsonl no trae salida_modelo; regenerar con jobs/generacion_bench.sh para una línea base real

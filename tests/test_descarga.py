@@ -241,3 +241,195 @@ def test_detecta_capa_de_texto_ilegible():
     from src.descarga.texto import _capa_ilegible
     assert _capa_ilegible(["Decidela Corte 島nal prorerido C血nara Ⅳ珊 ！" * 20])
     assert not _capa_ilegible(["ARTÍCULO 1o. Señor magistrado: ¿qué dice la ley? “Sí”." * 20])
+
+
+# ------------------------------------------------------------- rondas de proximidad
+def _descubiertos(ruta, filas):
+    import csv
+    with ruta.open("w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["url", "veces_enlazada", "n_documentos", "enlazada_desde"])
+        for url, n in filas:
+            w.writerow([url, n, 1, "x"])
+
+
+def test_ronda_omite_lo_intentado_y_acumula(tmp_path):
+    from src.descarga.proximidad import nueva_ronda
+    desc, man, acum = tmp_path / "d.csv", tmp_path / "m.json", tmp_path / "acum.txt"
+    _descubiertos(desc, [(BASE + "ley_1_2000.html", 9), (BASE + "ley_2_2000.html", 5),
+                         (BASE + "ley_3_2000.html", 2), (BASE + "ley_4_2000.html", 1)])
+    man.write_text(json.dumps([
+        {"doc_id": "a", "url": BASE + "ley_1_2000.html", "estado": "ok"},          # ya descargada
+        {"doc_id": "b", "url": BASE + "ley_2_2000.html", "estado": "error"},       # fallida: no se reintenta en otra ronda
+    ]), encoding="utf-8")
+    archivo, nuevos, ya = nueva_ronda(desc, man, acum, tmp_path / "rondas", 1, minimo=0, maximo=None)
+    assert [u.rsplit("/", 1)[1] for u, _ in nuevos] == ["ley_3_2000.html", "ley_4_2000.html"] and ya == 2
+    assert archivo.name == "ronda_01.txt" and "ley_3_2000" in archivo.read_text(encoding="utf-8")
+    assert acum.read_text(encoding="utf-8").count("ley_") == 2
+    # repetir la misma ronda (p. ej. tras una interrupción) no duplica el acumulado
+    nueva_ronda(desc, man, acum, tmp_path / "rondas", 1, minimo=0, maximo=None)
+    assert acum.read_text(encoding="utf-8").count("ley_3_2000") == 1
+    # --minimo y --max
+    _, n2, _ = nueva_ronda(desc, man, tmp_path / "otro.txt", tmp_path / "rondas", 2, minimo=1, maximo=None)
+    assert [u.rsplit("/", 1)[1] for u, _ in n2] == ["ley_3_2000.html"]
+    _, n3, _ = nueva_ronda(desc, man, tmp_path / "otro2.txt", tmp_path / "rondas", 3, minimo=0, maximo=1)
+    assert len(n3) == 1 and n3[0][1] == 2                       # el más enlazado entre los pendientes
+
+
+def test_ronda_sin_manifest_y_pendientes_de_una_ronda_interrumpida(tmp_path):
+    from src.descarga.proximidad import nueva_ronda
+    desc = tmp_path / "d.csv"
+    _descubiertos(desc, [(BASE + "ley_7_2001.html", 3)])
+    # una ronda anterior listó el link en el acumulado pero nunca llegó a descargarlo (no está en el manifest)
+    acum = tmp_path / "acum.txt"
+    acum.write_text(f"{BASE}ley_7_2001.html  # ronda 1\n", encoding="utf-8")
+    _, nuevos, _ = nueva_ronda(desc, tmp_path / "no_hay_manifest.json", acum, tmp_path / "r", 2, 0, None)
+    assert len(nuevos) == 1                                     # se vuelve a ofrecer: lo que decide es el manifest
+
+
+# ------------------------------------------- identidad de una norma (duplicados del corpus)
+DIAN = "https://normograma.dian.gov.co/dian/compilacion/docs/"
+
+
+def test_claves_unifican_las_variantes_de_una_misma_norma():
+    from src.descarga.claves import clave_url
+    misma = [BASE + "ley_0599_2000.html", BASE + "ley_0599_2000_pr012.html#5",
+             "https://secretariasenado.gov.co/senado/basedoc/ley/2000/ley_0599_2000_pr003.html",
+             DIAN + "ley_0599_2000.htm", BASE + "ley_599_2000.html"]
+    assert {clave_url(u) for u in misma} == {"ley_599_2000"}
+    assert clave_url(BASE + "ley_0600_2000.html") != "ley_599_2000"
+    assert (clave_url("https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm")
+            == clave_url("http://corteconstitucional.gov.co/relatoria/2006/c-355-06.htm")
+            == "sentencia_C-355_2006")
+    assert (clave_url("https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034638")
+            != clave_url("https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Acuerdo/30034639"))
+
+
+def test_un_link_ya_descargado_reutiliza_su_id_en_vez_de_duplicarse(tmp_path):
+    from src.descarga.run import objetivos_desde_enlaces
+    ruta = tmp_path / "enlaces_proximidad.txt"
+    ruta.write_text(f"{BASE}ley_0009_2002.html\n{DIAN}ley_0009_2002.htm\n{BASE}ley_0010_2002.html\n",
+                    encoding="utf-8")
+    registros = [{"doc_id": "ley_9_2002", "url": BASE + "ley_0009_2002.html", "estado": "ok"}]
+    nuevos = objetivos_desde_enlaces(ruta, [], registros)
+    # ley 9: mismo documento -> mismo id (se sirve del caché); la copia de la DIAN se omite; ley 10 es nueva
+    assert [o["doc_id"] for o in nuevos] == ["ley_9_2002", "ley_10_2002"]
+    assert nuevos[0]["origen"] == "enlaces_proximidad"
+    # volver a correrlo no cambia nada: es idempotente
+    registros.append({"doc_id": "ley_10_2002", "url": BASE + "ley_0010_2002.html", "estado": "ok"})
+    assert [o["doc_id"] for o in objetivos_desde_enlaces(ruta, [], registros)] == ["ley_9_2002", "ley_10_2002"]
+
+
+def test_sufijo_solo_si_el_id_es_de_otra_norma(tmp_path):
+    from src.descarga.run import objetivos_desde_enlaces
+    ruta = tmp_path / "r.txt"
+    ruta.write_text(BASE + "ley_0009_2002.html\n", encoding="utf-8")
+    # el id ley_9_2002 ya pertenece a OTRA norma (otra URL, otra clave): ahí sí hace falta el sufijo
+    registros = [{"doc_id": "ley_9_2002", "url": "https://x.gov.co/algo.html", "estado": "ok"}]
+    assert objetivos_desde_enlaces(ruta, [], registros)[0]["doc_id"] == "ley_9_2002-2"
+
+
+def test_ronda_no_relista_la_misma_norma_con_otra_url(tmp_path):
+    from src.descarga.proximidad import nueva_ronda
+    desc, man = tmp_path / "d.csv", tmp_path / "m.json"
+    _descubiertos(desc, [(DIAN + "ley_0599_2000.htm", 40), (BASE + "ley_0599_2000.html", 30),
+                         (BASE + "ley_0700_2001.html", 5), (DIAN + "ley_0700_2001.htm", 9),
+                         (BASE + "ley_0800_2002.html", 2)])
+    man.write_text(json.dumps([{"doc_id": "codigo_penal", "estado": "ok",
+                                "canonico": ["codigo_penal", None, None],
+                                "url": BASE + "ley_0599_2000.html"}]), encoding="utf-8")
+    _, nuevos, _ = nueva_ronda(desc, man, tmp_path / "a.txt", tmp_path / "r", 1, 0, None)
+    # la 599 ya está (bajo otra URL); de la 700 queda UNA sola URL, la del Senado; luego la 800
+    assert [u.rsplit("/", 1)[1] for u, _ in nuevos] == ["ley_0700_2001.html", "ley_0800_2002.html"]
+
+
+def test_descubiertos_junta_las_variantes_y_omite_lo_ya_incluido(tmp_path):
+    from src.descarga.config import Config
+    from src.descarga.manifest import Manifest
+    from src.descarga.run import actualizar_descubiertos
+    cfg = Config(raiz=tmp_path)
+    (cfg.dir_raw / "d1").mkdir(parents=True)
+    (cfg.dir_raw / "d2").mkdir(parents=True)
+    (cfg.dir_raw / "d1" / "enlaces.json").write_text(json.dumps(
+        [BASE + "ley_0080_1993.html", BASE + "ley_0081_1994.html", DIAN + "ley_0081_1994.htm"]),
+        encoding="utf-8")
+    (cfg.dir_raw / "d2" / "enlaces.json").write_text(
+        json.dumps([BASE + "ley_0081_1994_pr002.html#3"]), encoding="utf-8")
+    man = Manifest(cfg.ruta_manifest)
+    man.docs["ley_80_1993"] = {"doc_id": "ley_80_1993", "url": BASE + "ley_0080_1993.html", "estado": "ok"}
+    assert actualizar_descubiertos(cfg, [], man) == 1                # la 80 ya está; la 81 cuenta una vez
+    fila = cfg.ruta_descubiertos.read_text(encoding="utf-8").splitlines()[1].split(",")
+    assert fila[0].endswith("ley_0081_1994.html") and "secretariasenado" in fila[0] and fila[1] == "3"
+
+
+# ------------------------------------------------------------------------ deduplicar
+def _crear_doc(cfg, doc_id, url, texto, **extra):
+    (cfg.dir_raw / doc_id).mkdir(parents=True, exist_ok=True)
+    (cfg.dir_raw / doc_id / "enlaces.json").write_text("[]", encoding="utf-8")
+    cfg.dir_md.mkdir(parents=True, exist_ok=True)
+    (cfg.dir_md / f"{doc_id}.md").write_text("---\n{}\n---\n\n" + texto, encoding="utf-8")
+    return {"doc_id": doc_id, "url": url, "estado": "ok", "n_articulos_detectados": 10,
+            "n_caracteres": len(texto), **extra}
+
+
+def test_deduplicar_conserva_uno_por_norma_y_mueve_las_copias(tmp_path):
+    from src.descarga.config import Config
+    from src.descarga.deduplicar import agrupar, aplicar, elegir
+    from src.descarga.manifest import Manifest
+    cfg = Config(raiz=tmp_path)
+    texto = "ARTÍCULO 1o. Objeto de la ley. " * 40
+    man = Manifest(cfg.ruta_manifest)
+    senado_viejo = "https://secretariasenado.gov.co/senado/basedoc/ley/1993/ley_0080_1993_pr001.html"
+    man.docs.update({
+        "ley_80_1993": _crear_doc(cfg, "ley_80_1993", BASE + "ley_0080_1993.html", texto),
+        "ley_80_1993-2": _crear_doc(cfg, "ley_80_1993-2", DIAN + "ley_0080_1993.htm", texto + "x",
+                                    origen="ronda_01"),
+        "ley_80_1993-3": _crear_doc(cfg, "ley_80_1993-3", senado_viejo, texto, origen="ronda_02"),
+        # otra URL que las claves no relacionan, pero con el MISMO texto: lo detecta la huella del texto
+        "copia_texto": _crear_doc(cfg, "copia_texto", "https://espejo.example.org/doc.html", texto),
+        "ley_81_1994": _crear_doc(cfg, "ley_81_1994", BASE + "ley_0081_1994.html", "Otra ley distinta. " * 80),
+    })
+    grupos = agrupar(man.docs, cfg.dir_md)
+    assert len(grupos) == 1 and set(grupos[0]) == {"ley_80_1993", "ley_80_1993-2", "ley_80_1993-3", "copia_texto"}
+    assert elegir(man.docs, grupos[0]) == "ley_80_1993"              # lista inicial + Senado gana
+    assert agrupar(man.docs, None) == [["ley_80_1993", "ley_80_1993-2", "ley_80_1993-3"]]   # sin mirar el texto
+
+    informe = aplicar(cfg, man, grupos, tmp_path / "descartados")
+    assert informe[0]["conservado"] == "ley_80_1993" and len(informe[0]["descartados"]) == 3
+    assert set(man.docs) == {"ley_80_1993", "ley_81_1994"}
+    assert (cfg.dir_md / "ley_80_1993.md").exists() and not (cfg.dir_md / "ley_80_1993-2.md").exists()
+    assert (tmp_path / "descartados" / "md" / "ley_80_1993-2.md").exists()           # movido, no borrado
+    assert (tmp_path / "descartados" / "raw" / "ley_80_1993-3" / "enlaces.json").exists()
+    assert not (cfg.dir_raw / "ley_80_1993-3").exists()
+    guardado = {r["doc_id"] for r in json.loads(cfg.ruta_manifest.read_text(encoding="utf-8"))}
+    assert guardado == {"ley_80_1993", "ley_81_1994"}
+
+
+def test_deduplicar_junta_codigos_con_su_ley():
+    from src.descarga.deduplicar import agrupar, elegir
+    registros = {
+        "estatuto_tributario": {"doc_id": "estatuto_tributario", "estado": "ok", "n_articulos_detectados": 900,
+                                "canonico": ["decreto", "624", "1989"], "url": BASE + "estatuto_tributario.html"},
+        "decreto_624_1989": {"doc_id": "decreto_624_1989", "estado": "ok", "origen": "ronda_01",
+                             "canonico": ["decreto", "624", "1989"], "n_articulos_detectados": 900,
+                             "url": BASE + "decreto_0624_1989.html"},
+        "ley_1_2000": {"doc_id": "ley_1_2000", "estado": "ok", "url": BASE + "ley_0001_2000.html"},
+    }
+    g = agrupar(registros)
+    assert g == [["decreto_624_1989", "estatuto_tributario"]] and elegir(registros, g[0]) == "estatuto_tributario"
+
+
+def test_deduplicar_explica_por_que_conserva_una_copia_con_sufijo():
+    from src.descarga.deduplicar import elegir, motivo
+    ok = {"estado": "ok", "n_articulos_detectados": 5, "n_caracteres": 1000, "url": BASE + "decreto_0492_2020.html",
+          "canonico": ["decreto", "492", "2020"]}
+    regs = {"decreto_492_2020": {**ok, "doc_id": "decreto_492_2020", "estado": "error"},
+            "decreto_492_2020-2": {**ok, "doc_id": "decreto_492_2020-2"},
+            "decreto_492_2020-3": {**ok, "doc_id": "decreto_492_2020-3"}}
+    grupo = sorted(regs)
+    assert elegir(regs, grupo) == "decreto_492_2020-2"                     # la sin sufijo falló al bajar
+    assert motivo(regs, grupo, "decreto_492_2020-2") == "la otra copia no se descargó bien"
+    regs["decreto_492_2020"]["estado"] = "ok"                              # todo igual: gana el id más corto
+    assert elegir(regs, grupo) == "decreto_492_2020" and motivo(regs, grupo, "decreto_492_2020") is None
+    regs["decreto_492_2020-2"]["n_articulos_detectados"] = 9               # -2 trae más artículos
+    assert motivo(regs, grupo, elegir(regs, grupo)) == "la otra copia tiene menos artículos detectados"

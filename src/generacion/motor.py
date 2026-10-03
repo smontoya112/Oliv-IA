@@ -8,6 +8,7 @@ postproceso, pruebas) funciona sin GPU ni la librería instalada.
 from __future__ import annotations
 
 import logging
+import os
 
 log = logging.getLogger("generacion")
 
@@ -16,39 +17,49 @@ log = logging.getLogger("generacion")
 MODELOS: dict[str, tuple[str, str]] = {
     "qwen3-8b": ("Qwen/Qwen3-8B-GGUF", "*Q8_0.gguf"),
     "llama-3.1-8b": ("bartowski/Meta-Llama-3.1-8B-Instruct-GGUF", "*Q8_0.gguf"),
-    "salamandra-7b": ("BSC-LT/salamandra-7b-instruct-gguf", "*Q8_0*.gguf"),
+    # BSC-LT solo publica salamandra-7b-instruct en Safetensors, no en GGUF; se usa la
+    # conversión GGUF comunitaria de RichardErkhov, que sí trae un Q8_0.
+    "salamandra-7b": ("RichardErkhov/BSC-LT_-_salamandra-7b-instruct-gguf", "*Q8_0.gguf"),
 }
 SEMILLA = 0
 
 
 class Motor:
-    def __init__(self, modelo: str = "qwen3-8b", n_ctx: int = 8192, n_gpu_layers: int = -1):
+    def __init__(self, modelo: str = "qwen3-8b", n_ctx: int = 8192, n_gpu_layers: int = -1,
+                 flash_attn: bool | None = None, verbose: bool | None = None):
         from llama_cpp import Llama
+        if flash_attn is None:        # OLIVIA_FLASH_ATTN=0 la apaga (diagnóstico)
+            flash_attn = os.environ.get("OLIVIA_FLASH_ATTN", "1") != "0"
+        if verbose is None:           # OLIVIA_LLAMA_VERBOSE=1 muestra los mensajes de llama.cpp
+            verbose = os.environ.get("OLIVIA_LLAMA_VERBOSE", "0") == "1"
         self.nombre = modelo
         if modelo in MODELOS:
             repo, patron = MODELOS[modelo]
             log.info("Cargando %s (%s, %s, n_ctx=%d)", modelo, repo, patron, n_ctx)
             self.llm = Llama.from_pretrained(repo_id=repo, filename=patron, n_ctx=n_ctx,
-                                             n_gpu_layers=n_gpu_layers, flash_attn=True,
-                                             seed=SEMILLA, verbose=False)
+                                             n_gpu_layers=n_gpu_layers, flash_attn=flash_attn,
+                                             seed=SEMILLA, verbose=verbose)
         else:                                   # ruta a un .gguf local
             log.info("Cargando %s (n_ctx=%d)", modelo, n_ctx)
             self.llm = Llama(model_path=modelo, n_ctx=n_ctx, n_gpu_layers=n_gpu_layers,
-                             flash_attn=True, seed=SEMILLA, verbose=False)
+                             flash_attn=flash_attn, seed=SEMILLA, verbose=verbose)
 
     def contar(self, texto: str) -> int:
         """Tokens reales del decoder (para el presupuesto del contexto, paso 6.7)."""
         return len(self.llm.tokenize(texto.encode("utf-8"), add_bos=False))
 
     def generar_lote(self, conversaciones: list[list[dict]], esquemas: list[dict],
-                     max_tokens: int = 900) -> list[str]:
+                     max_tokens: int = 900, repeat_penalty: float | None = None) -> list[str]:
         """Una conversación y un esquema por ítem; devuelve el texto crudo de cada salida, en
         el mismo orden. llama.cpp atiende un ítem a la vez: los tiempos medidos son los reales.
-        La gramática obliga a empezar en '{', así que Qwen3 no abre su bloque de pensamiento."""
+        La gramática obliga a empezar en '{', así que Qwen3 no abre su bloque de pensamiento.
+        `repeat_penalty` > 1 rompe los bucles de repetición de la decodificación voraz (solo
+        se usa al reintentar una salida inválida; None deja el valor por defecto de la librería)."""
+        extra = {} if repeat_penalty is None else {"repeat_penalty": repeat_penalty}
         salidas = []
         for mensajes, esquema in zip(conversaciones, esquemas):
             r = self.llm.create_chat_completion(
                 messages=mensajes, response_format={"type": "json_object", "schema": esquema},
-                temperature=0.0, seed=SEMILLA, max_tokens=max_tokens)
+                temperature=0.0, seed=SEMILLA, max_tokens=max_tokens, **extra)
             salidas.append(r["choices"][0]["message"]["content"] or "")
         return salidas

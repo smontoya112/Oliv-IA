@@ -3,11 +3,14 @@ del reranker y, con los puntajes, a los 10 pasajes finales. Separada del pipelin
 probarla sin GPU ni índices."""
 from __future__ import annotations
 
+from collections import Counter
+
 from src.indice.fusion import rrf
 
 from . import area, cerradas, normas_pregunta
 from .catalogo import Catalogo
 from .config import Config
+from .contexto import MAX_PASAJES
 
 PREMIO_DIRECTO = 1.0     # sin reranker, los directos van primero (RRF nunca llega a 0,04)
 
@@ -55,13 +58,66 @@ def candidatos(item: dict, cat: Catalogo, cfg: Config,
     return cand, info
 
 
-def elegir(cand: dict[int, dict], puntaje: dict[int, float], cfg: Config) -> list[int]:
-    """Los `top_final` mejores por puntaje; los directos (hasta n_directos) entran siempre."""
+def _es_sentencia(cat: Catalogo, i: int) -> bool:
+    return cat.base(i).startswith("sentencia_")
+
+
+def elegir(cand: dict[int, dict], puntaje: dict[int, float], cfg: Config,
+           cat: Catalogo | None = None) -> list[int]:
+    """Los `top_final` mejores por puntaje, con estas reglas:
+    * los directos (hasta n_directos) entran siempre;
+    * en cerradas, el mejor pasaje de cada opción entra siempre (cfg.garantizar_opciones);
+    * con `cat`: a lo sumo cfg.max_por_norma pasajes por id canónico; el mismo id canónico
+      desde otro documento (copias como ley_1564_2012 / codigo_general_proceso) no entra
+      (cfg.sin_copias), y a lo sumo cfg.max_sentencias sentencias. Si así no se llega a
+      top_final, se rellena con lo saltado, en orden de puntaje.
+    Orden por puntaje, pero ningún reservado queda fuera de los MAX_PASAJES que van al prompt."""
     orden = sorted(cand, key=lambda i: (-puntaje[i], i))
-    directos = [i for i in orden if cand[i]["via"] == "directo"][: cfg.n_directos]
-    resto = [i for i in orden if i not in directos]
-    final = directos + resto[: max(cfg.top_final - len(directos), 0)]
-    return sorted(final, key=lambda i: (-puntaje[i], i))
+    reservados = [i for i in orden if cand[i]["via"] == "directo"][: cfg.n_directos]
+    if cfg.garantizar_opciones:
+        letras: set[str] = set()
+        for i in orden:
+            letra = cand[i].get("opcion")
+            if cand[i]["via"] == "opcion" and letra not in letras:
+                letras.add(letra)
+                reservados.append(i)
+
+    final, saltados = list(reservados), []
+    if cat is None:
+        final += [i for i in orden if i not in reservados][: max(cfg.top_final - len(final), 0)]
+    else:
+        docs = cat.cols["doc_id"]
+        por_norma: Counter = Counter(cat.canon[i] for i in reservados)
+        doc_de: dict[str, str] = {}
+        for i in reservados:
+            doc_de.setdefault(cat.canon[i], docs[i])
+        n_sent = sum(_es_sentencia(cat, i) for i in reservados)
+        for i in orden:
+            if len(final) >= cfg.top_final:
+                break
+            if i in reservados:
+                continue
+            c = cat.canon[i]
+            if ((cfg.max_por_norma and por_norma[c] >= cfg.max_por_norma)
+                    or (cfg.sin_copias and doc_de.get(c, docs[i]) != docs[i])
+                    or (cfg.max_sentencias and _es_sentencia(cat, i) and n_sent >= cfg.max_sentencias)):
+                saltados.append(i)
+                continue
+            final.append(i)
+            por_norma[c] += 1
+            doc_de.setdefault(c, docs[i])
+            n_sent += _es_sentencia(cat, i)
+        final += saltados[: max(cfg.top_final - len(final), 0)]     # mejor repetido que corto
+
+    final = sorted(final, key=lambda i: (-puntaje[i], i))
+    cabeza, cola = final[:MAX_PASAJES], final[MAX_PASAJES:]
+    tarde = [i for i in cola if i in reservados]
+    if tarde:
+        bajan = [i for i in cabeza if i not in reservados][-len(tarde):]
+        cabeza = [i for i in cabeza if i not in bajan]
+        cola = bajan + [i for i in cola if i not in tarde]
+        final = cabeza + tarde + cola
+    return final
 
 
 def senales(final: list[int], cand: dict[int, dict], puntaje: dict[int, float], cat: Catalogo,

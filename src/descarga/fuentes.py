@@ -200,6 +200,7 @@ def _convertir(obj: dict, meta: dict, cfg: Config, dir_doc: Path) -> dict:
         "anio": obj.get("anio"),
         "organo_emisor": obj.get("organo_emisor"),
         "canonico": obj.get("canonico"),
+        "origen": obj.get("origen"),
         "items_del_banco": obj.get("items_del_banco"),
         "formato_origen": sorted(metodos),
         "codificacion": sorted(codificaciones),

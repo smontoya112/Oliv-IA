@@ -250,6 +250,32 @@
     flex-shrink:0;
   }
   footer strong{ color:var(--teal-dark); }
+
+  /* --- Fuentes, normas citadas y abstención (fase 11) --- */
+  .normas{ margin-top:10px; display:flex; flex-wrap:wrap; gap:6px; white-space:normal; }
+  .norma{
+    font-size:11.5px; padding:3px 9px; border-radius:999px;
+    border:1px solid var(--teal); color:var(--teal-dark); background:#e8f7f8;
+  }
+  .norma.sin-respaldo{ border-color:var(--orange); color:var(--orange-dark); background:#fff6e5; }
+  .aviso-abstencion{
+    margin-top:10px; padding:8px 10px; border-radius:8px; white-space:normal;
+    background:#fff6e5; border:1px solid #f1d29a; color:#8a5a00; font-size:12.5px;
+  }
+  .fuentes{ margin-top:12px; border-top:1px dashed var(--gray-border); padding-top:10px; white-space:normal; }
+  .fuentes > summary{
+    cursor:pointer; font-family:'Montserrat', sans-serif; font-weight:600;
+    font-size:12px; color:var(--teal-dark);
+  }
+  .fuente{
+    margin:8px 0; padding:8px 10px; background:var(--white);
+    border:1px solid var(--gray-border); border-radius:8px; font-size:12.5px;
+  }
+  .fuente-cab{ display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; }
+  .fuente-doc{ font-weight:600; color:var(--navy); word-break:break-all; }
+  .fuente-meta{ color:var(--text-muted); font-size:11px; }
+  .fuente-texto{ margin:6px 0 0; line-height:1.45; white-space:pre-wrap; }
+  .fuente details summary{ cursor:pointer; color:var(--teal-dark); font-size:11.5px; margin-top:6px; }
 </style>
 </head>
 <body>
@@ -335,6 +361,61 @@
     return msg;
   }
 
+  function el(tag, cls, text){
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined) e.textContent = text;   // siempre textContent: nada de HTML inyectado
+    return e;
+  }
+
+  // Debajo de la respuesta: aviso de abstención, normas citadas y fuentes recuperadas.
+  // Si el backend no envía estos campos, no se agrega nada (comportamiento anterior).
+  function addSources(msgEl, data){
+    if (!data || typeof data !== 'object') return;
+    const pasajes = Array.isArray(data.pasajes) ? data.pasajes : [];
+    const normas = Array.isArray(data.normas_citadas) ? data.normas_citadas : [];
+
+    if (data.abstencion) {
+      msgEl.appendChild(el('div', 'aviso-abstencion',
+        'El sistema se abstuvo: no encontró fundamento suficiente en su corpus. ' +
+        'Estas son las fuentes más cercanas que recuperó.'));
+    }
+    if (normas.length) {
+      const box = el('div', 'normas');
+      normas.forEach(n => {
+        const respaldada = n.respaldada !== false;
+        box.appendChild(el('span', 'norma' + (respaldada ? '' : ' sin-respaldo'),
+          n.norma + (respaldada ? '' : ' · sin respaldo')));
+      });
+      msgEl.appendChild(box);
+    }
+    if (pasajes.length) {
+      const det = el('details', 'fuentes');
+      det.appendChild(el('summary', null, `Fuentes recuperadas (${pasajes.length})`));
+      pasajes.forEach((p, i) => {
+        const f = el('div', 'fuente');
+        const cab = el('div', 'fuente-cab');
+        cab.appendChild(el('span', 'fuente-doc', `[P${i + 1}] ${p.doc_id}`));
+        const meta = [];
+        if (p.opcion) meta.push('opción ' + p.opcion);
+        if (typeof p.score === 'number') meta.push('puntaje ' + p.score.toFixed(2));
+        if (meta.length) cab.appendChild(el('span', 'fuente-meta', meta.join(' · ')));
+        f.appendChild(cab);
+        const texto = String(p.texto || '');
+        f.appendChild(el('p', 'fuente-texto', texto.length > 420 ? texto.slice(0, 420) + '…' : texto));
+        if (texto.length > 420) {
+          const full = el('details');
+          full.appendChild(el('summary', null, 'Ver pasaje completo'));
+          full.appendChild(el('p', 'fuente-texto', texto));
+          f.appendChild(full);
+        }
+        det.appendChild(f);
+      });
+      msgEl.appendChild(det);
+    }
+    scrollToBottom();
+  }
+
   async function askModel(pregunta){
     const response = await fetch(MODEL_ENDPOINT, {
       method: 'POST',
@@ -351,9 +432,10 @@
       const data = await response.json();
       // Se espera un campo de texto con la respuesta del modelo.
       // Ajustar aquí si el backend usa otra llave (p.ej. "respuesta", "analisis").
-      return data.respuesta || data.answer || data.texto || JSON.stringify(data, null, 2);
+      const texto = data.respuesta || data.answer || data.texto || JSON.stringify(data, null, 2);
+      return { texto, data };
     }
-    return await response.text();
+    return { texto: await response.text(), data: null };
   }
 
   async function handleSend(){
@@ -368,9 +450,10 @@
     const pendingMsg = addPendingMessage();
 
     try {
-      const respuesta = await askModel(pregunta);
+      const { texto, data } = await askModel(pregunta);
       pendingMsg.remove();
-      addMessage(respuesta, 'bot');
+      const msgEl = addMessage(texto, 'bot');
+      addSources(msgEl, data);
     } catch (err) {
       pendingMsg.remove();
       addMessage(

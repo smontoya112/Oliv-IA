@@ -1,0 +1,89 @@
+Job indice 754579 en nodei-gpu-2 · 2026-10-02 09:59:16
+usando .venv-gpu (torch para CUDA 11.8)
+== 0/4 verificando chunks y GPU
+Quadro RTX 6000, 23040 MiB
+== 1/4 descargando BAAI/bge-m3@5617a9f6 (si ya está en la caché de HF no baja nada)
+modelo en /hpcfs/home/ing_sistemas/s.montoya112/.cache/huggingface/hub/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181
+== 2/4 construyendo índices (BM25 + FAISS)
+chunks: 220903 filas de 3480 documentos (data/processed/chunks.parquet)
+Building index from tokens
+BM25: 220903 chunks, vocabulario 112839 (68 s)
+encoder BAAI/bge-m3@5617a9f6 en cuda (fp16=True)
+tokens por chunk: p50 311, p95 451, máx 3990, truncados 5726
+  encoding 50/1712 lotes (41 s)
+  encoding 100/1712 lotes (79 s)
+  encoding 150/1712 lotes (113 s)
+  encoding 200/1712 lotes (147 s)
+  encoding 250/1712 lotes (179 s)
+  encoding 300/1712 lotes (211 s)
+  encoding 350/1712 lotes (243 s)
+  encoding 400/1712 lotes (274 s)
+  encoding 450/1712 lotes (305 s)
+  encoding 500/1712 lotes (334 s)
+  encoding 550/1712 lotes (363 s)
+  encoding 600/1712 lotes (391 s)
+  encoding 650/1712 lotes (419 s)
+  encoding 700/1712 lotes (446 s)
+  encoding 750/1712 lotes (472 s)
+  encoding 800/1712 lotes (497 s)
+  encoding 850/1712 lotes (521 s)
+  encoding 900/1712 lotes (545 s)
+  encoding 950/1712 lotes (567 s)
+  encoding 1000/1712 lotes (588 s)
+  encoding 1050/1712 lotes (608 s)
+  encoding 1100/1712 lotes (626 s)
+  encoding 1150/1712 lotes (642 s)
+  encoding 1200/1712 lotes (658 s)
+  encoding 1250/1712 lotes (672 s)
+  encoding 1300/1712 lotes (685 s)
+  encoding 1350/1712 lotes (697 s)
+  encoding 1400/1712 lotes (708 s)
+  encoding 1450/1712 lotes (717 s)
+  encoding 1500/1712 lotes (726 s)
+  encoding 1550/1712 lotes (734 s)
+  encoding 1600/1712 lotes (740 s)
+  encoding 1650/1712 lotes (746 s)
+  encoding 1700/1712 lotes (751 s)
+  encoding 1712/1712 lotes (751 s)
+textos únicos codificados: 219011 de 220903 filas
+FAISS IndexFlatIP: 220903 vectores de dim 1024 (856 s)
+n_chunks 220903 | índices en data/index | config data/index/index_config.json
+== 3/4 evaluando recuperación sobre data/sample_50.jsonl
+extrayendo citas de 220903 chunks (se guarda en data/index/citas_chunks.parquet)
+  encoding 2/2 lotes (1 s)
+ítems: 50 | evaluables 40 | fuera del corpus 1 | sin citas extraíbles 9 | con chunk relevante a nivel artículo 19
+RESULTADO bm25   artículo (n=19): Recall@10 0.2895  Recall@50 0.348  MRR@10 0.1509  Hit@10 0.3158
+RESULTADO bm25   documento (n=40): Recall@10 0.4233  Recall@50 0.4527  MRR@10 0.4513  Hit@10 0.725
+RESULTADO bm25   cobertura de citas en el texto: cuerpo@10 0.8125  artículo@10 0.4298  cuerpo@50 0.925
+RESULTADO denso  artículo (n=19): Recall@10 0.3684  Recall@50 0.4605  MRR@10 0.3158  Hit@10 0.4211
+RESULTADO denso  documento (n=40): Recall@10 0.4792  Recall@50 0.5306  MRR@10 0.6025  Hit@10 0.875
+RESULTADO denso  cobertura de citas en el texto: cuerpo@10 0.8625  artículo@10 0.6404  cuerpo@50 0.95
+RESULTADO rrf    artículo (n=19): Recall@10 0.3158  Recall@50 0.4927  MRR@10 0.2737  Hit@10 0.3684
+RESULTADO rrf    documento (n=40): Recall@10 0.459  Recall@50 0.5306  MRR@10 0.5403  Hit@10 0.825
+RESULTADO rrf    cobertura de citas en el texto: cuerpo@10 0.8875  artículo@10 0.6053  cuerpo@50 0.9625
+detalle por ítem en data/index/eval_recuperacion.json
+== 4/4 resumen
+total 1.3G
+drwxr-xr-x 2 s.montoya112 ing_sistemas    5 Oct  2 10:01 bm25
+-rw-r--r-- 1 s.montoya112 ing_sistemas 6.3M Oct  2 09:59 chunk_ids.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 2.2M Oct  2 10:18 citas_chunks.parquet
+-rw-r--r-- 1 s.montoya112 ing_sistemas 432M Oct  2 10:15 embeddings.npy
+-rw-r--r-- 1 s.montoya112 ing_sistemas 198K Oct  2 10:20 eval_recuperacion.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 863M Oct  2 10:15 faiss.index
+-rw-r--r-- 1 s.montoya112 ing_sistemas 1.4K Oct  2 10:15 index_config.json
+  chunks: 220903 filas de 3480 documentos (data/processed/chunks.parquet)
+  BM25: 220903 chunks, vocabulario 112839 (68 s)
+  textos únicos codificados: 219011 de 220903 filas
+  FAISS IndexFlatIP: 220903 vectores de dim 1024 (856 s)
+  n_chunks 220903 | índices en data/index | config data/index/index_config.json
+  ítems: 50 | evaluables 40 | fuera del corpus 1 | sin citas extraíbles 9 | con chunk relevante a nivel artículo 19
+  RESULTADO bm25   artículo (n=19): Recall@10 0.2895  Recall@50 0.348  MRR@10 0.1509  Hit@10 0.3158
+  RESULTADO bm25   documento (n=40): Recall@10 0.4233  Recall@50 0.4527  MRR@10 0.4513  Hit@10 0.725
+  RESULTADO bm25   cobertura de citas en el texto: cuerpo@10 0.8125  artículo@10 0.4298  cuerpo@50 0.925
+  RESULTADO denso  artículo (n=19): Recall@10 0.3684  Recall@50 0.4605  MRR@10 0.3158  Hit@10 0.4211
+  RESULTADO denso  documento (n=40): Recall@10 0.4792  Recall@50 0.5306  MRR@10 0.6025  Hit@10 0.875
+  RESULTADO denso  cobertura de citas en el texto: cuerpo@10 0.8625  artículo@10 0.6404  cuerpo@50 0.95
+  RESULTADO rrf    artículo (n=19): Recall@10 0.3158  Recall@50 0.4927  MRR@10 0.2737  Hit@10 0.3684
+  RESULTADO rrf    documento (n=40): Recall@10 0.459  Recall@50 0.5306  MRR@10 0.5403  Hit@10 0.825
+  RESULTADO rrf    cobertura de citas en el texto: cuerpo@10 0.8875  artículo@10 0.6053  cuerpo@50 0.9625
+== fin: [indice] Terminó con errores (ver .err) · 2026-10-02 10:20:24

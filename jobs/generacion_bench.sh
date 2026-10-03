@@ -29,6 +29,10 @@
 # data/processed/bench_generacion/<modelo>.jsonl (predicciones) y los logs del job.
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
+# El cluster auto-adjunta gdb cuando un proceso aborta (p. ej. un CUDA_CHECK fallido de
+# ggml) y ese backtrace tapa el mensaje real de error en el .err. Se desactivan los core
+# dumps para que, si vuelve a abortar, se vea el error de ggml sin ruido de gdb encima.
+ulimit -c 0
 
 MODELOS=("$@"); [[ ${#MODELOS[@]} -eq 0 ]] && MODELOS=(qwen3-8b llama-3.1-8b salamandra-7b)
 CONTEXTO="${CONTEXTO:-oraculo}"
@@ -44,7 +48,8 @@ fi
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8"
-    module load cuda/11.8 || { echo "ERROR: no existe el módulo cuda/11.8" >&2; ESTADO=3; }
+    cargar_cuda
+cargar_gcc
     if ! .venv-gen/bin/python -c "import llama_cpp" 2>/dev/null; then
         echo "ERROR: .venv-gen no tiene llama_cpp: corran primero sbatch jobs/instalar_llamacpp.sh" >&2
         ESTADO=4
@@ -54,8 +59,10 @@ fi
 if [[ $ESTADO -eq 0 ]]; then
     paso "3/4 benchmark: ${MODELOS[*]}"
     nvidia-smi --query-gpu=name,memory.total --format=csv,noheader
+    # con pasajes reales, la fase 8 respalda las citas con el corpus (data/index) en vez de borrarlas
+    EXTRA=(); [[ "$CONTEXTO" == "recuperacion" && -s data/index/index_config.json ]] && EXTRA=(--catalogo data/index)
     PYTHONPATH=. correr .venv-gen/bin/python -m src.generacion.bench \
-        --modelo "${MODELOS[@]}" --contexto "$CTX_JSON"
+        --modelo "${MODELOS[@]}" --contexto "$CTX_JSON" "${EXTRA[@]}"
     paso "4/4 resultados"
     cat data/processed/bench_generacion.csv
 fi

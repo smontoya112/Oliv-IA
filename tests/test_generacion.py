@@ -6,6 +6,7 @@ import pytest
 
 import src.generacion  # noqa: F401  (agrega scripts/ al path)
 from src.generacion import contexto_prueba
+from src.generacion.ejemplos import EJEMPLOS
 from src.generacion.esquemas import ESQUEMAS, esquema
 from src.generacion.pipeline import generar_lote, preparar
 from src.generacion.postproceso import (contar_palabras, ensamblar, normalizar, parsear_json,
@@ -66,11 +67,14 @@ def test_ensamblar_valido_y_abstencion():
                    PASAJES, latencia_ms=5)
     assert ok["abstencion"] is False and ok["pasajes_recuperados"][0]["doc_id"] == "ley_472_1998"
     assert ok["latencia_ms"] == 5
-    for caso in (ensamblar(SEMI, None, PASAJES), ensamblar(SEMI, {"respuesta": "x"}, PASAJES),
-                 ensamblar(SEMI, {"respuesta": "x", "palabras_clave": ["a"], "referencia_legal": "r"}, [])):
-        assert caso["abstencion"] is True and caso["pasajes_recuperados"] == []
+    for caso in (ensamblar(SEMI, None, PASAJES), ensamblar(SEMI, {"respuesta": "x"}, PASAJES)):
+        # la abstención conserva la evidencia (como el ítem 218 del ejemplo de entrega)
+        assert caso["abstencion"] is True and caso["pasajes_recuperados"][0]["doc_id"] == "ley_472_1998"
+    sin = ensamblar(SEMI, {"respuesta": "x", "palabras_clave": ["a"], "referencia_legal": "r"}, [])
+    assert sin["abstencion"] is True and sin["pasajes_recuperados"] == []
     mc = ensamblar(MC, {"respuesta_correcta": "Q", "justificacion": "j"}, PASAJES)
-    assert mc["abstencion"] is True                                 # letra inválida -> no se inventa
+    # una cerrada nunca se abstiene si hay pasajes (fase 8.4): la letra inválida se reemplaza
+    assert mc["abstencion"] is False and mc["respuesta_correcta"] in MC["opciones"]
 
 
 def test_ensamblar_limita_a_10_pasajes():
@@ -136,6 +140,52 @@ def test_pipeline_con_motor_falso():
     assert esq is ESQUEMAS["multiple_choice"] and usados == PASAJES
 
 
+class MotorConReintento:
+    """Primera pasada: abierta con JSON inválido. Segunda (con repeat_penalty): salida completa."""
+    def __init__(self):
+        self.llamadas = []
+
+    def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=1.0):
+        self.llamadas.append((len(conversaciones), max_tokens, repeat_penalty))
+        if len(self.llamadas) == 1:
+            return ['{"marco_normativo": "art. 1", "analisis": "corta']
+        return [json.dumps({"marco_normativo": "art. 1", "analisis": "Se aplica.",
+                            "jurisprudencia": "Sin sentencias.", "conclusion": "Procede."})]
+
+
+def test_pipeline_reintenta_salida_invalida_con_repeat_penalty():
+    motor = MotorConReintento()
+    sub = generar_lote([ABIERTA], {9: PASAJES}, motor)[0]
+    assert not sub["abstencion"] and sub["conclusion"] == "Procede."
+    assert motor.llamadas == [(1, 1100, 1.0), (1, 1100, 1.2)]
+
+
+def test_pipeline_conserva_abstencion_si_el_reintento_tambien_falla():
+    class Siempre:
+        def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=1.0):
+            return ["no es json"] * len(conversaciones)
+    assert generar_lote([ABIERTA], {9: PASAJES}, Siempre())[0]["abstencion"] is True
+
+
+def test_ejemplos_few_shot_cumplen_el_esquema_de_su_formato():
+    assert set(EJEMPLOS) == set(ESQUEMAS)
+    for formato, turnos in EJEMPLOS.items():
+        assert [t["role"] for t in turnos] == ["user", "assistant"]
+        assert "=== PASAJES ===" in turnos[0]["content"]
+        respuesta = json.loads(turnos[1]["content"])
+        assert set(respuesta) == set(ESQUEMAS[formato]["required"])
+
+
+def test_preparar_incluye_few_shot_por_defecto_y_se_puede_desactivar():
+    con_ejemplos, _, _ = preparar(MC, PASAJES)
+    assert len(con_ejemplos) == 4                    # system, user-ejemplo, assistant-ejemplo, user real
+    assert [m["role"] for m in con_ejemplos] == ["system", "user", "assistant", "user"]
+    assert con_ejemplos[-1]["content"] != con_ejemplos[1]["content"]   # la consulta real, no el ejemplo
+
+    sin_ejemplos, _, _ = preparar(MC, PASAJES, ejemplos={})
+    assert len(sin_ejemplos) == 2 and [m["role"] for m in sin_ejemplos] == ["system", "user"]
+
+
 def test_contexto_oraculo_y_bm25():
     chunks = [
         {"chunk_id": "a", "doc_id": "ley_472_1998", "norma_id_canonico": "ley_472_1998#art_46",
@@ -151,3 +201,23 @@ def test_contexto_oraculo_y_bm25():
     bm = contexto_prueba.BM25Simple(chunks)
     assert bm.buscar("deudor en mora", k=1)[0]["doc_id"] == "codigo_civil"
     assert bm.buscar("palabra inexistente zzz") == []
+
+
+class MotorQueFallaUnaVez(MotorFalso):
+    """La primera llamada corta el JSON de la abierta; el reintento lo devuelve completo."""
+    def __init__(self):
+        self.llamadas = []
+
+    def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=None):
+        self.llamadas.append((len(conversaciones), max_tokens, repeat_penalty))
+        if len(self.llamadas) == 1:
+            return ['{"marco_normativo": "Ley 472 de 1998"'] * len(conversaciones)
+        return [json.dumps({"marco_normativo": "Ley 472 de 1998", "analisis": "Procede.",
+                            "jurisprudencia": "Ninguna.", "conclusion": "Sí."})] * len(conversaciones)
+
+
+def test_pipeline_reintenta_las_salidas_fallidas():
+    motor = MotorQueFallaUnaVez()
+    [s] = generar_lote([ABIERTA], {9: PASAJES}, motor)
+    assert s["abstencion"] is False and s["conclusion"] == "Sí."
+    assert motor.llamadas == [(1, 1100, None), (1, 1100, 1.2)]   # mismo tope + repeat_penalty

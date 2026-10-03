@@ -21,6 +21,7 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from .claves import clave_url, claves_objetivo, claves_registro, prefiere
 from .config import Config
 from .fuentes import base_senado, procesar, validar_objetivo
 from .http import Cliente, ErrorDescarga
@@ -69,16 +70,40 @@ def _cargar_archivo(ruta: Path) -> list[dict]:
     return datos or []
 
 
-def objetivos_desde_enlaces(ruta: Path, existentes: list[dict]) -> list[dict]:
-    """Un objetivo por cada link de la lista que no esté ya en las demás fuentes."""
-    conocidas = {o["url"].split("#")[0].lower() for o in existentes}
-    nuevos = []
+def objetivos_desde_enlaces(ruta: Path, existentes: list[dict],
+                            registros: list[dict] | tuple = ()) -> list[dict]:
+    """Un objetivo por cada link de la lista que no sea ya una norma conocida.
+
+    Identidad: dos links son el mismo documento si comparten clave (src.descarga.claves), sea cual
+    sea el host, la ruta o el ceros a la izquierda. Un link repetido, o que ya está en las demás
+    fuentes (`existentes`), se omite.
+    `registros` son las entradas del manifest de corridas anteriores: si el link ya fue descargado,
+    el objetivo REUTILIZA su doc_id (misma norma = mismo documento: se sirve del caché y no se baja
+    otra vez). Un sufijo -2, -3... solo se usa cuando un doc_id igual pertenece a OTRA norma.
+    Cada objetivo guarda en `origen` el nombre del archivo del que salió (p. ej. ronda_02)."""
+    vistas: set[str] = set()
+    for o in existentes:
+        vistas |= claves_objetivo(o)
+    id_por_clave: dict[str, str] = {}
+    for r in registros:
+        for k in claves_registro(r):
+            id_por_clave.setdefault(k, r["doc_id"])
+
+    nuevos, fijos = [], set()
     for url in leer_enlaces(ruta):
-        if url.split("#")[0].lower() in conocidas:
-            log.info("%s: ya está en las fuentes con metadata explícita, se omite", url)
+        obj = {**objetivo_desde_url(url), "origen": ruta.stem}
+        claves = claves_objetivo(obj)
+        if claves & vistas:
+            log.info("%s: la misma norma ya está en el corpus o en la lista, se omite", url)
             continue
-        nuevos.append(objetivo_desde_url(url))
-    hacer_ids_unicos(nuevos, {o["doc_id"] for o in existentes})
+        vistas |= claves
+        previo = next((id_por_clave[k] for k in sorted(claves) if k in id_por_clave), None)
+        if previo:
+            obj["doc_id"] = previo
+            fijos.add(previo)
+        nuevos.append(obj)
+    ocupados = {o["doc_id"] for o in existentes} | {r["doc_id"] for r in registros} | fijos
+    hacer_ids_unicos([o for o in nuevos if o["doc_id"] not in fijos], ocupados)
     return nuevos
 
 
@@ -114,28 +139,34 @@ def registrar_evento(cfg: Config, evento: dict) -> None:
 
 def actualizar_descubiertos(cfg: Config, objetivos: list[dict], manifest: Manifest) -> int:
     """Cuenta qué normas enlazan los documentos descargados y todavía no están en el corpus.
-    Sirve para priorizar qué descargar después."""
-    ya_incluidas = {base_senado(o["url"]).lower() for o in objetivos}
-    # También lo ya descargado en corridas anteriores (p. ej. las de scraper_proximidad).
-    ya_incluidas |= {base_senado(r["url"]).lower() for r in manifest.docs.values()
-                     if r.get("estado") == "ok" and r.get("url")}
-    veces, citado_por = Counter(), defaultdict(set)
+    Sirve para priorizar qué descargar después. Las distintas URLs de una misma norma cuentan como
+    una sola (src.descarga.claves) y lo ya descargado, bajo cualquier URL, no se vuelve a listar."""
+    ya_incluidas: set[str] = set()
+    for o in objetivos:
+        ya_incluidas |= claves_objetivo(o)
+    for r in manifest.docs.values():            # lo ya descargado en corridas anteriores
+        if r.get("estado") == "ok":
+            ya_incluidas |= claves_registro(r)
+    veces, citado_por, mejor_url = Counter(), defaultdict(set), {}
     for ruta in cfg.dir_raw.glob("*/enlaces.json"):
         doc_id = ruta.parent.name
         for url in json.loads(ruta.read_text(encoding="utf-8")):
             if not any(d in url.lower() for d in _DOMINIOS_NORMATIVOS):
                 continue
-            base = base_senado(url)
-            if base.lower() in ya_incluidas:
+            clave = clave_url(url)
+            if clave in ya_incluidas:
                 continue
-            veces[base] += 1
-            citado_por[base].add(doc_id)
+            base = base_senado(url)
+            veces[clave] += 1
+            citado_por[clave].add(doc_id)
+            if clave not in mejor_url or prefiere(base) < prefiere(mejor_url[clave]):
+                mejor_url[clave] = base
     with cfg.ruta_descubiertos.open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         w.writerow(["url", "veces_enlazada", "n_documentos", "enlazada_desde"])
-        for url, n in veces.most_common():
-            docs = sorted(citado_por[url])
-            w.writerow([url, n, len(docs), " ".join(docs[:10])])
+        for clave, n in veces.most_common():
+            docs = sorted(citado_por[clave])
+            w.writerow([mejor_url[clave], n, len(docs), " ".join(docs[:10])])
     return len(veces)
 
 
@@ -168,13 +199,14 @@ def main() -> None:
     cfg = Config(raiz=args.raiz, respetar_robots=not args.sin_robots)
     rutas = [r for r in args.fuentes if r.exists() or args.fuentes != ap.get_default("fuentes")]
     objetivos = cargar_objetivos(rutas)
+    manifest = Manifest(cfg.ruta_manifest)
     nuevos: list[dict] = []
     for ruta in args.enlaces:
         if not ruta.exists():
             if args.enlaces != ap.get_default("enlaces"):
                 sys.exit(f"No existe {ruta}")
             continue
-        extra = objetivos_desde_enlaces(ruta, objetivos + nuevos)
+        extra = objetivos_desde_enlaces(ruta, objetivos + nuevos, list(manifest.docs.values()))
         log.info("%s: %d links nuevos", ruta, len(extra))
         nuevos.extend(extra)
     objetivos.extend(nuevos)
@@ -188,7 +220,6 @@ def main() -> None:
     else:
         seleccion = nuevos if args.solo_enlaces else objetivos
 
-    manifest = Manifest(cfg.ruta_manifest)
     if args.solo_fallidos:
         seleccion = [o for o in seleccion
                      if (manifest.get(o["doc_id"]) or {}).get("estado") != "ok"]
@@ -229,7 +260,7 @@ def main() -> None:
         print(f"{len(fallos)} documento(s) con error: " + ", ".join(d for d, _ in fallos),
               file=sys.stderr)
     huerfanos = sorted(set(manifest.docs) - {o["doc_id"] for o in objetivos})
-    if huerfanos:
+    if huerfanos and not args.solo_enlaces:   # con --solo-enlaces el resto del corpus no se carga
         print("  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del "
               "manifest si no los quieren): " + ", ".join(huerfanos))
     sin_texto = [r["doc_id"] for r in ok if r.get("advertencias")]
