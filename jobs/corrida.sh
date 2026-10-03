@@ -47,6 +47,7 @@
 # OLIVIA_ABIERTAS (sobrescriben config/responder.json), GCC_MODULE (igual que en jobs/servir.sh).
 
 PARTE="${1:-${SLURM_ARRAY_TASK_ID:-}}"
+PARTES="${PARTES:-3}"     # en cuántas partes se reparten las preguntas (3 por defecto; la cola gpu da 2 GPU por usuario)
 PREGUNTAS="${2:-data/test_992.jsonl}"
 LOTE="data/lote/$(basename "$PREGUNTAS" .jsonl)"     # una carpeta por entrada: la prueba no pisa la real
 
@@ -71,7 +72,9 @@ PY="${PYTHON:-.venv-gpu/bin/python}"
 py() { PYTHONPATH=. "$PY" "$@"; }
 
 paso "0/3 verificando parte, entrada, índice, entorno y GPU"
-[[ "$PARTE" =~ ^[1-3]$ ]] || { echo "ERROR: falta el número de parte (1, 2 o 3): sbatch jobs/corrida.sh N" >&2; ESTADO=2; }
+if ! [[ "$PARTE" =~ ^[0-9]+$ ]] || (( PARTE < 1 || PARTE > PARTES )); then
+    echo "ERROR: falta el número de parte (1..$PARTES): sbatch jobs/corrida.sh N" >&2; ESTADO=2
+fi
 # el índice y los chunks son los de config/responder.json (hoy data/index_base): se validan ESOS
 IDX="$(py -c "import json; print(json.load(open('config/responder.json'))['indice'])" 2>/dev/null)"; IDX="${IDX:-data/index}"
 CHUNKS="$(py -c "import json,sys; print(json.load(open(sys.argv[1]+'/index_config.json'))['chunks'])" "$IDX" 2>/dev/null)"
@@ -81,7 +84,7 @@ for f in "$PREGUNTAS" "$IDX/faiss.index" "$IDX/index_config.json" "$IDX/chunk_id
 done
 echo "índice $IDX · chunks ${CHUNKS:-?} · config $(tr -d '\n ' < config/responder.json)"
 [[ -x "$PY" ]] || { echo "ERROR: falta $PY (hypatia: jobs/instalar_torch_gpu.sh + instalar_responder.sh; PC: jobs/preparar_local.sh)" >&2; ESTADO=2; }
-echo "parte $PARTE · entrada $PREGUNTAS · $(hostname) · commit $(git log -1 --oneline 2>/dev/null)"
+echo "parte $PARTE de $PARTES · entrada $PREGUNTAS · $(hostname) · commit $(git log -1 --oneline 2>/dev/null)"
 nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv,noheader || true
 if [[ $ESTADO -eq 0 ]] && ! py -c "
 import sys, torch, llama_cpp
@@ -94,8 +97,8 @@ sys.exit(0 if ok else 1)"; then
 fi
 
 if [[ $ESTADO -eq 0 ]]; then
-    paso "1/3 división de $PREGUNTAS en 3 partes"
-    correr py -m src.lote dividir --preguntas "$PREGUNTAS" --partes 3 --dir "$LOTE"
+    paso "1/3 división de $PREGUNTAS en $PARTES partes"
+    correr py -m src.lote dividir --preguntas "$PREGUNTAS" --partes "$PARTES" --dir "$LOTE"
 fi
 
 if [[ $ESTADO -eq 0 ]]; then

@@ -18,8 +18,9 @@
 # sigue donde iba, y la unión se hace a mano (comando al final de este mensaje) cuando las tres estén completas.
 # La cola de hypatia limita las GPU por usuario (QOSMaxGRESPerUser): si no caben las tres, la última espera su turno.
 #
-# Variables: PYTHON (por defecto .venv-gpu/bin/python), ESPERAR (job previo), PARTES (por defecto 3, no cambiarlo
-# sin cambiar jobs/corrida.sh), SBATCH_EXTRA (p. ej. "-A cuenta").
+# Variables: PYTHON (por defecto .venv-gpu/bin/python), ESPERAR (job previo), PARTES (por defecto 3; con solo 2 GPU
+# libres para el usuario, PARTES=2 reparte mejor: cada parte tarda ~1,5 veces más pero no queda ninguna esperando),
+# SBATCH_EXTRA (p. ej. "-A cuenta").
 set -uo pipefail
 cd "$(dirname "${BASH_SOURCE[0]}")/.." || exit 2
 PREGUNTAS="${1:-data/test_992.jsonl}"
@@ -49,6 +50,16 @@ if [[ $fallo -eq 0 ]]; then
     fi
 fi
 [[ $fallo -eq 0 ]] || exit 2
+
+export PARTES      # lo lee jobs/corrida.sh
+# La cola gpu limita las GPU por usuario (QOS): si no caben todas las partes a la vez, las últimas esperan su turno
+# y la corrida tarda más. Con PARTES=2 y 2 GPU libres el reparto es el que menos tarda.
+LIM="$(sacctmgr -n -P show qos gpu format=MaxTRESPU 2>/dev/null | grep -o 'gres/gpu=[0-9]*' | head -1 | cut -d= -f2)"
+USO="$(squeue -h -u "$USER" -p gpu -t RUNNING -o '%b' 2>/dev/null | grep -c gpu)"
+if [[ -n "$LIM" ]] && (( USO + PARTES > LIM )); then
+    echo "AVISO: la cola gpu permite $LIM GPU por usuario y ya usas $USO (squeue -u \$USER): de las $PARTES partes solo" \
+         "caben $(( LIM > USO ? LIM - USO : 0 )) a la vez y el resto espera. Liberen GPU (scancel de lo que no haga falta) o usen PARTES=$(( LIM > USO ? LIM - USO : 1 ))."
+fi
 
 echo "== 2/4 dividiendo $PREGUNTAS en $PARTES partes"
 PYTHONPATH=. "$PY" -m src.lote dividir --preguntas "$PREGUNTAS" --partes "$PARTES" --dir "$LOTE" || exit $?
