@@ -15,7 +15,7 @@ la única diferencia en `src/` y `config/` es que se borró `src/generacion/humo
 | Encoder / dimensión / tipo | `BAAI/bge-m3`, 1024, `IndexFlatIP`; BM25 con `bm25s` (k1 1,2; b 0,75) |
 | Preguntas de entrada (`data/test_992.jsonl`) | sha256 que empieza por `9b128c805169f634` (992 líneas; el mismo archivo en las máquinas) |
 
-Para comprobarlos tras instalar el comprimido: `python scripts/entrega_corpus.py instalar --zip corpus_Oliv-IA.zip` (compara ambos hashes). El sha256 del comprimido lo imprime `jobs/entrega_corpus.sh` al generarlo.
+Para comprobarlos tras instalar el comprimido: `python scripts/entrega_corpus.py instalar --zip corpus_Oliv-IA.zip` (compara ambos hashes). El comprimido entregado (`corpus_Oliv-IA.zip`, 365.524.102 bytes) tiene sha256 `462cd0166db753de1fcf01f35f85850a9b8ae90ba2424c4220e38cf5300f4c16` y está en https://1drv.ms/u/c/6c8185a7cb3fb6b0/IQCTpAESkIKYRqOr3PiM6w10AbC6z_9dPSdXqr41knvdnqY?e=cj23d1 (lectura pública). La copia de `corpus_manifest.json` que va dentro del zip se generó antes de existir el enlace y trae `enlace_nube` como pendiente; la del repositorio sí lo trae.
 
 **Modelos** (públicos; revisiones exactas de la caché de Hugging Face de hypatia; el nombre del blob es su sha256):
 

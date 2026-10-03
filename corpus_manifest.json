@@ -2,7 +2,7 @@
  "equipo": "Oliv-IA",
  "licencia": "CC-BY-4.0",
  "fecha_generacion": "2026-10-03",
- "enlace_nube": "<pendiente: URL del comprimido con el corpus y el índice>",
+ "enlace_nube": "https://1drv.ms/u/c/6c8185a7cb3fb6b0/IQCTpAESkIKYRqOr3PiM6w10AbC6z_9dPSdXqr41knvdnqY?e=cj23d1",
  "encoder": "BAAI/bge-m3",
  "dimension": 1024,
  "indice": "FAISS IndexFlatIP (denso) + BM25 (bm25s)",
