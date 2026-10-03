@@ -17,6 +17,16 @@ def test_normalizar_nombre(nombre, clave):
     assert st.normalizar_nombre(nombre) == clave
 
 
+def test_problema_juridico_sin_sentencia_es_un_caso():
+    caso = {"formato": "semi_open", "sub_tarea": "Problema jurídico",
+            "pregunta": "Una ministra a quien le fue aceptada la renuncia continúa celebrando "
+                        "contratos. ¿Puede ser sujeto activo de peculado?"}
+    assert st.clave(caso) == "caso"
+    sentencia = {"formato": "semi_open", "sub_tarea": "Problema jurídico",
+                 "pregunta": "¿Cuál es el problema jurídico abordado en la sentencia SU-455 de 2020?"}
+    assert st.clave(sentencia) == "problema"
+
+
 @pytest.mark.parametrize("pregunta,clave", [
     ("¿Qué dice el artículo 113 del Código Civil en relación al matrimonio?", "literal"),
     ("Cité un fragmento de el artículo 60 del código sustantivo del trabajo que menciona la "
@@ -37,16 +47,6 @@ def test_normalizar_nombre(nombre, clave):
      "años y sin autonomía alguna. ¿Existe una relación laboral con las prestaciones del caso?",
      "caso"),
 ])
-def test_problema_juridico_sin_sentencia_es_un_caso():
-    caso = {"formato": "semi_open", "sub_tarea": "Problema jurídico",
-            "pregunta": "Una ministra a quien le fue aceptada la renuncia continúa celebrando "
-                        "contratos. ¿Puede ser sujeto activo de peculado?"}
-    assert st.clave(caso) == "caso"
-    sentencia = {"formato": "semi_open", "sub_tarea": "Problema jurídico",
-                 "pregunta": "¿Cuál es el problema jurídico abordado en la sentencia SU-455 de 2020?"}
-    assert st.clave(sentencia) == "problema"
-
-
 def test_inferir(pregunta, clave):
     assert st.inferir(pregunta, None) == clave
 
