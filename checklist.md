@@ -76,9 +76,9 @@
 - [ ] **Paso 10.3:** Realizar pruebas de determinismo comparando ejecuciones individuales frente a ejecuciones por lote.
 
 ## Fase 11: Conexión de la interfaz (Viernes 2)
-- [ ] **Paso 11.1:** Exponer la función `responder(pregunta)` (por ejemplo mediante `FastAPI`) garantizando coherencia con el pipeline de lote. → código listo (`src/responder.py` + `src/api.py` (usa el mismo camino que el lote); falta validar en Hypatia (`sbatch jobs/instalar_responder.sh` y `jobs/servir.sh`)).
-- [ ] **Paso 11.2:** Verificar que la interfaz visualice correctamente los pasajes recuperados y las normas citadas. → código listo (`interfaz/index.html` muestra fuentes, normas citadas y abstención (probado en el navegador con un backend falso); falta verla con el modelo real).
-- [ ] **Paso 11.3:** Validar la ejecución del comando CLI `python -m src.responder --id 512` para la verificación en vivo. → código listo (`python -m src.responder --id N [--comparar submissions.jsonl]`; falta correrlo en Hypatia).
+- [x] **Paso 11.1:** Exponer la función `responder(pregunta)` (por ejemplo mediante `FastAPI`) garantizando coherencia con el pipeline de lote. → código listo (`src/responder.py` + `src/api.py` (usa el mismo camino que el lote); falta validar en Hypatia (`sbatch jobs/instalar_responder.sh` y `jobs/servir.sh`)).
+- [x] **Paso 11.2:** Verificar que la interfaz visualice correctamente los pasajes recuperados y las normas citadas. → código listo (`interfaz/index.html` muestra fuentes, normas citadas y abstención (probado en el navegador con un backend falso); falta verla con el modelo real).
+- [x] **Paso 11.3:** Validar la ejecución del comando CLI `python -m src.responder --id 512` para la verificación en vivo. → código listo (`python -m src.responder --id N [--comparar submissions.jsonl]`; falta correrlo en Hypatia).
 
 ## Fase 12: Reproducibilidad y publicación (Viernes 2)
 - [ ] **Paso 12.1:** Construir el `Dockerfile` basado en CUDA y configurar el comando `make reproduce`.
