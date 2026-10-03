@@ -61047,6 +61047,17 @@
     "estado": "ok"
   },
   {
+    "doc_id": "decreto_2663_1950",
+    "titulo": "Decreto 2663 de 1950",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html",
+    "areas": [
+      "laboral"
+    ],
+    "estado": "error",
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html"
+  },
+  {
     "doc_id": "decreto_2667_2001",
     "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [DECRETO_2667_2001]",
     "fuente": "Secretaría General del Senado",
@@ -65588,6 +65599,17 @@
     ],
     "advertencias": [],
     "estado": "ok"
+  },
+  {
+    "doc_id": "decreto_3030_2022",
+    "titulo": "Decreto 3030 de 2022",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html",
+    "areas": [
+      "tributario"
+    ],
+    "estado": "error",
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html"
   },
   {
     "doc_id": "decreto_3032_2013",
@@ -72727,6 +72749,17 @@
     ],
     "advertencias": [],
     "estado": "ok"
+  },
+  {
+    "doc_id": "decreto_4302_2008",
+    "titulo": "Decreto 4302 de 2008",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html",
+    "areas": [
+      "mercados"
+    ],
+    "estado": "error",
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html"
   },
   {
     "doc_id": "decreto_4320_2008",
@@ -125041,6 +125074,17 @@
     "estado": "ok"
   },
   {
+    "doc_id": "ley_2568_2021",
+    "titulo": "Ley 2568 de 2021",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html",
+    "areas": [
+      "tributario"
+    ],
+    "estado": "error",
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html"
+  },
+  {
     "doc_id": "ley_2568_2026",
     "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_2568_2026]",
     "fuente": "Secretaría General del Senado",
@@ -126887,7 +126931,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "ley_29_1982: no hay descarga previa para convertir"
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html"
   },
   {
     "doc_id": "ley_2_1976",
@@ -130036,6 +130080,17 @@
     "estado": "ok"
   },
   {
+    "doc_id": "ley_45_1990",
+    "titulo": "Ley 45 de 1990",
+    "fuente": "Secretaría General del Senado",
+    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html",
+    "areas": [
+      "comercial"
+    ],
+    "estado": "error",
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html"
+  },
+  {
     "doc_id": "ley_461_1998",
     "titulo": "Leyes desde 1992 - Vigencia expresa y control de constitucionalidad [LEY_0461_1998]",
     "fuente": "Secretaría General del Senado",
@@ -131596,7 +131651,7 @@
       "familia"
     ],
     "estado": "error",
-    "error": "ley_54_1990: no hay descarga previa para convertir"
+    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html"
   },
   {
     "doc_id": "ley_550_1999",
@@ -156553,6 +156608,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_c-148_2025",
+    "titulo": "Sentencia C-148 de 2025",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2025/C-148-25.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "tributario"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-148",
+    "anio": 2025,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-148",
+      "2025"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2025/C-148-25.htm"
+    ],
+    "sha256_partes": [
+      "e2dc71be3883187fb53423c70a3379b06dbbaab21971cc550470a998d974504c"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 1043427,
+    "n_articulos_detectados": 12,
+    "archivo_md": "md/sentencia_c-148_2025.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_c-149_1993",
     "titulo": "Sentencia C-149 de 1993",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -157297,6 +157396,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_c-29_2009",
+    "titulo": "Sentencia C-029 de 2009",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2009/C-029-09.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "familia"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-029",
+    "anio": 2009,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-29",
+      "2009"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2009/C-029-09.htm"
+    ],
+    "sha256_partes": [
+      "d9d4562432d7df92e96df2cda4f276211932b18e90d4a8ae590737991fbae6e6"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 500811,
+    "n_articulos_detectados": 25,
+    "archivo_md": "md/sentencia_c-29_2009.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_c-306_2012",
     "titulo": null,
     "fuente": "Relatoría de la Corte Constitucional",
@@ -157322,6 +157465,50 @@
     "areas": null,
     "estado": "error",
     "error": "Agotados los reintentos para http://www.corteconstitucional.gov.co/relatoria/2002/C-317-02.htm: RemoteProtocolError: Server disconnected without sending a response."
+  },
+  {
+    "doc_id": "sentencia_c-317_2025",
+    "titulo": "Sentencia C-317 de 2025",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2025/C-317-25.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-317",
+    "anio": 2025,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-317",
+      "2025"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2025/C-317-25.htm"
+    ],
+    "sha256_partes": [
+      "24e8b2b5d5c7f1825b1b7035c454b099fab0c6966e79cf8f0af667a1c08af690"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 144223,
+    "n_articulos_detectados": 14,
+    "archivo_md": "md/sentencia_c-317_2025.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "sentencia_c-319_2006",
@@ -157893,6 +158080,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_c-448_2020",
+    "titulo": "Sentencia C-448 de 2020",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2020/C-448-20.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "tributario"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-448",
+    "anio": 2020,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-448",
+      "2020"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2020/C-448-20.htm"
+    ],
+    "sha256_partes": [
+      "d83fb55eccac102af704119295442b3e7b1976a71b554b5de6a5e352b90bb52e"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 256419,
+    "n_articulos_detectados": 26,
+    "archivo_md": "md/sentencia_c-448_2020.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_c-459_2023",
     "titulo": "Sentencia C-459 de 2023",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -157929,6 +158160,50 @@
     "n_caracteres": 145207,
     "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_c-459_2023.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_c-465_2008",
+    "titulo": "Sentencia C-465 de 2008",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-465-08.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "laboral"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-465",
+    "anio": 2008,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-465",
+      "2008"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2008/C-465-08.htm"
+    ],
+    "sha256_partes": [
+      "d7c4fa145d31d042c20d71175b6741be6a74ab5ee5f0e5894190189e1cfd780f"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 94751,
+    "n_articulos_detectados": 13,
+    "archivo_md": "md/sentencia_c-465_2008.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -158308,6 +158583,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_c-539_2016",
+    "titulo": "Sentencia C-539 de 2016",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2016/C-539-16.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "penal"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-539",
+    "anio": 2016,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-539",
+      "2016"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2016/C-539-16.htm"
+    ],
+    "sha256_partes": [
+      "b18bbff0fa82e38bc19751f55c229a23a836b871ecc74ebfb01c435955dcdc0e"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 262119,
+    "n_articulos_detectados": 10,
+    "archivo_md": "md/sentencia_c-539_2016.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_c-540_2023",
     "titulo": "Sentencia C-540 de 2023",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -158544,6 +158863,50 @@
     "metadata_autocompletada": [
       "numero",
       "areas"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_c-581_2001",
+    "titulo": "Sentencia C-581 de 2001",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2001/C-581-01.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "penal"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-581",
+    "anio": 2001,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-581",
+      "2001"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 3,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2001/C-581-01.htm"
+    ],
+    "sha256_partes": [
+      "ab9288ebd57393234bbf5b5f1e7770c9bc16411873f7339a2fba32b56410862e"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 76922,
+    "n_articulos_detectados": 4,
+    "archivo_md": "md/sentencia_c-581_2001.md",
+    "metadata_autocompletada": [
+      "numero"
     ],
     "advertencias": [],
     "estado": "ok"
@@ -158910,6 +159273,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_c-75_2007",
+    "titulo": "Sentencia C-075 de 2007",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2007/C-075-07.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "familia"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-075",
+    "anio": 2007,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-75",
+      "2007"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2007/C-075-07.htm"
+    ],
+    "sha256_partes": [
+      "3360a95d63943df4998cea01f41385e51548cdeab56ad1f145284cf7dbb4a917"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 245380,
+    "n_articulos_detectados": 16,
+    "archivo_md": "md/sentencia_c-75_2007.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_c-781_2012",
     "titulo": null,
     "fuente": "Relatoría de la Corte Constitucional",
@@ -158996,6 +159403,50 @@
     "areas": null,
     "estado": "error",
     "error": "Agotados los reintentos para http://www.corteconstitucional.gov.co/relatoria/2006/C-823-06.htm: RemoteProtocolError: Server disconnected without sending a response."
+  },
+  {
+    "doc_id": "sentencia_c-878_2011",
+    "titulo": "Sentencia C-878 de 2011",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-878-11.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "tributario"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "C-878",
+    "anio": 2011,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "C-878",
+      "2011"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2011/C-878-11.htm"
+    ],
+    "sha256_partes": [
+      "16457cb00e2ea355b58888952ec2455caeb435428ff2908ad545484e9c2ac19a"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 75401,
+    "n_articulos_detectados": 12,
+    "archivo_md": "md/sentencia_c-878_2011.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "sentencia_c-889_2012",
@@ -160141,6 +160592,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_su-140_2019",
+    "titulo": "Sentencia SU-140 de 2019",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2019/SU140-19.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "laboral"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-140",
+    "anio": 2019,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-140",
+      "2019"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2019/SU140-19.htm"
+    ],
+    "sha256_partes": [
+      "18057d4804adc33a387ece0269ae9f6ea33af7a598947889ee9286a050302135"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 666133,
+    "n_articulos_detectados": 30,
+    "archivo_md": "md/sentencia_su-140_2019.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_su-149_2021",
     "titulo": "Sentencia SU-149 de 2021",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -160177,6 +160672,50 @@
     "n_caracteres": 186266,
     "n_articulos_detectados": 16,
     "archivo_md": "md/sentencia_su-149_2021.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-167_2023",
+    "titulo": "Sentencia SU-167 de 2023",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2023/SU167-23.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-167",
+    "anio": 2023,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-167",
+      "2023"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2023/SU167-23.htm"
+    ],
+    "sha256_partes": [
+      "fb3760fc582885580a6173102e3162a60a32c56b6b9be442a0f4a8de21a81082"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 260496,
+    "n_articulos_detectados": 11,
+    "archivo_md": "md/sentencia_su-167_2023.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -160356,6 +160895,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_su-237_2019",
+    "titulo": "Sentencia SU-237 de 2019",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2019/SU237-19.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-237",
+    "anio": 2019,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-237",
+      "2019"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2019/SU237-19.htm"
+    ],
+    "sha256_partes": [
+      "e21450c85adeb13296d17e10195f54e9d01f8a4f882eef8dbb621f109fd572dc"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 101449,
+    "n_articulos_detectados": 2,
+    "archivo_md": "md/sentencia_su-237_2019.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_su-240_2015",
     "titulo": "Sentencia SU-240 de 2015",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -160452,6 +161035,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_su-279_2019",
+    "titulo": "Sentencia SU-279 de 2019",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2019/SU-279-19.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "civil"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-279",
+    "anio": 2019,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-279",
+      "2019"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "utf-8"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2019/SU-279-19.htm"
+    ],
+    "sha256_partes": [
+      "55d029713061c29eed7aae90c8d4a324616f6fade8c9eb192cdd34bd2b3c8798"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 101,
+    "n_articulos_detectados": 0,
+    "archivo_md": "md/sentencia_su-279_2019.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_su-27_2021",
     "titulo": "Sentencia SU-027 de 2021",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -160488,6 +161115,96 @@
     "n_caracteres": 168420,
     "n_articulos_detectados": 3,
     "archivo_md": "md/sentencia_su-27_2021.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-288_2015",
+    "titulo": "Sentencia SU-288 de 2015",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU288-15.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional",
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-288",
+    "anio": 2015,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-288",
+      "2015"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 2,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2015/SU288-15.htm"
+    ],
+    "sha256_partes": [
+      "a3c18e00ea37877ff02c10560472527cba428003150c58acf204073ef0029b72"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 131382,
+    "n_articulos_detectados": 4,
+    "archivo_md": "md/sentencia_su-288_2015.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-292_2025",
+    "titulo": "Sentencia SU-292 de 2025",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2025/SU292-25.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional",
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-292",
+    "anio": 2025,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-292",
+      "2025"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 2,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2025/SU292-25.htm"
+    ],
+    "sha256_partes": [
+      "27456c7ff926be48b8a278e3de2eb736fecc1962a0d7b9bcf98bf91c9668f3ac"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 305473,
+    "n_articulos_detectados": 14,
+    "archivo_md": "md/sentencia_su-292_2025.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -160574,6 +161291,50 @@
     "n_caracteres": 165056,
     "n_articulos_detectados": 8,
     "archivo_md": "md/sentencia_su-315_2025.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-336_2017",
+    "titulo": "Sentencia SU-336 de 2017",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2017/SU336-17.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-336",
+    "anio": 2017,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-336",
+      "2017"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2017/SU336-17.htm"
+    ],
+    "sha256_partes": [
+      "6b4e85800e648b9d31366aeeb171303781dbda4f540cab54caeac222efe142ad"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 407897,
+    "n_articulos_detectados": 10,
+    "archivo_md": "md/sentencia_su-336_2017.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -160669,6 +161430,94 @@
     "n_caracteres": 153402,
     "n_articulos_detectados": 6,
     "archivo_md": "md/sentencia_su-396_2024.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-40_2018",
+    "titulo": "Sentencia SU-040 de 2018",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2018/SU040-18.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "laboral"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-040",
+    "anio": 2018,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-40",
+      "2018"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2018/SU040-18.htm"
+    ],
+    "sha256_partes": [
+      "198c7360891190a3d1fe588d5e876a38817f17944487a05ac1581dee4fc693db"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 137744,
+    "n_articulos_detectados": 3,
+    "archivo_md": "md/sentencia_su-40_2018.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-41_2022",
+    "titulo": "Sentencia SU-041 de 2022",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2022/SU041-22.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "civil"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-041",
+    "anio": 2022,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-41",
+      "2022"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2022/SU041-22.htm"
+    ],
+    "sha256_partes": [
+      "48d9cb715b2f7a93ba2b510d2cebe80072d6922d4d74d0f640e4bb5cc75c511b"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 98092,
+    "n_articulos_detectados": 1,
+    "archivo_md": "md/sentencia_su-41_2022.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -160805,6 +161654,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_su-452_2024",
+    "titulo": "Sentencia SU-452 de 2024",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2024/SU452-24.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-452",
+    "anio": 2024,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-452",
+      "2024"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2024/SU452-24.htm"
+    ],
+    "sha256_partes": [
+      "01374611190a8d8c4afa1a0d3232d993d7276a7734b08a463070f288a82b2b78"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 215980,
+    "n_articulos_detectados": 14,
+    "archivo_md": "md/sentencia_su-452_2024.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_su-455_2020",
     "titulo": "Sentencia SU-455 de 2020",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -160891,6 +161784,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_su-499_2024",
+    "titulo": "Sentencia SU-499 de 2024",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2024/SU499-24.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-499",
+    "anio": 2024,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-499",
+      "2024"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2024/SU499-24.htm"
+    ],
+    "sha256_partes": [
+      "34be2ded9dcda4625d58545e8400d119341049fbd1f764cd3ae1287d012556c5"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 257137,
+    "n_articulos_detectados": 6,
+    "archivo_md": "md/sentencia_su-499_2024.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_su-500_2015",
     "titulo": "Sentencia SU-500 de 2015",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -160927,6 +161864,50 @@
     "n_caracteres": 281213,
     "n_articulos_detectados": 7,
     "archivo_md": "md/sentencia_su-500_2015.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_su-54_2015",
+    "titulo": "Sentencia SU-054 de 2015",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2015/SU054-15.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "civil"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-054",
+    "anio": 2015,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-54",
+      "2015"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2015/SU054-15.htm"
+    ],
+    "sha256_partes": [
+      "3af93e32e9f7cdc5ce73270a8d0c27d261cfdc1f6c74dc693560977d2483c97c"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 275153,
+    "n_articulos_detectados": 9,
+    "archivo_md": "md/sentencia_su-54_2015.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -160977,6 +161958,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_su-575_2019",
+    "titulo": "Sentencia SU-575 de 2019",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2019/SU575-19.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-575",
+    "anio": 2019,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-575",
+      "2019"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2019/SU575-19.htm"
+    ],
+    "sha256_partes": [
+      "03a91084d9d3d09fe8c0e83eea8c221ceb780a2a2b471b8f9c90b07dd9f7bd4f"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 209197,
+    "n_articulos_detectados": 9,
+    "archivo_md": "md/sentencia_su-575_2019.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_su-642_1998",
     "titulo": null,
     "fuente": "Relatoría de la Corte Constitucional",
@@ -160984,6 +162009,50 @@
     "areas": null,
     "estado": "error",
     "error": "Agotados los reintentos para http://www.corteconstitucional.gov.co/relatoria/1998/SU642-98.htm: RemoteProtocolError: Server disconnected without sending a response."
+  },
+  {
+    "doc_id": "sentencia_su-691_2017",
+    "titulo": "Sentencia SU-691 de 2017",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2017/SU691-17.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "SU-691",
+    "anio": 2017,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "SU-691",
+      "2017"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2017/SU691-17.htm"
+    ],
+    "sha256_partes": [
+      "fbebfeaad787b01a787004fdb72c2be51623957325e334d9ca62e2e08c6098c7"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 403890,
+    "n_articulos_detectados": 5,
+    "archivo_md": "md/sentencia_su-691_2017.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "sentencia_su-891_2007",
@@ -161229,6 +162298,95 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_t-202_2018",
+    "titulo": "Sentencia T-202 de 2018",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2018/T-202-18.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "familia"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-202",
+    "anio": 2018,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-202",
+      "2018"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 2,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2018/T-202-18.htm"
+    ],
+    "sha256_partes": [
+      "c631253b4a1d5e637ddeaa81d7c70e10ca98ffa30de5f5531bf596824d356315"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 176396,
+    "n_articulos_detectados": 5,
+    "archivo_md": "md/sentencia_t-202_2018.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_t-202_2024",
+    "titulo": "Sentencia T-202 de 2024",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2024/T-202-24.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "penal",
+      "laboral"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-202",
+    "anio": 2024,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-202",
+      "2024"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 2,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2024/T-202-24.htm"
+    ],
+    "sha256_partes": [
+      "2ecf5f60a6b309b2eba411fb5ec0146ebc1f0d524cfde7095abad08b9ef21658"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 294506,
+    "n_articulos_detectados": 12,
+    "archivo_md": "md/sentencia_t-202_2024.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_t-230_2023",
     "titulo": "Sentencia T-230 de 2023",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -161401,6 +162559,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_t-254_2006",
+    "titulo": "Sentencia T-254 de 2006",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2006/T-254-06.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "civil"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-254",
+    "anio": 2006,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-254",
+      "2006"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2006/T-254-06.htm"
+    ],
+    "sha256_partes": [
+      "becc3a1d53435ae4b17ce89cdabc19d7c13eefde37c3365bf431de4e056400d3"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 115016,
+    "n_articulos_detectados": 5,
+    "archivo_md": "md/sentencia_t-254_2006.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_t-256_2025",
     "titulo": "Sentencia T-256 de 2025",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -161566,6 +162768,138 @@
     "n_caracteres": 170394,
     "n_articulos_detectados": 2,
     "archivo_md": "md/sentencia_t-26_2025.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_t-277_2018",
+    "titulo": "Sentencia T-277 de 2018",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2018/T-277-18.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-277",
+    "anio": 2018,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-277",
+      "2018"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2018/T-277-18.htm"
+    ],
+    "sha256_partes": [
+      "59f5fa91e12c97e276c75719c1d24b3ffc8096eca6e44cc0e7cd9ea3641bef65"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 158783,
+    "n_articulos_detectados": 4,
+    "archivo_md": "md/sentencia_t-277_2018.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_t-284_2025",
+    "titulo": "Sentencia T-284 de 2025",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2025/T-284-25.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "penal"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-284",
+    "anio": 2025,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-284",
+      "2025"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2025/T-284-25.htm"
+    ],
+    "sha256_partes": [
+      "26050dae47a83a85b65ce198ed016f0f85d0a775fff819f66796b249ba68f089"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 116126,
+    "n_articulos_detectados": 6,
+    "archivo_md": "md/sentencia_t-284_2025.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_t-287_2022",
+    "titulo": "Sentencia T-287 de 2022",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2022/T-287-22.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-287",
+    "anio": 2022,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-287",
+      "2022"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2022/T-287-22.htm"
+    ],
+    "sha256_partes": [
+      "fdc1d1b314f936f295a21ad12020586cead4669bd17c48527fec956ef58ea8d4"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 117155,
+    "n_articulos_detectados": 2,
+    "archivo_md": "md/sentencia_t-287_2022.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -161757,6 +163091,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_t-426_2003",
+    "titulo": "Sentencia T-426 de 2003",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2003/T-426-03.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-426",
+    "anio": 2003,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-426",
+      "2003"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2003/T-426-03.htm"
+    ],
+    "sha256_partes": [
+      "5291dd1617ce6a0503a56ea3cd0f1eebf69ab321ae421d255736443c0fa9c755"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 43744,
+    "n_articulos_detectados": 1,
+    "archivo_md": "md/sentencia_t-426_2003.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_t-429_2011",
     "titulo": "Sentencia T-429 de 2011",
     "fuente": "Relatoría de la Corte Constitucional",
@@ -161843,6 +163221,50 @@
     "estado": "ok"
   },
   {
+    "doc_id": "sentencia_t-456_2024",
+    "titulo": "Sentencia T-456 de 2024",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2024/T-456-24.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "laboral"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-456",
+    "anio": 2024,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-456",
+      "2024"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2024/T-456-24.htm"
+    ],
+    "sha256_partes": [
+      "d40a76a9e3212d2c7b5fad2d4c81add39fe8b220105a093b1c398f4b96ee9fa6"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 125032,
+    "n_articulos_detectados": 20,
+    "archivo_md": "md/sentencia_t-456_2024.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
     "doc_id": "sentencia_t-496_2008",
     "titulo": null,
     "fuente": "Relatoría de la Corte Constitucional",
@@ -161850,6 +163272,50 @@
     "areas": null,
     "estado": "error",
     "error": "Agotados los reintentos para http://www.corteconstitucional.gov.co/relatoria/2008/T-496-08.htm: RemoteProtocolError: Server disconnected without sending a response."
+  },
+  {
+    "doc_id": "sentencia_t-4_2016",
+    "titulo": "Sentencia T-004 de 2016",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2016/T-004-16.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "familia"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-004",
+    "anio": 2016,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-4",
+      "2016"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2016/T-004-16.htm"
+    ],
+    "sha256_partes": [
+      "7136dbed0be61a554e27fa396987d7da329f0c9d58f094105807ee0e9a87849d"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 41745,
+    "n_articulos_detectados": 3,
+    "archivo_md": "md/sentencia_t-4_2016.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "sentencia_t-4_2026",
@@ -161932,6 +163398,50 @@
     "n_caracteres": 124099,
     "n_articulos_detectados": 2,
     "archivo_md": "md/sentencia_t-547_2017.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_t-617_2010",
+    "titulo": "Sentencia T-617 de 2010",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2010/T-617-10.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "constitucional"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-617",
+    "anio": 2010,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-617",
+      "2010"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2010/T-617-10.htm"
+    ],
+    "sha256_partes": [
+      "d09528f7f8146b7fe713001cf1fcc640db4128d4514725efece1bf8ef0c26c48"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 273647,
+    "n_articulos_detectados": 11,
+    "archivo_md": "md/sentencia_t-617_2010.md",
     "metadata_autocompletada": [
       "numero"
     ],
@@ -162166,6 +163676,50 @@
     "n_caracteres": 121224,
     "n_articulos_detectados": 3,
     "archivo_md": "md/sentencia_t-77_2025.md",
+    "metadata_autocompletada": [
+      "numero"
+    ],
+    "advertencias": [],
+    "estado": "ok"
+  },
+  {
+    "doc_id": "sentencia_t-8_2026",
+    "titulo": "Sentencia T-008 de 2026",
+    "fuente": "Relatoría de la Corte Constitucional",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2026/T-008-26.htm",
+    "fecha_consulta": "2026-10-03",
+    "areas": [
+      "administrativo"
+    ],
+    "tipo_norma": "sentencia",
+    "numero": "T-008",
+    "anio": 2026,
+    "organo_emisor": "Corte Constitucional",
+    "canonico": [
+      "jurisprudencia",
+      "T-8",
+      "2026"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://www.corteconstitucional.gov.co/relatoria/2026/T-008-26.htm"
+    ],
+    "sha256_partes": [
+      "8dd8804e8b341e240602ecdf2232b02e23d753268d81fc21d529c47b5374995f"
+    ],
+    "fecha_actualizacion_fuente": null,
+    "n_caracteres": 305573,
+    "n_articulos_detectados": 4,
+    "archivo_md": "md/sentencia_t-8_2026.md",
     "metadata_autocompletada": [
       "numero"
     ],

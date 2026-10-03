@@ -1,0 +1,30 @@
+[
+ {
+  "norma": "Resolución 368 de 2014",
+  "canonico": [
+   "resolucion",
+   "368",
+   "2014"
+  ],
+  "items_del_banco": 23,
+  "areas": [
+   "administrativo",
+   "constitucional"
+  ],
+  "donde_buscar": "https://www.suin-juriscol.gov.co/?q=Resolución+368+de+2014",
+  "motivo": "Tipo 'resolucion' sin patrón de URL conocido; buscar a mano."
+ },
+ {
+  "norma": "Sentencia SL-3871 de 2021",
+  "canonico": [
+   "jurisprudencia",
+   "SL-3871",
+   "2021"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "laboral"
+  ],
+  "motivo": "Es de la Corte Suprema (Sala de Casación Laboral), no de la Corte Constitucional. Buscar el radicado SL-3871-2021 en su relatoría."
+ }
+]

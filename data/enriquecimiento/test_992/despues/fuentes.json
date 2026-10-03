@@ -1,0 +1,142 @@
+[
+ {
+  "doc_id": "decreto_2663_1950",
+  "titulo": "Decreto 2663 de 1950",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html",
+  "tipo_norma": "decreto",
+  "numero": "2663",
+  "anio": 1950,
+  "canonico": [
+   "decreto",
+   "2663",
+   "1950"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "laboral"
+  ],
+  "nota": "Si da 404, buscar en SUIN-Juriscol: https://www.suin-juriscol.gov.co/?q=Decreto+2663+de+1950",
+  "origen": "preguntas_test_992"
+ },
+ {
+  "doc_id": "ley_2568_2021",
+  "titulo": "Ley 2568 de 2021",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html",
+  "tipo_norma": "ley",
+  "numero": "2568",
+  "anio": 2021,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "2568",
+   "2021"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "tributario"
+  ],
+  "origen": "preguntas_test_992"
+ },
+ {
+  "doc_id": "decreto_3030_2022",
+  "titulo": "Decreto 3030 de 2022",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html",
+  "tipo_norma": "decreto",
+  "numero": "3030",
+  "anio": 2022,
+  "canonico": [
+   "decreto",
+   "3030",
+   "2022"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "tributario"
+  ],
+  "nota": "Si da 404, buscar en SUIN-Juriscol: https://www.suin-juriscol.gov.co/?q=Decreto+3030+de+2022",
+  "origen": "preguntas_test_992"
+ },
+ {
+  "doc_id": "ley_54_1990",
+  "titulo": "Ley 54 de 1990",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html",
+  "tipo_norma": "ley",
+  "numero": "54",
+  "anio": 1990,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "54",
+   "1990"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "familia"
+  ],
+  "origen": "preguntas_test_992"
+ },
+ {
+  "doc_id": "ley_29_1982",
+  "titulo": "Ley 29 de 1982",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html",
+  "tipo_norma": "ley",
+  "numero": "29",
+  "anio": 1982,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "29",
+   "1982"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "familia"
+  ],
+  "origen": "preguntas_test_992"
+ },
+ {
+  "doc_id": "ley_45_1990",
+  "titulo": "Ley 45 de 1990",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html",
+  "tipo_norma": "ley",
+  "numero": "45",
+  "anio": 1990,
+  "organo_emisor": "Congreso de la República",
+  "canonico": [
+   "ley",
+   "45",
+   "1990"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "comercial"
+  ],
+  "origen": "preguntas_test_992"
+ },
+ {
+  "doc_id": "decreto_4302_2008",
+  "titulo": "Decreto 4302 de 2008",
+  "fuente": "Secretaría General del Senado",
+  "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html",
+  "tipo_norma": "decreto",
+  "numero": "4302",
+  "anio": 2008,
+  "canonico": [
+   "decreto",
+   "4302",
+   "2008"
+  ],
+  "items_del_banco": 1,
+  "areas": [
+   "mercados"
+  ],
+  "nota": "Si da 404, buscar en SUIN-Juriscol: https://www.suin-juriscol.gov.co/?q=Decreto+4302+de+2008",
+  "origen": "preguntas_test_992"
+ }
+]

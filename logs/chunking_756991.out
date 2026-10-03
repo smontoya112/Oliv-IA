@@ -1,0 +1,43 @@
+Job chunking 756991 en nodea-6 · 2026-10-03 09:38:06
+== 0/2 verificando data/md
+documentos md: 34
+== 1/2 chunking de todos los md
+sentencia_c-148_2025             0 artículos     667 chunks   30 forzados   63 sin fin de oración
+sentencia_c-29_2009              0 artículos     333 chunks    6 forzados   67 sin fin de oración
+sentencia_c-317_2025             0 artículos      90 chunks    0 forzados    9 sin fin de oración
+sentencia_c-448_2020             0 artículos     169 chunks   10 forzados   25 sin fin de oración
+sentencia_c-465_2008             0 artículos      62 chunks    0 forzados    8 sin fin de oración
+sentencia_c-539_2016             0 artículos     173 chunks    0 forzados   12 sin fin de oración
+sentencia_c-581_2001             0 artículos      52 chunks    0 forzados   16 sin fin de oración
+sentencia_c-75_2007              0 artículos     179 chunks    2 forzados   28 sin fin de oración
+sentencia_c-878_2011             0 artículos      51 chunks    0 forzados    5 sin fin de oración
+sentencia_su-140_2019            0 artículos     458 chunks    9 forzados   65 sin fin de oración
+sentencia_su-167_2023            0 artículos     184 chunks    0 forzados   18 sin fin de oración
+sentencia_su-237_2019            0 artículos      68 chunks    0 forzados    6 sin fin de oración
+sentencia_su-279_2019            0 artículos       0 chunks    0 forzados    0 sin fin de oración
+sentencia_su-288_2015            0 artículos      84 chunks    0 forzados    5 sin fin de oración
+sentencia_su-292_2025            0 artículos     201 chunks    0 forzados   13 sin fin de oración
+sentencia_su-336_2017            0 artículos     266 chunks    3 forzados   43 sin fin de oración
+sentencia_su-40_2018             0 artículos      96 chunks    0 forzados   14 sin fin de oración
+sentencia_su-41_2022             0 artículos      64 chunks    0 forzados   10 sin fin de oración
+sentencia_su-452_2024            0 artículos     152 chunks    0 forzados   20 sin fin de oración
+sentencia_su-499_2024            0 artículos     181 chunks   12 forzados   18 sin fin de oración
+sentencia_su-54_2015             0 artículos     186 chunks    2 forzados   20 sin fin de oración
+sentencia_su-575_2019            0 artículos     139 chunks    0 forzados   25 sin fin de oración
+sentencia_su-691_2017            0 artículos     264 chunks   11 forzados   54 sin fin de oración
+sentencia_t-202_2018             0 artículos     123 chunks    0 forzados   16 sin fin de oración
+sentencia_t-202_2024             0 artículos     206 chunks    0 forzados   24 sin fin de oración
+sentencia_t-254_2006             0 artículos      78 chunks    0 forzados    8 sin fin de oración
+sentencia_t-277_2018             0 artículos     107 chunks    0 forzados    4 sin fin de oración
+sentencia_t-284_2025             0 artículos      82 chunks    0 forzados    9 sin fin de oración
+sentencia_t-287_2022             0 artículos      78 chunks    0 forzados   14 sin fin de oración
+sentencia_t-426_2003             0 artículos      30 chunks    0 forzados    2 sin fin de oración
+sentencia_t-456_2024             0 artículos      88 chunks    0 forzados   11 sin fin de oración
+sentencia_t-4_2016               0 artículos      27 chunks    0 forzados    1 sin fin de oración
+sentencia_t-617_2010             0 artículos     178 chunks    0 forzados    4 sin fin de oración
+sentencia_t-8_2026               0 artículos     192 chunks    8 forzados   22 sin fin de oración
+TOTAL 5308 chunks | 0 sobre el límite | 10 duplicados exactos | 144 con residuos
+== 2/2 resumen
+documentos: 34
+chunks: 5308 | sobre el límite: 0 | duplicados exactos: 10 | con residuos: 144
+== fin: [chunking] Terminó OK · 2026-10-03 09:39:57

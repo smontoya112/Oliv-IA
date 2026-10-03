@@ -1,0 +1,2344 @@
+[
+ {
+  "norma": "Código Penal",
+  "canonico": [
+   "codigo_penal",
+   null,
+   null
+  ],
+  "clave": "ley_599_2000",
+  "n_preguntas": 39,
+  "preguntas": [
+   57,
+   189,
+   526,
+   606,
+   607,
+   706,
+   139,
+   150,
+   193,
+   195,
+   196,
+   199,
+   201,
+   202,
+   206,
+   212,
+   216,
+   222,
+   226,
+   229,
+   230,
+   237,
+   248,
+   250,
+   252,
+   257,
+   259,
+   260,
+   264,
+   269,
+   270,
+   271,
+   275,
+   276,
+   1023,
+   1024,
+   1025,
+   1026,
+   1028
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Constitución Política",
+  "canonico": [
+   "constitucion",
+   null,
+   null
+  ],
+  "clave": "constitucion",
+  "n_preguntas": 26,
+  "preguntas": [
+   83,
+   350,
+   392,
+   682,
+   705,
+   15,
+   91,
+   122,
+   191,
+   222,
+   252,
+   476,
+   760,
+   761,
+   860,
+   892,
+   986,
+   992,
+   993,
+   1013,
+   1039,
+   1040,
+   1043,
+   1061,
+   1064,
+   1078
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Código Civil",
+  "canonico": [
+   "codigo_civil",
+   null,
+   null
+  ],
+  "clave": "ley_84_1873",
+  "n_preguntas": 24,
+  "preguntas": [
+   81,
+   292,
+   300,
+   362,
+   363,
+   366,
+   367,
+   370,
+   371,
+   9,
+   33,
+   119,
+   143,
+   183,
+   402,
+   449,
+   455,
+   566,
+   864,
+   867,
+   910,
+   911,
+   912,
+   914
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Resolución 368 de 2014",
+  "canonico": [
+   "resolucion",
+   "368",
+   "2014"
+  ],
+  "clave": "resolucion_368_2014",
+  "n_preguntas": 23,
+  "preguntas": [
+   721,
+   723,
+   724,
+   725,
+   726,
+   728,
+   729,
+   730,
+   734,
+   735,
+   736,
+   738,
+   740,
+   741,
+   744,
+   749,
+   750,
+   722,
+   732,
+   742,
+   743,
+   745,
+   752
+  ],
+  "en_corpus": false,
+  "accion": "buscar a mano"
+ },
+ {
+  "norma": "Estatuto Tributario",
+  "canonico": [
+   "estatuto_tributario",
+   null,
+   null
+  ],
+  "clave": "decreto_624_1989",
+  "n_preguntas": 17,
+  "preguntas": [
+   359,
+   360,
+   361,
+   364,
+   365,
+   368,
+   369,
+   372,
+   373,
+   374,
+   421,
+   422,
+   554,
+   278,
+   608,
+   104,
+   1032
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Código de Comercio",
+  "canonico": [
+   "codigo_comercio",
+   null,
+   null
+  ],
+  "clave": "decreto_410_1971",
+  "n_preguntas": 11,
+  "preguntas": [
+   1,
+   64,
+   77,
+   311,
+   846,
+   33,
+   37,
+   38,
+   138,
+   913,
+   965
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-277 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "SU-277",
+   "2025"
+  ],
+  "clave": "sentencia_SU-277_2025",
+  "n_preguntas": 10,
+  "preguntas": [
+   3,
+   20,
+   25,
+   26,
+   27,
+   32,
+   34,
+   35,
+   36,
+   40
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decisión 486 de la Comisión de la Comunidad Andina",
+  "canonico": [
+   "decision_andina_486",
+   null,
+   null
+  ],
+  "clave": "decision_andina_486",
+  "n_preguntas": 6,
+  "preguntas": [
+   499,
+   636,
+   1108,
+   1112,
+   1113,
+   1114
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1116 de 2006",
+  "canonico": [
+   "ley",
+   "1116",
+   "2006"
+  ],
+  "clave": "ley_1116_2006",
+  "n_preguntas": 6,
+  "preguntas": [
+   71,
+   228,
+   243,
+   93,
+   156,
+   203
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-256 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-256",
+   "2025"
+  ],
+  "clave": "sentencia_T-256_2025",
+  "n_preguntas": 5,
+  "preguntas": [
+   134,
+   152,
+   225,
+   232,
+   234
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1581 de 2012",
+  "canonico": [
+   "ley",
+   "1581",
+   "2012"
+  ],
+  "clave": "ley_1581_2012",
+  "n_preguntas": 5,
+  "preguntas": [
+   39,
+   681,
+   682,
+   683,
+   685
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Código General del Proceso",
+  "canonico": [
+   "codigo_general_proceso",
+   null,
+   null
+  ],
+  "clave": "ley_1564_2012",
+  "n_preguntas": 4,
+  "preguntas": [
+   413,
+   11,
+   434,
+   454
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Estatuto del Consumidor",
+  "canonico": [
+   "estatuto_consumidor",
+   null,
+   null
+  ],
+  "clave": "ley_1480_2011",
+  "n_preguntas": 4,
+  "preguntas": [
+   4,
+   48,
+   59,
+   85
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-323 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "T-323",
+   "2024"
+  ],
+  "clave": "sentencia_T-323_2024",
+  "n_preguntas": 4,
+  "preguntas": [
+   162,
+   163,
+   227,
+   241
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-760 de 2008",
+  "canonico": [
+   "jurisprudencia",
+   "T-760",
+   "2008"
+  ],
+  "clave": "sentencia_T-760_2008",
+  "n_preguntas": 4,
+  "preguntas": [
+   686,
+   687,
+   690,
+   386
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 80 de 1993",
+  "canonico": [
+   "ley",
+   "80",
+   "1993"
+  ],
+  "clave": "ley_80_1993",
+  "n_preguntas": 4,
+  "preguntas": [
+   154,
+   185,
+   187,
+   191
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Código de Procedimiento Administrativo y de lo Contencioso Administrativo",
+  "canonico": [
+   "cpaca",
+   null,
+   null
+  ],
+  "clave": "ley_1437_2011",
+  "n_preguntas": 3,
+  "preguntas": [
+   473,
+   21,
+   1080
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-355 de 2006",
+  "canonico": [
+   "jurisprudencia",
+   "C-355",
+   "2006"
+  ],
+  "clave": "sentencia_C-355_2006",
+  "n_preguntas": 3,
+  "preguntas": [
+   149,
+   1019,
+   1027
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-55 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "C-55",
+   "2022"
+  ],
+  "clave": "sentencia_C-55_2022",
+  "n_preguntas": 3,
+  "preguntas": [
+   105,
+   1017,
+   1020
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-581 de 2001",
+  "canonico": [
+   "jurisprudencia",
+   "C-581",
+   "2001"
+  ],
+  "clave": "sentencia_C-581_2001",
+  "n_preguntas": 3,
+  "preguntas": [
+   262,
+   264,
+   265
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-581_2001"
+ },
+ {
+  "norma": "Sentencia SL-3385 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "SL-3385",
+   "2022"
+  ],
+  "clave": "sentencia_SL-3385_2022",
+  "n_preguntas": 3,
+  "preguntas": [
+   158,
+   165,
+   217
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-315 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "SU-315",
+   "2025"
+  ],
+  "clave": "sentencia_SU-315_2025",
+  "n_preguntas": 3,
+  "preguntas": [
+   917,
+   941,
+   942
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 2437 de 2024",
+  "canonico": [
+   "ley",
+   "2437",
+   "2024"
+  ],
+  "clave": "ley_2437_2024",
+  "n_preguntas": 3,
+  "preguntas": [
+   277,
+   156,
+   203
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Código de Procedimiento Penal",
+  "canonico": [
+   "codigo_procedimiento_penal",
+   null,
+   null
+  ],
+  "clave": "ley_906_2004",
+  "n_preguntas": 2,
+  "preguntas": [
+   115,
+   984
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 2153 de 1992",
+  "canonico": [
+   "decreto",
+   "2153",
+   "1992"
+  ],
+  "clave": "decreto_2153_1992",
+  "n_preguntas": 2,
+  "preguntas": [
+   953,
+   956
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-117 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "C-117",
+   "2018"
+  ],
+  "clave": "sentencia_C-117_2018",
+  "n_preguntas": 2,
+  "preguntas": [
+   998,
+   999
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-15 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "C-15",
+   "2018"
+  ],
+  "clave": "sentencia_C-15_2018",
+  "n_preguntas": 2,
+  "preguntas": [
+   252,
+   254
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-207 de 2019",
+  "canonico": [
+   "jurisprudencia",
+   "C-207",
+   "2019"
+  ],
+  "clave": "sentencia_C-207_2019",
+  "n_preguntas": 2,
+  "preguntas": [
+   316,
+   318
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-35 de 2009",
+  "canonico": [
+   "jurisprudencia",
+   "C-35",
+   "2009"
+  ],
+  "clave": "sentencia_C-35_2009",
+  "n_preguntas": 2,
+  "preguntas": [
+   660,
+   994
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-431 de 2001",
+  "canonico": [
+   "jurisprudencia",
+   "C-431",
+   "2001"
+  ],
+  "clave": "sentencia_C-431_2001",
+  "n_preguntas": 2,
+  "preguntas": [
+   222,
+   255
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-500 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "C-500",
+   "2024"
+  ],
+  "clave": "sentencia_C-500_2024",
+  "n_preguntas": 2,
+  "preguntas": [
+   944,
+   945
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-540 de 2023",
+  "canonico": [
+   "jurisprudencia",
+   "C-540",
+   "2023"
+  ],
+  "clave": "sentencia_C-540_2023",
+  "n_preguntas": 2,
+  "preguntas": [
+   1032,
+   1044
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SL-648 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "SL-648",
+   "2018"
+  ],
+  "clave": "sentencia_SL-648_2018",
+  "n_preguntas": 2,
+  "preguntas": [
+   103,
+   211
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SP-1945 de 2019",
+  "canonico": [
+   "jurisprudencia",
+   "SP-1945",
+   "2019"
+  ],
+  "clave": "sentencia_SP-1945_2019",
+  "n_preguntas": 2,
+  "preguntas": [
+   632,
+   633
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-111 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "SU-111",
+   "2025"
+  ],
+  "clave": "sentencia_SU-111_2025",
+  "n_preguntas": 2,
+  "preguntas": [
+   210,
+   213
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-214 de 2016",
+  "canonico": [
+   "jurisprudencia",
+   "SU-214",
+   "2016"
+  ],
+  "clave": "sentencia_SU-214_2016",
+  "n_preguntas": 2,
+  "preguntas": [
+   408,
+   438
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-288 de 2015",
+  "canonico": [
+   "jurisprudencia",
+   "SU-288",
+   "2015"
+  ],
+  "clave": "sentencia_SU-288_2015",
+  "n_preguntas": 2,
+  "preguntas": [
+   896,
+   906
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-288_2015"
+ },
+ {
+  "norma": "Sentencia SU-292 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "SU-292",
+   "2025"
+  ],
+  "clave": "sentencia_SU-292_2025",
+  "n_preguntas": 2,
+  "preguntas": [
+   418,
+   905
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-292_2025"
+ },
+ {
+  "norma": "Sentencia T-202 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "T-202",
+   "2018"
+  ],
+  "clave": "sentencia_T-202_2018",
+  "n_preguntas": 2,
+  "preguntas": [
+   200,
+   219
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-202_2018"
+ },
+ {
+  "norma": "Sentencia T-202 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "T-202",
+   "2024"
+  ],
+  "clave": "sentencia_T-202_2024",
+  "n_preguntas": 2,
+  "preguntas": [
+   238,
+   432
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-202_2024"
+ },
+ {
+  "norma": "Sentencia T-243 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "T-243",
+   "2018"
+  ],
+  "clave": "sentencia_T-243_2018",
+  "n_preguntas": 2,
+  "preguntas": [
+   263,
+   268
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-547 de 2017",
+  "canonico": [
+   "jurisprudencia",
+   "T-547",
+   "2017"
+  ],
+  "clave": "sentencia_T-547_2017",
+  "n_preguntas": 2,
+  "preguntas": [
+   184,
+   220
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1563 de 2012",
+  "canonico": [
+   "ley",
+   "1563",
+   "2012"
+  ],
+  "clave": "ley_1563_2012",
+  "n_preguntas": 2,
+  "preguntas": [
+   698,
+   701
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 2277 de 2022",
+  "canonico": [
+   "ley",
+   "2277",
+   "2022"
+  ],
+  "clave": "ley_2277_2022",
+  "n_preguntas": 2,
+  "preguntas": [
+   278,
+   1033
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 600 de 2000",
+  "canonico": [
+   "ley",
+   "600",
+   "2000"
+  ],
+  "clave": "ley_600_2000",
+  "n_preguntas": 2,
+  "preguntas": [
+   265,
+   984
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Código Sustantivo del Trabajo",
+  "canonico": [
+   "codigo_sustantivo_trabajo",
+   null,
+   null
+  ],
+  "clave": "codigo_sustantivo_trabajo",
+  "n_preguntas": 1,
+  "preguntas": [
+   6
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 0175 de 2025",
+  "canonico": [
+   "decreto",
+   "0175",
+   "2025"
+  ],
+  "clave": "decreto_175_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   424
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 1625 de 2016",
+  "canonico": [
+   "decreto",
+   "1625",
+   "2016"
+  ],
+  "clave": "decreto_1625_2016",
+  "n_preguntas": 1,
+  "preguntas": [
+   223
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 175 de 2025",
+  "canonico": [
+   "decreto",
+   "175",
+   "2025"
+  ],
+  "clave": "decreto_175_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   197
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 2663 de 1950",
+  "canonico": [
+   "decreto",
+   "2663",
+   "1950"
+  ],
+  "clave": "decreto_2663_1950",
+  "n_preguntas": 1,
+  "preguntas": [
+   523
+  ],
+  "en_corpus": false,
+  "accion": "descargar como decreto_2663_1950"
+ },
+ {
+  "norma": "Decreto 3030 de 2022",
+  "canonico": [
+   "decreto",
+   "3030",
+   "2022"
+  ],
+  "clave": "decreto_3030_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   608
+  ],
+  "en_corpus": false,
+  "accion": "descargar como decreto_3030_2022"
+ },
+ {
+  "norma": "Decreto 410 de 1971",
+  "canonico": [
+   "decreto",
+   "410",
+   "1971"
+  ],
+  "clave": "decreto_410_1971",
+  "n_preguntas": 1,
+  "preguntas": [
+   84
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 4302 de 2008",
+  "canonico": [
+   "decreto",
+   "4302",
+   "2008"
+  ],
+  "clave": "decreto_4302_2008",
+  "n_preguntas": 1,
+  "preguntas": [
+   1106
+  ],
+  "en_corpus": false,
+  "accion": "descargar como decreto_4302_2008"
+ },
+ {
+  "norma": "Decreto 678 de 2020",
+  "canonico": [
+   "decreto",
+   "678",
+   "2020"
+  ],
+  "clave": "decreto_678_2020",
+  "n_preguntas": 1,
+  "preguntas": [
+   1042
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Decreto 960 de 1970",
+  "canonico": [
+   "decreto",
+   "960",
+   "1970"
+  ],
+  "clave": "decreto_960_1970",
+  "n_preguntas": 1,
+  "preguntas": [
+   565
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-1033 de 2002",
+  "canonico": [
+   "jurisprudencia",
+   "C-1033",
+   "2002"
+  ],
+  "clave": "sentencia_C-1033_2002",
+  "n_preguntas": 1,
+  "preguntas": [
+   411
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-1189 de 2000",
+  "canonico": [
+   "jurisprudencia",
+   "C-1189",
+   "2000"
+  ],
+  "clave": "sentencia_C-1189_2000",
+  "n_preguntas": 1,
+  "preguntas": [
+   212
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-131 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "C-131",
+   "2018"
+  ],
+  "clave": "sentencia_C-131_2018",
+  "n_preguntas": 1,
+  "preguntas": [
+   17
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-145 de 2020",
+  "canonico": [
+   "jurisprudencia",
+   "C-145",
+   "2020"
+  ],
+  "clave": "sentencia_C-145_2020",
+  "n_preguntas": 1,
+  "preguntas": [
+   820
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-148 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "C-148",
+   "2025"
+  ],
+  "clave": "sentencia_C-148_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   181
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-148_2025"
+ },
+ {
+  "norma": "Sentencia C-164 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "C-164",
+   "2022"
+  ],
+  "clave": "sentencia_C-164_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   427
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-183 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "C-183",
+   "2025"
+  ],
+  "clave": "sentencia_C-183_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   940
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-22 de 1996",
+  "canonico": [
+   "jurisprudencia",
+   "C-22",
+   "1996"
+  ],
+  "clave": "sentencia_C-22_1996",
+  "n_preguntas": 1,
+  "preguntas": [
+   185
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-225 de 1995",
+  "canonico": [
+   "jurisprudencia",
+   "C-225",
+   "1995"
+  ],
+  "clave": "sentencia_C-225_1995",
+  "n_preguntas": 1,
+  "preguntas": [
+   354
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-233 de 2021",
+  "canonico": [
+   "jurisprudencia",
+   "C-233",
+   "2021"
+  ],
+  "clave": "sentencia_C-233_2021",
+  "n_preguntas": 1,
+  "preguntas": [
+   377
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-239 de 1997",
+  "canonico": [
+   "jurisprudencia",
+   "C-239",
+   "1997"
+  ],
+  "clave": "sentencia_C-239_1997",
+  "n_preguntas": 1,
+  "preguntas": [
+   387
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-276 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "C-276",
+   "2025"
+  ],
+  "clave": "sentencia_C-276_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   934
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-29 de 2009",
+  "canonico": [
+   "jurisprudencia",
+   "C-29",
+   "2009"
+  ],
+  "clave": "sentencia_C-29_2009",
+  "n_preguntas": 1,
+  "preguntas": [
+   410
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-29_2009"
+ },
+ {
+  "norma": "Sentencia C-317 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "C-317",
+   "2025"
+  ],
+  "clave": "sentencia_C-317_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   208
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-317_2025"
+ },
+ {
+  "norma": "Sentencia C-389 de 2023",
+  "canonico": [
+   "jurisprudencia",
+   "C-389",
+   "2023"
+  ],
+  "clave": "sentencia_C-389_2023",
+  "n_preguntas": 1,
+  "preguntas": [
+   996
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-448 de 2020",
+  "canonico": [
+   "jurisprudencia",
+   "C-448",
+   "2020"
+  ],
+  "clave": "sentencia_C-448_2020",
+  "n_preguntas": 1,
+  "preguntas": [
+   1042
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-448_2020"
+ },
+ {
+  "norma": "Sentencia C-465 de 2008",
+  "canonico": [
+   "jurisprudencia",
+   "C-465",
+   "2008"
+  ],
+  "clave": "sentencia_C-465_2008",
+  "n_preguntas": 1,
+  "preguntas": [
+   613
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-465_2008"
+ },
+ {
+  "norma": "Sentencia C-507 de 2004",
+  "canonico": [
+   "jurisprudencia",
+   "C-507",
+   "2004"
+  ],
+  "clave": "sentencia_C-507_2004",
+  "n_preguntas": 1,
+  "preguntas": [
+   409
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia C-539 de 2016",
+  "canonico": [
+   "jurisprudencia",
+   "C-539",
+   "2016"
+  ],
+  "clave": "sentencia_C-539_2016",
+  "n_preguntas": 1,
+  "preguntas": [
+   1021
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-539_2016"
+ },
+ {
+  "norma": "Sentencia C-75 de 2007",
+  "canonico": [
+   "jurisprudencia",
+   "C-75",
+   "2007"
+  ],
+  "clave": "sentencia_C-75_2007",
+  "n_preguntas": 1,
+  "preguntas": [
+   13
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-75_2007"
+ },
+ {
+  "norma": "Sentencia C-878 de 2011",
+  "canonico": [
+   "jurisprudencia",
+   "C-878",
+   "2011"
+  ],
+  "clave": "sentencia_C-878_2011",
+  "n_preguntas": 1,
+  "preguntas": [
+   995
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_c-878_2011"
+ },
+ {
+  "norma": "Sentencia C-964 de 2003",
+  "canonico": [
+   "jurisprudencia",
+   "C-964",
+   "2003"
+  ],
+  "clave": "sentencia_C-964_2003",
+  "n_preguntas": 1,
+  "preguntas": [
+   412
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SL-1730 de 2020",
+  "canonico": [
+   "jurisprudencia",
+   "SL-1730",
+   "2020"
+  ],
+  "clave": "sentencia_SL-1730_2020",
+  "n_preguntas": 1,
+  "preguntas": [
+   570
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SL-3871 de 2021",
+  "canonico": [
+   "jurisprudencia",
+   "SL-3871",
+   "2021"
+  ],
+  "clave": "sentencia_SL-3871_2021",
+  "n_preguntas": 1,
+  "preguntas": [
+   99
+  ],
+  "en_corpus": false,
+  "accion": "buscar a mano"
+ },
+ {
+  "norma": "Sentencia SP-1167 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "SP-1167",
+   "2022"
+  ],
+  "clave": "sentencia_SP-1167_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   634
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-11 de 2020",
+  "canonico": [
+   "jurisprudencia",
+   "SU-11",
+   "2020"
+  ],
+  "clave": "sentencia_SU-11_2020",
+  "n_preguntas": 1,
+  "preguntas": [
+   904
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-138 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "SU-138",
+   "2024"
+  ],
+  "clave": "sentencia_SU-138_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   918
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-140 de 2019",
+  "canonico": [
+   "jurisprudencia",
+   "SU-140",
+   "2019"
+  ],
+  "clave": "sentencia_SU-140_2019",
+  "n_preguntas": 1,
+  "preguntas": [
+   92
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-140_2019"
+ },
+ {
+  "norma": "Sentencia SU-149 de 2021",
+  "canonico": [
+   "jurisprudencia",
+   "SU-149",
+   "2021"
+  ],
+  "clave": "sentencia_SU-149_2021",
+  "n_preguntas": 1,
+  "preguntas": [
+   567
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-167 de 2023",
+  "canonico": [
+   "jurisprudencia",
+   "SU-167",
+   "2023"
+  ],
+  "clave": "sentencia_SU-167_2023",
+  "n_preguntas": 1,
+  "preguntas": [
+   895
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-167_2023"
+ },
+ {
+  "norma": "Sentencia SU-207 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "SU-207",
+   "2022"
+  ],
+  "clave": "sentencia_SU-207_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   916
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-237 de 2019",
+  "canonico": [
+   "jurisprudencia",
+   "SU-237",
+   "2019"
+  ],
+  "clave": "sentencia_SU-237_2019",
+  "n_preguntas": 1,
+  "preguntas": [
+   908
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-237_2019"
+ },
+ {
+  "norma": "Sentencia SU-240 de 2015",
+  "canonico": [
+   "jurisprudencia",
+   "SU-240",
+   "2015"
+  ],
+  "clave": "sentencia_SU-240_2015",
+  "n_preguntas": 1,
+  "preguntas": [
+   903
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-27 de 2021",
+  "canonico": [
+   "jurisprudencia",
+   "SU-27",
+   "2021"
+  ],
+  "clave": "sentencia_SU-27_2021",
+  "n_preguntas": 1,
+  "preguntas": [
+   236
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-279 de 2019",
+  "canonico": [
+   "jurisprudencia",
+   "SU-279",
+   "2019"
+  ],
+  "clave": "sentencia_SU-279_2019",
+  "n_preguntas": 1,
+  "preguntas": [
+   921
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-279_2019"
+ },
+ {
+  "norma": "Sentencia SU-296 de 2023",
+  "canonico": [
+   "jurisprudencia",
+   "SU-296",
+   "2023"
+  ],
+  "clave": "sentencia_SU-296_2023",
+  "n_preguntas": 1,
+  "preguntas": [
+   951
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-336 de 2017",
+  "canonico": [
+   "jurisprudencia",
+   "SU-336",
+   "2017"
+  ],
+  "clave": "sentencia_SU-336_2017",
+  "n_preguntas": 1,
+  "preguntas": [
+   902
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-336_2017"
+ },
+ {
+  "norma": "Sentencia SU-380 de 2021",
+  "canonico": [
+   "jurisprudencia",
+   "SU-380",
+   "2021"
+  ],
+  "clave": "sentencia_SU-380_2021",
+  "n_preguntas": 1,
+  "preguntas": [
+   930
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-396 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "SU-396",
+   "2024"
+  ],
+  "clave": "sentencia_SU-396_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   949
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-40 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "SU-40",
+   "2018"
+  ],
+  "clave": "sentencia_SU-40_2018",
+  "n_preguntas": 1,
+  "preguntas": [
+   173
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-40_2018"
+ },
+ {
+  "norma": "Sentencia SU-41 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "SU-41",
+   "2022"
+  ],
+  "clave": "sentencia_SU-41_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   922
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-41_2022"
+ },
+ {
+  "norma": "Sentencia SU-425 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "SU-425",
+   "2025"
+  ],
+  "clave": "sentencia_SU-425_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   915
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-429 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "SU-429",
+   "2024"
+  ],
+  "clave": "sentencia_SU-429_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   947
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-431 de 2015",
+  "canonico": [
+   "jurisprudencia",
+   "SU-431",
+   "2015"
+  ],
+  "clave": "sentencia_SU-431_2015",
+  "n_preguntas": 1,
+  "preguntas": [
+   920
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-452 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "SU-452",
+   "2024"
+  ],
+  "clave": "sentencia_SU-452_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   909
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-452_2024"
+ },
+ {
+  "norma": "Sentencia SU-488 de 2011",
+  "canonico": [
+   "jurisprudencia",
+   "SU-488",
+   "2011"
+  ],
+  "clave": "sentencia_SU-488_2011",
+  "n_preguntas": 1,
+  "preguntas": [
+   898
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-499 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "SU-499",
+   "2024"
+  ],
+  "clave": "sentencia_SU-499_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   901
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-499_2024"
+ },
+ {
+  "norma": "Sentencia SU-500 de 2015",
+  "canonico": [
+   "jurisprudencia",
+   "SU-500",
+   "2015"
+  ],
+  "clave": "sentencia_SU-500_2015",
+  "n_preguntas": 1,
+  "preguntas": [
+   924
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-54 de 2015",
+  "canonico": [
+   "jurisprudencia",
+   "SU-54",
+   "2015"
+  ],
+  "clave": "sentencia_SU-54_2015",
+  "n_preguntas": 1,
+  "preguntas": [
+   923
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-54_2015"
+ },
+ {
+  "norma": "Sentencia SU-566 de 2015",
+  "canonico": [
+   "jurisprudencia",
+   "SU-566",
+   "2015"
+  ],
+  "clave": "sentencia_SU-566_2015",
+  "n_preguntas": 1,
+  "preguntas": [
+   899
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia SU-575 de 2019",
+  "canonico": [
+   "jurisprudencia",
+   "SU-575",
+   "2019"
+  ],
+  "clave": "sentencia_SU-575_2019",
+  "n_preguntas": 1,
+  "preguntas": [
+   907
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-575_2019"
+ },
+ {
+  "norma": "Sentencia SU-691 de 2017",
+  "canonico": [
+   "jurisprudencia",
+   "SU-691",
+   "2017"
+  ],
+  "clave": "sentencia_SU-691_2017",
+  "n_preguntas": 1,
+  "preguntas": [
+   897
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_su-691_2017"
+ },
+ {
+  "norma": "Sentencia T-1001 de 2001",
+  "canonico": [
+   "jurisprudencia",
+   "T-1001",
+   "2001"
+  ],
+  "clave": "sentencia_T-1001_2001",
+  "n_preguntas": 1,
+  "preguntas": [
+   124
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-1096 de 2008",
+  "canonico": [
+   "jurisprudencia",
+   "T-1096",
+   "2008"
+  ],
+  "clave": "sentencia_T-1096_2008",
+  "n_preguntas": 1,
+  "preguntas": [
+   886
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-232 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-232",
+   "2025"
+  ],
+  "clave": "sentencia_T-232_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   935
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-254 de 2006",
+  "canonico": [
+   "jurisprudencia",
+   "T-254",
+   "2006"
+  ],
+  "clave": "sentencia_T-254_2006",
+  "n_preguntas": 1,
+  "preguntas": [
+   929
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-254_2006"
+ },
+ {
+  "norma": "Sentencia T-26 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-26",
+   "2025"
+  ],
+  "clave": "sentencia_T-26_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   948
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-262 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-262",
+   "2025"
+  ],
+  "clave": "sentencia_T-262_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   428
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-277 de 2018",
+  "canonico": [
+   "jurisprudencia",
+   "T-277",
+   "2018"
+  ],
+  "clave": "sentencia_T-277_2018",
+  "n_preguntas": 1,
+  "preguntas": [
+   376
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-277_2018"
+ },
+ {
+  "norma": "Sentencia T-284 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-284",
+   "2025"
+  ],
+  "clave": "sentencia_T-284_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   937
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-284_2025"
+ },
+ {
+  "norma": "Sentencia T-287 de 2022",
+  "canonico": [
+   "jurisprudencia",
+   "T-287",
+   "2022"
+  ],
+  "clave": "sentencia_T-287_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   429
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-287_2022"
+ },
+ {
+  "norma": "Sentencia T-325 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-325",
+   "2025"
+  ],
+  "clave": "sentencia_T-325_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   419
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-350 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-350",
+   "2025"
+  ],
+  "clave": "sentencia_T-350_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   938
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-4 de 2016",
+  "canonico": [
+   "jurisprudencia",
+   "T-4",
+   "2016"
+  ],
+  "clave": "sentencia_T-4_2016",
+  "n_preguntas": 1,
+  "preguntas": [
+   931
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-4_2016"
+ },
+ {
+  "norma": "Sentencia T-4 de 2026",
+  "canonico": [
+   "jurisprudencia",
+   "T-4",
+   "2026"
+  ],
+  "clave": "sentencia_T-4_2026",
+  "n_preguntas": 1,
+  "preguntas": [
+   932
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-426 de 2003",
+  "canonico": [
+   "jurisprudencia",
+   "T-426",
+   "2003"
+  ],
+  "clave": "sentencia_T-426_2003",
+  "n_preguntas": 1,
+  "preguntas": [
+   113
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-426_2003"
+ },
+ {
+  "norma": "Sentencia T-445 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "T-445",
+   "2024"
+  ],
+  "clave": "sentencia_T-445_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   194
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-456 de 2024",
+  "canonico": [
+   "jurisprudencia",
+   "T-456",
+   "2024"
+  ],
+  "clave": "sentencia_T-456_2024",
+  "n_preguntas": 1,
+  "preguntas": [
+   950
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-456_2024"
+ },
+ {
+  "norma": "Sentencia T-617 de 2010",
+  "canonico": [
+   "jurisprudencia",
+   "T-617",
+   "2010"
+  ],
+  "clave": "sentencia_T-617_2010",
+  "n_preguntas": 1,
+  "preguntas": [
+   821
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-617_2010"
+ },
+ {
+  "norma": "Sentencia T-77 de 2025",
+  "canonico": [
+   "jurisprudencia",
+   "T-77",
+   "2025"
+  ],
+  "clave": "sentencia_T-77_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   943
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Sentencia T-8 de 2026",
+  "canonico": [
+   "jurisprudencia",
+   "T-8",
+   "2026"
+  ],
+  "clave": "sentencia_T-8_2026",
+  "n_preguntas": 1,
+  "preguntas": [
+   933
+  ],
+  "en_corpus": false,
+  "accion": "descargar como sentencia_t-8_2026"
+ },
+ {
+  "norma": "Sentencia T-970 de 2014",
+  "canonico": [
+   "jurisprudencia",
+   "T-970",
+   "2014"
+  ],
+  "clave": "sentencia_T-970_2014",
+  "n_preguntas": 1,
+  "preguntas": [
+   385
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1258 de 2008",
+  "canonico": [
+   "ley",
+   "1258",
+   "2008"
+  ],
+  "clave": "ley_1258_2008",
+  "n_preguntas": 1,
+  "preguntas": [
+   159
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 160 de 1994",
+  "canonico": [
+   "ley",
+   "160",
+   "1994"
+  ],
+  "clave": "ley_160_1994",
+  "n_preguntas": 1,
+  "preguntas": [
+   460
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1676 de 2013",
+  "canonico": [
+   "ley",
+   "1676",
+   "2013"
+  ],
+  "clave": "ley_1676_2013",
+  "n_preguntas": 1,
+  "preguntas": [
+   277
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1909 de 2018",
+  "canonico": [
+   "ley",
+   "1909",
+   "2018"
+  ],
+  "clave": "ley_1909_2018",
+  "n_preguntas": 1,
+  "preguntas": [
+   808
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 1934 de 2018",
+  "canonico": [
+   "ley",
+   "1934",
+   "2018"
+  ],
+  "clave": "ley_1934_2018",
+  "n_preguntas": 1,
+  "preguntas": [
+   704
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 222 de 1995",
+  "canonico": [
+   "ley",
+   "222",
+   "1995"
+  ],
+  "clave": "ley_222_1995",
+  "n_preguntas": 1,
+  "preguntas": [
+   330
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 2220 de 2022",
+  "canonico": [
+   "ley",
+   "2220",
+   "2022"
+  ],
+  "clave": "ley_2220_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   157
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 2274 de 2022",
+  "canonico": [
+   "ley",
+   "2274",
+   "2022"
+  ],
+  "clave": "ley_2274_2022",
+  "n_preguntas": 1,
+  "preguntas": [
+   188
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 2466 de 2025",
+  "canonico": [
+   "ley",
+   "2466",
+   "2025"
+  ],
+  "clave": "ley_2466_2025",
+  "n_preguntas": 1,
+  "preguntas": [
+   66
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 256 de 1996",
+  "canonico": [
+   "ley",
+   "256",
+   "1996"
+  ],
+  "clave": "ley_256_1996",
+  "n_preguntas": 1,
+  "preguntas": [
+   179
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ },
+ {
+  "norma": "Ley 2568 de 2021",
+  "canonico": [
+   "ley",
+   "2568",
+   "2021"
+  ],
+  "clave": "ley_2568_2021",
+  "n_preguntas": 1,
+  "preguntas": [
+   608
+  ],
+  "en_corpus": false,
+  "accion": "descargar como ley_2568_2021"
+ },
+ {
+  "norma": "Ley 29 de 1982",
+  "canonico": [
+   "ley",
+   "29",
+   "1982"
+  ],
+  "clave": "ley_29_1982",
+  "n_preguntas": 1,
+  "preguntas": [
+   703
+  ],
+  "en_corpus": false,
+  "accion": "descargar como ley_29_1982"
+ },
+ {
+  "norma": "Ley 45 de 1990",
+  "canonico": [
+   "ley",
+   "45",
+   "1990"
+  ],
+  "clave": "ley_45_1990",
+  "n_preguntas": 1,
+  "preguntas": [
+   850
+  ],
+  "en_corpus": false,
+  "accion": "descargar como ley_45_1990"
+ },
+ {
+  "norma": "Ley 54 de 1990",
+  "canonico": [
+   "ley",
+   "54",
+   "1990"
+  ],
+  "clave": "ley_54_1990",
+  "n_preguntas": 1,
+  "preguntas": [
+   495
+  ],
+  "en_corpus": false,
+  "accion": "descargar como ley_54_1990"
+ },
+ {
+  "norma": "Ley 99 de 1993",
+  "canonico": [
+   "ley",
+   "99",
+   "1993"
+  ],
+  "clave": "ley_99_1993",
+  "n_preguntas": 1,
+  "preguntas": [
+   722
+  ],
+  "en_corpus": true,
+  "accion": "ya en el corpus"
+ }
+]
