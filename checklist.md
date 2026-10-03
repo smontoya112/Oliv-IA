@@ -93,8 +93,8 @@
 
 ## Fase 14: Día de la entrega (Sábado 3)
 - [ ] **09:00 AM:** Recibir el conjunto final de 992 preguntas y validar la estructura de entrada.
-- [ ] **Ejecución:** Iniciar la corrida ciega y monitorear logs de progreso.
-- [ ] **Validación:** Validar los esquemas JSON de todas las respuestas generadas y verificar ausencia de IDs omitidos.
+- [ ] **Ejecución:** Iniciar la corrida ciega y monitorear logs de progreso. → en 3 partes con `jobs/corrida.sh` (`src/lote.py`): con `data/test_992.jsonl` igual en las 3 máquinas, `sbatch jobs/corrida.sh 1` y `sbatch jobs/corrida.sh 2` en hypatia, `bash jobs/corrida.sh 3` en el computador con GPU (preparado el viernes con `jobs/preparar_local.sh`). Reanudable: si una parte se cae, relanzar el mismo comando.
+- [ ] **Validación:** Validar los esquemas JSON de todas las respuestas generadas y verificar ausencia de IDs omitidos. → copiar los `data/lote/test_992/sub_N.jsonl` a una máquina y `python -m src.lote unir --preguntas data/test_992.jsonl --dir data/lote/test_992 --salida submissions.jsonl` (valida y lista ids faltantes por parte).
 - [ ] **Antes de 15:00 PM:** Hacer commit de `submissions.jsonl` y realizar simulación de prueba en vivo.
 
 ## Fase 15: Entregables finales
