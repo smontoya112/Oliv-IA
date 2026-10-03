@@ -83,7 +83,7 @@ def test_probabilidades_letras_es_un_softmax_entre_las_letras(motor):
     esperado = np.exp([1, 3, 2, 0]) / np.exp([1, 3, 2, 0]).sum()
     assert [round(p[l], 6) for l in "ABCD"] == [round(float(x), 6) for x in esperado]
     llamada = motor.llm.llamadas[0]
-    assert llamada["max_tokens"] == 1 and llamada["prompt"].endswith("<think>\n\n</think>\n\n")
+    assert llamada["max_tokens"] == 1 and llamada["prompt"].endswith("<think>\n\n</think>\n\nRespuesta:")
     assert motor.llm.resets == 1
 
 
