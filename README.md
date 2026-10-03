@@ -47,7 +47,7 @@ pregunta ─► recuperación híbrida (BM25 + bge-m3, RRF) ─► reranker ─�
 | Verificación y abstención | Cada cita debe tener su cuerpo normativo en los 10 pasajes; si no, se trae el mejor fragmento de esa norma o se elimina la oración. Cerradas: nunca se abstiene; texto libre: solo si falla la generación o no hay pasajes. | El evaluador castiga el doble una cita sin respaldo. |
 
 Documentación del diseño y de lo que se probó y se descartó: [`informe/INFORME_TECNICO.pdf`](informe/INFORME_TECNICO.pdf) (resumen),
-[`docs/prueba_claude.md`](docs/prueba_claude.md) (rediseño de la generación) y [`experimentos/claude/REGISTRO.md`](experimentos/claude/REGISTRO.md) (cada experimento con sus métricas).
+[`docs/prueba_claude.md`](docs/prueba_claude.md) (rediseño de la generación), [`docs/congelacion.md`](docs/congelacion.md) (versiones, hashes y auditoría de integridad) y [`experimentos/claude/REGISTRO.md`](experimentos/claude/REGISTRO.md) (cada experimento con sus métricas).
 
 ## Dependencias
 

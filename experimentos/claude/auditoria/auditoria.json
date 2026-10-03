@@ -1,0 +1,304 @@
+{
+ "modelos": {
+  "decoder_configurado": "qwen3-8b",
+  "coincidencias_en_el_sistema": [],
+  "coincidencias_solo_evaluacion": [
+   {
+    "archivo": "src/analisis/auditoria_integridad.py",
+    "linea": 21,
+    "coincidencia": "openai"
+   },
+   {
+    "archivo": "src/analisis/auditoria_integridad.py",
+    "linea": 22,
+    "coincidencia": "chatgpt"
+   },
+   {
+    "archivo": "jobs/evaluar_ragas.sh",
+    "linea": 56,
+    "coincidencia": "openai"
+   },
+   {
+    "archivo": "jobs/evaluar_ragas.sh",
+    "linea": 65,
+    "coincidencia": "vertexai"
+   },
+   {
+    "archivo": "jobs/ragas_con_timeout.py",
+    "linea": 10,
+    "coincidencia": "OpenAI"
+   },
+   {
+    "archivo": "scripts/evaluate.py",
+    "linea": 279,
+    "coincidencia": "OpenAI"
+   },
+   {
+    "archivo": "scripts/evaluate.py",
+    "linea": 358,
+    "coincidencia": "OpenAI"
+   },
+   {
+    "archivo": "scripts/requirements-evaluador.txt",
+    "linea": 5,
+    "coincidencia": "openai"
+   },
+   {
+    "archivo": "scripts/requirements-evaluador.txt",
+    "linea": 9,
+    "coincidencia": "vertexai"
+   }
+  ]
+ },
+ "fugas": {
+  "n": 12,
+  "documentos_revisados": 509,
+  "por_archivo": {
+   "test_992.jsonl": {
+    "preguntas": 992,
+    "con_algun_n_grama_en_el_corpus": 38,
+    "con_cobertura_mayor_a_0_5": [
+     {
+      "id": 495,
+      "formato": "semi_open",
+      "n_gramas": 48,
+      "max_en_un_documento": 43,
+      "cobertura": 0.896,
+      "doc_id": "sentencia_c-75_2007"
+     },
+     {
+      "id": 713,
+      "formato": "semi_open",
+      "n_gramas": 60,
+      "max_en_un_documento": 33,
+      "cobertura": 0.55,
+      "doc_id": "codigo_penal"
+     }
+    ],
+    "con_cobertura_entre_0_2_y_0_5": [
+     {
+      "id": 86,
+      "formato": "multiple_choice",
+      "n_gramas": 281,
+      "max_en_un_documento": 92,
+      "cobertura": 0.327,
+      "doc_id": "constitucion"
+     },
+     {
+      "id": 300,
+      "formato": "multiple_choice",
+      "n_gramas": 22,
+      "max_en_un_documento": 5,
+      "cobertura": 0.227,
+      "doc_id": "codigo_civil"
+     },
+     {
+      "id": 366,
+      "formato": "multiple_choice",
+      "n_gramas": 76,
+      "max_en_un_documento": 18,
+      "cobertura": 0.237,
+      "doc_id": "codigo_civil"
+     },
+     {
+      "id": 373,
+      "formato": "multiple_choice",
+      "n_gramas": 62,
+      "max_en_un_documento": 16,
+      "cobertura": 0.258,
+      "doc_id": "estatuto_tributario-2"
+     },
+     {
+      "id": 496,
+      "formato": "multiple_choice",
+      "n_gramas": 49,
+      "max_en_un_documento": 16,
+      "cobertura": 0.327,
+      "doc_id": "codigo_civil"
+     },
+     {
+      "id": 587,
+      "formato": "multiple_choice",
+      "n_gramas": 71,
+      "max_en_un_documento": 33,
+      "cobertura": 0.465,
+      "doc_id": "codigo_general_proceso"
+     },
+     {
+      "id": 812,
+      "formato": "multiple_choice",
+      "n_gramas": 38,
+      "max_en_un_documento": 19,
+      "cobertura": 0.5,
+      "doc_id": "sentencia_c-389_2023"
+     },
+     {
+      "id": 1004,
+      "formato": "multiple_choice",
+      "n_gramas": 39,
+      "max_en_un_documento": 8,
+      "cobertura": 0.205,
+      "doc_id": "codigo_civil"
+     },
+     {
+      "id": 21,
+      "formato": "semi_open",
+      "n_gramas": 7,
+      "max_en_un_documento": 3,
+      "cobertura": 0.429,
+      "doc_id": "ley_2080_2021"
+     },
+     {
+      "id": 167,
+      "formato": "semi_open",
+      "n_gramas": 10,
+      "max_en_un_documento": 4,
+      "cobertura": 0.4,
+      "doc_id": "sentencia_su-11_2020"
+     },
+     {
+      "id": 251,
+      "formato": "semi_open",
+      "n_gramas": 12,
+      "max_en_un_documento": 3,
+      "cobertura": 0.25,
+      "doc_id": "ley_1111_2006"
+     },
+     {
+      "id": 264,
+      "formato": "semi_open",
+      "n_gramas": 27,
+      "max_en_un_documento": 8,
+      "cobertura": 0.296,
+      "doc_id": "sentencia_c-581_2001"
+     },
+     {
+      "id": 265,
+      "formato": "semi_open",
+      "n_gramas": 24,
+      "max_en_un_documento": 5,
+      "cobertura": 0.208,
+      "doc_id": "sentencia_c-581_2001"
+     },
+     {
+      "id": 635,
+      "formato": "semi_open",
+      "n_gramas": 27,
+      "max_en_un_documento": 6,
+      "cobertura": 0.222,
+      "doc_id": "decision_andina_486"
+     }
+    ],
+    "cobertura_maxima": 0.896,
+    "mas_cubiertas": [
+     {
+      "id": 495,
+      "formato": "semi_open",
+      "n_gramas": 48,
+      "max_en_un_documento": 43,
+      "cobertura": 0.896,
+      "doc_id": "sentencia_c-75_2007"
+     },
+     {
+      "id": 713,
+      "formato": "semi_open",
+      "n_gramas": 60,
+      "max_en_un_documento": 33,
+      "cobertura": 0.55,
+      "doc_id": "codigo_penal"
+     },
+     {
+      "id": 812,
+      "formato": "multiple_choice",
+      "n_gramas": 38,
+      "max_en_un_documento": 19,
+      "cobertura": 0.5,
+      "doc_id": "sentencia_c-389_2023"
+     },
+     {
+      "id": 587,
+      "formato": "multiple_choice",
+      "n_gramas": 71,
+      "max_en_un_documento": 33,
+      "cobertura": 0.465,
+      "doc_id": "codigo_general_proceso"
+     },
+     {
+      "id": 21,
+      "formato": "semi_open",
+      "n_gramas": 7,
+      "max_en_un_documento": 3,
+      "cobertura": 0.429,
+      "doc_id": "ley_2080_2021"
+     },
+     {
+      "id": 167,
+      "formato": "semi_open",
+      "n_gramas": 10,
+      "max_en_un_documento": 4,
+      "cobertura": 0.4,
+      "doc_id": "sentencia_su-11_2020"
+     },
+     {
+      "id": 86,
+      "formato": "multiple_choice",
+      "n_gramas": 281,
+      "max_en_un_documento": 92,
+      "cobertura": 0.327,
+      "doc_id": "constitucion"
+     },
+     {
+      "id": 496,
+      "formato": "multiple_choice",
+      "n_gramas": 49,
+      "max_en_un_documento": 16,
+      "cobertura": 0.327,
+      "doc_id": "codigo_civil"
+     },
+     {
+      "id": 264,
+      "formato": "semi_open",
+      "n_gramas": 27,
+      "max_en_un_documento": 8,
+      "cobertura": 0.296,
+      "doc_id": "sentencia_c-581_2001"
+     },
+     {
+      "id": 373,
+      "formato": "multiple_choice",
+      "n_gramas": 62,
+      "max_en_un_documento": 16,
+      "cobertura": 0.258,
+      "doc_id": "estatuto_tributario-2"
+     }
+    ]
+   },
+   "sample_50.jsonl": {
+    "preguntas": 50,
+    "con_algun_n_grama_en_el_corpus": 1,
+    "con_cobertura_mayor_a_0_5": [],
+    "con_cobertura_entre_0_2_y_0_5": [
+     {
+      "id": 563,
+      "formato": "semi_open",
+      "n_gramas": 17,
+      "max_en_un_documento": 6,
+      "cobertura": 0.353,
+      "doc_id": "sentencia_su-277_2025"
+     }
+    ],
+    "cobertura_maxima": 0.353,
+    "mas_cubiertas": [
+     {
+      "id": 563,
+      "formato": "semi_open",
+      "n_gramas": 17,
+      "max_en_un_documento": 6,
+      "cobertura": 0.353,
+      "doc_id": "sentencia_su-277_2025"
+     }
+    ]
+   }
+  }
+ }
+}
