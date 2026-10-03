@@ -1,8 +1,0 @@
-Job instalar_torch_gpu 749126 en nodei-gpu-2 · 2026-09-30 21:22:48
-== 1/4 entorno .venv-gpu (se recrea)
-== 2/4 torch 2.7.1 + CUDA 11.8
-== 3/4 resto de dependencias de src/indice (torch queda fijado en 2.7.1)
-== 4/4 prueba: ¿torch ve la GPU?
-Quadro RTX 6000, 520.61.05
-torch 2.7.1+cu118 | cuda 11.8 | GPU visible: True
-== fin: [instalar_torch_gpu] Terminó con errores (ver .err) · 2026-09-30 21:23:16

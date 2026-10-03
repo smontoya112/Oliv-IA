@@ -1,7 +1,0 @@
-Job instalar_responder 751508 en nodei-gpu-2 · 2026-10-01 18:43:54
-== 0/4 herramientas
-CUDA_HOME: /hpcfs/apps/cuda/11.8
-nvcc: Build cuda_11.8.r11.8/compiler.31833905_0
-gcc:  gcc (GCC) 8.4.1 20200928 (Red Hat 8.4.1-1)   (CUDA 11.8 admite gcc hasta la 11)
-Quadro RTX 6000, 23040 MiB
-== 1/4 compilando llama-cpp-python (CUDA) en .venv-gpu; ~10-20 min (sin caché de uv)

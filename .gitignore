@@ -244,3 +244,6 @@ data/index_base/
 data/processed_base/
 data/exp/
 data/exp_local/
+
+# Salidas de los jobs de Slurm (logs/<job>_<id>.out y .err): se quedan en cada máquina, no se versionan.
+logs/

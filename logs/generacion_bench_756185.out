@@ -1,5 +1,0 @@
-Job generacion_bench 756185 en nodei-gpu-1 · 2026-10-02 18:46:53
-== 1/4 contexto de prueba (recuperacion) -> data/processed/contexto_recuperacion.json
-50 ítems, 0 sin pasajes -> data/processed/contexto_recuperacion.json
-== 2/4 entorno de llama.cpp (.venv-gen) y CUDA 11.8
-== fin: [generacion_bench] FALLÓ (código 4) · 2026-10-02 18:46:57
