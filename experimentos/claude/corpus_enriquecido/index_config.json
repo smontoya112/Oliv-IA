@@ -1,0 +1,51 @@
+{
+  "creado": "2026-10-03T15:38:18+00:00",
+  "chunks": "data/processed_base/chunks.parquet",
+  "sha256_chunks": "06438a86902d489dd3489b5f2c7a4cb844b0692052155aff8ac9995d7e6e0831",
+  "n_chunks": 62824,
+  "n_docs": 504,
+  "n_textos_unicos": 61031,
+  "limite": null,
+  "campo_indexado": "texto (cabecera + cuerpo vigente)",
+  "versiones": {
+    "python": "3.12.12",
+    "faiss-cpu": "1.15.1",
+    "bm25s": "0.3.11",
+    "torch": "2.7.1+cu118",
+    "transformers": "4.57.6",
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1"
+  },
+  "lexico": {
+    "libreria": "bm25s",
+    "k1": 1.2,
+    "b": 0.75,
+    "stemmer": null,
+    "vocabulario": 72631,
+    "stopwords": 84,
+    "tokenizador": "src.indice.lexico.tokenizar (sin tildes, minúsculas, conserva números, sentencias como c355)",
+    "segundos": 16.9
+  },
+  "denso": {
+    "modelo": "BAAI/bge-m3",
+    "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "pooling": "cls + normalización L2",
+    "dim": 1024,
+    "metrica": "producto interno (= coseno)",
+    "tipo_indice": "IndexFlatIP",
+    "device": "cuda",
+    "fp16": true,
+    "batch": 128,
+    "max_tokens": 512,
+    "n_textos_unicos": 61031,
+    "tokens": {
+      "p50": 280,
+      "p95": 438,
+      "max": 2641,
+      "truncados": 487,
+      "segundos_encoding": 198.9
+    },
+    "sha256_faiss": "b4108466398e67ffc71876b985b4d0a4908f38b7f2c9d2c09d23638253078924",
+    "segundos": 243.1
+  }
+}

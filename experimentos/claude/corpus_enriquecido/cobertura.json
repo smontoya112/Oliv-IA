@@ -1,0 +1,318 @@
+{
+ "k": 10,
+ "pares_norma_pregunta": 44,
+ "recuperadas_en_top_k": 43,
+ "tasa": 0.9773,
+ "normas_con_alguna_pregunta_que_la_recupera": 37,
+ "normas": 38,
+ "detalle": [
+  {
+   "doc_id": "sentencia_c-581_2001",
+   "pregunta": 262,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_c-581_2001",
+   "pregunta": 264,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 4
+  },
+  {
+   "doc_id": "sentencia_c-581_2001",
+   "pregunta": 265,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 5
+  },
+  {
+   "doc_id": "sentencia_su-288_2015",
+   "pregunta": 896,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_su-288_2015",
+   "pregunta": 906,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-292_2025",
+   "pregunta": 418,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_su-292_2025",
+   "pregunta": 905,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_t-202_2018",
+   "pregunta": 200,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 7,
+   "pasajes_del_doc_en_top": 2
+  },
+  {
+   "doc_id": "sentencia_t-202_2018",
+   "pregunta": 219,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 10
+  },
+  {
+   "doc_id": "sentencia_t-202_2024",
+   "pregunta": 238,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_t-202_2024",
+   "pregunta": 432,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 10
+  },
+  {
+   "doc_id": "decreto_2663_1950",
+   "pregunta": 523,
+   "formato": "multiple_choice",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_c-148_2025",
+   "pregunta": 181,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 2
+  },
+  {
+   "doc_id": "sentencia_c-29_2009",
+   "pregunta": 410,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 8
+  },
+  {
+   "doc_id": "sentencia_c-317_2025",
+   "pregunta": 208,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_c-448_2020",
+   "pregunta": 1042,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 10
+  },
+  {
+   "doc_id": "sentencia_c-465_2008",
+   "pregunta": 613,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 5
+  },
+  {
+   "doc_id": "sentencia_c-539_2016",
+   "pregunta": 1021,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 10
+  },
+  {
+   "doc_id": "sentencia_c-75_2007",
+   "pregunta": 13,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_c-878_2011",
+   "pregunta": 995,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-140_2019",
+   "pregunta": 92,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 9
+  },
+  {
+   "doc_id": "sentencia_su-167_2023",
+   "pregunta": 895,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-237_2019",
+   "pregunta": 908,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-279_2019",
+   "pregunta": 921,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": null,
+   "pasajes_del_doc_en_top": 0
+  },
+  {
+   "doc_id": "sentencia_su-336_2017",
+   "pregunta": 902,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 8
+  },
+  {
+   "doc_id": "sentencia_su-40_2018",
+   "pregunta": 173,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 2
+  },
+  {
+   "doc_id": "sentencia_su-41_2022",
+   "pregunta": 922,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-452_2024",
+   "pregunta": 909,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-499_2024",
+   "pregunta": 901,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-54_2015",
+   "pregunta": 923,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_su-575_2019",
+   "pregunta": 907,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_su-691_2017",
+   "pregunta": 897,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_t-254_2006",
+   "pregunta": 929,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 2,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_t-277_2018",
+   "pregunta": 376,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_t-284_2025",
+   "pregunta": 937,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_t-287_2022",
+   "pregunta": 429,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "sentencia_t-4_2016",
+   "pregunta": 931,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 3
+  },
+  {
+   "doc_id": "sentencia_t-426_2003",
+   "pregunta": 113,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 3
+  },
+  {
+   "doc_id": "sentencia_t-456_2024",
+   "pregunta": 950,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 6
+  },
+  {
+   "doc_id": "sentencia_t-617_2010",
+   "pregunta": 821,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 9
+  },
+  {
+   "doc_id": "sentencia_t-8_2026",
+   "pregunta": 933,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 7
+  },
+  {
+   "doc_id": "ley_29_1982",
+   "pregunta": 703,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 5,
+   "pasajes_del_doc_en_top": 3
+  },
+  {
+   "doc_id": "ley_45_1990",
+   "pregunta": 850,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 1,
+   "pasajes_del_doc_en_top": 3
+  },
+  {
+   "doc_id": "ley_54_1990",
+   "pregunta": 495,
+   "formato": "semi_open",
+   "posicion_primer_pasaje": 7,
+   "pasajes_del_doc_en_top": 2
+  }
+ ]
+}

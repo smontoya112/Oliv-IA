@@ -94,10 +94,10 @@ scp indice_base.tar.gz <usuario>@<maquina>:<repo>/ && ssh <usuario>@<maquina> "c
 |---|---|---|
 | Scraper con `fuentes.json` | `jobs/descargar_fuentes.sh` (nuevo; reanudable; usa `src.descarga.run --solo <ids del json>`) | 34 sentencias de la Corte Constitucional; las 7 leyes y decretos (Senado) dieron 404 |
 | Scraper con `fuentes_alternativas.json` | `jobs/descargar_fuentes.sh data/enriquecimiento/test_992/fuentes_alternativas.json` | 4 de las 7 desde gestores normativos públicos (CRA y Colpensiones): `ley_54_1990`, `ley_29_1982`, `ley_45_1990`, `decreto_2663_1950` |
-| Chunking del corpus base | `CORPUS=base sbatch jobs/chunking.sh` → `data/processed_base/` | 509 documentos y 62.824 chunks (antes 467 y 57.346: las normas nuevas llevan `origen: preguntas_test_992`, que no se excluye) |
-| Índice del corpus base | `CORPUS=base sbatch jobs/indice.sh` → `data/index_base/` | ver `experimentos/claude/corpus_enriquecido/RESUMEN.md` |
+| Chunking del corpus base | `CORPUS=base sbatch jobs/chunking.sh` → `data/processed_base/` | 504 documentos y 62.824 chunks (antes 467 y 57.346: las normas nuevas llevan `origen: preguntas_test_992`, que no se excluye) |
+| Índice del corpus base | `CORPUS=base sbatch jobs/indice.sh` → `data/index_base/` | `n_chunks` 62.824; sin regresión en `sample_50` (cuerpo@10 0,9625, hit_doc@10 0,90) y 43 de 44 preguntas que nombran una norma nueva la recuperan en el top-10: `experimentos/claude/corpus_enriquecido/RESUMEN.md` |
 
-Manifest: 3.523 documentos `ok` (eran 3.485 antes del enriquecimiento). **Siguen sin descargar**: `ley_2568_2021`, `decreto_3030_2022` y `decreto_4302_2008` (404 en el Senado y sin copia encontrada; 1 pregunta cada una),
+Manifest: 3.523 documentos `ok` (eran 3.485 antes del enriquecimiento). **Siguen sin texto**: `sentencia_su-279_2019` (la Corte la sirve como página dinámica: 0 chunks), `ley_2568_2021`, `decreto_3030_2022` y `decreto_4302_2008` (404 en el Senado y sin copia encontrada; 1 pregunta cada una),
 y a mano: Resolución 368 de 2014 del Ministerio de Ambiente (23 preguntas, ids 721–752, pero preguntan teoría general del acto administrativo, no el contenido de la resolución) y Sentencia SL-3871 de 2021 (Corte Suprema, 1 pregunta).
 El índice anterior quedó como respaldo en `data/index_base_prev/` y `data/processed_base_prev/`.
 
