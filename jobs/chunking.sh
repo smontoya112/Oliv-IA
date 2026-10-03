@@ -29,6 +29,11 @@
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 
+# Intérprete: PYTHON si se da; en un clon ligero sin .venv (hypatia: enlaces a .venv-gpu) se usa .venv-gpu en vez
+# de `uv run`, que intentaría instalar todo el proyecto.
+if [[ -n "${PYTHON:-}" ]]; then uvpy() { PYTHONPATH=. "$PYTHON" "$@"; }
+elif [[ ! -d .venv && -x .venv-gpu/bin/python ]]; then uvpy() { PYTHONPATH=. .venv-gpu/bin/python "$@"; }; fi
+
 SALIDA="data/processed"
 if [[ "${CORPUS:-}" == "base" ]]; then
     SALIDA="data/processed_base"

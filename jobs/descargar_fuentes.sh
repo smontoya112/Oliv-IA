@@ -22,15 +22,19 @@
 # del corpus que usa config/responder.json (CORPUS=base: data/processed_base -> data/index_base; ver
 # jobs/chunking.sh y jobs/indice.sh). Reanudable: lo ya descargado queda en data/raw y no se baja de nuevo.
 # Las fuentes antiguas (seed y propias) se cargan para no duplicar; --solo baja únicamente los doc_id del JSON.
-# Variable PYTHON: intérprete con las dependencias de src.descarga (por defecto .venv-gpu/bin/python si existe, si no uv).
+# Variable PYTHON: intérprete con las dependencias de src.descarga (httpx...). Si no se da, se usa el primero de
+# .venv/bin/python, .venv-gpu/bin/python que importe httpx; si ninguno, `uv run` como los demás jobs.
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
 
 FUENTES="${1:-data/enriquecimiento/test_992/fuentes.json}"
 REINDEXAR="${REINDEXAR:-1}"
-if [[ -n "${PYTHON:-}" ]]; then py() { PYTHONPATH=. "$PYTHON" "$@"; }
-elif [[ -x .venv-gpu/bin/python ]]; then py() { PYTHONPATH=. .venv-gpu/bin/python "$@"; }
-else py() { uvpy "$@"; }; fi
+PY_DESCARGA=""
+for p in "${PYTHON:-}" .venv/bin/python .venv-gpu/bin/python; do
+    if [[ -n "$p" && -x "$p" ]] && PYTHONPATH=. "$p" -c "import httpx" 2>/dev/null; then PY_DESCARGA="$p"; break; fi
+done
+if [[ -n "$PY_DESCARGA" ]]; then py() { PYTHONPATH=. "$PY_DESCARGA" "$@"; }; else py() { uvpy "$@"; }; fi
+echo "intérprete: ${PY_DESCARGA:-uv run}"
 
 paso "0/3 verificando entradas"
 for f in "$FUENTES" data/fuentes_seed.json data/fuentes_propias.json data/corpus_manifest.json; do
@@ -72,8 +76,8 @@ for d in mal:
     print("  sin descargar:", d, "|", m.get(d, {}).get("error"))
 PY
     if [[ $NUEVOS -gt 0 && "$REINDEXAR" == "1" ]]; then
-        J1=$(CORPUS=base sbatch --parsable jobs/chunking.sh) \
-            && J2=$(CORPUS=base sbatch --parsable --dependency=afterok:"$J1" jobs/indice.sh) \
+        J1=$(env -u PYTHON CORPUS=base sbatch --parsable jobs/chunking.sh) \
+            && J2=$(env -u PYTHON CORPUS=base sbatch --parsable --dependency=afterok:"$J1" jobs/indice.sh) \
             && echo "RESULTADO encadenados: chunking $J1 -> indice $J2 (CORPUS=base)" \
             || { echo "ERROR: no se pudieron encadenar el chunking y el índice (sbatch)" >&2; ESTADO=5; }
     else
