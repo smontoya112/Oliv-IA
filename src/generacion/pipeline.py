@@ -73,9 +73,12 @@ def _reintentar_fallidos(items: list[dict], prep: list, crudos: list[str], motor
             crudos[k] = nuevo
 
 
-def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, contar):
-    """(item para ensamblar, salida cruda) con la estrategia "razonada"."""
-    from . import cerradas_razonar, subtarea
+def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, contar,
+                     piezas_abiertas: set[str] | None = None):
+    """(item para ensamblar, salida cruda) con la estrategia "razonada". `piezas_abiertas`: ver
+    src.generacion.abiertas (plantilla, expansion, revision); solo afectan a las abiertas."""
+    from . import abiertas, cerradas_razonar, subtarea
+    piezas = abiertas.activas() if piezas_abiertas is None else piezas_abiertas
     if item["formato"] == "multiple_choice":
         if getattr(motor, "admite_pensar", False) and hasattr(motor, "probabilidades_letras"):
             try:
@@ -93,7 +96,9 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
         if copiada:
             return it, copiada
     texto, _ = formatear_pasajes(pasajes, presupuesto, contar)
-    msgs = construir_mensajes(it, texto, None, instrucciones=subtarea.instrucciones(it),
+    instr = (abiertas.instrucciones(it) if it["formato"] == "open_ended" and "plantilla" in piezas
+             else subtarea.instrucciones(it))
+    msgs = construir_mensajes(it, texto, None, instrucciones=instr,
                               sistema=SISTEMA_LIBRE if os.environ.get("OLIVIA_SISTEMA_LIBRE", "1") == "1" else None)
     crudo = motor.generar_lote([msgs], [esquema_item(it)],
                                max_tokens=MAX_TOKENS_LIBRE[it["formato"]])[0]
@@ -103,18 +108,22 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
                                    max_tokens=MAX_TOKENS_LIBRE[it["formato"]],
                                    repeat_penalty=PENALIZACION_REINTENTO)[0]
         salida = parsear_json(nuevo) or salida
+    if (it["formato"] == "open_ended" and "revision" in piezas and salida
+            and not abstencion.vacio(normalizar(it, salida))):
+        salida = abiertas.revisar(it, salida, texto, motor, esquema_item(it))
     return it, salida
 
 
 def _generar_razonada(items: list[dict], pasajes_por_id: dict, motor, presupuesto: int,
-                      senales_por_id: dict | None, catalogo) -> list[dict]:
+                      senales_por_id: dict | None, catalogo,
+                      piezas_abiertas: set[str] | None = None) -> list[dict]:
     contar = getattr(motor, "contar", None)
     senales_por_id = senales_por_id or {}
     res = []
     for it in items:
         t0 = time.perf_counter()
         pasajes = pasajes_por_id.get(it["id"], [])
-        item, salida = _salida_razonada(it, pasajes, motor, presupuesto, contar)
+        item, salida = _salida_razonada(it, pasajes, motor, presupuesto, contar, piezas_abiertas)
         ms = int((time.perf_counter() - t0) * 1000)
         res.append(ensamblar(item, salida, pasajes, ms, senales_por_id.get(it["id"]), catalogo))
     return res
@@ -124,7 +133,8 @@ def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
                  presupuesto: int = PRESUPUESTO_TOKENS,
                  ejemplos: dict[str, list[dict]] | None = None,
                  senales_por_id: dict | None = None, catalogo=None,
-                 estrategia: str | None = None) -> list[dict]:
+                 estrategia: str | None = None,
+                 abiertas: set[str] | None = None) -> list[dict]:
     """Genera todos los ítems en un solo lote. Devuelve las líneas de submissions.jsonl
     (con latencia_ms = tiempo del lote / n, la medición fina está en bench.py).
 
@@ -134,7 +144,8 @@ def generar_lote(items: list[dict], pasajes_por_id: dict, motor,
     `estrategia` ("actual" | "razonada", ver `estrategia_activa`): la razonada procesa cada ítem
     por separado (razonamiento libre en cerradas, prompt por sub-tarea en texto libre)."""
     if estrategia_activa(estrategia) == "razonada":
-        return _generar_razonada(items, pasajes_por_id, motor, presupuesto, senales_por_id, catalogo)
+        return _generar_razonada(items, pasajes_por_id, motor, presupuesto, senales_por_id, catalogo,
+                                 abiertas)
     contar = getattr(motor, "contar", None)
     prep = [preparar(it, pasajes_por_id.get(it["id"], []), presupuesto, ejemplos, contar)
             for it in items]

@@ -55,20 +55,42 @@ class Recuperador:
                 puntaje[i] = s
         return puntaje
 
-    def recuperar(self, item: dict) -> dict:
-        cfg = self.cfg
-        consultas = [cerradas.consulta_base(item)] + [t for _, t in cerradas.consultas_por_opcion(item)]
-        pares = [(alias.expandir(t) if cfg.alias else t, t) for t in consultas]
-        rankings = self.hibrido.buscar_varias(pares, cfg)
-        cand, info = seleccion.candidatos(item, self.cat, cfg, rankings)
+    def _finalizar(self, item: dict, cand: dict, info: dict) -> dict:
         puntaje = self._puntajes(cand)
-        final = seleccion.elegir(cand, puntaje, cfg, self.cat)
+        final = seleccion.elegir(cand, puntaje, self.cfg, self.cat)
         return {
             "pasajes": [self.cat.pasaje(i, puntaje[i], via=cand[i]["via"], opcion=cand[i]["opcion"])
                         for i in final],
             "senales": seleccion.senales(final, cand, puntaje, self.cat, info,
                                          self.reranker is not None),
         }
+
+    def recuperar(self, item: dict) -> dict:
+        cfg = self.cfg
+        consultas = [cerradas.consulta_base(item)] + [t for _, t in cerradas.consultas_por_opcion(item)]
+        pares = [(alias.expandir(t) if cfg.alias else t, t) for t in consultas]
+        rankings = self.hibrido.buscar_varias(pares, cfg)
+        cand, info = seleccion.candidatos(item, self.cat, cfg, rankings)
+        return self._finalizar(item, cand, info)
+
+    def recuperar_expandido(self, item: dict, extras: list[str], consulta_rerank: str | None = None) -> dict:
+        """Recuperación de un caso largo (abiertas) con consultas adicionales: el enunciado completo y las
+        `extras` (problema jurídico e instituciones que el decoder deduce SOLO del enunciado) se buscan
+        juntas y sus rankings se fusionan con RRF; el reranker puntúa contra `consulta_rerank` (el
+        problema y las preguntas del caso, corto) en vez del relato completo, que se come los 512 tokens del
+        cross-encoder. Misma selección final que `recuperar` (directos, topes, copias)."""
+        cfg = self.cfg
+        base = cerradas.consulta_base(item)
+        textos = [base] + [t for t in extras if t and t.strip()]
+        pares = [(alias.expandir(t) if cfg.alias else t, t) for t in textos]
+        rankings = self.hibrido.buscar_varias(pares, cfg)
+        rl = seleccion.rrf(*[r[0] for r in rankings], k=cfg.k_lexico)
+        rd = seleccion.rrf(*[r[1] for r in rankings], k=cfg.k_denso)
+        cand, info = seleccion.candidatos(item, self.cat, cfg, [(rl, rd)])
+        if consulta_rerank:
+            for d in cand.values():
+                d["q"] = consulta_rerank
+        return self._finalizar(item, cand, info)
 
     def config_corrida(self) -> dict:
         """Todo lo necesario para reproducir la corrida (paso 12.2)."""

@@ -37,7 +37,8 @@ log = logging.getLogger("responder")
 # ------------------------------------------------------------------ configuración
 def cargar_config() -> dict:
     cfg = {"modelo": "qwen3-8b", "indice": "data/index", "n_ctx": 8192,
-           "max_caracteres_pregunta": 6000, "palabras_caso_largo": 120, "estrategia": "actual"}
+           "max_caracteres_pregunta": 6000, "palabras_caso_largo": 120, "estrategia": "actual",
+           "abiertas": []}
     if CONFIG.exists():
         cfg.update(json.loads(CONFIG.read_text(encoding="utf-8")))
     for variable, clave in (("OLIVIA_MODELO", "modelo"), ("OLIVIA_INDICE", "indice"),
@@ -156,14 +157,29 @@ def normas_citadas(sub: dict, pasajes: list[dict]) -> list[dict]:
     return [{"norma": c, "respaldada": c.split("#")[0] in respaldo} for c in sorted(citadas)]
 
 
-def responder_item(item: dict, rec: dict, motor, catalogo=None, estrategia: str | None = None) -> dict:
+def recuperar_item(item: dict, recuperador, motor=None, cfg: dict | None = None) -> dict:
+    """Recuperación de un ítem. Con la estrategia razonada y la pieza `expansion` (src.generacion.abiertas), las
+    abiertas se recuperan además con consultas que el decoder deduce del caso. Es el ÚNICO camino de recuperación
+    de la corrida por lote y de la verificación en vivo."""
+    rec = recuperador.recuperar(item)
+    cfg = cfg or {}
+    if (motor is not None and item.get("formato") == "open_ended" and rec.get("pasajes")
+            and (cfg.get("estrategia") or os.environ.get("OLIVIA_ESTRATEGIA")) == "razonada"):
+        from src.generacion import abiertas
+        if "expansion" in abiertas.activas(cfg):
+            rec = abiertas.recuperar_expandido(item, rec, motor, recuperador)
+    return rec
+
+
+def responder_item(item: dict, rec: dict, motor, catalogo=None, estrategia: str | None = None,
+                   abiertas: set[str] | None = None) -> dict:
     """Línea de submissions.jsonl de un ítem ya recuperado. Es el ÚNICO camino de generación:
     lo usan Responder (verificación en vivo, interfaz) y la corrida por lotes (src.lote), así
     que no pueden divergir. La fase 8 (citas y abstención) ocurre dentro de `ensamblar`, con
     las señales de la recuperación y el catálogo para respaldar citas con el corpus."""
     from src.generacion.pipeline import generar
     return generar(item, rec["pasajes"], motor, senales_por_id={item["id"]: rec["senales"]},
-                   catalogo=catalogo, estrategia=estrategia)
+                   catalogo=catalogo, estrategia=estrategia, abiertas=abiertas)
 
 
 # ------------------------------------------------------------------ el respondedor
@@ -205,12 +221,17 @@ class Responder:
                   solo_recuperar: bool = False) -> dict:
         item = preparar_item(entrada, formato, opciones, self.cfg["palabras_caso_largo"])
         t0 = time.perf_counter()
-        rec = self.recuperador.recuperar(item)
+        if solo_recuperar:
+            rec = self.recuperador.recuperar(item)
+        else:
+            rec = recuperar_item(item, self.recuperador, self.motor, self.cfg)
         if solo_recuperar:
             sub = {"id": item["id"], "formato": item["formato"], "abstencion": False,
                    "pasajes_recuperados": rec["pasajes"]}
         else:
-            sub = responder_item(item, rec, self.motor, self.catalogo, self.cfg.get("estrategia"))
+            from src.generacion import abiertas
+            sub = responder_item(item, rec, self.motor, self.catalogo, self.cfg.get("estrategia"),
+                                 abiertas.activas(self.cfg))
         return {
             "item": item,
             "submission": sub,
