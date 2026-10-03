@@ -89,7 +89,13 @@ def test_esquemas_coinciden_con_el_schema_oficial():
     requeridos = {b["if"]["properties"]["formato"]["const"]: set(b["then"]["required"])
                   for b in oficial["allOf"]}
     for formato, esq in ESQUEMAS.items():
-        assert set(esq["required"]) == requeridos[formato]
+        if formato != "multiple_choice":
+            assert set(esq["required"]) == requeridos[formato]
+    # la cerrada pide análisis por opción al modelo y el postproceso entrega los campos oficiales
+    assert ESQUEMAS["multiple_choice"]["required"] == ["analisis_opciones", "justificacion",
+                                                       "respuesta_correcta"]
+    salida = json.loads(EJEMPLOS["multiple_choice"][1]["content"])
+    assert set(normalizar(MC, salida)) - {"decision_cerrada"} == requeridos["multiple_choice"]
     assert esquema("semi_open") is ESQUEMAS["semi_open"]
     with pytest.raises(ValueError):
         esquema("otro")
@@ -107,7 +113,7 @@ def test_construir_mensajes_incluye_opciones_y_pasajes():
     msgs = construir_mensajes(MC, "[P1] ley_472_1998\ntexto")
     assert msgs[0]["role"] == "system" and msgs[-1]["role"] == "user"
     u = msgs[-1]["content"]
-    assert "A. uno" in u and "D. cuatro" in u and "[P1] ley_472_1998" in u and "descarte_opciones" in u
+    assert "A. uno" in u and "D. cuatro" in u and "[P1] ley_472_1998" in u and "analisis_opciones" in u
     assert "Opciones" not in construir_mensajes(SEMI, "")[-1]["content"]
     with pytest.raises(ValueError):
         construir_mensajes({"formato": "x", "pregunta": "p"}, "")
@@ -118,9 +124,11 @@ class MotorFalso:
     def generar_lote(self, conversaciones, esquemas, max_tokens=0):
         salidas = []
         for esq in esquemas:
-            if "descarte_opciones" in esq["properties"]:
-                salidas.append(json.dumps({"justificacion": "Art. 88 C.P.", "respuesta_correcta": "C",
-                                           "descarte_opciones": {"A": "x", "B": "y", "D": "z"}}))
+            if "analisis_opciones" in esq["properties"]:
+                analisis = {l: {"veredicto": "correcta" if l == "C" else "incorrecta", "razon": l * 3}
+                            for l in "ABCD"}
+                salidas.append(json.dumps({"analisis_opciones": analisis, "justificacion": "Art. 88 C.P.",
+                                           "respuesta_correcta": "C"}))
             elif "palabras_clave" in esq["properties"]:
                 salidas.append(json.dumps({"respuesta": "Es la regla. Se aplica.",
                                            "palabras_clave": ["a", "b"], "referencia_legal": "art. 1"}))

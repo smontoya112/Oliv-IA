@@ -8,22 +8,38 @@ from __future__ import annotations
 LETRAS = ("A", "B", "C", "D")
 
 _TEXTO = {"type": "string", "minLength": 1}
+_VEREDICTO = {
+    "type": "object",
+    "properties": {"veredicto": {"enum": ["correcta", "incorrecta"]}, "razon": _TEXTO},
+    "required": ["veredicto", "razon"],
+    "additionalProperties": False,
+}
 
-ESQUEMAS: dict[str, dict] = {
-    "multiple_choice": {
+
+def esquema_cerrada(letras=LETRAS) -> dict:
+    """Cerradas: primero un veredicto y una razón por CADA opción, luego la justificación y por
+    último la letra (src.generacion.cerradas). `descarte_opciones`, que pide el formato de
+    entrega, se arma en el postproceso con las razones de las opciones no elegidas."""
+    letras = list(letras)
+    return {
         "type": "object",
         "properties": {
-            "justificacion": _TEXTO,
-            "respuesta_correcta": {"enum": list(LETRAS)},
-            "descarte_opciones": {
+            "analisis_opciones": {
                 "type": "object",
-                "properties": {l: _TEXTO for l in LETRAS},
+                "properties": {l: _VEREDICTO for l in letras},
+                "required": letras,
                 "additionalProperties": False,
             },
+            "justificacion": _TEXTO,
+            "respuesta_correcta": {"enum": letras},
         },
-        "required": ["justificacion", "respuesta_correcta", "descarte_opciones"],
+        "required": ["analisis_opciones", "justificacion", "respuesta_correcta"],
         "additionalProperties": False,
-    },
+    }
+
+
+ESQUEMAS: dict[str, dict] = {
+    "multiple_choice": esquema_cerrada(),
     "semi_open": {
         "type": "object",
         "properties": {
@@ -53,3 +69,11 @@ def esquema(formato: str) -> dict:
         return ESQUEMAS[formato]
     except KeyError:
         raise ValueError(f"formato desconocido: {formato!r}") from None
+
+
+def esquema_item(item: dict) -> dict:
+    """Esquema de un ítem concreto: en las cerradas, solo con las letras que trae."""
+    if item["formato"] == "multiple_choice":
+        letras = sorted(item.get("opciones") or LETRAS)
+        return ESQUEMAS["multiple_choice"] if tuple(letras) == LETRAS else esquema_cerrada(letras)
+    return esquema(item["formato"])
