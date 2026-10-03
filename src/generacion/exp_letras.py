@@ -33,6 +33,8 @@ VARIANTES = {
     "base_10":        ("base", {"presupuesto": 6000, "max_pasajes": 10}, 4),
     "base_6":         ("base", {"max_pasajes": 6}, 4),
     "base_repite":    ("base", {}, 4),            # determinismo: debe dar EXACTO lo mismo que "base"
+    "mixto":          (("base", "actual"), {}, 4),  # promedio de las probabilidades con los dos contextos
+    "solo_opciones":  ("base", {"solo_opcion": True}, 4),
 }
 
 
@@ -50,16 +52,35 @@ def cargar(muestra: Path) -> list[dict]:
     return items
 
 
-def evaluar(motor, items: list[dict], ctx: dict, kw: dict, k: int) -> dict:
+def _pasajes(ctx: dict, it: dict, kw: dict) -> list[dict]:
+    ps = ctx.get(str(it["id"])) or ctx.get(it["id"]) or []
+    if kw.get("solo_opcion"):                  # variante: solo los pasajes por opción y los directos
+        ps = [p for p in ps if p.get("opcion") or p.get("via") == "directo"] or ps
+    return ps
+
+
+def evaluar(motor, items: list[dict], ctx, kw: dict, k: int) -> dict:
+    """`ctx` es un contexto ({id: pasajes}) o una lista de ellos: con varios se promedian las
+    probabilidades de cada permutación (bagging de evidencias)."""
     filas, t0 = [], time.perf_counter()
     kw = dict(kw)
     presupuesto = kw.pop("presupuesto", 4500)
+    ctxs = ctx if isinstance(ctx, list) else [ctx]
     for it in items:
-        pasajes = ctx.get(str(it["id"])) or ctx.get(it["id"]) or []
-        media, perms = cr.promedio_permutaciones(motor, it, pasajes, presupuesto, k,
-                                                 getattr(motor, "contar", None), **kw)
+        medias, todas = [], []
+        for c in ctxs:
+            kwp = {x: v for x, v in kw.items() if x != "solo_opcion"}
+            m_, p_ = cr.promedio_permutaciones(motor, it, _pasajes(c, it, kw), presupuesto, k,
+                                               getattr(motor, "contar", None), **kwp)
+            medias.append(m_)
+            todas.append(p_)
+        letras_it = sorted(medias[0])
+        media = {l: sum(m[l] for m in medias) / len(medias) for l in letras_it}
+        perms = [{l: sum(pp[j][l] for pp in todas) / len(todas) for l in letras_it}
+                 for j in range(len(todas[0]))]
         gold = it["respuesta_correcta"]
         letra = max(sorted(media), key=lambda l: media[l])
+        perms = [{l: max(v, 1e-6) for l, v in p.items()} for p in perms]
         nll = -sum(math.log(max(p[gold], 1e-6)) for p in perms) / len(perms)
         filas.append({"id": it["id"], "esperada": gold, "ens": letra, "ok": letra == gold,
                       "p_gold": round(media[gold], 4), "nll": round(nll, 4),
@@ -90,9 +111,11 @@ def main() -> None:
     res = {}
     for nombre in args.variantes:
         ctx_nombre, kw, k = VARIANTES[nombre]
-        if ctx_nombre not in ctxs:
+        nombres = ctx_nombre if isinstance(ctx_nombre, tuple) else (ctx_nombre,)
+        if not all(n in ctxs for n in nombres):
             continue
-        res[nombre] = evaluar(motor, items, ctxs[ctx_nombre], kw, k)
+        res[nombre] = evaluar(motor, items, [ctxs[n] for n in nombres] if isinstance(ctx_nombre, tuple)
+                              else ctxs[ctx_nombre], kw, k)
         r = res[nombre]
         print(f"RESULTADO letras {nombre}: {r['aciertos']}/{r['n']} · por permutación {r['exactitud_por_permutacion']} "
               f"· NLL {r['nll_medio']} · p_gold {r['p_gold_medio']} · {r['segundos_por_pregunta']} s/preg", flush=True)

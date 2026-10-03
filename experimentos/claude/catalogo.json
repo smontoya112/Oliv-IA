@@ -1,0 +1,85 @@
+{
+ "letras_1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (solo logits, 4 permutaciones)",
+  "contexto": "actual vs base",
+  "variante": "base",
+  "hipotesis": "Las probabilidades de letra promediadas sobre permutaciones, con un sistema sin la regla de solo-JSON y sobre el corpus base, superan al JSON de un tiro.",
+  "decision": "adoptar (base + sistema_letra)",
+  "razon": "11/15 con base vs 9/15 con el índice actual; exactitud por permutación 0,73 vs 0,61; 4,3 s por pregunta; 8-10 pasajes mejor que 3-6."
+ },
+ "letras_2": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (solo logits)",
+  "contexto": "base",
+  "variante": "base_repite",
+  "hipotesis": "El resultado es determinista y no cambia al subir el presupuesto a 10 pasajes.",
+  "decision": "adoptar",
+  "razon": "base y base_repite idénticos al decimal (determinismo); 10 pasajes = lo que ya cabía."
+ },
+ "E0_r1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "actual",
+  "politica": "",
+  "contexto": "actual",
+  "indice": "data/index",
+  "hipotesis": "Línea base con reset de contexto por ítem.",
+  "decision": "línea base",
+  "razon": "8/15; 22 s por cerrada (el reset cuesta prefill del few-shot)."
+ },
+ "E0b_r1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "actual",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "El corpus base mejora también la estrategia actual.",
+  "decision": "inconcluso",
+  "razon": "7/15: dentro del ruido; la mejora aparece con logits y permutaciones, no con el JSON de un tiro."
+ },
+ "E1_r1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada",
+  "politica": "razonada",
+  "contexto": "actual",
+  "indice": "data/index",
+  "hipotesis": "Pensar (<think>) antes de comprometer la letra mejora las cerradas.",
+  "decision": "descartar como política por defecto",
+  "razon": "9/15 igual que solo logits (9/15) y 3 veces más lento (45 s); arregla 528 pero rompe 671."
+ },
+ "F0_base": {
+  "modelo": "qwen3-8b",
+  "estrategia": "actual",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Línea base de texto libre con el corpus base.",
+  "decision": "línea base",
+  "razon": "proxy 0,348."
+ },
+ "F1_base": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (plantillas por sub-tarea, v2)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Forma y longitud por sub-tarea (+ extracción literal) suben la parte factual.",
+  "decision": "adoptar",
+  "razon": "proxy 0,378 vs 0,348 (+0,030); léxico +23%; reproducción literal 0,28→0,58."
+ },
+ "F2_base": {
+  "modelo": "llama-3.1-8b",
+  "estrategia": "razonada (v2)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Llama con las plantillas v2.",
+  "decision": "descartar",
+  "razon": "proxy 0,3755 ≈ qwen v2; usar dos decodificadores arriesga la regla de ≤8.000 M y no mejora."
+ },
+ "F3_base": {
+  "modelo": "llama-3.1-8b",
+  "estrategia": "actual",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Llama con el prompt actual.",
+  "decision": "referencia",
+  "razon": "proxy 0,3837: su longitud natural (88 palabras) se acerca a la esperada (77,5); explica por qué ganaba en RAGAS."
+ }
+}
