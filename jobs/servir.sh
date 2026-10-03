@@ -31,7 +31,8 @@ cargar_cuda
 cargar_gcc
 
 PUERTO="${PUERTO:-8000}"
-for f in data/index/faiss.index data/index/index_config.json config/responder.json; do
+IDX="$(python3 -c "import json; print(json.load(open('config/responder.json'))['indice'])" 2>/dev/null)"; IDX="${IDX:-data/index}"
+for f in "$IDX/faiss.index" "$IDX/index_config.json" config/responder.json; do
     [[ -s "$f" ]] || { echo "ERROR: falta $f" >&2; ESTADO=2; }
 done
 [[ -x .venv-gpu/bin/python ]] || { echo "ERROR: falta .venv-gpu (sbatch jobs/instalar_torch_gpu.sh)" >&2; ESTADO=2; }

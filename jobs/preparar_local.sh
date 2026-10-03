@@ -70,22 +70,26 @@ sys.exit(0 if torch.cuda.is_available() and llama_cpp.llama_supports_gpu_offload
 fi
 
 paso "4/5 índice congelado y chunks (copiados de hypatia)"
-for f in data/index/faiss.index data/index/index_config.json data/index/chunk_ids.json \
-         data/processed/chunks.parquet; do
-    [[ -s "$f" ]] || { echo "ERROR: falta $f (rsync desde hypatia, ver la cabecera)" >&2; ESTADO=2; }
+# el índice es el de config/responder.json (hoy data/index_base; sus chunks salen de index_config.json)
+IDX="$(python3 -c "import json; print(json.load(open('config/responder.json'))['indice'])" 2>/dev/null)"; IDX="${IDX:-data/index}"
+CHUNKS="$(python3 -c "import json,sys; print(json.load(open(sys.argv[1]+'/index_config.json'))['chunks'])" "$IDX" 2>/dev/null)"
+for f in "$IDX/faiss.index" "$IDX/index_config.json" "$IDX/chunk_ids.json" "${CHUNKS:-data/processed/chunks.parquet}"; do
+    [[ -s "$f" ]] || { echo "ERROR: falta $f (copiarlo desde hypatia, ver docs/prueba_claude.md)" >&2; ESTADO=2; }
 done
-[[ -d data/index/bm25 ]] || { echo "ERROR: falta data/index/bm25/" >&2; ESTADO=2; }
+[[ -d "$IDX/bm25" ]] || { echo "ERROR: falta $IDX/bm25/" >&2; ESTADO=2; }
+export IDX
 if [[ $ESTADO -eq 0 ]]; then
     correr $PY - <<'PY'
-import hashlib, json
-cfg = json.load(open("data/index/index_config.json", encoding="utf-8"))
+import hashlib, json, os
+IDX = os.environ.get("IDX", "data/index")
+cfg = json.load(open(IDX + "/index_config.json", encoding="utf-8"))
 def sha(r):
     h = hashlib.sha256()
     with open(r, "rb") as f:
         for b in iter(lambda: f.read(1 << 24), b""):
             h.update(b)
     return h.hexdigest()
-ok = sha(cfg["chunks"]) == cfg["sha256_chunks"] and sha("data/index/faiss.index") == cfg["denso"]["sha256_faiss"]
+ok = sha(cfg["chunks"]) == cfg["sha256_chunks"] and sha(IDX + "/faiss.index") == cfg["denso"]["sha256_faiss"]
 print("sha256 de chunks.parquet y faiss.index:", "coinciden con index_config.json" if ok else "NO coinciden")
 raise SystemExit(0 if ok else 1)
 PY
