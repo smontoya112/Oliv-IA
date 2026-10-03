@@ -36,8 +36,9 @@ _FORMAS = {
                    "lo establece.", 60, 3),
     "elementos": ("Enumera los elementos esenciales en una sola oración continua y cita la norma "
                   "y el artículo.", 60, 3),
-    "existencia": ("Empieza con \"Sí\" o \"No\". Nombra la norma (tipo, número y año, o el "
-                   "artículo del código) y di en una oración qué regula.", 45, 3),
+    "existencia": ("Si la pregunta se contesta con sí o no, empieza con \"Sí\" o \"No\"; si pregunta "
+                   "cuál norma o artículo, nómbralo directamente. Cita la norma (tipo, número y año, "
+                   "o el artículo del código) y di en una oración qué regula.", 45, 3),
     "autoridad": ("Nombra la autoridad competente y la norma que le atribuye la competencia.",
                   50, 3),
     "juez": ("Nombra el juez o corporación que decide y la norma que le atribuye la competencia.",
@@ -59,7 +60,7 @@ _FORMAS = {
     "distincion": ("Contrasta los conceptos en 2 a 4 oraciones, señalando el criterio que los "
                    "distingue y citando la norma.", 100, 4),
     "requisitos": ("Enumera los requisitos o supuestos exigidos en 2 a 4 oraciones y cita la norma "
-                   "y el artículo.", 100, 4),
+                   "y el artículo.", 110, 4),
     "excepciones": ("Enuncia la regla general y luego las excepciones que prevé la norma, con el "
                     "artículo.", 100, 4),
     "imparcialidad": ("Explica en 2 o 3 oraciones cómo garantiza la ley la imparcialidad "
@@ -131,10 +132,13 @@ def inferir(pregunta: str, complejidad: str | None = None) -> str:
     return _POR_COMPLEJIDAD.get((complejidad or "").lower(), "requisitos")
 
 
+_NOMBRA_SENTENCIA = re.compile(r"\bsentencia\b|\b(?:c|t|su|a)[- ]?\d{1,4}(?:[/ -]| de )\d{2,4}\b")
+
+
 def clave(item: dict) -> str:
     c = normalizar_nombre(item.get("sub_tarea"))
-    if c == "problema" and len(str(item.get("pregunta") or "").split()) > 40 \
-            and not re.search(r"sentencia", _sin_tildes(item.get("pregunta")).lower()):
+    nombra = bool(_NOMBRA_SENTENCIA.search(_sin_tildes(item.get("pregunta")).lower()))
+    if c == "problema" and not nombra:
         return "caso"                   # "problema jurídico" planteado como caso con hechos
     return c or inferir(item.get("pregunta") or "", item.get("complejidad"))
 
@@ -155,7 +159,9 @@ def instrucciones(item: dict) -> str:
                 "Campos del JSON:\n"
                 f"- \"respuesta\": {p['forma']} Máximo {p['palabras']} palabras. La primera "
                 "oración responde directamente a lo que se pregunta; no repitas la pregunta ni "
-                "agregues contexto, advertencias o información que no se pida. Si la pregunta "
+                "agregues contexto, advertencias o información que no se pida. Si la pregunta pide "
+                "establecer si una afirmación es verdadera o falsa, empieza con \"La afirmación es "
+                "verdadera\" o \"La afirmación es falsa\". Si la pregunta "
                 "menciona una sentencia o norma concreta, nómbrala con su nombre completo "
                 "(por ejemplo \"Sentencia C-891 de 2012\").\n"
                 "- \"palabras_clave\": entre 3 y 5 términos jurídicos clave de la respuesta.\n"

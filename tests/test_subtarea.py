@@ -37,6 +37,16 @@ def test_normalizar_nombre(nombre, clave):
      "años y sin autonomía alguna. ¿Existe una relación laboral con las prestaciones del caso?",
      "caso"),
 ])
+def test_problema_juridico_sin_sentencia_es_un_caso():
+    caso = {"formato": "semi_open", "sub_tarea": "Problema jurídico",
+            "pregunta": "Una ministra a quien le fue aceptada la renuncia continúa celebrando "
+                        "contratos. ¿Puede ser sujeto activo de peculado?"}
+    assert st.clave(caso) == "caso"
+    sentencia = {"formato": "semi_open", "sub_tarea": "Problema jurídico",
+                 "pregunta": "¿Cuál es el problema jurídico abordado en la sentencia SU-455 de 2020?"}
+    assert st.clave(sentencia) == "problema"
+
+
 def test_inferir(pregunta, clave):
     assert st.inferir(pregunta, None) == clave
 
@@ -54,7 +64,7 @@ def test_plan_prefiere_la_subtarea_dada_y_cae_a_la_complejidad():
 def test_instrucciones_y_limites():
     semi = {"formato": "semi_open", "pregunta": "¿Existe alguna norma sobre el acoso laboral?"}
     txt = st.instrucciones(semi)
-    assert "Empieza con \"Sí\" o \"No\"" in txt and "Máximo 45 palabras" in txt
+    assert "empieza con \"Sí\" o \"No\"" in txt and "Máximo 45 palabras" in txt
     assert st.limites(semi) == (3, 56)
     abierta = {"formato": "open_ended", "pregunta": "Analice."}
     assert "marco_normativo" in st.instrucciones(abierta) and st.limites(abierta) == (8, None)

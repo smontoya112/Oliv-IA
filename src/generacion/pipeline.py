@@ -11,7 +11,7 @@ from src.verificacion import abstencion
 from .ejemplos import EJEMPLOS
 from .esquemas import esquema_item
 from .postproceso import ensamblar, normalizar, parsear_json
-from .prompts import construir_mensajes, formatear_pasajes
+from .prompts import SISTEMA_LIBRE, construir_mensajes, formatear_pasajes
 
 log = logging.getLogger("generacion")
 PRESUPUESTO_TOKENS = 4500          # contexto de pasajes (el paso 6.7 pide entre 3.000 y 5.000)
@@ -89,7 +89,8 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
         if copiada:
             return it, copiada
     texto, _ = formatear_pasajes(pasajes, presupuesto, contar)
-    msgs = construir_mensajes(it, texto, None, instrucciones=subtarea.instrucciones(it))
+    msgs = construir_mensajes(it, texto, None, instrucciones=subtarea.instrucciones(it),
+                              sistema=SISTEMA_LIBRE if os.environ.get("OLIVIA_SISTEMA_LIBRE", "1") == "1" else None)
     crudo = motor.generar_lote([msgs], [esquema_item(it)],
                                max_tokens=MAX_TOKENS_LIBRE[it["formato"]])[0]
     salida = parsear_json(crudo)
