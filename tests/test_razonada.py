@@ -121,3 +121,15 @@ def test_estrategia_actual_no_cambia():
     b = generar_lote([MC], {51: PASAJES}, MotorFalso())[0]
     a.pop("latencia_ms"), b.pop("latencia_ms")
     assert a == b
+
+
+def test_literal_no_llama_al_modelo():
+    from tests.test_subtarea import ART_113
+    semi = {"id": 865, "formato": "semi_open", "sub_tarea": "Reproducción literal",
+            "pregunta": "¿Qué dice el artículo 113 del Código Civil en relación al matrimonio?"}
+
+    class Motor(MotorFalso):
+        def generar_lote(self, *a, **k):
+            raise AssertionError("no debía generar")
+    res = generar_lote([semi], {865: [ART_113]}, Motor(), estrategia="razonada")[0]
+    assert res["abstencion"] is False and res["respuesta"].startswith("Artículo 113 del Código Civil: «El matrimonio")

@@ -84,6 +84,10 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
         crudo = motor.generar_lote([msgs], [esquema], max_tokens=MAX_TOKENS_SALIDA[item["formato"]])[0]
         return item, parsear_json(crudo)
     it = {**item, "_limites": subtarea.limites(item)}
+    if it["formato"] == "semi_open" and subtarea.clave(it) == "literal":
+        copiada = subtarea.literal(it, pasajes)          # el texto del artículo, sin generar
+        if copiada:
+            return it, copiada
     texto, _ = formatear_pasajes(pasajes, presupuesto, contar)
     msgs = construir_mensajes(it, texto, None, instrucciones=subtarea.instrucciones(it))
     crudo = motor.generar_lote([msgs], [esquema_item(it)],

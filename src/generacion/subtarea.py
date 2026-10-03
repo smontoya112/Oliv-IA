@@ -179,3 +179,78 @@ def limites(item: dict) -> tuple[int, int | None]:
         p = plan(item)
         return p["max_oraciones"], p["max_palabras"]
     return 8, None
+
+
+# ------------------------------------------------------------------ reproducción literal
+_ART = re.compile(r"art[ií]culo\s+(\d+(?:[-.]\d+)?)", re.I)
+_NUMERAL = re.compile(r"(?:numeral|ordinal)\s+(\d+)", re.I)
+_NORMA_EN_PREGUNTA = re.compile(r"art[ií]culo\s+\d+(?:[-.]\d+)?\s+((?:del?|de la|de el)\s+[^,.?;:\n]+?)"
+                                r"(?=\s+(?:que|en|sobre|y|donde|por)\b|[,.?;:\n]|$)", re.I)
+_NOTA = re.compile(r"\{\{.*?\}\}")
+_TITULO = re.compile(r"^ART[IÍ]CULO\s+\S+?\.\s*(?:(?:\{\{.*?\}\}|[A-ZÁÉÍÓÚÑ0-9][A-ZÁÉÍÓÚÑ0-9 ,;/()\-]*)\.\s*)?")
+_ITEM = re.compile(r"(?m)^\s*(\d{1,2})\.\s+(?=\S)")
+_PALABRA = re.compile(r"\w+", re.UNICODE)
+
+
+def _contenido(t: str) -> set[str]:
+    stop = {"que", "del", "las", "los", "una", "uno", "por", "para", "con", "como", "sus", "esta",
+            "este", "articulo", "numeral", "codigo", "menciona", "fragmento", "cite", "cité", "dice",
+            "relacion", "segun", "sobre", "donde", "cual"}
+    return {w for w in _PALABRA.findall(_sin_tildes(t).lower()) if len(w) > 3 and w not in stop}
+
+
+def _limpiar_nota(t: str) -> str:
+    t = _NOTA.sub("", t)
+    t = re.sub(r"\{([^{}]*)\}", r"\1", t)
+    return " ".join(t.split())
+
+
+def literal(item: dict, pasajes: list[dict], max_palabras: int = 150) -> dict | None:
+    """Respuesta de "reproducción literal" copiada del pasaje del artículo pedido, sin generar:
+    {"respuesta", "palabras_clave", "referencia_legal"}, o None si el artículo no está entre los
+    pasajes (entonces responde el modelo). Si el artículo es una lista numerada y el enunciado pide
+    un numeral ("numeral 5") o describe uno (palabras en común), solo se copia ese numeral."""
+    pregunta = str(item.get("pregunta") or "")
+    m = _ART.search(pregunta)
+    if not m:
+        return None
+    n = m.group(1)
+    candidatos = [p for p in pasajes if str(p.get("norma_id") or "").endswith(f"#art_{n}")]
+    if not candidatos:
+        return None
+    p = sorted(candidatos, key=lambda x: x.get("via") != "directo")[0]
+    cuerpo = str(p.get("texto") or "").split("\n", 1)
+    if len(cuerpo) < 2:
+        return None
+    texto = _TITULO.sub("", cuerpo[1].strip(), count=1)
+    texto = _limpiar_nota(texto)
+    nombre = _NORMA_EN_PREGUNTA.search(pregunta)
+    nombre = " ".join(nombre.group(1).split()) if nombre else None
+    if not nombre:
+        h = re.match(r"Art[ií]culo\s+\S+\s+((?:del?|de la)\s+.+?)(?:\s+\(|\.\s|$)", cuerpo[0])
+        nombre = h.group(1) if h else "la norma"
+    cabecera = f"Artículo {n} {nombre}"
+    items_num = list(_ITEM.finditer(cuerpo[1]))
+    if len(items_num) >= 2:
+        trozos = {}
+        for k, mm in enumerate(items_num):
+            fin = items_num[k + 1].start() if k + 1 < len(items_num) else len(cuerpo[1])
+            trozos[int(mm.group(1))] = _limpiar_nota(cuerpo[1][mm.end():fin])
+        pedido = _NUMERAL.search(pregunta)
+        elegido = int(pedido.group(1)) if pedido and int(pedido.group(1)) in trozos else None
+        if elegido is None:
+            q = _contenido(pregunta)
+            puntaje = sorted(((len(q & _contenido(t)), k) for k, t in trozos.items()), reverse=True)
+            if puntaje and puntaje[0][0] >= 2 and (len(puntaje) == 1 or puntaje[0][0] > puntaje[1][0]):
+                elegido = puntaje[0][1]
+        if elegido is not None:
+            cabecera = f"Numeral {elegido} del artículo {n} {nombre}"
+            texto = trozos[elegido]
+    palabras = texto.split()
+    if len(palabras) > max_palabras:
+        texto = " ".join(palabras[:max_palabras]).rstrip(",;:") + "…"
+    if not texto:
+        return None
+    return {"respuesta": f"{cabecera}: «{texto}»",
+            "palabras_clave": [f"artículo {n}", nombre.replace("del ", "").replace("de la ", "")],
+            "referencia_legal": f"Artículo {n} {nombre}"}

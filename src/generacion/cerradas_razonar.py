@@ -89,7 +89,8 @@ def mensajes_letra(item: dict, pasajes: list[dict], presupuesto: int, contar=Non
 
 
 def promedio_permutaciones(motor, item: dict, pasajes: list[dict], presupuesto: int, k: int,
-                           contar=None, reiniciar_primero: bool = True) -> tuple[dict, list[dict]]:
+                           contar=None, reiniciar_primero: bool = True,
+                           **variante) -> tuple[dict, list[dict]]:
     """(probabilidad media por letra ORIGINAL, lista de probabilidades por permutación)."""
     letras = sorted(item["opciones"])
     ords = ordenes(letras, k) if permutable(item["opciones"]) else [letras]
@@ -97,8 +98,8 @@ def promedio_permutaciones(motor, item: dict, pasajes: list[dict], presupuesto: 
     for j, orden in enumerate(ords):
         it, nueva_a_orig, orig_a_nueva = _item_permutado(item, orden)
         ps = _pasajes_permutados(pasajes, orig_a_nueva)
-        p = motor.probabilidades_letras(mensajes_letra(it, ps, presupuesto, contar), letras,
-                                        reiniciar=(j == 0 and reiniciar_primero))
+        p = motor.probabilidades_letras(mensajes_letra(it, ps, presupuesto, contar, **variante),
+                                        letras, reiniciar=(j == 0 and reiniciar_primero))
         p_orig = {nueva_a_orig[n]: v for n, v in p.items()}
         por_perm.append({l: round(p_orig[l], 4) for l in letras})
         for l, v in p_orig.items():

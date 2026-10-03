@@ -58,3 +58,40 @@ def test_instrucciones_y_limites():
     assert st.limites(semi) == (3, 56)
     abierta = {"formato": "open_ended", "pregunta": "Analice."}
     assert "marco_normativo" in st.instrucciones(abierta) and st.limites(abierta) == (8, None)
+
+
+ART_113 = {"doc_id": "ley_84_1873", "norma_id": "ley_84_1873#art_113", "via": "directo",
+           "texto": "Artículo 113 del Código Civil (Ley 57 de 1887). Libro Primero > Título IV. DEFINICIÓN.\n"
+                    "ARTÍCULO 113. {{DEFINICIÓN}}. {{Ver Notas del Editor}} El matrimonio es un contrato "
+                    "solemne por el cual un hombre y una mujer se unen con el fin de vivir juntos."}
+ART_60 = {"doc_id": "cst", "norma_id": "codigo_sustantivo_trabajo#art_60", "via": "directo",
+          "texto": "Artículo 60 de la Código Sustantivo del Trabajo (Decretos 2663 de 1950). Título I.\n"
+                   "ARTICULO 60. PROHIBICIONES A LOS TRABAJADORES. Se prohibe a los trabajadores:\n\n"
+                   "1. Sustraer de la fábrica los útiles de trabajo. Sin permiso del {empleador}.\n\n"
+                   "2. {{Numeral CONDICIONALMENTE exequible}} Presentarse al trabajo en estado de embriaguez.\n\n"
+                   "5. Disminuir intencionalmente el ritmo de ejecución del trabajo o suspender labores."}
+
+
+def test_literal_copia_el_articulo_sin_notas_ni_titulo():
+    item = {"formato": "semi_open", "pregunta": "¿Qué dice el artículo 113 del Código Civil en relación al matrimonio?"}
+    r = st.literal(item, [ART_113])
+    assert r["respuesta"] == ("Artículo 113 del Código Civil: «El matrimonio es un contrato solemne por el "
+                              "cual un hombre y una mujer se unen con el fin de vivir juntos.»")
+    assert r["referencia_legal"] == "Artículo 113 del Código Civil"
+
+
+def test_literal_elige_el_numeral_por_numero_o_por_contenido():
+    por_contenido = {"formato": "semi_open", "pregunta": "Cité un fragmento de el artículo 60 del código "
+                     "sustantivo del trabajo que menciona la prohibición de disminuir el ritmo de trabajo."}
+    r = st.literal(por_contenido, [ART_60])
+    assert r["respuesta"].startswith("Numeral 5 del artículo 60 del código sustantivo del trabajo: «Disminuir")
+    por_numero = {"formato": "semi_open", "pregunta": "Transcriba el numeral 2 del artículo 60 del Código "
+                  "Sustantivo del Trabajo."}
+    assert "embriaguez" in st.literal(por_numero, [ART_60])["respuesta"]
+    assert "Numeral CONDICIONALMENTE" not in st.literal(por_numero, [ART_60])["respuesta"]
+
+
+def test_literal_devuelve_none_si_el_articulo_no_esta():
+    item = {"formato": "semi_open", "pregunta": "¿Qué dice el artículo 999 del Código Civil?"}
+    assert st.literal(item, [ART_113]) is None
+    assert st.literal({"formato": "semi_open", "pregunta": "Sin artículo."}, [ART_113]) is None
