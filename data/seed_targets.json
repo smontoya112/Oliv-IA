@@ -1,0 +1,2833 @@
+{
+  "seed": 20260830,
+  "documentos": [
+    {
+      "norma": "Constitucion",
+      "canonico": [
+        "constitucion",
+        null,
+        null
+      ],
+      "items_del_banco": 90,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho comercial y sociedades",
+        "Derecho constitucional",
+        "Derecho de familia",
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+        "Derecho laboral",
+        "Derecho penal",
+        "Derecho procesal",
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html?q=Constitucion"
+    },
+    {
+      "norma": "Codigo general proceso",
+      "canonico": [
+        "codigo_general_proceso",
+        null,
+        null
+      ],
+      "items_del_banco": 65,
+      "areas": [
+        "Derecho civil",
+        "Derecho comercial y sociedades",
+        "Derecho de familia",
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]",
+        "Derecho penal",
+        "Derecho procesal",
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+    },
+    {
+      "norma": "Codigo sustantivo trabajo",
+      "canonico": [
+        "codigo_sustantivo_trabajo",
+        null,
+        null
+      ],
+      "items_del_banco": 37,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+    },
+    {
+      "norma": "Estatuto tributario",
+      "canonico": [
+        "estatuto_tributario",
+        null,
+        null
+      ],
+      "items_del_banco": 35,
+      "areas": [
+        "Derecho civil",
+        "Derecho constitucional",
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
+    },
+    {
+      "norma": "Decision andina 486",
+      "canonico": [
+        "decision_andina_486",
+        null,
+        null
+      ],
+      "items_del_banco": 23,
+      "areas": [
+        "Derecho comercial y sociedades",
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "https://www.wipo.int/wipolex/es/legislation/details/9451"
+    },
+    {
+      "norma": "Estatuto consumidor",
+      "canonico": [
+        "estatuto_consumidor",
+        null,
+        null
+      ],
+      "items_del_banco": 13,
+      "areas": [
+        "Derecho civil",
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1480_2011.html"
+    },
+    {
+      "norma": "Ley 80 de 1993",
+      "canonico": [
+        "ley",
+        "80",
+        "1993"
+      ],
+      "items_del_banco": 12,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html"
+    },
+    {
+      "norma": "Ley 2220 de 2022",
+      "canonico": [
+        "ley",
+        "2220",
+        "2022"
+      ],
+      "items_del_banco": 11,
+      "areas": [
+        "Derecho civil",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2220_2022.html"
+    },
+    {
+      "norma": "Decreto 2153 de 1992",
+      "canonico": [
+        "decreto",
+        "2153",
+        "1992"
+      ],
+      "items_del_banco": 10,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2153_1992.html"
+    },
+    {
+      "norma": "Sentencia C-355 de 2006",
+      "canonico": [
+        "jurisprudencia",
+        "C-355",
+        "2006"
+      ],
+      "items_del_banco": 7,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm"
+    },
+    {
+      "norma": "Ley 1116 de 2006",
+      "canonico": [
+        "ley",
+        "1116",
+        "2006"
+      ],
+      "items_del_banco": 7,
+      "areas": [
+        "Derecho comercial y sociedades",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1116_2006.html"
+    },
+    {
+      "norma": "Ley 1581 de 2012",
+      "canonico": [
+        "ley",
+        "1581",
+        "2012"
+      ],
+      "items_del_banco": 6,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho constitucional",
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html"
+    },
+    {
+      "norma": "Codigo infancia",
+      "canonico": [
+        "codigo_infancia",
+        null,
+        null
+      ],
+      "items_del_banco": 5,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1098_2006.html"
+    },
+    {
+      "norma": "Sentencia C-207 de 2019",
+      "canonico": [
+        "jurisprudencia",
+        "C-207",
+        "2019"
+      ],
+      "items_del_banco": 4,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2019/C-207-19.htm"
+    },
+    {
+      "norma": "Sentencia SL-3385 de 2022",
+      "canonico": [
+        "jurisprudencia",
+        "SL-3385",
+        "2022"
+      ],
+      "items_del_banco": 4,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/bnov2022/SL3385-2022.pdf"
+    },
+    {
+      "norma": "Sentencia T-323 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "T-323",
+        "2024"
+      ],
+      "items_del_banco": 4,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/T-323-24.htm"
+    },
+    {
+      "norma": "Ley 1258 de 2008",
+      "canonico": [
+        "ley",
+        "1258",
+        "2008"
+      ],
+      "items_del_banco": 4,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html"
+    },
+    {
+      "norma": "Sentencia C-394 de 2017",
+      "canonico": [
+        "jurisprudencia",
+        "C-394",
+        "2017"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2017/C-394-17.htm"
+    },
+    {
+      "norma": "Sentencia C-55 de 2022",
+      "canonico": [
+        "jurisprudencia",
+        "C-55",
+        "2022"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2022/C-055-22.htm"
+    },
+    {
+      "norma": "Sentencia SU-315 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "SU-315",
+        "2025"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/SU315-25.htm"
+    },
+    {
+      "norma": "Sentencia T-243 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "T-243",
+        "2018"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2018/T-243-18.htm"
+    },
+    {
+      "norma": "Sentencia T-760 de 2008",
+      "canonico": [
+        "jurisprudencia",
+        "T-760",
+        "2008"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2008/T-760-08.htm"
+    },
+    {
+      "norma": "Ley 1010 de 2006",
+      "canonico": [
+        "ley",
+        "1010",
+        "2006"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1010_2006.html"
+    },
+    {
+      "norma": "Ley 1150 de 2007",
+      "canonico": [
+        "ley",
+        "1150",
+        "2007"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1150_2007.html"
+    },
+    {
+      "norma": "Ley 1340 de 2009",
+      "canonico": [
+        "ley",
+        "1340",
+        "2009"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1340_2009.html"
+    },
+    {
+      "norma": "Ley 153 de 1887",
+      "canonico": [
+        "ley",
+        "153",
+        "1887"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho civil",
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=15805"
+    },
+    {
+      "norma": "Ley 2437 de 2024",
+      "canonico": [
+        "ley",
+        "2437",
+        "2024"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho civil",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2437_2024.html"
+    },
+    {
+      "norma": "Ley 54 de 1990",
+      "canonico": [
+        "ley",
+        "54",
+        "1990"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=30896"
+    },
+    {
+      "norma": "Ley 979 de 2005",
+      "canonico": [
+        "ley",
+        "979",
+        "2005"
+      ],
+      "items_del_banco": 3,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0979_2005.html"
+    },
+    {
+      "norma": "Ley 1563 de 2012",
+      "canonico": [
+        "ley",
+        "1563",
+        "2012"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho procesal"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48366"
+    },
+    {
+      "norma": "Sentencia C-117 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "C-117",
+        "2018"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2018/C-117-18.htm"
+    },
+    {
+      "norma": "Sentencia C-127 de 2011",
+      "canonico": [
+        "jurisprudencia",
+        "C-127",
+        "2011"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/C-127-11.htm"
+    },
+    {
+      "norma": "Sentencia C-134 de 2019",
+      "canonico": [
+        "jurisprudencia",
+        "C-134",
+        "2019"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2019/C-134-19.htm"
+    },
+    {
+      "norma": "Sentencia C-15 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "C-15",
+        "2018"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2018/C-015-18.htm"
+    },
+    {
+      "norma": "Sentencia C-164 de 2022",
+      "canonico": [
+        "jurisprudencia",
+        "C-164",
+        "2022"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2022/C-164-22.htm"
+    },
+    {
+      "norma": "Sentencia C-259 de 2015",
+      "canonico": [
+        "jurisprudencia",
+        "C-259",
+        "2015"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2015/C-259-15.htm"
+    },
+    {
+      "norma": "Sentencia C-35 de 2009",
+      "canonico": [
+        "jurisprudencia",
+        "C-35",
+        "2009"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2009/c-035-09.htm"
+    },
+    {
+      "norma": "Sentencia C-431 de 2001",
+      "canonico": [
+        "jurisprudencia",
+        "C-431",
+        "2001"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2001/C-431-01.htm"
+    },
+    {
+      "norma": "Sentencia C-500 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "C-500",
+        "2024"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho procesal",
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/C-500-24.htm"
+    },
+    {
+      "norma": "Sentencia C-507 de 2004",
+      "canonico": [
+        "jurisprudencia",
+        "C-507",
+        "2004"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2004/C-507-04.htm"
+    },
+    {
+      "norma": "Sentencia C-540 de 2023",
+      "canonico": [
+        "jurisprudencia",
+        "C-540",
+        "2023"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2023/C-540-23.htm"
+    },
+    {
+      "norma": "Sentencia C-582 de 1999",
+      "canonico": [
+        "jurisprudencia",
+        "C-582",
+        "1999"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1999/C-582-99.htm"
+    },
+    {
+      "norma": "Sentencia C-746 de 2011",
+      "canonico": [
+        "jurisprudencia",
+        "C-746",
+        "2011"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/C-746-11.htm"
+    },
+    {
+      "norma": "Sentencia C-748 de 2011",
+      "canonico": [
+        "jurisprudencia",
+        "C-748",
+        "2011"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho civil",
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/C-748-11.htm"
+    },
+    {
+      "norma": "Sentencia C-94 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "C-94",
+        "2021"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2021/C-094-21.htm"
+    },
+    {
+      "norma": "Sentencia C-96 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "C-96",
+        "2024"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/C-096-24.htm"
+    },
+    {
+      "norma": "Sentencia SL-648 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "SL-648",
+        "2018"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/2018/03/SL648-2018-55122-Acoso-sexual-en-el-trabajo.pdf"
+    },
+    {
+      "norma": "Sentencia SP-1680 de 2022",
+      "canonico": [
+        "jurisprudencia",
+        "SP-1680",
+        "2022"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1680-2022(60875).pdf"
+    },
+    {
+      "norma": "Sentencia SP-1945 de 2019",
+      "canonico": [
+        "jurisprudencia",
+        "SP-1945",
+        "2019"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2019/SP1945-2019(50523).PDF"
+    },
+    {
+      "norma": "Sentencia SU-111 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "SU-111",
+        "2025"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/SU111-25.htm"
+    },
+    {
+      "norma": "Sentencia SU-214 de 2016",
+      "canonico": [
+        "jurisprudencia",
+        "SU-214",
+        "2016"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2016/SU214-16.htm"
+    },
+    {
+      "norma": "Sentencia T-547 de 2017",
+      "canonico": [
+        "jurisprudencia",
+        "T-547",
+        "2017"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2017/T-547-17.htm"
+    },
+    {
+      "norma": "Ley 1095 de 2006",
+      "canonico": [
+        "ley",
+        "1095",
+        "2006"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho penal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1095_2006.html"
+    },
+    {
+      "norma": "Ley 2141 de 2021",
+      "canonico": [
+        "ley",
+        "2141",
+        "2021"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2141_2021.html"
+    },
+    {
+      "norma": "Ley 2452 de 2025",
+      "canonico": [
+        "ley",
+        "2452",
+        "2025"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+    },
+    {
+      "norma": "Ley 2466 de 2025",
+      "canonico": [
+        "ley",
+        "2466",
+        "2025"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html"
+    },
+    {
+      "norma": "Ley 256 de 1996",
+      "canonico": [
+        "ley",
+        "256",
+        "1996"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0256_1996.html"
+    },
+    {
+      "norma": "Ley 50 de 1990",
+      "canonico": [
+        "ley",
+        "50",
+        "1990"
+      ],
+      "items_del_banco": 2,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=281"
+    },
+    {
+      "norma": "Acuerdo 02 de 2015",
+      "canonico": [
+        "acuerdo",
+        "02",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://sidn.ramajudicial.gov.co/SIDN/NORMATIVA/TEXTOS_COMPLETOS/3_ACUERDOS/ACUERDOS%202015/CC%20Acuerdo%202%20de%202015%20(Unifica%20y%20actualiza%20el%20Reglamento%20de%20la%20Corte%20Constitucional).pdf"
+    },
+    {
+      "norma": "Codigo disciplinario",
+      "canonico": [
+        "codigo_disciplinario",
+        null,
+        null
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1952_2019.html"
+    },
+    {
+      "norma": "Codigo nacional policia",
+      "canonico": [
+        "codigo_nacional_policia",
+        null,
+        null
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1801_2016.html"
+    },
+    {
+      "norma": "Decreto 046 de 2024",
+      "canonico": [
+        "decreto",
+        "046",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=30051023"
+    },
+    {
+      "norma": "Decreto 1082 de 2015",
+      "canonico": [
+        "decreto",
+        "1082",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77653"
+    },
+    {
+      "norma": "Decreto 1742 de 2020",
+      "canonico": [
+        "decreto",
+        "1742",
+        "2020"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1742_2020.html"
+    },
+    {
+      "norma": "Decreto 175 de 2025",
+      "canonico": [
+        "decreto",
+        "175",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0175_2025.html"
+    },
+    {
+      "norma": "Decreto 2067 de 1991",
+      "canonico": [
+        "decreto",
+        "2067",
+        "1991"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2067_1991.html"
+    },
+    {
+      "norma": "Decreto 24 de 2016",
+      "canonico": [
+        "decreto",
+        "24",
+        "2016"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=67536"
+    },
+    {
+      "norma": "Decreto 405 de 2025",
+      "canonico": [
+        "decreto",
+        "405",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=259517"
+    },
+    {
+      "norma": "Decreto 4334 de 2008",
+      "canonico": [
+        "decreto",
+        "4334",
+        "2008"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_4334_2008.html"
+    },
+    {
+      "norma": "Decreto 4436 de 2005",
+      "canonico": [
+        "decreto",
+        "4436",
+        "2005"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=18346"
+    },
+    {
+      "norma": "Decreto 4886 de 2011",
+      "canonico": [
+        "decreto",
+        "4886",
+        "2011"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_4886_2011.html"
+    },
+    {
+      "norma": "Decreto 663 de 1993",
+      "canonico": [
+        "decreto",
+        "663",
+        "1993"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=1348"
+    },
+    {
+      "norma": "Decreto 780 de 2016",
+      "canonico": [
+        "decreto",
+        "780",
+        "2016"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=77813"
+    },
+    {
+      "norma": "Decreto 875 de 2008",
+      "canonico": [
+        "decreto",
+        "875",
+        "2008"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.cancilleria.gov.co/normograma/compilacion/docs/pdf/decreto_0875_2008.pdf"
+    },
+    {
+      "norma": "Decreto 960 de 1970",
+      "canonico": [
+        "decreto",
+        "960",
+        "1970"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970.html"
+    },
+    {
+      "norma": "Sentencia C-1033 de 2002",
+      "canonico": [
+        "jurisprudencia",
+        "C-1033",
+        "2002"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2002/C-1033-02.htm"
+    },
+    {
+      "norma": "Sentencia C-106 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "C-106",
+        "2018"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2018/C-106-18.htm"
+    },
+    {
+      "norma": "Sentencia C-1189 de 2000",
+      "canonico": [
+        "jurisprudencia",
+        "C-1189",
+        "2000"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1189-00.htm"
+    },
+    {
+      "norma": "Sentencia C-131 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "C-131",
+        "2018"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2018/C-131-18.htm"
+    },
+    {
+      "norma": "Sentencia C-145 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "C-145",
+        "2018"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2018/C-145-18.htm"
+    },
+    {
+      "norma": "Sentencia C-145 de 2020",
+      "canonico": [
+        "jurisprudencia",
+        "C-145",
+        "2020"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2020/C-145-20.htm"
+    },
+    {
+      "norma": "Sentencia C-149 de 1993",
+      "canonico": [
+        "jurisprudencia",
+        "C-149",
+        "1993"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1993/C-149-93.htm"
+    },
+    {
+      "norma": "Sentencia C-170 de 2004",
+      "canonico": [
+        "jurisprudencia",
+        "C-170",
+        "2004"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2004/C-170-04.htm"
+    },
+    {
+      "norma": "Sentencia C-183 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "C-183",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/C-183-25.htm"
+    },
+    {
+      "norma": "Sentencia C-201 de 2002",
+      "canonico": [
+        "jurisprudencia",
+        "C-201",
+        "2002"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2002/C-201-02.htm"
+    },
+    {
+      "norma": "Sentencia C-22 de 1996",
+      "canonico": [
+        "jurisprudencia",
+        "C-22",
+        "1996"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1996/C-022-96.htm"
+    },
+    {
+      "norma": "Sentencia C-225 de 1995",
+      "canonico": [
+        "jurisprudencia",
+        "C-225",
+        "1995"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1995/C-225-95.htm"
+    },
+    {
+      "norma": "Sentencia C-233 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "C-233",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2021/C-233-21.htm"
+    },
+    {
+      "norma": "Sentencia C-239 de 1997",
+      "canonico": [
+        "jurisprudencia",
+        "C-239",
+        "1997"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1997/C-239-97.htm"
+    },
+    {
+      "norma": "Sentencia C-276 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "C-276",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/C-276-25.htm"
+    },
+    {
+      "norma": "Sentencia C-332 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "C-332",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/C-332-25.htm"
+    },
+    {
+      "norma": "Sentencia C-335 de 2008",
+      "canonico": [
+        "jurisprudencia",
+        "C-335",
+        "2008"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2008/C-335-08.htm"
+    },
+    {
+      "norma": "Sentencia C-345 de 2017",
+      "canonico": [
+        "jurisprudencia",
+        "C-345",
+        "2017"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2017/C-345-17.htm"
+    },
+    {
+      "norma": "Sentencia C-389 de 2023",
+      "canonico": [
+        "jurisprudencia",
+        "C-389",
+        "2023"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2023/C-389-23.htm"
+    },
+    {
+      "norma": "Sentencia C-39 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "C-39",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/C-039-25.htm"
+    },
+    {
+      "norma": "Sentencia C-4 de 1998",
+      "canonico": [
+        "jurisprudencia",
+        "C-4",
+        "1998"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1998/C-004-98.htm"
+    },
+    {
+      "norma": "Sentencia C-413 de 1996",
+      "canonico": [
+        "jurisprudencia",
+        "C-413",
+        "1996"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1996/C-413-96.htm"
+    },
+    {
+      "norma": "Sentencia C-459 de 2023",
+      "canonico": [
+        "jurisprudencia",
+        "C-459",
+        "2023"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2023/C-459-23.htm"
+    },
+    {
+      "norma": "Sentencia C-486 de 1993",
+      "canonico": [
+        "jurisprudencia",
+        "C-486",
+        "1993"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1993/C-486-93.htm"
+    },
+    {
+      "norma": "Sentencia C-533 de 2000",
+      "canonico": [
+        "jurisprudencia",
+        "C-533",
+        "2000"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2000/C-533-00.htm"
+    },
+    {
+      "norma": "Sentencia C-535 de 2002",
+      "canonico": [
+        "jurisprudencia",
+        "C-535",
+        "2002"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2002/C-535-02.htm"
+    },
+    {
+      "norma": "Sentencia C-537 de 1995",
+      "canonico": [
+        "jurisprudencia",
+        "C-537",
+        "1995"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1995/C-537-95.htm"
+    },
+    {
+      "norma": "Sentencia C-683 de 2015",
+      "canonico": [
+        "jurisprudencia",
+        "C-683",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2015/C-683-15.htm"
+    },
+    {
+      "norma": "Sentencia C-700 de 1999",
+      "canonico": [
+        "jurisprudencia",
+        "C-700",
+        "1999"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1999/C-700-99.htm"
+    },
+    {
+      "norma": "Sentencia C-80 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "C-80",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/C-080-25.htm"
+    },
+    {
+      "norma": "Sentencia C-891 de 2012",
+      "canonico": [
+        "jurisprudencia",
+        "C-891",
+        "2012"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2012/C-891-12.htm"
+    },
+    {
+      "norma": "Sentencia C-964 de 2003",
+      "canonico": [
+        "jurisprudencia",
+        "C-964",
+        "2003"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2003/C-964-03.htm"
+    },
+    {
+      "norma": "Sentencia C-985 de 2010",
+      "canonico": [
+        "jurisprudencia",
+        "C-985",
+        "2010"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2010/C-985-10.htm"
+    },
+    {
+      "norma": "Sentencia SC-1121 de 2018",
+      "canonico": [
+        "jurisprudencia",
+        "SC-1121",
+        "2018"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/ci/babr2018/SC1121-2018%20(2007-00128-01).docx"
+    },
+    {
+      "norma": "Sentencia SC-18392 de 2017",
+      "canonico": [
+        "jurisprudencia",
+        "SC-18392",
+        "2017"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/ci/bnov2017/SC18392-2017%20(2011-00081-01).doc"
+    },
+    {
+      "norma": "Sentencia SC-3085 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "SC-3085",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://archivodigitalapi.cortesuprema.gov.co/share/2024/12/Sentencias/SC3085-2024.pdf"
+    },
+    {
+      "norma": "Sentencia SC-3674 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "SC-3674",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/2021/09/GACETA-N%C2%B008-2021.pdf"
+    },
+    {
+      "norma": "Sentencia SC-425 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "SC-425",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://ecosistemadigitalindice.cortesuprema.gov.co/api/v1/link/share/6615b19b4051fbcca141847d"
+    },
+    {
+      "norma": "Sentencia SC-8453 de 2016",
+      "canonico": [
+        "jurisprudencia",
+        "SC-8453",
+        "2016"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/2022/03/SC8453-2016-2014-02243-00-C.pdf"
+    },
+    {
+      "norma": "Sentencia SL-1050 de 2023",
+      "canonico": [
+        "jurisprudencia",
+        "SL-1050",
+        "2023"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/reiteraciones%20DL/SL1050-2023.pdf"
+    },
+    {
+      "norma": "Sentencia SL-1730 de 2020",
+      "canonico": [
+        "jurisprudencia",
+        "SL-1730",
+        "2020"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/la/bjul2020/SL1730-2020.pdf"
+    },
+    {
+      "norma": "Sentencia SP-1167 de 2022",
+      "canonico": [
+        "jurisprudencia",
+        "SP-1167",
+        "2022"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1may2022/SP1167-2022(57957).pdf"
+    },
+    {
+      "norma": "Sentencia SP-3218 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "SP-3218",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://cortesuprema.gov.co/corte/wp-content/uploads/relatorias/pe/b1ago2021/SP3218-2021(47063).pdf"
+    },
+    {
+      "norma": "Sentencia SU-11 de 2020",
+      "canonico": [
+        "jurisprudencia",
+        "SU-11",
+        "2020"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2020/SU011-20.htm"
+    },
+    {
+      "norma": "Sentencia SU-138 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "SU-138",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/SU138-24.htm"
+    },
+    {
+      "norma": "Sentencia SU-149 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "SU-149",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2021/SU149-21.htm"
+    },
+    {
+      "norma": "Sentencia SU-207 de 2022",
+      "canonico": [
+        "jurisprudencia",
+        "SU-207",
+        "2022"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2022/SU207-22.htm"
+    },
+    {
+      "norma": "Sentencia SU-240 de 2015",
+      "canonico": [
+        "jurisprudencia",
+        "SU-240",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2015/SU240-15.htm"
+    },
+    {
+      "norma": "Sentencia SU-27 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "SU-27",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2021/SU027-21.htm"
+    },
+    {
+      "norma": "Sentencia SU-296 de 2023",
+      "canonico": [
+        "jurisprudencia",
+        "SU-296",
+        "2023"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2023/SU296-23.htm"
+    },
+    {
+      "norma": "Sentencia SU-380 de 2021",
+      "canonico": [
+        "jurisprudencia",
+        "SU-380",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2021/SU380-21.htm"
+    },
+    {
+      "norma": "Sentencia SU-396 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "SU-396",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/SU396-24.htm"
+    },
+    {
+      "norma": "Sentencia SU-425 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "SU-425",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/SU425-25.htm"
+    },
+    {
+      "norma": "Sentencia SU-429 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "SU-429",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/SU429-24.htm"
+    },
+    {
+      "norma": "Sentencia SU-431 de 2015",
+      "canonico": [
+        "jurisprudencia",
+        "SU-431",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2015/SU431-15.htm"
+    },
+    {
+      "norma": "Sentencia SU-455 de 2020",
+      "canonico": [
+        "jurisprudencia",
+        "SU-455",
+        "2020"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2020/SU455-20.htm"
+    },
+    {
+      "norma": "Sentencia SU-488 de 2011",
+      "canonico": [
+        "jurisprudencia",
+        "SU-488",
+        "2011"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/SU488-11.htm"
+    },
+    {
+      "norma": "Sentencia SU-500 de 2015",
+      "canonico": [
+        "jurisprudencia",
+        "SU-500",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2015/SU500-15.htm"
+    },
+    {
+      "norma": "Sentencia SU-566 de 2015",
+      "canonico": [
+        "jurisprudencia",
+        "SU-566",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2015/SU566-15.htm"
+    },
+    {
+      "norma": "Sentencia T-1001 de 2001",
+      "canonico": [
+        "jurisprudencia",
+        "T-1001",
+        "2001"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1001-01.htm"
+    },
+    {
+      "norma": "Sentencia T-1059 de 2001",
+      "canonico": [
+        "jurisprudencia",
+        "T-1059",
+        "2001"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1059-01.htm"
+    },
+    {
+      "norma": "Sentencia T-1096 de 2008",
+      "canonico": [
+        "jurisprudencia",
+        "T-1096",
+        "2008"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2008/T-1096-08.htm"
+    },
+    {
+      "norma": "Sentencia T-145 de 2016",
+      "canonico": [
+        "jurisprudencia",
+        "T-145",
+        "2016"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2016/T-145-16.htm"
+    },
+    {
+      "norma": "Sentencia T-230 de 2023",
+      "canonico": [
+        "jurisprudencia",
+        "T-230",
+        "2023"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2023/T-230-23.htm"
+    },
+    {
+      "norma": "Sentencia T-232 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-232",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-232-25.htm"
+    },
+    {
+      "norma": "Sentencia T-248 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-248",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/t-248-25.htm"
+    },
+    {
+      "norma": "Sentencia T-26 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-26",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-026-25.htm"
+    },
+    {
+      "norma": "Sentencia T-262 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-262",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-262-25.htm"
+    },
+    {
+      "norma": "Sentencia T-325 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-325",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-325-25.htm"
+    },
+    {
+      "norma": "Sentencia T-350 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-350",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-350-25.htm"
+    },
+    {
+      "norma": "Sentencia T-4 de 2026",
+      "canonico": [
+        "jurisprudencia",
+        "T-4",
+        "2026"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2026/T-004-26.htm"
+    },
+    {
+      "norma": "Sentencia T-429 de 2011",
+      "canonico": [
+        "jurisprudencia",
+        "T-429",
+        "2011"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/T-429-11.htm"
+    },
+    {
+      "norma": "Sentencia T-445 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "T-445",
+        "2024"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/T-445-24.htm"
+    },
+    {
+      "norma": "Sentencia T-67 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-67",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-067-25.htm"
+    },
+    {
+      "norma": "Sentencia T-71 de 2016",
+      "canonico": [
+        "jurisprudencia",
+        "T-71",
+        "2016"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2016/T-071-16.htm"
+    },
+    {
+      "norma": "Sentencia T-77 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-77",
+        "2025"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-077-25.htm"
+    },
+    {
+      "norma": "Sentencia T-925 de 2014",
+      "canonico": [
+        "jurisprudencia",
+        "T-925",
+        "2014"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2014/T-925-14.htm"
+    },
+    {
+      "norma": "Sentencia T-970 de 2014",
+      "canonico": [
+        "jurisprudencia",
+        "T-970",
+        "2014"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2014/T-970-14.htm"
+    },
+    {
+      "norma": "Ley 1151 de 2007",
+      "canonico": [
+        "ley",
+        "1151",
+        "2007"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1151_2007.html"
+    },
+    {
+      "norma": "Ley 137 de 1994",
+      "canonico": [
+        "ley",
+        "137",
+        "1994"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0137_1994.html"
+    },
+    {
+      "norma": "Ley 1473 de 2011",
+      "canonico": [
+        "ley",
+        "1473",
+        "2011"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1473_2011.html"
+    },
+    {
+      "norma": "Ley 155 de 1959",
+      "canonico": [
+        "ley",
+        "155",
+        "1959"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=38169"
+    },
+    {
+      "norma": "Ley 1562 de 2012",
+      "canonico": [
+        "ley",
+        "1562",
+        "2012"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1562_2012.html"
+    },
+    {
+      "norma": "Ley 160 de 1994",
+      "canonico": [
+        "ley",
+        "160",
+        "1994"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0160_1994.html"
+    },
+    {
+      "norma": "Ley 1607 de 2012",
+      "canonico": [
+        "ley",
+        "1607",
+        "2012"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1607_2012.html"
+    },
+    {
+      "norma": "Ley 1692 de 2013",
+      "canonico": [
+        "ley",
+        "1692",
+        "2013"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes%2F1686490"
+    },
+    {
+      "norma": "Ley 1700 de 2013",
+      "canonico": [
+        "ley",
+        "1700",
+        "2013"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1700_2013.html"
+    },
+    {
+      "norma": "Ley 1755 de 2015",
+      "canonico": [
+        "ley",
+        "1755",
+        "2015"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html"
+    },
+    {
+      "norma": "Ley 1819 de 2016",
+      "canonico": [
+        "ley",
+        "1819",
+        "2016"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1819_2016.html"
+    },
+    {
+      "norma": "Ley 1909 de 2018",
+      "canonico": [
+        "ley",
+        "1909",
+        "2018"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1909_2018.html"
+    },
+    {
+      "norma": "Ley 2114 de 2021",
+      "canonico": [
+        "ley",
+        "2114",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2114_2021.html"
+    },
+    {
+      "norma": "Ley 2157 de 2021",
+      "canonico": [
+        "ley",
+        "2157",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2157_2021.html"
+    },
+    {
+      "norma": "Ley 2160 de 2021",
+      "canonico": [
+        "ley",
+        "2160",
+        "2021"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2160_2021.html"
+    },
+    {
+      "norma": "Ley 2251 de 2022",
+      "canonico": [
+        "ley",
+        "2251",
+        "2022"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2251_2022.html"
+    },
+    {
+      "norma": "Decreto 2737 de 1989",
+      "canonico": [
+        "decreto",
+        "2737",
+        "1989"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4829"
+    },
+    {
+      "norma": "Ley 29 de 1982",
+      "canonico": [
+        "ley",
+        "29",
+        "1982"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=256"
+    },
+    {
+      "norma": "Ley 527 de 1999",
+      "canonico": [
+        "ley",
+        "527",
+        "1999"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0527_1999.html"
+    },
+    {
+      "norma": "Ley 600 de 2000",
+      "canonico": [
+        "ley",
+        "600",
+        "2000"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0600_2000.html"
+    },
+    {
+      "norma": "Ley 640 de 2001",
+      "canonico": [
+        "ley",
+        "640",
+        "2001"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0640_2001.html"
+    },
+    {
+      "norma": "Ley 678 de 2001",
+      "canonico": [
+        "ley",
+        "678",
+        "2001"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0678_2001.html"
+    },
+    {
+      "norma": "Ley 721 de 2001",
+      "canonico": [
+        "ley",
+        "721",
+        "2001"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0721_2001.html"
+    },
+    {
+      "norma": "Ley 75 de 1968",
+      "canonico": [
+        "ley",
+        "75",
+        "1968"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho de familia"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=4828"
+    },
+    {
+      "norma": "Ley 769 de 2002",
+      "canonico": [
+        "ley",
+        "769",
+        "2002"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0769_2002.html"
+    },
+    {
+      "norma": "Ley 820 de 2003",
+      "canonico": [
+        "ley",
+        "820",
+        "2003"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0820_2003.html"
+    },
+    {
+      "norma": "Ley 964 de 2005",
+      "canonico": [
+        "ley",
+        "964",
+        "2005"
+      ],
+      "items_del_banco": 1,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "https://www.suin-juriscol.gov.co/viewDocument.asp?id=1671813"
+    },
+    {
+      "norma": "Codigo civil",
+      "canonico": [
+        "ley",
+        "84",
+        "1873"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho civil",
+        "Derecho comercial y sociedades",
+        "Derecho de familia"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+    },
+    {
+      "norma": "Codigo penal",
+      "canonico": [
+        "ley",
+        "599",
+        "2000"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho penal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+    },
+    {
+      "norma": "Codigo de procedimiento penal",
+      "canonico": [
+        "ley",
+        "906",
+        "2004"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho penal",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+    },
+    {
+      "norma": "CPACA - Codigo procedimiento administrativo y contencioso administrativo",
+      "canonico": [
+        "ley",
+        "1437",
+        "2011"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho administrativo",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+    },
+    {
+      "norma": "Codigo de comercio",
+      "canonico": [
+        "decreto",
+        "410",
+        "1971"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+    },
+    {
+      "norma": "Ley 472 de 1998",
+      "canonico": [
+        "ley",
+        "472",
+        "1998"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0472_1998.html"
+    },
+    {
+      "norma": "Ley 100 de 1993",
+      "canonico": [
+        "ley",
+        "100",
+        "1993"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1993.html"
+    },
+    {
+      "norma": "Sentencia C-468 de 2024",
+      "canonico": [
+        "jurisprudencia",
+        "C-468",
+        "2024"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2024/C-468-24.htm"
+    },
+    {
+      "norma": "Sentencia SU-016 de 2020",
+      "canonico": [
+        "jurisprudencia",
+        "SU-016",
+        "2020"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2020/SU016-20.htm"
+    },
+    {
+      "norma": "Sentencia C-039 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "C-039",
+        "2025"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho de familia",
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/C-039-25.htm"
+    },
+    {
+      "norma": "Sentencia SU-277 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "SU-277",
+        "2025"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/SU277-25.htm"
+    },
+    {
+      "norma": "Sentencia T-256 de 2025",
+      "canonico": [
+        "jurisprudencia",
+        "T-256",
+        "2025"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2025/T-256-25.htm"
+    },
+    {
+      "norma": "Sentencia de unificacion 2020CE-SUJ-4-005 (Consejo de Estado, Seccion Cuarta)",
+      "canonico": [
+        "consejo_estado",
+        "CE-SUJ-4-005",
+        "2020"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://normograma.dian.gov.co/dian/compilacion/docs/25000-23-37-000-2013-00443-01(21329)ce-suj-4-005.htm"
+    },
+    {
+      "norma": "Sentencia Sala Civil CSJ, 18 de julio de 2017 (lesion enorme en compraventa de inmueble)",
+      "canonico": [
+        "corte_suprema_sin_radicado",
+        "SC-2017-07-18",
+        "2017"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho civil"
+      ],
+      "donde_buscar": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/ci/bjul2017/SC10295-2017%20(2010-00728-01).doc"
+    },
+    {
+      "norma": "Ley 2277 de 2022 - Reforma tributaria",
+      "canonico": [
+        "ley",
+        "2277",
+        "2022"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2277_2022.html"
+    },
+    {
+      "norma": "Ley 2294 de 2023 - Plan Nacional de Desarrollo 2022-2026",
+      "canonico": [
+        "ley",
+        "2294",
+        "2023"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023.html"
+    },
+    {
+      "norma": "Ley 388 de 1997 - Desarrollo territorial y ordenamiento del suelo",
+      "canonico": [
+        "ley",
+        "388",
+        "1997"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho administrativo"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0388_1997.html"
+    },
+    {
+      "norma": "Decreto 2591 de 1991 - Reglamenta la accion de tutela",
+      "canonico": [
+        "decreto",
+        "2591",
+        "1991"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2591_1991.html"
+    },
+    {
+      "norma": "Ley 270 de 1996 - Estatutaria de la Administracion de Justicia",
+      "canonico": [
+        "ley",
+        "270",
+        "1996"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho constitucional",
+        "Derecho procesal"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0270_1996.html"
+    },
+    {
+      "norma": "Ley 222 de 1995 - Reforma al Codigo de Comercio (sociedades)",
+      "canonico": [
+        "ley",
+        "222",
+        "1995"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho comercial y sociedades"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+    },
+    {
+      "norma": "Ley 1996 de 2019 - Capacidad legal de personas con discapacidad",
+      "canonico": [
+        "ley",
+        "1996",
+        "2019"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho civil",
+        "Derecho de familia"
+      ],
+      "donde_buscar": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1996_2019.html"
+    },
+    {
+      "norma": "Decreto 1625 de 2016 - Decreto Unico Reglamentario en Materia Tributaria",
+      "canonico": [
+        "decreto",
+        "1625",
+        "2016"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho tributario"
+      ],
+      "donde_buscar": "https://normograma.dian.gov.co/dian/compilacion/docs/pdf/decreto_1625_2016.pdf"
+    },
+    {
+      "norma": "Decreto 2158 de 1948 - Codigo Procesal del Trabajo y de la Seguridad Social",
+      "canonico": [
+        "decreto",
+        "2158",
+        "1948"
+      ],
+      "items_del_banco": null,
+      "areas": [
+        "Derecho laboral"
+      ],
+      "donde_buscar": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=5259"
+    },
+    {  
+        "norma": "Sentencia C-554 de 2001",
+        "canonico": ["jurisprudencia","C-554","2001"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2001/c-554-01.htm",
+        "areas": ["constitucional","penal"]
+    },
+    {   
+        "norma": "Sentencia T-414 de 1992",
+        "canonico": ["jurisprudencia","T-414","1992"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1992/T-414-92.htm",
+        "areas": ["constitucional"]
+    },
+    {  
+        "norma": "Sentencia SU-1219 de 2001",
+        "canonico": ["jurisprudencia","SU-1219","2001"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2001/SU1219-01.htm",
+        "areas": ["constitucional"]
+    },
+    {   
+        "norma": "Sentencia C-228 de 2002",
+        "canonico": ["jurisprudencia","C-228","2002"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2002/C-228-02.htm",
+        "areas": ["constitucional","penal"]
+    },
+    {   
+        "norma": "Sentencia C-590 de 2005",
+        "canonico": ["jurisprudencia","C-590","2005"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2005/c-590-05.htm",
+        "areas": ["constitucional"]
+    },
+    {   
+        "norma": "Sentencia C-228 de 2010",
+        "canonico": ["jurisprudencia","C-228","2010"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2010/C-228-10.htm",
+        "areas": ["mercantil","constitucional"]
+    },
+    {  
+        "norma": "Sentencia C-579 de 2013",
+        "canonico": ["jurisprudencia","C-579","2013"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2013/C-579-13.htm",
+        "areas": ["constitucional","penal"]
+    },
+    {   
+        "norma": "Sentencia C-032 de 2017",
+        "canonico": ["jurisprudencia","C-032","2017"],
+        "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2017/C-032-17.htm",
+        "areas": ["constitucional"]
+    },
+    {   
+        "norma": "Sentencia SC10295 de 2017",
+        "canonico": ["jurisprudencia","SC-10295","2017"],
+        "donde_buscar": "https://www.cortesuprema.gov.co/corte/wp-content/uploads/relatorias/ci/bjul2017/SC10295-2017%20(2010-00728-01).doc",
+        "areas": ["civil","mercantil"]
+    },
+    {   
+        "norma": "Sentencia CE-S3-19031 de 2011",
+        "canonico": ["jurisprudencia","CE-S3-19031","2011"],
+        "donde_buscar": "https://www.consejodeestado.gov.co/documentos/boletines/PDF/05001-23-25-000-1994-00020-01(19031).pdf",
+        "areas": ["administrativo"]
+    },
+    {  
+        "norma": "Sentencia de Unificación CE-S3-26251 de 2014",
+        "canonico": ["jurisprudencia","CE-S3-26251","2014"],
+        "donde_buscar": "https://www.consejodeestado.gov.co/documentos/boletines/151/S3/66001-23-31-000-2001-00731-01(26251).pdf",
+        "areas": ["administrativo"]
+    },
+    {   
+        "norma": "Sentencia de Unificación CE-S3-32988 de 2014",
+        "canonico": ["jurisprudencia","CE-S3-32988","2014"],
+        "donde_buscar": "https://www.consejodeestado.gov.co/documentos/boletines/151/S3/05001-23-25-000-1999-01063-01(32988).pdf",
+        "areas": ["administrativo"]
+    },
+    {  
+        "norma": "Sentencia de Unificación CE-S2-IJ-SU de 2022",
+        "canonico": ["jurisprudencia","CE-S2-IJ-SU","2022"],
+        "donde_buscar": "https://www.consejodeestado.gov.co/documentos/boletines/258-a/11001-03-25-000-2017-00151-00(IJ-SU)%20SV%20WHG.pdf",
+        "areas": ["administrativo"]
+    },
+    {   
+        "norma": "Sentencia de Unificación CE-SUJ-4-005 de 2020",
+        "canonico": ["jurisprudencia","CE-SUJ-4-005","2020"],
+        "donde_buscar": "https://normograma.dian.gov.co/dian/compilacion/docs/25000-23-37-000-2013-00443-01(21329)ce-suj-4-005.htm",
+        "areas": ["tributario","administrativo"]
+    },
+    {
+    "norma": "Sentencia T-025 de 2004",
+    "canonico": ["jurisprudencia", "T-025", "2004"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2004/T-025-04.htm"
+  },
+  {
+    "norma": "Sentencia C-370 de 2006",
+    "canonico": ["jurisprudencia", "C-370", "2006"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho penal"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2006/C-370-06.htm"
+  },
+  {
+    "norma": "Sentencia C-577 de 2011",
+    "canonico": ["jurisprudencia", "C-577", "2011"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho de familia"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2011/C-577-11.htm"
+  },
+  {
+    "norma": "Sentencia C-591 de 2005",
+    "canonico": ["jurisprudencia", "C-591", "2005"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho penal"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2005/C-591-05.htm"
+  },
+  {
+    "norma": "Sentencia C-1011 de 2008",
+    "canonico": ["jurisprudencia", "C-1011", "2008"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho de los mercados [competencia, consumidor, datos personales y propiedad intelectual]"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2008/C-1011-08.htm"
+  },
+  {
+    "norma": "Sentencia T-153 de 1998",
+    "canonico": ["jurisprudencia", "T-153", "1998"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional", "Derecho penal"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/1998/T-153-98.htm"
+  },
+  {
+    "norma": "Sentencia T-622 de 2016",
+    "canonico": ["jurisprudencia", "T-622", "2016"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2016/T-622-16.htm"
+  },
+  {
+    "norma": "Sentencia SU-217 de 2017",
+    "canonico": ["jurisprudencia", "SU-217", "2017"],
+    "items_del_banco": null,
+    "areas": ["Derecho constitucional"],
+    "donde_buscar": "https://www.corteconstitucional.gov.co/relatoria/2017/SU217-17.htm"
+  }
+  ]
+}

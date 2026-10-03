@@ -1,0 +1,48 @@
+{
+  "equipo": "qwen3-8b",
+  "split": "sample",
+  "validacion": {
+    "errores": 0,
+    "detalle": []
+  },
+  "cerradas": {
+    "n": 15,
+    "aciertos": 10,
+    "accuracy": 0.6666666666666666,
+    "referencia": 0.905,
+    "puntos": 13.33
+  },
+  "citas": {
+    "items_evaluados": 41,
+    "n_ref": 49,
+    "n_citadas": 166,
+    "aciertos": 43,
+    "aciertos_respaldados": 43,
+    "aciertos_sin_respaldo": 0,
+    "incorrectas": 123,
+    "citas_sin_respaldo": 0,
+    "recall_citas_ponderado": 0.8776,
+    "tasa_sin_respaldo": 0.0,
+    "indice": 0.8776,
+    "puntos": 17.55
+  },
+  "abstencion": {
+    "items_evaluados": 43,
+    "abstuvo_bien": 0,
+    "abstuvo_de_mas": 0,
+    "respondio_bien": 36,
+    "respondio_mal": 7,
+    "calibracion": 0.8372,
+    "puntos": 8.37
+  },
+  "correccion_ragas": {
+    "estado": "pendiente (correr con --ragas)",
+    "puntos": null
+  },
+  "total_automatico": {
+    "obtenidos": 39.25,
+    "posibles": 50.0,
+    "de_100_del_ranking": 80.0,
+    "nota": "los 20 pts restantes son interfaz grafica, bitacora de corpus, video y reproducibilidad"
+  }
+}
