@@ -61,6 +61,17 @@ case "$cmd" in
         --contexto "data/exp/contexto_${contexto}.json" --salida data/exp/bench --csv data/exp/bench.csv \
         --catalogo "$INDICE" --formatos "${formatos[@]}"
     ;;
+  lote)      # camino real de la corrida: recuperacion + generacion con config/responder.json (o env OLIVIA_*)
+    nombre="${1:?nombre de la corrida}"; preguntas="${2:-data/sample_50.jsonl}"
+    d="data/lote/${nombre}"
+    py -m src.lote dividir --preguntas "$preguntas" --partes 1 --dir "$d" --forzar || exit $?
+    py -m src.lote correr --parte 1 --dir "$d" || exit $?
+    py -m src.lote unir --preguntas "$preguntas" --dir "$d" --salida "data/exp/bench/${nombre}.jsonl"
+    ;;
+  determinismo)   # regenera ids con Responder y compara con la entrega por lote
+    nombre="${1:?nombre de la corrida}"; shift
+    py -m src.analisis.determinismo --entrega "data/lote/${nombre}/sub_1.jsonl"         --salida "experimentos/claude/${nombre}/determinismo.json" "$@"
+    ;;
   resumen)
     etiqueta="${1:?etiqueta}"
     py -m src.analisis.resumen_corrida --submission "data/exp/bench/${etiqueta}.jsonl" \

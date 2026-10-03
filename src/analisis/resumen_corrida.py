@@ -66,6 +66,19 @@ def oficial(entrega: Path) -> dict:
     return rep
 
 
+def tiempos_de_entrega(entrega: list[dict]) -> dict:
+    """Segundos por pregunta a partir de `latencia_ms` de cada línea (solo generación)."""
+    por = {}
+    for s in entrega:
+        if s.get("latencia_ms") is not None:
+            por.setdefault(s["formato"], []).append(s["latencia_ms"] / 1000)
+    res = {f: {"n": len(v), "s_por_pregunta": round(sum(v) / len(v), 2)} for f, v in por.items()}
+    if len(res) == 3:
+        pesos = {"multiple_choice": 289, "semi_open": 633, "open_ended": 70}
+        res["s_medio_mezcla_test"] = round(sum(res[k]["s_por_pregunta"] * w for k, w in pesos.items()) / 992, 2)
+    return res
+
+
 def tiempos(csv_ruta: Path | None, etiqueta: str) -> dict:
     if not csv_ruta or not csv_ruta.exists():
         return {}
@@ -97,7 +110,8 @@ def main() -> None:
            "cerradas_politicas": politicas_cerradas(entrega, muestra),
            "texto_libre_proxy": {k: v for k, v in proxy_texto.evaluar(
                entrega, muestra, not args.sin_embeddings).items() if k != "filas"},
-           "tiempos": tiempos(args.csv, args.etiqueta or args.submission.stem),
+           "tiempos": tiempos(args.csv, args.etiqueta or args.submission.stem)
+           or tiempos_de_entrega(entrega),
            "abstenciones": sum(1 for s in entrega if s.get("abstencion"))}
     args.salida.parent.mkdir(parents=True, exist_ok=True)
     args.salida.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")

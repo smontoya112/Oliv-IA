@@ -32,6 +32,7 @@ POLITICAS = ("razonada", "resolver", "ens", "voto", "cascada")
 POLITICA_DEFECTO = "ens"       # E1/E1b: pensar no mejora y cuesta 12 veces más (ver experimentos/claude)
 MAX_PENSAR = 1200
 MAX_FINAL = 700
+MAX_JUSTIFICAR = 300       # justificación y descarte breves: cada token de salida cuesta ~40 ms
 PERMUTACIONES = 4
 UMBRAL_CASCADA = 0.9       # "cascada": se piensa solo si el ensamble de logits no está seguro
 UMBRAL_VOTO = 0.6          # el ensamble tiene que estar bastante seguro de su letra...
@@ -159,11 +160,11 @@ def mensajes_justificar(item: dict, pasajes: list[dict], letra: str, presupuesto
     otras = ", ".join(l for l in sorted(item["opciones"]) if l != letra)
     usuario = (f"La opción correcta de esta pregunta es la {letra}: {item['opciones'][letra].strip()}\n"
                "Redacta el JSON con estos campos:\n"
-               "- \"justificacion\": 2 o 3 oraciones que expliquen por qué la opción "
-               f"{letra} es la correcta y citen la norma y el artículo (con su nombre completo) que "
-               "aparezcan en los pasajes. No inventes normas.\n"
-               f"- \"descarte_opciones\": para cada una de las demás opciones ({otras}) una oración que "
-               "explique por qué es incorrecta."
+               "- \"justificacion\": 2 oraciones (máximo 45 palabras) que expliquen por qué la "
+               f"opción {letra} es la correcta y citen la norma y el artículo (con su nombre completo) "
+               "que aparezcan en los pasajes. No inventes normas.\n"
+               f"- \"descarte_opciones\": para cada una de las demás opciones ({otras}) una oración "
+               "corta (máximo 20 palabras) que explique por qué es incorrecta."
                "\n\n=== PASAJES ===" + base)
     return [{"role": "system", "content": SISTEMA_LETRA}, {"role": "user", "content": usuario}]
 
@@ -173,7 +174,7 @@ def justificar(motor, item: dict, pasajes: list[dict], letra: str, presupuesto: 
     """Justificación y descarte de la letra YA decidida (las citas puntúan en la justificación)."""
     esquema = esquema_justificacion(sorted(item["opciones"]), letra)
     crudo = motor.generar_lote([mensajes_justificar(item, pasajes, letra, presupuesto, contar)],
-                               [esquema], max_tokens=450)[0]
+                               [esquema], max_tokens=MAX_JUSTIFICAR)[0]
     try:
         r = json.loads(crudo)
         return r if isinstance(r, dict) else None
