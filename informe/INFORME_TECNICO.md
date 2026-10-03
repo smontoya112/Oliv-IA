@@ -1,6 +1,6 @@
 # Informe técnico — Oliv-IA
 
-**Hackathon 2026 · Universidad de los Andes** · Integrantes: _completar_
+**Hackathon 2026 · Universidad de los Andes** · Integrantes: Ariadna Thais Vargas Contreras, Laura Rodriguez Sierra y Samuel Montoya Salazar
 
 ## 1. Arquitectura del sistema
 

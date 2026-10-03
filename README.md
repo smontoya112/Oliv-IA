@@ -1,6 +1,6 @@
 # Oliv-IA — Hackathon 2026
 
-**Integrantes:** _completar_ · **Universidad de los Andes**
+**Integrantes:** Ariadna Thais Vargas Contreras, Laura Rodriguez Sierra y Samuel Montoya Salazar · **Universidad de los Andes**
 
 Sistema de respuesta a preguntas de derecho colombiano con un decoder abierto de tamaño reducido
 (Qwen3-8B, cuantizado a Q8_0, temperatura 0) y un corpus jurídico propio. Responde preguntas cerradas,
