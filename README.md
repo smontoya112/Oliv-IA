@@ -11,7 +11,7 @@ recuperada y se abstiene cuando no puede responder.
 
 | Recurso | Enlace | Tamaño | Licencia |
 |---|---|---|---|
-| Corpus procesado e índice vectorial | `<URL pendiente: completar antes de las 15:00>` | | |
+| Corpus procesado e índice vectorial | `<URL pendiente: completar antes de las 15:00>` | ≈ 370 MB | CC BY 4.0 |
 
 El comprimido (`corpus_<equipo>.zip`) contiene `LICENSE`, `corpus_manifest.json`, `corpus/` con los documentos
 procesados e `indice/` con el índice serializado y los fragmentos. El corpus de generación tiene **504 documentos y
@@ -147,12 +147,19 @@ module load cuda/11.8 && PYTHONPATH=. .venv-gpu/bin/python -m src.responder --id
 (normas citadas, pasajes recuperados y su orden, respuesta) y sale con código 0 si coinciden las normas y los pasajes. El decoder se cambia en `config/responder.json` (o con `OLIVIA_MODELO`).
 Para volver a la estrategia anterior sin tocar código: `OLIVIA_ESTRATEGIA=actual OLIVIA_INDICE=data/index`.
 
+## Licencias
+
+* **Código** (este repositorio): MIT, ver [`LICENSE`](LICENSE).
+* **Corpus procesado e índice** (el comprimido de la sección «Corpus e índice»): CC BY 4.0, ver [`LICENSE_CORPUS`](LICENSE_CORPUS) (dentro del comprimido se llama `LICENSE`). Los textos normativos colombianos son de dominio público; la licencia cubre el procesamiento, la segmentación y los metadatos.
+* **Modelos** (Qwen3-8B, bge-m3, bge-reranker-v2-m3): conservan sus propias licencias.
+
 ## Estructura del repositorio
 
 | Ruta | Contenido |
 |---|---|
 | `run.sh` | Comando único de reproducción |
 | `CORPUS.md`, `corpus_manifest.json` | Bitácora e inventario del corpus entregado |
+| `LICENSE`, `LICENSE_CORPUS` | Licencia del código (MIT) y del corpus e índice (CC BY 4.0) |
 | `src/` | Pipeline: `descarga/` y `procesamiento/` (ingesta), `indice/`, `recuperacion/`, `generacion/`, `verificacion/`, `lote.py` (corrida por partes), `responder.py` y `api.py` (verificación en vivo), `analisis/` (métricas y experimentos) |
 | `jobs/` | Jobs de Slurm: instalación, corpus, índice, corrida (`lanzar_corrida.sh`, `corrida.sh`, `unir_corrida.sh`), empaquetado del corpus (`entrega_corpus.sh`), interfaz |
 | `config/responder.json` | Decoder, índice, estrategia y ventana de contexto |

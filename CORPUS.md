@@ -595,4 +595,4 @@ la recuperación de las 50 preguntas queda idéntica (cuerpo@10 0,9625) y de las
 
 ## 5. Licencia
 
-El corpus se publica bajo `<pendiente: licencia abierta>`. Los textos normativos colombianos son de dominio público; la licencia cubre el trabajo de procesamiento, segmentación y extracción de metadatos realizado por el equipo.
+El corpus se publica bajo `CC-BY-4.0`. Los textos normativos colombianos son de dominio público; la licencia cubre el trabajo de procesamiento, segmentación y extracción de metadatos realizado por el equipo.

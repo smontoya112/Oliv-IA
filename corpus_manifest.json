@@ -1,6 +1,6 @@
 {
  "equipo": "Oliv-IA",
- "licencia": "<pendiente: licencia abierta>",
+ "licencia": "CC-BY-4.0",
  "fecha_generacion": "2026-10-03",
  "enlace_nube": "<pendiente: URL del comprimido con el corpus y el índice>",
  "encoder": "BAAI/bge-m3",
