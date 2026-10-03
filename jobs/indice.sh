@@ -23,6 +23,8 @@
 #     sbatch -p <particion> jobs/indice.sh            # (-p en la línea de comandos manda)
 #     sbatch jobs/indice.sh --solo denso             # argumentos extra van a src.indice.build
 #     sbatch jobs/indice.sh --batch 64               # si la GPU se queda sin memoria
+#     CORPUS=base sbatch jobs/indice.sh              # el índice de config/responder.json:
+#                                                    # data/processed_base/chunks.parquet -> data/index_base/
 #   Si el cluster pide cuenta: sbatch -A <cuenta> jobs/indice.sh
 #
 # Qué devolver al equipo cuando termine (asunto del correo: "[indice] Terminó OK"):
@@ -49,9 +51,16 @@ fi
 MODELO="BAAI/bge-m3"
 REVISION="5617a9f61b028005a4858fdac845db406aefb181"
 
+CHUNKS="data/processed/chunks.parquet"; INDICE="data/index"
+if [[ "${CORPUS:-}" == "base" ]]; then
+    CHUNKS="data/processed_base/chunks.parquet"; INDICE="data/index_base"
+    set -- --chunks "$CHUNKS" --salida "$INDICE" "$@"
+fi
+echo "chunks: $CHUNKS -> índice: $INDICE"
+
 paso "0/4 verificando chunks y GPU"
-if [[ ! -s data/processed/chunks.parquet ]]; then
-    echo "ERROR: no existe data/processed/chunks.parquet (git pull o sbatch jobs/chunking.sh)" >&2
+if [[ ! -s "$CHUNKS" ]]; then
+    echo "ERROR: no existe $CHUNKS (git pull o sbatch jobs/chunking.sh)" >&2
     ESTADO=2
 fi
 nvidia-smi --query-gpu=name,memory.total --format=csv,noheader || true
@@ -79,11 +88,11 @@ fi
 
 if [[ $ESTADO -eq 0 ]]; then
     paso "3/4 evaluando recuperación sobre data/sample_50.jsonl"
-    correr uvpy -m src.indice.evaluar
+    correr uvpy -m src.indice.evaluar --indice "$INDICE"
 fi
 
 paso "4/4 resumen"
-ls -lh data/index 2>/dev/null
+ls -lh "$INDICE" 2>/dev/null
 grep -E '^(chunks:|textos únicos|FAISS|BM25|ítems:|RESULTADO|n_chunks)' "$OUT" 2>/dev/null | sed 's/^/  /'
 
 enviar_resumen indice

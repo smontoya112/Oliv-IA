@@ -18,6 +18,9 @@
 #     sbatch jobs/chunking.sh
 #     sbatch jobs/chunking.sh --doc ley_80_1993 codigo_civil   # solo esos doc_id (a build.py tal cual)
 #     sbatch jobs/chunking.sh --excluir-origen ronda_03 ronda_04   # sin esas rondas de proximidad
+#     CORPUS=base sbatch jobs/chunking.sh      # el corpus de config/responder.json: sin las rondas de
+#                                              # proximidad (ronda_01..04) -> data/processed_base/
+#                                              # (con las normas de las preguntas, origen preguntas_*)
 #
 # Nota: num_tokens solo se llena si el tokenizer de bge-m3 ya está en la caché de Hugging
 # Face del nodo (build.py trabaja en modo offline); si no, queda vacío y no afecta el resto.
@@ -25,6 +28,13 @@
 # Salidas: logs/chunking_<id>.out (avance y resultados) y logs/chunking_<id>.err (solo errores).
 source "$SLURM_SUBMIT_DIR/jobs/_comun.sh"
 preparar_entorno
+
+SALIDA="data/processed"
+if [[ "${CORPUS:-}" == "base" ]]; then
+    SALIDA="data/processed_base"
+    set -- --salida "$SALIDA" --excluir-origen ronda_01 ronda_02 ronda_03 ronda_04 "$@"
+fi
+echo "salida: $SALIDA"
 
 paso "0/2 verificando data/md"
 N_MD=$(ls data/md/*.md 2>/dev/null | grep -vc '\.notas\.md$')
@@ -38,9 +48,9 @@ if [[ $ESTADO -eq 0 ]]; then
     paso "1/2 chunking de todos los md"
     correr uvpy -m src.procesamiento.build "$@"
     paso "2/2 resumen"
-    uvpy - <<'PY'
-import json
-r = json.load(open('data/processed/reporte_segmentacion.json', encoding='utf-8'))
+    uvpy - "$SALIDA" <<'PY'
+import json, sys
+r = json.load(open(sys.argv[1] + '/reporte_segmentacion.json', encoding='utf-8'))
 t = r['total']
 print('documentos:', len(r['documentos']))
 print('chunks:', t['n_chunks'], '| sobre el límite:', len(t['sobre_limite']),
