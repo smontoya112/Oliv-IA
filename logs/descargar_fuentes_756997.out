@@ -1,0 +1,763 @@
+Job descargar_fuentes 756997 en nodea-6 · 2026-10-03 10:10:11
+intérprete: /hpcfs/home/ing_sistemas/s.montoya112/hackatron/Oliv-IA2/Oliv-IA/.venv/bin/python
+== 0/3 verificando entradas
+fuentes: data/enriquecimiento/test_992/fuentes.json · 41 documentos
+== 1/3 descargando 41 documentos
+10:10:13 INFO decreto_2591_1991: fuentes_propias.json reemplaza la entrada anterior
+10:10:13 INFO ley_1996_2019: fuentes_propias.json reemplaza la entrada anterior
+10:10:13 INFO ley_54_1990: fuentes.json reemplaza la entrada anterior
+10:10:13 INFO ley_29_1982: fuentes.json reemplaza la entrada anterior
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO data/enlaces.txt: 0 links nuevos
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1437_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.corteconstitucional.gov.co/relatoria/2006/C-370-06.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1819_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2010_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1607_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0223_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2277_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0006_1992.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0788_2002.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0488_1998.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1111_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0383_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0633_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1430_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1564_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0863_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1739_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2155_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2106_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0100_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1955_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0599_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0098_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1943_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1395_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0019_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0240_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1625_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1493_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0546_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0962_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1004_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1066_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2068_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1257_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0173_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0181_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0527_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1328_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1450_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1715_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2069_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2294_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2195_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto/1992/decreto_2153_1992.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2380_2024.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley/2000/ley_0599_2000.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0438_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0551_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0575_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0807_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0031_1992.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0115_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0174_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0191_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0685_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0964_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1064_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1341_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1393_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1429_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1474_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1537_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1555_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1581_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1712_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1731_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1735_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1753_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2070_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2133_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0080_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1266_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1755_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley/1995/ley_0222_1995.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0799_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_1536_2012.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2152_2021.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2411_2024.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.corteconstitucional.gov.co/relatoria/2004/C-507-04.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0388_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1150_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0906_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0300_1996.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0489_1998.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1978_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1116_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2099_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1453_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0812_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0681_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1762_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1101_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2197_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0677_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0716_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2292_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1480_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2108_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1175_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1816_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2056_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1121_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2098_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2245_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0141_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1142_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0915_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1261_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2135_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1556_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1527_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1742_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0688_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0047_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1114_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1952_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1944_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1082_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0071_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1494_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0535_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_4048_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0814_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0518_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0818_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1032_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1273_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1565_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1609_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1931_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_4651_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0044_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1092_1996.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0920_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2272_1991.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0939_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0808_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2052_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1915_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2111_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2356_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1071_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0540_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_4712_2008.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0492_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1475_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2064_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0361_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0772_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0123_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2300_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0722_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1379_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0594_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1028_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1959_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2375_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2477_2025.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_0253_1996.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1621_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_1694_2013.html: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2094_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1826_2017.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1902_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0560_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0210_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0986_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2586_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1312_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1652_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1074_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1760_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2205_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2365_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1234_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1221_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2040_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0927_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1923_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2770_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0985_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1774_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1786_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1851_2017.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2592_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2022_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:10:13 INFO data/enlaces_proximidad.txt: 3366 links nuevos
+10:10:13 INFO Documentos a procesar: 41
+10:10:13 INFO sentencia_c-581_2001: descargando (html)
+10:10:15 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2001/C-581-01.htm (167 KB)
+10:10:15 INFO sentencia_c-581_2001: OK · 1 partes · 4 artículos detectados · 76922 caracteres
+10:10:15 INFO sentencia_t-202_2018: descargando (html)
+10:10:17 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2018/T-202-18.htm (415 KB)
+10:10:17 INFO sentencia_t-202_2018: OK · 1 partes · 5 artículos detectados · 176396 caracteres
+10:10:17 INFO sentencia_t-202_2024: descargando (html)
+10:10:19 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2024/T-202-24.htm (917 KB)
+10:10:20 INFO sentencia_t-202_2024: OK · 1 partes · 12 artículos detectados · 294506 caracteres
+10:10:20 INFO sentencia_su-292_2025: descargando (html)
+10:10:20 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2025/SU292-25.htm (721 KB)
+10:10:21 INFO sentencia_su-292_2025: OK · 1 partes · 14 artículos detectados · 305473 caracteres
+10:10:21 INFO sentencia_su-288_2015: descargando (html)
+10:10:22 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2015/SU288-15.htm (302 KB)
+10:10:22 INFO sentencia_su-288_2015: OK · 1 partes · 4 artículos detectados · 131382 caracteres
+10:10:22 INFO ley_54_1990: descargando (senado)
+10:10:24 INFO ley_29_1982: descargando (senado)
+10:10:26 INFO decreto_2663_1950: descargando (senado)
+10:10:27 INFO decreto_3030_2022: descargando (senado)
+10:10:29 INFO ley_2568_2021: descargando (senado)
+10:10:30 INFO sentencia_c-75_2007: descargando (html)
+10:10:31 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2007/C-075-07.htm (469 KB)
+10:10:31 INFO sentencia_c-75_2007: OK · 1 partes · 16 artículos detectados · 245380 caracteres
+10:10:31 INFO sentencia_su-140_2019: descargando (html)
+10:10:34 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2019/SU140-19.htm (1665 KB)
+10:10:36 INFO sentencia_su-140_2019: OK · 1 partes · 30 artículos detectados · 666133 caracteres
+10:10:36 INFO sentencia_t-426_2003: descargando (html)
+10:10:36 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2003/T-426-03.htm (92 KB)
+10:10:36 INFO sentencia_t-426_2003: OK · 1 partes · 1 artículos detectados · 43744 caracteres
+10:10:36 INFO sentencia_su-40_2018: descargando (html)
+10:10:38 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2018/SU040-18.htm (246 KB)
+10:10:38 INFO sentencia_su-40_2018: OK · 1 partes · 3 artículos detectados · 137744 caracteres
+10:10:38 INFO sentencia_c-148_2025: descargando (html)
+10:10:45 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2025/C-148-25.htm (3009 KB)
+10:10:51 INFO sentencia_c-148_2025: OK · 1 partes · 12 artículos detectados · 1043427 caracteres
+10:10:51 INFO sentencia_c-317_2025: descargando (html)
+10:10:52 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2025/C-317-25.htm (387 KB)
+10:10:53 INFO sentencia_c-317_2025: OK · 1 partes · 14 artículos detectados · 144223 caracteres
+10:10:53 INFO sentencia_t-277_2018: descargando (html)
+10:10:53 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2018/T-277-18.htm (364 KB)
+10:10:53 INFO sentencia_t-277_2018: OK · 1 partes · 4 artículos detectados · 158783 caracteres
+10:10:53 INFO sentencia_c-29_2009: descargando (html)
+10:10:55 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2009/C-029-09.htm (932 KB)
+10:10:56 INFO sentencia_c-29_2009: OK · 1 partes · 25 artículos detectados · 500811 caracteres
+10:10:56 INFO sentencia_t-287_2022: descargando (html)
+10:10:57 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2022/T-287-22.htm (334 KB)
+10:10:57 INFO sentencia_t-287_2022: OK · 1 partes · 2 artículos detectados · 117155 caracteres
+10:10:57 INFO sentencia_c-465_2008: descargando (html)
+10:10:58 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2008/C-465-08.htm (188 KB)
+10:10:58 INFO sentencia_c-465_2008: OK · 1 partes · 13 artículos detectados · 94751 caracteres
+10:10:58 INFO sentencia_t-617_2010: descargando (html)
+10:11:00 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2010/T-617-10.htm (481 KB)
+10:11:00 INFO sentencia_t-617_2010: OK · 1 partes · 11 artículos detectados · 273647 caracteres
+10:11:00 INFO ley_45_1990: descargando (senado)
+10:11:01 INFO sentencia_su-167_2023: descargando (html)
+10:11:02 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2023/SU167-23.htm (640 KB)
+10:11:03 INFO sentencia_su-167_2023: OK · 1 partes · 11 artículos detectados · 260496 caracteres
+10:11:03 INFO sentencia_su-691_2017: descargando (html)
+10:11:04 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2017/SU691-17.htm (1168 KB)
+10:11:06 INFO sentencia_su-691_2017: OK · 1 partes · 5 artículos detectados · 403890 caracteres
+10:11:06 INFO sentencia_su-499_2024: descargando (html)
+10:11:06 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2024/SU499-24.htm (707 KB)
+10:11:07 INFO sentencia_su-499_2024: OK · 1 partes · 6 artículos detectados · 257137 caracteres
+10:11:07 INFO sentencia_su-336_2017: descargando (html)
+10:11:08 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2017/SU336-17.htm (844 KB)
+10:11:09 INFO sentencia_su-336_2017: OK · 1 partes · 10 artículos detectados · 407897 caracteres
+10:11:09 INFO sentencia_su-575_2019: descargando (html)
+10:11:10 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2019/SU575-19.htm (625 KB)
+10:11:10 INFO sentencia_su-575_2019: OK · 1 partes · 9 artículos detectados · 209197 caracteres
+10:11:10 INFO sentencia_su-237_2019: descargando (html)
+10:11:11 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2019/SU237-19.htm (275 KB)
+10:11:11 INFO sentencia_su-237_2019: OK · 1 partes · 2 artículos detectados · 101449 caracteres
+10:11:11 INFO sentencia_su-452_2024: descargando (html)
+10:11:13 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2024/SU452-24.htm (698 KB)
+10:11:13 INFO sentencia_su-452_2024: OK · 1 partes · 14 artículos detectados · 215980 caracteres
+10:11:13 INFO sentencia_su-279_2019: descargando (html)
+10:11:13 INFO   https://www.corteconstitucional.gov.co/relatoria/2019/SU279-19.htm respondió una página casi vacía, probando alternativa
+10:11:15 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2019/SU-279-19.htm (8 KB)
+10:11:15 INFO sentencia_su-279_2019: OK · 1 partes · 0 artículos detectados · 101 caracteres
+10:11:15 INFO sentencia_su-41_2022: descargando (html)
+10:11:17 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2022/SU041-22.htm (543 KB)
+10:11:18 INFO sentencia_su-41_2022: OK · 1 partes · 1 artículos detectados · 98092 caracteres
+10:11:18 INFO sentencia_su-54_2015: descargando (html)
+10:11:19 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2015/SU054-15.htm (542 KB)
+10:11:19 INFO sentencia_su-54_2015: OK · 1 partes · 9 artículos detectados · 275153 caracteres
+10:11:19 INFO sentencia_t-254_2006: descargando (html)
+10:11:20 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2006/T-254-06.htm (265 KB)
+10:11:20 INFO sentencia_t-254_2006: OK · 1 partes · 5 artículos detectados · 115016 caracteres
+10:11:20 INFO sentencia_t-4_2016: descargando (html)
+10:11:21 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2016/T-004-16.htm (124 KB)
+10:11:22 INFO sentencia_t-4_2016: OK · 1 partes · 3 artículos detectados · 41745 caracteres
+10:11:22 INFO sentencia_t-8_2026: descargando (html)
+10:11:24 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2026/T-008-26.htm (1005 KB)
+10:11:25 INFO sentencia_t-8_2026: OK · 1 partes · 4 artículos detectados · 305573 caracteres
+10:11:25 INFO sentencia_t-284_2025: descargando (html)
+10:11:25 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2025/T-284-25.htm (389 KB)
+10:11:25 INFO sentencia_t-284_2025: OK · 1 partes · 6 artículos detectados · 116126 caracteres
+10:11:25 INFO sentencia_t-456_2024: descargando (html)
+10:11:27 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2024/T-456-24.htm (395 KB)
+10:11:27 INFO sentencia_t-456_2024: OK · 1 partes · 20 artículos detectados · 125032 caracteres
+10:11:27 INFO sentencia_c-878_2011: descargando (html)
+10:11:28 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2011/C-878-11.htm (188 KB)
+10:11:28 INFO sentencia_c-878_2011: OK · 1 partes · 12 artículos detectados · 75401 caracteres
+10:11:28 INFO sentencia_c-539_2016: descargando (html)
+10:11:30 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2016/C-539-16.htm (453 KB)
+10:11:30 INFO sentencia_c-539_2016: OK · 1 partes · 10 artículos detectados · 262119 caracteres
+10:11:30 INFO sentencia_c-448_2020: descargando (html)
+10:11:31 INFO   parte_000.html  https://www.corteconstitucional.gov.co/relatoria/2020/C-448-20.htm (607 KB)
+10:11:32 INFO sentencia_c-448_2020: OK · 1 partes · 26 artículos detectados · 256419 caracteres
+10:11:32 INFO decreto_4302_2008: descargando (senado)
+
+Listos: 34 · Con error: 7 · Normas enlazadas aún fuera del corpus: 224 (ver data/descubiertos.csv)
+  ✗ ley_54_1990: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html
+  ✗ ley_29_1982: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html
+  ✗ decreto_2663_1950: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html
+  ✗ decreto_3030_2022: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html
+  ✗ ley_2568_2021: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html
+  ✗ ley_45_1990: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html
+  ✗ decreto_4302_2008: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html
+  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del manifest si no los quieren): decreto_1082_2015-2, decreto_1625_2016-2
+== 2/3 reintentando los que fallaron (2 pasadas)
+10:11:37 INFO decreto_2591_1991: fuentes_propias.json reemplaza la entrada anterior
+10:11:37 INFO ley_1996_2019: fuentes_propias.json reemplaza la entrada anterior
+10:11:37 INFO ley_54_1990: fuentes.json reemplaza la entrada anterior
+10:11:37 INFO ley_29_1982: fuentes.json reemplaza la entrada anterior
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO data/enlaces.txt: 0 links nuevos
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1437_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.corteconstitucional.gov.co/relatoria/2006/C-370-06.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1819_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2010_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1607_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0223_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2277_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0006_1992.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0788_2002.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0488_1998.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1111_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0383_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0633_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1430_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1564_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0863_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1739_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2155_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2106_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0100_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1955_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0599_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0098_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1943_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1395_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0019_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0240_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1625_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1493_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0546_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0962_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1004_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1066_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2068_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1257_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0173_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0181_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0527_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1328_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1450_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1715_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2069_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2294_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2195_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto/1992/decreto_2153_1992.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2380_2024.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley/2000/ley_0599_2000.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0438_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0551_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0575_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0807_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0031_1992.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0115_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0174_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0191_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0685_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0964_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1064_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1341_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1393_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1429_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1474_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1537_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1555_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1581_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1712_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1731_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1735_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1753_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2070_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2133_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0080_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1266_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1755_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley/1995/ley_0222_1995.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0799_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_1536_2012.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2152_2021.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2411_2024.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.corteconstitucional.gov.co/relatoria/2004/C-507-04.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0388_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1150_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0906_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0300_1996.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0489_1998.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1978_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1116_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2099_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1453_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0812_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0681_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1762_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1101_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2197_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0677_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0716_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2292_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1480_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2108_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1175_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1816_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2056_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1121_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2098_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2245_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0141_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1142_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0915_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1261_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2135_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1556_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1527_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1742_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0688_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0047_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1114_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1952_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1944_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1082_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0071_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1494_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0535_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_4048_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0814_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0518_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0818_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1032_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1273_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1565_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1609_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1931_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_4651_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0044_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1092_1996.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0920_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2272_1991.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0939_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0808_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2052_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1915_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2111_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2356_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1071_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0540_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_4712_2008.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0492_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1475_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2064_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0361_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0772_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0123_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2300_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0722_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1379_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0594_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1028_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1959_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2375_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2477_2025.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_0253_1996.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1621_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_1694_2013.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2094_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1826_2017.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1902_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0560_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0210_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0986_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2586_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1312_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1652_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1074_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1760_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2205_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2365_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1234_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1221_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2040_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0927_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1923_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2770_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0985_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1774_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1786_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1851_2017.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2592_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2022_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:37 INFO data/enlaces_proximidad.txt: 3366 links nuevos
+10:11:37 INFO Documentos a procesar: 7
+10:11:37 INFO ley_54_1990: descargando (senado)
+10:11:39 INFO ley_29_1982: descargando (senado)
+10:11:41 INFO decreto_2663_1950: descargando (senado)
+10:11:42 INFO decreto_3030_2022: descargando (senado)
+10:11:44 INFO ley_2568_2021: descargando (senado)
+10:11:45 INFO ley_45_1990: descargando (senado)
+10:11:47 INFO decreto_4302_2008: descargando (senado)
+
+Listos: 0 · Con error: 7 · Normas enlazadas aún fuera del corpus: 224 (ver data/descubiertos.csv)
+  ✗ ley_54_1990: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html
+  ✗ ley_29_1982: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html
+  ✗ decreto_2663_1950: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html
+  ✗ decreto_3030_2022: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html
+  ✗ ley_2568_2021: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html
+  ✗ ley_45_1990: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html
+  ✗ decreto_4302_2008: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html
+  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del manifest si no los quieren): decreto_1082_2015-2, decreto_1625_2016-2
+10:11:52 INFO decreto_2591_1991: fuentes_propias.json reemplaza la entrada anterior
+10:11:52 INFO ley_1996_2019: fuentes_propias.json reemplaza la entrada anterior
+10:11:52 INFO ley_54_1990: fuentes.json reemplaza la entrada anterior
+10:11:52 INFO ley_29_1982: fuentes.json reemplaza la entrada anterior
+10:11:52 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:52 INFO https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:52 INFO https://www.comunidadandina.org/StaticFiles/DocOf/DEC486.pdf: la misma norma ya está en el corpus o en la lista, se omite
+10:11:52 INFO data/enlaces.txt: 0 links nuevos
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1437_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.corteconstitucional.gov.co/relatoria/2006/C-370-06.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1819_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2010_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1607_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0223_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2277_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0006_1992.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0788_2002.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0488_1998.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1111_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0383_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0633_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1430_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1564_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0863_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1739_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2155_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2106_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0100_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1955_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0599_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0098_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1943_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1395_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0019_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0240_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1625_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1493_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0546_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0962_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1004_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1066_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2068_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1257_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0173_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0181_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0527_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1328_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1450_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1715_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2069_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2294_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2195_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto/1992/decreto_2153_1992.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2380_2024.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley/2000/ley_0599_2000.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0438_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0551_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0575_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0807_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0031_1992.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0115_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0174_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0191_1995.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0685_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0964_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1064_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1341_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1393_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1429_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1474_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1537_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1555_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1581_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1712_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1731_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1735_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1753_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2070_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2133_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0080_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1266_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1755_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley/1995/ley_0222_1995.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0799_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_1536_2012.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2152_2021.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_2411_2024.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.corteconstitucional.gov.co/relatoria/2004/C-507-04.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0388_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1150_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0906_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0300_1996.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0489_1998.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1978_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1116_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2099_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1453_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0812_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0681_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1762_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1101_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2197_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0677_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0716_2001.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2292_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1480_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2108_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1175_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1816_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2056_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1121_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2098_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2245_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0141_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1142_2007.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0915_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1261_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2135_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1556_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1527_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1742_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0688_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0047_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1114_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1952_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1944_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1082_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0071_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1494_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0535_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_4048_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0814_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0518_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0818_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1032_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1273_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1565_2012.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1609_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1931_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_4651_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0044_1993.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1092_1996.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0920_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2272_1991.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0939_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0808_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2052_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1915_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2111_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2356_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1071_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0540_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_4712_2008.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/decreto_0492_2020.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1475_2011.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2064_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0361_1997.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0772_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0123_1994.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2300_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0722_2014.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1379_2010.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0594_2000.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1028_2006.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1959_2019.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2375_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2477_2025.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_0253_1996.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1621_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO http://www.secretariasenado.gov.co/senado/basedoc/ley_1694_2013.html: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2094_2021.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1826_2017.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1902_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0560_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0210_2003.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0986_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2586_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1312_2009.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1652_2013.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1074_1999.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1760_2015.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2205_2022.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2365_2024.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1234_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1221_2008.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2040_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_0927_2023.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1923_2018.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/decreto_2770_2004.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_0985_2005.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1774_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1786_2016.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_1851_2017.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2592_2026.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO https://normograma.dian.gov.co/dian/compilacion/docs/ley_2022_2020.htm: la misma norma ya está en el corpus o en la lista, se omite
+10:11:53 INFO data/enlaces_proximidad.txt: 3366 links nuevos
+10:11:53 INFO Documentos a procesar: 7
+10:11:53 INFO ley_54_1990: descargando (senado)
+10:11:55 INFO ley_29_1982: descargando (senado)
+10:11:56 INFO decreto_2663_1950: descargando (senado)
+10:11:58 INFO decreto_3030_2022: descargando (senado)
+10:11:59 INFO ley_2568_2021: descargando (senado)
+10:12:01 INFO ley_45_1990: descargando (senado)
+10:12:02 INFO decreto_4302_2008: descargando (senado)
+
+Listos: 0 · Con error: 7 · Normas enlazadas aún fuera del corpus: 224 (ver data/descubiertos.csv)
+  ✗ ley_54_1990: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html
+  ✗ ley_29_1982: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html
+  ✗ decreto_2663_1950: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html
+  ✗ decreto_3030_2022: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html
+  ✗ ley_2568_2021: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html
+  ✗ ley_45_1990: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html
+  ✗ decreto_4302_2008: HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html
+  ⚠ En el manifest pero ya no en las fuentes (bórrenlos de data/raw, data/md y del manifest si no los quieren): decreto_1082_2015-2, decreto_1625_2016-2
+== 3/3 resultado
+RESULTADO documentos md nuevos: 34 · ok en el manifest: 3519 -> 3519
+RESULTADO del fuentes.json: 34 ok · 7 sin descargar
+  sin descargar: decreto_2663_1950 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html
+  sin descargar: decreto_3030_2022 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_3030_2022.html
+  sin descargar: ley_2568_2021 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_2568_2021.html
+  sin descargar: ley_54_1990 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html
+  sin descargar: ley_29_1982 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html
+  sin descargar: ley_45_1990 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html
+  sin descargar: decreto_4302_2008 | HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_4302_2008.html
+sin reindexar (nuevos=34, REINDEXAR=0)
+== fin: [descargar_fuentes] Terminó con errores (ver .err) · 2026-10-03 10:12:08

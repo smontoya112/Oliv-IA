@@ -61049,13 +61049,44 @@
   {
     "doc_id": "decreto_2663_1950",
     "titulo": "Decreto 2663 de 1950",
-    "fuente": "Secretaría General del Senado",
-    "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html",
+    "fuente": "Gestor normativo de Colpensiones",
+    "url": "https://normativa.colpensiones.gov.co/colpens/docs/decreto_2663_1950.htm",
+    "fecha_consulta": "2026-10-03",
     "areas": [
       "laboral"
     ],
-    "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/decreto_2663_1950.html"
+    "tipo_norma": "decreto",
+    "numero": "2663",
+    "anio": 1950,
+    "organo_emisor": null,
+    "canonico": [
+      "decreto",
+      "2663",
+      "1950"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://normativa.colpensiones.gov.co/colpens/docs/decreto_2663_1950.htm"
+    ],
+    "sha256_partes": [
+      "4119b604fe93c875e5d4f3b968da8f55f1b5269c62f85d6f79a46a24b6b47f3e"
+    ],
+    "fecha_actualizacion_fuente": "17 de Marzo de 2016",
+    "n_caracteres": 13945,
+    "n_articulos_detectados": 38,
+    "archivo_md": "md/decreto_2663_1950.md",
+    "metadata_autocompletada": [],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "decreto_2667_2001",
@@ -126925,13 +126956,44 @@
   {
     "doc_id": "ley_29_1982",
     "titulo": "Ley 29 de 1982",
-    "fuente": "Secretaría General del Senado",
-    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html",
+    "fuente": "Gestor normativo de Colpensiones",
+    "url": "https://normativa.colpensiones.gov.co/colpens/docs/ley_0029_1982.htm",
+    "fecha_consulta": "2026-10-03",
     "areas": [
       "familia"
     ],
-    "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0029_1982.html"
+    "tipo_norma": "ley",
+    "numero": "29",
+    "anio": 1982,
+    "organo_emisor": "Congreso de la República",
+    "canonico": [
+      "ley",
+      "29",
+      "1982"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://normativa.colpensiones.gov.co/colpens/docs/ley_0029_1982.htm"
+    ],
+    "sha256_partes": [
+      "dc77872080609189d7a0171178055c0471e68b1f96b05f808ebff69f08112e74"
+    ],
+    "fecha_actualizacion_fuente": "31 de marzo de 2018",
+    "n_caracteres": 3915,
+    "n_articulos_detectados": 11,
+    "archivo_md": "md/ley_29_1982.md",
+    "metadata_autocompletada": [],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "ley_2_1976",
@@ -130082,13 +130144,44 @@
   {
     "doc_id": "ley_45_1990",
     "titulo": "Ley 45 de 1990",
-    "fuente": "Secretaría General del Senado",
-    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html",
+    "fuente": "Gestor normativo de la CRA",
+    "url": "https://normas.cra.gov.co/gestor/docs/ley_0045_1990.htm",
+    "fecha_consulta": "2026-10-03",
     "areas": [
       "comercial"
     ],
-    "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1990.html"
+    "tipo_norma": "ley",
+    "numero": "45",
+    "anio": 1990,
+    "organo_emisor": "Congreso de la República",
+    "canonico": [
+      "ley",
+      "45",
+      "1990"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://normas.cra.gov.co/gestor/docs/ley_0045_1990.htm"
+    ],
+    "sha256_partes": [
+      "b11c78ae2e5fc28ecbd54cefa9e597547cd0dbb44d78df883c592fd3f11cfa0a"
+    ],
+    "fecha_actualizacion_fuente": "Control de versiones",
+    "n_caracteres": 87185,
+    "n_articulos_detectados": 99,
+    "archivo_md": "md/ley_45_1990.md",
+    "metadata_autocompletada": [],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "ley_461_1998",
@@ -131645,13 +131738,44 @@
   {
     "doc_id": "ley_54_1990",
     "titulo": "Ley 54 de 1990",
-    "fuente": "Secretaría General del Senado",
-    "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html",
+    "fuente": "Gestor normativo de la CRA",
+    "url": "https://normas.cra.gov.co/gestor/docs/ley_0054_1990.htm",
+    "fecha_consulta": "2026-10-03",
     "areas": [
       "familia"
     ],
-    "estado": "error",
-    "error": "HTTP 404 en http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1990.html"
+    "tipo_norma": "ley",
+    "numero": "54",
+    "anio": 1990,
+    "organo_emisor": "Congreso de la República",
+    "canonico": [
+      "ley",
+      "54",
+      "1990"
+    ],
+    "origen": "preguntas_test_992",
+    "items_del_banco": 1,
+    "formato_origen": [
+      "html"
+    ],
+    "codificacion": [
+      "cp1252"
+    ],
+    "ocr": false,
+    "n_partes": 1,
+    "urls_partes": [
+      "https://normas.cra.gov.co/gestor/docs/ley_0054_1990.htm"
+    ],
+    "sha256_partes": [
+      "dd748dc73d840a26005afb89f4f21d18ef173828a239af53c5e5a80d5f17fad0"
+    ],
+    "fecha_actualizacion_fuente": "Control de versiones",
+    "n_caracteres": 7529,
+    "n_articulos_detectados": 9,
+    "archivo_md": "md/ley_54_1990.md",
+    "metadata_autocompletada": [],
+    "advertencias": [],
+    "estado": "ok"
   },
   {
     "doc_id": "ley_550_1999",
