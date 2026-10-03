@@ -78,8 +78,12 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
     from . import cerradas_razonar, subtarea
     if item["formato"] == "multiple_choice":
         if getattr(motor, "admite_pensar", False) and hasattr(motor, "probabilidades_letras"):
-            return item, cerradas_razonar.responder(item, pasajes, motor, presupuesto=presupuesto,
-                                                    contar=contar)
+            try:
+                return item, cerradas_razonar.responder(item, pasajes, motor, presupuesto=presupuesto,
+                                                        contar=contar)
+            except Exception as e:                      # una cerrada nunca debe quedar sin respuesta
+                log.warning("cerrada %s: falló la estrategia razonada (%s: %s); se usa la actual",
+                            item.get("id"), type(e).__name__, e)
         msgs, esquema, _ = preparar(item, pasajes, presupuesto, None, contar)
         crudo = motor.generar_lote([msgs], [esquema], max_tokens=MAX_TOKENS_SALIDA[item["formato"]])[0]
         return item, parsear_json(crudo)

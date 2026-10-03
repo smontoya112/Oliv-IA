@@ -156,3 +156,14 @@ def test_politica_cascada_piensa_solo_si_el_ensamble_no_esta_seguro():
     s2 = cr.responder(MC, [dict(p) for p in PASAJES], firme, politica="cascada")
     assert all(n != "pensar" for n, _ in firme.llamadas)
     assert s2["respuesta_correcta"] == "B" and s2["decision_cerrada"]["regla"] == "ens_seguro"
+
+
+def test_si_la_estrategia_razonada_falla_la_cerrada_cae_al_camino_actual():
+    class Roto(MotorRazona):
+        def probabilidades_letras(self, *a, **k):
+            raise RuntimeError("sin logits")
+        def generar_lote(self, conversaciones, esquemas, max_tokens=0, repeat_penalty=None):
+            return MotorFalso.generar_lote(self, conversaciones, esquemas, max_tokens)
+
+    res = generar_lote([MC], {51: PASAJES}, Roto("B"), estrategia="razonada")[0]
+    assert res["abstencion"] is False and res["respuesta_correcta"] == "B"
