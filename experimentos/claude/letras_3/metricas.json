@@ -1,0 +1,675 @@
+{
+ "modelo": "qwen3-8b",
+ "variantes": {
+  "base": {
+   "n": 15,
+   "aciertos": 11,
+   "exactitud": 0.7333,
+   "exactitud_por_permutacion": 0.7255,
+   "nll_medio": 1.773,
+   "p_gold_medio": 0.7088,
+   "segundos_por_pregunta": 4.35,
+   "ids_acertados": [
+    51,
+    58,
+    60,
+    290,
+    352,
+    358,
+    487,
+    600,
+    617,
+    671,
+    748
+   ],
+   "filas": [
+    {
+     "id": 51,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.9989,
+     "nll": 0.0011,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 58,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.9854,
+     "nll": 0.0148,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 60,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 1.0,
+     "nll": -0.0,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 128,
+     "esperada": "D",
+     "ens": "B",
+     "ok": false,
+     "p_gold": 0.0001,
+     "nll": 11.065,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 290,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.9997,
+     "nll": 0.0003,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 308,
+     "esperada": "A",
+     "ens": "C",
+     "ok": false,
+     "p_gold": 0.0265,
+     "nll": 4.0196,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 352,
+     "esperada": "B",
+     "ens": "B",
+     "ok": true,
+     "p_gold": 1.0,
+     "nll": -0.0,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 358,
+     "esperada": "D",
+     "ens": "D",
+     "ok": true,
+     "p_gold": 1.0,
+     "nll": -0.0,
+     "ok_por_permutacion": [
+      true
+     ]
+    },
+    {
+     "id": 487,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.9581,
+     "nll": 0.0434,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 528,
+     "esperada": "C",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.0003,
+     "nll": 9.6127,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 600,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.972,
+     "nll": 0.029,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 617,
+     "esperada": "B",
+     "ens": "B",
+     "ok": true,
+     "p_gold": 0.9098,
+     "nll": 0.1113,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 647,
+     "esperada": "B",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.4877,
+     "nll": 0.7181,
+     "ok_por_permutacion": [
+      false
+     ]
+    },
+    {
+     "id": 671,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.5724,
+     "nll": 0.5579,
+     "ok_por_permutacion": [
+      true
+     ]
+    },
+    {
+     "id": 748,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.7218,
+     "nll": 0.4213,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      false
+     ]
+    }
+   ]
+  },
+  "mixto": {
+   "n": 15,
+   "aciertos": 11,
+   "exactitud": 0.7333,
+   "exactitud_por_permutacion": 0.6863,
+   "nll_medio": 1.2374,
+   "p_gold_medio": 0.6694,
+   "segundos_por_pregunta": 8.95,
+   "ids_acertados": [
+    51,
+    58,
+    60,
+    290,
+    352,
+    358,
+    487,
+    600,
+    617,
+    671,
+    748
+   ],
+   "filas": [
+    {
+     "id": 51,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.9993,
+     "nll": 0.0007,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 58,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.5032,
+     "nll": 0.6869,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      false
+     ]
+    },
+    {
+     "id": 60,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 1.0,
+     "nll": -0.0,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 128,
+     "esperada": "D",
+     "ens": "B",
+     "ok": false,
+     "p_gold": 0.0251,
+     "nll": 5.1681,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 290,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.9995,
+     "nll": 0.0005,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 308,
+     "esperada": "A",
+     "ens": "C",
+     "ok": false,
+     "p_gold": 0.1472,
+     "nll": 2.1254,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 352,
+     "esperada": "B",
+     "ens": "B",
+     "ok": true,
+     "p_gold": 1.0,
+     "nll": -0.0,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 358,
+     "esperada": "D",
+     "ens": "D",
+     "ok": true,
+     "p_gold": 1.0,
+     "nll": -0.0,
+     "ok_por_permutacion": [
+      true
+     ]
+    },
+    {
+     "id": 487,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.9627,
+     "nll": 0.0387,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 528,
+     "esperada": "C",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.0012,
+     "nll": 8.3159,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 600,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.9669,
+     "nll": 0.0339,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 617,
+     "esperada": "B",
+     "ens": "B",
+     "ok": true,
+     "p_gold": 0.832,
+     "nll": 0.2775,
+     "ok_por_permutacion": [
+      true,
+      false,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 647,
+     "esperada": "B",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.4616,
+     "nll": 0.7731,
+     "ok_por_permutacion": [
+      false
+     ]
+    },
+    {
+     "id": 671,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.5761,
+     "nll": 0.5515,
+     "ok_por_permutacion": [
+      true
+     ]
+    },
+    {
+     "id": 748,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.5669,
+     "nll": 0.5895,
+     "ok_por_permutacion": [
+      true,
+      false,
+      true,
+      true
+     ]
+    }
+   ]
+  },
+  "solo_opciones": {
+   "n": 15,
+   "aciertos": 6,
+   "exactitud": 0.4,
+   "exactitud_por_permutacion": 0.451,
+   "nll_medio": 3.0164,
+   "p_gold_medio": 0.4315,
+   "segundos_por_pregunta": 2.21,
+   "ids_acertados": [
+    60,
+    352,
+    358,
+    600,
+    617,
+    748
+   ],
+   "filas": [
+    {
+     "id": 51,
+     "esperada": "C",
+     "ens": "B",
+     "ok": false,
+     "p_gold": 0.0021,
+     "nll": 8.6577,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 58,
+     "esperada": "A",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.1961,
+     "nll": 2.2303,
+     "ok_por_permutacion": [
+      false,
+      true,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 60,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.9999,
+     "nll": 0.0001,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 128,
+     "esperada": "D",
+     "ens": "B",
+     "ok": false,
+     "p_gold": 0.0006,
+     "nll": 9.1526,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 290,
+     "esperada": "C",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.0029,
+     "nll": 7.8573,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 308,
+     "esperada": "A",
+     "ens": "B",
+     "ok": false,
+     "p_gold": 0.0448,
+     "nll": 4.058,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 352,
+     "esperada": "B",
+     "ens": "B",
+     "ok": true,
+     "p_gold": 0.9997,
+     "nll": 0.0003,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 358,
+     "esperada": "D",
+     "ens": "D",
+     "ok": true,
+     "p_gold": 0.9981,
+     "nll": 0.0019,
+     "ok_por_permutacion": [
+      true
+     ]
+    },
+    {
+     "id": 487,
+     "esperada": "A",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.4714,
+     "nll": 1.3109,
+     "ok_por_permutacion": [
+      false,
+      true,
+      false,
+      true
+     ]
+    },
+    {
+     "id": 528,
+     "esperada": "C",
+     "ens": "A",
+     "ok": false,
+     "p_gold": 0.0097,
+     "nll": 5.2896,
+     "ok_por_permutacion": [
+      false,
+      false,
+      false,
+      false
+     ]
+    },
+    {
+     "id": 600,
+     "esperada": "C",
+     "ens": "C",
+     "ok": true,
+     "p_gold": 0.9714,
+     "nll": 0.0295,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 617,
+     "esperada": "B",
+     "ens": "B",
+     "ok": true,
+     "p_gold": 0.7724,
+     "nll": 0.5942,
+     "ok_por_permutacion": [
+      true,
+      false,
+      true,
+      true
+     ]
+    },
+    {
+     "id": 647,
+     "esperada": "B",
+     "ens": "D",
+     "ok": false,
+     "p_gold": 0.0248,
+     "nll": 3.6969,
+     "ok_por_permutacion": [
+      false
+     ]
+    },
+    {
+     "id": 671,
+     "esperada": "C",
+     "ens": "B",
+     "ok": false,
+     "p_gold": 0.1117,
+     "nll": 2.1919,
+     "ok_por_permutacion": [
+      false
+     ]
+    },
+    {
+     "id": 748,
+     "esperada": "A",
+     "ens": "A",
+     "ok": true,
+     "p_gold": 0.8675,
+     "nll": 0.1744,
+     "ok_por_permutacion": [
+      true,
+      true,
+      true,
+      true
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "n": 10,
+ "normas_coinciden": 10,
+ "pasajes_coinciden": 10,
+ "identicas": 7,
+ "config": {
+  "modelo": "qwen3-8b",
+  "indice": "data/index_base",
+  "n_ctx": 8192,
+  "max_caracteres_pregunta": 6000,
+  "palabras_caso_largo": 120,
+  "estrategia": "razonada"
+ },
+ "filas": [
+  {
+   "id": 51,
+   "formato": "multiple_choice",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": false,
+   "campos_distintos": [
+    "decision_cerrada"
+   ]
+  },
+  {
+   "id": 528,
+   "formato": "multiple_choice",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": false,
+   "campos_distintos": [
+    "decision_cerrada"
+   ]
+  },
+  {
+   "id": 617,
+   "formato": "multiple_choice",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": false,
+   "campos_distintos": [
+    "decision_cerrada"
+   ]
+  },
+  {
+   "id": 79,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 442,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 865,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 919,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 1005,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 253,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 679,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  }
+ ]
+}

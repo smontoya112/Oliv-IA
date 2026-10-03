@@ -38,6 +38,21 @@ def esquema_cerrada(letras=LETRAS) -> dict:
     }
 
 
+def esquema_justificacion(letras, elegida: str) -> dict:
+    """Cerradas con la letra ya decidida: solo hay que justificarla y descartar las demás."""
+    otras = [l for l in letras if l != elegida]
+    return {
+        "type": "object",
+        "properties": {
+            "justificacion": _TEXTO,
+            "descarte_opciones": {"type": "object", "properties": {l: _TEXTO for l in otras},
+                                  "required": otras, "additionalProperties": False},
+        },
+        "required": ["justificacion", "descarte_opciones"],
+        "additionalProperties": False,
+    }
+
+
 ESQUEMAS: dict[str, dict] = {
     "multiple_choice": esquema_cerrada(),
     "semi_open": {

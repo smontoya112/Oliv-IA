@@ -18,6 +18,13 @@ artículo 391", "Sentencia C-355 de 2006".
 respaldada y dilo con claridad en el texto; no inventes fuentes.
 4. Responde únicamente con un objeto JSON válido con los campos pedidos, sin texto adicional."""
 
+SISTEMA_LIBRE = """Eres un asistente jurídico experto en derecho colombiano. Respondes con rigor y en \
+español. Usa los pasajes numerados [P1], [P2]… como fuente principal y nombra la norma y el artículo \
+con su nombre completo (por ejemplo "artículo 88 de la Constitución Política", "Ley 472 de 1998, \
+artículo 46", "Sentencia C-355 de 2006"). Si ningún pasaje trata el punto que se pregunta, responde \
+con lo que conozcas con seguridad del derecho colombiano; no inventes números de artículos ni \
+sentencias. Responde únicamente con un objeto JSON válido con los campos pedidos."""
+
 _FORMATOS = {
     "multiple_choice": """Pregunta de opción múltiple. Evalúa CADA opción por separado y luego \
 elige UNA.
@@ -59,9 +66,13 @@ def formatear_pasajes(pasajes: list[dict], presupuesto_tokens: int = 4500, conta
 
 
 def construir_mensajes(item: dict, pasajes_texto: str,
-                       ejemplos: list[dict] | None = None) -> list[dict]:
+                       ejemplos: list[dict] | None = None,
+                       instrucciones: str | None = None,
+                       sistema: str | None = None) -> list[dict]:
     """Mensajes de chat (system/user) para un ítem. `ejemplos` son turnos few-shot ya
-    redactados por el equipo: [{"role": "user"|"assistant", "content": ...}, ...]."""
+    redactados por el equipo: [{"role": "user"|"assistant", "content": ...}, ...].
+    `instrucciones` reemplaza el bloque de instrucciones del formato (prompt v2 por
+    sub-tarea, src.generacion.subtarea)."""
     formato = item["formato"]
     if formato not in _FORMATOS:
         raise ValueError(f"formato desconocido: {formato!r}")
@@ -74,7 +85,7 @@ def construir_mensajes(item: dict, pasajes_texto: str,
         partes.append("Opciones:\n" + "\n".join(
             f"{k}. {v.strip()}{cerradas.nota_opcion(tipos[k])}"
             for k, v in sorted(item["opciones"].items())))
-    usuario = (f"{_FORMATOS[formato]}\n\n=== PASAJES ===\n{pasajes_texto or '(sin pasajes)'}\n\n"
+    usuario = (f"{instrucciones or _FORMATOS[formato]}\n\n=== PASAJES ===\n{pasajes_texto or '(sin pasajes)'}\n\n"
                "=== CONSULTA ===\n" + "\n".join(partes))
-    return [{"role": "system", "content": SISTEMA}, *(ejemplos or []),
+    return [{"role": "system", "content": sistema or SISTEMA}, *(ejemplos or []),
             {"role": "user", "content": usuario}]

@@ -1,7 +1,9 @@
 {
   "modelo": "qwen3-8b",
-  "indice": "data/index",
+  "indice": "data/index_base",
   "n_ctx": 8192,
   "max_caracteres_pregunta": 6000,
-  "palabras_caso_largo": 120
+  "palabras_caso_largo": 120,
+  "estrategia": "razonada",
+  "abiertas": ["expansion"]
 }

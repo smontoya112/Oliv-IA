@@ -67,10 +67,14 @@ py() { PYTHONPATH=. "$PY" "$@"; }
 
 paso "0/3 verificando parte, entrada, índice, entorno y GPU"
 [[ "$PARTE" =~ ^[1-3]$ ]] || { echo "ERROR: falta el número de parte (1, 2 o 3): sbatch jobs/corrida.sh N" >&2; ESTADO=2; }
-for f in "$PREGUNTAS" data/index/faiss.index data/index/index_config.json data/index/chunk_ids.json \
-         data/processed/chunks.parquet config/responder.json; do
+# el índice y los chunks son los de config/responder.json (hoy data/index_base): se validan ESOS
+IDX="$(py -c "import json; print(json.load(open('config/responder.json'))['indice'])" 2>/dev/null)"; IDX="${IDX:-data/index}"
+CHUNKS="$(py -c "import json,sys; print(json.load(open(sys.argv[1]+'/index_config.json'))['chunks'])" "$IDX" 2>/dev/null)"
+for f in "$PREGUNTAS" "$IDX/faiss.index" "$IDX/index_config.json" "$IDX/chunk_ids.json" \
+         "${CHUNKS:-data/processed/chunks.parquet}" config/responder.json; do
     [[ -s "$f" ]] || { echo "ERROR: falta $f" >&2; ESTADO=2; }
 done
+echo "índice $IDX · chunks ${CHUNKS:-?} · config $(tr -d '\n ' < config/responder.json)"
 [[ -x "$PY" ]] || { echo "ERROR: falta $PY (hypatia: jobs/instalar_torch_gpu.sh + instalar_responder.sh; PC: jobs/preparar_local.sh)" >&2; ESTADO=2; }
 echo "parte $PARTE · entrada $PREGUNTAS · $(hostname) · commit $(git log -1 --oneline 2>/dev/null)"
 nvidia-smi --query-gpu=name,memory.total,driver_version --format=csv,noheader || true

@@ -238,3 +238,9 @@ data/index/
 data/lote/
 data/test_992.jsonl
 *.zip
+
+# prueba-claude: índice y corpus base, y salidas de experimentos (lo pequeño va en experimentos/claude/)
+data/index_base/
+data/processed_base/
+data/exp/
+data/exp_local/

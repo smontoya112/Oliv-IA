@@ -1,0 +1,91 @@
+{
+ "n": 8,
+ "normas_coinciden": 8,
+ "pasajes_coinciden": 8,
+ "identicas": 8,
+ "config": {
+  "modelo": "qwen3-8b",
+  "indice": "data/index_base",
+  "n_ctx": 8192,
+  "max_caracteres_pregunta": 6000,
+  "palabras_caso_largo": 120,
+  "estrategia": "razonada",
+  "abiertas": [
+   "expansion"
+  ]
+ },
+ "filas": [
+  {
+   "id": 247,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 253,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 272,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 513,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 679,
+   "formato": "open_ended",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 51,
+   "formato": "multiple_choice",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 79,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  },
+  {
+   "id": 865,
+   "formato": "semi_open",
+   "normas_coinciden": true,
+   "pasajes_coinciden": true,
+   "mismo_orden": true,
+   "identica": true,
+   "campos_distintos": []
+  }
+ ]
+}

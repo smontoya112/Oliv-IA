@@ -1,0 +1,302 @@
+{
+ "submission": "data/exp/bench/antes_completo.jsonl",
+ "oficial": {
+  "equipo": "antes_completo",
+  "split": "sample",
+  "validacion": {
+   "errores": 0,
+   "detalle": []
+  },
+  "cerradas": {
+   "n": 15,
+   "aciertos": 8,
+   "accuracy": 0.5333333333333333,
+   "referencia": 0.905,
+   "puntos": 10.67
+  },
+  "citas": {
+   "items_evaluados": 41,
+   "n_ref": 49,
+   "n_citadas": 159,
+   "aciertos": 39,
+   "aciertos_respaldados": 39,
+   "aciertos_sin_respaldo": 0,
+   "incorrectas": 120,
+   "citas_sin_respaldo": 0,
+   "recall_citas_ponderado": 0.7959,
+   "tasa_sin_respaldo": 0.0,
+   "indice": 0.7959,
+   "puntos": 15.92
+  },
+  "abstencion": {
+   "items_evaluados": 43,
+   "abstuvo_bien": 0,
+   "abstuvo_de_mas": 0,
+   "respondio_bien": 32,
+   "respondio_mal": 11,
+   "calibracion": 0.7442,
+   "puntos": 7.44
+  },
+  "correccion_ragas": {
+   "estado": "pendiente (correr con --ragas)",
+   "puntos": null
+  },
+  "total_automatico": {
+   "obtenidos": 34.03,
+   "posibles": 50.0,
+   "de_100_del_ranking": 80.0,
+   "nota": "los 20 pts restantes son interfaz grafica, bitacora de corpus, video y reproducibilidad"
+  }
+ },
+ "cerradas_politicas": {
+  "n": 15,
+  "aciertos": {
+   "final": 8,
+   "razonada": 8,
+   "resolver": 0,
+   "ens": 0,
+   "evidencia": 0,
+   "voto": 8
+  },
+  "exactitud": {
+   "final": 0.5333,
+   "razonada": 0.5333,
+   "resolver": 0.0,
+   "ens": 0.0,
+   "evidencia": 0.0,
+   "voto": 0.5333
+  },
+  "ids_acertados_final": [
+   51,
+   60,
+   290,
+   352,
+   358,
+   600,
+   617,
+   671
+  ],
+  "detalle": {
+   "51": {
+    "esperada": "C",
+    "final": "C",
+    "razonada": "C",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "C",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "58": {
+    "esperada": "A",
+    "final": "D",
+    "razonada": "D",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "D",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "60": {
+    "esperada": "A",
+    "final": "A",
+    "razonada": "A",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "A",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "128": {
+    "esperada": "D",
+    "final": "B",
+    "razonada": "B",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "B",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "290": {
+    "esperada": "C",
+    "final": "C",
+    "razonada": "C",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "C",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "308": {
+    "esperada": "A",
+    "final": "C",
+    "razonada": "C",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "C",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "352": {
+    "esperada": "B",
+    "final": "B",
+    "razonada": "B",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "B",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "358": {
+    "esperada": "D",
+    "final": "D",
+    "razonada": "D",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "D",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "487": {
+    "esperada": "A",
+    "final": "D",
+    "razonada": "D",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "D",
+    "regla": "modelo_sin_veredictos",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "528": {
+    "esperada": "C",
+    "final": "D",
+    "razonada": "D",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "D",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "600": {
+    "esperada": "C",
+    "final": "C",
+    "razonada": "C",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "C",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "617": {
+    "esperada": "B",
+    "final": "B",
+    "razonada": "B",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "B",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "647": {
+    "esperada": "B",
+    "final": "C",
+    "razonada": "C",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "C",
+    "regla": "compuesta_ninguna",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "671": {
+    "esperada": "C",
+    "final": "C",
+    "razonada": "C",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "C",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   },
+   "748": {
+    "esperada": "A",
+    "final": "D",
+    "razonada": "D",
+    "resolver": null,
+    "ens": null,
+    "evidencia": null,
+    "voto": "D",
+    "regla": "modelo",
+    "tokens_pensar": null,
+    "cortado": null
+   }
+  }
+ },
+ "texto_libre_proxy": {
+  "n_juzgados": 35,
+  "proxy": 0.3525,
+  "lexico": 0.1722,
+  "semantico": 0.8936,
+  "por_formato": {
+   "semi_open": {
+    "n": 30,
+    "proxy": 0.3584,
+    "lexico": 0.1796,
+    "semantico": 0.8949,
+    "palabras_mediana": 60.0,
+    "palabras_esperadas_mediana": 77.5
+   },
+   "open_ended": {
+    "n": 5,
+    "proxy": 0.3172,
+    "lexico": 0.1278,
+    "semantico": 0.8855,
+    "palabras_mediana": 304,
+    "palabras_esperadas_mediana": 324
+   }
+  }
+ },
+ "tiempos": {
+  "semi_open": {
+   "n": 30,
+   "s_por_pregunta": 16.78
+  },
+  "multiple_choice": {
+   "n": 15,
+   "s_por_pregunta": 34.73
+  },
+  "open_ended": {
+   "n": 5,
+   "s_por_pregunta": 53.63
+  },
+  "s_medio_mezcla_test": 24.61
+ },
+ "abstenciones": 0
+}
