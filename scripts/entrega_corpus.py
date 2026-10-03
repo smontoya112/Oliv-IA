@@ -12,7 +12,7 @@ Se corre donde estén los datos (hypatia: data/processed_base, data/index_base, 
 
 Estructura del comprimido (la del enunciado, con el formato nativo del motor en indice/):
 
-    LICENSE · corpus_manifest.json · LEEME.txt
+    LICENSE · corpus_manifest.json · CORPUS.md · LEEME.txt
     corpus/<doc_id>.txt          texto procesado de cada norma (el documento de referencia de los offsets inicio/fin)
     indice/faiss.index           FAISS IndexFlatIP, bge-m3, 1024 d
     indice/bm25/                 índice léxico (bm25s)
@@ -259,6 +259,8 @@ def cmd_empaquetar(args) -> int:
         if licencia is not None and licencia.exists():
             z.write(licencia, "LICENSE")
         z.write(raiz / "corpus_manifest.json", "corpus_manifest.json")
+        if (raiz / "CORPUS.md").exists():            # la bitácora viaja también dentro del comprimido
+            z.write(raiz / "CORPUS.md", "CORPUS.md")
         z.writestr("LEEME.txt", LEEME.format(equipo=args.equipo))
         for d in docs:
             txt = proc / "texto" / f"{d['doc_id']}.txt"

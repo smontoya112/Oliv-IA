@@ -11,9 +11,9 @@ recuperada y se abstiene cuando no puede responder.
 
 | Recurso | Enlace | Tamaño | Licencia |
 |---|---|---|---|
-| Corpus procesado e índice vectorial | [corpus_Oliv-IA.zip (OneDrive)](https://1drv.ms/u/c/6c8185a7cb3fb6b0/IQCTpAESkIKYRqOr3PiM6w10AbC6z_9dPSdXqr41knvdnqY?e=cj23d1) | 366 MB (365.524.102 bytes) | CC BY 4.0 |
+| Corpus procesado e índice vectorial | [corpus_Oliv-IA.zip (OneDrive)](https://1drv.ms/u/c/6c8185a7cb3fb6b0/IQCTpAESkIKYRqOr3PiM6w10AbC6z_9dPSdXqr41knvdnqY?e=cj23d1) | 366 MB (365.543.100 bytes) | CC BY 4.0 |
 
-El enlace es de solo lectura para cualquier persona que lo tenga (se comprobó sin iniciar sesión). `sha256` del comprimido: `462cd0166db753de1fcf01f35f85850a9b8ae90ba2424c4220e38cf5300f4c16`.
+El enlace es de solo lectura para cualquier persona que lo tenga (se comprobó sin iniciar sesión). `sha256` del comprimido: `b9625b1d88a93cf495df5c134b12cc07b42dfe61ca20edd5b30e23ea26625595`.
 
 El comprimido (`corpus_<equipo>.zip`) contiene `LICENSE`, `corpus_manifest.json`, `corpus/` con los documentos
 procesados e `indice/` con el índice serializado y los fragmentos. El corpus de generación tiene **504 documentos y
