@@ -1,0 +1,1 @@
+ERROR: .venv-gen no tiene llama_cpp: corran primero sbatch jobs/instalar_llamacpp.sh

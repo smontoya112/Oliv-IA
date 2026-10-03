@@ -1,0 +1,620 @@
+Job recuperar 756184 en nodei-gpu-1 · 2026-10-02 18:35:34
+usando .venv-gpu (torch para CUDA 11.8)
+== 0/4 verificando índices, preguntas y GPU
+Quadro RTX 6000, 23040 MiB
+== 1/4 recuperación completa (alias + híbrido + área + directos + cerradas + reranker)
+18:35:47 Loading faiss with AVX512 support.
+18:35:47 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:35:47 Loading faiss with AVX2 support.
+18:35:47 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:35:47 Loading faiss.
+18:35:47 Successfully loaded faiss.
+18:36:22 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:36:24   encoding 1/1 lotes (2 s)
+18:36:25   encoding 1/1 lotes (0 s)
+18:36:25   encoding 1/1 lotes (0 s)
+18:36:26   encoding 1/1 lotes (0 s)
+18:36:26   encoding 1/1 lotes (0 s)
+18:36:27   encoding 1/1 lotes (0 s)
+18:36:27   encoding 1/1 lotes (0 s)
+18:36:28   encoding 1/1 lotes (0 s)
+18:36:28   encoding 1/1 lotes (0 s)
+18:36:29   encoding 1/1 lotes (0 s)
+18:36:30   encoding 1/1 lotes (0 s)
+18:36:30   encoding 1/1 lotes (0 s)
+18:36:31   encoding 1/1 lotes (0 s)
+18:36:31   encoding 1/1 lotes (0 s)
+18:36:32   encoding 1/1 lotes (0 s)
+18:36:32   encoding 1/1 lotes (0 s)
+18:36:33   encoding 1/1 lotes (0 s)
+18:36:33   encoding 1/1 lotes (0 s)
+18:36:33   encoding 1/1 lotes (0 s)
+18:36:34   encoding 1/1 lotes (0 s)
+18:36:34   encoding 1/1 lotes (0 s)
+18:36:35   encoding 1/1 lotes (0 s)
+18:36:35   encoding 1/1 lotes (0 s)
+18:36:35   encoding 1/1 lotes (0 s)
+18:36:36   encoding 1/1 lotes (0 s)
+18:36:36 25/50 ítems (0.56 s/ítem)
+18:36:36   encoding 1/1 lotes (0 s)
+18:36:36   encoding 1/1 lotes (0 s)
+18:36:37   encoding 1/1 lotes (0 s)
+18:36:37   encoding 1/1 lotes (0 s)
+18:36:38   encoding 1/1 lotes (0 s)
+18:36:38   encoding 1/1 lotes (0 s)
+18:36:38   encoding 1/1 lotes (0 s)
+18:36:39   encoding 1/1 lotes (0 s)
+18:36:39   encoding 1/1 lotes (0 s)
+18:36:40   encoding 1/1 lotes (0 s)
+18:36:40   encoding 1/1 lotes (0 s)
+18:36:40   encoding 1/1 lotes (0 s)
+18:36:41   encoding 1/1 lotes (0 s)
+18:36:41   encoding 1/1 lotes (0 s)
+18:36:42   encoding 1/1 lotes (0 s)
+18:36:42   encoding 1/1 lotes (0 s)
+18:36:42   encoding 1/1 lotes (0 s)
+18:36:43   encoding 1/1 lotes (0 s)
+18:36:43   encoding 1/1 lotes (0 s)
+18:36:43   encoding 1/1 lotes (0 s)
+18:36:44   encoding 1/1 lotes (0 s)
+18:36:44   encoding 1/1 lotes (0 s)
+18:36:45   encoding 1/1 lotes (0 s)
+18:36:45   encoding 1/1 lotes (0 s)
+18:36:45   encoding 1/1 lotes (0 s)
+18:36:46 50/50 ítems (0.47 s/ítem)
+18:36:46 recuperación de 50 ítems (0 con error) en 24 s -> data/recuperacion/sample_50.jsonl
+== 2/4 ablaciones (cada paso de la fase 6 por separado)
+18:36:52 Loading faiss with AVX512 support.
+18:36:52 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:36:52 Loading faiss with AVX2 support.
+18:36:52 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:36:52 Loading faiss.
+18:36:53 Successfully loaded faiss.
+18:37:27   encoding 1/1 lotes (2 s)
+18:37:27   encoding 1/1 lotes (0 s)
+18:37:27   encoding 1/1 lotes (0 s)
+18:37:27   encoding 1/1 lotes (0 s)
+18:37:28   encoding 1/1 lotes (0 s)
+18:37:28   encoding 1/1 lotes (0 s)
+18:37:28   encoding 1/1 lotes (0 s)
+18:37:28   encoding 1/1 lotes (0 s)
+18:37:28   encoding 1/1 lotes (0 s)
+18:37:29   encoding 1/1 lotes (0 s)
+18:37:29   encoding 1/1 lotes (0 s)
+18:37:29   encoding 1/1 lotes (0 s)
+18:37:29   encoding 1/1 lotes (0 s)
+18:37:29   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30 25/50 ítems (0.21 s/ítem)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:30   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:31   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32   encoding 1/1 lotes (0 s)
+18:37:32 50/50 ítems (0.14 s/ítem)
+18:37:32 recuperación de 50 ítems (0 con error) en 7 s -> data/recuperacion/sample_50_sin_reranker.jsonl
+18:37:38 Loading faiss with AVX512 support.
+18:37:38 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:37:38 Loading faiss with AVX2 support.
+18:37:38 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:37:38 Loading faiss.
+18:37:38 Successfully loaded faiss.
+18:38:13 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:38:14   encoding 1/1 lotes (2 s)
+18:38:15   encoding 1/1 lotes (0 s)
+18:38:15   encoding 1/1 lotes (0 s)
+18:38:16   encoding 1/1 lotes (0 s)
+18:38:16   encoding 1/1 lotes (0 s)
+18:38:17   encoding 1/1 lotes (0 s)
+18:38:17   encoding 1/1 lotes (0 s)
+18:38:18   encoding 1/1 lotes (0 s)
+18:38:19   encoding 1/1 lotes (0 s)
+18:38:19   encoding 1/1 lotes (0 s)
+18:38:20   encoding 1/1 lotes (0 s)
+18:38:20   encoding 1/1 lotes (0 s)
+18:38:21   encoding 1/1 lotes (0 s)
+18:38:21   encoding 1/1 lotes (0 s)
+18:38:22   encoding 1/1 lotes (0 s)
+18:38:22   encoding 1/1 lotes (0 s)
+18:38:23   encoding 1/1 lotes (0 s)
+18:38:23   encoding 1/1 lotes (0 s)
+18:38:23   encoding 1/1 lotes (0 s)
+18:38:24   encoding 1/1 lotes (0 s)
+18:38:24   encoding 1/1 lotes (0 s)
+18:38:25   encoding 1/1 lotes (0 s)
+18:38:25   encoding 1/1 lotes (0 s)
+18:38:25   encoding 1/1 lotes (0 s)
+18:38:26   encoding 1/1 lotes (0 s)
+18:38:26 25/50 ítems (0.54 s/ítem)
+18:38:26   encoding 1/1 lotes (0 s)
+18:38:26   encoding 1/1 lotes (0 s)
+18:38:27   encoding 1/1 lotes (0 s)
+18:38:27   encoding 1/1 lotes (0 s)
+18:38:28   encoding 1/1 lotes (0 s)
+18:38:28   encoding 1/1 lotes (0 s)
+18:38:28   encoding 1/1 lotes (0 s)
+18:38:29   encoding 1/1 lotes (0 s)
+18:38:29   encoding 1/1 lotes (0 s)
+18:38:30   encoding 1/1 lotes (0 s)
+18:38:30   encoding 1/1 lotes (0 s)
+18:38:30   encoding 1/1 lotes (0 s)
+18:38:31   encoding 1/1 lotes (0 s)
+18:38:31   encoding 1/1 lotes (0 s)
+18:38:31   encoding 1/1 lotes (0 s)
+18:38:32   encoding 1/1 lotes (0 s)
+18:38:32   encoding 1/1 lotes (0 s)
+18:38:33   encoding 1/1 lotes (0 s)
+18:38:33   encoding 1/1 lotes (0 s)
+18:38:33   encoding 1/1 lotes (0 s)
+18:38:34   encoding 1/1 lotes (0 s)
+18:38:34   encoding 1/1 lotes (0 s)
+18:38:35   encoding 1/1 lotes (0 s)
+18:38:35   encoding 1/1 lotes (0 s)
+18:38:35   encoding 1/1 lotes (0 s)
+18:38:36 50/50 ítems (0.46 s/ítem)
+18:38:36 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_sin_directos.jsonl
+18:38:42 Loading faiss with AVX512 support.
+18:38:42 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:38:42 Loading faiss with AVX2 support.
+18:38:42 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:38:42 Loading faiss.
+18:38:42 Successfully loaded faiss.
+18:39:17 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:39:18   encoding 1/1 lotes (2 s)
+18:39:19   encoding 1/1 lotes (0 s)
+18:39:19   encoding 1/1 lotes (0 s)
+18:39:20   encoding 1/1 lotes (0 s)
+18:39:20   encoding 1/1 lotes (0 s)
+18:39:21   encoding 1/1 lotes (0 s)
+18:39:22   encoding 1/1 lotes (0 s)
+18:39:22   encoding 1/1 lotes (0 s)
+18:39:23   encoding 1/1 lotes (0 s)
+18:39:23   encoding 1/1 lotes (0 s)
+18:39:24   encoding 1/1 lotes (0 s)
+18:39:24   encoding 1/1 lotes (0 s)
+18:39:25   encoding 1/1 lotes (0 s)
+18:39:25   encoding 1/1 lotes (0 s)
+18:39:26   encoding 1/1 lotes (0 s)
+18:39:26   encoding 1/1 lotes (0 s)
+18:39:27   encoding 1/1 lotes (0 s)
+18:39:27   encoding 1/1 lotes (0 s)
+18:39:27   encoding 1/1 lotes (0 s)
+18:39:28   encoding 1/1 lotes (0 s)
+18:39:28   encoding 1/1 lotes (0 s)
+18:39:29   encoding 1/1 lotes (0 s)
+18:39:29   encoding 1/1 lotes (0 s)
+18:39:29   encoding 1/1 lotes (0 s)
+18:39:30   encoding 1/1 lotes (0 s)
+18:39:30 25/50 ítems (0.54 s/ítem)
+18:39:30   encoding 1/1 lotes (0 s)
+18:39:30   encoding 1/1 lotes (0 s)
+18:39:31   encoding 1/1 lotes (0 s)
+18:39:31   encoding 1/1 lotes (0 s)
+18:39:32   encoding 1/1 lotes (0 s)
+18:39:32   encoding 1/1 lotes (0 s)
+18:39:32   encoding 1/1 lotes (0 s)
+18:39:33   encoding 1/1 lotes (0 s)
+18:39:33   encoding 1/1 lotes (0 s)
+18:39:34   encoding 1/1 lotes (0 s)
+18:39:34   encoding 1/1 lotes (0 s)
+18:39:34   encoding 1/1 lotes (0 s)
+18:39:35   encoding 1/1 lotes (0 s)
+18:39:35   encoding 1/1 lotes (0 s)
+18:39:35   encoding 1/1 lotes (0 s)
+18:39:36   encoding 1/1 lotes (0 s)
+18:39:36   encoding 1/1 lotes (0 s)
+18:39:37   encoding 1/1 lotes (0 s)
+18:39:37   encoding 1/1 lotes (0 s)
+18:39:37   encoding 1/1 lotes (0 s)
+18:39:38   encoding 1/1 lotes (0 s)
+18:39:38   encoding 1/1 lotes (0 s)
+18:39:39   encoding 1/1 lotes (0 s)
+18:39:39   encoding 1/1 lotes (0 s)
+18:39:39   encoding 1/1 lotes (0 s)
+18:39:40 50/50 ítems (0.46 s/ítem)
+18:39:40 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_sin_alias.jsonl
+18:39:46 Loading faiss with AVX512 support.
+18:39:46 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:39:46 Loading faiss with AVX2 support.
+18:39:46 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:39:46 Loading faiss.
+18:39:46 Successfully loaded faiss.
+18:40:19 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:40:20   encoding 1/1 lotes (2 s)
+18:40:21   encoding 1/1 lotes (0 s)
+18:40:21   encoding 1/1 lotes (0 s)
+18:40:22   encoding 1/1 lotes (0 s)
+18:40:22   encoding 1/1 lotes (0 s)
+18:40:23   encoding 1/1 lotes (0 s)
+18:40:23   encoding 1/1 lotes (0 s)
+18:40:24   encoding 1/1 lotes (0 s)
+18:40:24   encoding 1/1 lotes (0 s)
+18:40:25   encoding 1/1 lotes (0 s)
+18:40:26   encoding 1/1 lotes (0 s)
+18:40:26   encoding 1/1 lotes (0 s)
+18:40:27   encoding 1/1 lotes (0 s)
+18:40:27   encoding 1/1 lotes (0 s)
+18:40:28   encoding 1/1 lotes (0 s)
+18:40:28   encoding 1/1 lotes (0 s)
+18:40:29   encoding 1/1 lotes (0 s)
+18:40:29   encoding 1/1 lotes (0 s)
+18:40:29   encoding 1/1 lotes (0 s)
+18:40:30   encoding 1/1 lotes (0 s)
+18:40:30   encoding 1/1 lotes (0 s)
+18:40:30   encoding 1/1 lotes (0 s)
+18:40:31   encoding 1/1 lotes (0 s)
+18:40:31   encoding 1/1 lotes (0 s)
+18:40:32   encoding 1/1 lotes (0 s)
+18:40:32 25/50 ítems (0.53 s/ítem)
+18:40:32   encoding 1/1 lotes (0 s)
+18:40:32   encoding 1/1 lotes (0 s)
+18:40:33   encoding 1/1 lotes (0 s)
+18:40:33   encoding 1/1 lotes (0 s)
+18:40:33   encoding 1/1 lotes (0 s)
+18:40:34   encoding 1/1 lotes (0 s)
+18:40:34   encoding 1/1 lotes (0 s)
+18:40:35   encoding 1/1 lotes (0 s)
+18:40:35   encoding 1/1 lotes (0 s)
+18:40:35   encoding 1/1 lotes (0 s)
+18:40:36   encoding 1/1 lotes (0 s)
+18:40:36   encoding 1/1 lotes (0 s)
+18:40:37   encoding 1/1 lotes (0 s)
+18:40:37   encoding 1/1 lotes (0 s)
+18:40:37   encoding 1/1 lotes (0 s)
+18:40:38   encoding 1/1 lotes (0 s)
+18:40:38   encoding 1/1 lotes (0 s)
+18:40:38   encoding 1/1 lotes (0 s)
+18:40:39   encoding 1/1 lotes (0 s)
+18:40:39   encoding 1/1 lotes (0 s)
+18:40:39   encoding 1/1 lotes (0 s)
+18:40:40   encoding 1/1 lotes (0 s)
+18:40:40   encoding 1/1 lotes (0 s)
+18:40:41   encoding 1/1 lotes (0 s)
+18:40:41   encoding 1/1 lotes (0 s)
+18:40:41 50/50 ítems (0.45 s/ítem)
+18:40:41 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_con_area.jsonl
+18:40:47 Loading faiss with AVX512 support.
+18:40:47 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:40:47 Loading faiss with AVX2 support.
+18:40:47 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:40:47 Loading faiss.
+18:40:47 Successfully loaded faiss.
+18:41:21 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:41:23   encoding 1/1 lotes (2 s)
+18:41:24   encoding 1/1 lotes (0 s)
+18:41:24   encoding 1/1 lotes (0 s)
+18:41:25   encoding 1/1 lotes (0 s)
+18:41:25   encoding 1/1 lotes (0 s)
+18:41:26   encoding 1/1 lotes (0 s)
+18:41:26   encoding 1/1 lotes (0 s)
+18:41:27   encoding 1/1 lotes (0 s)
+18:41:27   encoding 1/1 lotes (0 s)
+18:41:28   encoding 1/1 lotes (0 s)
+18:41:28   encoding 1/1 lotes (0 s)
+18:41:29   encoding 1/1 lotes (0 s)
+18:41:29   encoding 1/1 lotes (0 s)
+18:41:30   encoding 1/1 lotes (0 s)
+18:41:30   encoding 1/1 lotes (0 s)
+18:41:31   encoding 1/1 lotes (0 s)
+18:41:31   encoding 1/1 lotes (0 s)
+18:41:32   encoding 1/1 lotes (0 s)
+18:41:32   encoding 1/1 lotes (0 s)
+18:41:32   encoding 1/1 lotes (0 s)
+18:41:33   encoding 1/1 lotes (0 s)
+18:41:33   encoding 1/1 lotes (0 s)
+18:41:34   encoding 1/1 lotes (0 s)
+18:41:34   encoding 1/1 lotes (0 s)
+18:41:34   encoding 1/1 lotes (0 s)
+18:41:35 25/50 ítems (0.54 s/ítem)
+18:41:35   encoding 1/1 lotes (0 s)
+18:41:35   encoding 1/1 lotes (0 s)
+18:41:36   encoding 1/1 lotes (0 s)
+18:41:36   encoding 1/1 lotes (0 s)
+18:41:36   encoding 1/1 lotes (0 s)
+18:41:37   encoding 1/1 lotes (0 s)
+18:41:37   encoding 1/1 lotes (0 s)
+18:41:37   encoding 1/1 lotes (0 s)
+18:41:38   encoding 1/1 lotes (0 s)
+18:41:38   encoding 1/1 lotes (0 s)
+18:41:39   encoding 1/1 lotes (0 s)
+18:41:39   encoding 1/1 lotes (0 s)
+18:41:39   encoding 1/1 lotes (0 s)
+18:41:40   encoding 1/1 lotes (0 s)
+18:41:40   encoding 1/1 lotes (0 s)
+18:41:40   encoding 1/1 lotes (0 s)
+18:41:41   encoding 1/1 lotes (0 s)
+18:41:41   encoding 1/1 lotes (0 s)
+18:41:42   encoding 1/1 lotes (0 s)
+18:41:42   encoding 1/1 lotes (0 s)
+18:41:42   encoding 1/1 lotes (0 s)
+18:41:43   encoding 1/1 lotes (0 s)
+18:41:43   encoding 1/1 lotes (0 s)
+18:41:44   encoding 1/1 lotes (0 s)
+18:41:44   encoding 1/1 lotes (0 s)
+18:41:44 50/50 ítems (0.46 s/ítem)
+18:41:44 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_sin_diversidad.jsonl
+18:41:51 Loading faiss with AVX512 support.
+18:41:51 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:41:51 Loading faiss with AVX2 support.
+18:41:51 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:41:51 Loading faiss.
+18:41:51 Successfully loaded faiss.
+18:42:25 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:42:27   encoding 1/1 lotes (2 s)
+18:42:28   encoding 1/1 lotes (0 s)
+18:42:28   encoding 1/1 lotes (0 s)
+18:42:29   encoding 1/1 lotes (0 s)
+18:42:29   encoding 1/1 lotes (0 s)
+18:42:30   encoding 1/1 lotes (0 s)
+18:42:30   encoding 1/1 lotes (0 s)
+18:42:31   encoding 1/1 lotes (0 s)
+18:42:31   encoding 1/1 lotes (0 s)
+18:42:32   encoding 1/1 lotes (0 s)
+18:42:32   encoding 1/1 lotes (0 s)
+18:42:33   encoding 1/1 lotes (0 s)
+18:42:33   encoding 1/1 lotes (0 s)
+18:42:34   encoding 1/1 lotes (0 s)
+18:42:35   encoding 1/1 lotes (0 s)
+18:42:35   encoding 1/1 lotes (0 s)
+18:42:35   encoding 1/1 lotes (0 s)
+18:42:36   encoding 1/1 lotes (0 s)
+18:42:36   encoding 1/1 lotes (0 s)
+18:42:37   encoding 1/1 lotes (0 s)
+18:42:37   encoding 1/1 lotes (0 s)
+18:42:37   encoding 1/1 lotes (0 s)
+18:42:38   encoding 1/1 lotes (0 s)
+18:42:38   encoding 1/1 lotes (0 s)
+18:42:39   encoding 1/1 lotes (0 s)
+18:42:39 25/50 ítems (0.54 s/ítem)
+18:42:39   encoding 1/1 lotes (0 s)
+18:42:39   encoding 1/1 lotes (0 s)
+18:42:40   encoding 1/1 lotes (0 s)
+18:42:40   encoding 1/1 lotes (0 s)
+18:42:40   encoding 1/1 lotes (0 s)
+18:42:41   encoding 1/1 lotes (0 s)
+18:42:41   encoding 1/1 lotes (0 s)
+18:42:42   encoding 1/1 lotes (0 s)
+18:42:42   encoding 1/1 lotes (0 s)
+18:42:42   encoding 1/1 lotes (0 s)
+18:42:43   encoding 1/1 lotes (0 s)
+18:42:43   encoding 1/1 lotes (0 s)
+18:42:44   encoding 1/1 lotes (0 s)
+18:42:44   encoding 1/1 lotes (0 s)
+18:42:44   encoding 1/1 lotes (0 s)
+18:42:45   encoding 1/1 lotes (0 s)
+18:42:45   encoding 1/1 lotes (0 s)
+18:42:45   encoding 1/1 lotes (0 s)
+18:42:46   encoding 1/1 lotes (0 s)
+18:42:46   encoding 1/1 lotes (0 s)
+18:42:47   encoding 1/1 lotes (0 s)
+18:42:47   encoding 1/1 lotes (0 s)
+18:42:47   encoding 1/1 lotes (0 s)
+18:42:48   encoding 1/1 lotes (0 s)
+18:42:48   encoding 1/1 lotes (0 s)
+18:42:49 50/50 ítems (0.46 s/ítem)
+18:42:49 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_sin_garantia_opciones.jsonl
+18:42:55 Loading faiss with AVX512 support.
+18:42:55 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:42:55 Loading faiss with AVX2 support.
+18:42:55 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:42:55 Loading faiss.
+18:42:55 Successfully loaded faiss.
+18:43:29 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:43:31   encoding 1/1 lotes (2 s)
+18:43:32   encoding 1/1 lotes (0 s)
+18:43:32   encoding 1/1 lotes (0 s)
+18:43:33   encoding 1/1 lotes (0 s)
+18:43:33   encoding 1/1 lotes (0 s)
+18:43:34   encoding 1/1 lotes (0 s)
+18:43:34   encoding 1/1 lotes (0 s)
+18:43:35   encoding 1/1 lotes (0 s)
+18:43:35   encoding 1/1 lotes (0 s)
+18:43:36   encoding 1/1 lotes (0 s)
+18:43:36   encoding 1/1 lotes (0 s)
+18:43:37   encoding 1/1 lotes (0 s)
+18:43:37   encoding 1/1 lotes (0 s)
+18:43:38   encoding 1/1 lotes (0 s)
+18:43:38   encoding 1/1 lotes (0 s)
+18:43:39   encoding 1/1 lotes (0 s)
+18:43:39   encoding 1/1 lotes (0 s)
+18:43:40   encoding 1/1 lotes (0 s)
+18:43:40   encoding 1/1 lotes (0 s)
+18:43:41   encoding 1/1 lotes (0 s)
+18:43:41   encoding 1/1 lotes (0 s)
+18:43:41   encoding 1/1 lotes (0 s)
+18:43:42   encoding 1/1 lotes (0 s)
+18:43:42   encoding 1/1 lotes (0 s)
+18:43:42   encoding 1/1 lotes (0 s)
+18:43:43 25/50 ítems (0.54 s/ítem)
+18:43:43   encoding 1/1 lotes (0 s)
+18:43:43   encoding 1/1 lotes (0 s)
+18:43:44   encoding 1/1 lotes (0 s)
+18:43:44   encoding 1/1 lotes (0 s)
+18:43:44   encoding 1/1 lotes (0 s)
+18:43:45   encoding 1/1 lotes (0 s)
+18:43:45   encoding 1/1 lotes (0 s)
+18:43:46   encoding 1/1 lotes (0 s)
+18:43:46   encoding 1/1 lotes (0 s)
+18:43:46   encoding 1/1 lotes (0 s)
+18:43:47   encoding 1/1 lotes (0 s)
+18:43:47   encoding 1/1 lotes (0 s)
+18:43:47   encoding 1/1 lotes (0 s)
+18:43:48   encoding 1/1 lotes (0 s)
+18:43:48   encoding 1/1 lotes (0 s)
+18:43:49   encoding 1/1 lotes (0 s)
+18:43:49   encoding 1/1 lotes (0 s)
+18:43:49   encoding 1/1 lotes (0 s)
+18:43:50   encoding 1/1 lotes (0 s)
+18:43:50   encoding 1/1 lotes (0 s)
+18:43:51   encoding 1/1 lotes (0 s)
+18:43:51   encoding 1/1 lotes (0 s)
+18:43:51   encoding 1/1 lotes (0 s)
+18:43:52   encoding 1/1 lotes (0 s)
+18:43:52   encoding 1/1 lotes (0 s)
+18:43:52 50/50 ítems (0.46 s/ítem)
+18:43:52 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_con_copias.jsonl
+18:43:59 Loading faiss with AVX512 support.
+18:43:59 Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+18:43:59 Loading faiss with AVX2 support.
+18:43:59 Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+18:43:59 Loading faiss.
+18:43:59 Successfully loaded faiss.
+18:44:33 reranker BAAI/bge-reranker-v2-m3@953dc6f6 en cuda
+18:44:35   encoding 1/1 lotes (2 s)
+18:44:36   encoding 1/1 lotes (0 s)
+18:44:36   encoding 1/1 lotes (0 s)
+18:44:37   encoding 1/1 lotes (0 s)
+18:44:37   encoding 1/1 lotes (0 s)
+18:44:38   encoding 1/1 lotes (0 s)
+18:44:38   encoding 1/1 lotes (0 s)
+18:44:39   encoding 1/1 lotes (0 s)
+18:44:39   encoding 1/1 lotes (0 s)
+18:44:40   encoding 1/1 lotes (0 s)
+18:44:40   encoding 1/1 lotes (0 s)
+18:44:41   encoding 1/1 lotes (0 s)
+18:44:41   encoding 1/1 lotes (0 s)
+18:44:42   encoding 1/1 lotes (0 s)
+18:44:42   encoding 1/1 lotes (0 s)
+18:44:43   encoding 1/1 lotes (0 s)
+18:44:43   encoding 1/1 lotes (0 s)
+18:44:44   encoding 1/1 lotes (0 s)
+18:44:44   encoding 1/1 lotes (0 s)
+18:44:44   encoding 1/1 lotes (0 s)
+18:44:45   encoding 1/1 lotes (0 s)
+18:44:45   encoding 1/1 lotes (0 s)
+18:44:46   encoding 1/1 lotes (0 s)
+18:44:46   encoding 1/1 lotes (0 s)
+18:44:46   encoding 1/1 lotes (0 s)
+18:44:47 25/50 ítems (0.54 s/ítem)
+18:44:47   encoding 1/1 lotes (0 s)
+18:44:47   encoding 1/1 lotes (0 s)
+18:44:48   encoding 1/1 lotes (0 s)
+18:44:48   encoding 1/1 lotes (0 s)
+18:44:48   encoding 1/1 lotes (0 s)
+18:44:49   encoding 1/1 lotes (0 s)
+18:44:49   encoding 1/1 lotes (0 s)
+18:44:49   encoding 1/1 lotes (0 s)
+18:44:50   encoding 1/1 lotes (0 s)
+18:44:50   encoding 1/1 lotes (0 s)
+18:44:51   encoding 1/1 lotes (0 s)
+18:44:51   encoding 1/1 lotes (0 s)
+18:44:51   encoding 1/1 lotes (0 s)
+18:44:52   encoding 1/1 lotes (0 s)
+18:44:52   encoding 1/1 lotes (0 s)
+18:44:53   encoding 1/1 lotes (0 s)
+18:44:53   encoding 1/1 lotes (0 s)
+18:44:53   encoding 1/1 lotes (0 s)
+18:44:54   encoding 1/1 lotes (0 s)
+18:44:54   encoding 1/1 lotes (0 s)
+18:44:54   encoding 1/1 lotes (0 s)
+18:44:55   encoding 1/1 lotes (0 s)
+18:44:55   encoding 1/1 lotes (0 s)
+18:44:56   encoding 1/1 lotes (0 s)
+18:44:56   encoding 1/1 lotes (0 s)
+18:44:56 50/50 ítems (0.46 s/ítem)
+18:44:56 recuperación de 50 ítems (0 con error) en 23 s -> data/recuperacion/sample_50_sin_tope_sentencias.jsonl
+== 3/4 métricas contra el legal_basis (solo para evaluar) y línea base de la fase 5
+RESULTADO sample_50              n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.125  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.925  s/ítem 0.4717
+RESULTADO sample_50_sin_reranker n=40 cuerpo@10 0.875  articulo@10 0.5719  hit_doc@10 0.8  normas@10 8.325  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.45  s/ítem 0.1426
+RESULTADO sample_50_sin_directos n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.775  normas@10 8.15  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.925  s/ítem 0.4704
+RESULTADO sample_50_sin_alias    n=40 cuerpo@10 0.9  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.125  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.9  s/ítem 0.4677
+RESULTADO sample_50_con_area     n=40 cuerpo@10 0.9  articulo@10 0.6053  hit_doc@10 0.825  normas@10 8.05  opciones@8 0.9792  copias@10 0.0  sentencias@8 2.65  s/ítem 0.4655
+RESULTADO sample_50_sin_diversidad n=40 cuerpo@10 0.8875  articulo@10 0.6579  hit_doc@10 0.775  normas@10 7.25  opciones@8 0.9583  copias@10 0.0  sentencias@8 3.2  s/ítem 0.4682
+RESULTADO sample_50_sin_garantia_opciones n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.075  opciones@8 0.3542  copias@10 0.0  sentencias@8 2.825  s/ítem 0.4697
+RESULTADO sample_50_con_copias   n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.1  opciones@8 0.9583  copias@10 0.025  sentencias@8 2.925  s/ítem 0.4688
+RESULTADO sample_50_sin_tope_sentencias n=40 cuerpo@10 0.8875  articulo@10 0.5877  hit_doc@10 0.775  normas@10 8.15  opciones@8 0.9583  copias@10 0.0  sentencias@8 3.15  s/ítem 0.4693
+BASE fase 5 bm25   cuerpo@10 0.8125  articulo@10 0.4298  (cuerpo@50 0.925)
+BASE fase 5 denso  cuerpo@10 0.8625  articulo@10 0.6404  (cuerpo@50 0.95)
+BASE fase 5 rrf    cuerpo@10 0.8875  articulo@10 0.6053  (cuerpo@50 0.9625)
+detalle en data/recuperacion/ablaciones.json
+== 4/4 resumen
+total 11M
+-rw-r--r-- 1 s.montoya112 ing_sistemas 115K Oct  2 18:45 ablaciones.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas  16K Oct  1 18:09 ablaciones_sin_area_sin_reranker.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas  754 Oct  2 18:40 sample_50_con_area.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 793K Oct  2 18:40 sample_50_con_area.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  756 Oct  2 18:43 sample_50_con_copias.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 800K Oct  2 18:43 sample_50_con_copias.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  755 Oct  2 18:36 sample_50.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 801K Oct  2 18:36 sample_50.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  673 Oct  2 14:46 sample_50_max2.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 813K Oct  2 14:46 sample_50_max2.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  673 Oct  2 14:46 sample_50_max3.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 812K Oct  2 14:46 sample_50_max3.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  756 Oct  2 18:39 sample_50_sin_alias.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 802K Oct  2 18:39 sample_50_sin_alias.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  648 Oct  1 18:09 sample_50_sin_area.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 809K Oct  1 18:09 sample_50_sin_area.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  590 Oct  1 18:09 sample_50_sin_area_sin_reranker.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 766K Oct  1 18:09 sample_50_sin_area_sin_reranker.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  756 Oct  2 18:38 sample_50_sin_directos.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 804K Oct  2 18:38 sample_50_sin_directos.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  755 Oct  2 18:41 sample_50_sin_diversidad.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 812K Oct  2 18:41 sample_50_sin_diversidad.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  756 Oct  2 18:42 sample_50_sin_garantia_opciones.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 799K Oct  2 18:42 sample_50_sin_garantia_opciones.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  697 Oct  2 18:37 sample_50_sin_reranker.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 772K Oct  2 18:37 sample_50_sin_reranker.jsonl
+-rw-r--r-- 1 s.montoya112 ing_sistemas  755 Oct  2 18:44 sample_50_sin_tope_sentencias.config.json
+-rw-r--r-- 1 s.montoya112 ing_sistemas 808K Oct  2 18:44 sample_50_sin_tope_sentencias.jsonl
+  RESULTADO sample_50              n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.125  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.925  s/ítem 0.4717
+  RESULTADO sample_50_sin_reranker n=40 cuerpo@10 0.875  articulo@10 0.5719  hit_doc@10 0.8  normas@10 8.325  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.45  s/ítem 0.1426
+  RESULTADO sample_50_sin_directos n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.775  normas@10 8.15  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.925  s/ítem 0.4704
+  RESULTADO sample_50_sin_alias    n=40 cuerpo@10 0.9  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.125  opciones@8 0.9583  copias@10 0.0  sentencias@8 2.9  s/ítem 0.4677
+  RESULTADO sample_50_con_area     n=40 cuerpo@10 0.9  articulo@10 0.6053  hit_doc@10 0.825  normas@10 8.05  opciones@8 0.9792  copias@10 0.0  sentencias@8 2.65  s/ítem 0.4655
+  RESULTADO sample_50_sin_diversidad n=40 cuerpo@10 0.8875  articulo@10 0.6579  hit_doc@10 0.775  normas@10 7.25  opciones@8 0.9583  copias@10 0.0  sentencias@8 3.2  s/ítem 0.4682
+  RESULTADO sample_50_sin_garantia_opciones n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.075  opciones@8 0.3542  copias@10 0.0  sentencias@8 2.825  s/ítem 0.4697
+  RESULTADO sample_50_con_copias   n=40 cuerpo@10 0.8875  articulo@10 0.6053  hit_doc@10 0.8  normas@10 8.1  opciones@8 0.9583  copias@10 0.025  sentencias@8 2.925  s/ítem 0.4688
+  RESULTADO sample_50_sin_tope_sentencias n=40 cuerpo@10 0.8875  articulo@10 0.5877  hit_doc@10 0.775  normas@10 8.15  opciones@8 0.9583  copias@10 0.0  sentencias@8 3.15  s/ítem 0.4693
+  BASE fase 5 bm25   cuerpo@10 0.8125  articulo@10 0.4298  (cuerpo@50 0.925)
+  BASE fase 5 denso  cuerpo@10 0.8625  articulo@10 0.6404  (cuerpo@50 0.95)
+  BASE fase 5 rrf    cuerpo@10 0.8875  articulo@10 0.6053  (cuerpo@50 0.9625)
+== fin: [recuperar] Terminó OK · 2026-10-02 18:45:18

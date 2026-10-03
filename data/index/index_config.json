@@ -1,10 +1,10 @@
 {
-  "creado": "2026-10-02T20:07:50+00:00",
+  "creado": "2026-10-02T23:14:58+00:00",
   "chunks": "data/processed/chunks.parquet",
-  "sha256_chunks": "6c4f4d12fdba757fc9b353017c40d8dec9d2f1be2200b3323ccd51c429e452a9",
-  "n_chunks": 163557,
-  "n_docs": 3013,
-  "n_textos_unicos": 163458,
+  "sha256_chunks": "ca0202f5f22356d1139fc8024dd30669c12994ff52cae09a8d1fe9ac103111b9",
+  "n_chunks": 220903,
+  "n_docs": 3480,
+  "n_textos_unicos": 219011,
   "limite": null,
   "campo_indexado": "texto (cabecera + cuerpo vigente)",
   "versiones": {
@@ -21,10 +21,10 @@
     "k1": 1.2,
     "b": 0.75,
     "stemmer": null,
-    "vocabulario": 93891,
+    "vocabulario": 112839,
     "stopwords": 84,
     "tokenizador": "src.indice.lexico.tokenizar (sin tildes, minúsculas, conserva números, sentencias como c355)",
-    "segundos": 54.8
+    "segundos": 69.0
   },
   "denso": {
     "modelo": "BAAI/bge-m3",
@@ -37,15 +37,15 @@
     "fp16": true,
     "batch": 128,
     "max_tokens": 512,
-    "n_textos_unicos": 163458,
+    "n_textos_unicos": 219011,
     "tokens": {
-      "p50": 324,
-      "p95": 462,
+      "p50": 311,
+      "p95": 451,
       "max": 3990,
-      "truncados": 5398,
-      "segundos_encoding": 583.0
+      "truncados": 5726,
+      "segundos_encoding": 751.5
     },
-    "sha256_faiss": "bb1b46ac2cfd47da9b9fd49863ca3bdf6fa8a817c2a3b0a38a608a864566105e",
-    "segundos": 665.0
+    "sha256_faiss": "54bbd4e8a549b3753ad230d076133e4aa02e5df74a0d98e5e77f3c1d4773a86b",
+    "segundos": 891.5
   }
 }
