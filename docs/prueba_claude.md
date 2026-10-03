@@ -120,6 +120,8 @@ python -m src.responder --id N --comparar data/lote/test_992/submissions.jsonl  
 * Divide una sola vez (`src.lote dividir`, reparto estratificado por formato) para que los jobs no se pisen; manda `corrida_p1..pN` y `unir_corrida` (`--dependency=afterok`, se cancela sola si una parte falla).
 * **La cola `gpu` de hypatia da como máximo 2 GPU por usuario a la vez** (`QOS gpu: gres/gpu=2`; los jobs de otros usuarios no cuentan, los `servir` propios sí). Con 3 partes y 2 GPU libres la tercera espera a que acabe una y la corrida dura ~2 veces más: con 2 GPU, `PARTES=2` (~2,7 h).
   Tiempo por parte: ≈ 19 s por pregunta (cerradas ~23 s, semiabiertas ~14 s, abiertas ~53 s) → ~1,8 h con 3 partes, ~2,7 h con 2.
+* Probado el 3 oct con 6 preguntas de `sample_50` (2 por formato) y `PARTES=3`, con el índice enriquecido: las 3 partes y la unión terminaron bien (6/6 líneas válidas, 0 abstenciones); como había un `servir` ocupando una GPU,
+  las partes corrieron una tras otra (cada job tarda ~3,5 min solo en cargar los modelos). Con `servir` activo, la corrida real de 992 con 1 GPU libre no llega a las 15:00.
 * Si una parte se cae o se acaba el tiempo, relanzar solo esa (`sbatch --job-name=corrida_pN jobs/corrida.sh N`): sigue desde el checkpoint. La unión manual está al final de la salida del lanzador.
 * Los `servir` de la verificación en vivo del clon `Congelacion` usan el índice congelado del corpus 1, no el enriquecido: si se entrega el índice enriquecido hay que servir con él (`config/responder.json` de este clon).
 
