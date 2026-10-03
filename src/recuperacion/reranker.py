@@ -31,14 +31,33 @@ class Reranker:
         self.commit = getattr(self.model.config, "_commit_hash", None) or revision
         log.info("reranker %s@%s en %s", modelo, (self.commit or "-")[:8], self.device)
 
+    def recortar_consulta(self, consulta: str) -> str:
+        """Consulta que cabe en la ventana: los primeros 96 y los últimos 160 tokens (el final de un caso suele traer las
+        preguntas). Solo se usa cuando la consulta, por sí sola, no deja espacio al pasaje."""
+        ids = self.tok(consulta, add_special_tokens=False)["input_ids"]
+        return self.tok.decode(ids[:96] + ids[-160:])
+
     def puntuar(self, consulta: str, textos: list[str]) -> list[float]:
-        """Un puntaje por texto, en el mismo orden (mayor = más relevante)."""
+        """Un puntaje por texto, en el mismo orden (mayor = más relevante).
+
+        Con `truncation="only_second"` solo se recorta el pasaje: si la consulta misma pasa de la ventana el tokenizador
+        falla («Sequence to truncate too short») y, sin este respaldo, la pregunta se abstenía. Entonces (y solo entonces)
+        se recorta la consulta; las demás consultas se puntúan exactamente igual que antes."""
         torch = self.torch
         salida: list[float] = []
         with torch.inference_mode():
             for ini in range(0, len(textos), self.lote):
                 trozo = textos[ini:ini + self.lote]
-                enc = self.tok([consulta] * len(trozo), trozo, padding=True, truncation="only_second",
-                               max_length=self.max_tokens, return_tensors="pt").to(self.device)
+                try:
+                    enc = self.tok([consulta] * len(trozo), trozo, padding=True, truncation="only_second",
+                                   max_length=self.max_tokens, return_tensors="pt")
+                except Exception as e:
+                    if "runcation" not in str(e):
+                        raise
+                    log.warning("consulta de %d caracteres no cabe en la ventana del reranker: se recorta", len(consulta))
+                    consulta = self.recortar_consulta(consulta)
+                    enc = self.tok([consulta] * len(trozo), trozo, padding=True, truncation="only_second",
+                                   max_length=self.max_tokens, return_tensors="pt")
+                enc = enc.to(self.device)
                 salida += self.model(**enc).logits.view(-1).float().cpu().tolist()
         return salida
