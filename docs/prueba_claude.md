@@ -77,7 +77,7 @@ Con permiso expreso de Samuel se corrió RAGAS (juez `z-ai/glm-5.3-flash`, **3 c
 ## 5. Cómo correrlo el sábado
 
 La configuración adoptada ya está en `config/responder.json` (`modelo qwen3-8b`, `indice data/index_base`, `estrategia razonada`). Cada máquina necesita
-`data/index_base/` (374 MB) y `data/processed_base/chunks.parquet` (155 MB) además de lo de siempre; en hypatia ya están en `~/hackatron/prueba_claude/data/`.
+`data/index_base/` y `data/processed_base/chunks.parquet` además de lo de siempre; en hypatia están en `~/hackatron/prueba_claude/data/`.
 Para llevarlos a otra máquina sin usar el token de Hugging Face:
 
 ```bash
@@ -85,13 +85,43 @@ tar czf indice_base.tar.gz data/index_base data/processed_base/chunks.parquet
 scp indice_base.tar.gz <usuario>@<maquina>:<repo>/ && ssh <usuario>@<maquina> "cd <repo> && tar xzf indice_base.tar.gz"
 ```
 
-Luego igual que antes (`jobs/corrida.sh` ahora valida el índice de `config/responder.json`):
+### 5.1 Corpus enriquecido con las normas que nombran las 992 preguntas (sábado 3 oct)
+
+`jobs/enriquecer_corpus.sh data/test_992.jsonl` (otro clon, rama `corpus3.0`) extrajo de los enunciados las normas nombradas: 404 preguntas con mención normativa,
+142 normas distintas, 99 ya en el corpus, 41 por descargar y 2 a buscar a mano (`data/enriquecimiento/test_992/`). Luego, en `~/hackatron/prueba_claude`:
+
+| Paso | Job | Resultado |
+|---|---|---|
+| Scraper con `fuentes.json` | `jobs/descargar_fuentes.sh` (nuevo; reanudable; usa `src.descarga.run --solo <ids del json>`) | 34 sentencias de la Corte Constitucional; las 7 leyes y decretos (Senado) dieron 404 |
+| Scraper con `fuentes_alternativas.json` | `jobs/descargar_fuentes.sh data/enriquecimiento/test_992/fuentes_alternativas.json` | 4 de las 7 desde gestores normativos públicos (CRA y Colpensiones): `ley_54_1990`, `ley_29_1982`, `ley_45_1990`, `decreto_2663_1950` |
+| Chunking del corpus base | `CORPUS=base sbatch jobs/chunking.sh` → `data/processed_base/` | 509 documentos y 62.824 chunks (antes 467 y 57.346: las normas nuevas llevan `origen: preguntas_test_992`, que no se excluye) |
+| Índice del corpus base | `CORPUS=base sbatch jobs/indice.sh` → `data/index_base/` | ver `experimentos/claude/corpus_enriquecido/RESUMEN.md` |
+
+Manifest: 3.523 documentos `ok` (eran 3.485 antes del enriquecimiento). **Siguen sin descargar**: `ley_2568_2021`, `decreto_3030_2022` y `decreto_4302_2008` (404 en el Senado y sin copia encontrada; 1 pregunta cada una),
+y a mano: Resolución 368 de 2014 del Ministerio de Ambiente (23 preguntas, ids 721–752, pero preguntan teoría general del acto administrativo, no el contenido de la resolución) y Sentencia SL-3871 de 2021 (Corte Suprema, 1 pregunta).
+El índice anterior quedó como respaldo en `data/index_base_prev/` y `data/processed_base_prev/`.
+
+Los datos pesados (`data/md`, `data/raw`, los índices) no van a git: las copias están en `~/hackatron/prueba_claude/data/` y el clon `Oliv-IA2/Oliv-IA` no se modificó (el clon de trabajo tiene copias propias de `md` y `raw`).
+
+### 5.2 Corrida
+
+`jobs/corrida.sh` corre UNA parte y valida el índice y los chunks de `config/responder.json`; `jobs/lanzar_corrida.sh` lanza todas las partes en paralelo:
 
 ```bash
-cp <archivo recibido> data/test_992.jsonl          # el MISMO archivo en las 3 máquinas
-sbatch jobs/corrida.sh 1                           # hypatia; 2 en la otra; bash jobs/corrida.sh 3 en el PC con GPU
-python -m src.responder --id N --comparar submissions.jsonl     # verificación en vivo
+mkdir -p logs                                          # una sola vez
+cp <archivo recibido> data/test_992.jsonl              # el MISMO archivo en todas las máquinas
+bash jobs/lanzar_corrida.sh                            # 3 partes en paralelo + un job que las une (data/lote/test_992/submissions.jsonl)
+PARTES=2 bash jobs/lanzar_corrida.sh                   # 2 partes (si solo hay 2 GPU libres)
+ESPERAR=<id del job de indice> bash jobs/lanzar_corrida.sh   # las partes arrancan al terminar el índice
+bash jobs/corrida.sh 3                                 # una parte en otro computador con GPU (sin Slurm)
+python -m src.responder --id N --comparar data/lote/test_992/submissions.jsonl     # verificación en vivo
 ```
+
+* Divide una sola vez (`src.lote dividir`, reparto estratificado por formato) para que los jobs no se pisen; manda `corrida_p1..pN` y `unir_corrida` (`--dependency=afterok`, se cancela sola si una parte falla).
+* **La cola `gpu` de hypatia da como máximo 2 GPU por usuario a la vez** (`QOS gpu: gres/gpu=2`; los jobs de otros usuarios no cuentan, los `servir` propios sí). Con 3 partes y 2 GPU libres la tercera espera a que acabe una y la corrida dura ~2 veces más: con 2 GPU, `PARTES=2` (~2,7 h).
+  Tiempo por parte: ≈ 19 s por pregunta (cerradas ~23 s, semiabiertas ~14 s, abiertas ~53 s) → ~1,8 h con 3 partes, ~2,7 h con 2.
+* Si una parte se cae o se acaba el tiempo, relanzar solo esa (`sbatch --job-name=corrida_pN jobs/corrida.sh N`): sigue desde el checkpoint. La unión manual está al final de la salida del lanzador.
+* Los `servir` de la verificación en vivo del clon `Congelacion` usan el índice congelado del corpus 1, no el enriquecido: si se entrega el índice enriquecido hay que servir con él (`config/responder.json` de este clon).
 
 Para volver a la estrategia anterior sin tocar código: `OLIVIA_ESTRATEGIA=actual OLIVIA_INDICE=data/index`.
 

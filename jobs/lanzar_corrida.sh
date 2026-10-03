@@ -62,14 +62,24 @@ if [[ -n "$LIM" ]] && (( USO + PARTES > LIM )); then
 fi
 
 echo "== 2/4 dividiendo $PREGUNTAS en $PARTES partes"
-PYTHONPATH=. "$PY" -m src.lote dividir --preguntas "$PREGUNTAS" --partes "$PARTES" --dir "$LOTE" || exit $?
+FORZAR=()
+if [[ -s "$LOTE/division.json" ]]; then       # otra división previa (p. ej. con otro número de partes)
+    PREV="$(PYTHONPATH=. "$PY" -c "import json,sys; print(json.load(open(sys.argv[1]))['partes'])" "$LOTE/division.json")"
+    if [[ "$PREV" != "$PARTES" ]]; then
+        if compgen -G "$LOTE/sub_*.jsonl" >/dev/null; then
+            echo "ERROR: $LOTE ya tiene avance dividido en $PREV partes; seguir con PARTES=$PREV o mover $LOTE" >&2; exit 2
+        fi
+        echo "la división previa era de $PREV partes y no hay avance: se rehace"; FORZAR=(--forzar)
+    fi
+fi
+PYTHONPATH=. "$PY" -m src.lote dividir --preguntas "$PREGUNTAS" --partes "$PARTES" --dir "$LOTE" ${FORZAR[@]+"${FORZAR[@]}"} || exit $?
 
 echo "== 3/4 mandando las $PARTES partes"
 DEP=(); [[ -n "$ESPERAR" ]] && DEP=(--dependency="afterok:$ESPERAR")
 JOBS=()
 for n in $(seq 1 "$PARTES"); do
     # shellcheck disable=SC2086
-    J=$(sbatch --parsable ${SBATCH_EXTRA:-} --job-name="corrida_p$n" "${DEP[@]}" jobs/corrida.sh "$n" "$PREGUNTAS") \
+    J=$(sbatch --parsable ${SBATCH_EXTRA:-} --job-name="corrida_p$n" ${DEP[@]+"${DEP[@]}"} jobs/corrida.sh "$n" "$PREGUNTAS") \
         || { echo "ERROR: sbatch de la parte $n falló; las partes ya enviadas siguen en cola (scancel ${JOBS[*]:-})" >&2; exit 3; }
     JOBS+=("$J"); echo "  parte $n -> job $J"
 done
