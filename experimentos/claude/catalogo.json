@@ -17,6 +17,24 @@
   "decision": "adoptar",
   "razon": "base y base_repite idénticos al decimal (determinismo); 10 pasajes = lo que ya cabía."
  },
+ "letras_3": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (solo logits)",
+  "contexto": "base / mixto / solo_opciones",
+  "variante": "mixto",
+  "hipotesis": "Promediar logits sobre dos contextos (base y completo) o usar solo los pasajes por opción.",
+  "decision": "descartar",
+  "razon": "mixto 11/15 con NLL menor (1,24 vs 1,77) pero exactitud por permutación 0,69 vs 0,73 y el doble de tiempo; solo_opciones 6/15 (la evidencia general importa)."
+ },
+ "letras_4": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (solo logits)",
+  "contexto": "base / base14",
+  "variante": "base14",
+  "hipotesis": "Más pasajes en el prompt (12 o 14, hasta 6.500 tokens) siguen mejorando como pasó de 3 a 10.",
+  "decision": "descartar",
+  "razon": "11/15 igual; exactitud por permutación 0,706 vs 0,726 con 10; más lento (5-6,5 s)."
+ },
  "E0_r1": {
   "modelo": "qwen3-8b",
   "estrategia": "actual",
@@ -45,6 +63,26 @@
   "hipotesis": "Pensar (<think>) antes de comprometer la letra mejora las cerradas.",
   "decision": "descartar como política por defecto",
   "razon": "9/15 igual que solo logits (9/15) y 3 veces más lento (45 s); arregla 528 pero rompe 671."
+ },
+ "E1b_r1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada",
+  "politica": "razonada (pensar) con ens como señal",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Con el corpus base, pensar (<think>, 1.200 tokens) antes de comprometer la letra supera a los logits.",
+  "decision": "descartar",
+  "razon": "razonada 9/15 (10/15 con respaldo en logits) frente a 11/15 de los logits solos; 50 s por cerrada (12 veces más); 4/15 pensamientos cortados por el presupuesto."
+ },
+ "E2_r1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada",
+  "politica": "ens (logits de 4 permutaciones + justificación generada aparte)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "La política ens con una justificación posterior de la letra ya decidida mantiene las citas y reduce el tiempo.",
+  "decision": "adoptar",
+  "razon": "11/15 (0,733) frente a 7-8/15 de la estrategia anterior; 23 s por cerrada con justificación larga (se acortó a 2 oraciones en la versión final)."
  },
  "F0_base": {
   "modelo": "qwen3-8b",
@@ -81,5 +119,59 @@
   "hipotesis": "Llama con el prompt actual.",
   "decision": "referencia",
   "razon": "proxy 0,3837: su longitud natural (88 palabras) se acerca a la esperada (77,5); explica por qué ganaba en RAGAS."
+ },
+ "F4b_base": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (plantillas v2 afinadas, sistema anterior)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Aislar el efecto del sistema libre.",
+  "decision": "descartar",
+  "razon": "proxy 0,375 < 0,388 de F4: el sistema libre aporta ~+0,013 (poco, pero consistente en semi y abiertas)."
+ },
+ "F4_base": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (plantillas v2 afinadas + sistema libre)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Corregir 'problema jurídico' sin sentencia → caso, 'existencia' sin forzar Sí/No y permitir conocimiento propio cuando ningún pasaje trata el punto.",
+  "decision": "adoptar",
+  "razon": "proxy 0,388: el mejor, con un solo decodificador (qwen3-8b); +0,040 sobre la línea base de texto libre (0,348)."
+ },
+ "antes_completo": {
+  "modelo": "qwen3-8b",
+  "estrategia": "actual",
+  "contexto": "actual",
+  "indice": "data/index",
+  "hipotesis": "Estado de main (estrategia anterior, índice completo) en el mismo arnés, con determinismo corregido.",
+  "decision": "línea base",
+  "razon": "8/15, citas 0,796, total automático 34,0: reproduce los números del HANDOVER_3."
+ },
+ "antes_base": {
+  "modelo": "qwen3-8b",
+  "estrategia": "actual",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Estrategia anterior sobre el corpus base, mismo arnés.",
+  "decision": "línea base",
+  "razon": "7/15: el corpus base ayuda a las citas (0,857) pero no a la estrategia de un JSON por pregunta."
+ },
+ "final_1": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (ens en cerradas + plantillas por sub-tarea)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Configuración adoptada, camino real src.lote.",
+  "decision": "adoptar",
+  "razon": "11/15, citas 0,857, abstención 0,86, total automático 40,4/50, proxy 0,388, 18 s por pregunta; verificación en vivo idéntica."
+ },
+ "final_2": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (ens en cerradas + plantillas por sub-tarea)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Repetición independiente de final_1 con el código final.",
+  "decision": "adoptar",
+  "razon": "idéntica a final_1 línea por línea (salvo latencias) y 25/25 ítems idénticos entre Responder (en vivo) y lote."
  }
 }

@@ -1,0 +1,108 @@
+# Rama `prueba-claude`: rediseño de cómo se generan las respuestas
+
+Trabajo de la noche del 2 al 3 de octubre de 2026. Todo vive en la rama `prueba-claude` (commits locales, sin `git push`) y se corrió en
+`~/hackatron/prueba_claude` de hypatia (clon con enlaces de solo lectura a `data/md`, `data/raw`, `data/index` y los entornos; el repo original
+`~/hackatron/Oliv-IA2/Oliv-IA` no se tocó). Cada experimento está en `experimentos/claude/<etiqueta>/` y resumido en
+[`experimentos/claude/REGISTRO.md`](../experimentos/claude/REGISTRO.md).
+
+## 1. Qué se encontró (diagnóstico)
+
+| # | Hallazgo | Evidencia |
+|---|---|---|
+| 1 | El decoder nunca razonaba: la gramática JSON obligaba a abrir con `{`, así que Qwen3 no abría su `<think>`, y la "razón por opción" iba después del veredicto. | `src/generacion/motor.py` (versión anterior) |
+| 2 | La instrucción de sistema pedía "responde solo JSON" también cuando se quería una letra y la evidencia estaba diluida en un corpus 3,8 veces más grande. | letras_1: 9/15 → 11/15 solo con corpus base + sistema sin JSON |
+| 3 | **El no determinismo de las corridas anteriores (mismo config: 0,47–0,67 en cerradas) venía de reutilizar el prefijo de KV entre ítems**: el mismo ítem se calculaba con otra forma de lote según lo que se hubiera respondido antes. Con `reset()` por ítem el resultado es idéntico entre corridas. | `base` y `base_repite` (letras_2) idénticos al decimal; lote vs `Responder` idénticos (final_*/determinismo.json) |
+| 4 | La mejor corrida histórica (corpus 1) ganaba porque el corpus 2 añade ~3.000 documentos de rondas de proximidad y DIAN que son distractores en la muestra. | cuerpo@10 0,9625 vs 0,8875; hit_doc@10 0,90 vs 0,80 |
+| 5 | En texto libre la longitud y la forma no dependían de la sub-tarea (`sample_50` la trae y el código no la usaba). | `src/generacion/subtarea.py` |
+
+## 2. Arquitectura nueva (detrás de `estrategia: razonada` en `config/responder.json`; `actual` sigue disponible)
+
+```
+pregunta ─► Recuperador (índice base, sin cambios de código) ─► pasajes (10)
+            ├─ cerradas ─► logits de la letra (4 rotaciones de las opciones, "Respuesta:" como ancla) ─► letra
+            │              └► justificación breve de ESA letra (JSON con gramática) ─► citas verificadas (fase 8)
+            ├─ semiabiertas ─► sub-tarea (dada o inferida) ─► plantilla de forma y longitud ─► JSON ─► fase 8
+            │                  └ "reproducción literal": el texto del artículo se copia del pasaje (sin generar)
+            └─ abiertas ─► prompt v2 (conclusión primero, sin relleno) ─► JSON ─► fase 8
+```
+
+* **Corpus base** (`data/index_base`, 467 documentos, 57.346 chunks): el corpus 1 reconstruido con
+  `src.procesamiento.build --excluir-origen ronda_01 ronda_02 ronda_03 ronda_04` y `src.indice.build` (el índice completo `data/index` no se tocó).
+  Lista de documentos: `experimentos/claude/corpus_base_docs.txt`; manifiesto filtrado: `corpus_base_manifest.json`; configuración del índice: `index_base_config.json`.
+* **Cerradas**: `src/generacion/cerradas_razonar.py` (política `ens`). Sin razonamiento libre: ver §4. Costo ≈ 4 s (logits) + ≈ 15 s (justificación).
+* **Texto libre**: `src/generacion/subtarea.py` (router + plantillas + extracción literal) y `SISTEMA_LIBRE` en `src/generacion/prompts.py`.
+* **Determinismo**: `Motor.reiniciar()` antes de cada ítem; los tiempos NO van a la entrega.
+* **Motor**: `Motor.pensar`, `Motor.probabilidades_letras`, `Motor.chatml` (solo Qwen; con otro decoder la estrategia razonada cae al camino actual).
+
+## 3. Resultados sobre `sample_50` (evaluador oficial sin RAGAS; ver REGISTRO.md)
+
+| | Cerradas | Citas (índice) | Abstención | **Automático /50** | Proxy texto libre | s/pregunta (mezcla del test) |
+|---|---|---|---|---|---|---|
+| Estado de `main` esta noche (`antes_completo`: estrategia anterior, índice completo) | 8/15 (0,533) | 0,7959 | 0,7442 | 34,03 | 0,3525 | 24,6 |
+| Estrategia anterior sobre el corpus base (`antes_base`) | 7/15 (0,467) | 0,8571 | 0,7674 | 34,14 | 0,3500 | 24,3 |
+| **Esta configuración (`final_2`)** | **11/15 (0,733)** | **0,8571** | **0,8605** | **40,41** | **0,3879** | **18,0** |
+| Referencia: mejor corrida histórica (corpus 1, HANDOVER_3 §6) | 10/15 | 0,8367 | 0,8372 | 38,43 | — | ≈ 25 |
+
+* Cerradas +4 ítems sobre `antes_base` con el MISMO corpus: la ganancia viene de la forma de decidir la letra, no solo del corpus.
+* Citas (+0,06) y abstención calibrada vienen del corpus base; el proxy de texto libre (+0,035) de las plantillas por sub-tarea.
+* Dos corridas completas independientes (`final_1`, `final_2`) dan las mismas 50 líneas; 25/25 ítems regenerados con `Responder` (en vivo) coinciden con el lote.
+* Detalle por experimento: `experimentos/claude/REGISTRO.md`; resumen de la configuración adoptada: `experimentos/claude/final_2/RESUMEN.md`.
+
+## 4. Lo que se probó y se descartó (con razón)
+
+* **Pensar antes de responder** (`<think>`, 1.200 tokens): 9/15 sobre el corpus actual y 9/15 (10/15 con respaldo en logits) sobre el base, frente a 11/15 de los logits solos;
+  3–12 veces más lento (45–50 s por cerrada) y 4 de 15 razonamientos se cortan por el presupuesto. Arregla el ítem 528 (aritmética de cuantía) y rompe el 671.
+* **Evidencia sola** (letra de la opción cuyos pasajes puntúan más en el reranker): 4/15, es el azar.
+* **Promediar dos contextos** (base y completo): misma exactitud con NLL menor, el doble de tiempo.
+* **Menos pasajes (3, 5, 6) o solo los de cada opción**: peor (9–10/15 y 6/15); **más pasajes (12, 14)**: igual o algo peor que 10.
+* **Llama-3.1-8b para texto libre**: el proxy empata con qwen (0,376 vs 0,378 con las mismas plantillas) y usar dos decodificadores arriesga la regla de ≤ 8.000 M parámetros: se mantiene qwen3-8b para todo.
+
+## 5. Cómo correrlo el sábado
+
+La configuración adoptada ya está en `config/responder.json` (`modelo qwen3-8b`, `indice data/index_base`, `estrategia razonada`). Cada máquina necesita
+`data/index_base/` (374 MB) y `data/processed_base/chunks.parquet` (155 MB) además de lo de siempre; en hypatia ya están en `~/hackatron/prueba_claude/data/`.
+Para llevarlos a otra máquina sin usar el token de Hugging Face:
+
+```bash
+tar czf indice_base.tar.gz data/index_base data/processed_base/chunks.parquet
+scp indice_base.tar.gz <usuario>@<maquina>:<repo>/ && ssh <usuario>@<maquina> "cd <repo> && tar xzf indice_base.tar.gz"
+```
+
+Luego igual que antes (`jobs/corrida.sh` ahora valida el índice de `config/responder.json`):
+
+```bash
+cp <archivo recibido> data/test_992.jsonl          # el MISMO archivo en las 3 máquinas
+sbatch jobs/corrida.sh 1                           # hypatia; 2 en la otra; bash jobs/corrida.sh 3 en el PC con GPU
+python -m src.responder --id N --comparar submissions.jsonl     # verificación en vivo
+```
+
+Para volver a la estrategia anterior sin tocar código: `OLIVIA_ESTRATEGIA=actual OLIVIA_INDICE=data/index`.
+
+## 6. Limitaciones (dichas con claridad)
+
+* Son **15 cerradas** y 35 de texto libre: 1 ítem = 0,067 en cerradas. 11/15 contra 9–10/15 de antes es una mejora real en dirección (la medimos también por permutación: 0,73 vs 0,61) pero no concluyente.
+  El umbral de 0,905 exigiría 14/15; con los ítems 128, 308, 528 y 647 fallando (conocimiento y lectura, y uno mal formado) **no se alcanzó**.
+* **RAGAS no se corrió**: la regla acordada era hacerlo (máximo 3 veces) solo con cerradas ≥ 0,905. La corrección de texto libre se midió con un **proxy local** (`src/analisis/proxy_texto.py`: 0,25·coseno e5-large + 0,75·F1 léxico) que
+  ordena igual que los RAGAS ya medidos (llama > qwen), pero **no es el juez**.
+* El corpus base cubre ~96 % del banco según `seed_targets`; el ~4 % restante (normas fuera del corpus 1) pierde la cobertura que daba el corpus 2. La muestra no tiene ítems fuera del corpus 1, así que no se puede medir.
+* Tres pruebas preexistentes fallan igual en `main` (`test_corpus_manifest` ×2, `test_recuperacion::test_tope_por_norma...`); no son de esta rama.
+* La corrida del sábado y la verificación en vivo deben hacerse en la misma máquina/GPU que generó cada parte.
+
+## 7. Seguridad
+
+Ni `.env`, ni `HF_TOKEN`, ni la contraseña de hypatia se usaron ni se enviaron a ningún servidor: los jobs hacen `unset HF_TOKEN`, los GGUF y modelos públicos se bajan sin token (ya estaban en la caché) y el acceso a hypatia fue por una llave SSH
+creada para esto (`~/.ssh/id_ed25519_hypatia`, sin passphrase; conviene borrarla de `authorized_keys` al terminar).
+
+## 8. Reproducir los experimentos
+
+```bash
+# en una asignación de GPU (srun --jobid=<ID> --overlap bash -l -c "cd ~/hackatron/prueba_claude && ...")
+bash jobs/exp_claude.sh corpus_base                       # índice base
+bash jobs/exp_claude.sh recuperar base data/index_base    # tabla de recuperación (cuerpo@10, ...)
+bash jobs/exp_claude.sh contexto base
+python -m src.generacion.exp_letras --contextos base=data/exp/contexto_base.json --salida experimentos/claude/letras_X/metricas.json
+bash jobs/exp_claude.sh bench <etiqueta> qwen3-8b razonada base multiple_choice
+bash jobs/exp_claude.sh lote <nombre>                     # camino real (src.lote) con config/responder.json
+bash jobs/exp_claude.sh determinismo <nombre> --ids 51 79 ...
+python -m src.analisis.registro_claude                    # REGISTRO.md
+```
