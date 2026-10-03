@@ -36,7 +36,10 @@
 
   header{
     background:var(--navy);
-    background-image: linear-gradient(120deg, var(--navy) 0%, var(--navy-dark) 100%);
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(255,255,255,0.09) 1px, transparent 0),
+      linear-gradient(120deg, var(--navy) 0%, var(--navy-dark) 100%);
+    background-size: 16px 16px, auto;
     color:var(--white);
     padding:14px 28px;
     display:flex;
@@ -50,6 +53,7 @@
     width:38px;
     height:38px;
     flex-shrink:0;
+    filter: drop-shadow(0 2px 3px rgba(0,0,0,0.35));
   }
 
   header h1{
@@ -75,9 +79,29 @@
     line-height:1.4;
     font-family:'Montserrat', sans-serif;
   }
-  header .brand-tag strong{
-    color:var(--teal);
+
+  .sponsor-bar{
+    background:var(--white);
+    border-bottom:1px solid var(--gray-border);
+    padding:10px 28px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    flex-shrink:0;
+    box-shadow:0 1px 4px rgba(11,31,58,0.06);
+  }
+  .sponsor-bar .sponsor-label{
+    font-family:'Montserrat', sans-serif;
+    font-size:11px;
     font-weight:700;
+    letter-spacing:0.6px;
+    text-transform:uppercase;
+    color:var(--text-muted);
+  }
+  .sponsor-bar .sponsor-logo{
+    height:34px;
+    display:block;
   }
 
   main{
@@ -276,51 +300,118 @@
   .fuente-meta{ color:var(--text-muted); font-size:11px; }
   .fuente-texto{ margin:6px 0 0; line-height:1.45; white-space:pre-wrap; }
   .fuente details summary{ cursor:pointer; color:var(--teal-dark); font-size:11.5px; margin-top:6px; }
+
+  /* --- Tipo de pregunta (cerrada, semiabierta, abierta) y opciones de la cerrada --- */
+  .composer{ border-top:1px solid var(--gray-border); background:var(--white); }
+  .composer .input-bar{ border-top:none; }
+  .tipo-bar{
+    display:flex; flex-wrap:wrap; align-items:center; gap:8px;
+    padding:12px 18px 0;
+    font-size:12.5px;
+  }
+  .tipo-bar .tipo-label{
+    font-family:'Montserrat', sans-serif; font-weight:600; color:var(--navy); margin-right:4px;
+  }
+  .tipo{
+    border:1px solid var(--gray-border); background:var(--white); color:var(--text-dark);
+    border-radius:999px; padding:5px 12px; cursor:pointer;
+    font-family:'Montserrat', sans-serif; font-size:12px; font-weight:500;
+  }
+  .tipo:hover{ border-color:var(--teal); }
+  .tipo[aria-pressed="true"]{ background:var(--navy); border-color:var(--navy); color:#fff; }
+  .tipo-ayuda{ color:var(--text-muted); font-size:11.5px; flex-basis:100%; }
+  .opciones{
+    display:none; grid-template-columns:1fr 1fr; gap:8px;
+    padding:10px 18px 0;
+  }
+  .opciones.visible{ display:grid; }
+  .opcion{ display:flex; align-items:center; gap:6px; }
+  .opcion span{
+    font-family:'Montserrat', sans-serif; font-weight:700; color:var(--teal-dark);
+    width:16px; flex-shrink:0;
+  }
+  .opcion input{
+    flex:1; min-width:0; border:1px solid var(--gray-border); border-radius:8px;
+    padding:7px 10px; font-family:'Roboto', sans-serif; font-size:13.5px; outline:none;
+  }
+  .opcion input:focus{ border-color:var(--teal); box-shadow:0 0 0 3px rgba(23,170,182,0.12); }
+  .msg-formato{
+    display:inline-block; margin-left:6px; padding:1px 7px; border-radius:999px;
+    background:#e8f7f8; color:var(--teal-dark); font-size:10px; letter-spacing:0.3px;
+  }
+  @media (max-width:600px){
+    .opciones{ grid-template-columns:1fr; }
+    .msg{ max-width:95%; }
+  }
 </style>
 </head>
 <body>
 
 <header>
   <svg class="logo-hex" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <polygon points="50,3 93,26 93,74 50,97 7,74 7,26" fill="none" stroke="#f5a623" stroke-width="6"/>
-    <polygon points="50,20 78,35 78,65 50,80 22,65 22,35" fill="none" stroke="#17aab6" stroke-width="6"/>
+    <polygon points="7,26 50,3 93,26 71.5,38 50,26.5 28.5,38" fill="#ffcf7a"/>
+    <polygon points="93,26 93,74 50,97 50,73.5 71.5,62 71.5,38" fill="#f5a623"/>
+    <polygon points="50,97 7,74 7,26 28.5,38 28.5,62 50,73.5" fill="#c97d0d"/>
+    <polygon points="7,26 50,3 93,26 93,74 50,97 7,74" fill="none" stroke="#8a5400" stroke-width="2"/>
   </svg>
   <div>
     <h1>Oliv-IA</h1>
     <div class="subtitle">Asistente jurídico · Derecho colombiano</div>
   </div>
-  <div class="brand-tag">Hackathon 2026<br><strong>Software Colombia</strong></div>
+  <div class="brand-tag">Hackathon 2026</div>
 </header>
+
+<div class="sponsor-bar">
+  <span class="sponsor-label">Patrocinador oficial</span>
+  <img class="sponsor-logo" src="data:image/png;base64,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" alt="Software Colombia">
+</div>
 
 <main>
   <div class="chat-container">
     <div class="chat-log" id="chat-log">
       <div class="empty-state" id="empty-state">
         <svg class="logo-hex" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-          <polygon points="50,3 93,26 93,74 50,97 7,74 7,26" fill="none" stroke="#f5a623" stroke-width="6"/>
-          <polygon points="50,20 78,35 78,65 50,80 22,65 22,35" fill="none" stroke="#17aab6" stroke-width="6"/>
+          <polygon points="7,26 50,3 93,26 71.5,38 50,26.5 28.5,38" fill="#ffcf7a"/>
+          <polygon points="93,26 93,74 50,97 50,73.5 71.5,62 71.5,38" fill="#f5a623"/>
+          <polygon points="50,97 7,74 7,26 28.5,38 28.5,62 50,73.5" fill="#c97d0d"/>
+          <polygon points="7,26 50,3 93,26 93,74 50,97 7,74" fill="none" stroke="#8a5400" stroke-width="2"/>
         </svg>
         <h2>Haz una pregunta jurídica</h2>
-        <p>Escribe tu consulta sobre derecho colombiano y Oliv-IA te responderá con el respaldo del sistema.</p>
+        <p>Escribe tu consulta sobre derecho colombiano y elige si es cerrada, semiabierta o abierta. Oliv-IA responde con las normas citadas y los pasajes del corpus que la respaldan.</p>
       </div>
     </div>
 
-    <div class="input-bar">
-      <textarea id="question" rows="1" placeholder="Escribe tu pregunta jurídica..."></textarea>
-      <button id="send-btn">Enviar</button>
+    <div class="composer">
+      <div class="tipo-bar" role="group" aria-label="Tipo de pregunta">
+        <span class="tipo-label">Tipo de pregunta:</span>
+        <button type="button" class="tipo" data-formato="" aria-pressed="true">Automático</button>
+        <button type="button" class="tipo" data-formato="multiple_choice" aria-pressed="false">Cerrada</button>
+        <button type="button" class="tipo" data-formato="semi_open" aria-pressed="false">Semiabierta</button>
+        <button type="button" class="tipo" data-formato="open_ended" aria-pressed="false">Abierta</button>
+        <span class="tipo-ayuda" id="tipo-ayuda"></span>
+      </div>
+      <div class="opciones" id="opciones">
+        <label class="opcion"><span>A</span><input id="op-A" placeholder="Opción A"></label>
+        <label class="opcion"><span>B</span><input id="op-B" placeholder="Opción B"></label>
+        <label class="opcion"><span>C</span><input id="op-C" placeholder="Opción C"></label>
+        <label class="opcion"><span>D</span><input id="op-D" placeholder="Opción D (opcional)"></label>
+      </div>
+      <div class="input-bar">
+        <textarea id="question" rows="1" placeholder="Escribe tu pregunta jurídica..."></textarea>
+        <button id="send-btn">Enviar</button>
+      </div>
     </div>
   </div>
 </main>
 
 <footer>
-  Prototipo de interfaz · <strong>Oliv-IA</strong> — inspirado en la identidad visual de Software Colombia
+  Prototipo de interfaz · <strong>Oliv-IA</strong>
 </footer>
 
 <script>
-  // --- Configuración de conexión al modelo -------------------------------
-  // Reemplazar por el endpoint real del backend/modelo cuando esté listo.
-  // Debe aceptar POST { pregunta: string } y responder JSON o texto plano
-  // con la respuesta del modelo.
+  // --- Conexión al modelo (src/api.py, servido por jobs/servir.sh) --------
+  // POST { pregunta, formato?, opciones? } -> { respuesta, formato, abstencion,
+  // normas_citadas, pasajes, latencia_ms }.
   const MODEL_ENDPOINT = "/api/consulta";
 
   const chatLog = document.getElementById('chat-log');
@@ -416,15 +507,60 @@
     scrollToBottom();
   }
 
-  async function askModel(pregunta){
+  // --- Tipo de pregunta -------------------------------------------------
+  // "" = automático: el backend deduce el formato (con opciones A) B) C) en el texto es cerrada,
+  // un caso de más de ~120 palabras es abierta y el resto semiabierta).
+  const NOMBRES_FORMATO = { multiple_choice: 'Cerrada', semi_open: 'Semiabierta', open_ended: 'Abierta' };
+  const AYUDAS = {
+    '': 'El sistema deduce el tipo. Para una cerrada, escribe las opciones como A) … B) … C) … D) … o elige "Cerrada".',
+    multiple_choice: 'Escribe el enunciado y llena las opciones (o pégalas en el texto como A) … B) … C) …).',
+    semi_open: 'Respuesta breve (3 a 5 oraciones) con palabras clave y referencia legal.',
+    open_ended: 'Caso con análisis completo: marco normativo, análisis, jurisprudencia y conclusión.'
+  };
+  const tipoBtns = Array.from(document.querySelectorAll('.tipo'));
+  const opcionesBox = document.getElementById('opciones');
+  const tipoAyuda = document.getElementById('tipo-ayuda');
+  const opInputs = ['A', 'B', 'C', 'D'].map(l => [l, document.getElementById('op-' + l)]);
+  let formatoElegido = '';
+
+  function elegirFormato(f){
+    formatoElegido = f;
+    tipoBtns.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.formato === f)));
+    opcionesBox.classList.toggle('visible', f === 'multiple_choice');
+    tipoAyuda.textContent = AYUDAS[f];
+  }
+  tipoBtns.forEach(b => b.addEventListener('click', () => elegirFormato(b.dataset.formato)));
+  elegirFormato('');
+
+  function opcionesEscritas(){
+    const ops = {};
+    opInputs.forEach(([l, inp]) => { if (inp.value.trim()) ops[l] = inp.value.trim(); });
+    return ops;
+  }
+
+  async function askModel(pregunta, formato, opciones){
+    const cuerpo = { pregunta };
+    if (formato) cuerpo.formato = formato;
+    if (opciones && Object.keys(opciones).length) cuerpo.opciones = opciones;
     const response = await fetch(MODEL_ENDPOINT, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ pregunta })
+      body: JSON.stringify(cuerpo)
     });
 
     if (!response.ok) {
-      throw new Error(`El servidor respondió con estado ${response.status}`);
+      let detalle = '';
+      try {
+        const err = await response.json();
+        detalle = typeof err.detail === 'string' ? err.detail
+          : Array.isArray(err.detail) ? err.detail.map(d => d.msg).join('; ') : '';
+      } catch (_) { /* sin cuerpo JSON */ }
+      if (response.status === 503) detalle = detalle || 'el servidor todavía está cargando los modelos';
+      const error = new Error(response.status === 422 && detalle ? detalle
+        : detalle ? `${detalle} (estado ${response.status})`
+        : `El servidor respondió con estado ${response.status}`);
+      error.entrada = response.status === 422;
+      throw error;
     }
 
     const contentType = response.headers.get('content-type') || '';
@@ -442,22 +578,41 @@
     const pregunta = questionInput.value.trim();
     if (!pregunta) return;
 
-    addMessage(pregunta, 'user');
+    const formato = formatoElegido;
+    const opciones = formato === 'multiple_choice' ? opcionesEscritas() : {};
+    // Cerrada sin opciones en los campos: el backend las busca en el texto (A) … B) … C) …).
+    let mostrado = pregunta;
+    if (Object.keys(opciones).length) {
+      mostrado += '\n\n' + Object.entries(opciones).map(([l, t]) => `${l}) ${t}`).join('\n');
+    }
+    const userMsg = addMessage(mostrado, 'user');
+    if (formato) {
+      userMsg.querySelector('.msg-label').appendChild(el('span', 'msg-formato', NOMBRES_FORMATO[formato]));
+    }
     questionInput.value = '';
     questionInput.style.height = 'auto';
+    opInputs.forEach(([, inp]) => { inp.value = ''; });
     sendBtn.disabled = true;
 
     const pendingMsg = addPendingMessage();
 
     try {
-      const { texto, data } = await askModel(pregunta);
+      const { texto, data } = await askModel(pregunta, formato, opciones);
       pendingMsg.remove();
       const msgEl = addMessage(texto, 'bot');
+      if (data && NOMBRES_FORMATO[data.formato]) {
+        const etiqueta = NOMBRES_FORMATO[data.formato] +
+          (typeof data.latencia_ms === 'number' ? ` · ${(data.latencia_ms / 1000).toFixed(1)} s` : '');
+        msgEl.querySelector('.msg-label').appendChild(el('span', 'msg-formato', etiqueta));
+      }
       addSources(msgEl, data);
     } catch (err) {
       pendingMsg.remove();
+      // 422 = la consulta está incompleta (p. ej. cerrada sin opciones): se dice qué falta.
       addMessage(
-        `No fue posible obtener una respuesta del modelo (${err.message}). Verifica que el backend esté disponible en ${MODEL_ENDPOINT}.`,
+        err.entrada
+          ? `Revisa la consulta: ${err.message}.`
+          : `No fue posible obtener una respuesta del modelo (${err.message}). Verifica que el backend esté disponible en ${MODEL_ENDPOINT}.`,
         'bot',
         'error'
       );
