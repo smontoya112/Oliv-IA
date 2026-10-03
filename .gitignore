@@ -247,3 +247,6 @@ data/exp_local/
 
 # Salidas de los jobs de Slurm (logs/<job>_<id>.out y .err): se quedan en cada máquina, no se versionan.
 logs/
+
+# Comprimido del corpus y del índice (corpus_<equipo>.zip): va a la nube, no al repositorio.
+entrega/

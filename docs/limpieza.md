@@ -28,5 +28,5 @@ Todo sigue en el historial de git. Para recuperar un archivo: `git checkout <com
 
 ## Estructura resultante
 
-Ver la tabla «Estructura del repositorio» del [README](../README.md). Lo que exige la organización y todavía falta o depende del equipo: `LICENSE`, `CORPUS.md`, `corpus_manifest.json` en la raíz,
+Ver la tabla «Estructura del repositorio» del [README](../README.md). Ya están `CORPUS.md` y `corpus_manifest.json` en la raíz y el empaquetado del corpus (`scripts/entrega_corpus.py`, `jobs/entrega_corpus.sh`). Lo que exige la organización y falta o depende del equipo: `LICENSE`,
 el enlace al comprimido del corpus y del índice, el `submissions.jsonl` de las 992 preguntas, el video y las pruebas de la interfaz.

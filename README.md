@@ -16,9 +16,15 @@ recuperada y se abstiene cuando no puede responder.
 El comprimido (`corpus_<equipo>.zip`) contiene `LICENSE`, `corpus_manifest.json`, `corpus/` con los documentos
 procesados e `indice/` con el índice serializado y los fragmentos. El corpus de generación tiene **504 documentos y
 62.824 fragmentos** (`data/index_base`); el enlace debe permanecer activo hasta el 2 de noviembre de 2026.
-Para usarlo, el índice (`faiss.index`, `bm25/`, `chunk_ids.json`, `index_config.json`; `embeddings.npy` y `citas_chunks.parquet` solo se usan para reconstruir y evaluar) va en `data/index_base/` y
-`chunks.parquet` en `data/processed_base/`; `config/responder.json` apunta a ese índice. El `sha256` de los fragmentos
-y del índice FAISS quedan en `data/index_base/index_config.json`. No se modifican después de la entrega.
+Para usarlo con este código, un solo comando deja el índice en `data/index_base/` y los fragmentos y textos en `data/processed_base/` (lo que lee `config/responder.json`) y comprueba los `sha256`
+de los fragmentos y del índice FAISS (también guardados en `indice/index_config.json`):
+
+```bash
+python scripts/entrega_corpus.py instalar --zip corpus_Oliv-IA.zip
+```
+
+El inventario de los 504 documentos (URL, fecha de consulta, artículos, fragmentos y áreas), el criterio de selección, el método de ingesta y la evolución del puntaje están en [`CORPUS.md`](CORPUS.md) y [`corpus_manifest.json`](corpus_manifest.json)
+(se generan con `scripts/entrega_corpus.py`; `data/corpus_manifest.json` es el manifiesto interno de la descarga, con todos los documentos intentados). El índice y los fragmentos no se modifican después de la entrega.
 
 ## Arquitectura
 
@@ -146,8 +152,9 @@ Para volver a la estrategia anterior sin tocar código: `OLIVIA_ESTRATEGIA=actua
 | Ruta | Contenido |
 |---|---|
 | `run.sh` | Comando único de reproducción |
+| `CORPUS.md`, `corpus_manifest.json` | Bitácora e inventario del corpus entregado |
 | `src/` | Pipeline: `descarga/` y `procesamiento/` (ingesta), `indice/`, `recuperacion/`, `generacion/`, `verificacion/`, `lote.py` (corrida por partes), `responder.py` y `api.py` (verificación en vivo), `analisis/` (métricas y experimentos) |
-| `jobs/` | Jobs de Slurm: instalación, corpus, índice, corrida (`lanzar_corrida.sh`, `corrida.sh`, `unir_corrida.sh`), interfaz |
+| `jobs/` | Jobs de Slurm: instalación, corpus, índice, corrida (`lanzar_corrida.sh`, `corrida.sh`, `unir_corrida.sh`), empaquetado del corpus (`entrega_corpus.sh`), interfaz |
 | `config/responder.json` | Decoder, índice, estrategia y ventana de contexto |
 | `scripts/`, `schema/` | Evaluador oficial (`evaluate.py`, `citations.py`, `common.py`) y esquema de la entrega (`submission.schema.json`): no se modifican |
 | `interfaz/` | Interfaz gráfica |
