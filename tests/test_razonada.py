@@ -44,8 +44,9 @@ def test_decidir_politicas():
     an["C"]["veredicto"] = "correcta"
     assert cr.decidir("razonada", OPC, an, "B", p_ens, "C")[0] == "B"
     assert cr.decidir("ens", OPC, an, "B", p_ens, "C")[0] == "C"
-    assert cr.decidir("voto", OPC, an, "B", p_ens, "C") == ("C", "voto_ens_evidencia")
-    assert cr.decidir("voto", OPC, an, "B", p_ens, "A") == ("B", "razonada")   # no coinciden
+    assert cr.decidir("voto", OPC, an, "B", p_ens, "C") == ("B", "razonada")   # P(B)=0.2 > 0.15
+    assert cr.decidir("voto", OPC, an, "B", {**p_ens, "B": 0.1, "A": 0.2}, None) == ("C", "voto_ens")
+    assert cr.decidir("voto", OPC, an, "C", p_ens, None) == ("C", "razonada")  # ya coinciden
     assert cr.decidir("resolver", OPC, an, "B", p_ens, None)[0] == "C"        # el veredicto manda
     assert cr.decidir("razonada", OPC, an, "Z", None, None)[0] is None         # letra inválida
 
@@ -62,11 +63,13 @@ def test_responder_razonada_devuelve_salida_ensamblable():
     assert [r for _, r in motor.llamadas].count(True) == 1 and motor.llamadas[0][1] is True
 
 
-def test_voto_corrige_cuando_ens_y_evidencia_coinciden():
+def test_voto_corrige_con_desacuerdo_fuerte_del_ensamble():
     motor = MotorRazona("A")                    # el razonamiento se equivoca; las permutaciones no
+    motor.probabilidades_letras = lambda m, letras, reiniciar=True: {
+        l: (0.85 if l == MotorRazona._letra_de(m) else 0.05) for l in letras}
     salida = cr.responder(MC, [dict(p) for p in PASAJES], motor, politica="voto")
     assert salida["decision_cerrada"]["letra_ens"] == "B"
-    assert salida["decision_cerrada"]["letra_evidencia"] == "B"
+    assert salida["decision_cerrada"]["regla"] == "voto_ens"
     assert salida["respuesta_correcta"] == "B"
     assert salida["justificacion"]              # la de la opción elegida, no vacía
 

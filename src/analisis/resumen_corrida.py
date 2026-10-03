@@ -18,6 +18,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+from src.generacion.cerradas_razonar import UMBRAL_RAZONADA, UMBRAL_VOTO
+
 RAIZ = Path(__file__).resolve().parents[2]
 
 
@@ -35,7 +37,9 @@ def politicas_cerradas(entrega: list[dict], muestra: list[dict]) -> dict:
         d = (sub.get(i) or {}).get("decision_cerrada") or {}
         final = (sub.get(i) or {}).get("respuesta_correcta")
         razonada, ens, evid = d.get("letra_razonada") or d.get("letra_modelo"), d.get("letra_ens"), d.get("letra_evidencia")
-        voto = ens if (ens and ens == evid and ens != razonada) else razonada
+        p = d.get("p_ens") or {}
+        voto = ens if (ens and ens != razonada and p.get(ens, 0) >= UMBRAL_VOTO
+                       and p.get(razonada, 0) <= UMBRAL_RAZONADA) else razonada
         letras = {"final": final, "razonada": razonada, "resolver": d.get("letra_resolver"),
                   "ens": ens, "evidencia": evid, "voto": voto}
         for nombre, letra in letras.items():

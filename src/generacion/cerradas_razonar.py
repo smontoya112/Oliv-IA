@@ -9,7 +9,8 @@ veredicto. Aquí cada pregunta pasa por tres señales sobre los MISMOS pasajes:
 2. Logits: probabilidad de cada letra sin razonar, promediada sobre permutaciones cíclicas de las
    opciones (quita el sesgo de posición). Si hay opciones compuestas ("todas", "A y B"…) no se
    permuta: sus referencias dependen del orden.
-3. Evidencia: la opción cuyos pasajes `via="opcion"` tienen el mayor puntaje del reranker.
+3. Evidencia: la opción cuyos pasajes `via="opcion"` tienen el mayor puntaje del reranker (solo
+   diagnóstico: sola acierta 4/15 en `sample_50`, el azar, así que NO entra en ninguna política).
 
 La letra final la decide `decidir` con una política fija (ver POLITICAS). Todas las señales se
 guardan en `decision_cerrada` para poder comparar políticas sin volver a generar.
@@ -31,6 +32,8 @@ POLITICA_DEFECTO = "razonada"
 MAX_PENSAR = 1200
 MAX_FINAL = 700
 PERMUTACIONES = 4
+UMBRAL_VOTO = 0.6          # el ensamble tiene que estar bastante seguro de su letra...
+UMBRAL_RAZONADA = 0.15     # ...y darle poca probabilidad a la del razonamiento
 
 _INSTRUCCION_RAZONAR = (
     "\n\nAntes de responder, razona de forma breve y ordenada: (1) identifica la norma o regla que "
@@ -113,7 +116,8 @@ def decidir(politica: str, opciones: dict, analisis: dict, letra_razonada: str |
     - razonada: la letra del JSON final tras pensar.
     - resolver: igual, pero con las reglas de opciones compuestas de src.generacion.cerradas.
     - ens: argmax de la probabilidad media de las permutaciones (sin razonar).
-    - voto: la razonada, salvo que el ensamble y la evidencia coincidan en OTRA letra."""
+    - voto: la razonada, salvo desacuerdo fuerte del ensamble: P(ens) >= UMBRAL_VOTO y
+      P(razonada) <= UMBRAL_RAZONADA."""
     letras = set(opciones)
     razonada = letra_razonada if letra_razonada in letras else None
     ens = _argmax(p_ens) if p_ens else None
@@ -123,8 +127,8 @@ def decidir(politica: str, opciones: dict, analisis: dict, letra_razonada: str |
         letra, regla = cerradas.resolver(opciones, analisis, razonada)
         return (letra if letra in letras else razonada), regla
     if politica == "voto":
-        if ens and ens == letra_evidencia and ens != razonada:
-            return ens, "voto_ens_evidencia"
+        if ens and ens != razonada and p_ens[ens] >= UMBRAL_VOTO                 and p_ens.get(razonada, 0.0) <= UMBRAL_RAZONADA:
+            return ens, "voto_ens"
         return (razonada or ens), "razonada"
     return razonada, "razonada"
 
