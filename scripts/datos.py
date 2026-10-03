@@ -4,9 +4,10 @@ git no puede llevar data/ (cientos de MB, miles de archivos), así que vive en u
 privado de HF y data/DATA_VERSION (esto sí va a git) fija el commit exacto del dataset: todos
 bajan los mismos bytes.
 
-    python -m scripts.datos subir            # sube lo que hay en data/ y escribe data/DATA_VERSION
+    python -m scripts.datos subir            # sube TODO data/ (menos cachés y data/lote) y escribe data/DATA_VERSION
     python -m scripts.datos bajar            # baja exactamente la versión de data/DATA_VERSION
-    python -m scripts.datos bajar --sin-indice   # solo corpus y chunks (sin faiss/embeddings/bm25)
+    python -m scripts.datos bajar --sin-indice   # sin data/index (faiss/embeddings/bm25)
+    python -m scripts.datos bajar --sin-raw      # sin data/raw, data/descartados ni data/proximidad
     python -m scripts.datos estado           # qué hay en data/ frente a la versión fijada
 
 El token va en HF_TOKEN (variable de entorno o .env en la raíz): escritura para `subir`,
@@ -26,12 +27,15 @@ RAIZ = Path(__file__).resolve().parents[1]
 DATA = RAIZ / "data"
 VERSION = DATA / "DATA_VERSION"
 
-CORPUS = ["md/*.md", "corpus_manifest.json", "duplicados.json", "alias_normas.yaml",
-          "processed/chunks.parquet", "processed/articulos.parquet",
-          "processed/reporte_segmentacion.json"]
-INDICE = ["index/faiss.index", "index/embeddings.npy", "index/chunk_ids.json",
-          "index/citas_chunks.parquet", "index/index_config.json", "index/eval_recuperacion.json",
-          "index/bm25/**"]
+# Se sube todo data/ salvo esto: cachés de HF, la corrida del sábado y el archivo de preguntas.
+SIEMPRE_FUERA = [".cache/**", "lote/**", "test_992.jsonl", "**/__pycache__/**", "**/.DS_Store"]
+INDICE = ["index/**"]
+CRUDO = ["raw/**", "descartados/**", "proximidad/**"]
+
+
+def _ignorar(args) -> list[str]:
+    return (SIEMPRE_FUERA + (INDICE if getattr(args, "sin_indice", False) else [])
+            + (CRUDO if getattr(args, "sin_raw", False) else []))
 
 
 def _token() -> str:
@@ -55,13 +59,10 @@ def _api():
 def subir(args) -> None:
     api = _api()
     api.create_repo(REPO, repo_type="dataset", private=True, exist_ok=True)
-    patrones = CORPUS + ([] if args.sin_indice else INDICE)
-    faltan = [p for p in patrones if "*" not in p and not (DATA / p).exists()]
-    if faltan:
-        sys.exit("Faltan en data/: " + ", ".join(faltan))
-    print(f"subiendo {len(patrones)} patrones de {DATA} a {REPO} (reanudable: si se corta, repetir)")
+    ign = _ignorar(args)
+    print(f"subiendo {DATA} a {REPO} (ignora: {', '.join(ign)}). Reanudable: si se corta, repetir.")
     api.upload_large_folder(repo_id=REPO, repo_type="dataset", folder_path=str(DATA),
-                            allow_patterns=patrones, num_workers=4)
+                            ignore_patterns=ign, num_workers=4)
     sha = api.dataset_info(REPO).sha
     VERSION.write_text(sha + "\n", encoding="utf-8")
     print(f"listo. versión {sha[:12]} escrita en {VERSION.relative_to(RAIZ)}: commit de git de ese archivo.")
@@ -75,10 +76,9 @@ def bajar(args) -> None:
         rev = VERSION.read_text(encoding="utf-8").strip()
     else:
         sys.exit("No hay data/DATA_VERSION: haga git pull o pase --version <commit>.")
-    patrones = CORPUS + ([] if args.sin_indice else INDICE)
     DATA.mkdir(exist_ok=True)
     snapshot_download(REPO, repo_type="dataset", revision=rev, local_dir=str(DATA),
-                      allow_patterns=patrones, token=_token(), max_workers=8)
+                      ignore_patterns=_ignorar(args), token=_token(), max_workers=8)
     print(f"data/ en la versión {rev[:12]} ({REPO})")
 
 
@@ -111,7 +111,8 @@ def main() -> None:
         p = sub.add_parser(nombre)
         p.set_defaults(f=f)
         if nombre != "estado":
-            p.add_argument("--sin-indice", action="store_true")
+            p.add_argument("--sin-indice", action="store_true", help="no tocar data/index")
+            p.add_argument("--sin-raw", action="store_true", help="no tocar raw/, descartados/ ni proximidad/")
         if nombre == "bajar":
             p.add_argument("--version", help="commit del dataset (por defecto data/DATA_VERSION)")
     args = ap.parse_args()
