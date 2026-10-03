@@ -1,0 +1,51 @@
+# Entorno de ejecución de la entrega (Python 3.12). Versiones tal como corrieron en hypatia
+# (nodos con Quadro RTX 6000, driver CUDA 11.8). Instalación completa y compilación de llama.cpp:
+#
+#     pip install -r requirements.txt
+#     CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_ARCHITECTURES=75 -DGGML_CUDA_NO_VMM=ON" FORCE_CMAKE=1 \
+#         pip install --no-cache-dir llama-cpp-python==0.3.36
+#
+# (en hypatia lo hacen jobs/instalar_torch_gpu.sh y jobs/instalar_responder.sh; ver el README).
+# llama-cpp-python se compila aparte porque necesita CUDA y las ruedas precompiladas ya no traen CUDA 11.8.
+# CMAKE_CUDA_ARCHITECTURES=75 es Turing; para otra GPU, la arquitectura que corresponda (86 para Ampere...).
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# --- recuperación, índice y generación (src/indice, src/recuperacion, src/generacion, src/verificacion) ---
+torch==2.7.1+cu118
+transformers==4.57.6
+tokenizers==0.22.2
+safetensors==0.8.0
+huggingface-hub==0.36.2
+faiss-cpu==1.15.1
+bm25s==0.3.11
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+scipy==1.18.1
+pyyaml==6.0.3
+ranx==0.3.21
+charset-normalizer==3.5.2
+pydantic==2.13.5
+jsonschema>=4.0          # opcional: valida submissions.jsonl contra schema/submission.schema.json
+
+# --- interfaz y API de verificación en vivo (src/api.py, interfaz/) ---
+fastapi==0.142.2
+uvicorn==0.54.0
+
+# --- ingesta del corpus (src/descarga, src/procesamiento) ---
+httpx>=0.28.1
+beautifulsoup4>=4.15.0
+lxml>=6.1.3
+markdownify>=1.2.3
+olefile>=0.47
+pymupdf>=1.28.2
+ftfy>=6.3.1
+docling>=2.0             # OCR de PDF escaneados (opcional)
+# playwright>=1.45       # opcional: fuentes de tipo html_js
+
+# --- pruebas ---
+pytest>=9.1.1
+
+# El juez de texto libre (scripts/evaluate.py --ragas) tiene sus propias dependencias:
+#     pip install -r scripts/requirements-evaluador.txt
