@@ -20,7 +20,8 @@ class LlmFalso:
         self.resets += 1
 
     def tokenize(self, datos, add_bos=False, special=False):
-        return [ord(datos.decode()[0])] if len(datos) == 1 else list(range(len(datos.split())))
+        texto = datos.decode()
+        return [ord(texto[-1])] if len(texto) <= 2 else list(range(len(texto.split())))
 
     def create_completion(self, prompt, max_tokens, temperature, seed, stop=None,
                           grammar=None, logits_processor=None, repeat_penalty=None):

@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import os
+import time
 from collections import defaultdict
 
 from src.verificacion import abstencion
@@ -167,10 +168,14 @@ def responder(item: dict, pasajes: list[dict], motor, politica: str | None = Non
     letras = sorted(opciones)
 
     p_ens, por_perm = None, []
+    t0 = time.perf_counter()
     if k_perm > 0 and hasattr(motor, "probabilidades_letras"):
         p_ens, por_perm = promedio_permutaciones(motor, item, pasajes, presupuesto, k_perm, contar)
+    t_ens = time.perf_counter() - t0
+    t0 = time.perf_counter()
     pens = motor.pensar(mensajes_cerrada(item, pasajes, presupuesto, contar), esquema_item(item),
                         max_pensar=max_pensar, max_final=MAX_FINAL, reiniciar=p_ens is None)
+    t_pensar = time.perf_counter() - t0
     try:
         final = json.loads(pens["final"])
         final = final if isinstance(final, dict) else None
@@ -188,5 +193,6 @@ def responder(item: dict, pasajes: list[dict], motor, politica: str | None = Non
                 "letra_final": letra,
                 "p_ens": {l: round(v, 4) for l, v in (p_ens or {}).items()},
                 "p_permutaciones": por_perm, "tokens_pensar": pens["tokens_pensar"],
+                "segundos": {"ens": round(t_ens, 1), "pensar": round(t_pensar, 1)},
                 "pensamiento_cortado": pens["cortado"]}
     return salida_final(item, final, letra, decision)

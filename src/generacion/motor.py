@@ -125,15 +125,16 @@ class Motor:
 
     def probabilidades_letras(self, mensajes: list[dict], letras: list[str],
                               reiniciar: bool = True) -> dict[str, float]:
-        """Probabilidad (softmax solo entre `letras`) de que la respuesta empiece por cada letra,
-        sin razonamiento: se deja el bloque de pensamiento vacío y se lee el primer token.
-        Un solo prefill y ninguna generación: ~2-3 s con 4.500 tokens de contexto."""
+        """Probabilidad (softmax solo entre `letras`) de que la respuesta sea cada letra, sin
+        razonamiento: el bloque de pensamiento va vacío y la respuesta arranca con "Respuesta:",
+        así el siguiente token es la letra (sin ese ancla el modelo empieza con otra cosa y las
+        letras salen casi uniformes). Se suma la masa de " A" y "A". Un solo prefill, sin generar."""
         import numpy as np
         from llama_cpp import LogitsProcessorList
-        ids = {}
+        ids: dict[str, list[int]] = {}
         for l in letras:
-            t = self.llm.tokenize(l.encode("utf-8"), add_bos=False)
-            ids[l] = t[0]
+            variantes = {self.llm.tokenize(v.encode("utf-8"), add_bos=False)[0] for v in (f" {l}", l)}
+            ids[l] = sorted(variantes)
         capturado: dict = {}
 
         def captura(_ids, scores):
@@ -142,10 +143,11 @@ class Motor:
 
         if reiniciar:
             self.reiniciar()
-        prompt = self.chatml(mensajes, "<think>\n\n</think>\n\n")
+        prompt = self.chatml(mensajes, "<think>\n\n</think>\n\nRespuesta:")
         self.llm.create_completion(prompt=prompt, max_tokens=1, temperature=0.0, seed=SEMILLA,
                                    logits_processor=LogitsProcessorList([captura]))
-        lg = np.array([capturado["logits"][ids[l]] for l in letras])
-        lg -= lg.max()
-        p = np.exp(lg) / np.exp(lg).sum()
+        lg = capturado["logits"]
+        mx = lg.max()
+        masa = np.array([sum(np.exp(lg[i] - mx) for i in ids[l]) for l in letras])
+        p = masa / masa.sum()
         return {l: float(x) for l, x in zip(letras, p)}
