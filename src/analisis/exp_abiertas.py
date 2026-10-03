@@ -30,6 +30,10 @@ VARIANTES = {
     "A2_plantilla_expansion": ["plantilla", "expansion"],
     "A3_completa": ["plantilla", "expansion", "revision"],
     "A4_expansion": ["expansion"],
+    # con la plantilla acortada (analisis <= 200 palabras): A1_plantilla/A2/A3 de abiertas_1 usaban la larga
+    "B1_plantilla_corta": ["plantilla"],
+    "B2_corta_expansion": ["plantilla", "expansion"],
+    "B3_corta_expansion_revision": ["plantilla", "expansion", "revision"],
 }
 
 

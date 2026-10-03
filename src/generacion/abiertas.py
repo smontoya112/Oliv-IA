@@ -21,6 +21,7 @@ import os
 import re
 
 PIEZAS = ("plantilla", "expansion", "revision")
+LIMITES_ANALISIS = (7, 200)         # (oraciones, palabras) máximas del campo "analisis" con la plantilla
 MAX_TOKENS_CONSULTAS = 260
 MAX_TOKENS_REVISION = 1100
 
@@ -93,16 +94,17 @@ def instrucciones(item: dict) -> str:
     cabecera = (f"Pregunta abierta: caso jurídico con {len(qs)} pregunta(s) por responder: {numeradas}"
                 if qs else "Pregunta abierta: caso jurídico.")
     return (f"{cabecera}\n"
-            "Campos del JSON:\n"
-            "- \"marco_normativo\": de 2 a 4 oraciones con la norma o normas que gobiernan el punto (nombre completo y "
-            "artículo) y, si aparece en los pasajes, la sentencia que fija la regla. Incluye la norma o sentencia que "
-            "el enunciado mencione.\n"
-            "- \"analisis\": de 6 a 9 oraciones, un párrafo por cada pregunta del caso y en el mismo orden. Cada "
-            f"párrafo empieza con la respuesta directa, enuncia la regla y la aplica a los hechos. {ayudas} "
+            "Campos del JSON (en total, unas 300 palabras):\n"
+            "- \"marco_normativo\": de 1 a 3 oraciones (máximo 70 palabras) con la norma o normas que gobiernan el punto "
+            "(nombre completo y artículo) y, si aparece en los pasajes, la sentencia que fija la regla. Incluye la norma "
+            "o sentencia que el enunciado mencione.\n"
+            "- \"analisis\": de 4 a 7 oraciones (máximo 180 palabras) que contesten cada pregunta del caso en el mismo "
+            f"orden. Empieza con la respuesta directa, enuncia la regla y aplícala a los hechos. {ayudas} "
             "No repitas el marco normativo ni agregues relleno.\n"
-            "- \"jurisprudencia\": las sentencias de los pasajes que aplican al caso y la regla que fijan. Si ninguna "
-            "aplica, escribe en una oración el principio jurídico en juego; no escribas que no hay jurisprudencia.\n"
-            "- \"conclusion\": una oración por pregunta del caso, con la respuesta final.")
+            "- \"jurisprudencia\": una o dos oraciones con la sentencia de los pasajes que aplica al caso y la regla que "
+            "fija. Si ninguna aplica, escribe en una oración el principio jurídico en juego; no escribas que no hay "
+            "jurisprudencia.\n"
+            "- \"conclusion\": una oración por pregunta del caso (máximo 50 palabras en total), con la respuesta final.")
 
 
 # ------------------------------------------------------------------ consultas de búsqueda (expansión)

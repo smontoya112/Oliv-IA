@@ -119,7 +119,7 @@ def normalizar(item: dict, salida: dict) -> dict:
                 "referencia_legal": _texto(salida.get("referencia_legal"))}
     if f == "open_ended":
         return {"marco_normativo": _texto(salida.get("marco_normativo")),
-                "analisis": recortar(_texto(salida.get("analisis")), 8),
+                "analisis": recortar(_texto(salida.get("analisis")), *(item.get("_limites") or (8, None))),
                 "jurisprudencia": _texto(salida.get("jurisprudencia")),
                 "conclusion": _texto(salida.get("conclusion"))}
     raise ValueError(f"formato desconocido: {f!r}")

@@ -96,8 +96,10 @@ def _salida_razonada(item: dict, pasajes: list[dict], motor, presupuesto: int, c
         if copiada:
             return it, copiada
     texto, _ = formatear_pasajes(pasajes, presupuesto, contar)
-    instr = (abiertas.instrucciones(it) if it["formato"] == "open_ended" and "plantilla" in piezas
-             else subtarea.instrucciones(it))
+    if it["formato"] == "open_ended" and "plantilla" in piezas:
+        instr, it["_limites"] = abiertas.instrucciones(it), abiertas.LIMITES_ANALISIS
+    else:
+        instr = subtarea.instrucciones(it)
     msgs = construir_mensajes(it, texto, None, instrucciones=instr,
                               sistema=SISTEMA_LIBRE if os.environ.get("OLIVIA_SISTEMA_LIBRE", "1") == "1" else None)
     crudo = motor.generar_lote([msgs], [esquema_item(it)],
