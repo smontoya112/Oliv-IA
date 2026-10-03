@@ -173,5 +173,14 @@
   "hipotesis": "Repetición independiente de final_1 con el código final.",
   "decision": "adoptar",
   "razon": "idéntica a final_1 línea por línea (salvo latencias) y 25/25 ítems idénticos entre Responder (en vivo) y lote."
+ },
+ "final_3": {
+  "modelo": "qwen3-8b",
+  "estrategia": "razonada (ens en cerradas + plantillas por sub-tarea)",
+  "contexto": "base",
+  "indice": "data/index_base",
+  "hipotesis": "Tercera corrida independiente con el commit final (incluye el respaldo ante excepciones).",
+  "decision": "adoptar",
+  "razon": "idéntica línea por línea a final_2 (salvo latencias)."
  }
 }

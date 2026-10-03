@@ -25,6 +25,7 @@ Cerradas: aciertos sobre las 15 de `sample_50` (un ítem = 0,067; ruido de ±1-2
 | antes_base | qwen3-8b | actual  | base | 7/15 | 0.35 | 0.8571 | 34.97 · 16.67 · 49.63 | **línea base** |
 | final_1 | qwen3-8b | razonada (ens en cerradas + plantillas por sub-tarea)  | base | 11/15 | 0.3879 | 0.8571 | 22.26 · 13.04 · 44.71 | **adoptar** |
 | final_2 | qwen3-8b | razonada (ens en cerradas + plantillas por sub-tarea)  | base | 11/15 | 0.3879 | 0.8571 | 22.36 · 13.09 · 44.42 | **adoptar** |
+| final_3 | qwen3-8b | razonada (ens en cerradas + plantillas por sub-tarea)  | base | 11/15 | 0.3879 | 0.8571 | 23.09 · 13.46 · 46.74 | **adoptar** |
 
 ## Hipótesis y razones
 
@@ -47,3 +48,4 @@ Cerradas: aciertos sobre las 15 de `sample_50` (un ítem = 0,067; ruido de ±1-2
 - **antes_base** — Estrategia anterior sobre el corpus base, mismo arnés. → línea base: 7/15: el corpus base ayuda a las citas (0,857) pero no a la estrategia de un JSON por pregunta.
 - **final_1** — Configuración adoptada, camino real src.lote. → adoptar: 11/15, citas 0,857, abstención 0,86, total automático 40,4/50, proxy 0,388, 18 s por pregunta; verificación en vivo idéntica.
 - **final_2** — Repetición independiente de final_1 con el código final. → adoptar: idéntica a final_1 línea por línea (salvo latencias) y 25/25 ítems idénticos entre Responder (en vivo) y lote.
+- **final_3** — Tercera corrida independiente con el commit final (incluye el respaldo ante excepciones). → adoptar: idéntica línea por línea a final_2 (salvo latencias).
